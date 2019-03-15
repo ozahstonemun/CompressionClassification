@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q001.jpg
+96.74% : pineapple
+ 0.48% : custard apple
+ 0.33% : acorn
+ 0.11% : strawberry
+ 0.08% : cleaver
+ 0.05% : banana
+ 0.03% : thimble
+ 0.03% : ear
+ 0.03% : bonnet
+ 0.02% : maraca
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q002.jpg
+96.74% : pineapple
+ 0.48% : custard apple
+ 0.33% : acorn
+ 0.11% : strawberry
+ 0.08% : cleaver
+ 0.05% : banana
+ 0.03% : thimble
+ 0.03% : ear
+ 0.03% : bonnet
+ 0.02% : maraca
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q003.jpg
+96.99% : pineapple
+ 0.39% : custard apple
+ 0.35% : acorn
+ 0.11% : strawberry
+ 0.06% : cleaver
+ 0.05% : banana
+ 0.03% : ear
+ 0.02% : thimble
+ 0.02% : maraca
+ 0.02% : bonnet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q004.jpg
+96.65% : pineapple
+ 0.60% : custard apple
+ 0.46% : acorn
+ 0.14% : strawberry
+ 0.10% : banana
+ 0.07% : ear
+ 0.05% : honeycomb
+ 0.04% : thimble
+ 0.03% : maraca
+ 0.03% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q005.jpg
+90.86% : pineapple
+ 3.47% : custard apple
+ 0.89% : acorn
+ 0.17% : thimble
+ 0.15% : strawberry
+ 0.12% : banana
+ 0.11% : honeycomb
+ 0.07% : ear
+ 0.06% : bonnet
+ 0.05% : maraca
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q006.jpg
+99.07% : pineapple
+ 0.13% : custard apple
+ 0.04% : banana
+ 0.02% : acorn
+ 0.02% : ear
+ 0.01% : jackfruit
+ 0.01% : honeycomb
+ 0.01% : window screen
+ 0.01% : strawberry
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q007.jpg
+97.77% : pineapple
+ 0.77% : custard apple
+ 0.18% : acorn
+ 0.05% : banana
+ 0.03% : ear
+ 0.03% : strawberry
+ 0.03% : jackfruit
+ 0.02% : honeycomb
+ 0.01% : pomegranate
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q008.jpg
+96.58% : pineapple
+ 0.47% : acorn
+ 0.36% : custard apple
+ 0.09% : banana
+ 0.07% : ear
+ 0.06% : honeycomb
+ 0.04% : jackfruit
+ 0.03% : strawberry
+ 0.03% : pomegranate
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q009.jpg
+97.50% : pineapple
+ 0.33% : custard apple
+ 0.18% : acorn
+ 0.07% : banana
+ 0.04% : ear
+ 0.03% : strawberry
+ 0.02% : jackfruit
+ 0.02% : honeycomb
+ 0.02% : pomegranate
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q010.jpg
+97.24% : pineapple
+ 0.36% : custard apple
+ 0.17% : acorn
+ 0.10% : banana
+ 0.03% : pomegranate
+ 0.03% : strawberry
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : window screen
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q011.jpg
+97.98% : pineapple
+ 0.20% : custard apple
+ 0.12% : acorn
+ 0.09% : banana
+ 0.04% : jackfruit
+ 0.03% : ear
+ 0.02% : honeycomb
+ 0.02% : strawberry
+ 0.02% : pomegranate
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q012.jpg
+98.51% : pineapple
+ 0.12% : custard apple
+ 0.07% : acorn
+ 0.05% : banana
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.01% : strawberry
+ 0.01% : seat belt
+ 0.01% : honeycomb
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q013.jpg
+98.74% : pineapple
+ 0.06% : custard apple
+ 0.05% : acorn
+ 0.05% : banana
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : pomegranate
+ 0.01% : corn
+ 0.01% : seat belt
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q014.jpg
+98.28% : pineapple
+ 0.07% : custard apple
+ 0.05% : acorn
+ 0.04% : banana
+ 0.03% : seat belt
+ 0.03% : ear
+ 0.03% : scabbard
+ 0.02% : jackfruit
+ 0.01% : cleaver
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q015.jpg
+98.61% : pineapple
+ 0.06% : custard apple
+ 0.04% : acorn
+ 0.03% : banana
+ 0.02% : scabbard
+ 0.02% : seat belt
+ 0.02% : cleaver
+ 0.02% : jackfruit
+ 0.02% : window screen
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q016.jpg
+98.65% : pineapple
+ 0.05% : custard apple
+ 0.04% : acorn
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.03% : seat belt
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cleaver
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q017.jpg
+98.95% : pineapple
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.03% : seat belt
+ 0.03% : banana
+ 0.02% : acorn
+ 0.01% : cleaver
+ 0.01% : jackfruit
+ 0.01% : ear
+ 0.01% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q018.jpg
+98.46% : pineapple
+ 0.07% : custard apple
+ 0.04% : acorn
+ 0.03% : banana
+ 0.02% : scabbard
+ 0.02% : seat belt
+ 0.02% : ear
+ 0.01% : cleaver
+ 0.01% : jackfruit
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q019.jpg
+98.01% : pineapple
+ 0.08% : custard apple
+ 0.06% : acorn
+ 0.05% : scabbard
+ 0.04% : seat belt
+ 0.04% : banana
+ 0.03% : cleaver
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.01% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q020.jpg
+98.25% : pineapple
+ 0.07% : custard apple
+ 0.05% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.03% : cleaver
+ 0.02% : seat belt
+ 0.02% : ear
+ 0.01% : jackfruit
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q021.jpg
+98.52% : pineapple
+ 0.05% : custard apple
+ 0.04% : acorn
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.02% : seat belt
+ 0.02% : ear
+ 0.02% : cleaver
+ 0.02% : jackfruit
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q022.jpg
+98.46% : pineapple
+ 0.06% : custard apple
+ 0.04% : acorn
+ 0.04% : scabbard
+ 0.03% : banana
+ 0.02% : seat belt
+ 0.02% : cleaver
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q023.jpg
+98.44% : pineapple
+ 0.05% : custard apple
+ 0.04% : banana
+ 0.04% : acorn
+ 0.03% : scabbard
+ 0.02% : seat belt
+ 0.02% : ear
+ 0.01% : cleaver
+ 0.01% : strawberry
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q024.jpg
+98.23% : pineapple
+ 0.08% : acorn
+ 0.08% : custard apple
+ 0.05% : banana
+ 0.05% : scabbard
+ 0.03% : seat belt
+ 0.02% : ear
+ 0.02% : cleaver
+ 0.02% : strawberry
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q025.jpg
+98.05% : pineapple
+ 0.08% : custard apple
+ 0.07% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.03% : cleaver
+ 0.02% : ear
+ 0.02% : seat belt
+ 0.02% : bearskin
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q026.jpg
+98.77% : pineapple
+ 0.03% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.03% : acorn
+ 0.02% : seat belt
+ 0.02% : bearskin
+ 0.02% : ear
+ 0.01% : cleaver
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q027.jpg
+98.17% : pineapple
+ 0.05% : custard apple
+ 0.05% : acorn
+ 0.05% : scabbard
+ 0.05% : banana
+ 0.03% : ear
+ 0.03% : seat belt
+ 0.02% : cleaver
+ 0.02% : jackfruit
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q028.jpg
+98.44% : pineapple
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.04% : acorn
+ 0.04% : scabbard
+ 0.03% : ear
+ 0.02% : cleaver
+ 0.02% : seat belt
+ 0.02% : jackfruit
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q029.jpg
+98.55% : pineapple
+ 0.04% : acorn
+ 0.04% : custard apple
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.03% : ear
+ 0.02% : seat belt
+ 0.02% : cleaver
+ 0.02% : corn
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q030.jpg
+98.76% : pineapple
+ 0.04% : acorn
+ 0.03% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : ear
+ 0.02% : seat belt
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q031.jpg
+98.75% : pineapple
+ 0.04% : banana
+ 0.04% : acorn
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.03% : ear
+ 0.02% : corn
+ 0.02% : seat belt
+ 0.02% : jackfruit
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q032.jpg
+98.71% : pineapple
+ 0.03% : acorn
+ 0.03% : banana
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.03% : ear
+ 0.02% : seat belt
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q033.jpg
+98.19% : pineapple
+ 0.05% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : ear
+ 0.03% : corn
+ 0.03% : bearskin
+ 0.03% : seat belt
+ 0.02% : custard apple
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q034.jpg
+98.31% : pineapple
+ 0.05% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.03% : ear
+ 0.03% : corn
+ 0.03% : custard apple
+ 0.02% : bearskin
+ 0.02% : jackfruit
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q035.jpg
+98.77% : pineapple
+ 0.03% : acorn
+ 0.03% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : seat belt
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q036.jpg
+98.72% : pineapple
+ 0.04% : banana
+ 0.03% : acorn
+ 0.03% : scabbard
+ 0.03% : ear
+ 0.02% : custard apple
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : seat belt
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q037.jpg
+98.74% : pineapple
+ 0.04% : banana
+ 0.03% : acorn
+ 0.03% : ear
+ 0.03% : corn
+ 0.03% : scabbard
+ 0.02% : custard apple
+ 0.02% : jackfruit
+ 0.02% : seat belt
+ 0.01% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q038.jpg
+98.79% : pineapple
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.03% : acorn
+ 0.03% : custard apple
+ 0.02% : ear
+ 0.02% : bearskin
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q039.jpg
+98.79% : pineapple
+ 0.03% : acorn
+ 0.03% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : seat belt
+ 0.02% : corn
+ 0.01% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q040.jpg
+98.85% : pineapple
+ 0.03% : acorn
+ 0.03% : banana
+ 0.03% : scabbard
+ 0.02% : custard apple
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : bearskin
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q041.jpg
+98.77% : pineapple
+ 0.03% : acorn
+ 0.03% : banana
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q042.jpg
+98.70% : pineapple
+ 0.04% : acorn
+ 0.04% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : strawberry
+ 0.01% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q043.jpg
+98.73% : pineapple
+ 0.04% : acorn
+ 0.03% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : strawberry
+ 0.01% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q044.jpg
+98.80% : pineapple
+ 0.04% : banana
+ 0.03% : acorn
+ 0.03% : custard apple
+ 0.02% : scabbard
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.01% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q045.jpg
+98.86% : pineapple
+ 0.04% : banana
+ 0.03% : acorn
+ 0.03% : custard apple
+ 0.02% : scabbard
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.01% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q046.jpg
+98.75% : pineapple
+ 0.03% : banana
+ 0.03% : acorn
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : strawberry
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q047.jpg
+98.74% : pineapple
+ 0.04% : banana
+ 0.04% : acorn
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : strawberry
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q048.jpg
+98.60% : pineapple
+ 0.04% : acorn
+ 0.04% : banana
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q049.jpg
+98.71% : pineapple
+ 0.04% : banana
+ 0.04% : acorn
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q050.jpg
+98.71% : pineapple
+ 0.04% : banana
+ 0.04% : acorn
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q051.jpg
+98.70% : pineapple
+ 0.04% : banana
+ 0.04% : acorn
+ 0.03% : custard apple
+ 0.03% : scabbard
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q052.jpg
+98.69% : pineapple
+ 0.04% : acorn
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q053.jpg
+98.66% : pineapple
+ 0.04% : acorn
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q054.jpg
+98.64% : pineapple
+ 0.05% : acorn
+ 0.04% : banana
+ 0.03% : scabbard
+ 0.03% : custard apple
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q055.jpg
+98.38% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q056.jpg
+98.37% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q057.jpg
+98.28% : pineapple
+ 0.06% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.03% : corn
+ 0.02% : bearskin
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q058.jpg
+98.08% : pineapple
+ 0.07% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.05% : custard apple
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.02% : seat belt
+ 0.02% : ear
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q059.jpg
+98.08% : pineapple
+ 0.07% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.05% : custard apple
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.02% : ear
+ 0.02% : seat belt
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q060.jpg
+98.12% : pineapple
+ 0.07% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.05% : custard apple
+ 0.03% : jackfruit
+ 0.02% : bearskin
+ 0.02% : ear
+ 0.02% : cleaver
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q061.jpg
+98.33% : pineapple
+ 0.06% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : bearskin
+ 0.02% : corn
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q062.jpg
+98.09% : pineapple
+ 0.07% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.05% : custard apple
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q063.jpg
+98.24% : pineapple
+ 0.06% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.04% : custard apple
+ 0.02% : bearskin
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cleaver
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q064.jpg
+98.12% : pineapple
+ 0.07% : acorn
+ 0.05% : scabbard
+ 0.05% : banana
+ 0.05% : custard apple
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.02% : strawberry
+ 0.02% : ear
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q065.jpg
+98.35% : pineapple
+ 0.05% : acorn
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.04% : banana
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.02% : corn
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q066.jpg
+98.56% : pineapple
+ 0.04% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.03% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.02% : corn
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q067.jpg
+98.59% : pineapple
+ 0.05% : acorn
+ 0.04% : banana
+ 0.04% : scabbard
+ 0.03% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q068.jpg
+98.37% : pineapple
+ 0.06% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q069.jpg
+98.45% : pineapple
+ 0.05% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.03% : custard apple
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q070.jpg
+98.31% : pineapple
+ 0.06% : acorn
+ 0.04% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.03% : corn
+ 0.02% : cleaver
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q071.jpg
+98.25% : pineapple
+ 0.07% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : strawberry
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q072.jpg
+98.29% : pineapple
+ 0.06% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : strawberry
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q073.jpg
+98.19% : pineapple
+ 0.07% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.03% : corn
+ 0.03% : custard apple
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : bearskin
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q074.jpg
+98.36% : pineapple
+ 0.06% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.03% : custard apple
+ 0.03% : ear
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : bearskin
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q075.jpg
+98.34% : pineapple
+ 0.06% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.03% : custard apple
+ 0.03% : ear
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : bearskin
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q076.jpg
+98.43% : pineapple
+ 0.06% : acorn
+ 0.04% : banana
+ 0.04% : scabbard
+ 0.03% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q077.jpg
+98.26% : pineapple
+ 0.05% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.03% : custard apple
+ 0.03% : ear
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : bearskin
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q078.jpg
+98.36% : pineapple
+ 0.06% : acorn
+ 0.04% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : bearskin
+ 0.02% : strawberry
+ 0.02% : ear
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q079.jpg
+98.32% : pineapple
+ 0.06% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : strawberry
+ 0.02% : bearskin
+ 0.02% : corn
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q080.jpg
+98.23% : pineapple
+ 0.07% : acorn
+ 0.05% : banana
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : ear
+ 0.02% : bearskin
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q081.jpg
+98.11% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q082.jpg
+97.99% : pineapple
+ 0.07% : acorn
+ 0.05% : banana
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q083.jpg
+98.08% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : custard apple
+ 0.04% : scabbard
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.03% : corn
+ 0.02% : strawberry
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q084.jpg
+98.12% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q085.jpg
+98.28% : pineapple
+ 0.05% : acorn
+ 0.05% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q086.jpg
+98.27% : pineapple
+ 0.06% : acorn
+ 0.05% : scabbard
+ 0.05% : banana
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q087.jpg
+98.19% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.03% : corn
+ 0.03% : ear
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q088.jpg
+98.10% : pineapple
+ 0.07% : acorn
+ 0.05% : banana
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q089.jpg
+98.10% : pineapple
+ 0.07% : acorn
+ 0.06% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q090.jpg
+98.24% : pineapple
+ 0.06% : acorn
+ 0.06% : scabbard
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : bearskin
+ 0.02% : corn
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q091.jpg
+98.13% : pineapple
+ 0.07% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : bearskin
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q092.jpg
+98.11% : pineapple
+ 0.06% : acorn
+ 0.06% : scabbard
+ 0.05% : banana
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : bearskin
+ 0.02% : ear
+ 0.02% : strawberry
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q093.jpg
+97.97% : pineapple
+ 0.07% : acorn
+ 0.06% : banana
+ 0.05% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.03% : corn
+ 0.03% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q094.jpg
+98.14% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : corn
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q095.jpg
+98.21% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.03% : corn
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q096.jpg
+98.30% : pineapple
+ 0.05% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.03% : custard apple
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q097.jpg
+98.31% : pineapple
+ 0.05% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q098.jpg
+98.26% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : bearskin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q099.jpg
+98.25% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple5Q100.jpg
+98.27% : pineapple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.04% : scabbard
+ 0.04% : custard apple
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.02% : corn
+ 0.02% : strawberry
+ 0.02% : bearskin

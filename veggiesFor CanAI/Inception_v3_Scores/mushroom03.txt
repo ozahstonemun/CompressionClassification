@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q001.jpg
+22.29% : honeycomb
+12.96% : earthstar
+ 8.99% : coil
+ 4.01% : chambered nautilus
+ 3.32% : wine bottle
+ 2.84% : acorn
+ 2.51% : chain
+ 2.02% : screw
+ 1.35% : radiator
+ 1.17% : tile roof
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q002.jpg
+22.30% : honeycomb
+12.88% : earthstar
+ 8.83% : coil
+ 4.02% : chambered nautilus
+ 3.27% : wine bottle
+ 2.87% : acorn
+ 2.49% : chain
+ 2.01% : screw
+ 1.33% : radiator
+ 1.20% : tile roof
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q003.jpg
+19.30% : honeycomb
+12.63% : earthstar
+ 6.89% : acorn
+ 5.81% : coil
+ 3.30% : chambered nautilus
+ 3.02% : wine bottle
+ 1.87% : chain
+ 1.31% : screw
+ 1.12% : tile roof
+ 1.11% : lumbermill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q004.jpg
+26.57% : earthstar
+18.67% : mushroom
+15.58% : acorn
+ 9.24% : hen-of-the-woods
+ 2.29% : conch
+ 1.70% : honeycomb
+ 1.55% : teddy
+ 0.99% : lumbermill
+ 0.81% : coil
+ 0.75% : chambered nautilus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q005.jpg
+46.93% : earthstar
+15.59% : hen-of-the-woods
+11.24% : acorn
+ 6.42% : mushroom
+ 1.82% : conch
+ 0.69% : lumbermill
+ 0.52% : chambered nautilus
+ 0.32% : honeycomb
+ 0.31% : coil
+ 0.29% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q006.jpg
+40.59% : earthstar
+12.98% : hen-of-the-woods
+ 6.33% : mushroom
+ 3.32% : acorn
+ 1.89% : conch
+ 0.61% : chambered nautilus
+ 0.61% : honeycomb
+ 0.55% : coral reef
+ 0.49% : buckeye
+ 0.47% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q007.jpg
+33.86% : earthstar
+16.79% : hen-of-the-woods
+ 3.14% : mushroom
+ 2.96% : acorn
+ 1.36% : conch
+ 0.61% : coral fungus
+ 0.55% : chambered nautilus
+ 0.47% : snail
+ 0.44% : buckeye
+ 0.40% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q008.jpg
+60.86% : earthstar
+ 6.00% : hen-of-the-woods
+ 2.43% : mushroom
+ 1.25% : acorn
+ 1.23% : conch
+ 0.63% : snail
+ 0.31% : coral fungus
+ 0.30% : pickelhaube
+ 0.25% : chambered nautilus
+ 0.22% : cuirass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q009.jpg
+45.54% : earthstar
+15.99% : hen-of-the-woods
+ 5.43% : acorn
+ 4.02% : mushroom
+ 1.70% : conch
+ 0.58% : snail
+ 0.44% : buckeye
+ 0.44% : pineapple
+ 0.36% : coral fungus
+ 0.33% : chambered nautilus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q010.jpg
+36.16% : earthstar
+17.38% : hen-of-the-woods
+ 8.92% : acorn
+ 5.06% : mushroom
+ 1.30% : conch
+ 0.36% : pineapple
+ 0.35% : coral fungus
+ 0.34% : mosque
+ 0.29% : buckeye
+ 0.25% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q011.jpg
+32.89% : earthstar
+23.90% : hen-of-the-woods
+ 5.04% : mushroom
+ 3.77% : acorn
+ 2.29% : conch
+ 0.40% : snail
+ 0.40% : honeycomb
+ 0.39% : pineapple
+ 0.35% : coral fungus
+ 0.34% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q012.jpg
+44.12% : earthstar
+22.24% : hen-of-the-woods
+ 6.69% : mushroom
+ 3.88% : acorn
+ 1.32% : conch
+ 0.38% : snail
+ 0.30% : pickelhaube
+ 0.28% : coral fungus
+ 0.21% : pineapple
+ 0.19% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q013.jpg
+40.41% : earthstar
+20.47% : hen-of-the-woods
+ 6.43% : mushroom
+ 4.44% : acorn
+ 2.19% : conch
+ 0.54% : snail
+ 0.39% : pickelhaube
+ 0.37% : ear
+ 0.27% : aircraft carrier
+ 0.27% : hermit crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q014.jpg
+28.51% : earthstar
+21.12% : hen-of-the-woods
+ 5.71% : mushroom
+ 5.43% : acorn
+ 4.33% : conch
+ 0.58% : snail
+ 0.56% : pineapple
+ 0.51% : ear
+ 0.42% : hermit crab
+ 0.40% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q015.jpg
+27.46% : earthstar
+18.27% : hen-of-the-woods
+ 8.72% : acorn
+ 5.60% : mushroom
+ 2.45% : conch
+ 0.64% : snail
+ 0.56% : pineapple
+ 0.51% : mosque
+ 0.36% : hermit crab
+ 0.36% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q016.jpg
+27.53% : earthstar
+22.96% : hen-of-the-woods
+ 9.14% : acorn
+ 6.93% : mushroom
+ 1.63% : conch
+ 0.60% : snail
+ 0.41% : mosque
+ 0.39% : pickelhaube
+ 0.38% : pineapple
+ 0.31% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q017.jpg
+28.93% : earthstar
+20.85% : hen-of-the-woods
+ 9.83% : mushroom
+ 7.28% : acorn
+ 2.69% : conch
+ 0.47% : snail
+ 0.35% : pickelhaube
+ 0.34% : mosque
+ 0.33% : coral fungus
+ 0.30% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q018.jpg
+24.37% : hen-of-the-woods
+21.92% : earthstar
+10.23% : mushroom
+ 6.88% : acorn
+ 3.24% : conch
+ 0.60% : snail
+ 0.45% : pickelhaube
+ 0.40% : mosque
+ 0.36% : pineapple
+ 0.33% : hermit crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q019.jpg
+23.68% : earthstar
+16.54% : hen-of-the-woods
+11.07% : mushroom
+ 7.07% : acorn
+ 3.91% : conch
+ 0.68% : snail
+ 0.65% : pickelhaube
+ 0.41% : hermit crab
+ 0.37% : mosque
+ 0.35% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q020.jpg
+28.32% : earthstar
+20.68% : hen-of-the-woods
+10.69% : mushroom
+ 5.72% : acorn
+ 3.00% : conch
+ 0.51% : snail
+ 0.46% : pickelhaube
+ 0.38% : ear
+ 0.36% : pineapple
+ 0.35% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q021.jpg
+24.14% : hen-of-the-woods
+20.79% : earthstar
+10.31% : mushroom
+ 6.71% : acorn
+ 3.28% : conch
+ 0.57% : snail
+ 0.48% : pickelhaube
+ 0.41% : hermit crab
+ 0.40% : pineapple
+ 0.37% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q022.jpg
+20.55% : earthstar
+20.01% : hen-of-the-woods
+12.25% : mushroom
+ 7.23% : acorn
+ 2.81% : conch
+ 0.56% : snail
+ 0.47% : honeycomb
+ 0.46% : pickelhaube
+ 0.42% : pineapple
+ 0.41% : hermit crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q023.jpg
+21.27% : earthstar
+14.90% : hen-of-the-woods
+11.38% : acorn
+ 7.90% : mushroom
+ 3.12% : conch
+ 0.67% : pineapple
+ 0.52% : snail
+ 0.51% : mosque
+ 0.39% : hermit crab
+ 0.38% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q024.jpg
+21.84% : hen-of-the-woods
+21.35% : earthstar
+10.86% : mushroom
+ 6.47% : acorn
+ 1.86% : conch
+ 0.57% : pickelhaube
+ 0.40% : aircraft carrier
+ 0.39% : snail
+ 0.38% : mosque
+ 0.34% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q025.jpg
+27.41% : hen-of-the-woods
+16.18% : earthstar
+12.46% : mushroom
+ 6.61% : acorn
+ 1.86% : conch
+ 0.49% : pickelhaube
+ 0.39% : snail
+ 0.37% : pineapple
+ 0.37% : coral fungus
+ 0.35% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q026.jpg
+25.23% : hen-of-the-woods
+17.35% : earthstar
+12.18% : mushroom
+ 7.01% : acorn
+ 2.24% : conch
+ 0.44% : pickelhaube
+ 0.36% : snail
+ 0.36% : coral fungus
+ 0.35% : mosque
+ 0.34% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q027.jpg
+20.51% : hen-of-the-woods
+19.92% : earthstar
+11.61% : mushroom
+ 8.90% : acorn
+ 2.75% : conch
+ 0.70% : pickelhaube
+ 0.47% : pineapple
+ 0.43% : snail
+ 0.42% : aircraft carrier
+ 0.37% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q028.jpg
+23.38% : hen-of-the-woods
+19.07% : earthstar
+12.80% : mushroom
+ 7.38% : acorn
+ 2.50% : conch
+ 0.47% : pickelhaube
+ 0.41% : pineapple
+ 0.40% : snail
+ 0.37% : coral fungus
+ 0.35% : mosque
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q029.jpg
+25.39% : hen-of-the-woods
+19.08% : earthstar
+11.50% : mushroom
+ 6.78% : acorn
+ 2.05% : conch
+ 0.46% : pickelhaube
+ 0.42% : coral fungus
+ 0.35% : mosque
+ 0.34% : aircraft carrier
+ 0.34% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q030.jpg
+26.08% : hen-of-the-woods
+20.04% : earthstar
+10.33% : mushroom
+ 5.85% : acorn
+ 3.29% : conch
+ 0.51% : pickelhaube
+ 0.43% : coral fungus
+ 0.40% : pineapple
+ 0.39% : aircraft carrier
+ 0.35% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q031.jpg
+21.28% : earthstar
+18.31% : hen-of-the-woods
+ 9.84% : mushroom
+ 8.53% : acorn
+ 2.63% : conch
+ 0.65% : pickelhaube
+ 0.41% : aircraft carrier
+ 0.41% : mosque
+ 0.41% : pineapple
+ 0.40% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q032.jpg
+19.92% : earthstar
+15.98% : hen-of-the-woods
+ 9.62% : acorn
+ 9.32% : mushroom
+ 3.64% : conch
+ 0.61% : pickelhaube
+ 0.50% : pineapple
+ 0.48% : snail
+ 0.44% : mosque
+ 0.38% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q033.jpg
+23.98% : hen-of-the-woods
+16.34% : earthstar
+10.44% : mushroom
+ 8.10% : acorn
+ 3.54% : conch
+ 0.53% : pickelhaube
+ 0.44% : pineapple
+ 0.42% : snail
+ 0.40% : mosque
+ 0.39% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q034.jpg
+24.29% : hen-of-the-woods
+15.48% : earthstar
+12.23% : mushroom
+ 9.35% : acorn
+ 3.71% : conch
+ 0.55% : pickelhaube
+ 0.42% : snail
+ 0.40% : pineapple
+ 0.37% : hermit crab
+ 0.36% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q035.jpg
+21.18% : hen-of-the-woods
+19.60% : earthstar
+ 9.44% : acorn
+ 9.35% : mushroom
+ 2.97% : conch
+ 0.49% : pineapple
+ 0.49% : pickelhaube
+ 0.44% : snail
+ 0.42% : mosque
+ 0.41% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q036.jpg
+22.26% : earthstar
+20.52% : hen-of-the-woods
+10.35% : mushroom
+ 6.28% : acorn
+ 2.57% : conch
+ 0.66% : pickelhaube
+ 0.50% : aircraft carrier
+ 0.44% : pineapple
+ 0.38% : snail
+ 0.37% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q037.jpg
+22.17% : earthstar
+20.90% : hen-of-the-woods
+ 9.84% : mushroom
+ 6.51% : acorn
+ 2.21% : conch
+ 0.63% : pickelhaube
+ 0.48% : aircraft carrier
+ 0.45% : pineapple
+ 0.38% : mosque
+ 0.37% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q038.jpg
+24.88% : hen-of-the-woods
+17.94% : earthstar
+ 9.75% : mushroom
+ 7.96% : acorn
+ 2.94% : conch
+ 0.56% : pineapple
+ 0.50% : snail
+ 0.47% : pickelhaube
+ 0.43% : aircraft carrier
+ 0.38% : mosque
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q039.jpg
+24.21% : hen-of-the-woods
+17.10% : earthstar
+11.90% : mushroom
+ 7.93% : acorn
+ 4.19% : conch
+ 0.53% : snail
+ 0.48% : pickelhaube
+ 0.42% : hermit crab
+ 0.41% : pineapple
+ 0.37% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q040.jpg
+21.85% : hen-of-the-woods
+14.92% : earthstar
+13.01% : mushroom
+ 8.85% : acorn
+ 3.77% : conch
+ 0.53% : pickelhaube
+ 0.49% : snail
+ 0.43% : pineapple
+ 0.41% : hermit crab
+ 0.40% : mosque
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q041.jpg
+19.56% : hen-of-the-woods
+16.68% : earthstar
+12.65% : mushroom
+ 9.65% : acorn
+ 2.84% : conch
+ 0.55% : pickelhaube
+ 0.48% : pineapple
+ 0.45% : mosque
+ 0.43% : snail
+ 0.39% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q042.jpg
+20.26% : hen-of-the-woods
+20.11% : earthstar
+12.71% : mushroom
+ 9.80% : acorn
+ 2.46% : conch
+ 0.48% : pickelhaube
+ 0.44% : mosque
+ 0.41% : aircraft carrier
+ 0.40% : snail
+ 0.38% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q043.jpg
+20.87% : hen-of-the-woods
+19.08% : earthstar
+13.24% : mushroom
+ 9.75% : acorn
+ 2.38% : conch
+ 0.46% : pickelhaube
+ 0.44% : mosque
+ 0.41% : pineapple
+ 0.39% : aircraft carrier
+ 0.39% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q044.jpg
+22.52% : hen-of-the-woods
+19.16% : earthstar
+12.03% : mushroom
+ 7.77% : acorn
+ 2.46% : conch
+ 0.57% : pickelhaube
+ 0.44% : pineapple
+ 0.42% : buckeye
+ 0.39% : aircraft carrier
+ 0.39% : mosque
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q045.jpg
+22.06% : hen-of-the-woods
+20.15% : earthstar
+11.64% : mushroom
+ 7.61% : acorn
+ 2.36% : conch
+ 0.59% : pickelhaube
+ 0.48% : pineapple
+ 0.42% : buckeye
+ 0.42% : aircraft carrier
+ 0.39% : mosque
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q046.jpg
+19.90% : hen-of-the-woods
+15.47% : earthstar
+11.71% : mushroom
+10.37% : acorn
+ 2.93% : conch
+ 0.64% : pickelhaube
+ 0.50% : snail
+ 0.44% : buckeye
+ 0.42% : mosque
+ 0.41% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q047.jpg
+20.05% : hen-of-the-woods
+15.26% : earthstar
+11.97% : mushroom
+10.36% : acorn
+ 2.92% : conch
+ 0.63% : pickelhaube
+ 0.50% : snail
+ 0.43% : honeycomb
+ 0.43% : buckeye
+ 0.42% : mosque
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q048.jpg
+19.04% : hen-of-the-woods
+18.14% : earthstar
+11.28% : mushroom
+ 9.53% : acorn
+ 3.08% : conch
+ 0.65% : pickelhaube
+ 0.49% : snail
+ 0.43% : buckeye
+ 0.42% : pineapple
+ 0.41% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q049.jpg
+23.09% : earthstar
+19.90% : hen-of-the-woods
+12.11% : mushroom
+ 8.18% : acorn
+ 2.78% : conch
+ 0.58% : pickelhaube
+ 0.37% : coral fungus
+ 0.37% : snail
+ 0.37% : buckeye
+ 0.37% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q050.jpg
+23.12% : earthstar
+19.94% : hen-of-the-woods
+12.06% : mushroom
+ 8.19% : acorn
+ 2.79% : conch
+ 0.58% : pickelhaube
+ 0.38% : snail
+ 0.37% : coral fungus
+ 0.37% : buckeye
+ 0.37% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q051.jpg
+23.15% : earthstar
+20.15% : hen-of-the-woods
+12.10% : mushroom
+ 8.04% : acorn
+ 2.78% : conch
+ 0.59% : pickelhaube
+ 0.38% : coral fungus
+ 0.37% : snail
+ 0.37% : buckeye
+ 0.36% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q052.jpg
+22.64% : earthstar
+22.48% : hen-of-the-woods
+13.42% : mushroom
+ 8.35% : acorn
+ 2.92% : conch
+ 0.49% : pickelhaube
+ 0.40% : snail
+ 0.38% : buckeye
+ 0.38% : pineapple
+ 0.38% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q053.jpg
+23.13% : hen-of-the-woods
+22.14% : earthstar
+13.17% : mushroom
+ 8.18% : acorn
+ 3.08% : conch
+ 0.45% : pineapple
+ 0.45% : pickelhaube
+ 0.40% : ear
+ 0.40% : snail
+ 0.34% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q054.jpg
+23.73% : hen-of-the-woods
+22.05% : earthstar
+13.26% : mushroom
+ 8.13% : acorn
+ 3.11% : conch
+ 0.45% : pickelhaube
+ 0.45% : pineapple
+ 0.40% : snail
+ 0.39% : ear
+ 0.34% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q055.jpg
+23.50% : hen-of-the-woods
+21.20% : earthstar
+14.43% : mushroom
+ 6.77% : acorn
+ 2.53% : conch
+ 0.64% : pickelhaube
+ 0.41% : ear
+ 0.40% : pineapple
+ 0.39% : aircraft carrier
+ 0.36% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q056.jpg
+23.26% : hen-of-the-woods
+21.25% : earthstar
+14.23% : mushroom
+ 6.76% : acorn
+ 2.52% : conch
+ 0.68% : pickelhaube
+ 0.43% : ear
+ 0.39% : aircraft carrier
+ 0.38% : pineapple
+ 0.38% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q057.jpg
+23.70% : hen-of-the-woods
+20.27% : earthstar
+14.55% : mushroom
+ 6.11% : acorn
+ 2.93% : conch
+ 0.65% : pickelhaube
+ 0.45% : ear
+ 0.39% : corn
+ 0.38% : aircraft carrier
+ 0.37% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q058.jpg
+22.51% : hen-of-the-woods
+21.81% : earthstar
+13.09% : mushroom
+ 7.85% : acorn
+ 2.95% : conch
+ 0.47% : pickelhaube
+ 0.45% : ear
+ 0.42% : pineapple
+ 0.38% : buckeye
+ 0.37% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q059.jpg
+22.29% : earthstar
+22.20% : hen-of-the-woods
+13.75% : mushroom
+ 7.58% : acorn
+ 2.94% : conch
+ 0.45% : pickelhaube
+ 0.43% : ear
+ 0.41% : pineapple
+ 0.38% : buckeye
+ 0.37% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q060.jpg
+22.22% : earthstar
+21.84% : hen-of-the-woods
+13.13% : mushroom
+ 8.08% : acorn
+ 2.72% : conch
+ 0.47% : pickelhaube
+ 0.44% : ear
+ 0.43% : pineapple
+ 0.40% : buckeye
+ 0.39% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q061.jpg
+24.32% : hen-of-the-woods
+21.65% : earthstar
+15.82% : mushroom
+ 6.79% : acorn
+ 2.28% : conch
+ 0.51% : pickelhaube
+ 0.35% : aircraft carrier
+ 0.34% : buckeye
+ 0.32% : snail
+ 0.32% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q062.jpg
+24.28% : hen-of-the-woods
+20.49% : earthstar
+15.50% : mushroom
+ 7.30% : acorn
+ 2.23% : conch
+ 0.48% : pickelhaube
+ 0.37% : buckeye
+ 0.35% : aircraft carrier
+ 0.34% : pineapple
+ 0.33% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q063.jpg
+25.15% : hen-of-the-woods
+20.64% : earthstar
+15.44% : mushroom
+ 7.05% : acorn
+ 2.12% : conch
+ 0.47% : pickelhaube
+ 0.37% : buckeye
+ 0.36% : aircraft carrier
+ 0.35% : pineapple
+ 0.33% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q064.jpg
+23.92% : hen-of-the-woods
+20.37% : earthstar
+15.10% : mushroom
+ 8.14% : acorn
+ 2.03% : conch
+ 0.42% : pickelhaube
+ 0.40% : buckeye
+ 0.37% : pineapple
+ 0.37% : honeycomb
+ 0.36% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q065.jpg
+22.76% : hen-of-the-woods
+20.39% : earthstar
+12.70% : mushroom
+ 9.39% : acorn
+ 2.56% : conch
+ 0.44% : buckeye
+ 0.44% : pickelhaube
+ 0.42% : pineapple
+ 0.38% : snail
+ 0.36% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q066.jpg
+22.98% : hen-of-the-woods
+20.08% : earthstar
+13.33% : mushroom
+ 8.58% : acorn
+ 2.58% : conch
+ 0.47% : pickelhaube
+ 0.41% : buckeye
+ 0.38% : pineapple
+ 0.36% : snail
+ 0.36% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q067.jpg
+21.40% : hen-of-the-woods
+21.03% : earthstar
+13.83% : mushroom
+ 8.50% : acorn
+ 2.45% : conch
+ 0.56% : pickelhaube
+ 0.37% : aircraft carrier
+ 0.37% : snail
+ 0.36% : buckeye
+ 0.35% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q068.jpg
+22.22% : hen-of-the-woods
+21.03% : earthstar
+13.67% : mushroom
+ 7.42% : acorn
+ 2.68% : conch
+ 0.56% : pickelhaube
+ 0.39% : buckeye
+ 0.38% : snail
+ 0.37% : pineapple
+ 0.34% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q069.jpg
+22.19% : earthstar
+21.40% : hen-of-the-woods
+13.60% : mushroom
+ 7.80% : acorn
+ 2.78% : conch
+ 0.55% : pickelhaube
+ 0.41% : snail
+ 0.37% : buckeye
+ 0.35% : pineapple
+ 0.33% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q070.jpg
+25.93% : hen-of-the-woods
+22.65% : earthstar
+13.81% : mushroom
+ 6.74% : acorn
+ 2.18% : conch
+ 0.52% : pickelhaube
+ 0.33% : coral fungus
+ 0.33% : buckeye
+ 0.32% : snail
+ 0.30% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q071.jpg
+28.03% : hen-of-the-woods
+20.26% : earthstar
+14.44% : mushroom
+ 6.86% : acorn
+ 1.96% : conch
+ 0.52% : pickelhaube
+ 0.34% : coral fungus
+ 0.33% : snail
+ 0.32% : buckeye
+ 0.31% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q072.jpg
+27.27% : hen-of-the-woods
+22.02% : earthstar
+14.50% : mushroom
+ 6.64% : acorn
+ 1.93% : conch
+ 0.51% : pickelhaube
+ 0.33% : snail
+ 0.33% : coral fungus
+ 0.30% : buckeye
+ 0.29% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q073.jpg
+24.59% : hen-of-the-woods
+20.61% : earthstar
+14.38% : mushroom
+ 7.26% : acorn
+ 2.61% : conch
+ 0.63% : pickelhaube
+ 0.39% : snail
+ 0.35% : ear
+ 0.34% : buckeye
+ 0.34% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q074.jpg
+24.17% : hen-of-the-woods
+22.34% : earthstar
+12.57% : mushroom
+ 7.04% : acorn
+ 2.60% : conch
+ 0.64% : pickelhaube
+ 0.39% : snail
+ 0.34% : aircraft carrier
+ 0.34% : ear
+ 0.34% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q075.jpg
+23.87% : hen-of-the-woods
+22.42% : earthstar
+12.68% : mushroom
+ 7.15% : acorn
+ 2.56% : conch
+ 0.64% : pickelhaube
+ 0.39% : snail
+ 0.34% : aircraft carrier
+ 0.34% : buckeye
+ 0.34% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q076.jpg
+23.95% : hen-of-the-woods
+21.31% : earthstar
+13.86% : mushroom
+ 7.56% : acorn
+ 2.75% : conch
+ 0.57% : pickelhaube
+ 0.40% : snail
+ 0.37% : ear
+ 0.37% : buckeye
+ 0.35% : hermit crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q077.jpg
+23.05% : hen-of-the-woods
+20.46% : earthstar
+14.54% : mushroom
+ 7.74% : acorn
+ 2.82% : conch
+ 0.57% : pickelhaube
+ 0.43% : ear
+ 0.42% : snail
+ 0.39% : hermit crab
+ 0.38% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q078.jpg
+23.41% : hen-of-the-woods
+20.46% : earthstar
+14.47% : mushroom
+ 7.22% : acorn
+ 2.55% : conch
+ 0.61% : pickelhaube
+ 0.41% : ear
+ 0.39% : snail
+ 0.38% : buckeye
+ 0.37% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q079.jpg
+22.63% : hen-of-the-woods
+20.58% : earthstar
+14.13% : mushroom
+ 7.36% : acorn
+ 2.70% : conch
+ 0.56% : pickelhaube
+ 0.41% : pineapple
+ 0.41% : ear
+ 0.40% : buckeye
+ 0.39% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q080.jpg
+22.20% : hen-of-the-woods
+20.86% : earthstar
+13.13% : mushroom
+ 7.97% : acorn
+ 3.12% : conch
+ 0.56% : pickelhaube
+ 0.42% : pineapple
+ 0.40% : snail
+ 0.39% : buckeye
+ 0.38% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q081.jpg
+23.95% : hen-of-the-woods
+19.92% : earthstar
+12.96% : mushroom
+ 8.08% : acorn
+ 2.92% : conch
+ 0.56% : pickelhaube
+ 0.39% : snail
+ 0.37% : hermit crab
+ 0.35% : buckeye
+ 0.35% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q082.jpg
+21.52% : earthstar
+20.72% : hen-of-the-woods
+12.50% : mushroom
+ 8.95% : acorn
+ 2.94% : conch
+ 0.60% : pickelhaube
+ 0.40% : snail
+ 0.38% : hermit crab
+ 0.37% : ear
+ 0.36% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q083.jpg
+21.79% : hen-of-the-woods
+20.79% : earthstar
+13.52% : mushroom
+ 8.27% : acorn
+ 3.29% : conch
+ 0.53% : pickelhaube
+ 0.41% : snail
+ 0.41% : hermit crab
+ 0.37% : ear
+ 0.36% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q084.jpg
+23.32% : earthstar
+21.50% : hen-of-the-woods
+12.47% : mushroom
+ 6.70% : acorn
+ 3.38% : conch
+ 0.61% : pickelhaube
+ 0.41% : snail
+ 0.38% : hermit crab
+ 0.34% : pineapple
+ 0.34% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q085.jpg
+23.31% : earthstar
+21.31% : hen-of-the-woods
+12.21% : mushroom
+ 6.45% : acorn
+ 3.64% : conch
+ 0.62% : pickelhaube
+ 0.45% : snail
+ 0.41% : hermit crab
+ 0.33% : pineapple
+ 0.33% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q086.jpg
+22.48% : earthstar
+22.33% : hen-of-the-woods
+13.57% : mushroom
+ 6.70% : acorn
+ 2.77% : conch
+ 0.58% : pickelhaube
+ 0.39% : snail
+ 0.35% : hermit crab
+ 0.35% : ear
+ 0.34% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q087.jpg
+22.53% : earthstar
+22.27% : hen-of-the-woods
+13.70% : mushroom
+ 7.46% : acorn
+ 2.48% : conch
+ 0.51% : pickelhaube
+ 0.38% : snail
+ 0.37% : ear
+ 0.35% : buckeye
+ 0.34% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q088.jpg
+22.24% : hen-of-the-woods
+21.98% : earthstar
+14.06% : mushroom
+ 7.42% : acorn
+ 2.83% : conch
+ 0.49% : pickelhaube
+ 0.40% : snail
+ 0.36% : hermit crab
+ 0.35% : buckeye
+ 0.34% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q089.jpg
+22.70% : hen-of-the-woods
+21.23% : earthstar
+13.94% : mushroom
+ 7.26% : acorn
+ 3.03% : conch
+ 0.48% : pickelhaube
+ 0.42% : snail
+ 0.37% : ear
+ 0.36% : hermit crab
+ 0.36% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q090.jpg
+22.19% : hen-of-the-woods
+18.58% : earthstar
+14.05% : mushroom
+ 7.72% : acorn
+ 3.89% : conch
+ 0.50% : snail
+ 0.49% : pickelhaube
+ 0.46% : hermit crab
+ 0.38% : buckeye
+ 0.36% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q091.jpg
+23.50% : hen-of-the-woods
+19.76% : earthstar
+13.30% : mushroom
+ 8.42% : acorn
+ 3.32% : conch
+ 0.43% : pickelhaube
+ 0.42% : snail
+ 0.38% : pineapple
+ 0.36% : buckeye
+ 0.35% : hermit crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q092.jpg
+25.14% : hen-of-the-woods
+22.14% : earthstar
+12.14% : mushroom
+ 6.45% : acorn
+ 2.52% : conch
+ 0.44% : pineapple
+ 0.43% : pickelhaube
+ 0.38% : snail
+ 0.33% : aircraft carrier
+ 0.33% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q093.jpg
+24.36% : hen-of-the-woods
+22.54% : earthstar
+12.91% : mushroom
+ 7.09% : acorn
+ 1.78% : conch
+ 0.47% : pineapple
+ 0.44% : pickelhaube
+ 0.37% : honeycomb
+ 0.35% : buckeye
+ 0.35% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q094.jpg
+24.84% : earthstar
+22.98% : hen-of-the-woods
+12.28% : mushroom
+ 6.96% : acorn
+ 1.86% : conch
+ 0.47% : pineapple
+ 0.46% : pickelhaube
+ 0.38% : buckeye
+ 0.35% : aircraft carrier
+ 0.34% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q095.jpg
+23.79% : earthstar
+23.49% : hen-of-the-woods
+11.87% : mushroom
+ 7.01% : acorn
+ 1.89% : conch
+ 0.53% : pickelhaube
+ 0.42% : pineapple
+ 0.36% : buckeye
+ 0.35% : coral fungus
+ 0.34% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q096.jpg
+24.85% : hen-of-the-woods
+22.00% : earthstar
+13.45% : mushroom
+ 6.42% : acorn
+ 2.39% : conch
+ 0.52% : pickelhaube
+ 0.38% : pineapple
+ 0.36% : snail
+ 0.34% : coral fungus
+ 0.34% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q097.jpg
+24.95% : hen-of-the-woods
+22.91% : earthstar
+13.00% : mushroom
+ 6.74% : acorn
+ 2.32% : conch
+ 0.49% : pickelhaube
+ 0.40% : pineapple
+ 0.35% : snail
+ 0.34% : buckeye
+ 0.33% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q098.jpg
+25.30% : hen-of-the-woods
+23.30% : earthstar
+12.73% : mushroom
+ 6.35% : acorn
+ 2.23% : conch
+ 0.50% : pickelhaube
+ 0.39% : pineapple
+ 0.35% : snail
+ 0.34% : coral fungus
+ 0.33% : aircraft carrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q099.jpg
+25.24% : hen-of-the-woods
+22.04% : earthstar
+12.64% : mushroom
+ 6.57% : acorn
+ 2.53% : conch
+ 0.51% : pickelhaube
+ 0.41% : pineapple
+ 0.38% : snail
+ 0.35% : aircraft carrier
+ 0.35% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom3Q100.jpg
+24.66% : hen-of-the-woods
+22.75% : earthstar
+12.57% : mushroom
+ 6.56% : acorn
+ 2.24% : conch
+ 0.50% : pickelhaube
+ 0.41% : pineapple
+ 0.38% : snail
+ 0.35% : honeycomb
+ 0.35% : aircraft carrier

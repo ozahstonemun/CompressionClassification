@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q001.jpg
+97.04% : banana
+ 0.16% : coil
+ 0.11% : orange
+ 0.05% : daisy
+ 0.03% : butternut squash
+ 0.02% : picket fence
+ 0.02% : nematode
+ 0.02% : zucchini
+ 0.02% : pineapple
+ 0.02% : flamingo
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q002.jpg
+97.07% : banana
+ 0.16% : coil
+ 0.11% : orange
+ 0.05% : daisy
+ 0.03% : butternut squash
+ 0.02% : picket fence
+ 0.02% : nematode
+ 0.02% : zucchini
+ 0.02% : pineapple
+ 0.02% : flamingo
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q003.jpg
+96.61% : banana
+ 0.16% : coil
+ 0.11% : orange
+ 0.05% : daisy
+ 0.04% : butternut squash
+ 0.03% : zucchini
+ 0.02% : nematode
+ 0.02% : wooden spoon
+ 0.02% : pineapple
+ 0.02% : flamingo
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q004.jpg
+99.87% : banana
+ 0.01% : orange
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : zucchini
+ 0.00% : daisy
+ 0.00% : pug
+ 0.00% : sea anemone
+ 0.00% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q005.jpg
+99.90% : banana
+ 0.01% : orange
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : pug
+ 0.00% : wooden spoon
+ 0.00% : radiator
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q006.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : zucchini
+ 0.00% : pug
+ 0.00% : wooden spoon
+ 0.00% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q007.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : coil
+ 0.00% : spaghetti squash
+ 0.00% : pug
+ 0.00% : radiator
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q008.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : coil
+ 0.00% : spaghetti squash
+ 0.00% : wooden spoon
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q009.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : pug
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q010.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : pug
+ 0.00% : bighorn
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q011.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : pug
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q012.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : pug
+ 0.00% : bull mastiff
+ 0.00% : Leonberg
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q013.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q014.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q015.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q016.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q017.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : pug
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q018.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q019.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q020.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q021.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q022.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q023.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q024.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q025.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q026.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q027.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q028.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q029.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q030.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q031.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q032.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q033.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q034.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q035.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q036.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q037.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q038.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q039.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q040.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q041.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q042.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q043.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q044.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q045.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q046.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q047.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q048.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q049.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q050.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q051.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q052.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q053.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q054.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q055.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q056.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q057.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q058.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q059.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q060.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q061.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q062.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q063.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q064.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q065.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q066.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q067.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q068.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q069.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q070.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q071.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q072.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q073.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q074.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q075.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q076.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q077.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q078.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q079.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q080.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q081.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q082.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q083.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q084.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q085.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q086.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q087.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q088.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q089.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q090.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q091.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q092.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q093.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q094.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q095.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q096.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q097.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q098.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q099.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana16Q100.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : bull mastiff
+ 0.00% : bighorn

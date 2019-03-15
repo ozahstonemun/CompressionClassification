@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q001.jpg
+40.53% : coral fungus
+ 2.75% : stinkhorn
+ 2.75% : orange
+ 1.97% : crate
+ 1.86% : bakery
+ 1.64% : butternut squash
+ 1.61% : carton
+ 1.25% : wardrobe
+ 1.19% : ear
+ 1.17% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q002.jpg
+38.73% : coral fungus
+ 2.83% : orange
+ 2.58% : stinkhorn
+ 2.07% : bakery
+ 2.07% : crate
+ 1.77% : butternut squash
+ 1.75% : carton
+ 1.27% : wardrobe
+ 1.24% : ear
+ 1.21% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q003.jpg
+28.95% : coral fungus
+ 3.65% : orange
+ 2.86% : stinkhorn
+ 2.84% : crate
+ 2.21% : bakery
+ 1.99% : wardrobe
+ 1.93% : carton
+ 1.87% : zucchini
+ 1.72% : butternut squash
+ 1.70% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q004.jpg
+88.78% : coral fungus
+ 0.72% : stinkhorn
+ 0.63% : mushroom
+ 0.37% : hen-of-the-woods
+ 0.29% : jackfruit
+ 0.28% : coral reef
+ 0.25% : sea anemone
+ 0.16% : crate
+ 0.13% : banana
+ 0.12% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q005.jpg
+33.90% : coral fungus
+ 8.65% : jackfruit
+ 5.40% : mushroom
+ 4.95% : banana
+ 2.15% : bakery
+ 1.81% : zucchini
+ 1.65% : crate
+ 1.39% : hen-of-the-woods
+ 1.31% : ear
+ 1.26% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q006.jpg
+31.30% : coral fungus
+10.41% : banana
+ 3.23% : jackfruit
+ 2.57% : mushroom
+ 2.08% : crate
+ 1.58% : zucchini
+ 1.24% : sea anemone
+ 1.11% : hen-of-the-woods
+ 1.10% : lemon
+ 1.10% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q007.jpg
+42.82% : coral fungus
+ 4.88% : jackfruit
+ 4.86% : banana
+ 4.48% : mushroom
+ 2.52% : matchstick
+ 1.37% : sea anemone
+ 1.27% : hen-of-the-woods
+ 1.20% : broccoli
+ 0.89% : zucchini
+ 0.87% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q008.jpg
+33.70% : banana
+11.04% : coral fungus
+ 4.07% : jackfruit
+ 3.94% : mushroom
+ 2.13% : wooden spoon
+ 1.68% : lemon
+ 1.46% : cucumber
+ 1.42% : orange
+ 1.41% : zucchini
+ 1.28% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q009.jpg
+31.16% : banana
+ 5.84% : jackfruit
+ 4.94% : cucumber
+ 4.33% : mushroom
+ 3.62% : coral fungus
+ 2.90% : lemon
+ 2.35% : crate
+ 2.18% : zucchini
+ 1.82% : matchstick
+ 1.51% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q010.jpg
+61.79% : banana
+ 3.12% : coral fungus
+ 3.02% : jackfruit
+ 1.87% : mushroom
+ 1.55% : zucchini
+ 1.51% : cucumber
+ 1.02% : lemon
+ 0.92% : wooden spoon
+ 0.84% : crate
+ 0.83% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q011.jpg
+39.56% : banana
+ 4.71% : jackfruit
+ 4.28% : coral fungus
+ 2.81% : mushroom
+ 2.30% : cucumber
+ 1.88% : lemon
+ 1.82% : crate
+ 1.66% : zucchini
+ 1.58% : wooden spoon
+ 1.40% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q012.jpg
+51.96% : banana
+ 6.16% : coral fungus
+ 3.42% : jackfruit
+ 2.68% : mushroom
+ 1.92% : cucumber
+ 1.34% : lemon
+ 1.29% : zucchini
+ 1.13% : ear
+ 0.88% : orange
+ 0.85% : wooden spoon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q013.jpg
+56.41% : banana
+ 2.48% : cucumber
+ 2.41% : jackfruit
+ 2.19% : lemon
+ 1.91% : coral fungus
+ 1.84% : mushroom
+ 1.59% : wooden spoon
+ 1.33% : zucchini
+ 1.31% : crate
+ 1.08% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q014.jpg
+75.63% : banana
+ 1.37% : jackfruit
+ 1.15% : lemon
+ 1.05% : coral fungus
+ 0.98% : cucumber
+ 0.92% : mushroom
+ 0.82% : zucchini
+ 0.75% : orange
+ 0.64% : ear
+ 0.61% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q015.jpg
+67.97% : banana
+ 3.02% : jackfruit
+ 1.88% : coral fungus
+ 1.63% : cucumber
+ 1.47% : lemon
+ 1.46% : mushroom
+ 1.07% : ear
+ 0.98% : zucchini
+ 0.83% : orange
+ 0.83% : wooden spoon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q016.jpg
+75.90% : banana
+ 1.63% : cucumber
+ 1.59% : jackfruit
+ 1.26% : lemon
+ 1.01% : zucchini
+ 0.76% : ear
+ 0.74% : orange
+ 0.71% : mushroom
+ 0.68% : wooden spoon
+ 0.54% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q017.jpg
+81.88% : banana
+ 1.02% : lemon
+ 1.01% : jackfruit
+ 0.92% : cucumber
+ 0.77% : zucchini
+ 0.71% : orange
+ 0.48% : ear
+ 0.47% : mushroom
+ 0.46% : grocery store
+ 0.37% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q018.jpg
+75.64% : banana
+ 1.86% : cucumber
+ 1.28% : lemon
+ 1.22% : jackfruit
+ 0.95% : mushroom
+ 0.78% : ear
+ 0.77% : wooden spoon
+ 0.77% : zucchini
+ 0.74% : orange
+ 0.73% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q019.jpg
+80.75% : banana
+ 1.31% : cucumber
+ 0.95% : jackfruit
+ 0.84% : zucchini
+ 0.75% : lemon
+ 0.68% : ear
+ 0.58% : mushroom
+ 0.58% : wooden spoon
+ 0.53% : orange
+ 0.41% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q020.jpg
+77.61% : banana
+ 1.69% : cucumber
+ 1.11% : lemon
+ 1.01% : jackfruit
+ 0.76% : zucchini
+ 0.74% : wooden spoon
+ 0.73% : mushroom
+ 0.67% : orange
+ 0.65% : ear
+ 0.55% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q021.jpg
+78.29% : banana
+ 1.76% : jackfruit
+ 1.63% : cucumber
+ 0.99% : lemon
+ 0.87% : zucchini
+ 0.86% : mushroom
+ 0.67% : orange
+ 0.65% : wooden spoon
+ 0.61% : ear
+ 0.52% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q022.jpg
+83.13% : banana
+ 0.90% : cucumber
+ 0.84% : jackfruit
+ 0.67% : lemon
+ 0.64% : zucchini
+ 0.60% : wooden spoon
+ 0.57% : ear
+ 0.53% : orange
+ 0.41% : mushroom
+ 0.36% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q023.jpg
+75.62% : banana
+ 1.37% : cucumber
+ 1.30% : jackfruit
+ 1.08% : ear
+ 0.97% : lemon
+ 0.97% : wooden spoon
+ 0.92% : zucchini
+ 0.66% : mushroom
+ 0.58% : orange
+ 0.57% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q024.jpg
+80.40% : banana
+ 1.25% : cucumber
+ 0.96% : jackfruit
+ 0.93% : lemon
+ 0.78% : zucchini
+ 0.72% : ear
+ 0.71% : wooden spoon
+ 0.68% : orange
+ 0.53% : crate
+ 0.52% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q025.jpg
+78.69% : banana
+ 1.20% : cucumber
+ 0.93% : lemon
+ 0.88% : wooden spoon
+ 0.86% : jackfruit
+ 0.81% : ear
+ 0.68% : zucchini
+ 0.61% : orange
+ 0.58% : grocery store
+ 0.51% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q026.jpg
+82.01% : banana
+ 1.11% : cucumber
+ 1.02% : jackfruit
+ 0.78% : zucchini
+ 0.75% : lemon
+ 0.74% : ear
+ 0.59% : orange
+ 0.56% : wooden spoon
+ 0.44% : grocery store
+ 0.42% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q027.jpg
+79.37% : banana
+ 0.94% : cucumber
+ 0.94% : lemon
+ 0.87% : jackfruit
+ 0.81% : wooden spoon
+ 0.69% : ear
+ 0.65% : zucchini
+ 0.61% : orange
+ 0.49% : crate
+ 0.47% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q028.jpg
+77.76% : banana
+ 1.36% : cucumber
+ 1.12% : jackfruit
+ 0.98% : lemon
+ 0.84% : wooden spoon
+ 0.75% : ear
+ 0.68% : zucchini
+ 0.65% : orange
+ 0.48% : grocery store
+ 0.48% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q029.jpg
+76.63% : banana
+ 1.33% : jackfruit
+ 1.31% : cucumber
+ 1.21% : lemon
+ 0.82% : ear
+ 0.76% : zucchini
+ 0.74% : orange
+ 0.70% : wooden spoon
+ 0.52% : mushroom
+ 0.51% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q030.jpg
+78.30% : banana
+ 1.23% : cucumber
+ 1.18% : jackfruit
+ 1.15% : lemon
+ 0.70% : zucchini
+ 0.70% : ear
+ 0.67% : orange
+ 0.62% : wooden spoon
+ 0.60% : mushroom
+ 0.46% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q031.jpg
+78.51% : banana
+ 1.16% : cucumber
+ 1.07% : lemon
+ 0.92% : jackfruit
+ 0.77% : zucchini
+ 0.75% : orange
+ 0.72% : ear
+ 0.58% : wooden spoon
+ 0.47% : crate
+ 0.45% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q032.jpg
+77.96% : banana
+ 1.67% : cucumber
+ 1.12% : jackfruit
+ 1.01% : lemon
+ 0.91% : zucchini
+ 0.77% : ear
+ 0.73% : wooden spoon
+ 0.66% : orange
+ 0.57% : mushroom
+ 0.55% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q033.jpg
+79.15% : banana
+ 1.62% : cucumber
+ 1.11% : jackfruit
+ 1.02% : lemon
+ 0.80% : zucchini
+ 0.73% : wooden spoon
+ 0.70% : ear
+ 0.68% : orange
+ 0.48% : mushroom
+ 0.46% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q034.jpg
+81.09% : banana
+ 1.47% : cucumber
+ 1.05% : jackfruit
+ 0.96% : lemon
+ 0.75% : zucchini
+ 0.63% : ear
+ 0.61% : orange
+ 0.60% : wooden spoon
+ 0.49% : mushroom
+ 0.43% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q035.jpg
+80.18% : banana
+ 1.06% : cucumber
+ 0.87% : lemon
+ 0.86% : jackfruit
+ 0.71% : wooden spoon
+ 0.63% : zucchini
+ 0.57% : mushroom
+ 0.57% : orange
+ 0.55% : ear
+ 0.45% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q036.jpg
+80.32% : banana
+ 1.40% : cucumber
+ 1.05% : lemon
+ 0.79% : jackfruit
+ 0.66% : wooden spoon
+ 0.59% : zucchini
+ 0.59% : orange
+ 0.58% : ear
+ 0.47% : grocery store
+ 0.45% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q037.jpg
+79.85% : banana
+ 1.33% : cucumber
+ 1.13% : lemon
+ 0.96% : jackfruit
+ 0.68% : wooden spoon
+ 0.64% : zucchini
+ 0.62% : ear
+ 0.57% : orange
+ 0.47% : grocery store
+ 0.46% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q038.jpg
+78.84% : banana
+ 1.73% : cucumber
+ 1.14% : jackfruit
+ 1.12% : lemon
+ 0.84% : ear
+ 0.79% : zucchini
+ 0.66% : orange
+ 0.61% : wooden spoon
+ 0.58% : grocery store
+ 0.51% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q039.jpg
+81.50% : banana
+ 1.21% : cucumber
+ 1.18% : jackfruit
+ 0.99% : lemon
+ 0.72% : ear
+ 0.69% : zucchini
+ 0.60% : orange
+ 0.49% : wooden spoon
+ 0.41% : grocery store
+ 0.41% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q040.jpg
+81.90% : banana
+ 1.19% : cucumber
+ 1.05% : lemon
+ 1.03% : jackfruit
+ 0.66% : ear
+ 0.64% : orange
+ 0.63% : zucchini
+ 0.47% : wooden spoon
+ 0.41% : mushroom
+ 0.37% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q041.jpg
+80.26% : banana
+ 1.10% : cucumber
+ 1.09% : jackfruit
+ 1.07% : lemon
+ 0.66% : zucchini
+ 0.64% : orange
+ 0.63% : ear
+ 0.56% : wooden spoon
+ 0.44% : crate
+ 0.41% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q042.jpg
+81.37% : banana
+ 1.09% : cucumber
+ 1.04% : lemon
+ 0.94% : jackfruit
+ 0.66% : orange
+ 0.64% : zucchini
+ 0.63% : wooden spoon
+ 0.60% : ear
+ 0.41% : grocery store
+ 0.40% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q043.jpg
+81.19% : banana
+ 1.11% : cucumber
+ 1.03% : lemon
+ 0.90% : jackfruit
+ 0.67% : zucchini
+ 0.66% : orange
+ 0.63% : ear
+ 0.63% : wooden spoon
+ 0.44% : grocery store
+ 0.41% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q044.jpg
+81.95% : banana
+ 1.18% : lemon
+ 1.10% : cucumber
+ 1.06% : jackfruit
+ 0.68% : ear
+ 0.66% : orange
+ 0.60% : zucchini
+ 0.54% : wooden spoon
+ 0.39% : mushroom
+ 0.39% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q045.jpg
+83.65% : banana
+ 1.10% : lemon
+ 0.94% : cucumber
+ 0.92% : jackfruit
+ 0.65% : orange
+ 0.57% : ear
+ 0.51% : zucchini
+ 0.43% : wooden spoon
+ 0.36% : grocery store
+ 0.34% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q046.jpg
+84.84% : banana
+ 1.02% : lemon
+ 0.90% : cucumber
+ 0.75% : jackfruit
+ 0.57% : orange
+ 0.53% : ear
+ 0.47% : zucchini
+ 0.44% : wooden spoon
+ 0.34% : corn
+ 0.32% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q047.jpg
+84.99% : banana
+ 1.02% : lemon
+ 0.89% : cucumber
+ 0.74% : jackfruit
+ 0.57% : orange
+ 0.53% : ear
+ 0.46% : zucchini
+ 0.43% : wooden spoon
+ 0.33% : corn
+ 0.32% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q048.jpg
+85.66% : banana
+ 0.88% : cucumber
+ 0.88% : lemon
+ 0.63% : jackfruit
+ 0.52% : ear
+ 0.51% : orange
+ 0.45% : zucchini
+ 0.43% : wooden spoon
+ 0.35% : grocery store
+ 0.33% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q049.jpg
+87.40% : banana
+ 0.84% : lemon
+ 0.80% : cucumber
+ 0.55% : jackfruit
+ 0.53% : orange
+ 0.43% : zucchini
+ 0.42% : ear
+ 0.37% : grocery store
+ 0.36% : wooden spoon
+ 0.26% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q050.jpg
+87.25% : banana
+ 0.87% : lemon
+ 0.83% : cucumber
+ 0.56% : jackfruit
+ 0.53% : orange
+ 0.44% : zucchini
+ 0.42% : ear
+ 0.38% : grocery store
+ 0.36% : wooden spoon
+ 0.26% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q051.jpg
+87.24% : banana
+ 0.87% : lemon
+ 0.83% : cucumber
+ 0.55% : jackfruit
+ 0.54% : orange
+ 0.44% : zucchini
+ 0.42% : ear
+ 0.39% : grocery store
+ 0.36% : wooden spoon
+ 0.26% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q052.jpg
+83.90% : banana
+ 1.14% : cucumber
+ 0.96% : lemon
+ 0.73% : jackfruit
+ 0.58% : ear
+ 0.57% : zucchini
+ 0.56% : orange
+ 0.49% : wooden spoon
+ 0.43% : grocery store
+ 0.39% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q053.jpg
+82.55% : banana
+ 1.31% : cucumber
+ 1.01% : lemon
+ 0.83% : jackfruit
+ 0.64% : zucchini
+ 0.61% : ear
+ 0.59% : orange
+ 0.55% : wooden spoon
+ 0.44% : grocery store
+ 0.42% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q054.jpg
+82.89% : banana
+ 1.25% : cucumber
+ 0.97% : lemon
+ 0.82% : jackfruit
+ 0.62% : zucchini
+ 0.59% : ear
+ 0.57% : orange
+ 0.53% : wooden spoon
+ 0.43% : grocery store
+ 0.41% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q055.jpg
+85.17% : banana
+ 1.12% : cucumber
+ 0.79% : lemon
+ 0.69% : jackfruit
+ 0.58% : zucchini
+ 0.56% : ear
+ 0.52% : orange
+ 0.43% : wooden spoon
+ 0.40% : grocery store
+ 0.36% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q056.jpg
+85.55% : banana
+ 1.15% : cucumber
+ 0.81% : lemon
+ 0.67% : jackfruit
+ 0.56% : zucchini
+ 0.54% : ear
+ 0.50% : orange
+ 0.43% : wooden spoon
+ 0.38% : grocery store
+ 0.32% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q057.jpg
+85.62% : banana
+ 1.16% : cucumber
+ 0.80% : lemon
+ 0.66% : jackfruit
+ 0.53% : zucchini
+ 0.51% : ear
+ 0.49% : orange
+ 0.46% : wooden spoon
+ 0.37% : grocery store
+ 0.32% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q058.jpg
+86.47% : banana
+ 0.88% : cucumber
+ 0.75% : lemon
+ 0.68% : jackfruit
+ 0.53% : orange
+ 0.48% : ear
+ 0.48% : zucchini
+ 0.46% : wooden spoon
+ 0.34% : grocery store
+ 0.31% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q059.jpg
+85.59% : banana
+ 0.87% : cucumber
+ 0.78% : lemon
+ 0.73% : jackfruit
+ 0.55% : ear
+ 0.55% : orange
+ 0.52% : wooden spoon
+ 0.47% : zucchini
+ 0.36% : grocery store
+ 0.35% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q060.jpg
+85.18% : banana
+ 0.95% : cucumber
+ 0.82% : lemon
+ 0.79% : jackfruit
+ 0.57% : ear
+ 0.56% : orange
+ 0.52% : zucchini
+ 0.50% : wooden spoon
+ 0.38% : grocery store
+ 0.36% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q061.jpg
+87.36% : banana
+ 0.93% : cucumber
+ 0.77% : lemon
+ 0.68% : jackfruit
+ 0.51% : orange
+ 0.48% : ear
+ 0.48% : zucchini
+ 0.34% : grocery store
+ 0.33% : wooden spoon
+ 0.31% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q062.jpg
+86.71% : banana
+ 1.04% : cucumber
+ 0.83% : lemon
+ 0.71% : jackfruit
+ 0.57% : orange
+ 0.51% : zucchini
+ 0.50% : ear
+ 0.38% : grocery store
+ 0.38% : wooden spoon
+ 0.33% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q063.jpg
+87.04% : banana
+ 1.03% : cucumber
+ 0.78% : lemon
+ 0.67% : jackfruit
+ 0.55% : orange
+ 0.51% : ear
+ 0.51% : zucchini
+ 0.34% : wooden spoon
+ 0.34% : corn
+ 0.33% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q064.jpg
+86.34% : banana
+ 1.10% : cucumber
+ 0.79% : lemon
+ 0.62% : jackfruit
+ 0.56% : orange
+ 0.53% : zucchini
+ 0.50% : ear
+ 0.39% : wooden spoon
+ 0.36% : grocery store
+ 0.34% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q065.jpg
+85.25% : banana
+ 1.06% : cucumber
+ 0.85% : lemon
+ 0.63% : jackfruit
+ 0.60% : orange
+ 0.55% : zucchini
+ 0.54% : ear
+ 0.46% : wooden spoon
+ 0.36% : corn
+ 0.34% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q066.jpg
+84.33% : banana
+ 0.99% : cucumber
+ 0.84% : lemon
+ 0.75% : jackfruit
+ 0.61% : orange
+ 0.59% : ear
+ 0.56% : zucchini
+ 0.48% : wooden spoon
+ 0.37% : corn
+ 0.34% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q067.jpg
+84.36% : banana
+ 1.07% : cucumber
+ 0.89% : lemon
+ 0.79% : jackfruit
+ 0.62% : orange
+ 0.57% : zucchini
+ 0.56% : ear
+ 0.42% : wooden spoon
+ 0.36% : corn
+ 0.35% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q068.jpg
+84.77% : banana
+ 1.00% : lemon
+ 0.98% : cucumber
+ 0.86% : jackfruit
+ 0.64% : orange
+ 0.55% : ear
+ 0.46% : zucchini
+ 0.42% : wooden spoon
+ 0.35% : corn
+ 0.33% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q069.jpg
+83.71% : banana
+ 1.09% : cucumber
+ 1.08% : lemon
+ 0.99% : jackfruit
+ 0.65% : orange
+ 0.56% : ear
+ 0.49% : wooden spoon
+ 0.48% : zucchini
+ 0.38% : mushroom
+ 0.38% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q070.jpg
+83.63% : banana
+ 1.15% : lemon
+ 1.05% : cucumber
+ 0.99% : jackfruit
+ 0.66% : orange
+ 0.56% : ear
+ 0.47% : zucchini
+ 0.46% : wooden spoon
+ 0.39% : corn
+ 0.38% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q071.jpg
+84.71% : banana
+ 1.15% : lemon
+ 1.08% : cucumber
+ 0.89% : jackfruit
+ 0.69% : orange
+ 0.53% : ear
+ 0.48% : zucchini
+ 0.48% : wooden spoon
+ 0.38% : corn
+ 0.33% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q072.jpg
+83.77% : banana
+ 1.21% : cucumber
+ 1.12% : lemon
+ 0.89% : jackfruit
+ 0.71% : orange
+ 0.59% : ear
+ 0.51% : zucchini
+ 0.50% : wooden spoon
+ 0.41% : corn
+ 0.35% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q073.jpg
+84.43% : banana
+ 1.09% : cucumber
+ 1.05% : lemon
+ 0.76% : jackfruit
+ 0.70% : orange
+ 0.49% : wooden spoon
+ 0.49% : ear
+ 0.45% : zucchini
+ 0.35% : crate
+ 0.35% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q074.jpg
+82.09% : banana
+ 1.40% : cucumber
+ 1.13% : lemon
+ 0.90% : jackfruit
+ 0.73% : orange
+ 0.64% : wooden spoon
+ 0.57% : zucchini
+ 0.55% : ear
+ 0.41% : crate
+ 0.39% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q075.jpg
+82.00% : banana
+ 1.40% : cucumber
+ 1.12% : lemon
+ 0.90% : jackfruit
+ 0.73% : orange
+ 0.64% : wooden spoon
+ 0.57% : zucchini
+ 0.54% : ear
+ 0.42% : crate
+ 0.40% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q076.jpg
+80.38% : banana
+ 1.61% : cucumber
+ 1.33% : lemon
+ 1.14% : jackfruit
+ 0.78% : orange
+ 0.69% : wooden spoon
+ 0.63% : zucchini
+ 0.61% : ear
+ 0.46% : mushroom
+ 0.44% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q077.jpg
+81.83% : banana
+ 1.27% : cucumber
+ 1.17% : lemon
+ 0.98% : jackfruit
+ 0.69% : orange
+ 0.62% : wooden spoon
+ 0.58% : zucchini
+ 0.57% : ear
+ 0.40% : crate
+ 0.40% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q078.jpg
+83.68% : banana
+ 1.15% : cucumber
+ 1.13% : lemon
+ 0.90% : jackfruit
+ 0.65% : orange
+ 0.53% : wooden spoon
+ 0.52% : ear
+ 0.51% : zucchini
+ 0.35% : crate
+ 0.34% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q079.jpg
+83.13% : banana
+ 1.17% : cucumber
+ 1.13% : lemon
+ 0.93% : jackfruit
+ 0.62% : orange
+ 0.53% : wooden spoon
+ 0.53% : zucchini
+ 0.51% : ear
+ 0.36% : crate
+ 0.35% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q080.jpg
+83.11% : banana
+ 1.27% : cucumber
+ 1.12% : lemon
+ 0.88% : jackfruit
+ 0.61% : orange
+ 0.57% : zucchini
+ 0.55% : wooden spoon
+ 0.53% : ear
+ 0.36% : grocery store
+ 0.36% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q081.jpg
+82.45% : banana
+ 1.26% : lemon
+ 1.22% : cucumber
+ 0.85% : jackfruit
+ 0.62% : orange
+ 0.61% : wooden spoon
+ 0.57% : ear
+ 0.56% : zucchini
+ 0.41% : grocery store
+ 0.39% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q082.jpg
+82.28% : banana
+ 1.18% : lemon
+ 1.17% : cucumber
+ 0.85% : jackfruit
+ 0.62% : orange
+ 0.56% : zucchini
+ 0.54% : ear
+ 0.54% : wooden spoon
+ 0.41% : grocery store
+ 0.38% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q083.jpg
+80.72% : banana
+ 1.39% : lemon
+ 1.30% : cucumber
+ 0.97% : jackfruit
+ 0.70% : orange
+ 0.61% : zucchini
+ 0.57% : wooden spoon
+ 0.54% : ear
+ 0.44% : grocery store
+ 0.43% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q084.jpg
+82.05% : banana
+ 1.32% : cucumber
+ 1.25% : lemon
+ 0.93% : jackfruit
+ 0.67% : orange
+ 0.62% : zucchini
+ 0.52% : ear
+ 0.47% : wooden spoon
+ 0.41% : grocery store
+ 0.38% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q085.jpg
+81.52% : banana
+ 1.42% : cucumber
+ 1.34% : lemon
+ 1.08% : jackfruit
+ 0.68% : orange
+ 0.62% : zucchini
+ 0.56% : ear
+ 0.53% : wooden spoon
+ 0.40% : grocery store
+ 0.39% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q086.jpg
+82.72% : banana
+ 1.34% : cucumber
+ 1.24% : lemon
+ 1.14% : jackfruit
+ 0.62% : orange
+ 0.61% : zucchini
+ 0.58% : ear
+ 0.46% : wooden spoon
+ 0.39% : corn
+ 0.38% : mushroom
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q087.jpg
+82.64% : banana
+ 1.36% : cucumber
+ 1.27% : lemon
+ 1.07% : jackfruit
+ 0.65% : orange
+ 0.61% : zucchini
+ 0.54% : ear
+ 0.49% : wooden spoon
+ 0.39% : mushroom
+ 0.35% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q088.jpg
+81.95% : banana
+ 1.37% : cucumber
+ 1.31% : lemon
+ 1.16% : jackfruit
+ 0.68% : orange
+ 0.63% : zucchini
+ 0.58% : ear
+ 0.47% : wooden spoon
+ 0.41% : mushroom
+ 0.37% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q089.jpg
+82.03% : banana
+ 1.32% : cucumber
+ 1.30% : lemon
+ 1.18% : jackfruit
+ 0.70% : orange
+ 0.61% : zucchini
+ 0.58% : ear
+ 0.46% : wooden spoon
+ 0.42% : mushroom
+ 0.37% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q090.jpg
+81.71% : banana
+ 1.63% : cucumber
+ 1.34% : lemon
+ 1.05% : jackfruit
+ 0.74% : orange
+ 0.66% : zucchini
+ 0.61% : ear
+ 0.50% : wooden spoon
+ 0.40% : grocery store
+ 0.40% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q091.jpg
+81.58% : banana
+ 1.39% : cucumber
+ 1.25% : lemon
+ 1.03% : jackfruit
+ 0.77% : orange
+ 0.67% : zucchini
+ 0.59% : ear
+ 0.44% : wooden spoon
+ 0.40% : grocery store
+ 0.39% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q092.jpg
+76.70% : banana
+ 1.73% : cucumber
+ 1.46% : lemon
+ 1.25% : jackfruit
+ 0.85% : orange
+ 0.79% : zucchini
+ 0.67% : ear
+ 0.60% : wooden spoon
+ 0.55% : mushroom
+ 0.47% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q093.jpg
+77.45% : banana
+ 1.80% : cucumber
+ 1.44% : lemon
+ 1.28% : jackfruit
+ 0.84% : zucchini
+ 0.80% : orange
+ 0.69% : wooden spoon
+ 0.61% : ear
+ 0.51% : mushroom
+ 0.46% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q094.jpg
+78.53% : banana
+ 1.68% : cucumber
+ 1.46% : lemon
+ 1.23% : jackfruit
+ 0.88% : orange
+ 0.88% : zucchini
+ 0.67% : wooden spoon
+ 0.59% : ear
+ 0.48% : grocery store
+ 0.44% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q095.jpg
+79.34% : banana
+ 1.75% : cucumber
+ 1.43% : lemon
+ 1.13% : jackfruit
+ 0.80% : zucchini
+ 0.79% : orange
+ 0.67% : wooden spoon
+ 0.59% : ear
+ 0.47% : grocery store
+ 0.44% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q096.jpg
+79.79% : banana
+ 1.52% : cucumber
+ 1.48% : lemon
+ 1.17% : jackfruit
+ 0.74% : orange
+ 0.72% : zucchini
+ 0.61% : ear
+ 0.60% : wooden spoon
+ 0.45% : grocery store
+ 0.44% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q097.jpg
+80.17% : banana
+ 1.47% : cucumber
+ 1.42% : lemon
+ 1.15% : jackfruit
+ 0.73% : orange
+ 0.71% : zucchini
+ 0.58% : ear
+ 0.54% : wooden spoon
+ 0.44% : grocery store
+ 0.42% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q098.jpg
+80.35% : banana
+ 1.40% : lemon
+ 1.39% : cucumber
+ 1.09% : jackfruit
+ 0.74% : orange
+ 0.71% : zucchini
+ 0.58% : wooden spoon
+ 0.57% : ear
+ 0.42% : corn
+ 0.42% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q099.jpg
+80.24% : banana
+ 1.51% : cucumber
+ 1.44% : lemon
+ 1.12% : jackfruit
+ 0.73% : zucchini
+ 0.73% : orange
+ 0.58% : ear
+ 0.57% : wooden spoon
+ 0.44% : grocery store
+ 0.43% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana23Q100.jpg
+79.04% : banana
+ 1.64% : cucumber
+ 1.49% : lemon
+ 1.16% : jackfruit
+ 0.81% : zucchini
+ 0.76% : orange
+ 0.62% : ear
+ 0.60% : wooden spoon
+ 0.46% : grocery store
+ 0.45% : corn

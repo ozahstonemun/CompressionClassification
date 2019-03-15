@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ001.jpg
+28.46% : honeycomb
+18.15% : pineapple
+ 3.45% : confectionery
+ 2.38% : tile roof
+ 2.07% : greenhouse
+ 1.29% : vending machine
+ 1.27% : sandal
+ 1.19% : abacus
+ 1.01% : window screen
+ 0.91% : lumbermill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ002.jpg
+29.45% : honeycomb
+17.30% : pineapple
+ 3.50% : confectionery
+ 2.42% : tile roof
+ 2.02% : greenhouse
+ 1.29% : vending machine
+ 1.20% : sandal
+ 1.19% : abacus
+ 0.94% : window screen
+ 0.92% : lumbermill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ003.jpg
+21.38% : pineapple
+16.89% : honeycomb
+15.19% : confectionery
+ 2.92% : vending machine
+ 1.66% : water bottle
+ 1.09% : custard apple
+ 0.88% : greenhouse
+ 0.68% : hen-of-the-woods
+ 0.66% : sandal
+ 0.60% : solar dish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ004.jpg
+90.12% : pineapple
+ 0.56% : honeycomb
+ 0.52% : confectionery
+ 0.37% : custard apple
+ 0.34% : bakery
+ 0.22% : vending machine
+ 0.17% : rotisserie
+ 0.15% : grocery store
+ 0.14% : orange
+ 0.12% : seashore
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ005.jpg
+88.43% : pineapple
+ 4.19% : honeycomb
+ 0.39% : custard apple
+ 0.39% : confectionery
+ 0.32% : horned viper
+ 0.28% : hen-of-the-woods
+ 0.15% : wool
+ 0.14% : hognose snake
+ 0.13% : ear
+ 0.11% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ006.jpg
+91.99% : pineapple
+ 0.93% : honeycomb
+ 0.20% : hen-of-the-woods
+ 0.20% : cardoon
+ 0.15% : custard apple
+ 0.10% : ear
+ 0.09% : seashore
+ 0.07% : microphone
+ 0.07% : horned viper
+ 0.07% : orange
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ007.jpg
+68.74% : pineapple
+ 5.70% : honeycomb
+ 0.69% : horned viper
+ 0.54% : ear
+ 0.53% : hen-of-the-woods
+ 0.49% : hognose snake
+ 0.40% : cardoon
+ 0.35% : sea urchin
+ 0.33% : custard apple
+ 0.27% : seashore
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ008.jpg
+85.08% : pineapple
+ 1.29% : honeycomb
+ 0.27% : hen-of-the-woods
+ 0.25% : ear
+ 0.24% : custard apple
+ 0.22% : seashore
+ 0.21% : horned viper
+ 0.19% : cardoon
+ 0.14% : hognose snake
+ 0.12% : conch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ009.jpg
+91.82% : pineapple
+ 0.93% : honeycomb
+ 0.31% : ear
+ 0.19% : hen-of-the-woods
+ 0.14% : custard apple
+ 0.11% : horned viper
+ 0.09% : seashore
+ 0.09% : cardoon
+ 0.08% : orange
+ 0.06% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ010.jpg
+90.81% : pineapple
+ 0.69% : honeycomb
+ 0.26% : custard apple
+ 0.21% : hen-of-the-woods
+ 0.16% : ear
+ 0.15% : orange
+ 0.14% : cardoon
+ 0.12% : seashore
+ 0.08% : horned viper
+ 0.07% : lionfish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ011.jpg
+80.19% : pineapple
+ 1.59% : honeycomb
+ 0.53% : hen-of-the-woods
+ 0.52% : ear
+ 0.49% : custard apple
+ 0.23% : horned viper
+ 0.18% : seashore
+ 0.17% : cardoon
+ 0.16% : lionfish
+ 0.15% : orange
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ012.jpg
+86.37% : pineapple
+ 0.65% : honeycomb
+ 0.27% : ear
+ 0.21% : custard apple
+ 0.20% : hen-of-the-woods
+ 0.18% : seashore
+ 0.16% : cardoon
+ 0.12% : orange
+ 0.11% : horned viper
+ 0.09% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ013.jpg
+81.48% : pineapple
+ 1.21% : honeycomb
+ 0.42% : hen-of-the-woods
+ 0.34% : ear
+ 0.34% : custard apple
+ 0.22% : seashore
+ 0.19% : cardoon
+ 0.16% : orange
+ 0.15% : acorn
+ 0.15% : horned viper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ014.jpg
+83.95% : pineapple
+ 1.41% : honeycomb
+ 0.45% : ear
+ 0.36% : hen-of-the-woods
+ 0.29% : custard apple
+ 0.24% : acorn
+ 0.15% : seashore
+ 0.15% : orange
+ 0.14% : cardoon
+ 0.12% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ015.jpg
+92.70% : pineapple
+ 0.43% : honeycomb
+ 0.17% : custard apple
+ 0.16% : ear
+ 0.10% : hen-of-the-woods
+ 0.09% : seashore
+ 0.08% : cardoon
+ 0.06% : orange
+ 0.06% : banana
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ016.jpg
+91.32% : pineapple
+ 0.43% : honeycomb
+ 0.17% : custard apple
+ 0.15% : ear
+ 0.11% : hen-of-the-woods
+ 0.10% : orange
+ 0.09% : banana
+ 0.08% : cardoon
+ 0.08% : seashore
+ 0.06% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ017.jpg
+90.41% : pineapple
+ 0.83% : honeycomb
+ 0.19% : ear
+ 0.19% : custard apple
+ 0.17% : hen-of-the-woods
+ 0.09% : acorn
+ 0.09% : cardoon
+ 0.08% : orange
+ 0.08% : seashore
+ 0.07% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ018.jpg
+94.75% : pineapple
+ 0.29% : honeycomb
+ 0.11% : ear
+ 0.10% : custard apple
+ 0.07% : hen-of-the-woods
+ 0.07% : orange
+ 0.06% : seashore
+ 0.05% : banana
+ 0.04% : cardoon
+ 0.04% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ019.jpg
+94.49% : pineapple
+ 0.23% : honeycomb
+ 0.12% : ear
+ 0.11% : custard apple
+ 0.07% : hen-of-the-woods
+ 0.06% : orange
+ 0.06% : cardoon
+ 0.05% : banana
+ 0.05% : seashore
+ 0.04% : lionfish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ020.jpg
+94.92% : pineapple
+ 0.29% : honeycomb
+ 0.11% : ear
+ 0.10% : custard apple
+ 0.06% : hen-of-the-woods
+ 0.05% : cardoon
+ 0.05% : orange
+ 0.05% : banana
+ 0.05% : seashore
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ021.jpg
+91.10% : pineapple
+ 0.64% : honeycomb
+ 0.23% : custard apple
+ 0.14% : ear
+ 0.10% : orange
+ 0.09% : hen-of-the-woods
+ 0.08% : banana
+ 0.07% : cardoon
+ 0.07% : acorn
+ 0.07% : seashore
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ022.jpg
+90.11% : pineapple
+ 0.48% : honeycomb
+ 0.22% : custard apple
+ 0.18% : ear
+ 0.11% : hen-of-the-woods
+ 0.11% : orange
+ 0.08% : seashore
+ 0.08% : banana
+ 0.08% : acorn
+ 0.08% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ023.jpg
+93.23% : pineapple
+ 0.29% : honeycomb
+ 0.14% : custard apple
+ 0.13% : ear
+ 0.09% : hen-of-the-woods
+ 0.07% : orange
+ 0.07% : banana
+ 0.07% : seashore
+ 0.06% : acorn
+ 0.05% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ024.jpg
+95.42% : pineapple
+ 0.18% : honeycomb
+ 0.09% : custard apple
+ 0.07% : ear
+ 0.06% : hen-of-the-woods
+ 0.05% : orange
+ 0.05% : seashore
+ 0.05% : banana
+ 0.05% : cardoon
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ025.jpg
+97.09% : pineapple
+ 0.11% : honeycomb
+ 0.06% : ear
+ 0.05% : custard apple
+ 0.04% : orange
+ 0.04% : banana
+ 0.03% : seashore
+ 0.03% : hen-of-the-woods
+ 0.02% : cardoon
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ026.jpg
+96.81% : pineapple
+ 0.17% : honeycomb
+ 0.07% : custard apple
+ 0.06% : ear
+ 0.04% : orange
+ 0.04% : banana
+ 0.03% : seashore
+ 0.03% : hen-of-the-woods
+ 0.03% : cardoon
+ 0.03% : carton
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ027.jpg
+97.25% : pineapple
+ 0.13% : honeycomb
+ 0.06% : custard apple
+ 0.05% : ear
+ 0.04% : orange
+ 0.04% : banana
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : hen-of-the-woods
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ028.jpg
+96.48% : pineapple
+ 0.18% : honeycomb
+ 0.09% : ear
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.05% : orange
+ 0.04% : seashore
+ 0.04% : corn
+ 0.03% : cardoon
+ 0.03% : hen-of-the-woods
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ029.jpg
+95.65% : pineapple
+ 0.27% : honeycomb
+ 0.14% : ear
+ 0.10% : custard apple
+ 0.06% : banana
+ 0.06% : orange
+ 0.06% : corn
+ 0.04% : cardoon
+ 0.04% : seashore
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ030.jpg
+96.50% : pineapple
+ 0.17% : honeycomb
+ 0.07% : custard apple
+ 0.07% : ear
+ 0.05% : banana
+ 0.04% : orange
+ 0.04% : hen-of-the-woods
+ 0.04% : seashore
+ 0.03% : cardoon
+ 0.03% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ031.jpg
+94.20% : pineapple
+ 0.29% : honeycomb
+ 0.11% : ear
+ 0.09% : custard apple
+ 0.07% : hen-of-the-woods
+ 0.07% : banana
+ 0.06% : orange
+ 0.05% : seashore
+ 0.05% : cardoon
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ032.jpg
+94.56% : pineapple
+ 0.19% : honeycomb
+ 0.11% : ear
+ 0.10% : custard apple
+ 0.08% : banana
+ 0.07% : orange
+ 0.06% : hen-of-the-woods
+ 0.05% : seashore
+ 0.05% : acorn
+ 0.05% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ033.jpg
+96.94% : pineapple
+ 0.10% : honeycomb
+ 0.08% : custard apple
+ 0.05% : banana
+ 0.05% : ear
+ 0.05% : orange
+ 0.04% : seashore
+ 0.03% : cardoon
+ 0.03% : acorn
+ 0.03% : hen-of-the-woods
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ034.jpg
+97.83% : pineapple
+ 0.06% : honeycomb
+ 0.04% : ear
+ 0.04% : custard apple
+ 0.04% : banana
+ 0.03% : orange
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ035.jpg
+97.19% : pineapple
+ 0.13% : honeycomb
+ 0.09% : ear
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.04% : orange
+ 0.03% : seashore
+ 0.03% : corn
+ 0.03% : cardoon
+ 0.03% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ036.jpg
+97.55% : pineapple
+ 0.09% : honeycomb
+ 0.05% : ear
+ 0.04% : custard apple
+ 0.04% : banana
+ 0.03% : seashore
+ 0.03% : orange
+ 0.03% : cardoon
+ 0.02% : corn
+ 0.02% : hen-of-the-woods
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ037.jpg
+97.86% : pineapple
+ 0.07% : honeycomb
+ 0.05% : ear
+ 0.04% : custard apple
+ 0.03% : banana
+ 0.03% : seashore
+ 0.03% : orange
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ038.jpg
+97.46% : pineapple
+ 0.09% : honeycomb
+ 0.06% : ear
+ 0.06% : custard apple
+ 0.04% : banana
+ 0.04% : orange
+ 0.03% : seashore
+ 0.03% : corn
+ 0.02% : cardoon
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ039.jpg
+97.68% : pineapple
+ 0.08% : honeycomb
+ 0.05% : custard apple
+ 0.05% : ear
+ 0.04% : banana
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ040.jpg
+97.86% : pineapple
+ 0.06% : honeycomb
+ 0.05% : custard apple
+ 0.04% : ear
+ 0.04% : banana
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : acorn
+ 0.02% : hen-of-the-woods
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ041.jpg
+97.69% : pineapple
+ 0.07% : honeycomb
+ 0.06% : ear
+ 0.05% : custard apple
+ 0.04% : banana
+ 0.03% : orange
+ 0.03% : seashore
+ 0.02% : corn
+ 0.02% : cardoon
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ042.jpg
+97.34% : pineapple
+ 0.09% : honeycomb
+ 0.07% : ear
+ 0.06% : custard apple
+ 0.05% : banana
+ 0.04% : orange
+ 0.03% : corn
+ 0.03% : seashore
+ 0.03% : acorn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ043.jpg
+98.00% : pineapple
+ 0.06% : honeycomb
+ 0.05% : ear
+ 0.04% : banana
+ 0.04% : custard apple
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : acorn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ044.jpg
+96.96% : pineapple
+ 0.14% : honeycomb
+ 0.08% : ear
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.04% : orange
+ 0.03% : seashore
+ 0.03% : acorn
+ 0.03% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ045.jpg
+96.70% : pineapple
+ 0.14% : honeycomb
+ 0.08% : ear
+ 0.08% : custard apple
+ 0.06% : banana
+ 0.04% : orange
+ 0.03% : seashore
+ 0.03% : acorn
+ 0.03% : corn
+ 0.03% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ046.jpg
+97.51% : pineapple
+ 0.08% : honeycomb
+ 0.07% : ear
+ 0.05% : custard apple
+ 0.04% : banana
+ 0.03% : orange
+ 0.03% : corn
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ047.jpg
+97.17% : pineapple
+ 0.10% : honeycomb
+ 0.08% : ear
+ 0.05% : custard apple
+ 0.04% : banana
+ 0.03% : orange
+ 0.03% : cardoon
+ 0.03% : corn
+ 0.03% : seashore
+ 0.03% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ048.jpg
+96.44% : pineapple
+ 0.14% : honeycomb
+ 0.08% : ear
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.04% : orange
+ 0.03% : cardoon
+ 0.03% : acorn
+ 0.03% : seashore
+ 0.03% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ049.jpg
+96.45% : pineapple
+ 0.12% : honeycomb
+ 0.08% : custard apple
+ 0.07% : ear
+ 0.06% : banana
+ 0.04% : orange
+ 0.04% : cardoon
+ 0.03% : seashore
+ 0.03% : acorn
+ 0.03% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ050.jpg
+96.78% : pineapple
+ 0.10% : honeycomb
+ 0.07% : custard apple
+ 0.06% : ear
+ 0.06% : banana
+ 0.04% : orange
+ 0.03% : cardoon
+ 0.03% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ051.jpg
+96.41% : pineapple
+ 0.11% : honeycomb
+ 0.08% : custard apple
+ 0.07% : ear
+ 0.07% : banana
+ 0.05% : orange
+ 0.03% : cardoon
+ 0.03% : seashore
+ 0.03% : acorn
+ 0.03% : hen-of-the-woods
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ052.jpg
+96.61% : pineapple
+ 0.13% : honeycomb
+ 0.09% : custard apple
+ 0.07% : ear
+ 0.06% : banana
+ 0.05% : orange
+ 0.03% : seashore
+ 0.03% : cardoon
+ 0.03% : acorn
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ053.jpg
+97.23% : pineapple
+ 0.09% : honeycomb
+ 0.08% : custard apple
+ 0.05% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : acorn
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ054.jpg
+96.92% : pineapple
+ 0.11% : honeycomb
+ 0.08% : custard apple
+ 0.06% : ear
+ 0.06% : banana
+ 0.04% : orange
+ 0.03% : seashore
+ 0.03% : cardoon
+ 0.03% : acorn
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ055.jpg
+97.66% : pineapple
+ 0.05% : honeycomb
+ 0.05% : custard apple
+ 0.05% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ056.jpg
+97.56% : pineapple
+ 0.06% : custard apple
+ 0.06% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ057.jpg
+97.72% : pineapple
+ 0.06% : custard apple
+ 0.05% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ058.jpg
+97.25% : pineapple
+ 0.09% : custard apple
+ 0.08% : honeycomb
+ 0.06% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : jackfruit
+ 0.02% : cardoon
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ059.jpg
+98.02% : pineapple
+ 0.06% : custard apple
+ 0.05% : honeycomb
+ 0.05% : banana
+ 0.03% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : corn
+ 0.01% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ060.jpg
+97.42% : pineapple
+ 0.08% : honeycomb
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ061.jpg
+98.09% : pineapple
+ 0.05% : honeycomb
+ 0.05% : custard apple
+ 0.05% : ear
+ 0.04% : banana
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : acorn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ062.jpg
+98.05% : pineapple
+ 0.05% : honeycomb
+ 0.05% : custard apple
+ 0.04% : ear
+ 0.04% : banana
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ063.jpg
+97.81% : pineapple
+ 0.06% : custard apple
+ 0.06% : honeycomb
+ 0.05% : banana
+ 0.05% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ064.jpg
+97.57% : pineapple
+ 0.08% : custard apple
+ 0.06% : honeycomb
+ 0.05% : banana
+ 0.05% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ065.jpg
+97.72% : pineapple
+ 0.08% : custard apple
+ 0.06% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : cardoon
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ066.jpg
+97.95% : pineapple
+ 0.07% : custard apple
+ 0.06% : honeycomb
+ 0.04% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : cardoon
+ 0.01% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ067.jpg
+97.76% : pineapple
+ 0.09% : custard apple
+ 0.07% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : acorn
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ068.jpg
+97.98% : pineapple
+ 0.07% : custard apple
+ 0.05% : honeycomb
+ 0.04% : banana
+ 0.03% : orange
+ 0.03% : ear
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : cardoon
+ 0.02% : lionfish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ069.jpg
+98.06% : pineapple
+ 0.06% : custard apple
+ 0.06% : honeycomb
+ 0.04% : banana
+ 0.03% : orange
+ 0.03% : ear
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : cardoon
+ 0.01% : lionfish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ070.jpg
+98.34% : pineapple
+ 0.07% : honeycomb
+ 0.06% : custard apple
+ 0.03% : banana
+ 0.03% : ear
+ 0.03% : orange
+ 0.02% : acorn
+ 0.02% : seashore
+ 0.01% : cardoon
+ 0.01% : lionfish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ071.jpg
+97.84% : pineapple
+ 0.09% : honeycomb
+ 0.08% : custard apple
+ 0.05% : banana
+ 0.04% : orange
+ 0.03% : ear
+ 0.02% : acorn
+ 0.02% : seashore
+ 0.02% : jackfruit
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ072.jpg
+97.42% : pineapple
+ 0.10% : honeycomb
+ 0.10% : custard apple
+ 0.06% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.03% : acorn
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ073.jpg
+97.13% : pineapple
+ 0.11% : honeycomb
+ 0.10% : custard apple
+ 0.06% : banana
+ 0.05% : ear
+ 0.05% : orange
+ 0.03% : acorn
+ 0.03% : seashore
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ074.jpg
+97.17% : pineapple
+ 0.11% : honeycomb
+ 0.09% : custard apple
+ 0.06% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : acorn
+ 0.03% : seashore
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ075.jpg
+97.29% : pineapple
+ 0.10% : honeycomb
+ 0.08% : custard apple
+ 0.06% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : acorn
+ 0.03% : seashore
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ076.jpg
+97.35% : pineapple
+ 0.09% : honeycomb
+ 0.08% : custard apple
+ 0.06% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : acorn
+ 0.02% : cardoon
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ077.jpg
+97.02% : pineapple
+ 0.10% : honeycomb
+ 0.08% : custard apple
+ 0.06% : banana
+ 0.05% : ear
+ 0.05% : orange
+ 0.03% : seashore
+ 0.03% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ078.jpg
+96.42% : pineapple
+ 0.12% : honeycomb
+ 0.10% : custard apple
+ 0.07% : ear
+ 0.07% : banana
+ 0.05% : orange
+ 0.03% : acorn
+ 0.03% : corn
+ 0.03% : seashore
+ 0.03% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ079.jpg
+96.95% : pineapple
+ 0.09% : honeycomb
+ 0.08% : custard apple
+ 0.07% : ear
+ 0.06% : banana
+ 0.05% : orange
+ 0.03% : corn
+ 0.03% : acorn
+ 0.03% : seashore
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ080.jpg
+97.58% : pineapple
+ 0.08% : honeycomb
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ081.jpg
+97.62% : pineapple
+ 0.11% : honeycomb
+ 0.08% : custard apple
+ 0.05% : ear
+ 0.05% : banana
+ 0.04% : orange
+ 0.02% : acorn
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ082.jpg
+97.93% : pineapple
+ 0.08% : honeycomb
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ083.jpg
+97.92% : pineapple
+ 0.08% : custard apple
+ 0.07% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ084.jpg
+97.52% : pineapple
+ 0.09% : custard apple
+ 0.08% : honeycomb
+ 0.05% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ085.jpg
+97.27% : pineapple
+ 0.10% : custard apple
+ 0.09% : honeycomb
+ 0.06% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.03% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ086.jpg
+97.79% : pineapple
+ 0.08% : custard apple
+ 0.07% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.04% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ087.jpg
+97.77% : pineapple
+ 0.07% : honeycomb
+ 0.07% : custard apple
+ 0.05% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : acorn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ088.jpg
+97.67% : pineapple
+ 0.08% : custard apple
+ 0.08% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : acorn
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ089.jpg
+97.85% : pineapple
+ 0.07% : custard apple
+ 0.07% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : cardoon
+ 0.02% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ090.jpg
+97.82% : pineapple
+ 0.07% : custard apple
+ 0.07% : honeycomb
+ 0.04% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.03% : acorn
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ091.jpg
+98.09% : pineapple
+ 0.06% : custard apple
+ 0.06% : honeycomb
+ 0.04% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ092.jpg
+98.30% : pineapple
+ 0.05% : custard apple
+ 0.04% : honeycomb
+ 0.04% : banana
+ 0.03% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.01% : acorn
+ 0.01% : corn
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ093.jpg
+98.40% : pineapple
+ 0.05% : custard apple
+ 0.05% : honeycomb
+ 0.04% : banana
+ 0.03% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.01% : corn
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ094.jpg
+98.20% : pineapple
+ 0.07% : honeycomb
+ 0.06% : custard apple
+ 0.04% : ear
+ 0.04% : banana
+ 0.03% : orange
+ 0.02% : acorn
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ095.jpg
+97.95% : pineapple
+ 0.07% : custard apple
+ 0.07% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ096.jpg
+98.10% : pineapple
+ 0.06% : custard apple
+ 0.06% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.01% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ097.jpg
+98.00% : pineapple
+ 0.07% : custard apple
+ 0.06% : honeycomb
+ 0.05% : banana
+ 0.04% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : acorn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ098.jpg
+97.78% : pineapple
+ 0.08% : custard apple
+ 0.07% : honeycomb
+ 0.05% : banana
+ 0.05% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ099.jpg
+97.72% : pineapple
+ 0.08% : honeycomb
+ 0.07% : custard apple
+ 0.06% : banana
+ 0.05% : ear
+ 0.04% : orange
+ 0.02% : seashore
+ 0.02% : corn
+ 0.02% : acorn
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colorpineapple/colorPineappleQ100.jpg
+97.69% : pineapple
+ 0.08% : honeycomb
+ 0.08% : custard apple
+ 0.05% : banana
+ 0.05% : ear
+ 0.03% : orange
+ 0.02% : seashore
+ 0.02% : acorn
+ 0.02% : corn
+ 0.02% : jackfruit

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q001.jpg
+70.99% : orange
+ 2.88% : strawberry
+ 2.87% : confectionery
+ 2.04% : packet
+ 1.60% : rubber eraser
+ 1.13% : hamper
+ 1.00% : carton
+ 0.97% : vending machine
+ 0.75% : pineapple
+ 0.62% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q002.jpg
+69.78% : orange
+ 3.17% : confectionery
+ 2.98% : strawberry
+ 2.16% : packet
+ 1.66% : rubber eraser
+ 1.19% : hamper
+ 1.02% : carton
+ 0.99% : vending machine
+ 0.76% : pineapple
+ 0.63% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q003.jpg
+59.26% : orange
+ 5.03% : confectionery
+ 3.11% : packet
+ 3.03% : strawberry
+ 2.56% : hamper
+ 2.06% : rubber eraser
+ 1.78% : vending machine
+ 1.13% : carton
+ 0.88% : shopping basket
+ 0.83% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q004.jpg
+73.38% : orange
+ 7.83% : lemon
+ 1.45% : wool
+ 0.87% : strawberry
+ 0.83% : French loaf
+ 0.64% : banana
+ 0.64% : rubber eraser
+ 0.50% : pineapple
+ 0.45% : confectionery
+ 0.41% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q005.jpg
+39.65% : lemon
+38.84% : orange
+ 3.09% : pineapple
+ 1.30% : ice lolly
+ 1.26% : rubber eraser
+ 0.98% : tennis ball
+ 0.89% : banana
+ 0.85% : strawberry
+ 0.59% : French loaf
+ 0.49% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q006.jpg
+27.29% : orange
+ 9.04% : lemon
+ 5.10% : rubber eraser
+ 2.36% : strawberry
+ 2.26% : shopping basket
+ 2.04% : pineapple
+ 1.66% : crate
+ 1.46% : banana
+ 1.42% : wool
+ 1.25% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q007.jpg
+30.24% : lemon
+14.64% : orange
+ 3.42% : rubber eraser
+ 2.73% : Granny Smith
+ 2.14% : pineapple
+ 1.93% : French loaf
+ 1.91% : tennis ball
+ 1.37% : banana
+ 1.33% : crate
+ 1.08% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q008.jpg
+33.91% : orange
+16.61% : lemon
+ 2.81% : crate
+ 2.74% : pineapple
+ 2.31% : banana
+ 1.96% : French loaf
+ 1.65% : spaghetti squash
+ 1.18% : strawberry
+ 1.15% : Granny Smith
+ 1.13% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q009.jpg
+42.73% : lemon
+15.67% : orange
+ 4.39% : tennis ball
+ 2.81% : rubber eraser
+ 1.44% : plastic bag
+ 1.33% : spaghetti squash
+ 1.30% : banana
+ 1.23% : Granny Smith
+ 1.03% : shopping basket
+ 0.82% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q010.jpg
+30.45% : orange
+30.33% : lemon
+ 2.62% : French loaf
+ 2.06% : banana
+ 2.06% : spaghetti squash
+ 1.79% : pineapple
+ 1.17% : Granny Smith
+ 0.99% : jackfruit
+ 0.95% : shovel
+ 0.92% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q011.jpg
+42.01% : lemon
+13.48% : orange
+ 2.93% : spaghetti squash
+ 2.17% : banana
+ 2.10% : French loaf
+ 1.53% : Granny Smith
+ 1.24% : plastic bag
+ 1.23% : jackfruit
+ 1.09% : shovel
+ 1.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q012.jpg
+31.76% : lemon
+27.78% : orange
+ 4.04% : French loaf
+ 2.32% : banana
+ 1.99% : pineapple
+ 1.46% : jackfruit
+ 1.33% : Granny Smith
+ 1.09% : spaghetti squash
+ 1.09% : ice lolly
+ 1.06% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q013.jpg
+40.28% : lemon
+19.46% : orange
+ 1.62% : banana
+ 1.54% : shopping basket
+ 1.45% : plastic bag
+ 1.36% : Granny Smith
+ 1.27% : French loaf
+ 1.25% : spaghetti squash
+ 1.22% : pineapple
+ 1.21% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q014.jpg
+29.30% : lemon
+26.79% : orange
+ 2.35% : ice lolly
+ 1.89% : Granny Smith
+ 1.87% : pineapple
+ 1.87% : banana
+ 1.79% : French loaf
+ 1.48% : rubber eraser
+ 1.23% : strawberry
+ 1.23% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q015.jpg
+41.31% : lemon
+21.42% : orange
+ 1.99% : banana
+ 1.82% : spaghetti squash
+ 1.65% : French loaf
+ 1.56% : ice lolly
+ 1.39% : pineapple
+ 1.29% : Granny Smith
+ 1.17% : shopping basket
+ 0.94% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q016.jpg
+30.07% : orange
+26.56% : lemon
+ 2.49% : ice lolly
+ 2.01% : rubber eraser
+ 1.86% : French loaf
+ 1.50% : banana
+ 1.28% : spaghetti squash
+ 1.18% : Granny Smith
+ 1.03% : jackfruit
+ 0.89% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q017.jpg
+29.63% : lemon
+19.75% : orange
+ 3.37% : French loaf
+ 2.75% : Granny Smith
+ 2.09% : banana
+ 2.06% : spaghetti squash
+ 1.86% : jackfruit
+ 1.66% : rubber eraser
+ 1.55% : ice lolly
+ 1.54% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q018.jpg
+25.81% : lemon
+23.37% : orange
+ 2.66% : French loaf
+ 2.37% : ice lolly
+ 2.23% : rubber eraser
+ 2.10% : banana
+ 2.01% : shopping basket
+ 1.59% : jackfruit
+ 1.36% : Granny Smith
+ 1.19% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q019.jpg
+34.30% : lemon
+19.28% : orange
+ 2.49% : French loaf
+ 2.21% : ice lolly
+ 2.12% : Granny Smith
+ 1.82% : shopping basket
+ 1.76% : rubber eraser
+ 1.47% : banana
+ 1.07% : jackfruit
+ 1.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q020.jpg
+36.91% : lemon
+28.81% : orange
+ 2.11% : ice lolly
+ 1.38% : Granny Smith
+ 1.30% : banana
+ 1.27% : French loaf
+ 1.25% : rubber eraser
+ 1.13% : shopping basket
+ 0.88% : pineapple
+ 0.80% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q021.jpg
+33.56% : lemon
+29.95% : orange
+ 2.48% : French loaf
+ 1.84% : shopping basket
+ 1.54% : banana
+ 1.37% : Granny Smith
+ 1.37% : ice lolly
+ 0.96% : jackfruit
+ 0.77% : rubber eraser
+ 0.75% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q022.jpg
+36.25% : lemon
+28.93% : orange
+ 1.64% : ice lolly
+ 1.50% : French loaf
+ 1.50% : Granny Smith
+ 1.41% : banana
+ 1.30% : shopping basket
+ 0.93% : pineapple
+ 0.93% : rubber eraser
+ 0.87% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q023.jpg
+33.90% : lemon
+33.41% : orange
+ 1.83% : ice lolly
+ 1.74% : French loaf
+ 1.51% : banana
+ 0.95% : pineapple
+ 0.93% : shopping basket
+ 0.92% : spaghetti squash
+ 0.87% : jackfruit
+ 0.87% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q024.jpg
+31.74% : lemon
+31.31% : orange
+ 1.81% : ice lolly
+ 1.61% : banana
+ 1.46% : French loaf
+ 1.29% : shopping basket
+ 1.12% : Granny Smith
+ 1.08% : pineapple
+ 0.97% : jackfruit
+ 0.86% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q025.jpg
+42.26% : lemon
+26.59% : orange
+ 1.99% : ice lolly
+ 1.29% : banana
+ 1.08% : jackfruit
+ 1.03% : shopping basket
+ 1.01% : French loaf
+ 0.82% : Granny Smith
+ 0.78% : strawberry
+ 0.71% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q026.jpg
+46.09% : lemon
+22.25% : orange
+ 1.80% : ice lolly
+ 1.25% : French loaf
+ 1.17% : banana
+ 1.07% : Granny Smith
+ 1.05% : shopping basket
+ 0.99% : jackfruit
+ 0.91% : rubber eraser
+ 0.79% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q027.jpg
+40.21% : lemon
+27.95% : orange
+ 2.29% : ice lolly
+ 1.12% : Granny Smith
+ 1.10% : rubber eraser
+ 1.05% : banana
+ 1.03% : French loaf
+ 0.98% : shopping basket
+ 0.92% : jackfruit
+ 0.72% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q028.jpg
+41.40% : lemon
+27.21% : orange
+ 2.02% : ice lolly
+ 1.28% : banana
+ 1.18% : shopping basket
+ 1.07% : French loaf
+ 1.06% : rubber eraser
+ 0.82% : Granny Smith
+ 0.70% : jackfruit
+ 0.68% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q029.jpg
+36.28% : lemon
+31.48% : orange
+ 1.72% : ice lolly
+ 1.28% : banana
+ 1.14% : shopping basket
+ 1.07% : French loaf
+ 1.04% : rubber eraser
+ 0.85% : Granny Smith
+ 0.74% : jackfruit
+ 0.65% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q030.jpg
+38.71% : lemon
+29.36% : orange
+ 2.85% : ice lolly
+ 1.30% : French loaf
+ 1.26% : rubber eraser
+ 1.23% : banana
+ 1.14% : shopping basket
+ 0.90% : Granny Smith
+ 0.72% : jackfruit
+ 0.72% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q031.jpg
+38.20% : lemon
+22.20% : orange
+ 2.86% : ice lolly
+ 1.44% : rubber eraser
+ 1.39% : banana
+ 1.36% : French loaf
+ 1.27% : jackfruit
+ 1.26% : shopping basket
+ 1.15% : Granny Smith
+ 0.83% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q032.jpg
+40.95% : lemon
+19.99% : orange
+ 2.73% : ice lolly
+ 1.61% : French loaf
+ 1.48% : shopping basket
+ 1.23% : banana
+ 1.23% : jackfruit
+ 0.95% : rubber eraser
+ 0.94% : Granny Smith
+ 0.76% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q033.jpg
+36.12% : lemon
+25.09% : orange
+ 2.19% : ice lolly
+ 1.71% : French loaf
+ 1.33% : shopping basket
+ 1.27% : banana
+ 1.22% : rubber eraser
+ 1.12% : jackfruit
+ 1.00% : Granny Smith
+ 0.81% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q034.jpg
+29.70% : lemon
+28.93% : orange
+ 2.30% : French loaf
+ 2.00% : ice lolly
+ 1.61% : banana
+ 1.57% : shopping basket
+ 1.22% : jackfruit
+ 1.20% : Granny Smith
+ 1.15% : rubber eraser
+ 0.79% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q035.jpg
+33.37% : lemon
+26.10% : orange
+ 2.07% : French loaf
+ 1.94% : ice lolly
+ 1.76% : shopping basket
+ 1.67% : banana
+ 1.04% : jackfruit
+ 0.99% : Granny Smith
+ 0.92% : pineapple
+ 0.90% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q036.jpg
+35.39% : lemon
+25.90% : orange
+ 1.66% : shopping basket
+ 1.60% : ice lolly
+ 1.48% : French loaf
+ 1.45% : banana
+ 0.89% : rubber eraser
+ 0.84% : Granny Smith
+ 0.79% : jackfruit
+ 0.73% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q037.jpg
+34.62% : lemon
+29.65% : orange
+ 1.58% : shopping basket
+ 1.51% : ice lolly
+ 1.39% : banana
+ 1.25% : French loaf
+ 0.90% : rubber eraser
+ 0.78% : Granny Smith
+ 0.67% : pineapple
+ 0.66% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q038.jpg
+37.19% : lemon
+29.78% : orange
+ 1.75% : ice lolly
+ 1.71% : French loaf
+ 1.25% : shopping basket
+ 1.20% : banana
+ 0.79% : jackfruit
+ 0.79% : pineapple
+ 0.72% : Granny Smith
+ 0.69% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q039.jpg
+34.44% : lemon
+30.61% : orange
+ 2.23% : ice lolly
+ 1.81% : French loaf
+ 1.29% : banana
+ 1.20% : shopping basket
+ 0.81% : strawberry
+ 0.76% : pineapple
+ 0.76% : Granny Smith
+ 0.69% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q040.jpg
+34.56% : lemon
+31.09% : orange
+ 2.60% : ice lolly
+ 1.41% : French loaf
+ 1.21% : banana
+ 1.18% : shopping basket
+ 0.75% : jackfruit
+ 0.74% : Granny Smith
+ 0.72% : pineapple
+ 0.72% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q041.jpg
+36.80% : lemon
+30.74% : orange
+ 2.74% : ice lolly
+ 1.29% : French loaf
+ 1.09% : shopping basket
+ 0.99% : banana
+ 0.83% : rubber eraser
+ 0.74% : jackfruit
+ 0.72% : Granny Smith
+ 0.60% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q042.jpg
+37.59% : lemon
+28.33% : orange
+ 3.14% : ice lolly
+ 1.43% : French loaf
+ 1.23% : shopping basket
+ 1.10% : banana
+ 0.80% : Granny Smith
+ 0.76% : rubber eraser
+ 0.73% : jackfruit
+ 0.67% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q043.jpg
+38.20% : lemon
+28.86% : orange
+ 3.08% : ice lolly
+ 1.40% : French loaf
+ 1.18% : shopping basket
+ 1.13% : banana
+ 0.81% : Granny Smith
+ 0.74% : rubber eraser
+ 0.66% : jackfruit
+ 0.66% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q044.jpg
+35.69% : lemon
+30.66% : orange
+ 1.96% : ice lolly
+ 1.62% : French loaf
+ 1.27% : shopping basket
+ 1.26% : banana
+ 0.84% : rubber eraser
+ 0.80% : jackfruit
+ 0.78% : pineapple
+ 0.74% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q045.jpg
+34.76% : lemon
+29.65% : orange
+ 2.15% : ice lolly
+ 1.70% : French loaf
+ 1.31% : banana
+ 1.28% : shopping basket
+ 0.89% : jackfruit
+ 0.85% : rubber eraser
+ 0.79% : pineapple
+ 0.79% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q046.jpg
+33.52% : lemon
+32.11% : orange
+ 3.77% : ice lolly
+ 1.31% : banana
+ 1.24% : French loaf
+ 1.13% : shopping basket
+ 0.84% : pineapple
+ 0.82% : jackfruit
+ 0.80% : rubber eraser
+ 0.79% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q047.jpg
+33.48% : lemon
+32.31% : orange
+ 3.74% : ice lolly
+ 1.30% : banana
+ 1.25% : French loaf
+ 1.12% : shopping basket
+ 0.84% : pineapple
+ 0.82% : jackfruit
+ 0.79% : rubber eraser
+ 0.79% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q048.jpg
+33.58% : lemon
+32.31% : orange
+ 3.68% : ice lolly
+ 1.24% : banana
+ 1.22% : shopping basket
+ 1.13% : French loaf
+ 0.85% : rubber eraser
+ 0.77% : strawberry
+ 0.76% : pineapple
+ 0.74% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q049.jpg
+38.14% : lemon
+28.19% : orange
+ 2.77% : ice lolly
+ 1.38% : French loaf
+ 1.31% : shopping basket
+ 1.21% : banana
+ 0.79% : jackfruit
+ 0.79% : Granny Smith
+ 0.77% : strawberry
+ 0.68% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q050.jpg
+38.13% : lemon
+28.25% : orange
+ 2.74% : ice lolly
+ 1.38% : French loaf
+ 1.30% : shopping basket
+ 1.21% : banana
+ 0.80% : jackfruit
+ 0.80% : Granny Smith
+ 0.76% : strawberry
+ 0.68% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q051.jpg
+38.11% : lemon
+27.98% : orange
+ 2.80% : ice lolly
+ 1.41% : French loaf
+ 1.32% : shopping basket
+ 1.21% : banana
+ 0.81% : Granny Smith
+ 0.79% : jackfruit
+ 0.76% : strawberry
+ 0.68% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q052.jpg
+36.48% : lemon
+29.02% : orange
+ 2.17% : ice lolly
+ 1.47% : French loaf
+ 1.35% : shopping basket
+ 1.17% : banana
+ 0.84% : rubber eraser
+ 0.77% : jackfruit
+ 0.70% : pineapple
+ 0.70% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q053.jpg
+37.67% : lemon
+29.53% : orange
+ 1.91% : ice lolly
+ 1.54% : French loaf
+ 1.24% : shopping basket
+ 1.13% : banana
+ 0.82% : rubber eraser
+ 0.71% : jackfruit
+ 0.64% : Granny Smith
+ 0.64% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q054.jpg
+37.68% : lemon
+29.46% : orange
+ 1.83% : ice lolly
+ 1.54% : French loaf
+ 1.22% : shopping basket
+ 1.12% : banana
+ 0.80% : rubber eraser
+ 0.72% : jackfruit
+ 0.63% : Granny Smith
+ 0.63% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q055.jpg
+35.19% : lemon
+27.74% : orange
+ 3.19% : ice lolly
+ 1.45% : French loaf
+ 1.32% : rubber eraser
+ 1.28% : shopping basket
+ 1.04% : banana
+ 0.73% : jackfruit
+ 0.72% : Granny Smith
+ 0.66% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q056.jpg
+36.29% : lemon
+28.72% : orange
+ 2.85% : ice lolly
+ 1.34% : French loaf
+ 1.20% : shopping basket
+ 1.16% : rubber eraser
+ 1.02% : banana
+ 0.71% : jackfruit
+ 0.66% : Granny Smith
+ 0.63% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q057.jpg
+35.04% : lemon
+29.11% : orange
+ 3.13% : ice lolly
+ 1.30% : French loaf
+ 1.19% : shopping basket
+ 1.09% : rubber eraser
+ 1.06% : banana
+ 0.72% : jackfruit
+ 0.70% : Granny Smith
+ 0.64% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q058.jpg
+38.83% : lemon
+27.98% : orange
+ 2.72% : ice lolly
+ 1.44% : French loaf
+ 1.09% : shopping basket
+ 0.99% : banana
+ 0.85% : rubber eraser
+ 0.67% : jackfruit
+ 0.66% : Granny Smith
+ 0.66% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q059.jpg
+38.85% : lemon
+27.97% : orange
+ 2.69% : ice lolly
+ 1.37% : French loaf
+ 1.11% : shopping basket
+ 1.01% : banana
+ 0.87% : rubber eraser
+ 0.70% : Granny Smith
+ 0.66% : jackfruit
+ 0.65% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q060.jpg
+38.40% : lemon
+27.87% : orange
+ 2.87% : ice lolly
+ 1.40% : French loaf
+ 1.10% : shopping basket
+ 1.02% : banana
+ 0.85% : rubber eraser
+ 0.70% : Granny Smith
+ 0.68% : pineapple
+ 0.67% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q061.jpg
+35.76% : lemon
+25.50% : orange
+ 2.58% : ice lolly
+ 1.74% : French loaf
+ 1.57% : shopping basket
+ 1.26% : banana
+ 0.92% : Granny Smith
+ 0.76% : rubber eraser
+ 0.73% : pineapple
+ 0.71% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q062.jpg
+34.86% : lemon
+24.43% : orange
+ 2.90% : ice lolly
+ 1.74% : French loaf
+ 1.49% : shopping basket
+ 1.18% : banana
+ 0.96% : Granny Smith
+ 0.83% : jackfruit
+ 0.81% : rubber eraser
+ 0.78% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q063.jpg
+34.27% : lemon
+24.57% : orange
+ 2.72% : ice lolly
+ 1.84% : French loaf
+ 1.50% : shopping basket
+ 1.20% : banana
+ 0.95% : Granny Smith
+ 0.92% : jackfruit
+ 0.81% : pineapple
+ 0.80% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q064.jpg
+35.59% : lemon
+26.22% : orange
+ 2.79% : ice lolly
+ 1.62% : French loaf
+ 1.41% : shopping basket
+ 1.10% : banana
+ 0.91% : Granny Smith
+ 0.86% : rubber eraser
+ 0.79% : jackfruit
+ 0.75% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q065.jpg
+36.78% : lemon
+26.25% : orange
+ 3.09% : ice lolly
+ 1.51% : French loaf
+ 1.29% : shopping basket
+ 1.10% : banana
+ 0.86% : jackfruit
+ 0.79% : rubber eraser
+ 0.79% : Granny Smith
+ 0.69% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q066.jpg
+37.48% : lemon
+27.62% : orange
+ 2.52% : ice lolly
+ 1.44% : French loaf
+ 1.43% : shopping basket
+ 1.10% : banana
+ 0.80% : jackfruit
+ 0.77% : pineapple
+ 0.77% : Granny Smith
+ 0.71% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q067.jpg
+37.73% : lemon
+25.99% : orange
+ 2.31% : ice lolly
+ 1.65% : French loaf
+ 1.40% : shopping basket
+ 1.21% : banana
+ 0.89% : Granny Smith
+ 0.89% : jackfruit
+ 0.83% : pineapple
+ 0.69% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q068.jpg
+40.15% : lemon
+26.25% : orange
+ 2.24% : ice lolly
+ 1.49% : French loaf
+ 1.31% : shopping basket
+ 1.11% : banana
+ 0.96% : Granny Smith
+ 0.73% : jackfruit
+ 0.72% : pineapple
+ 0.67% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q069.jpg
+36.15% : lemon
+24.89% : orange
+ 2.48% : ice lolly
+ 2.02% : French loaf
+ 1.66% : shopping basket
+ 1.22% : banana
+ 1.11% : Granny Smith
+ 0.92% : rubber eraser
+ 0.86% : jackfruit
+ 0.80% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q070.jpg
+34.50% : lemon
+27.30% : orange
+ 2.74% : ice lolly
+ 2.02% : French loaf
+ 1.76% : shopping basket
+ 1.15% : banana
+ 1.00% : Granny Smith
+ 0.80% : rubber eraser
+ 0.74% : jackfruit
+ 0.74% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q071.jpg
+34.21% : lemon
+28.26% : orange
+ 3.03% : ice lolly
+ 1.87% : French loaf
+ 1.50% : shopping basket
+ 1.20% : banana
+ 0.99% : rubber eraser
+ 0.91% : Granny Smith
+ 0.74% : jackfruit
+ 0.72% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q072.jpg
+33.74% : lemon
+28.39% : orange
+ 3.16% : ice lolly
+ 1.90% : French loaf
+ 1.50% : shopping basket
+ 1.19% : banana
+ 1.01% : rubber eraser
+ 0.91% : Granny Smith
+ 0.74% : jackfruit
+ 0.73% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q073.jpg
+36.75% : lemon
+25.64% : orange
+ 3.13% : ice lolly
+ 1.57% : French loaf
+ 1.39% : shopping basket
+ 1.12% : banana
+ 0.92% : rubber eraser
+ 0.89% : Granny Smith
+ 0.75% : jackfruit
+ 0.67% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q074.jpg
+35.43% : lemon
+23.89% : orange
+ 2.68% : ice lolly
+ 1.92% : French loaf
+ 1.63% : shopping basket
+ 1.08% : banana
+ 0.96% : Granny Smith
+ 0.92% : rubber eraser
+ 0.76% : jackfruit
+ 0.68% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q075.jpg
+35.39% : lemon
+24.45% : orange
+ 2.63% : ice lolly
+ 1.86% : French loaf
+ 1.60% : shopping basket
+ 1.08% : banana
+ 0.95% : Granny Smith
+ 0.92% : rubber eraser
+ 0.75% : jackfruit
+ 0.67% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q076.jpg
+33.77% : lemon
+28.42% : orange
+ 2.66% : ice lolly
+ 1.92% : French loaf
+ 1.51% : shopping basket
+ 1.11% : banana
+ 0.87% : Granny Smith
+ 0.86% : rubber eraser
+ 0.68% : jackfruit
+ 0.68% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q077.jpg
+34.36% : lemon
+29.25% : orange
+ 2.97% : ice lolly
+ 1.64% : French loaf
+ 1.46% : shopping basket
+ 1.21% : banana
+ 0.87% : Granny Smith
+ 0.84% : rubber eraser
+ 0.73% : pineapple
+ 0.70% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q078.jpg
+33.06% : lemon
+26.80% : orange
+ 3.24% : ice lolly
+ 1.69% : French loaf
+ 1.55% : shopping basket
+ 1.21% : banana
+ 0.92% : Granny Smith
+ 0.89% : rubber eraser
+ 0.76% : pineapple
+ 0.76% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q079.jpg
+32.21% : lemon
+27.09% : orange
+ 3.30% : ice lolly
+ 1.78% : French loaf
+ 1.53% : shopping basket
+ 1.23% : banana
+ 0.95% : Granny Smith
+ 0.93% : rubber eraser
+ 0.76% : strawberry
+ 0.76% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q080.jpg
+34.79% : lemon
+28.59% : orange
+ 2.98% : ice lolly
+ 1.31% : French loaf
+ 1.31% : shopping basket
+ 1.01% : banana
+ 0.90% : rubber eraser
+ 0.81% : Granny Smith
+ 0.74% : jackfruit
+ 0.65% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q081.jpg
+33.12% : lemon
+29.82% : orange
+ 3.08% : ice lolly
+ 1.43% : shopping basket
+ 1.36% : French loaf
+ 1.07% : banana
+ 0.86% : Granny Smith
+ 0.80% : rubber eraser
+ 0.79% : jackfruit
+ 0.68% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q082.jpg
+34.71% : lemon
+29.25% : orange
+ 2.75% : ice lolly
+ 1.31% : shopping basket
+ 1.31% : French loaf
+ 1.07% : banana
+ 0.79% : jackfruit
+ 0.79% : Granny Smith
+ 0.67% : pineapple
+ 0.66% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q083.jpg
+35.29% : lemon
+30.75% : orange
+ 2.63% : ice lolly
+ 1.35% : French loaf
+ 1.29% : shopping basket
+ 1.08% : banana
+ 0.80% : jackfruit
+ 0.75% : Granny Smith
+ 0.67% : pineapple
+ 0.64% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q084.jpg
+35.46% : lemon
+32.21% : orange
+ 1.97% : ice lolly
+ 1.40% : French loaf
+ 1.33% : shopping basket
+ 1.15% : banana
+ 0.80% : jackfruit
+ 0.73% : Granny Smith
+ 0.69% : pineapple
+ 0.57% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q085.jpg
+35.61% : lemon
+31.41% : orange
+ 2.11% : ice lolly
+ 1.43% : French loaf
+ 1.42% : shopping basket
+ 1.16% : banana
+ 0.81% : jackfruit
+ 0.72% : Granny Smith
+ 0.67% : pineapple
+ 0.57% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q086.jpg
+33.60% : lemon
+29.29% : orange
+ 2.66% : ice lolly
+ 1.68% : French loaf
+ 1.54% : shopping basket
+ 1.19% : banana
+ 0.80% : jackfruit
+ 0.79% : Granny Smith
+ 0.69% : pineapple
+ 0.64% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q087.jpg
+34.86% : lemon
+29.85% : orange
+ 2.61% : ice lolly
+ 1.56% : French loaf
+ 1.32% : shopping basket
+ 1.15% : banana
+ 0.73% : jackfruit
+ 0.73% : Granny Smith
+ 0.67% : rubber eraser
+ 0.65% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q088.jpg
+35.05% : lemon
+29.84% : orange
+ 2.98% : ice lolly
+ 1.55% : French loaf
+ 1.30% : shopping basket
+ 1.11% : banana
+ 0.74% : Granny Smith
+ 0.72% : jackfruit
+ 0.69% : rubber eraser
+ 0.65% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q089.jpg
+36.10% : lemon
+29.75% : orange
+ 2.64% : ice lolly
+ 1.48% : French loaf
+ 1.33% : shopping basket
+ 1.11% : banana
+ 0.75% : jackfruit
+ 0.72% : Granny Smith
+ 0.67% : pineapple
+ 0.63% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q090.jpg
+36.85% : lemon
+29.86% : orange
+ 2.63% : ice lolly
+ 1.46% : French loaf
+ 1.35% : shopping basket
+ 1.15% : banana
+ 0.82% : Granny Smith
+ 0.70% : pineapple
+ 0.67% : jackfruit
+ 0.66% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q091.jpg
+35.46% : lemon
+30.03% : orange
+ 2.73% : ice lolly
+ 1.44% : French loaf
+ 1.41% : shopping basket
+ 1.18% : banana
+ 0.79% : Granny Smith
+ 0.69% : rubber eraser
+ 0.67% : pineapple
+ 0.66% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q092.jpg
+35.20% : lemon
+30.09% : orange
+ 2.65% : ice lolly
+ 1.55% : French loaf
+ 1.42% : shopping basket
+ 1.18% : banana
+ 0.80% : Granny Smith
+ 0.71% : rubber eraser
+ 0.68% : jackfruit
+ 0.65% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q093.jpg
+36.30% : lemon
+30.61% : orange
+ 2.79% : ice lolly
+ 1.29% : French loaf
+ 1.25% : shopping basket
+ 1.00% : banana
+ 0.72% : rubber eraser
+ 0.71% : jackfruit
+ 0.64% : Granny Smith
+ 0.60% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q094.jpg
+34.88% : lemon
+31.38% : orange
+ 3.33% : ice lolly
+ 1.28% : shopping basket
+ 1.26% : French loaf
+ 1.04% : banana
+ 0.71% : rubber eraser
+ 0.70% : Granny Smith
+ 0.70% : jackfruit
+ 0.65% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q095.jpg
+35.38% : lemon
+31.83% : orange
+ 2.91% : ice lolly
+ 1.28% : French loaf
+ 1.24% : shopping basket
+ 1.10% : banana
+ 0.72% : Granny Smith
+ 0.70% : rubber eraser
+ 0.68% : pineapple
+ 0.68% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q096.jpg
+33.44% : lemon
+31.22% : orange
+ 3.08% : ice lolly
+ 1.39% : French loaf
+ 1.38% : shopping basket
+ 1.20% : banana
+ 0.75% : Granny Smith
+ 0.74% : rubber eraser
+ 0.74% : pineapple
+ 0.71% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q097.jpg
+35.22% : lemon
+31.36% : orange
+ 2.98% : ice lolly
+ 1.33% : French loaf
+ 1.32% : shopping basket
+ 1.15% : banana
+ 0.69% : Granny Smith
+ 0.68% : pineapple
+ 0.65% : rubber eraser
+ 0.64% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q098.jpg
+35.53% : lemon
+30.46% : orange
+ 2.95% : ice lolly
+ 1.36% : French loaf
+ 1.35% : shopping basket
+ 1.12% : banana
+ 0.75% : Granny Smith
+ 0.70% : pineapple
+ 0.69% : jackfruit
+ 0.67% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q099.jpg
+34.93% : lemon
+28.46% : orange
+ 3.27% : ice lolly
+ 1.49% : French loaf
+ 1.35% : shopping basket
+ 1.16% : banana
+ 0.82% : Granny Smith
+ 0.78% : jackfruit
+ 0.76% : pineapple
+ 0.75% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon29Q100.jpg
+36.19% : lemon
+28.70% : orange
+ 3.00% : ice lolly
+ 1.58% : French loaf
+ 1.31% : shopping basket
+ 1.16% : banana
+ 0.80% : Granny Smith
+ 0.73% : jackfruit
+ 0.72% : rubber eraser
+ 0.69% : pineapple

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q001.jpg
+39.62% : bell pepper
+ 7.65% : lemon
+ 3.58% : candle
+ 2.50% : orange
+ 2.20% : coral fungus
+ 1.99% : acorn squash
+ 1.22% : spaghetti squash
+ 1.12% : hotdog
+ 1.03% : jack-o'-lantern
+ 0.94% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q002.jpg
+39.62% : bell pepper
+ 7.65% : lemon
+ 3.58% : candle
+ 2.50% : orange
+ 2.20% : coral fungus
+ 1.99% : acorn squash
+ 1.22% : spaghetti squash
+ 1.12% : hotdog
+ 1.03% : jack-o'-lantern
+ 0.94% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q003.jpg
+45.89% : bell pepper
+ 7.72% : lemon
+ 2.59% : candle
+ 2.35% : acorn squash
+ 2.34% : orange
+ 1.64% : coral fungus
+ 1.20% : spaghetti squash
+ 1.01% : hotdog
+ 0.81% : corn
+ 0.78% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q004.jpg
+45.29% : bell pepper
+ 9.50% : candle
+ 1.41% : boa constrictor
+ 1.36% : corn
+ 1.15% : rock python
+ 1.12% : traffic light
+ 0.95% : jackfruit
+ 0.87% : gyromitra
+ 0.85% : lemon
+ 0.81% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q005.jpg
+88.53% : bell pepper
+ 1.03% : candle
+ 0.41% : lemon
+ 0.31% : acorn squash
+ 0.30% : corn
+ 0.27% : jackfruit
+ 0.17% : coral fungus
+ 0.14% : ear
+ 0.11% : butternut squash
+ 0.11% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q006.jpg
+87.98% : bell pepper
+ 0.84% : corn
+ 0.52% : ear
+ 0.35% : jackfruit
+ 0.31% : acorn squash
+ 0.26% : rock python
+ 0.26% : candle
+ 0.23% : boa constrictor
+ 0.20% : lemon
+ 0.20% : hotdog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q007.jpg
+99.03% : bell pepper
+ 0.13% : corn
+ 0.05% : ear
+ 0.05% : jackfruit
+ 0.02% : candle
+ 0.01% : rock python
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : butternut squash
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q008.jpg
+97.03% : bell pepper
+ 0.52% : corn
+ 0.18% : ear
+ 0.12% : jackfruit
+ 0.08% : rock python
+ 0.06% : candle
+ 0.03% : screwdriver
+ 0.03% : boa constrictor
+ 0.03% : acorn squash
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q009.jpg
+95.80% : bell pepper
+ 0.20% : jackfruit
+ 0.18% : rock python
+ 0.18% : corn
+ 0.08% : ear
+ 0.08% : boa constrictor
+ 0.07% : acorn squash
+ 0.05% : lemon
+ 0.04% : butternut squash
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q010.jpg
+97.66% : bell pepper
+ 0.17% : corn
+ 0.12% : jackfruit
+ 0.06% : ear
+ 0.05% : rock python
+ 0.04% : acorn squash
+ 0.03% : butternut squash
+ 0.02% : spaghetti squash
+ 0.02% : gas pump
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q011.jpg
+98.15% : bell pepper
+ 0.20% : jackfruit
+ 0.17% : corn
+ 0.04% : ear
+ 0.04% : rock python
+ 0.03% : acorn squash
+ 0.02% : gas pump
+ 0.02% : butternut squash
+ 0.02% : stove
+ 0.01% : screwdriver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q012.jpg
+98.31% : bell pepper
+ 0.12% : jackfruit
+ 0.12% : corn
+ 0.05% : rock python
+ 0.04% : lemon
+ 0.03% : ear
+ 0.03% : boa constrictor
+ 0.03% : acorn squash
+ 0.02% : yellow lady's slipper
+ 0.02% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q013.jpg
+99.15% : bell pepper
+ 0.08% : corn
+ 0.07% : jackfruit
+ 0.03% : rock python
+ 0.02% : ear
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : boa constrictor
+ 0.01% : butternut squash
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q014.jpg
+98.80% : bell pepper
+ 0.09% : corn
+ 0.07% : jackfruit
+ 0.03% : ear
+ 0.02% : rock python
+ 0.01% : acorn squash
+ 0.01% : lemon
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q015.jpg
+99.03% : bell pepper
+ 0.09% : jackfruit
+ 0.07% : corn
+ 0.03% : rock python
+ 0.02% : ear
+ 0.02% : acorn squash
+ 0.01% : butternut squash
+ 0.01% : lemon
+ 0.01% : yellow lady's slipper
+ 0.01% : boa constrictor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q016.jpg
+98.80% : bell pepper
+ 0.06% : corn
+ 0.06% : jackfruit
+ 0.03% : acorn squash
+ 0.02% : ear
+ 0.02% : rock python
+ 0.01% : lemon
+ 0.01% : yellow lady's slipper
+ 0.01% : gas pump
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q017.jpg
+99.15% : bell pepper
+ 0.06% : jackfruit
+ 0.04% : corn
+ 0.02% : rock python
+ 0.02% : acorn squash
+ 0.02% : lemon
+ 0.01% : ear
+ 0.01% : yellow lady's slipper
+ 0.01% : butternut squash
+ 0.01% : boa constrictor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q018.jpg
+99.28% : bell pepper
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.01% : ear
+ 0.01% : rock python
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : stove
+ 0.01% : acorn squash
+ 0.00% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q019.jpg
+99.06% : bell pepper
+ 0.06% : corn
+ 0.04% : jackfruit
+ 0.02% : ear
+ 0.01% : rock python
+ 0.01% : acorn squash
+ 0.01% : lemon
+ 0.01% : gas pump
+ 0.01% : yellow lady's slipper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q020.jpg
+98.61% : bell pepper
+ 0.04% : jackfruit
+ 0.04% : corn
+ 0.03% : acorn squash
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : stove
+ 0.01% : lemon
+ 0.01% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q021.jpg
+98.79% : bell pepper
+ 0.09% : corn
+ 0.05% : jackfruit
+ 0.03% : ear
+ 0.01% : stove
+ 0.01% : rock python
+ 0.01% : acorn squash
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q022.jpg
+99.15% : bell pepper
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : rock python
+ 0.01% : gas pump
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q023.jpg
+99.14% : bell pepper
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.01% : ear
+ 0.01% : stove
+ 0.01% : acorn squash
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q024.jpg
+99.20% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q025.jpg
+99.18% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : acorn squash
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : yellow lady's slipper
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q026.jpg
+99.18% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q027.jpg
+99.13% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q028.jpg
+99.12% : bell pepper
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : yellow lady's slipper
+ 0.01% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q029.jpg
+99.16% : bell pepper
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q030.jpg
+99.10% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : chimpanzee
+ 0.01% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q031.jpg
+99.40% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.00% : pay-phone
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q032.jpg
+99.19% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : chimpanzee
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q033.jpg
+99.15% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : chimpanzee
+ 0.00% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q034.jpg
+99.20% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : chimpanzee
+ 0.00% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q035.jpg
+99.26% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : pay-phone
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q036.jpg
+99.19% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : pickup
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q037.jpg
+99.21% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.00% : pickup
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q038.jpg
+99.18% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : chimpanzee
+ 0.01% : pickup
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q039.jpg
+99.15% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : chimpanzee
+ 0.00% : pickup
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q040.jpg
+99.12% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : chimpanzee
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q041.jpg
+99.03% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q042.jpg
+99.02% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q043.jpg
+99.06% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q044.jpg
+99.10% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q045.jpg
+99.12% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q046.jpg
+98.99% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q047.jpg
+98.99% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q048.jpg
+98.88% : bell pepper
+ 0.05% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q049.jpg
+99.26% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q050.jpg
+99.26% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q051.jpg
+99.26% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q052.jpg
+99.14% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q053.jpg
+99.21% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q054.jpg
+99.20% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q055.jpg
+99.23% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : pay-phone
+ 0.00% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q056.jpg
+99.28% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q057.jpg
+99.26% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q058.jpg
+99.31% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q059.jpg
+99.25% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q060.jpg
+99.26% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q061.jpg
+99.23% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q062.jpg
+99.17% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q063.jpg
+99.07% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q064.jpg
+99.13% : bell pepper
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q065.jpg
+99.15% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q066.jpg
+99.16% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q067.jpg
+99.06% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q068.jpg
+99.25% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q069.jpg
+99.16% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q070.jpg
+99.19% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q071.jpg
+99.14% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q072.jpg
+99.16% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q073.jpg
+99.21% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q074.jpg
+99.18% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q075.jpg
+99.19% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q076.jpg
+99.20% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q077.jpg
+99.10% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q078.jpg
+99.17% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q079.jpg
+99.23% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q080.jpg
+99.21% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q081.jpg
+99.15% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q082.jpg
+99.14% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q083.jpg
+99.03% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q084.jpg
+99.21% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q085.jpg
+99.24% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q086.jpg
+99.28% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.00% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q087.jpg
+99.24% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q088.jpg
+99.19% : bell pepper
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q089.jpg
+99.18% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : pickup
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q090.jpg
+99.17% : bell pepper
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.00% : pickup
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q091.jpg
+99.08% : bell pepper
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q092.jpg
+99.29% : bell pepper
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q093.jpg
+99.29% : bell pepper
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.00% : abacus
+ 0.00% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q094.jpg
+99.26% : bell pepper
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q095.jpg
+99.20% : bell pepper
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.01% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q096.jpg
+99.17% : bell pepper
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q097.jpg
+99.17% : bell pepper
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q098.jpg
+99.18% : bell pepper
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : gas pump
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q099.jpg
+99.19% : bell pepper
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.00% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper18Q100.jpg
+99.16% : bell pepper
+ 0.02% : jackfruit
+ 0.02% : corn
+ 0.02% : stove
+ 0.01% : gas pump
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : Norfolk terrier

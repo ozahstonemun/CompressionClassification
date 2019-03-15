@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q001.jpg
+48.91% : orange
+29.09% : lemon
+ 1.25% : grocery store
+ 1.22% : bell pepper
+ 0.60% : tennis ball
+ 0.33% : pomegranate
+ 0.31% : spaghetti squash
+ 0.29% : corn
+ 0.27% : ping-pong ball
+ 0.27% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q002.jpg
+48.91% : orange
+29.09% : lemon
+ 1.25% : grocery store
+ 1.22% : bell pepper
+ 0.60% : tennis ball
+ 0.33% : pomegranate
+ 0.31% : spaghetti squash
+ 0.29% : corn
+ 0.27% : ping-pong ball
+ 0.27% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q003.jpg
+50.19% : orange
+27.85% : lemon
+ 1.28% : grocery store
+ 1.27% : bell pepper
+ 0.67% : tennis ball
+ 0.34% : spaghetti squash
+ 0.31% : pomegranate
+ 0.29% : ping-pong ball
+ 0.28% : corn
+ 0.27% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q004.jpg
+88.60% : lemon
+ 4.79% : orange
+ 1.27% : tennis ball
+ 0.58% : spaghetti squash
+ 0.17% : grocery store
+ 0.13% : ping-pong ball
+ 0.12% : acorn squash
+ 0.10% : bell pepper
+ 0.07% : lumbermill
+ 0.07% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q005.jpg
+53.96% : lemon
+23.48% : orange
+ 1.98% : grocery store
+ 0.60% : spaghetti squash
+ 0.59% : corn
+ 0.45% : tennis ball
+ 0.43% : bell pepper
+ 0.41% : golf ball
+ 0.38% : jackfruit
+ 0.35% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q006.jpg
+87.22% : lemon
+ 3.84% : orange
+ 0.52% : spaghetti squash
+ 0.24% : bell pepper
+ 0.17% : grocery store
+ 0.12% : tennis ball
+ 0.12% : jackfruit
+ 0.11% : corn
+ 0.10% : ping-pong ball
+ 0.08% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q007.jpg
+47.44% : orange
+39.66% : lemon
+ 0.37% : spaghetti squash
+ 0.28% : grocery store
+ 0.25% : bell pepper
+ 0.22% : tennis ball
+ 0.17% : banana
+ 0.17% : ping-pong ball
+ 0.10% : strawberry
+ 0.10% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q008.jpg
+43.78% : lemon
+38.92% : orange
+ 0.43% : spaghetti squash
+ 0.41% : grocery store
+ 0.37% : bell pepper
+ 0.23% : corn
+ 0.22% : butternut squash
+ 0.19% : banana
+ 0.14% : jack-o'-lantern
+ 0.11% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q009.jpg
+67.10% : lemon
+18.63% : orange
+ 0.29% : spaghetti squash
+ 0.16% : banana
+ 0.11% : grocery store
+ 0.11% : bell pepper
+ 0.08% : honeycomb
+ 0.07% : pineapple
+ 0.07% : alp
+ 0.07% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q010.jpg
+55.02% : lemon
+22.81% : orange
+ 0.30% : banana
+ 0.29% : spaghetti squash
+ 0.15% : bell pepper
+ 0.14% : grocery store
+ 0.14% : strawberry
+ 0.13% : butternut squash
+ 0.10% : Granny Smith
+ 0.10% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q011.jpg
+78.70% : lemon
+ 5.67% : orange
+ 0.48% : spaghetti squash
+ 0.14% : butternut squash
+ 0.13% : banana
+ 0.12% : bell pepper
+ 0.10% : Granny Smith
+ 0.09% : grocery store
+ 0.09% : jackfruit
+ 0.09% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q012.jpg
+68.93% : lemon
+15.61% : orange
+ 0.34% : spaghetti squash
+ 0.25% : banana
+ 0.17% : grocery store
+ 0.12% : butternut squash
+ 0.11% : Granny Smith
+ 0.11% : pineapple
+ 0.10% : bell pepper
+ 0.09% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q013.jpg
+73.87% : lemon
+ 8.56% : orange
+ 0.39% : spaghetti squash
+ 0.19% : butternut squash
+ 0.17% : banana
+ 0.13% : grocery store
+ 0.13% : bell pepper
+ 0.11% : dough
+ 0.09% : Granny Smith
+ 0.09% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q014.jpg
+76.21% : lemon
+ 5.33% : orange
+ 0.58% : spaghetti squash
+ 0.18% : butternut squash
+ 0.15% : banana
+ 0.14% : bell pepper
+ 0.12% : grocery store
+ 0.12% : dough
+ 0.12% : jackfruit
+ 0.12% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q015.jpg
+77.34% : lemon
+ 5.11% : orange
+ 0.25% : spaghetti squash
+ 0.14% : dough
+ 0.13% : banana
+ 0.12% : grocery store
+ 0.12% : butternut squash
+ 0.09% : pineapple
+ 0.09% : bell pepper
+ 0.09% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q016.jpg
+79.54% : lemon
+ 4.01% : orange
+ 0.30% : spaghetti squash
+ 0.11% : bell pepper
+ 0.11% : banana
+ 0.10% : butternut squash
+ 0.09% : dough
+ 0.08% : Granny Smith
+ 0.08% : pineapple
+ 0.08% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q017.jpg
+84.98% : lemon
+ 1.97% : orange
+ 0.38% : spaghetti squash
+ 0.13% : dough
+ 0.09% : jackfruit
+ 0.09% : butternut squash
+ 0.08% : bell pepper
+ 0.07% : Granny Smith
+ 0.07% : banana
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q018.jpg
+83.91% : lemon
+ 2.27% : orange
+ 0.20% : spaghetti squash
+ 0.11% : dough
+ 0.10% : banana
+ 0.09% : yellow lady's slipper
+ 0.09% : Granny Smith
+ 0.09% : bell pepper
+ 0.08% : butternut squash
+ 0.08% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q019.jpg
+82.49% : lemon
+ 2.31% : orange
+ 0.21% : spaghetti squash
+ 0.12% : dough
+ 0.09% : banana
+ 0.09% : Granny Smith
+ 0.09% : butternut squash
+ 0.09% : jackfruit
+ 0.08% : grocery store
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q020.jpg
+85.13% : lemon
+ 2.70% : orange
+ 0.20% : spaghetti squash
+ 0.12% : dough
+ 0.10% : banana
+ 0.09% : Granny Smith
+ 0.07% : jackfruit
+ 0.07% : pineapple
+ 0.07% : butternut squash
+ 0.07% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q021.jpg
+87.97% : lemon
+ 1.52% : orange
+ 0.12% : spaghetti squash
+ 0.11% : dough
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.06% : jackfruit
+ 0.06% : pineapple
+ 0.05% : tennis ball
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q022.jpg
+87.42% : lemon
+ 1.87% : orange
+ 0.13% : spaghetti squash
+ 0.11% : dough
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : pineapple
+ 0.05% : grocery store
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q023.jpg
+89.46% : lemon
+ 1.18% : orange
+ 0.12% : spaghetti squash
+ 0.10% : dough
+ 0.06% : jackfruit
+ 0.05% : banana
+ 0.05% : yellow lady's slipper
+ 0.04% : pineapple
+ 0.04% : Granny Smith
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q024.jpg
+85.78% : lemon
+ 1.88% : orange
+ 0.18% : spaghetti squash
+ 0.11% : dough
+ 0.09% : jackfruit
+ 0.09% : banana
+ 0.07% : Granny Smith
+ 0.07% : grocery store
+ 0.07% : bell pepper
+ 0.06% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q025.jpg
+84.51% : lemon
+ 2.21% : orange
+ 0.20% : spaghetti squash
+ 0.10% : dough
+ 0.10% : jackfruit
+ 0.09% : banana
+ 0.08% : bell pepper
+ 0.08% : Granny Smith
+ 0.07% : grocery store
+ 0.07% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q026.jpg
+88.38% : lemon
+ 1.58% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.07% : jackfruit
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.05% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q027.jpg
+88.20% : lemon
+ 1.48% : orange
+ 0.20% : spaghetti squash
+ 0.12% : dough
+ 0.10% : jackfruit
+ 0.08% : banana
+ 0.07% : Granny Smith
+ 0.06% : grocery store
+ 0.06% : bell pepper
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q028.jpg
+88.96% : lemon
+ 1.56% : orange
+ 0.15% : spaghetti squash
+ 0.11% : dough
+ 0.06% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.05% : butternut squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q029.jpg
+89.86% : lemon
+ 1.65% : orange
+ 0.12% : spaghetti squash
+ 0.08% : dough
+ 0.07% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : bell pepper
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q030.jpg
+87.92% : lemon
+ 2.23% : orange
+ 0.11% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.07% : jackfruit
+ 0.06% : Granny Smith
+ 0.05% : yellow lady's slipper
+ 0.05% : grocery store
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q031.jpg
+88.48% : lemon
+ 1.31% : orange
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.07% : jackfruit
+ 0.06% : banana
+ 0.06% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q032.jpg
+87.32% : lemon
+ 1.65% : orange
+ 0.12% : spaghetti squash
+ 0.10% : dough
+ 0.07% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q033.jpg
+88.14% : lemon
+ 1.52% : orange
+ 0.11% : spaghetti squash
+ 0.08% : dough
+ 0.08% : banana
+ 0.06% : Granny Smith
+ 0.06% : jackfruit
+ 0.05% : yellow lady's slipper
+ 0.05% : bell pepper
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q034.jpg
+87.32% : lemon
+ 1.83% : orange
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.08% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.05% : yellow lady's slipper
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q035.jpg
+85.27% : lemon
+ 2.06% : orange
+ 0.15% : spaghetti squash
+ 0.12% : dough
+ 0.08% : jackfruit
+ 0.08% : banana
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : grocery store
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q036.jpg
+86.53% : lemon
+ 1.82% : orange
+ 0.14% : spaghetti squash
+ 0.09% : dough
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q037.jpg
+86.19% : lemon
+ 1.90% : orange
+ 0.15% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.08% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q038.jpg
+85.45% : lemon
+ 1.97% : orange
+ 0.18% : spaghetti squash
+ 0.10% : dough
+ 0.09% : jackfruit
+ 0.08% : banana
+ 0.08% : Granny Smith
+ 0.07% : yellow lady's slipper
+ 0.06% : butternut squash
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q039.jpg
+83.45% : lemon
+ 2.51% : orange
+ 0.15% : spaghetti squash
+ 0.10% : dough
+ 0.09% : banana
+ 0.08% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : bell pepper
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q040.jpg
+83.47% : lemon
+ 2.65% : orange
+ 0.14% : spaghetti squash
+ 0.10% : dough
+ 0.09% : banana
+ 0.08% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : pineapple
+ 0.06% : bell pepper
+ 0.06% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q041.jpg
+84.07% : lemon
+ 2.45% : orange
+ 0.14% : spaghetti squash
+ 0.10% : dough
+ 0.09% : banana
+ 0.08% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.07% : Granny Smith
+ 0.06% : grocery store
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q042.jpg
+84.82% : lemon
+ 2.17% : orange
+ 0.14% : spaghetti squash
+ 0.10% : dough
+ 0.09% : jackfruit
+ 0.09% : yellow lady's slipper
+ 0.08% : banana
+ 0.07% : Granny Smith
+ 0.06% : bell pepper
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q043.jpg
+84.91% : lemon
+ 2.08% : orange
+ 0.14% : spaghetti squash
+ 0.11% : dough
+ 0.09% : jackfruit
+ 0.09% : yellow lady's slipper
+ 0.08% : banana
+ 0.07% : Granny Smith
+ 0.06% : bell pepper
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q044.jpg
+86.88% : lemon
+ 1.73% : orange
+ 0.12% : spaghetti squash
+ 0.12% : dough
+ 0.08% : jackfruit
+ 0.08% : banana
+ 0.08% : Granny Smith
+ 0.07% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q045.jpg
+86.77% : lemon
+ 1.81% : orange
+ 0.12% : spaghetti squash
+ 0.11% : dough
+ 0.08% : banana
+ 0.08% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.07% : Granny Smith
+ 0.05% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q046.jpg
+87.30% : lemon
+ 2.11% : orange
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : grocery store
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q047.jpg
+87.28% : lemon
+ 2.12% : orange
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : grocery store
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q048.jpg
+88.19% : lemon
+ 1.91% : orange
+ 0.11% : spaghetti squash
+ 0.08% : dough
+ 0.07% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.04% : grocery store
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q049.jpg
+88.69% : lemon
+ 1.88% : orange
+ 0.12% : spaghetti squash
+ 0.07% : dough
+ 0.07% : banana
+ 0.05% : Granny Smith
+ 0.05% : jackfruit
+ 0.05% : yellow lady's slipper
+ 0.05% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q050.jpg
+88.71% : lemon
+ 1.88% : orange
+ 0.12% : spaghetti squash
+ 0.07% : dough
+ 0.07% : banana
+ 0.05% : Granny Smith
+ 0.05% : jackfruit
+ 0.05% : yellow lady's slipper
+ 0.05% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q051.jpg
+88.71% : lemon
+ 1.88% : orange
+ 0.12% : spaghetti squash
+ 0.07% : dough
+ 0.07% : banana
+ 0.05% : Granny Smith
+ 0.05% : jackfruit
+ 0.05% : yellow lady's slipper
+ 0.05% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q052.jpg
+88.32% : lemon
+ 1.75% : orange
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.06% : banana
+ 0.06% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.05% : Granny Smith
+ 0.05% : bell pepper
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q053.jpg
+87.09% : lemon
+ 2.04% : orange
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.05% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q054.jpg
+87.13% : lemon
+ 2.06% : orange
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.05% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q055.jpg
+86.15% : lemon
+ 1.98% : orange
+ 0.11% : spaghetti squash
+ 0.10% : dough
+ 0.08% : banana
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q056.jpg
+85.46% : lemon
+ 2.03% : orange
+ 0.12% : spaghetti squash
+ 0.11% : dough
+ 0.08% : banana
+ 0.08% : jackfruit
+ 0.07% : Granny Smith
+ 0.07% : yellow lady's slipper
+ 0.06% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q057.jpg
+85.62% : lemon
+ 1.92% : orange
+ 0.12% : spaghetti squash
+ 0.12% : dough
+ 0.08% : banana
+ 0.08% : jackfruit
+ 0.07% : Granny Smith
+ 0.07% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q058.jpg
+86.07% : lemon
+ 1.92% : orange
+ 0.11% : dough
+ 0.11% : spaghetti squash
+ 0.08% : banana
+ 0.07% : Granny Smith
+ 0.07% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q059.jpg
+85.29% : lemon
+ 2.04% : orange
+ 0.12% : spaghetti squash
+ 0.12% : dough
+ 0.09% : banana
+ 0.08% : Granny Smith
+ 0.07% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.06% : bell pepper
+ 0.06% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q060.jpg
+85.10% : lemon
+ 2.00% : orange
+ 0.13% : spaghetti squash
+ 0.12% : dough
+ 0.08% : banana
+ 0.08% : Granny Smith
+ 0.07% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.06% : bell pepper
+ 0.06% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q061.jpg
+86.74% : lemon
+ 1.78% : orange
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.08% : jackfruit
+ 0.07% : banana
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q062.jpg
+86.70% : lemon
+ 1.81% : orange
+ 0.13% : spaghetti squash
+ 0.09% : dough
+ 0.08% : jackfruit
+ 0.07% : banana
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q063.jpg
+86.95% : lemon
+ 1.71% : orange
+ 0.14% : spaghetti squash
+ 0.09% : dough
+ 0.08% : jackfruit
+ 0.07% : banana
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q064.jpg
+86.87% : lemon
+ 1.70% : orange
+ 0.15% : spaghetti squash
+ 0.09% : dough
+ 0.08% : jackfruit
+ 0.07% : banana
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q065.jpg
+86.21% : lemon
+ 2.09% : orange
+ 0.14% : spaghetti squash
+ 0.08% : dough
+ 0.08% : banana
+ 0.07% : Granny Smith
+ 0.07% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q066.jpg
+87.03% : lemon
+ 1.93% : orange
+ 0.13% : spaghetti squash
+ 0.08% : dough
+ 0.07% : banana
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : pineapple
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q067.jpg
+85.27% : lemon
+ 2.45% : orange
+ 0.13% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : pineapple
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q068.jpg
+85.35% : lemon
+ 2.17% : orange
+ 0.14% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.08% : jackfruit
+ 0.07% : Granny Smith
+ 0.07% : yellow lady's slipper
+ 0.06% : bell pepper
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q069.jpg
+85.48% : lemon
+ 2.32% : orange
+ 0.14% : spaghetti squash
+ 0.09% : dough
+ 0.08% : banana
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.07% : yellow lady's slipper
+ 0.06% : pineapple
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q070.jpg
+86.07% : lemon
+ 2.21% : orange
+ 0.14% : spaghetti squash
+ 0.09% : dough
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : butternut squash
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q071.jpg
+86.30% : lemon
+ 2.05% : orange
+ 0.14% : spaghetti squash
+ 0.10% : dough
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : butternut squash
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q072.jpg
+86.00% : lemon
+ 2.12% : orange
+ 0.14% : spaghetti squash
+ 0.10% : dough
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : butternut squash
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q073.jpg
+86.54% : lemon
+ 1.62% : orange
+ 0.15% : spaghetti squash
+ 0.11% : dough
+ 0.08% : jackfruit
+ 0.08% : yellow lady's slipper
+ 0.07% : Granny Smith
+ 0.07% : banana
+ 0.06% : butternut squash
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q074.jpg
+86.74% : lemon
+ 1.58% : orange
+ 0.12% : spaghetti squash
+ 0.11% : dough
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : banana
+ 0.05% : butternut squash
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q075.jpg
+86.84% : lemon
+ 1.58% : orange
+ 0.12% : spaghetti squash
+ 0.10% : dough
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.07% : Granny Smith
+ 0.06% : banana
+ 0.05% : butternut squash
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q076.jpg
+85.68% : lemon
+ 1.98% : orange
+ 0.11% : spaghetti squash
+ 0.10% : dough
+ 0.07% : banana
+ 0.07% : yellow lady's slipper
+ 0.07% : Granny Smith
+ 0.07% : jackfruit
+ 0.05% : bell pepper
+ 0.05% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q077.jpg
+87.68% : lemon
+ 1.85% : orange
+ 0.11% : spaghetti squash
+ 0.09% : dough
+ 0.07% : banana
+ 0.06% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q078.jpg
+86.68% : lemon
+ 1.71% : orange
+ 0.12% : spaghetti squash
+ 0.10% : dough
+ 0.08% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.05% : butternut squash
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q079.jpg
+86.12% : lemon
+ 1.71% : orange
+ 0.13% : spaghetti squash
+ 0.10% : dough
+ 0.08% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.05% : butternut squash
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q080.jpg
+85.42% : lemon
+ 1.82% : orange
+ 0.12% : spaghetti squash
+ 0.10% : dough
+ 0.08% : jackfruit
+ 0.08% : yellow lady's slipper
+ 0.07% : banana
+ 0.07% : Granny Smith
+ 0.06% : butternut squash
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q081.jpg
+87.18% : lemon
+ 1.65% : orange
+ 0.11% : spaghetti squash
+ 0.10% : dough
+ 0.07% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q082.jpg
+87.88% : lemon
+ 1.45% : orange
+ 0.11% : dough
+ 0.10% : spaghetti squash
+ 0.07% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.06% : banana
+ 0.05% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q083.jpg
+87.59% : lemon
+ 1.62% : orange
+ 0.11% : dough
+ 0.09% : spaghetti squash
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q084.jpg
+87.62% : lemon
+ 1.76% : orange
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.06% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q085.jpg
+88.20% : lemon
+ 1.74% : orange
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.07% : banana
+ 0.06% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q086.jpg
+88.67% : lemon
+ 1.61% : orange
+ 0.09% : dough
+ 0.07% : spaghetti squash
+ 0.06% : banana
+ 0.06% : jackfruit
+ 0.05% : yellow lady's slipper
+ 0.05% : Granny Smith
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q087.jpg
+88.19% : lemon
+ 1.82% : orange
+ 0.09% : dough
+ 0.07% : spaghetti squash
+ 0.06% : banana
+ 0.06% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.05% : Granny Smith
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q088.jpg
+87.65% : lemon
+ 1.69% : orange
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.06% : banana
+ 0.06% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.05% : strainer
+ 0.05% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q089.jpg
+87.44% : lemon
+ 1.82% : orange
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.06% : banana
+ 0.06% : jackfruit
+ 0.06% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.05% : strainer
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q090.jpg
+87.24% : lemon
+ 1.74% : orange
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.06% : banana
+ 0.06% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.06% : Granny Smith
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q091.jpg
+86.19% : lemon
+ 2.05% : orange
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : banana
+ 0.07% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q092.jpg
+85.58% : lemon
+ 2.07% : orange
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.08% : jackfruit
+ 0.07% : yellow lady's slipper
+ 0.07% : banana
+ 0.07% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q093.jpg
+88.08% : lemon
+ 1.53% : orange
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.04% : pineapple
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q094.jpg
+87.10% : lemon
+ 1.69% : orange
+ 0.11% : dough
+ 0.10% : spaghetti squash
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q095.jpg
+87.66% : lemon
+ 1.67% : orange
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.05% : bell pepper
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q096.jpg
+87.93% : lemon
+ 1.57% : orange
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.07% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.04% : pineapple
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q097.jpg
+87.08% : lemon
+ 1.73% : orange
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q098.jpg
+87.52% : lemon
+ 1.66% : orange
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : yellow lady's slipper
+ 0.07% : jackfruit
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.05% : pineapple
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q099.jpg
+87.84% : lemon
+ 1.72% : orange
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.07% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.06% : banana
+ 0.06% : Granny Smith
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon12Q100.jpg
+88.34% : lemon
+ 1.49% : orange
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.07% : yellow lady's slipper
+ 0.06% : jackfruit
+ 0.05% : banana
+ 0.05% : Granny Smith
+ 0.04% : bell pepper
+ 0.04% : pineapple

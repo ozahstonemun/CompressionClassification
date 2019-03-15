@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q001.jpg
+16.00% : orange
+15.35% : confectionery
+ 7.32% : croquet ball
+ 4.87% : candle
+ 2.91% : strawberry
+ 2.69% : bakery
+ 2.46% : matchstick
+ 2.38% : balloon
+ 1.66% : grocery store
+ 1.61% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q002.jpg
+16.00% : orange
+15.34% : confectionery
+ 7.31% : croquet ball
+ 4.87% : candle
+ 2.91% : strawberry
+ 2.69% : bakery
+ 2.46% : matchstick
+ 2.38% : balloon
+ 1.66% : grocery store
+ 1.61% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q003.jpg
+16.74% : orange
+12.72% : confectionery
+ 9.13% : croquet ball
+ 4.36% : candle
+ 2.96% : matchstick
+ 2.75% : strawberry
+ 2.62% : balloon
+ 2.26% : bakery
+ 1.71% : grocery store
+ 1.40% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q004.jpg
+29.72% : orange
+ 8.81% : croquet ball
+ 6.54% : candle
+ 5.50% : bakery
+ 3.05% : confectionery
+ 1.90% : lemon
+ 1.80% : grocery store
+ 1.11% : strawberry
+ 0.82% : lumbermill
+ 0.77% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q005.jpg
+74.11% : orange
+ 2.80% : lemon
+ 2.05% : grocery store
+ 1.37% : candle
+ 0.99% : croquet ball
+ 0.88% : strawberry
+ 0.88% : confectionery
+ 0.75% : pineapple
+ 0.68% : banana
+ 0.43% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q006.jpg
+96.40% : orange
+ 0.27% : lemon
+ 0.14% : grocery store
+ 0.13% : banana
+ 0.08% : strawberry
+ 0.07% : croquet ball
+ 0.04% : pomegranate
+ 0.04% : pineapple
+ 0.03% : candle
+ 0.03% : lifeboat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q007.jpg
+87.13% : orange
+ 2.14% : lemon
+ 0.81% : grocery store
+ 0.35% : banana
+ 0.31% : French loaf
+ 0.18% : croquet ball
+ 0.15% : bagel
+ 0.15% : lumbermill
+ 0.12% : pineapple
+ 0.10% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q008.jpg
+91.88% : orange
+ 1.11% : lemon
+ 0.46% : grocery store
+ 0.27% : banana
+ 0.12% : pomegranate
+ 0.08% : lumbermill
+ 0.07% : pineapple
+ 0.07% : crate
+ 0.07% : croquet ball
+ 0.06% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q009.jpg
+79.86% : orange
+ 4.81% : lemon
+ 0.90% : grocery store
+ 0.51% : dough
+ 0.40% : banana
+ 0.38% : French loaf
+ 0.29% : bagel
+ 0.17% : croquet ball
+ 0.15% : pineapple
+ 0.14% : lumbermill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q010.jpg
+89.26% : orange
+ 2.85% : lemon
+ 0.47% : grocery store
+ 0.27% : banana
+ 0.10% : bagel
+ 0.09% : dough
+ 0.07% : pineapple
+ 0.07% : French loaf
+ 0.06% : pomegranate
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q011.jpg
+82.73% : orange
+ 7.06% : lemon
+ 0.40% : grocery store
+ 0.36% : banana
+ 0.20% : dough
+ 0.18% : bagel
+ 0.12% : French loaf
+ 0.08% : pineapple
+ 0.08% : pomegranate
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q012.jpg
+77.47% : orange
+ 7.16% : lemon
+ 0.51% : grocery store
+ 0.45% : dough
+ 0.43% : banana
+ 0.32% : bagel
+ 0.18% : French loaf
+ 0.11% : pineapple
+ 0.09% : pomegranate
+ 0.09% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q013.jpg
+80.28% : orange
+ 8.29% : lemon
+ 0.39% : banana
+ 0.31% : grocery store
+ 0.23% : dough
+ 0.14% : bagel
+ 0.09% : pineapple
+ 0.08% : French loaf
+ 0.07% : spatula
+ 0.06% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q014.jpg
+57.06% : orange
+24.45% : lemon
+ 0.91% : dough
+ 0.40% : grocery store
+ 0.38% : banana
+ 0.28% : bagel
+ 0.14% : French loaf
+ 0.13% : spatula
+ 0.12% : pineapple
+ 0.11% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q015.jpg
+85.63% : orange
+ 4.60% : lemon
+ 0.26% : grocery store
+ 0.26% : banana
+ 0.13% : dough
+ 0.11% : bagel
+ 0.06% : pineapple
+ 0.06% : spatula
+ 0.06% : butcher shop
+ 0.05% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q016.jpg
+81.54% : orange
+ 8.38% : lemon
+ 0.32% : banana
+ 0.28% : grocery store
+ 0.26% : dough
+ 0.17% : bagel
+ 0.09% : pineapple
+ 0.06% : spatula
+ 0.06% : French loaf
+ 0.06% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q017.jpg
+91.81% : orange
+ 2.46% : lemon
+ 0.22% : banana
+ 0.20% : grocery store
+ 0.06% : bagel
+ 0.04% : dough
+ 0.04% : pineapple
+ 0.03% : butcher shop
+ 0.03% : pomegranate
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q018.jpg
+82.17% : orange
+ 9.13% : lemon
+ 0.36% : banana
+ 0.30% : grocery store
+ 0.16% : dough
+ 0.14% : bagel
+ 0.08% : pineapple
+ 0.06% : spatula
+ 0.05% : pomegranate
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q019.jpg
+79.07% : orange
+10.11% : lemon
+ 0.31% : banana
+ 0.18% : grocery store
+ 0.16% : dough
+ 0.12% : bagel
+ 0.07% : pineapple
+ 0.07% : spatula
+ 0.06% : mixing bowl
+ 0.05% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q020.jpg
+84.10% : orange
+ 6.82% : lemon
+ 0.37% : banana
+ 0.18% : grocery store
+ 0.12% : dough
+ 0.11% : bagel
+ 0.08% : pineapple
+ 0.06% : spatula
+ 0.05% : mixing bowl
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q021.jpg
+81.59% : orange
+ 8.98% : lemon
+ 0.33% : banana
+ 0.22% : grocery store
+ 0.12% : dough
+ 0.09% : bagel
+ 0.08% : pineapple
+ 0.06% : spatula
+ 0.05% : mixing bowl
+ 0.04% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q022.jpg
+85.78% : orange
+ 6.05% : lemon
+ 0.33% : banana
+ 0.16% : grocery store
+ 0.11% : dough
+ 0.09% : bagel
+ 0.07% : pineapple
+ 0.06% : mixing bowl
+ 0.06% : spatula
+ 0.04% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q023.jpg
+82.52% : orange
+ 9.87% : lemon
+ 0.27% : banana
+ 0.16% : grocery store
+ 0.11% : dough
+ 0.08% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : mixing bowl
+ 0.04% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q024.jpg
+83.88% : orange
+ 7.48% : lemon
+ 0.34% : banana
+ 0.18% : grocery store
+ 0.09% : dough
+ 0.08% : bagel
+ 0.07% : pineapple
+ 0.06% : spatula
+ 0.05% : mixing bowl
+ 0.04% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q025.jpg
+87.05% : orange
+ 5.67% : lemon
+ 0.23% : banana
+ 0.14% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.04% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q026.jpg
+87.43% : orange
+ 5.76% : lemon
+ 0.28% : banana
+ 0.16% : grocery store
+ 0.07% : dough
+ 0.07% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : mixing bowl
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q027.jpg
+86.23% : orange
+ 6.51% : lemon
+ 0.26% : banana
+ 0.14% : grocery store
+ 0.07% : dough
+ 0.07% : bagel
+ 0.06% : pineapple
+ 0.06% : spatula
+ 0.05% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q028.jpg
+85.60% : orange
+ 7.12% : lemon
+ 0.30% : banana
+ 0.14% : grocery store
+ 0.07% : dough
+ 0.06% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q029.jpg
+84.62% : orange
+ 8.35% : lemon
+ 0.29% : banana
+ 0.13% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q030.jpg
+89.22% : orange
+ 4.75% : lemon
+ 0.25% : banana
+ 0.12% : grocery store
+ 0.05% : bagel
+ 0.05% : pineapple
+ 0.05% : dough
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q031.jpg
+85.45% : orange
+ 8.32% : lemon
+ 0.25% : banana
+ 0.12% : grocery store
+ 0.05% : dough
+ 0.05% : pineapple
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q032.jpg
+87.11% : orange
+ 6.81% : lemon
+ 0.23% : banana
+ 0.11% : grocery store
+ 0.05% : dough
+ 0.05% : bagel
+ 0.05% : pineapple
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q033.jpg
+87.93% : orange
+ 5.54% : lemon
+ 0.26% : banana
+ 0.12% : grocery store
+ 0.06% : dough
+ 0.05% : pineapple
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q034.jpg
+89.12% : orange
+ 4.96% : lemon
+ 0.27% : banana
+ 0.12% : grocery store
+ 0.05% : pineapple
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.04% : dough
+ 0.04% : mixing bowl
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q035.jpg
+87.02% : orange
+ 6.16% : lemon
+ 0.25% : banana
+ 0.13% : grocery store
+ 0.06% : bagel
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : mixing bowl
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q036.jpg
+84.94% : orange
+ 8.03% : lemon
+ 0.28% : banana
+ 0.14% : grocery store
+ 0.08% : dough
+ 0.07% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : mixing bowl
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q037.jpg
+85.72% : orange
+ 7.32% : lemon
+ 0.28% : banana
+ 0.14% : grocery store
+ 0.08% : dough
+ 0.07% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : mixing bowl
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q038.jpg
+86.96% : orange
+ 6.33% : lemon
+ 0.24% : banana
+ 0.14% : grocery store
+ 0.07% : dough
+ 0.06% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.05% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q039.jpg
+86.47% : orange
+ 6.38% : lemon
+ 0.25% : banana
+ 0.13% : grocery store
+ 0.07% : dough
+ 0.06% : bagel
+ 0.06% : pineapple
+ 0.05% : spatula
+ 0.04% : mixing bowl
+ 0.04% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q040.jpg
+87.30% : orange
+ 6.10% : lemon
+ 0.25% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.05% : pineapple
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q041.jpg
+88.53% : orange
+ 5.31% : lemon
+ 0.25% : banana
+ 0.10% : grocery store
+ 0.05% : pineapple
+ 0.05% : bagel
+ 0.05% : dough
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q042.jpg
+88.42% : orange
+ 5.29% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.05% : dough
+ 0.05% : bagel
+ 0.05% : pineapple
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q043.jpg
+87.95% : orange
+ 5.43% : lemon
+ 0.25% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.05% : bagel
+ 0.05% : pineapple
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q044.jpg
+87.04% : orange
+ 6.35% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q045.jpg
+87.20% : orange
+ 6.27% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.05% : pineapple
+ 0.05% : dough
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q046.jpg
+89.26% : orange
+ 4.45% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.05% : pineapple
+ 0.04% : bagel
+ 0.04% : spatula
+ 0.04% : dough
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q047.jpg
+89.05% : orange
+ 4.58% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.05% : pineapple
+ 0.04% : bagel
+ 0.04% : spatula
+ 0.04% : dough
+ 0.04% : mixing bowl
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q048.jpg
+87.95% : orange
+ 5.51% : lemon
+ 0.28% : banana
+ 0.12% : grocery store
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : dough
+ 0.04% : spatula
+ 0.04% : mixing bowl
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q049.jpg
+88.12% : orange
+ 5.25% : lemon
+ 0.28% : banana
+ 0.12% : grocery store
+ 0.06% : pineapple
+ 0.05% : dough
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q050.jpg
+88.19% : orange
+ 5.21% : lemon
+ 0.28% : banana
+ 0.12% : grocery store
+ 0.06% : pineapple
+ 0.05% : dough
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q051.jpg
+88.20% : orange
+ 5.23% : lemon
+ 0.28% : banana
+ 0.12% : grocery store
+ 0.06% : pineapple
+ 0.05% : dough
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q052.jpg
+87.42% : orange
+ 6.12% : lemon
+ 0.27% : banana
+ 0.12% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.05% : bagel
+ 0.04% : mixing bowl
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q053.jpg
+87.30% : orange
+ 6.02% : lemon
+ 0.26% : banana
+ 0.12% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q054.jpg
+86.89% : orange
+ 6.23% : lemon
+ 0.26% : banana
+ 0.12% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q055.jpg
+85.27% : orange
+ 7.59% : lemon
+ 0.27% : banana
+ 0.12% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q056.jpg
+85.58% : orange
+ 7.41% : lemon
+ 0.27% : banana
+ 0.12% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q057.jpg
+85.73% : orange
+ 7.38% : lemon
+ 0.28% : banana
+ 0.12% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.04% : spatula
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q058.jpg
+85.85% : orange
+ 6.94% : lemon
+ 0.30% : banana
+ 0.12% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q059.jpg
+86.31% : orange
+ 6.71% : lemon
+ 0.29% : banana
+ 0.12% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q060.jpg
+85.58% : orange
+ 7.02% : lemon
+ 0.30% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q061.jpg
+86.77% : orange
+ 6.32% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q062.jpg
+87.06% : orange
+ 6.05% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q063.jpg
+87.15% : orange
+ 6.02% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q064.jpg
+87.54% : orange
+ 5.77% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q065.jpg
+86.03% : orange
+ 6.82% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q066.jpg
+86.05% : orange
+ 6.82% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q067.jpg
+84.38% : orange
+ 8.30% : lemon
+ 0.28% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q068.jpg
+85.25% : orange
+ 7.91% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q069.jpg
+83.39% : orange
+ 9.14% : lemon
+ 0.28% : banana
+ 0.11% : grocery store
+ 0.08% : dough
+ 0.06% : pineapple
+ 0.06% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q070.jpg
+83.33% : orange
+ 9.20% : lemon
+ 0.28% : banana
+ 0.12% : grocery store
+ 0.09% : dough
+ 0.07% : pineapple
+ 0.06% : mixing bowl
+ 0.06% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q071.jpg
+83.85% : orange
+ 8.80% : lemon
+ 0.27% : banana
+ 0.12% : grocery store
+ 0.08% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.06% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q072.jpg
+84.28% : orange
+ 8.61% : lemon
+ 0.27% : banana
+ 0.12% : grocery store
+ 0.08% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q073.jpg
+84.42% : orange
+ 8.92% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q074.jpg
+84.48% : orange
+ 8.70% : lemon
+ 0.25% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q075.jpg
+84.43% : orange
+ 8.73% : lemon
+ 0.25% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q076.jpg
+86.50% : orange
+ 7.03% : lemon
+ 0.25% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : bagel
+ 0.05% : mixing bowl
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q077.jpg
+86.49% : orange
+ 6.99% : lemon
+ 0.26% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q078.jpg
+85.67% : orange
+ 7.53% : lemon
+ 0.26% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q079.jpg
+85.17% : orange
+ 7.85% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q080.jpg
+85.23% : orange
+ 7.86% : lemon
+ 0.25% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q081.jpg
+85.89% : orange
+ 7.35% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q082.jpg
+85.11% : orange
+ 7.71% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q083.jpg
+86.04% : orange
+ 6.89% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q084.jpg
+85.48% : orange
+ 7.35% : lemon
+ 0.28% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q085.jpg
+85.66% : orange
+ 7.30% : lemon
+ 0.27% : banana
+ 0.10% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q086.jpg
+85.05% : orange
+ 7.71% : lemon
+ 0.27% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q087.jpg
+86.91% : orange
+ 6.44% : lemon
+ 0.27% : banana
+ 0.10% : grocery store
+ 0.06% : pineapple
+ 0.05% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q088.jpg
+87.08% : orange
+ 6.37% : lemon
+ 0.27% : banana
+ 0.10% : grocery store
+ 0.06% : pineapple
+ 0.05% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.04% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q089.jpg
+85.92% : orange
+ 6.99% : lemon
+ 0.26% : banana
+ 0.10% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q090.jpg
+85.02% : orange
+ 7.26% : lemon
+ 0.29% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.06% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q091.jpg
+85.55% : orange
+ 6.69% : lemon
+ 0.29% : banana
+ 0.10% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.05% : mixing bowl
+ 0.05% : bagel
+ 0.05% : spatula
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q092.jpg
+84.78% : orange
+ 6.92% : lemon
+ 0.29% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.04% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q093.jpg
+86.69% : orange
+ 5.72% : lemon
+ 0.29% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q094.jpg
+86.01% : orange
+ 6.32% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q095.jpg
+86.36% : orange
+ 6.33% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q096.jpg
+85.87% : orange
+ 6.64% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q097.jpg
+85.20% : orange
+ 6.99% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.07% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q098.jpg
+85.76% : orange
+ 6.75% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q099.jpg
+85.21% : orange
+ 7.17% : lemon
+ 0.26% : banana
+ 0.11% : grocery store
+ 0.06% : dough
+ 0.06% : pineapple
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange14Q100.jpg
+85.44% : orange
+ 7.04% : lemon
+ 0.27% : banana
+ 0.11% : grocery store
+ 0.06% : pineapple
+ 0.06% : dough
+ 0.06% : mixing bowl
+ 0.05% : spatula
+ 0.05% : bagel
+ 0.03% : magnetic compass

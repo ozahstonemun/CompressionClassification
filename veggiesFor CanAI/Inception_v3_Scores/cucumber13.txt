@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q001.jpg
+21.96% : butternut squash
+21.08% : spaghetti squash
+18.40% : zucchini
+ 9.88% : slug
+ 6.10% : French loaf
+ 2.41% : ear
+ 2.26% : hotdog
+ 2.07% : sea cucumber
+ 1.37% : cucumber
+ 1.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q002.jpg
+21.71% : butternut squash
+20.76% : spaghetti squash
+18.07% : zucchini
+10.74% : slug
+ 5.75% : French loaf
+ 2.36% : ear
+ 2.23% : sea cucumber
+ 2.15% : hotdog
+ 1.37% : cucumber
+ 1.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q003.jpg
+24.84% : butternut squash
+22.87% : zucchini
+15.94% : spaghetti squash
+11.89% : slug
+ 3.91% : French loaf
+ 2.18% : hotdog
+ 2.14% : sea cucumber
+ 1.52% : ear
+ 1.35% : cucumber
+ 0.93% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q004.jpg
+49.31% : slug
+ 9.20% : zucchini
+ 8.69% : banana
+ 7.51% : spaghetti squash
+ 5.77% : butternut squash
+ 2.55% : ear
+ 2.22% : sea cucumber
+ 1.33% : cucumber
+ 1.23% : French loaf
+ 0.81% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q005.jpg
+65.56% : cucumber
+28.10% : zucchini
+ 0.29% : slug
+ 0.20% : ear
+ 0.17% : sea cucumber
+ 0.16% : butternut squash
+ 0.15% : spaghetti squash
+ 0.13% : French loaf
+ 0.11% : banana
+ 0.07% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q006.jpg
+70.57% : zucchini
+22.45% : cucumber
+ 0.91% : spaghetti squash
+ 0.61% : slug
+ 0.52% : ear
+ 0.24% : butternut squash
+ 0.21% : banana
+ 0.20% : sea cucumber
+ 0.19% : French loaf
+ 0.11% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q007.jpg
+75.70% : cucumber
+16.14% : zucchini
+ 0.53% : French loaf
+ 0.50% : spaghetti squash
+ 0.45% : slug
+ 0.33% : ear
+ 0.13% : sea cucumber
+ 0.11% : banana
+ 0.10% : butternut squash
+ 0.07% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q008.jpg
+78.25% : cucumber
+13.41% : zucchini
+ 0.16% : French loaf
+ 0.12% : ear
+ 0.11% : spaghetti squash
+ 0.09% : sea cucumber
+ 0.09% : slug
+ 0.08% : modem
+ 0.07% : coil
+ 0.06% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q009.jpg
+78.55% : cucumber
+12.94% : zucchini
+ 0.20% : ear
+ 0.20% : French loaf
+ 0.15% : spaghetti squash
+ 0.13% : modem
+ 0.09% : coil
+ 0.08% : sea cucumber
+ 0.06% : nematode
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q010.jpg
+79.48% : cucumber
+ 8.46% : zucchini
+ 0.31% : ear
+ 0.26% : French loaf
+ 0.18% : spaghetti squash
+ 0.14% : sea cucumber
+ 0.13% : modem
+ 0.12% : nematode
+ 0.12% : coil
+ 0.11% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q011.jpg
+82.86% : cucumber
+ 4.23% : zucchini
+ 0.31% : ear
+ 0.31% : French loaf
+ 0.17% : modem
+ 0.15% : coil
+ 0.15% : spaghetti squash
+ 0.13% : sea cucumber
+ 0.11% : nematode
+ 0.09% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q012.jpg
+90.04% : cucumber
+ 1.69% : zucchini
+ 0.22% : modem
+ 0.14% : French loaf
+ 0.12% : ear
+ 0.11% : nematode
+ 0.10% : coil
+ 0.10% : sea cucumber
+ 0.09% : spaghetti squash
+ 0.06% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q013.jpg
+78.25% : cucumber
+ 7.05% : zucchini
+ 0.41% : ear
+ 0.34% : French loaf
+ 0.28% : spaghetti squash
+ 0.18% : sea cucumber
+ 0.16% : nematode
+ 0.16% : modem
+ 0.15% : slug
+ 0.14% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q014.jpg
+77.42% : cucumber
+ 8.22% : zucchini
+ 0.38% : ear
+ 0.29% : French loaf
+ 0.17% : spaghetti squash
+ 0.16% : modem
+ 0.15% : coil
+ 0.13% : sea cucumber
+ 0.10% : nematode
+ 0.09% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q015.jpg
+83.68% : cucumber
+ 4.91% : zucchini
+ 0.28% : French loaf
+ 0.28% : ear
+ 0.21% : spaghetti squash
+ 0.14% : nematode
+ 0.13% : coil
+ 0.13% : modem
+ 0.13% : sea cucumber
+ 0.09% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q016.jpg
+79.93% : cucumber
+ 5.39% : zucchini
+ 0.41% : French loaf
+ 0.41% : ear
+ 0.27% : spaghetti squash
+ 0.18% : modem
+ 0.17% : sea cucumber
+ 0.16% : coil
+ 0.16% : nematode
+ 0.09% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q017.jpg
+74.14% : cucumber
+ 6.60% : zucchini
+ 0.58% : ear
+ 0.51% : French loaf
+ 0.31% : spaghetti squash
+ 0.26% : sea cucumber
+ 0.21% : nematode
+ 0.17% : coil
+ 0.17% : banana
+ 0.16% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q018.jpg
+76.67% : cucumber
+ 6.13% : zucchini
+ 0.45% : ear
+ 0.44% : French loaf
+ 0.27% : sea cucumber
+ 0.21% : spaghetti squash
+ 0.20% : nematode
+ 0.20% : coil
+ 0.17% : modem
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q019.jpg
+81.27% : cucumber
+ 4.93% : zucchini
+ 0.39% : ear
+ 0.36% : French loaf
+ 0.24% : spaghetti squash
+ 0.17% : coil
+ 0.16% : sea cucumber
+ 0.16% : modem
+ 0.12% : nematode
+ 0.09% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q020.jpg
+78.95% : cucumber
+ 5.62% : zucchini
+ 0.42% : ear
+ 0.42% : French loaf
+ 0.23% : spaghetti squash
+ 0.20% : modem
+ 0.18% : coil
+ 0.18% : sea cucumber
+ 0.15% : banana
+ 0.15% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q021.jpg
+72.81% : cucumber
+ 6.37% : zucchini
+ 0.66% : French loaf
+ 0.53% : ear
+ 0.33% : sea cucumber
+ 0.28% : nematode
+ 0.27% : spaghetti squash
+ 0.24% : coil
+ 0.17% : modem
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q022.jpg
+71.92% : cucumber
+ 8.51% : zucchini
+ 0.56% : ear
+ 0.53% : French loaf
+ 0.31% : spaghetti squash
+ 0.26% : sea cucumber
+ 0.20% : nematode
+ 0.19% : coil
+ 0.15% : modem
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q023.jpg
+75.98% : cucumber
+ 5.90% : zucchini
+ 0.45% : French loaf
+ 0.43% : ear
+ 0.27% : sea cucumber
+ 0.23% : spaghetti squash
+ 0.20% : coil
+ 0.20% : nematode
+ 0.19% : modem
+ 0.13% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q024.jpg
+82.73% : cucumber
+ 4.30% : zucchini
+ 0.32% : French loaf
+ 0.27% : ear
+ 0.16% : modem
+ 0.16% : coil
+ 0.14% : spaghetti squash
+ 0.13% : sea cucumber
+ 0.12% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q025.jpg
+80.02% : cucumber
+ 3.84% : zucchini
+ 0.44% : French loaf
+ 0.33% : ear
+ 0.25% : coil
+ 0.19% : modem
+ 0.19% : spaghetti squash
+ 0.18% : sea cucumber
+ 0.18% : nematode
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q026.jpg
+79.36% : cucumber
+ 3.49% : zucchini
+ 0.39% : French loaf
+ 0.35% : ear
+ 0.22% : modem
+ 0.21% : coil
+ 0.20% : spaghetti squash
+ 0.17% : sea cucumber
+ 0.15% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q027.jpg
+81.43% : cucumber
+ 3.68% : zucchini
+ 0.39% : French loaf
+ 0.32% : ear
+ 0.20% : spaghetti squash
+ 0.20% : sea cucumber
+ 0.20% : coil
+ 0.19% : modem
+ 0.17% : nematode
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q028.jpg
+78.06% : cucumber
+ 4.84% : zucchini
+ 0.48% : French loaf
+ 0.42% : ear
+ 0.23% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.21% : coil
+ 0.18% : nematode
+ 0.18% : modem
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q029.jpg
+76.65% : cucumber
+ 5.68% : zucchini
+ 0.53% : French loaf
+ 0.48% : ear
+ 0.25% : spaghetti squash
+ 0.24% : sea cucumber
+ 0.20% : coil
+ 0.19% : nematode
+ 0.17% : modem
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q030.jpg
+80.12% : cucumber
+ 4.62% : zucchini
+ 0.40% : French loaf
+ 0.39% : ear
+ 0.19% : coil
+ 0.19% : sea cucumber
+ 0.19% : spaghetti squash
+ 0.18% : modem
+ 0.15% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q031.jpg
+79.30% : cucumber
+ 4.54% : zucchini
+ 0.47% : French loaf
+ 0.41% : ear
+ 0.21% : spaghetti squash
+ 0.21% : coil
+ 0.20% : modem
+ 0.17% : sea cucumber
+ 0.15% : nematode
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q032.jpg
+78.98% : cucumber
+ 5.03% : zucchini
+ 0.45% : French loaf
+ 0.40% : ear
+ 0.22% : spaghetti squash
+ 0.19% : coil
+ 0.18% : modem
+ 0.16% : sea cucumber
+ 0.15% : nematode
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q033.jpg
+78.04% : cucumber
+ 4.65% : zucchini
+ 0.50% : French loaf
+ 0.48% : ear
+ 0.23% : coil
+ 0.23% : spaghetti squash
+ 0.20% : sea cucumber
+ 0.18% : modem
+ 0.16% : nematode
+ 0.15% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q034.jpg
+81.37% : cucumber
+ 3.48% : zucchini
+ 0.40% : French loaf
+ 0.34% : ear
+ 0.21% : coil
+ 0.19% : sea cucumber
+ 0.19% : modem
+ 0.16% : spaghetti squash
+ 0.16% : nematode
+ 0.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q035.jpg
+76.36% : cucumber
+ 5.67% : zucchini
+ 0.58% : French loaf
+ 0.51% : ear
+ 0.29% : spaghetti squash
+ 0.23% : sea cucumber
+ 0.21% : coil
+ 0.20% : nematode
+ 0.17% : banana
+ 0.17% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q036.jpg
+82.59% : cucumber
+ 3.74% : zucchini
+ 0.33% : French loaf
+ 0.30% : ear
+ 0.18% : spaghetti squash
+ 0.17% : coil
+ 0.17% : modem
+ 0.16% : sea cucumber
+ 0.14% : nematode
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q037.jpg
+81.23% : cucumber
+ 4.24% : zucchini
+ 0.35% : French loaf
+ 0.33% : ear
+ 0.19% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.18% : coil
+ 0.17% : modem
+ 0.15% : nematode
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q038.jpg
+76.80% : cucumber
+ 5.34% : zucchini
+ 0.49% : French loaf
+ 0.44% : ear
+ 0.24% : spaghetti squash
+ 0.24% : sea cucumber
+ 0.22% : nematode
+ 0.21% : coil
+ 0.17% : modem
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q039.jpg
+77.21% : cucumber
+ 5.21% : zucchini
+ 0.52% : French loaf
+ 0.45% : ear
+ 0.25% : sea cucumber
+ 0.22% : spaghetti squash
+ 0.22% : coil
+ 0.19% : nematode
+ 0.16% : modem
+ 0.15% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q040.jpg
+82.98% : cucumber
+ 2.99% : zucchini
+ 0.33% : French loaf
+ 0.26% : ear
+ 0.21% : coil
+ 0.19% : modem
+ 0.18% : sea cucumber
+ 0.16% : nematode
+ 0.14% : spaghetti squash
+ 0.09% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q041.jpg
+83.16% : cucumber
+ 3.61% : zucchini
+ 0.31% : French loaf
+ 0.26% : ear
+ 0.19% : coil
+ 0.18% : modem
+ 0.16% : spaghetti squash
+ 0.15% : sea cucumber
+ 0.15% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q042.jpg
+78.43% : cucumber
+ 5.27% : zucchini
+ 0.49% : French loaf
+ 0.44% : ear
+ 0.25% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.20% : coil
+ 0.18% : nematode
+ 0.17% : modem
+ 0.15% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q043.jpg
+77.65% : cucumber
+ 5.60% : zucchini
+ 0.50% : French loaf
+ 0.45% : ear
+ 0.26% : spaghetti squash
+ 0.23% : sea cucumber
+ 0.20% : coil
+ 0.19% : nematode
+ 0.17% : modem
+ 0.16% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q044.jpg
+73.52% : cucumber
+ 5.99% : zucchini
+ 0.68% : French loaf
+ 0.57% : ear
+ 0.29% : spaghetti squash
+ 0.28% : sea cucumber
+ 0.24% : coil
+ 0.23% : nematode
+ 0.17% : modem
+ 0.16% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q045.jpg
+73.71% : cucumber
+ 5.78% : zucchini
+ 0.65% : French loaf
+ 0.57% : ear
+ 0.30% : spaghetti squash
+ 0.28% : sea cucumber
+ 0.23% : coil
+ 0.23% : nematode
+ 0.17% : modem
+ 0.16% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q046.jpg
+74.62% : cucumber
+ 6.31% : zucchini
+ 0.59% : French loaf
+ 0.53% : ear
+ 0.27% : spaghetti squash
+ 0.23% : coil
+ 0.23% : sea cucumber
+ 0.18% : nematode
+ 0.17% : modem
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q047.jpg
+75.05% : cucumber
+ 6.17% : zucchini
+ 0.59% : French loaf
+ 0.53% : ear
+ 0.27% : spaghetti squash
+ 0.23% : coil
+ 0.22% : sea cucumber
+ 0.18% : nematode
+ 0.16% : modem
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q048.jpg
+75.00% : cucumber
+ 6.30% : zucchini
+ 0.59% : French loaf
+ 0.52% : ear
+ 0.27% : spaghetti squash
+ 0.23% : coil
+ 0.23% : sea cucumber
+ 0.18% : nematode
+ 0.16% : modem
+ 0.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q049.jpg
+79.58% : cucumber
+ 4.12% : zucchini
+ 0.42% : French loaf
+ 0.37% : ear
+ 0.21% : coil
+ 0.21% : sea cucumber
+ 0.19% : spaghetti squash
+ 0.18% : nematode
+ 0.18% : modem
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q050.jpg
+79.58% : cucumber
+ 4.15% : zucchini
+ 0.43% : French loaf
+ 0.37% : ear
+ 0.22% : coil
+ 0.21% : sea cucumber
+ 0.19% : spaghetti squash
+ 0.18% : modem
+ 0.18% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q051.jpg
+79.60% : cucumber
+ 3.99% : zucchini
+ 0.43% : French loaf
+ 0.37% : ear
+ 0.22% : coil
+ 0.21% : sea cucumber
+ 0.19% : modem
+ 0.19% : spaghetti squash
+ 0.18% : nematode
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q052.jpg
+79.84% : cucumber
+ 5.43% : zucchini
+ 0.49% : French loaf
+ 0.41% : ear
+ 0.23% : spaghetti squash
+ 0.20% : sea cucumber
+ 0.19% : coil
+ 0.16% : nematode
+ 0.15% : modem
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q053.jpg
+79.59% : cucumber
+ 5.74% : zucchini
+ 0.49% : French loaf
+ 0.42% : ear
+ 0.24% : spaghetti squash
+ 0.20% : coil
+ 0.19% : sea cucumber
+ 0.15% : nematode
+ 0.14% : modem
+ 0.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q054.jpg
+79.77% : cucumber
+ 5.44% : zucchini
+ 0.50% : French loaf
+ 0.42% : ear
+ 0.23% : spaghetti squash
+ 0.20% : sea cucumber
+ 0.20% : coil
+ 0.16% : nematode
+ 0.14% : modem
+ 0.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q055.jpg
+79.22% : cucumber
+ 5.06% : zucchini
+ 0.46% : French loaf
+ 0.40% : ear
+ 0.22% : coil
+ 0.21% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.17% : nematode
+ 0.17% : modem
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q056.jpg
+78.31% : cucumber
+ 5.39% : zucchini
+ 0.49% : French loaf
+ 0.44% : ear
+ 0.24% : spaghetti squash
+ 0.22% : sea cucumber
+ 0.22% : coil
+ 0.18% : nematode
+ 0.16% : modem
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q057.jpg
+77.73% : cucumber
+ 5.34% : zucchini
+ 0.49% : French loaf
+ 0.46% : ear
+ 0.23% : sea cucumber
+ 0.23% : spaghetti squash
+ 0.22% : coil
+ 0.18% : nematode
+ 0.17% : modem
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q058.jpg
+75.98% : cucumber
+ 6.75% : zucchini
+ 0.52% : ear
+ 0.51% : French loaf
+ 0.29% : spaghetti squash
+ 0.24% : sea cucumber
+ 0.20% : coil
+ 0.18% : nematode
+ 0.14% : modem
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q059.jpg
+75.99% : cucumber
+ 6.93% : zucchini
+ 0.52% : ear
+ 0.52% : French loaf
+ 0.30% : spaghetti squash
+ 0.23% : sea cucumber
+ 0.19% : coil
+ 0.18% : nematode
+ 0.13% : modem
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q060.jpg
+74.24% : cucumber
+ 7.30% : zucchini
+ 0.56% : ear
+ 0.53% : French loaf
+ 0.30% : spaghetti squash
+ 0.26% : sea cucumber
+ 0.19% : coil
+ 0.19% : nematode
+ 0.13% : modem
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q061.jpg
+76.69% : cucumber
+ 6.97% : zucchini
+ 0.51% : ear
+ 0.48% : French loaf
+ 0.25% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.18% : coil
+ 0.15% : nematode
+ 0.13% : modem
+ 0.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q062.jpg
+77.36% : cucumber
+ 6.51% : zucchini
+ 0.49% : French loaf
+ 0.48% : ear
+ 0.25% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.18% : coil
+ 0.15% : nematode
+ 0.13% : modem
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q063.jpg
+77.23% : cucumber
+ 6.83% : zucchini
+ 0.48% : French loaf
+ 0.46% : ear
+ 0.25% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.18% : coil
+ 0.15% : nematode
+ 0.13% : modem
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q064.jpg
+78.83% : cucumber
+ 6.89% : zucchini
+ 0.43% : French loaf
+ 0.41% : ear
+ 0.26% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.16% : coil
+ 0.13% : nematode
+ 0.12% : modem
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q065.jpg
+78.84% : cucumber
+ 6.65% : zucchini
+ 0.42% : French loaf
+ 0.39% : ear
+ 0.26% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.16% : coil
+ 0.14% : nematode
+ 0.12% : modem
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q066.jpg
+77.72% : cucumber
+ 6.88% : zucchini
+ 0.45% : French loaf
+ 0.42% : ear
+ 0.28% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.17% : coil
+ 0.15% : nematode
+ 0.13% : modem
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q067.jpg
+79.52% : cucumber
+ 5.57% : zucchini
+ 0.40% : French loaf
+ 0.36% : ear
+ 0.23% : spaghetti squash
+ 0.18% : coil
+ 0.17% : sea cucumber
+ 0.15% : modem
+ 0.13% : nematode
+ 0.09% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q068.jpg
+76.36% : cucumber
+ 7.30% : zucchini
+ 0.46% : French loaf
+ 0.44% : ear
+ 0.28% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.18% : coil
+ 0.15% : nematode
+ 0.14% : modem
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q069.jpg
+77.43% : cucumber
+ 6.52% : zucchini
+ 0.45% : French loaf
+ 0.43% : ear
+ 0.27% : spaghetti squash
+ 0.18% : sea cucumber
+ 0.18% : coil
+ 0.15% : modem
+ 0.15% : nematode
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q070.jpg
+76.74% : cucumber
+ 6.91% : zucchini
+ 0.46% : French loaf
+ 0.44% : ear
+ 0.28% : spaghetti squash
+ 0.20% : sea cucumber
+ 0.19% : coil
+ 0.15% : nematode
+ 0.14% : modem
+ 0.11% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q071.jpg
+74.68% : cucumber
+ 7.53% : zucchini
+ 0.50% : ear
+ 0.50% : French loaf
+ 0.28% : spaghetti squash
+ 0.22% : sea cucumber
+ 0.20% : coil
+ 0.16% : nematode
+ 0.15% : modem
+ 0.12% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q072.jpg
+76.98% : cucumber
+ 6.49% : zucchini
+ 0.46% : French loaf
+ 0.44% : ear
+ 0.24% : spaghetti squash
+ 0.19% : coil
+ 0.19% : sea cucumber
+ 0.15% : modem
+ 0.14% : nematode
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q073.jpg
+75.35% : cucumber
+ 7.71% : zucchini
+ 0.47% : French loaf
+ 0.46% : ear
+ 0.27% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.18% : coil
+ 0.15% : modem
+ 0.15% : nematode
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q074.jpg
+72.45% : cucumber
+ 8.35% : zucchini
+ 0.53% : ear
+ 0.51% : French loaf
+ 0.31% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.19% : coil
+ 0.16% : nematode
+ 0.15% : modem
+ 0.13% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q075.jpg
+72.77% : cucumber
+ 7.99% : zucchini
+ 0.52% : ear
+ 0.51% : French loaf
+ 0.30% : spaghetti squash
+ 0.22% : sea cucumber
+ 0.20% : coil
+ 0.16% : nematode
+ 0.16% : modem
+ 0.13% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q076.jpg
+73.79% : cucumber
+ 6.99% : zucchini
+ 0.53% : French loaf
+ 0.52% : ear
+ 0.28% : spaghetti squash
+ 0.25% : sea cucumber
+ 0.20% : coil
+ 0.18% : nematode
+ 0.17% : modem
+ 0.13% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q077.jpg
+77.02% : cucumber
+ 6.52% : zucchini
+ 0.45% : ear
+ 0.45% : French loaf
+ 0.26% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.18% : coil
+ 0.16% : modem
+ 0.16% : nematode
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q078.jpg
+77.67% : cucumber
+ 6.42% : zucchini
+ 0.40% : ear
+ 0.38% : French loaf
+ 0.24% : spaghetti squash
+ 0.18% : coil
+ 0.18% : sea cucumber
+ 0.16% : modem
+ 0.14% : nematode
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q079.jpg
+77.57% : cucumber
+ 6.58% : zucchini
+ 0.40% : ear
+ 0.39% : French loaf
+ 0.24% : spaghetti squash
+ 0.19% : sea cucumber
+ 0.18% : coil
+ 0.15% : modem
+ 0.15% : nematode
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q080.jpg
+78.35% : cucumber
+ 5.53% : zucchini
+ 0.42% : French loaf
+ 0.38% : ear
+ 0.24% : spaghetti squash
+ 0.19% : coil
+ 0.19% : sea cucumber
+ 0.16% : nematode
+ 0.16% : modem
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q081.jpg
+77.50% : cucumber
+ 6.14% : zucchini
+ 0.44% : French loaf
+ 0.41% : ear
+ 0.23% : spaghetti squash
+ 0.20% : coil
+ 0.18% : sea cucumber
+ 0.16% : modem
+ 0.16% : nematode
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q082.jpg
+76.13% : cucumber
+ 6.30% : zucchini
+ 0.48% : French loaf
+ 0.44% : ear
+ 0.24% : spaghetti squash
+ 0.21% : coil
+ 0.19% : sea cucumber
+ 0.17% : modem
+ 0.16% : nematode
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q083.jpg
+78.27% : cucumber
+ 6.42% : zucchini
+ 0.42% : French loaf
+ 0.40% : ear
+ 0.22% : spaghetti squash
+ 0.18% : coil
+ 0.16% : sea cucumber
+ 0.15% : modem
+ 0.13% : nematode
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q084.jpg
+77.14% : cucumber
+ 7.11% : zucchini
+ 0.42% : ear
+ 0.42% : French loaf
+ 0.24% : spaghetti squash
+ 0.18% : coil
+ 0.16% : sea cucumber
+ 0.15% : modem
+ 0.13% : nematode
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q085.jpg
+77.25% : cucumber
+ 6.93% : zucchini
+ 0.42% : French loaf
+ 0.42% : ear
+ 0.23% : spaghetti squash
+ 0.17% : coil
+ 0.17% : sea cucumber
+ 0.15% : modem
+ 0.14% : nematode
+ 0.10% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q086.jpg
+78.57% : cucumber
+ 6.74% : zucchini
+ 0.40% : French loaf
+ 0.39% : ear
+ 0.22% : spaghetti squash
+ 0.17% : coil
+ 0.16% : sea cucumber
+ 0.14% : modem
+ 0.13% : nematode
+ 0.09% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q087.jpg
+78.84% : cucumber
+ 6.16% : zucchini
+ 0.39% : French loaf
+ 0.39% : ear
+ 0.22% : spaghetti squash
+ 0.17% : sea cucumber
+ 0.17% : coil
+ 0.15% : modem
+ 0.14% : nematode
+ 0.09% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q088.jpg
+77.90% : cucumber
+ 5.78% : zucchini
+ 0.43% : French loaf
+ 0.42% : ear
+ 0.22% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.19% : coil
+ 0.15% : nematode
+ 0.15% : modem
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q089.jpg
+76.59% : cucumber
+ 6.43% : zucchini
+ 0.46% : ear
+ 0.44% : French loaf
+ 0.25% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.19% : coil
+ 0.16% : nematode
+ 0.15% : modem
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q090.jpg
+78.36% : cucumber
+ 5.47% : zucchini
+ 0.40% : French loaf
+ 0.39% : ear
+ 0.22% : spaghetti squash
+ 0.19% : coil
+ 0.18% : sea cucumber
+ 0.16% : modem
+ 0.15% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q091.jpg
+79.61% : cucumber
+ 4.72% : zucchini
+ 0.40% : French loaf
+ 0.35% : ear
+ 0.22% : spaghetti squash
+ 0.18% : coil
+ 0.17% : sea cucumber
+ 0.16% : modem
+ 0.14% : nematode
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q092.jpg
+77.94% : cucumber
+ 4.98% : zucchini
+ 0.41% : French loaf
+ 0.39% : ear
+ 0.24% : spaghetti squash
+ 0.19% : coil
+ 0.17% : sea cucumber
+ 0.17% : modem
+ 0.15% : nematode
+ 0.11% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q093.jpg
+72.18% : cucumber
+ 7.13% : zucchini
+ 0.56% : ear
+ 0.54% : French loaf
+ 0.33% : spaghetti squash
+ 0.26% : sea cucumber
+ 0.20% : coil
+ 0.19% : nematode
+ 0.16% : modem
+ 0.14% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q094.jpg
+70.25% : cucumber
+ 7.50% : zucchini
+ 0.62% : ear
+ 0.59% : French loaf
+ 0.33% : spaghetti squash
+ 0.27% : sea cucumber
+ 0.22% : coil
+ 0.19% : nematode
+ 0.17% : modem
+ 0.15% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q095.jpg
+71.40% : cucumber
+ 7.30% : zucchini
+ 0.58% : ear
+ 0.56% : French loaf
+ 0.31% : spaghetti squash
+ 0.25% : sea cucumber
+ 0.21% : coil
+ 0.18% : nematode
+ 0.16% : modem
+ 0.14% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q096.jpg
+72.54% : cucumber
+ 7.09% : zucchini
+ 0.54% : ear
+ 0.53% : French loaf
+ 0.31% : spaghetti squash
+ 0.24% : sea cucumber
+ 0.20% : coil
+ 0.18% : nematode
+ 0.16% : modem
+ 0.14% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q097.jpg
+74.15% : cucumber
+ 6.61% : zucchini
+ 0.52% : ear
+ 0.50% : French loaf
+ 0.28% : spaghetti squash
+ 0.22% : sea cucumber
+ 0.20% : coil
+ 0.17% : nematode
+ 0.16% : modem
+ 0.12% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q098.jpg
+73.69% : cucumber
+ 7.11% : zucchini
+ 0.53% : ear
+ 0.50% : French loaf
+ 0.29% : spaghetti squash
+ 0.21% : sea cucumber
+ 0.20% : coil
+ 0.17% : nematode
+ 0.16% : modem
+ 0.13% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q099.jpg
+72.28% : cucumber
+ 7.79% : zucchini
+ 0.56% : ear
+ 0.52% : French loaf
+ 0.32% : spaghetti squash
+ 0.23% : sea cucumber
+ 0.19% : coil
+ 0.18% : nematode
+ 0.15% : modem
+ 0.13% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber13Q100.jpg
+71.73% : cucumber
+ 7.49% : zucchini
+ 0.57% : ear
+ 0.55% : French loaf
+ 0.32% : spaghetti squash
+ 0.25% : sea cucumber
+ 0.21% : coil
+ 0.19% : nematode
+ 0.16% : modem
+ 0.14% : head cabbage

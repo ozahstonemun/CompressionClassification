@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ001.jpg
+99.11% : zebra
+ 0.03% : tiger
+ 0.02% : tiger cat
+ 0.01% : academic gown
+ 0.01% : hartebeest
+ 0.01% : ostrich
+ 0.01% : prairie chicken
+ 0.01% : impala
+ 0.01% : goose
+ 0.01% : limousine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ002.jpg
+99.07% : zebra
+ 0.03% : tiger
+ 0.02% : tiger cat
+ 0.01% : academic gown
+ 0.01% : hartebeest
+ 0.01% : ostrich
+ 0.01% : prairie chicken
+ 0.01% : goose
+ 0.01% : impala
+ 0.01% : limousine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ003.jpg
+98.90% : zebra
+ 0.04% : tiger
+ 0.02% : tiger cat
+ 0.02% : academic gown
+ 0.01% : hartebeest
+ 0.01% : ostrich
+ 0.01% : impala
+ 0.01% : limousine
+ 0.01% : prairie chicken
+ 0.01% : goose
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ004.jpg
+98.68% : zebra
+ 0.02% : hartebeest
+ 0.02% : tiger
+ 0.01% : prairie chicken
+ 0.01% : tiger cat
+ 0.01% : impala
+ 0.01% : ostrich
+ 0.01% : academic gown
+ 0.01% : lionfish
+ 0.01% : barn spider
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ005.jpg
+98.26% : zebra
+ 0.03% : hartebeest
+ 0.03% : tiger
+ 0.02% : impala
+ 0.02% : tiger cat
+ 0.02% : ostrich
+ 0.01% : Japanese spaniel
+ 0.01% : academic gown
+ 0.01% : barn spider
+ 0.01% : gondola
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ006.jpg
+97.00% : zebra
+ 0.06% : tiger
+ 0.05% : hartebeest
+ 0.03% : impala
+ 0.02% : tiger cat
+ 0.02% : ostrich
+ 0.02% : Japanese spaniel
+ 0.01% : balloon
+ 0.01% : academic gown
+ 0.01% : lionfish
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ007.jpg
+96.91% : zebra
+ 0.06% : hartebeest
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : ostrich
+ 0.03% : balloon
+ 0.02% : prairie chicken
+ 0.02% : cheetah
+ 0.02% : lionfish
+ 0.01% : gondola
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ008.jpg
+97.10% : zebra
+ 0.07% : hartebeest
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : ostrich
+ 0.02% : prairie chicken
+ 0.02% : cheetah
+ 0.01% : balloon
+ 0.01% : Japanese spaniel
+ 0.01% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ009.jpg
+97.21% : zebra
+ 0.06% : hartebeest
+ 0.03% : ostrich
+ 0.03% : impala
+ 0.03% : tiger
+ 0.02% : prairie chicken
+ 0.02% : balloon
+ 0.02% : gondola
+ 0.01% : cheetah
+ 0.01% : Japanese spaniel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ010.jpg
+97.50% : zebra
+ 0.05% : hartebeest
+ 0.03% : ostrich
+ 0.03% : tiger
+ 0.03% : impala
+ 0.01% : Japanese spaniel
+ 0.01% : prairie chicken
+ 0.01% : cheetah
+ 0.01% : warthog
+ 0.01% : flatworm
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ011.jpg
+95.96% : zebra
+ 0.08% : hartebeest
+ 0.05% : ostrich
+ 0.05% : tiger
+ 0.04% : impala
+ 0.02% : prairie chicken
+ 0.02% : Japanese spaniel
+ 0.02% : tiger cat
+ 0.02% : warthog
+ 0.02% : cheetah
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ012.jpg
+95.86% : zebra
+ 0.09% : hartebeest
+ 0.05% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : prairie chicken
+ 0.02% : cheetah
+ 0.02% : Japanese spaniel
+ 0.02% : gondola
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ013.jpg
+96.16% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.02% : prairie chicken
+ 0.02% : cheetah
+ 0.02% : gondola
+ 0.02% : Japanese spaniel
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ014.jpg
+96.11% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : Japanese spaniel
+ 0.02% : prairie chicken
+ 0.02% : cheetah
+ 0.02% : tiger cat
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ015.jpg
+96.67% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : tiger cat
+ 0.02% : warthog
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ016.jpg
+96.43% : zebra
+ 0.08% : hartebeest
+ 0.05% : impala
+ 0.05% : tiger
+ 0.04% : ostrich
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : gazelle
+ 0.02% : African elephant
+ 0.02% : Japanese spaniel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ017.jpg
+96.87% : zebra
+ 0.07% : hartebeest
+ 0.06% : tiger
+ 0.04% : impala
+ 0.03% : ostrich
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : Japanese spaniel
+ 0.01% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ018.jpg
+97.25% : zebra
+ 0.06% : hartebeest
+ 0.05% : tiger
+ 0.04% : impala
+ 0.03% : ostrich
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.01% : prairie chicken
+ 0.01% : hyena
+ 0.01% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ019.jpg
+96.55% : zebra
+ 0.07% : hartebeest
+ 0.06% : tiger
+ 0.04% : impala
+ 0.04% : ostrich
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ020.jpg
+96.77% : zebra
+ 0.07% : hartebeest
+ 0.05% : tiger
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+ 0.02% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ021.jpg
+97.10% : zebra
+ 0.06% : hartebeest
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : ostrich
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.01% : warthog
+ 0.01% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ022.jpg
+97.39% : zebra
+ 0.06% : hartebeest
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : ostrich
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : warthog
+ 0.01% : gazelle
+ 0.01% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ023.jpg
+96.55% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : warthog
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ024.jpg
+96.43% : zebra
+ 0.07% : hartebeest
+ 0.04% : impala
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : warthog
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ025.jpg
+96.62% : zebra
+ 0.06% : hartebeest
+ 0.04% : tiger
+ 0.04% : impala
+ 0.04% : ostrich
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ026.jpg
+96.61% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ027.jpg
+96.68% : zebra
+ 0.07% : hartebeest
+ 0.04% : impala
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.02% : cheetah
+ 0.02% : tiger cat
+ 0.02% : African elephant
+ 0.02% : warthog
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ028.jpg
+96.73% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : cheetah
+ 0.02% : tiger cat
+ 0.02% : African elephant
+ 0.02% : hyena
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ029.jpg
+96.53% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ030.jpg
+96.58% : zebra
+ 0.06% : hartebeest
+ 0.05% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ031.jpg
+96.39% : zebra
+ 0.07% : hartebeest
+ 0.05% : tiger
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : warthog
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ032.jpg
+96.83% : zebra
+ 0.06% : hartebeest
+ 0.05% : tiger
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : warthog
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ033.jpg
+96.55% : zebra
+ 0.06% : hartebeest
+ 0.05% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ034.jpg
+96.56% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : cheetah
+ 0.02% : tiger cat
+ 0.02% : gazelle
+ 0.02% : warthog
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ035.jpg
+96.71% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ036.jpg
+96.66% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : hyena
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ037.jpg
+96.56% : zebra
+ 0.07% : hartebeest
+ 0.04% : impala
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : hyena
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ038.jpg
+96.35% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : cheetah
+ 0.03% : tiger cat
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ039.jpg
+96.30% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : cheetah
+ 0.03% : tiger cat
+ 0.02% : hyena
+ 0.02% : warthog
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ040.jpg
+96.06% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : hyena
+ 0.02% : warthog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ041.jpg
+96.44% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ042.jpg
+96.36% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : pencil box
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ043.jpg
+96.44% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ044.jpg
+96.67% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : hyena
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ045.jpg
+96.62% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.02% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : hyena
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ046.jpg
+96.50% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ047.jpg
+96.46% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ048.jpg
+96.36% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ049.jpg
+96.47% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ050.jpg
+96.45% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ051.jpg
+96.45% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ052.jpg
+96.69% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ053.jpg
+96.77% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ054.jpg
+96.81% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ055.jpg
+96.93% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : hyena
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ056.jpg
+96.71% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ057.jpg
+96.76% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : African elephant
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ058.jpg
+96.34% : zebra
+ 0.07% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ059.jpg
+96.35% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ060.jpg
+96.31% : zebra
+ 0.07% : hartebeest
+ 0.05% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ061.jpg
+96.56% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : pencil box
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ062.jpg
+96.44% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.04% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : African elephant
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ063.jpg
+96.89% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.03% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : hyena
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ064.jpg
+96.77% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : hyena
+ 0.02% : prairie chicken
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ065.jpg
+96.51% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : impala
+ 0.03% : tiger
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ066.jpg
+96.53% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : cheetah
+ 0.03% : tiger cat
+ 0.02% : pencil box
+ 0.02% : hyena
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ067.jpg
+96.44% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ068.jpg
+96.44% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ069.jpg
+96.28% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ070.jpg
+96.64% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ071.jpg
+96.70% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ072.jpg
+96.66% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ073.jpg
+96.49% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ074.jpg
+96.83% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ075.jpg
+96.99% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.03% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ076.jpg
+96.71% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ077.jpg
+96.76% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.03% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ078.jpg
+96.93% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ079.jpg
+96.95% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ080.jpg
+96.75% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ081.jpg
+96.89% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.03% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : hyena
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ082.jpg
+96.87% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.03% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ083.jpg
+96.80% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ084.jpg
+96.62% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ085.jpg
+96.75% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ086.jpg
+96.52% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : African elephant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ087.jpg
+96.44% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ088.jpg
+96.41% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ089.jpg
+96.30% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ090.jpg
+96.51% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ091.jpg
+96.69% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : beach wagon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ092.jpg
+96.68% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ093.jpg
+96.78% : zebra
+ 0.05% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ094.jpg
+96.70% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ095.jpg
+96.73% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ096.jpg
+96.43% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ097.jpg
+96.44% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.03% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ098.jpg
+96.51% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.04% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : pencil box
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ099.jpg
+96.67% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : pencil box
+ 0.02% : prairie chicken
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorZebraQ100.jpg
+96.65% : zebra
+ 0.06% : hartebeest
+ 0.04% : ostrich
+ 0.04% : tiger
+ 0.03% : impala
+ 0.03% : tiger cat
+ 0.02% : cheetah
+ 0.02% : prairie chicken
+ 0.02% : pencil box
+ 0.02% : beach wagon

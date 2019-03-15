@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ001.jpg
+38.88% : daisy
+21.94% : pinwheel
+ 3.00% : chambered nautilus
+ 1.15% : missile
+ 1.01% : balloon
+ 0.97% : snail
+ 0.85% : sea anemone
+ 0.80% : coil
+ 0.78% : projectile
+ 0.74% : binder
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ002.jpg
+38.98% : daisy
+21.92% : pinwheel
+ 2.99% : chambered nautilus
+ 1.16% : missile
+ 1.01% : balloon
+ 0.96% : snail
+ 0.84% : sea anemone
+ 0.80% : coil
+ 0.78% : projectile
+ 0.75% : binder
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ003.jpg
+65.51% : daisy
+ 7.52% : pinwheel
+ 1.05% : binder
+ 0.83% : missile
+ 0.73% : hair slide
+ 0.60% : balloon
+ 0.60% : chambered nautilus
+ 0.46% : projectile
+ 0.40% : sea anemone
+ 0.36% : snail
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ004.jpg
+97.55% : daisy
+ 0.12% : binder
+ 0.09% : earthstar
+ 0.05% : sea anemone
+ 0.05% : mitten
+ 0.04% : hair slide
+ 0.03% : envelope
+ 0.03% : purse
+ 0.03% : pot
+ 0.03% : sea slug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ005.jpg
+93.73% : daisy
+ 1.15% : binder
+ 0.19% : tray
+ 0.19% : earthstar
+ 0.17% : handkerchief
+ 0.11% : hair slide
+ 0.10% : vase
+ 0.10% : shower curtain
+ 0.10% : envelope
+ 0.09% : cup
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ006.jpg
+94.20% : daisy
+ 0.90% : binder
+ 0.09% : earthstar
+ 0.09% : tray
+ 0.09% : speedboat
+ 0.08% : envelope
+ 0.08% : shower curtain
+ 0.07% : pot
+ 0.07% : cup
+ 0.06% : handkerchief
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ007.jpg
+98.81% : daisy
+ 0.04% : speedboat
+ 0.04% : binder
+ 0.02% : mitten
+ 0.02% : pot
+ 0.02% : picket fence
+ 0.01% : envelope
+ 0.01% : shower curtain
+ 0.01% : earthstar
+ 0.01% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ008.jpg
+99.00% : daisy
+ 0.03% : speedboat
+ 0.03% : binder
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : picket fence
+ 0.01% : bee
+ 0.01% : packet
+ 0.01% : vase
+ 0.01% : earthstar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ009.jpg
+99.28% : daisy
+ 0.04% : speedboat
+ 0.01% : mitten
+ 0.01% : pot
+ 0.01% : binder
+ 0.01% : bee
+ 0.01% : picket fence
+ 0.01% : vase
+ 0.01% : cardoon
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ010.jpg
+99.38% : daisy
+ 0.03% : speedboat
+ 0.01% : mitten
+ 0.01% : binder
+ 0.01% : bee
+ 0.01% : vase
+ 0.01% : sea anemone
+ 0.01% : packet
+ 0.01% : cardoon
+ 0.01% : pot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ011.jpg
+98.68% : daisy
+ 0.05% : speedboat
+ 0.02% : cardoon
+ 0.02% : mitten
+ 0.02% : pot
+ 0.02% : sea anemone
+ 0.02% : bee
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : binder
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ012.jpg
+99.37% : daisy
+ 0.03% : speedboat
+ 0.01% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bee
+ 0.01% : sea anemone
+ 0.01% : binder
+ 0.00% : packet
+ 0.00% : picket fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ013.jpg
+99.21% : daisy
+ 0.04% : speedboat
+ 0.01% : mitten
+ 0.01% : bee
+ 0.01% : pot
+ 0.01% : binder
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : cardoon
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ014.jpg
+99.29% : daisy
+ 0.04% : speedboat
+ 0.01% : mitten
+ 0.01% : bee
+ 0.01% : cardoon
+ 0.01% : pot
+ 0.01% : sea anemone
+ 0.01% : bobsled
+ 0.00% : sulphur butterfly
+ 0.00% : vase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ015.jpg
+98.97% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : cardoon
+ 0.01% : bobsled
+ 0.01% : picket fence
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ016.jpg
+98.83% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : cardoon
+ 0.01% : bobsled
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ017.jpg
+98.57% : daisy
+ 0.07% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.02% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sulphur butterfly
+ 0.01% : cardoon
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ018.jpg
+98.58% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+ 0.01% : bobsled
+ 0.01% : earthstar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ019.jpg
+98.59% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : mitten
+ 0.02% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sulphur butterfly
+ 0.01% : cardoon
+ 0.01% : earthstar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ020.jpg
+98.54% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : mitten
+ 0.02% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : cardoon
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ021.jpg
+98.61% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ022.jpg
+98.72% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+ 0.01% : fly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ023.jpg
+98.51% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ024.jpg
+98.52% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sulphur butterfly
+ 0.01% : fly
+ 0.01% : earthstar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ025.jpg
+98.52% : daisy
+ 0.06% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : fly
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ026.jpg
+98.87% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.02% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ027.jpg
+98.66% : daisy
+ 0.05% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : vase
+ 0.01% : fly
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ028.jpg
+98.64% : daisy
+ 0.05% : speedboat
+ 0.03% : bee
+ 0.02% : pot
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : vase
+ 0.01% : sea anemone
+ 0.01% : fly
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ029.jpg
+98.85% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : vase
+ 0.01% : fly
+ 0.01% : cardoon
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ030.jpg
+98.89% : daisy
+ 0.05% : speedboat
+ 0.03% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : vase
+ 0.01% : cardoon
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ031.jpg
+98.91% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ032.jpg
+98.93% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ033.jpg
+98.72% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ034.jpg
+98.71% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+ 0.01% : fly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ035.jpg
+98.83% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ036.jpg
+99.01% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ037.jpg
+98.86% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ038.jpg
+98.94% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ039.jpg
+98.99% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : cradle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ040.jpg
+99.10% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : vase
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : cradle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ041.jpg
+99.05% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : cradle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ042.jpg
+99.00% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ043.jpg
+98.97% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : sea anemone
+ 0.01% : vase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ044.jpg
+98.90% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sea anemone
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ045.jpg
+98.83% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sea anemone
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ046.jpg
+98.87% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ047.jpg
+98.86% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ048.jpg
+98.87% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : grasshopper
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ049.jpg
+98.83% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sea anemone
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ050.jpg
+98.94% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sea anemone
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ051.jpg
+98.91% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sea anemone
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ052.jpg
+99.04% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : vase
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ053.jpg
+99.12% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ054.jpg
+99.18% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+ 0.00% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ055.jpg
+99.02% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+ 0.01% : vase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ056.jpg
+99.14% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+ 0.00% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ057.jpg
+99.10% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : grasshopper
+ 0.01% : sulphur butterfly
+ 0.01% : vase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ058.jpg
+99.03% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : grasshopper
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ059.jpg
+99.04% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : grasshopper
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ060.jpg
+98.96% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : grasshopper
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ061.jpg
+99.09% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : grasshopper
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ062.jpg
+99.05% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : grasshopper
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ063.jpg
+99.10% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : grasshopper
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ064.jpg
+99.10% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : grasshopper
+ 0.01% : cardoon
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ065.jpg
+98.97% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : grasshopper
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ066.jpg
+98.95% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : grasshopper
+ 0.01% : cardoon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ067.jpg
+98.89% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : grasshopper
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ068.jpg
+98.88% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : sea anemone
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ069.jpg
+98.77% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : ladybug
+ 0.01% : cardoon
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ070.jpg
+98.93% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ071.jpg
+99.07% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+ 0.01% : pot
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ072.jpg
+99.06% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ073.jpg
+98.94% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ074.jpg
+98.98% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : ladybug
+ 0.01% : sea anemone
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ075.jpg
+98.94% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : vase
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ076.jpg
+99.02% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : sea anemone
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ077.jpg
+99.05% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ078.jpg
+99.14% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ079.jpg
+99.15% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ080.jpg
+99.19% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : ladybug
+ 0.01% : vase
+ 0.01% : sea anemone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ081.jpg
+99.21% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+ 0.00% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ082.jpg
+99.12% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ083.jpg
+99.19% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.01% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ084.jpg
+99.05% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ085.jpg
+99.06% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ086.jpg
+99.03% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : grasshopper
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ087.jpg
+98.99% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ088.jpg
+98.86% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ089.jpg
+98.85% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ090.jpg
+98.95% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : sulphur butterfly
+ 0.01% : vase
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ091.jpg
+99.04% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ092.jpg
+99.04% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : ladybug
+ 0.01% : sulphur butterfly
+ 0.01% : cup
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ093.jpg
+99.06% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : ladybug
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ094.jpg
+99.11% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : sulphur butterfly
+ 0.01% : vase
+ 0.01% : cup
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ095.jpg
+98.97% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : pot
+ 0.01% : vase
+ 0.01% : cup
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ096.jpg
+98.94% : daisy
+ 0.05% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : cup
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ097.jpg
+98.83% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : pot
+ 0.01% : bobsled
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : cup
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ098.jpg
+98.93% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : grasshopper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ099.jpg
+98.89% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : cup
+ 0.01% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorDaisyQ100.jpg
+98.87% : daisy
+ 0.06% : speedboat
+ 0.02% : bee
+ 0.02% : mitten
+ 0.01% : bobsled
+ 0.01% : pot
+ 0.01% : fly
+ 0.01% : vase
+ 0.01% : sulphur butterfly
+ 0.01% : cup

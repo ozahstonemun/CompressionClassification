@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ001.jpg
+94.12% : confectionery
+ 3.90% : packet
+ 0.29% : strawberry
+ 0.14% : vending machine
+ 0.09% : hamper
+ 0.07% : slot
+ 0.04% : tobacco shop
+ 0.04% : grocery store
+ 0.04% : butcher shop
+ 0.03% : toyshop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ002.jpg
+94.04% : confectionery
+ 3.87% : packet
+ 0.32% : strawberry
+ 0.16% : vending machine
+ 0.09% : hamper
+ 0.07% : slot
+ 0.04% : tobacco shop
+ 0.04% : grocery store
+ 0.04% : butcher shop
+ 0.03% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ003.jpg
+91.97% : confectionery
+ 4.35% : packet
+ 0.51% : strawberry
+ 0.42% : vending machine
+ 0.25% : slot
+ 0.14% : hamper
+ 0.09% : tobacco shop
+ 0.06% : butcher shop
+ 0.06% : orange
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ004.jpg
+86.39% : confectionery
+ 8.09% : packet
+ 1.27% : strawberry
+ 0.34% : vending machine
+ 0.22% : tobacco shop
+ 0.20% : grocery store
+ 0.14% : pomegranate
+ 0.12% : hamper
+ 0.07% : orange
+ 0.07% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ005.jpg
+92.33% : confectionery
+ 3.59% : packet
+ 0.65% : strawberry
+ 0.45% : vending machine
+ 0.23% : hamper
+ 0.18% : slot
+ 0.10% : grocery store
+ 0.07% : tobacco shop
+ 0.05% : butcher shop
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ006.jpg
+92.82% : confectionery
+ 1.97% : strawberry
+ 1.61% : packet
+ 0.41% : vending machine
+ 0.15% : hamper
+ 0.12% : grocery store
+ 0.12% : slot
+ 0.07% : pomegranate
+ 0.06% : tray
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ007.jpg
+84.81% : confectionery
+ 4.73% : strawberry
+ 4.57% : packet
+ 0.67% : vending machine
+ 0.38% : grocery store
+ 0.38% : hamper
+ 0.10% : bell pepper
+ 0.10% : slot
+ 0.10% : bakery
+ 0.10% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ008.jpg
+87.65% : confectionery
+ 3.08% : strawberry
+ 2.81% : packet
+ 1.86% : vending machine
+ 0.21% : hamper
+ 0.14% : bell pepper
+ 0.14% : slot
+ 0.13% : grocery store
+ 0.13% : pomegranate
+ 0.09% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ009.jpg
+88.52% : confectionery
+ 4.05% : packet
+ 1.28% : strawberry
+ 0.95% : vending machine
+ 0.27% : hamper
+ 0.24% : slot
+ 0.18% : grocery store
+ 0.12% : bell pepper
+ 0.10% : pomegranate
+ 0.09% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ010.jpg
+92.82% : confectionery
+ 1.96% : packet
+ 1.38% : strawberry
+ 0.62% : vending machine
+ 0.13% : slot
+ 0.12% : hamper
+ 0.09% : grocery store
+ 0.07% : bell pepper
+ 0.06% : pomegranate
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ011.jpg
+92.78% : confectionery
+ 1.73% : strawberry
+ 1.65% : packet
+ 0.60% : vending machine
+ 0.19% : hamper
+ 0.12% : slot
+ 0.09% : grocery store
+ 0.07% : bell pepper
+ 0.07% : pomegranate
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ012.jpg
+90.51% : confectionery
+ 3.48% : packet
+ 2.26% : strawberry
+ 0.64% : vending machine
+ 0.19% : hamper
+ 0.10% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.05% : ice lolly
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ013.jpg
+89.11% : confectionery
+ 3.38% : packet
+ 1.58% : vending machine
+ 1.56% : strawberry
+ 0.22% : hamper
+ 0.16% : slot
+ 0.15% : grocery store
+ 0.12% : bell pepper
+ 0.10% : pomegranate
+ 0.08% : refrigerator
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ014.jpg
+94.82% : confectionery
+ 1.72% : packet
+ 1.08% : strawberry
+ 0.34% : vending machine
+ 0.12% : hamper
+ 0.07% : slot
+ 0.05% : grocery store
+ 0.04% : pomegranate
+ 0.04% : tray
+ 0.03% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ015.jpg
+92.78% : confectionery
+ 1.99% : packet
+ 1.70% : strawberry
+ 0.47% : vending machine
+ 0.21% : hamper
+ 0.09% : slot
+ 0.08% : grocery store
+ 0.07% : pomegranate
+ 0.06% : butcher shop
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ016.jpg
+90.09% : confectionery
+ 3.19% : packet
+ 1.62% : strawberry
+ 0.83% : vending machine
+ 0.40% : hamper
+ 0.17% : slot
+ 0.08% : grocery store
+ 0.07% : ice lolly
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ017.jpg
+90.37% : confectionery
+ 2.81% : strawberry
+ 2.66% : packet
+ 0.61% : vending machine
+ 0.25% : hamper
+ 0.10% : grocery store
+ 0.09% : slot
+ 0.07% : pomegranate
+ 0.05% : butcher shop
+ 0.05% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ018.jpg
+90.04% : confectionery
+ 2.74% : strawberry
+ 2.66% : packet
+ 0.62% : vending machine
+ 0.28% : hamper
+ 0.10% : grocery store
+ 0.09% : slot
+ 0.07% : pomegranate
+ 0.07% : bakery
+ 0.07% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ019.jpg
+90.19% : confectionery
+ 2.81% : packet
+ 2.75% : strawberry
+ 0.69% : vending machine
+ 0.21% : hamper
+ 0.11% : grocery store
+ 0.07% : slot
+ 0.07% : bakery
+ 0.06% : butcher shop
+ 0.06% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ020.jpg
+88.35% : confectionery
+ 3.37% : packet
+ 2.78% : strawberry
+ 1.05% : vending machine
+ 0.29% : hamper
+ 0.15% : grocery store
+ 0.09% : refrigerator
+ 0.08% : pomegranate
+ 0.08% : slot
+ 0.07% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ021.jpg
+90.31% : confectionery
+ 2.77% : packet
+ 2.70% : strawberry
+ 0.67% : vending machine
+ 0.24% : hamper
+ 0.10% : grocery store
+ 0.08% : slot
+ 0.07% : ice lolly
+ 0.06% : pomegranate
+ 0.06% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ022.jpg
+89.32% : confectionery
+ 3.34% : packet
+ 2.47% : strawberry
+ 0.95% : vending machine
+ 0.28% : hamper
+ 0.13% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.07% : tobacco shop
+ 0.07% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ023.jpg
+91.93% : confectionery
+ 2.91% : packet
+ 1.61% : strawberry
+ 0.67% : vending machine
+ 0.16% : hamper
+ 0.12% : grocery store
+ 0.06% : ice lolly
+ 0.06% : slot
+ 0.05% : pomegranate
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ024.jpg
+91.21% : confectionery
+ 2.57% : packet
+ 2.43% : strawberry
+ 0.60% : vending machine
+ 0.16% : hamper
+ 0.10% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.06% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ025.jpg
+91.41% : confectionery
+ 2.45% : packet
+ 2.28% : strawberry
+ 0.69% : vending machine
+ 0.16% : hamper
+ 0.13% : grocery store
+ 0.07% : slot
+ 0.06% : bakery
+ 0.06% : ice lolly
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ026.jpg
+92.25% : confectionery
+ 2.24% : packet
+ 2.06% : strawberry
+ 0.48% : vending machine
+ 0.16% : hamper
+ 0.11% : grocery store
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.06% : bakery
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ027.jpg
+88.95% : confectionery
+ 3.40% : packet
+ 3.14% : strawberry
+ 0.67% : vending machine
+ 0.27% : hamper
+ 0.11% : grocery store
+ 0.08% : ice lolly
+ 0.07% : slot
+ 0.07% : bakery
+ 0.07% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ028.jpg
+89.31% : confectionery
+ 3.40% : packet
+ 2.51% : strawberry
+ 0.75% : vending machine
+ 0.26% : hamper
+ 0.12% : grocery store
+ 0.10% : slot
+ 0.08% : bell pepper
+ 0.07% : ice lolly
+ 0.07% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ029.jpg
+90.90% : confectionery
+ 3.30% : packet
+ 1.96% : strawberry
+ 0.55% : vending machine
+ 0.24% : hamper
+ 0.11% : grocery store
+ 0.08% : slot
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+ 0.06% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ030.jpg
+90.47% : confectionery
+ 3.52% : packet
+ 2.24% : strawberry
+ 0.68% : vending machine
+ 0.18% : hamper
+ 0.11% : grocery store
+ 0.07% : slot
+ 0.07% : ice lolly
+ 0.06% : pomegranate
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ031.jpg
+90.63% : confectionery
+ 3.55% : packet
+ 1.80% : strawberry
+ 0.61% : vending machine
+ 0.21% : hamper
+ 0.14% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.06% : ice lolly
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ032.jpg
+90.80% : confectionery
+ 3.13% : packet
+ 1.99% : strawberry
+ 0.60% : vending machine
+ 0.20% : hamper
+ 0.15% : grocery store
+ 0.07% : slot
+ 0.07% : pomegranate
+ 0.07% : ice lolly
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ033.jpg
+87.16% : confectionery
+ 4.52% : packet
+ 2.87% : strawberry
+ 0.98% : vending machine
+ 0.27% : hamper
+ 0.14% : grocery store
+ 0.10% : pomegranate
+ 0.10% : bell pepper
+ 0.10% : slot
+ 0.07% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ034.jpg
+88.40% : confectionery
+ 4.16% : packet
+ 2.36% : strawberry
+ 0.94% : vending machine
+ 0.26% : hamper
+ 0.14% : grocery store
+ 0.10% : pomegranate
+ 0.09% : bell pepper
+ 0.09% : slot
+ 0.07% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ035.jpg
+90.22% : confectionery
+ 3.07% : packet
+ 2.42% : strawberry
+ 0.79% : vending machine
+ 0.18% : hamper
+ 0.11% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.07% : bell pepper
+ 0.05% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ036.jpg
+91.13% : confectionery
+ 2.60% : strawberry
+ 2.55% : packet
+ 0.62% : vending machine
+ 0.15% : hamper
+ 0.10% : grocery store
+ 0.07% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : slot
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ037.jpg
+91.13% : confectionery
+ 2.66% : packet
+ 2.45% : strawberry
+ 0.60% : vending machine
+ 0.16% : hamper
+ 0.10% : grocery store
+ 0.07% : pomegranate
+ 0.06% : slot
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ038.jpg
+89.45% : confectionery
+ 3.16% : packet
+ 2.86% : strawberry
+ 0.80% : vending machine
+ 0.19% : hamper
+ 0.11% : grocery store
+ 0.10% : slot
+ 0.08% : pomegranate
+ 0.07% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ039.jpg
+89.63% : confectionery
+ 2.96% : strawberry
+ 2.81% : packet
+ 0.81% : vending machine
+ 0.23% : hamper
+ 0.13% : grocery store
+ 0.10% : slot
+ 0.07% : pomegranate
+ 0.07% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ040.jpg
+90.92% : confectionery
+ 2.83% : packet
+ 2.27% : strawberry
+ 0.75% : vending machine
+ 0.20% : hamper
+ 0.12% : grocery store
+ 0.08% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ041.jpg
+91.90% : confectionery
+ 2.73% : packet
+ 1.68% : strawberry
+ 0.73% : vending machine
+ 0.17% : hamper
+ 0.11% : grocery store
+ 0.08% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ042.jpg
+91.77% : confectionery
+ 2.50% : packet
+ 1.86% : strawberry
+ 0.68% : vending machine
+ 0.18% : hamper
+ 0.12% : grocery store
+ 0.08% : slot
+ 0.06% : bell pepper
+ 0.06% : pomegranate
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ043.jpg
+91.99% : confectionery
+ 2.36% : packet
+ 1.84% : strawberry
+ 0.63% : vending machine
+ 0.17% : hamper
+ 0.12% : grocery store
+ 0.08% : slot
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ044.jpg
+90.71% : confectionery
+ 2.70% : packet
+ 2.42% : strawberry
+ 0.62% : vending machine
+ 0.20% : hamper
+ 0.13% : grocery store
+ 0.10% : slot
+ 0.06% : bakery
+ 0.06% : bell pepper
+ 0.06% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ045.jpg
+89.55% : confectionery
+ 3.05% : packet
+ 2.67% : strawberry
+ 0.76% : vending machine
+ 0.24% : hamper
+ 0.14% : grocery store
+ 0.10% : slot
+ 0.07% : pomegranate
+ 0.07% : bell pepper
+ 0.07% : refrigerator
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ046.jpg
+89.46% : confectionery
+ 3.05% : packet
+ 2.66% : strawberry
+ 0.82% : vending machine
+ 0.25% : hamper
+ 0.14% : grocery store
+ 0.09% : slot
+ 0.08% : pomegranate
+ 0.07% : ice lolly
+ 0.07% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ047.jpg
+89.89% : confectionery
+ 2.84% : packet
+ 2.53% : strawberry
+ 0.78% : vending machine
+ 0.24% : hamper
+ 0.13% : grocery store
+ 0.08% : slot
+ 0.08% : pomegranate
+ 0.07% : ice lolly
+ 0.07% : refrigerator
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ048.jpg
+89.71% : confectionery
+ 2.97% : strawberry
+ 2.87% : packet
+ 0.78% : vending machine
+ 0.23% : hamper
+ 0.13% : grocery store
+ 0.07% : slot
+ 0.07% : pomegranate
+ 0.06% : ice lolly
+ 0.06% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ049.jpg
+88.92% : confectionery
+ 3.29% : strawberry
+ 3.26% : packet
+ 0.83% : vending machine
+ 0.23% : hamper
+ 0.14% : grocery store
+ 0.08% : slot
+ 0.07% : bell pepper
+ 0.07% : pomegranate
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ050.jpg
+88.53% : confectionery
+ 3.45% : strawberry
+ 3.35% : packet
+ 0.87% : vending machine
+ 0.24% : hamper
+ 0.15% : grocery store
+ 0.08% : slot
+ 0.08% : bell pepper
+ 0.07% : pomegranate
+ 0.07% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ051.jpg
+88.97% : confectionery
+ 3.28% : packet
+ 3.22% : strawberry
+ 0.84% : vending machine
+ 0.22% : hamper
+ 0.14% : grocery store
+ 0.08% : slot
+ 0.08% : bell pepper
+ 0.07% : pomegranate
+ 0.06% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ052.jpg
+90.98% : confectionery
+ 2.65% : packet
+ 2.19% : strawberry
+ 0.87% : vending machine
+ 0.22% : hamper
+ 0.13% : grocery store
+ 0.07% : slot
+ 0.07% : bell pepper
+ 0.06% : pomegranate
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ053.jpg
+91.46% : confectionery
+ 2.55% : packet
+ 2.16% : strawberry
+ 0.76% : vending machine
+ 0.21% : hamper
+ 0.12% : grocery store
+ 0.06% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.05% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ054.jpg
+91.52% : confectionery
+ 2.57% : packet
+ 2.09% : strawberry
+ 0.79% : vending machine
+ 0.20% : hamper
+ 0.12% : grocery store
+ 0.06% : slot
+ 0.06% : pomegranate
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ055.jpg
+91.32% : confectionery
+ 2.50% : packet
+ 2.29% : strawberry
+ 0.84% : vending machine
+ 0.20% : hamper
+ 0.11% : grocery store
+ 0.06% : pomegranate
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.05% : slot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ056.jpg
+91.04% : confectionery
+ 2.66% : strawberry
+ 2.42% : packet
+ 0.81% : vending machine
+ 0.20% : hamper
+ 0.11% : grocery store
+ 0.06% : ice lolly
+ 0.06% : pomegranate
+ 0.06% : refrigerator
+ 0.06% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ057.jpg
+90.03% : confectionery
+ 3.03% : strawberry
+ 2.48% : packet
+ 0.93% : vending machine
+ 0.21% : hamper
+ 0.14% : grocery store
+ 0.07% : ice lolly
+ 0.07% : bakery
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ058.jpg
+89.55% : confectionery
+ 2.95% : packet
+ 2.86% : strawberry
+ 1.00% : vending machine
+ 0.23% : hamper
+ 0.13% : grocery store
+ 0.07% : slot
+ 0.07% : ice lolly
+ 0.07% : pomegranate
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ059.jpg
+89.12% : confectionery
+ 3.25% : packet
+ 2.87% : strawberry
+ 1.00% : vending machine
+ 0.23% : hamper
+ 0.14% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.07% : ice lolly
+ 0.07% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ060.jpg
+89.47% : confectionery
+ 3.29% : packet
+ 2.71% : strawberry
+ 0.95% : vending machine
+ 0.24% : hamper
+ 0.14% : grocery store
+ 0.07% : slot
+ 0.07% : pomegranate
+ 0.07% : ice lolly
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ061.jpg
+89.96% : confectionery
+ 2.88% : packet
+ 2.71% : strawberry
+ 0.93% : vending machine
+ 0.25% : hamper
+ 0.14% : grocery store
+ 0.07% : pomegranate
+ 0.07% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ062.jpg
+89.39% : confectionery
+ 3.01% : strawberry
+ 2.93% : packet
+ 0.98% : vending machine
+ 0.27% : hamper
+ 0.14% : grocery store
+ 0.07% : slot
+ 0.07% : pomegranate
+ 0.07% : ice lolly
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ063.jpg
+89.44% : confectionery
+ 3.16% : strawberry
+ 2.82% : packet
+ 0.97% : vending machine
+ 0.26% : hamper
+ 0.13% : grocery store
+ 0.07% : slot
+ 0.07% : pomegranate
+ 0.07% : ice lolly
+ 0.06% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ064.jpg
+89.28% : confectionery
+ 3.26% : strawberry
+ 2.99% : packet
+ 0.94% : vending machine
+ 0.26% : hamper
+ 0.12% : grocery store
+ 0.07% : slot
+ 0.07% : pomegranate
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ065.jpg
+89.95% : confectionery
+ 3.02% : strawberry
+ 2.73% : packet
+ 0.86% : vending machine
+ 0.24% : hamper
+ 0.12% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ066.jpg
+90.06% : confectionery
+ 3.11% : strawberry
+ 2.64% : packet
+ 0.79% : vending machine
+ 0.23% : hamper
+ 0.12% : grocery store
+ 0.07% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ067.jpg
+90.35% : confectionery
+ 3.21% : strawberry
+ 2.47% : packet
+ 0.73% : vending machine
+ 0.20% : hamper
+ 0.11% : grocery store
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.06% : pomegranate
+ 0.06% : slot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ068.jpg
+91.95% : confectionery
+ 2.40% : strawberry
+ 2.02% : packet
+ 0.69% : vending machine
+ 0.19% : hamper
+ 0.10% : grocery store
+ 0.06% : ice lolly
+ 0.05% : bell pepper
+ 0.05% : slot
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ069.jpg
+91.50% : confectionery
+ 2.60% : strawberry
+ 2.26% : packet
+ 0.68% : vending machine
+ 0.20% : hamper
+ 0.10% : grocery store
+ 0.06% : ice lolly
+ 0.06% : slot
+ 0.05% : bell pepper
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ070.jpg
+91.51% : confectionery
+ 2.48% : packet
+ 2.46% : strawberry
+ 0.65% : vending machine
+ 0.21% : hamper
+ 0.09% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ071.jpg
+91.04% : confectionery
+ 2.59% : strawberry
+ 2.56% : packet
+ 0.73% : vending machine
+ 0.21% : hamper
+ 0.10% : grocery store
+ 0.07% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ072.jpg
+90.93% : confectionery
+ 2.93% : strawberry
+ 2.37% : packet
+ 0.72% : vending machine
+ 0.22% : hamper
+ 0.10% : grocery store
+ 0.06% : slot
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ073.jpg
+91.17% : confectionery
+ 2.72% : strawberry
+ 2.42% : packet
+ 0.66% : vending machine
+ 0.20% : hamper
+ 0.10% : grocery store
+ 0.06% : slot
+ 0.05% : ice lolly
+ 0.05% : bakery
+ 0.05% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ074.jpg
+91.29% : confectionery
+ 2.71% : strawberry
+ 2.48% : packet
+ 0.59% : vending machine
+ 0.20% : hamper
+ 0.09% : grocery store
+ 0.05% : ice lolly
+ 0.05% : slot
+ 0.05% : pomegranate
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ075.jpg
+91.69% : confectionery
+ 2.56% : strawberry
+ 2.38% : packet
+ 0.56% : vending machine
+ 0.19% : hamper
+ 0.09% : grocery store
+ 0.05% : ice lolly
+ 0.05% : slot
+ 0.05% : bakery
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ076.jpg
+92.21% : confectionery
+ 2.40% : strawberry
+ 2.18% : packet
+ 0.52% : vending machine
+ 0.19% : hamper
+ 0.09% : grocery store
+ 0.05% : ice lolly
+ 0.05% : pomegranate
+ 0.05% : bakery
+ 0.04% : slot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ077.jpg
+92.20% : confectionery
+ 2.59% : strawberry
+ 1.94% : packet
+ 0.53% : vending machine
+ 0.19% : hamper
+ 0.09% : grocery store
+ 0.05% : bakery
+ 0.05% : butcher shop
+ 0.05% : pomegranate
+ 0.05% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ078.jpg
+92.46% : confectionery
+ 2.69% : strawberry
+ 1.76% : packet
+ 0.51% : vending machine
+ 0.18% : hamper
+ 0.08% : grocery store
+ 0.05% : ice lolly
+ 0.04% : slot
+ 0.04% : butcher shop
+ 0.04% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ079.jpg
+92.81% : confectionery
+ 2.47% : strawberry
+ 1.82% : packet
+ 0.45% : vending machine
+ 0.17% : hamper
+ 0.08% : grocery store
+ 0.05% : ice lolly
+ 0.05% : bakery
+ 0.04% : butcher shop
+ 0.04% : slot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ080.jpg
+92.32% : confectionery
+ 2.53% : strawberry
+ 2.09% : packet
+ 0.49% : vending machine
+ 0.17% : hamper
+ 0.08% : grocery store
+ 0.05% : ice lolly
+ 0.05% : bakery
+ 0.05% : slot
+ 0.04% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ081.jpg
+91.84% : confectionery
+ 2.50% : strawberry
+ 2.27% : packet
+ 0.60% : vending machine
+ 0.18% : hamper
+ 0.08% : grocery store
+ 0.05% : ice lolly
+ 0.05% : bakery
+ 0.05% : slot
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ082.jpg
+90.80% : confectionery
+ 2.95% : strawberry
+ 2.44% : packet
+ 0.67% : vending machine
+ 0.20% : hamper
+ 0.09% : grocery store
+ 0.06% : ice lolly
+ 0.06% : slot
+ 0.06% : bakery
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ083.jpg
+90.83% : confectionery
+ 2.84% : strawberry
+ 2.50% : packet
+ 0.68% : vending machine
+ 0.20% : hamper
+ 0.10% : grocery store
+ 0.06% : ice lolly
+ 0.06% : slot
+ 0.06% : bakery
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ084.jpg
+92.22% : confectionery
+ 2.41% : strawberry
+ 2.18% : packet
+ 0.55% : vending machine
+ 0.17% : hamper
+ 0.08% : grocery store
+ 0.05% : slot
+ 0.05% : ice lolly
+ 0.05% : bell pepper
+ 0.05% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ085.jpg
+91.72% : confectionery
+ 2.64% : strawberry
+ 2.23% : packet
+ 0.59% : vending machine
+ 0.19% : hamper
+ 0.08% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.05% : bell pepper
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ086.jpg
+91.77% : confectionery
+ 2.81% : strawberry
+ 2.07% : packet
+ 0.53% : vending machine
+ 0.18% : hamper
+ 0.08% : grocery store
+ 0.06% : ice lolly
+ 0.05% : slot
+ 0.05% : bell pepper
+ 0.05% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ087.jpg
+90.68% : confectionery
+ 3.22% : strawberry
+ 2.28% : packet
+ 0.60% : vending machine
+ 0.21% : hamper
+ 0.09% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.06% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ088.jpg
+90.97% : confectionery
+ 2.70% : strawberry
+ 2.32% : packet
+ 0.74% : vending machine
+ 0.21% : hamper
+ 0.10% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.06% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ089.jpg
+91.47% : confectionery
+ 2.60% : strawberry
+ 2.14% : packet
+ 0.69% : vending machine
+ 0.20% : hamper
+ 0.10% : grocery store
+ 0.06% : ice lolly
+ 0.06% : bakery
+ 0.06% : slot
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ090.jpg
+91.74% : confectionery
+ 2.39% : strawberry
+ 2.25% : packet
+ 0.66% : vending machine
+ 0.19% : hamper
+ 0.09% : grocery store
+ 0.06% : ice lolly
+ 0.05% : bakery
+ 0.05% : slot
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ091.jpg
+91.46% : confectionery
+ 2.36% : packet
+ 2.35% : strawberry
+ 0.69% : vending machine
+ 0.21% : hamper
+ 0.11% : grocery store
+ 0.06% : slot
+ 0.06% : ice lolly
+ 0.06% : bell pepper
+ 0.06% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ092.jpg
+91.62% : confectionery
+ 2.33% : packet
+ 2.26% : strawberry
+ 0.66% : vending machine
+ 0.23% : hamper
+ 0.12% : grocery store
+ 0.06% : ice lolly
+ 0.06% : slot
+ 0.05% : bakery
+ 0.05% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ093.jpg
+89.95% : confectionery
+ 3.11% : packet
+ 2.54% : strawberry
+ 0.77% : vending machine
+ 0.27% : hamper
+ 0.14% : grocery store
+ 0.07% : pomegranate
+ 0.06% : butcher shop
+ 0.06% : slot
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ094.jpg
+90.02% : confectionery
+ 3.36% : packet
+ 2.14% : strawberry
+ 0.87% : vending machine
+ 0.26% : hamper
+ 0.13% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ095.jpg
+90.41% : confectionery
+ 3.12% : packet
+ 2.10% : strawberry
+ 0.84% : vending machine
+ 0.26% : hamper
+ 0.12% : grocery store
+ 0.08% : slot
+ 0.07% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ096.jpg
+91.18% : confectionery
+ 2.58% : packet
+ 2.20% : strawberry
+ 0.73% : vending machine
+ 0.22% : hamper
+ 0.11% : grocery store
+ 0.07% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ097.jpg
+91.28% : confectionery
+ 2.65% : packet
+ 2.06% : strawberry
+ 0.74% : vending machine
+ 0.23% : hamper
+ 0.10% : grocery store
+ 0.07% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ098.jpg
+91.19% : confectionery
+ 2.63% : packet
+ 2.13% : strawberry
+ 0.76% : vending machine
+ 0.23% : hamper
+ 0.10% : grocery store
+ 0.07% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ099.jpg
+91.24% : confectionery
+ 2.68% : packet
+ 2.08% : strawberry
+ 0.75% : vending machine
+ 0.22% : hamper
+ 0.11% : grocery store
+ 0.07% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberryQ100.jpg
+91.52% : confectionery
+ 2.63% : packet
+ 2.02% : strawberry
+ 0.70% : vending machine
+ 0.21% : hamper
+ 0.10% : grocery store
+ 0.07% : slot
+ 0.06% : pomegranate
+ 0.06% : bell pepper
+ 0.06% : ice lolly

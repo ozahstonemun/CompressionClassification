@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ001.jpg
+32.69% : baboon
+30.02% : patas
+13.68% : guenon
+ 7.97% : macaque
+ 0.63% : proboscis monkey
+ 0.55% : colobus
+ 0.46% : howler monkey
+ 0.35% : indri
+ 0.31% : langur
+ 0.20% : jigsaw puzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ002.jpg
+32.70% : baboon
+29.95% : patas
+13.31% : guenon
+ 8.08% : macaque
+ 0.65% : proboscis monkey
+ 0.55% : colobus
+ 0.48% : howler monkey
+ 0.35% : indri
+ 0.32% : langur
+ 0.21% : jigsaw puzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ003.jpg
+45.89% : baboon
+24.26% : guenon
+18.35% : patas
+ 2.37% : macaque
+ 0.72% : colobus
+ 0.57% : proboscis monkey
+ 0.39% : howler monkey
+ 0.22% : langur
+ 0.17% : siamang
+ 0.15% : leopard
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ004.jpg
+70.55% : baboon
+16.45% : guenon
+ 4.02% : patas
+ 0.50% : colobus
+ 0.16% : macaque
+ 0.12% : proboscis monkey
+ 0.11% : Band Aid
+ 0.11% : comic book
+ 0.10% : siamang
+ 0.08% : jigsaw puzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ005.jpg
+55.37% : baboon
+28.68% : guenon
+ 5.54% : patas
+ 0.21% : colobus
+ 0.17% : macaque
+ 0.12% : proboscis monkey
+ 0.11% : jigsaw puzzle
+ 0.11% : comic book
+ 0.09% : siamang
+ 0.09% : toucan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ006.jpg
+40.93% : guenon
+40.13% : baboon
+ 4.29% : patas
+ 0.12% : comic book
+ 0.12% : macaque
+ 0.10% : colobus
+ 0.09% : magnetic compass
+ 0.09% : jigsaw puzzle
+ 0.08% : king penguin
+ 0.08% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ007.jpg
+41.15% : guenon
+41.06% : baboon
+ 6.28% : patas
+ 0.11% : macaque
+ 0.09% : television
+ 0.08% : proboscis monkey
+ 0.08% : king penguin
+ 0.07% : cab
+ 0.07% : colobus
+ 0.07% : leopard
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ008.jpg
+71.93% : baboon
+13.21% : guenon
+ 6.60% : patas
+ 0.18% : macaque
+ 0.08% : jigsaw puzzle
+ 0.07% : proboscis monkey
+ 0.06% : titi
+ 0.06% : cab
+ 0.06% : colobus
+ 0.06% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ009.jpg
+50.06% : baboon
+31.27% : guenon
+10.43% : patas
+ 0.31% : macaque
+ 0.08% : proboscis monkey
+ 0.07% : colobus
+ 0.07% : gibbon
+ 0.07% : comic book
+ 0.07% : titi
+ 0.06% : siamang
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ010.jpg
+52.31% : baboon
+24.89% : guenon
+13.34% : patas
+ 0.19% : macaque
+ 0.07% : proboscis monkey
+ 0.07% : titi
+ 0.06% : colobus
+ 0.05% : jigsaw puzzle
+ 0.05% : siamang
+ 0.05% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ011.jpg
+62.99% : baboon
+14.16% : guenon
+12.67% : patas
+ 0.38% : macaque
+ 0.11% : proboscis monkey
+ 0.07% : titi
+ 0.07% : gibbon
+ 0.06% : colobus
+ 0.05% : langur
+ 0.05% : king penguin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ012.jpg
+65.68% : baboon
+13.02% : guenon
+11.15% : patas
+ 0.33% : macaque
+ 0.12% : proboscis monkey
+ 0.08% : titi
+ 0.06% : comic book
+ 0.05% : jigsaw puzzle
+ 0.05% : leopard
+ 0.05% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ013.jpg
+61.77% : baboon
+13.23% : patas
+12.48% : guenon
+ 0.36% : macaque
+ 0.13% : proboscis monkey
+ 0.13% : titi
+ 0.08% : gibbon
+ 0.07% : king penguin
+ 0.07% : langur
+ 0.06% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ014.jpg
+53.32% : baboon
+20.91% : guenon
+12.41% : patas
+ 0.67% : macaque
+ 0.15% : proboscis monkey
+ 0.14% : titi
+ 0.08% : king penguin
+ 0.08% : gibbon
+ 0.07% : langur
+ 0.06% : colobus
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ015.jpg
+74.60% : baboon
+ 7.51% : patas
+ 6.53% : guenon
+ 0.48% : macaque
+ 0.18% : proboscis monkey
+ 0.08% : titi
+ 0.08% : langur
+ 0.07% : gibbon
+ 0.06% : king penguin
+ 0.05% : jigsaw puzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ016.jpg
+79.70% : baboon
+ 5.49% : guenon
+ 5.27% : patas
+ 0.34% : macaque
+ 0.09% : proboscis monkey
+ 0.07% : television
+ 0.06% : titi
+ 0.05% : gibbon
+ 0.05% : king penguin
+ 0.05% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ017.jpg
+81.67% : baboon
+ 5.14% : guenon
+ 4.38% : patas
+ 0.24% : macaque
+ 0.10% : proboscis monkey
+ 0.06% : television
+ 0.06% : titi
+ 0.05% : jigsaw puzzle
+ 0.05% : gibbon
+ 0.05% : switch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ018.jpg
+79.85% : baboon
+ 7.02% : guenon
+ 4.69% : patas
+ 0.32% : macaque
+ 0.09% : proboscis monkey
+ 0.07% : titi
+ 0.06% : television
+ 0.06% : jigsaw puzzle
+ 0.05% : king penguin
+ 0.05% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ019.jpg
+80.08% : baboon
+ 7.07% : guenon
+ 3.96% : patas
+ 0.31% : macaque
+ 0.09% : proboscis monkey
+ 0.08% : king penguin
+ 0.08% : titi
+ 0.06% : television
+ 0.05% : switch
+ 0.05% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ020.jpg
+73.30% : baboon
+12.68% : guenon
+ 4.25% : patas
+ 0.28% : macaque
+ 0.09% : proboscis monkey
+ 0.08% : titi
+ 0.08% : television
+ 0.07% : king penguin
+ 0.06% : gibbon
+ 0.06% : jigsaw puzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ021.jpg
+74.31% : baboon
+ 9.01% : guenon
+ 5.14% : patas
+ 0.24% : macaque
+ 0.11% : television
+ 0.08% : titi
+ 0.08% : jigsaw puzzle
+ 0.07% : proboscis monkey
+ 0.06% : king penguin
+ 0.06% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ022.jpg
+75.85% : baboon
+ 8.08% : guenon
+ 4.96% : patas
+ 0.28% : macaque
+ 0.10% : proboscis monkey
+ 0.08% : titi
+ 0.07% : king penguin
+ 0.07% : television
+ 0.07% : gibbon
+ 0.07% : jigsaw puzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ023.jpg
+73.35% : baboon
+ 9.89% : guenon
+ 4.76% : patas
+ 0.33% : macaque
+ 0.11% : jigsaw puzzle
+ 0.10% : proboscis monkey
+ 0.08% : gibbon
+ 0.08% : titi
+ 0.08% : king penguin
+ 0.07% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ024.jpg
+74.80% : baboon
+10.09% : guenon
+ 3.96% : patas
+ 0.24% : macaque
+ 0.13% : jigsaw puzzle
+ 0.08% : proboscis monkey
+ 0.08% : television
+ 0.07% : gibbon
+ 0.07% : titi
+ 0.07% : king penguin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ025.jpg
+68.41% : baboon
+14.20% : guenon
+ 5.24% : patas
+ 0.35% : macaque
+ 0.11% : jigsaw puzzle
+ 0.10% : gibbon
+ 0.10% : king penguin
+ 0.08% : titi
+ 0.08% : television
+ 0.08% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ026.jpg
+65.26% : baboon
+17.26% : guenon
+ 5.40% : patas
+ 0.41% : macaque
+ 0.10% : jigsaw puzzle
+ 0.09% : gibbon
+ 0.09% : king penguin
+ 0.09% : proboscis monkey
+ 0.08% : titi
+ 0.08% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ027.jpg
+60.14% : baboon
+22.48% : guenon
+ 4.61% : patas
+ 0.29% : macaque
+ 0.14% : jigsaw puzzle
+ 0.10% : proboscis monkey
+ 0.09% : titi
+ 0.09% : gibbon
+ 0.09% : king penguin
+ 0.08% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ028.jpg
+65.45% : baboon
+17.47% : guenon
+ 4.52% : patas
+ 0.28% : macaque
+ 0.15% : jigsaw puzzle
+ 0.10% : king penguin
+ 0.10% : television
+ 0.09% : proboscis monkey
+ 0.08% : titi
+ 0.08% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ029.jpg
+75.28% : baboon
+10.18% : guenon
+ 4.00% : patas
+ 0.22% : macaque
+ 0.10% : jigsaw puzzle
+ 0.09% : television
+ 0.07% : king penguin
+ 0.07% : gibbon
+ 0.07% : titi
+ 0.07% : proboscis monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ030.jpg
+69.63% : baboon
+13.39% : guenon
+ 4.76% : patas
+ 0.30% : macaque
+ 0.11% : jigsaw puzzle
+ 0.09% : proboscis monkey
+ 0.09% : king penguin
+ 0.09% : television
+ 0.07% : gibbon
+ 0.07% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ031.jpg
+61.88% : baboon
+18.16% : guenon
+ 6.10% : patas
+ 0.43% : macaque
+ 0.13% : jigsaw puzzle
+ 0.10% : proboscis monkey
+ 0.10% : king penguin
+ 0.09% : gibbon
+ 0.08% : langur
+ 0.08% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ032.jpg
+72.57% : baboon
+11.78% : guenon
+ 4.05% : patas
+ 0.36% : macaque
+ 0.12% : jigsaw puzzle
+ 0.09% : proboscis monkey
+ 0.08% : gibbon
+ 0.08% : king penguin
+ 0.07% : langur
+ 0.07% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ033.jpg
+73.97% : baboon
+11.67% : guenon
+ 3.15% : patas
+ 0.29% : macaque
+ 0.11% : jigsaw puzzle
+ 0.09% : king penguin
+ 0.08% : proboscis monkey
+ 0.08% : gibbon
+ 0.07% : television
+ 0.07% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ034.jpg
+74.18% : baboon
+10.36% : guenon
+ 3.75% : patas
+ 0.33% : macaque
+ 0.11% : jigsaw puzzle
+ 0.09% : langur
+ 0.09% : king penguin
+ 0.08% : proboscis monkey
+ 0.08% : gibbon
+ 0.07% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ035.jpg
+71.90% : baboon
+12.88% : guenon
+ 3.63% : patas
+ 0.35% : macaque
+ 0.11% : jigsaw puzzle
+ 0.10% : king penguin
+ 0.09% : langur
+ 0.08% : proboscis monkey
+ 0.08% : gibbon
+ 0.07% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ036.jpg
+66.92% : baboon
+14.25% : guenon
+ 3.79% : patas
+ 0.38% : macaque
+ 0.14% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.10% : proboscis monkey
+ 0.10% : television
+ 0.09% : langur
+ 0.09% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ037.jpg
+68.78% : baboon
+12.62% : guenon
+ 3.44% : patas
+ 0.37% : macaque
+ 0.13% : jigsaw puzzle
+ 0.12% : proboscis monkey
+ 0.11% : king penguin
+ 0.09% : gibbon
+ 0.09% : television
+ 0.09% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ038.jpg
+64.01% : baboon
+16.68% : guenon
+ 3.72% : patas
+ 0.34% : macaque
+ 0.15% : jigsaw puzzle
+ 0.13% : television
+ 0.10% : king penguin
+ 0.09% : cab
+ 0.08% : proboscis monkey
+ 0.08% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ039.jpg
+64.51% : baboon
+17.14% : guenon
+ 3.60% : patas
+ 0.30% : macaque
+ 0.12% : jigsaw puzzle
+ 0.11% : television
+ 0.09% : king penguin
+ 0.09% : cab
+ 0.08% : proboscis monkey
+ 0.08% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ040.jpg
+75.33% : baboon
+10.50% : guenon
+ 2.92% : patas
+ 0.25% : macaque
+ 0.10% : jigsaw puzzle
+ 0.10% : television
+ 0.07% : king penguin
+ 0.07% : cab
+ 0.06% : proboscis monkey
+ 0.06% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ041.jpg
+72.18% : baboon
+13.51% : guenon
+ 3.32% : patas
+ 0.27% : macaque
+ 0.11% : jigsaw puzzle
+ 0.10% : television
+ 0.07% : proboscis monkey
+ 0.07% : cab
+ 0.06% : titi
+ 0.06% : king penguin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ042.jpg
+74.20% : baboon
+12.76% : guenon
+ 3.17% : patas
+ 0.27% : macaque
+ 0.10% : jigsaw puzzle
+ 0.09% : television
+ 0.07% : king penguin
+ 0.07% : proboscis monkey
+ 0.06% : switch
+ 0.06% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ043.jpg
+69.56% : baboon
+15.19% : guenon
+ 3.47% : patas
+ 0.30% : macaque
+ 0.12% : jigsaw puzzle
+ 0.09% : television
+ 0.08% : proboscis monkey
+ 0.08% : king penguin
+ 0.06% : cab
+ 0.06% : switch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ044.jpg
+73.63% : baboon
+10.55% : guenon
+ 2.86% : patas
+ 0.32% : macaque
+ 0.13% : jigsaw puzzle
+ 0.10% : television
+ 0.07% : proboscis monkey
+ 0.07% : cab
+ 0.07% : king penguin
+ 0.07% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ045.jpg
+70.77% : baboon
+12.63% : guenon
+ 3.18% : patas
+ 0.34% : macaque
+ 0.14% : jigsaw puzzle
+ 0.11% : television
+ 0.08% : king penguin
+ 0.08% : proboscis monkey
+ 0.08% : titi
+ 0.07% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ046.jpg
+70.74% : baboon
+13.35% : guenon
+ 3.36% : patas
+ 0.34% : macaque
+ 0.12% : jigsaw puzzle
+ 0.10% : television
+ 0.09% : king penguin
+ 0.09% : proboscis monkey
+ 0.07% : titi
+ 0.07% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ047.jpg
+65.32% : baboon
+16.90% : guenon
+ 3.88% : patas
+ 0.38% : macaque
+ 0.12% : jigsaw puzzle
+ 0.10% : television
+ 0.10% : proboscis monkey
+ 0.10% : king penguin
+ 0.08% : langur
+ 0.08% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ048.jpg
+69.63% : baboon
+13.02% : guenon
+ 3.77% : patas
+ 0.38% : macaque
+ 0.12% : jigsaw puzzle
+ 0.10% : television
+ 0.10% : proboscis monkey
+ 0.09% : king penguin
+ 0.08% : langur
+ 0.07% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ049.jpg
+70.45% : baboon
+11.17% : guenon
+ 3.60% : patas
+ 0.40% : macaque
+ 0.15% : jigsaw puzzle
+ 0.11% : television
+ 0.10% : proboscis monkey
+ 0.10% : king penguin
+ 0.08% : gibbon
+ 0.08% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ050.jpg
+67.32% : baboon
+12.90% : guenon
+ 4.24% : patas
+ 0.41% : macaque
+ 0.15% : jigsaw puzzle
+ 0.12% : proboscis monkey
+ 0.11% : king penguin
+ 0.10% : television
+ 0.10% : langur
+ 0.09% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ051.jpg
+66.41% : baboon
+13.18% : guenon
+ 4.87% : patas
+ 0.45% : macaque
+ 0.15% : jigsaw puzzle
+ 0.13% : proboscis monkey
+ 0.11% : king penguin
+ 0.10% : langur
+ 0.10% : television
+ 0.09% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ052.jpg
+61.69% : baboon
+17.20% : guenon
+ 4.62% : patas
+ 0.44% : macaque
+ 0.17% : jigsaw puzzle
+ 0.14% : proboscis monkey
+ 0.13% : king penguin
+ 0.11% : television
+ 0.11% : langur
+ 0.09% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ053.jpg
+66.31% : baboon
+14.53% : guenon
+ 4.13% : patas
+ 0.38% : macaque
+ 0.16% : jigsaw puzzle
+ 0.13% : proboscis monkey
+ 0.12% : king penguin
+ 0.11% : television
+ 0.10% : langur
+ 0.09% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ054.jpg
+66.52% : baboon
+15.09% : guenon
+ 4.17% : patas
+ 0.41% : macaque
+ 0.14% : jigsaw puzzle
+ 0.12% : proboscis monkey
+ 0.11% : king penguin
+ 0.10% : television
+ 0.10% : langur
+ 0.08% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ055.jpg
+61.68% : baboon
+18.51% : guenon
+ 4.32% : patas
+ 0.42% : macaque
+ 0.16% : jigsaw puzzle
+ 0.13% : television
+ 0.11% : king penguin
+ 0.11% : proboscis monkey
+ 0.09% : langur
+ 0.09% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ056.jpg
+56.18% : baboon
+22.05% : guenon
+ 4.19% : patas
+ 0.46% : macaque
+ 0.18% : jigsaw puzzle
+ 0.14% : television
+ 0.12% : king penguin
+ 0.11% : proboscis monkey
+ 0.10% : bolo tie
+ 0.10% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ057.jpg
+57.36% : baboon
+21.10% : guenon
+ 4.32% : patas
+ 0.57% : macaque
+ 0.17% : jigsaw puzzle
+ 0.13% : proboscis monkey
+ 0.12% : television
+ 0.12% : langur
+ 0.11% : king penguin
+ 0.11% : bolo tie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ058.jpg
+53.50% : baboon
+24.60% : guenon
+ 3.88% : patas
+ 0.52% : macaque
+ 0.17% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.12% : television
+ 0.11% : proboscis monkey
+ 0.11% : langur
+ 0.11% : bolo tie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ059.jpg
+59.05% : baboon
+20.26% : guenon
+ 3.63% : patas
+ 0.51% : macaque
+ 0.16% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.11% : television
+ 0.11% : proboscis monkey
+ 0.10% : langur
+ 0.10% : bolo tie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ060.jpg
+55.94% : baboon
+22.31% : guenon
+ 3.85% : patas
+ 0.43% : macaque
+ 0.17% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.12% : television
+ 0.11% : proboscis monkey
+ 0.10% : bolo tie
+ 0.10% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ061.jpg
+57.80% : baboon
+20.38% : guenon
+ 3.94% : patas
+ 0.46% : macaque
+ 0.16% : jigsaw puzzle
+ 0.13% : king penguin
+ 0.12% : proboscis monkey
+ 0.12% : television
+ 0.10% : langur
+ 0.10% : bolo tie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ062.jpg
+58.55% : baboon
+19.70% : guenon
+ 3.90% : patas
+ 0.47% : macaque
+ 0.16% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.12% : television
+ 0.12% : proboscis monkey
+ 0.10% : langur
+ 0.10% : bolo tie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ063.jpg
+56.72% : baboon
+20.85% : guenon
+ 4.40% : patas
+ 0.48% : macaque
+ 0.16% : jigsaw puzzle
+ 0.13% : king penguin
+ 0.12% : proboscis monkey
+ 0.12% : television
+ 0.11% : langur
+ 0.11% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ064.jpg
+56.32% : baboon
+20.23% : guenon
+ 3.99% : patas
+ 0.48% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : television
+ 0.13% : proboscis monkey
+ 0.13% : king penguin
+ 0.11% : langur
+ 0.11% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ065.jpg
+55.03% : baboon
+20.63% : guenon
+ 4.27% : patas
+ 0.50% : macaque
+ 0.21% : jigsaw puzzle
+ 0.16% : proboscis monkey
+ 0.14% : king penguin
+ 0.13% : television
+ 0.13% : langur
+ 0.12% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ066.jpg
+53.15% : baboon
+21.71% : guenon
+ 4.34% : patas
+ 0.49% : macaque
+ 0.20% : jigsaw puzzle
+ 0.15% : proboscis monkey
+ 0.15% : king penguin
+ 0.13% : television
+ 0.12% : titi
+ 0.12% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ067.jpg
+57.41% : baboon
+19.79% : guenon
+ 3.88% : patas
+ 0.43% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.13% : proboscis monkey
+ 0.12% : langur
+ 0.11% : television
+ 0.11% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ068.jpg
+61.28% : baboon
+17.07% : guenon
+ 3.81% : patas
+ 0.40% : macaque
+ 0.16% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.14% : proboscis monkey
+ 0.12% : langur
+ 0.11% : gibbon
+ 0.10% : titi
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ069.jpg
+56.67% : baboon
+19.55% : guenon
+ 3.56% : patas
+ 0.44% : macaque
+ 0.21% : jigsaw puzzle
+ 0.15% : proboscis monkey
+ 0.15% : king penguin
+ 0.12% : langur
+ 0.11% : gibbon
+ 0.11% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ070.jpg
+56.85% : baboon
+20.39% : guenon
+ 3.67% : patas
+ 0.42% : macaque
+ 0.20% : jigsaw puzzle
+ 0.15% : proboscis monkey
+ 0.14% : king penguin
+ 0.13% : langur
+ 0.11% : gibbon
+ 0.11% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ071.jpg
+56.52% : baboon
+20.67% : guenon
+ 3.94% : patas
+ 0.39% : macaque
+ 0.20% : jigsaw puzzle
+ 0.15% : king penguin
+ 0.15% : proboscis monkey
+ 0.12% : langur
+ 0.11% : television
+ 0.11% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ072.jpg
+55.61% : baboon
+21.30% : guenon
+ 4.21% : patas
+ 0.41% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.14% : proboscis monkey
+ 0.12% : langur
+ 0.11% : gibbon
+ 0.11% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ073.jpg
+59.20% : baboon
+17.19% : guenon
+ 3.77% : patas
+ 0.39% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.12% : gibbon
+ 0.12% : squirrel monkey
+ 0.12% : proboscis monkey
+ 0.11% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ074.jpg
+56.91% : baboon
+17.83% : guenon
+ 3.82% : patas
+ 0.37% : macaque
+ 0.22% : jigsaw puzzle
+ 0.16% : king penguin
+ 0.13% : proboscis monkey
+ 0.13% : squirrel monkey
+ 0.12% : gibbon
+ 0.12% : television
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ075.jpg
+59.93% : baboon
+16.12% : guenon
+ 3.44% : patas
+ 0.34% : macaque
+ 0.20% : jigsaw puzzle
+ 0.15% : king penguin
+ 0.13% : proboscis monkey
+ 0.12% : hornbill
+ 0.11% : cab
+ 0.11% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ076.jpg
+57.57% : baboon
+17.90% : guenon
+ 3.49% : patas
+ 0.33% : macaque
+ 0.21% : jigsaw puzzle
+ 0.15% : king penguin
+ 0.12% : television
+ 0.12% : cab
+ 0.12% : hornbill
+ 0.12% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ077.jpg
+52.86% : baboon
+20.37% : guenon
+ 3.82% : patas
+ 0.35% : macaque
+ 0.21% : jigsaw puzzle
+ 0.15% : king penguin
+ 0.14% : television
+ 0.14% : squirrel monkey
+ 0.13% : cab
+ 0.13% : hornbill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ078.jpg
+57.47% : baboon
+20.15% : guenon
+ 3.36% : patas
+ 0.29% : macaque
+ 0.20% : jigsaw puzzle
+ 0.15% : television
+ 0.12% : king penguin
+ 0.11% : cab
+ 0.10% : squirrel monkey
+ 0.10% : comic book
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ079.jpg
+65.70% : baboon
+15.45% : guenon
+ 2.82% : patas
+ 0.25% : macaque
+ 0.16% : jigsaw puzzle
+ 0.13% : television
+ 0.11% : king penguin
+ 0.09% : cab
+ 0.09% : comic book
+ 0.09% : hornbill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ080.jpg
+61.19% : baboon
+17.19% : guenon
+ 3.04% : patas
+ 0.27% : macaque
+ 0.19% : jigsaw puzzle
+ 0.13% : television
+ 0.13% : king penguin
+ 0.11% : hornbill
+ 0.11% : cab
+ 0.11% : comic book
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ081.jpg
+60.12% : baboon
+18.26% : guenon
+ 3.43% : patas
+ 0.30% : macaque
+ 0.18% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.12% : television
+ 0.11% : cab
+ 0.11% : proboscis monkey
+ 0.10% : hornbill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ082.jpg
+58.18% : baboon
+17.52% : guenon
+ 3.76% : patas
+ 0.30% : macaque
+ 0.22% : jigsaw puzzle
+ 0.14% : television
+ 0.13% : king penguin
+ 0.12% : proboscis monkey
+ 0.12% : cab
+ 0.11% : comic book
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ083.jpg
+63.85% : baboon
+13.83% : guenon
+ 3.68% : patas
+ 0.29% : macaque
+ 0.20% : jigsaw puzzle
+ 0.12% : television
+ 0.12% : proboscis monkey
+ 0.12% : king penguin
+ 0.11% : cab
+ 0.10% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ084.jpg
+64.59% : baboon
+12.94% : guenon
+ 3.62% : patas
+ 0.34% : macaque
+ 0.22% : jigsaw puzzle
+ 0.13% : television
+ 0.13% : king penguin
+ 0.12% : proboscis monkey
+ 0.10% : hornbill
+ 0.10% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ085.jpg
+65.31% : baboon
+13.22% : guenon
+ 3.25% : patas
+ 0.32% : macaque
+ 0.21% : jigsaw puzzle
+ 0.14% : television
+ 0.12% : king penguin
+ 0.11% : proboscis monkey
+ 0.10% : cab
+ 0.10% : hornbill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ086.jpg
+60.15% : baboon
+17.60% : guenon
+ 3.66% : patas
+ 0.37% : macaque
+ 0.18% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.13% : television
+ 0.11% : squirrel monkey
+ 0.10% : proboscis monkey
+ 0.10% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ087.jpg
+65.66% : baboon
+13.94% : guenon
+ 3.49% : patas
+ 0.37% : macaque
+ 0.19% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.11% : proboscis monkey
+ 0.11% : television
+ 0.10% : gibbon
+ 0.10% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ088.jpg
+65.27% : baboon
+13.87% : guenon
+ 3.15% : patas
+ 0.34% : macaque
+ 0.18% : jigsaw puzzle
+ 0.13% : king penguin
+ 0.12% : television
+ 0.11% : proboscis monkey
+ 0.10% : hornbill
+ 0.10% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ089.jpg
+65.82% : baboon
+14.51% : guenon
+ 3.09% : patas
+ 0.29% : macaque
+ 0.20% : jigsaw puzzle
+ 0.13% : television
+ 0.11% : king penguin
+ 0.10% : squirrel monkey
+ 0.10% : proboscis monkey
+ 0.10% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ090.jpg
+63.43% : baboon
+15.19% : guenon
+ 3.23% : patas
+ 0.32% : macaque
+ 0.20% : jigsaw puzzle
+ 0.14% : television
+ 0.13% : king penguin
+ 0.12% : squirrel monkey
+ 0.11% : proboscis monkey
+ 0.10% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ091.jpg
+62.26% : baboon
+16.55% : guenon
+ 3.13% : patas
+ 0.32% : macaque
+ 0.19% : jigsaw puzzle
+ 0.13% : king penguin
+ 0.13% : television
+ 0.12% : squirrel monkey
+ 0.11% : cab
+ 0.11% : proboscis monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ092.jpg
+63.95% : baboon
+16.92% : guenon
+ 2.93% : patas
+ 0.29% : macaque
+ 0.16% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.11% : television
+ 0.10% : proboscis monkey
+ 0.10% : squirrel monkey
+ 0.09% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ093.jpg
+63.96% : baboon
+15.95% : guenon
+ 2.86% : patas
+ 0.30% : macaque
+ 0.19% : jigsaw puzzle
+ 0.12% : king penguin
+ 0.12% : television
+ 0.11% : proboscis monkey
+ 0.10% : cab
+ 0.10% : hornbill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ094.jpg
+58.79% : baboon
+20.17% : guenon
+ 3.21% : patas
+ 0.32% : macaque
+ 0.20% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.13% : television
+ 0.11% : proboscis monkey
+ 0.10% : squirrel monkey
+ 0.10% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ095.jpg
+65.64% : baboon
+16.06% : guenon
+ 2.83% : patas
+ 0.30% : macaque
+ 0.17% : jigsaw puzzle
+ 0.12% : television
+ 0.12% : king penguin
+ 0.09% : proboscis monkey
+ 0.09% : squirrel monkey
+ 0.09% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ096.jpg
+57.23% : baboon
+22.00% : guenon
+ 3.30% : patas
+ 0.31% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.13% : television
+ 0.10% : hornbill
+ 0.10% : comic book
+ 0.10% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ097.jpg
+59.33% : baboon
+19.61% : guenon
+ 3.28% : patas
+ 0.31% : macaque
+ 0.18% : jigsaw puzzle
+ 0.13% : king penguin
+ 0.13% : television
+ 0.11% : squirrel monkey
+ 0.10% : comic book
+ 0.10% : hornbill
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ098.jpg
+60.35% : baboon
+17.98% : guenon
+ 3.06% : patas
+ 0.29% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.14% : television
+ 0.11% : cab
+ 0.10% : hornbill
+ 0.10% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ099.jpg
+59.49% : baboon
+19.03% : guenon
+ 3.30% : patas
+ 0.30% : macaque
+ 0.19% : jigsaw puzzle
+ 0.14% : king penguin
+ 0.13% : television
+ 0.11% : hornbill
+ 0.11% : comic book
+ 0.10% : cab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBaboonQ100.jpg
+58.35% : baboon
+20.13% : guenon
+ 3.34% : patas
+ 0.30% : macaque
+ 0.19% : jigsaw puzzle
+ 0.15% : king penguin
+ 0.13% : television
+ 0.11% : hornbill
+ 0.10% : comic book
+ 0.10% : cab

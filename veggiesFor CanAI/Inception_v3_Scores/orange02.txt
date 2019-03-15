@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q001.jpg
+55.19% : orange
+ 2.41% : lemon
+ 0.59% : pot
+ 0.58% : strawberry
+ 0.44% : hip
+ 0.36% : grocery store
+ 0.34% : bell pepper
+ 0.34% : zucchini
+ 0.34% : banana
+ 0.33% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q002.jpg
+55.10% : orange
+ 2.41% : lemon
+ 0.59% : pot
+ 0.59% : strawberry
+ 0.44% : hip
+ 0.36% : grocery store
+ 0.34% : bell pepper
+ 0.34% : zucchini
+ 0.34% : banana
+ 0.33% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q003.jpg
+54.06% : orange
+ 2.60% : lemon
+ 0.57% : pot
+ 0.55% : strawberry
+ 0.45% : hip
+ 0.40% : grocery store
+ 0.39% : bell pepper
+ 0.34% : pineapple
+ 0.33% : banana
+ 0.32% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q004.jpg
+74.61% : orange
+ 2.80% : lemon
+ 0.44% : strawberry
+ 0.40% : pot
+ 0.35% : bell pepper
+ 0.28% : baseball
+ 0.22% : grocery store
+ 0.22% : pineapple
+ 0.19% : vine snake
+ 0.18% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q005.jpg
+83.51% : orange
+ 2.31% : lemon
+ 0.22% : grocery store
+ 0.22% : strawberry
+ 0.19% : zucchini
+ 0.17% : bell pepper
+ 0.16% : banana
+ 0.16% : jack-o'-lantern
+ 0.13% : butternut squash
+ 0.13% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q006.jpg
+91.70% : orange
+ 1.86% : lemon
+ 0.17% : banana
+ 0.16% : grocery store
+ 0.10% : strawberry
+ 0.10% : bell pepper
+ 0.10% : butternut squash
+ 0.09% : zucchini
+ 0.07% : pot
+ 0.07% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q007.jpg
+91.34% : orange
+ 1.96% : lemon
+ 0.21% : banana
+ 0.09% : grocery store
+ 0.09% : strawberry
+ 0.05% : pineapple
+ 0.05% : zucchini
+ 0.05% : butternut squash
+ 0.05% : pot
+ 0.05% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q008.jpg
+93.36% : orange
+ 1.17% : lemon
+ 0.21% : banana
+ 0.12% : grocery store
+ 0.11% : strawberry
+ 0.05% : pineapple
+ 0.05% : zucchini
+ 0.04% : pot
+ 0.04% : bell pepper
+ 0.04% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q009.jpg
+92.87% : orange
+ 1.89% : lemon
+ 0.28% : banana
+ 0.10% : strawberry
+ 0.08% : grocery store
+ 0.04% : pineapple
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.03% : pot
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q010.jpg
+91.72% : orange
+ 3.12% : lemon
+ 0.29% : banana
+ 0.05% : grocery store
+ 0.05% : strawberry
+ 0.04% : pineapple
+ 0.03% : spaghetti squash
+ 0.02% : basketball
+ 0.02% : monarch
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q011.jpg
+92.87% : orange
+ 1.98% : lemon
+ 0.36% : banana
+ 0.06% : strawberry
+ 0.05% : grocery store
+ 0.04% : pineapple
+ 0.03% : spaghetti squash
+ 0.03% : basketball
+ 0.02% : monarch
+ 0.02% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q012.jpg
+89.66% : orange
+ 2.97% : lemon
+ 0.41% : banana
+ 0.05% : strawberry
+ 0.05% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : basketball
+ 0.05% : pineapple
+ 0.04% : monarch
+ 0.03% : lifeboat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q013.jpg
+91.90% : orange
+ 1.81% : lemon
+ 0.38% : banana
+ 0.05% : grocery store
+ 0.05% : strawberry
+ 0.04% : basketball
+ 0.04% : pineapple
+ 0.03% : monarch
+ 0.03% : lifeboat
+ 0.03% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q014.jpg
+90.33% : orange
+ 3.15% : lemon
+ 0.42% : banana
+ 0.07% : grocery store
+ 0.05% : pineapple
+ 0.05% : strawberry
+ 0.03% : spaghetti squash
+ 0.03% : basketball
+ 0.03% : ping-pong ball
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q015.jpg
+90.84% : orange
+ 2.70% : lemon
+ 0.44% : banana
+ 0.05% : grocery store
+ 0.04% : pineapple
+ 0.04% : strawberry
+ 0.03% : basketball
+ 0.03% : monarch
+ 0.03% : ping-pong ball
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q016.jpg
+89.46% : orange
+ 3.16% : lemon
+ 0.41% : banana
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.04% : basketball
+ 0.04% : strainer
+ 0.04% : strawberry
+ 0.03% : ping-pong ball
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q017.jpg
+88.49% : orange
+ 3.33% : lemon
+ 0.46% : banana
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.04% : basketball
+ 0.04% : strawberry
+ 0.04% : strainer
+ 0.04% : ping-pong ball
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q018.jpg
+90.20% : orange
+ 3.08% : lemon
+ 0.46% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.04% : basketball
+ 0.03% : strainer
+ 0.03% : strawberry
+ 0.03% : ping-pong ball
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q019.jpg
+88.74% : orange
+ 3.52% : lemon
+ 0.48% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.04% : strainer
+ 0.04% : ping-pong ball
+ 0.04% : basketball
+ 0.03% : strawberry
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q020.jpg
+90.52% : orange
+ 2.78% : lemon
+ 0.42% : banana
+ 0.05% : grocery store
+ 0.04% : pineapple
+ 0.04% : basketball
+ 0.04% : strainer
+ 0.03% : ping-pong ball
+ 0.03% : strawberry
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q021.jpg
+88.33% : orange
+ 3.66% : lemon
+ 0.48% : banana
+ 0.06% : pineapple
+ 0.05% : grocery store
+ 0.04% : ping-pong ball
+ 0.04% : strainer
+ 0.04% : basketball
+ 0.03% : monarch
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q022.jpg
+90.74% : orange
+ 3.11% : lemon
+ 0.42% : banana
+ 0.04% : grocery store
+ 0.04% : pineapple
+ 0.04% : ping-pong ball
+ 0.03% : strainer
+ 0.03% : basketball
+ 0.03% : monarch
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q023.jpg
+90.90% : orange
+ 3.05% : lemon
+ 0.46% : banana
+ 0.04% : pineapple
+ 0.04% : grocery store
+ 0.04% : ping-pong ball
+ 0.03% : strainer
+ 0.03% : basketball
+ 0.03% : strawberry
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q024.jpg
+88.28% : orange
+ 3.98% : lemon
+ 0.49% : banana
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.04% : ping-pong ball
+ 0.04% : strainer
+ 0.04% : basketball
+ 0.03% : strawberry
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q025.jpg
+88.37% : orange
+ 4.14% : lemon
+ 0.55% : banana
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q026.jpg
+88.18% : orange
+ 4.29% : lemon
+ 0.56% : banana
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.04% : strawberry
+ 0.03% : basketball
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q027.jpg
+86.07% : orange
+ 4.86% : lemon
+ 0.60% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.04% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q028.jpg
+87.60% : orange
+ 4.29% : lemon
+ 0.54% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q029.jpg
+86.44% : orange
+ 4.86% : lemon
+ 0.58% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : basketball
+ 0.04% : strawberry
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q030.jpg
+86.90% : orange
+ 4.77% : lemon
+ 0.65% : banana
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.03% : king snake
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q031.jpg
+84.23% : orange
+ 5.61% : lemon
+ 0.67% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.07% : strainer
+ 0.05% : ping-pong ball
+ 0.05% : strawberry
+ 0.04% : basketball
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q032.jpg
+87.44% : orange
+ 4.23% : lemon
+ 0.59% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : king snake
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q033.jpg
+87.55% : orange
+ 4.06% : lemon
+ 0.58% : banana
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : basketball
+ 0.04% : strawberry
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q034.jpg
+86.67% : orange
+ 4.46% : lemon
+ 0.59% : banana
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : basketball
+ 0.04% : strawberry
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q035.jpg
+86.13% : orange
+ 5.02% : lemon
+ 0.68% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q036.jpg
+87.30% : orange
+ 4.29% : lemon
+ 0.64% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.03% : king snake
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q037.jpg
+87.89% : orange
+ 4.03% : lemon
+ 0.63% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.03% : king snake
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q038.jpg
+87.26% : orange
+ 4.39% : lemon
+ 0.67% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.03% : king snake
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q039.jpg
+87.74% : orange
+ 4.03% : lemon
+ 0.63% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.04% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q040.jpg
+87.80% : orange
+ 4.02% : lemon
+ 0.63% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q041.jpg
+88.54% : orange
+ 3.80% : lemon
+ 0.59% : banana
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q042.jpg
+87.66% : orange
+ 4.22% : lemon
+ 0.61% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q043.jpg
+87.62% : orange
+ 4.24% : lemon
+ 0.60% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q044.jpg
+89.00% : orange
+ 4.02% : lemon
+ 0.60% : banana
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.04% : ping-pong ball
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q045.jpg
+89.02% : orange
+ 4.06% : lemon
+ 0.60% : banana
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.04% : ping-pong ball
+ 0.03% : strawberry
+ 0.03% : pomegranate
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q046.jpg
+88.74% : orange
+ 4.06% : lemon
+ 0.59% : banana
+ 0.06% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q047.jpg
+88.71% : orange
+ 4.06% : lemon
+ 0.60% : banana
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q048.jpg
+88.35% : orange
+ 4.23% : lemon
+ 0.60% : banana
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q049.jpg
+88.93% : orange
+ 3.94% : lemon
+ 0.58% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q050.jpg
+88.98% : orange
+ 3.93% : lemon
+ 0.58% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q051.jpg
+88.97% : orange
+ 3.93% : lemon
+ 0.58% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q052.jpg
+88.66% : orange
+ 4.26% : lemon
+ 0.59% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q053.jpg
+88.57% : orange
+ 4.16% : lemon
+ 0.59% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q054.jpg
+88.53% : orange
+ 4.19% : lemon
+ 0.59% : banana
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.05% : ping-pong ball
+ 0.04% : strainer
+ 0.03% : strawberry
+ 0.03% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q055.jpg
+86.90% : orange
+ 4.59% : lemon
+ 0.67% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q056.jpg
+86.73% : orange
+ 4.70% : lemon
+ 0.67% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q057.jpg
+86.30% : orange
+ 4.88% : lemon
+ 0.70% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.06% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q058.jpg
+87.50% : orange
+ 4.54% : lemon
+ 0.67% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q059.jpg
+87.61% : orange
+ 4.45% : lemon
+ 0.66% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q060.jpg
+87.73% : orange
+ 4.41% : lemon
+ 0.64% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.03% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q061.jpg
+88.02% : orange
+ 4.24% : lemon
+ 0.67% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.03% : basketball
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q062.jpg
+88.21% : orange
+ 4.16% : lemon
+ 0.66% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.03% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q063.jpg
+88.33% : orange
+ 4.15% : lemon
+ 0.65% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.03% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q064.jpg
+87.67% : orange
+ 4.50% : lemon
+ 0.65% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.03% : basketball
+ 0.03% : Granny Smith
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q065.jpg
+86.59% : orange
+ 4.83% : lemon
+ 0.68% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q066.jpg
+86.51% : orange
+ 4.90% : lemon
+ 0.68% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q067.jpg
+86.68% : orange
+ 4.82% : lemon
+ 0.69% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q068.jpg
+87.04% : orange
+ 4.72% : lemon
+ 0.67% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q069.jpg
+86.98% : orange
+ 4.55% : lemon
+ 0.67% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q070.jpg
+86.81% : orange
+ 4.50% : lemon
+ 0.68% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q071.jpg
+87.26% : orange
+ 4.54% : lemon
+ 0.69% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q072.jpg
+87.55% : orange
+ 4.46% : lemon
+ 0.69% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q073.jpg
+87.15% : orange
+ 4.62% : lemon
+ 0.75% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q074.jpg
+86.44% : orange
+ 4.78% : lemon
+ 0.74% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.06% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q075.jpg
+86.42% : orange
+ 4.76% : lemon
+ 0.74% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.06% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q076.jpg
+86.23% : orange
+ 4.93% : lemon
+ 0.72% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.03% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q077.jpg
+85.61% : orange
+ 5.13% : lemon
+ 0.76% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.06% : strainer
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q078.jpg
+87.00% : orange
+ 4.66% : lemon
+ 0.71% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q079.jpg
+87.05% : orange
+ 4.56% : lemon
+ 0.72% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q080.jpg
+87.05% : orange
+ 4.48% : lemon
+ 0.70% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : basketball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q081.jpg
+86.99% : orange
+ 4.38% : lemon
+ 0.72% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q082.jpg
+86.08% : orange
+ 4.79% : lemon
+ 0.75% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : Granny Smith
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q083.jpg
+86.40% : orange
+ 5.03% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : Granny Smith
+ 0.04% : strawberry
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q084.jpg
+86.11% : orange
+ 5.26% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : Granny Smith
+ 0.04% : strawberry
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q085.jpg
+85.80% : orange
+ 5.47% : lemon
+ 0.75% : banana
+ 0.07% : pineapple
+ 0.07% : grocery store
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : Granny Smith
+ 0.04% : strawberry
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q086.jpg
+86.45% : orange
+ 4.88% : lemon
+ 0.74% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.06% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q087.jpg
+86.76% : orange
+ 4.56% : lemon
+ 0.74% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q088.jpg
+86.96% : orange
+ 4.60% : lemon
+ 0.72% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.05% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q089.jpg
+87.05% : orange
+ 4.59% : lemon
+ 0.72% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : king snake
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q090.jpg
+87.38% : orange
+ 4.43% : lemon
+ 0.70% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q091.jpg
+87.40% : orange
+ 4.47% : lemon
+ 0.69% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : basketball
+ 0.03% : strawberry
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q092.jpg
+87.09% : orange
+ 4.49% : lemon
+ 0.69% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : strainer
+ 0.04% : basketball
+ 0.04% : strawberry
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q093.jpg
+86.84% : orange
+ 4.42% : lemon
+ 0.75% : banana
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.06% : ping-pong ball
+ 0.06% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q094.jpg
+86.42% : orange
+ 4.34% : lemon
+ 0.76% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.06% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q095.jpg
+87.00% : orange
+ 4.05% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.06% : strainer
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q096.jpg
+86.65% : orange
+ 4.39% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.06% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q097.jpg
+86.94% : orange
+ 4.20% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q098.jpg
+86.95% : orange
+ 4.25% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q099.jpg
+87.19% : orange
+ 4.09% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange2Q100.jpg
+87.19% : orange
+ 4.05% : lemon
+ 0.73% : banana
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : ping-pong ball
+ 0.04% : strawberry
+ 0.04% : basketball
+ 0.03% : Granny Smith

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q001.jpg
+21.01% : hotdog
+18.45% : ear
+ 8.89% : French loaf
+ 4.60% : zucchini
+ 3.59% : bath towel
+ 3.51% : tray
+ 3.38% : corn
+ 3.18% : packet
+ 1.96% : spaghetti squash
+ 1.21% : burrito
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q002.jpg
+20.83% : hotdog
+18.35% : ear
+ 8.94% : French loaf
+ 4.66% : zucchini
+ 3.57% : bath towel
+ 3.54% : tray
+ 3.36% : corn
+ 3.20% : packet
+ 1.97% : spaghetti squash
+ 1.19% : burrito
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q003.jpg
+23.95% : ear
+19.49% : hotdog
+ 8.14% : French loaf
+ 7.31% : zucchini
+ 4.19% : tray
+ 3.20% : corn
+ 2.89% : bath towel
+ 2.27% : packet
+ 1.63% : spaghetti squash
+ 1.17% : burrito
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q004.jpg
+34.83% : zucchini
+10.82% : ear
+ 7.61% : cucumber
+ 3.31% : corn
+ 3.19% : French loaf
+ 1.87% : hotdog
+ 1.66% : bath towel
+ 1.37% : spaghetti squash
+ 0.79% : packet
+ 0.70% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q005.jpg
+68.35% : zucchini
+ 5.05% : cucumber
+ 0.77% : rock python
+ 0.68% : screwdriver
+ 0.66% : ear
+ 0.33% : French loaf
+ 0.27% : hotdog
+ 0.25% : lighter
+ 0.23% : wine bottle
+ 0.20% : pill bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q006.jpg
+61.07% : zucchini
+14.30% : cucumber
+ 0.84% : ear
+ 0.33% : rock python
+ 0.32% : screwdriver
+ 0.29% : spaghetti squash
+ 0.16% : French loaf
+ 0.15% : wine bottle
+ 0.15% : hotdog
+ 0.15% : leafhopper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q007.jpg
+77.63% : zucchini
+ 5.61% : cucumber
+ 0.23% : ear
+ 0.11% : spaghetti squash
+ 0.11% : slide rule
+ 0.10% : white stork
+ 0.07% : hotdog
+ 0.07% : seat belt
+ 0.07% : leafhopper
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q008.jpg
+84.93% : zucchini
+ 6.07% : cucumber
+ 0.11% : ear
+ 0.10% : spaghetti squash
+ 0.06% : white stork
+ 0.05% : slide rule
+ 0.05% : rock python
+ 0.04% : leafhopper
+ 0.04% : wine bottle
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q009.jpg
+49.15% : zucchini
+35.31% : cucumber
+ 0.12% : ear
+ 0.12% : modem
+ 0.11% : spaghetti squash
+ 0.09% : leafhopper
+ 0.08% : white stork
+ 0.08% : wine bottle
+ 0.07% : slide rule
+ 0.07% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q010.jpg
+63.53% : zucchini
+23.06% : cucumber
+ 0.12% : ear
+ 0.08% : spaghetti squash
+ 0.08% : modem
+ 0.07% : white stork
+ 0.07% : wine bottle
+ 0.07% : leafhopper
+ 0.07% : slide rule
+ 0.06% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q011.jpg
+71.11% : zucchini
+14.00% : cucumber
+ 0.14% : spaghetti squash
+ 0.12% : ear
+ 0.08% : slide rule
+ 0.07% : rock python
+ 0.07% : leafhopper
+ 0.07% : modem
+ 0.07% : wine bottle
+ 0.07% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q012.jpg
+71.73% : zucchini
+18.08% : cucumber
+ 0.07% : ear
+ 0.06% : spaghetti squash
+ 0.06% : leafhopper
+ 0.06% : modem
+ 0.05% : white stork
+ 0.05% : wine bottle
+ 0.05% : slide rule
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q013.jpg
+68.46% : zucchini
+17.17% : cucumber
+ 0.11% : ear
+ 0.08% : spaghetti squash
+ 0.08% : modem
+ 0.08% : white stork
+ 0.07% : leafhopper
+ 0.07% : slide rule
+ 0.06% : wine bottle
+ 0.06% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q014.jpg
+56.09% : zucchini
+28.23% : cucumber
+ 0.13% : ear
+ 0.11% : spaghetti squash
+ 0.10% : modem
+ 0.08% : white stork
+ 0.08% : leafhopper
+ 0.08% : slide rule
+ 0.08% : wine bottle
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q015.jpg
+72.13% : zucchini
+13.68% : cucumber
+ 0.12% : ear
+ 0.10% : spaghetti squash
+ 0.07% : white stork
+ 0.06% : modem
+ 0.06% : slide rule
+ 0.06% : leafhopper
+ 0.06% : wine bottle
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q016.jpg
+65.85% : zucchini
+15.75% : cucumber
+ 0.13% : ear
+ 0.11% : spaghetti squash
+ 0.11% : slide rule
+ 0.10% : leafhopper
+ 0.08% : white stork
+ 0.07% : wine bottle
+ 0.07% : French loaf
+ 0.07% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q017.jpg
+60.41% : zucchini
+20.48% : cucumber
+ 0.14% : ear
+ 0.12% : spaghetti squash
+ 0.11% : leafhopper
+ 0.10% : slide rule
+ 0.10% : modem
+ 0.09% : white stork
+ 0.09% : wine bottle
+ 0.09% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q018.jpg
+64.73% : zucchini
+15.79% : cucumber
+ 0.13% : ear
+ 0.11% : spaghetti squash
+ 0.11% : slide rule
+ 0.10% : white stork
+ 0.09% : modem
+ 0.09% : leafhopper
+ 0.09% : wine bottle
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q019.jpg
+69.07% : zucchini
+17.12% : cucumber
+ 0.11% : ear
+ 0.10% : spaghetti squash
+ 0.08% : modem
+ 0.07% : white stork
+ 0.07% : slide rule
+ 0.07% : leafhopper
+ 0.06% : wine bottle
+ 0.06% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q020.jpg
+55.79% : zucchini
+24.29% : cucumber
+ 0.13% : ear
+ 0.12% : modem
+ 0.11% : spaghetti squash
+ 0.11% : slide rule
+ 0.10% : white stork
+ 0.10% : leafhopper
+ 0.08% : wine bottle
+ 0.07% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q021.jpg
+69.46% : zucchini
+12.12% : cucumber
+ 0.12% : ear
+ 0.12% : spaghetti squash
+ 0.11% : slide rule
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : rock python
+ 0.08% : wine bottle
+ 0.07% : pencil box
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q022.jpg
+55.72% : zucchini
+22.83% : cucumber
+ 0.15% : ear
+ 0.13% : spaghetti squash
+ 0.12% : modem
+ 0.11% : white stork
+ 0.11% : slide rule
+ 0.10% : leafhopper
+ 0.09% : wine bottle
+ 0.09% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q023.jpg
+56.87% : zucchini
+22.78% : cucumber
+ 0.15% : ear
+ 0.14% : spaghetti squash
+ 0.11% : slide rule
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.10% : white stork
+ 0.08% : French loaf
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q024.jpg
+64.35% : zucchini
+17.54% : cucumber
+ 0.12% : ear
+ 0.12% : spaghetti squash
+ 0.10% : slide rule
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : modem
+ 0.07% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q025.jpg
+63.62% : zucchini
+17.37% : cucumber
+ 0.12% : ear
+ 0.12% : spaghetti squash
+ 0.10% : slide rule
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.07% : sea cucumber
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q026.jpg
+63.22% : zucchini
+19.28% : cucumber
+ 0.13% : spaghetti squash
+ 0.12% : ear
+ 0.09% : modem
+ 0.08% : leafhopper
+ 0.08% : white stork
+ 0.08% : slide rule
+ 0.07% : rock python
+ 0.07% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q027.jpg
+62.60% : zucchini
+20.72% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.09% : modem
+ 0.08% : leafhopper
+ 0.08% : slide rule
+ 0.07% : white stork
+ 0.07% : French loaf
+ 0.06% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q028.jpg
+65.11% : zucchini
+18.45% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.09% : slide rule
+ 0.08% : leafhopper
+ 0.08% : modem
+ 0.07% : white stork
+ 0.07% : acorn squash
+ 0.06% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q029.jpg
+62.61% : zucchini
+19.65% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.09% : slide rule
+ 0.09% : modem
+ 0.08% : leafhopper
+ 0.08% : white stork
+ 0.07% : French loaf
+ 0.07% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q030.jpg
+70.14% : zucchini
+13.58% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.08% : slide rule
+ 0.08% : leafhopper
+ 0.07% : white stork
+ 0.07% : acorn squash
+ 0.07% : modem
+ 0.06% : hotdog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q031.jpg
+73.40% : zucchini
+12.47% : cucumber
+ 0.14% : spaghetti squash
+ 0.12% : ear
+ 0.07% : slide rule
+ 0.07% : white stork
+ 0.07% : leafhopper
+ 0.06% : acorn squash
+ 0.06% : hotdog
+ 0.06% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q032.jpg
+64.66% : zucchini
+19.04% : cucumber
+ 0.14% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.08% : slide rule
+ 0.08% : white stork
+ 0.08% : modem
+ 0.07% : French loaf
+ 0.07% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q033.jpg
+58.45% : zucchini
+24.17% : cucumber
+ 0.17% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : modem
+ 0.09% : slide rule
+ 0.08% : French loaf
+ 0.08% : acorn squash
+ 0.08% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q034.jpg
+60.96% : zucchini
+20.92% : cucumber
+ 0.18% : spaghetti squash
+ 0.14% : ear
+ 0.09% : modem
+ 0.09% : leafhopper
+ 0.08% : slide rule
+ 0.08% : acorn squash
+ 0.08% : French loaf
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q035.jpg
+63.45% : zucchini
+18.26% : cucumber
+ 0.16% : spaghetti squash
+ 0.14% : ear
+ 0.09% : modem
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.09% : white stork
+ 0.08% : acorn squash
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q036.jpg
+61.70% : zucchini
+19.48% : cucumber
+ 0.17% : spaghetti squash
+ 0.14% : ear
+ 0.10% : leafhopper
+ 0.10% : modem
+ 0.09% : slide rule
+ 0.08% : white stork
+ 0.08% : rock python
+ 0.08% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q037.jpg
+61.59% : zucchini
+20.45% : cucumber
+ 0.16% : spaghetti squash
+ 0.12% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : white stork
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q038.jpg
+64.22% : zucchini
+16.41% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.10% : leafhopper
+ 0.10% : slide rule
+ 0.08% : white stork
+ 0.08% : modem
+ 0.08% : rock python
+ 0.08% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q039.jpg
+62.78% : zucchini
+18.51% : cucumber
+ 0.16% : spaghetti squash
+ 0.12% : ear
+ 0.10% : leafhopper
+ 0.09% : slide rule
+ 0.08% : modem
+ 0.08% : white stork
+ 0.08% : acorn squash
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q040.jpg
+64.83% : zucchini
+16.29% : cucumber
+ 0.17% : spaghetti squash
+ 0.13% : ear
+ 0.10% : leafhopper
+ 0.09% : slide rule
+ 0.09% : rock python
+ 0.08% : acorn squash
+ 0.08% : wine bottle
+ 0.08% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q041.jpg
+59.06% : zucchini
+21.81% : cucumber
+ 0.17% : spaghetti squash
+ 0.12% : ear
+ 0.10% : leafhopper
+ 0.10% : modem
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+ 0.08% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q042.jpg
+59.94% : zucchini
+19.89% : cucumber
+ 0.17% : spaghetti squash
+ 0.12% : ear
+ 0.10% : leafhopper
+ 0.10% : modem
+ 0.09% : rock python
+ 0.09% : white stork
+ 0.09% : acorn squash
+ 0.09% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q043.jpg
+60.20% : zucchini
+19.84% : cucumber
+ 0.18% : spaghetti squash
+ 0.13% : ear
+ 0.10% : leafhopper
+ 0.10% : modem
+ 0.09% : rock python
+ 0.09% : white stork
+ 0.08% : wine bottle
+ 0.08% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q044.jpg
+59.04% : zucchini
+21.31% : cucumber
+ 0.18% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.08% : acorn squash
+ 0.08% : slide rule
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q045.jpg
+56.50% : zucchini
+23.40% : cucumber
+ 0.18% : spaghetti squash
+ 0.14% : ear
+ 0.12% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : acorn squash
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q046.jpg
+62.89% : zucchini
+19.11% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.09% : leafhopper
+ 0.09% : modem
+ 0.09% : slide rule
+ 0.08% : white stork
+ 0.08% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q047.jpg
+62.53% : zucchini
+19.25% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.09% : leafhopper
+ 0.09% : modem
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q048.jpg
+63.89% : zucchini
+17.71% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.09% : modem
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q049.jpg
+57.61% : zucchini
+23.06% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.09% : slide rule
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q050.jpg
+57.78% : zucchini
+22.83% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.09% : slide rule
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q051.jpg
+57.90% : zucchini
+22.67% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.09% : slide rule
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q052.jpg
+58.75% : zucchini
+21.18% : cucumber
+ 0.16% : spaghetti squash
+ 0.16% : ear
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.10% : white stork
+ 0.09% : slide rule
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q053.jpg
+60.72% : zucchini
+19.45% : cucumber
+ 0.16% : spaghetti squash
+ 0.16% : ear
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.10% : white stork
+ 0.09% : slide rule
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q054.jpg
+61.53% : zucchini
+18.83% : cucumber
+ 0.17% : spaghetti squash
+ 0.16% : ear
+ 0.10% : leafhopper
+ 0.10% : modem
+ 0.09% : slide rule
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q055.jpg
+61.61% : zucchini
+18.90% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : slide rule
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q056.jpg
+61.24% : zucchini
+19.43% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q057.jpg
+58.38% : zucchini
+22.56% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.12% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : wine bottle
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q058.jpg
+52.14% : zucchini
+28.13% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : modem
+ 0.13% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : wine bottle
+ 0.08% : French loaf
+ 0.08% : slide rule
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q059.jpg
+52.99% : zucchini
+27.30% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.13% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : wine bottle
+ 0.08% : rock python
+ 0.08% : slide rule
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q060.jpg
+54.58% : zucchini
+26.68% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.12% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : wine bottle
+ 0.08% : slide rule
+ 0.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q061.jpg
+61.17% : zucchini
+20.42% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : wine bottle
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q062.jpg
+62.39% : zucchini
+19.10% : cucumber
+ 0.13% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : wine bottle
+ 0.08% : slide rule
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q063.jpg
+61.00% : zucchini
+20.13% : cucumber
+ 0.14% : spaghetti squash
+ 0.14% : ear
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.08% : wine bottle
+ 0.08% : slide rule
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q064.jpg
+60.34% : zucchini
+20.71% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : wine bottle
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q065.jpg
+60.04% : zucchini
+21.69% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : wine bottle
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q066.jpg
+59.57% : zucchini
+22.43% : cucumber
+ 0.15% : spaghetti squash
+ 0.12% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : wine bottle
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q067.jpg
+55.74% : zucchini
+24.56% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.12% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : wine bottle
+ 0.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q068.jpg
+55.61% : zucchini
+25.63% : cucumber
+ 0.16% : spaghetti squash
+ 0.14% : ear
+ 0.12% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : French loaf
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q069.jpg
+55.04% : zucchini
+26.61% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.12% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : French loaf
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q070.jpg
+52.86% : zucchini
+28.53% : cucumber
+ 0.14% : spaghetti squash
+ 0.14% : ear
+ 0.13% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.08% : slide rule
+ 0.08% : French loaf
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q071.jpg
+55.30% : zucchini
+25.47% : cucumber
+ 0.14% : ear
+ 0.14% : spaghetti squash
+ 0.13% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.08% : French loaf
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q072.jpg
+58.54% : zucchini
+22.84% : cucumber
+ 0.14% : spaghetti squash
+ 0.14% : ear
+ 0.12% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.08% : French loaf
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q073.jpg
+57.38% : zucchini
+23.99% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.11% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q074.jpg
+61.29% : zucchini
+19.71% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q075.jpg
+61.30% : zucchini
+19.55% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.10% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q076.jpg
+64.04% : zucchini
+15.80% : cucumber
+ 0.18% : spaghetti squash
+ 0.15% : ear
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.09% : modem
+ 0.09% : rock python
+ 0.08% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q077.jpg
+64.63% : zucchini
+15.44% : cucumber
+ 0.16% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.09% : modem
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q078.jpg
+62.33% : zucchini
+17.74% : cucumber
+ 0.16% : spaghetti squash
+ 0.15% : ear
+ 0.10% : slide rule
+ 0.10% : leafhopper
+ 0.09% : modem
+ 0.09% : white stork
+ 0.08% : rock python
+ 0.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q079.jpg
+61.14% : zucchini
+19.13% : cucumber
+ 0.17% : spaghetti squash
+ 0.15% : ear
+ 0.10% : slide rule
+ 0.10% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.08% : rock python
+ 0.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q080.jpg
+61.03% : zucchini
+19.29% : cucumber
+ 0.16% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : slide rule
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q081.jpg
+58.87% : zucchini
+22.28% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q082.jpg
+59.26% : zucchini
+21.84% : cucumber
+ 0.14% : spaghetti squash
+ 0.12% : ear
+ 0.11% : modem
+ 0.10% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.09% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q083.jpg
+61.12% : zucchini
+20.62% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.07% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q084.jpg
+63.43% : zucchini
+18.47% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.09% : modem
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.09% : white stork
+ 0.07% : wine bottle
+ 0.07% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q085.jpg
+61.98% : zucchini
+19.71% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.09% : white stork
+ 0.08% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q086.jpg
+65.46% : zucchini
+16.75% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : modem
+ 0.08% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q087.jpg
+62.80% : zucchini
+18.93% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : modem
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q088.jpg
+63.88% : zucchini
+19.11% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.09% : modem
+ 0.09% : leafhopper
+ 0.08% : white stork
+ 0.08% : slide rule
+ 0.07% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q089.jpg
+61.25% : zucchini
+20.54% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q090.jpg
+61.31% : zucchini
+20.16% : cucumber
+ 0.16% : spaghetti squash
+ 0.14% : ear
+ 0.10% : modem
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.07% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q091.jpg
+61.50% : zucchini
+19.87% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.10% : modem
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.08% : wine bottle
+ 0.08% : rock python
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q092.jpg
+64.58% : zucchini
+17.00% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.09% : slide rule
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : modem
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q093.jpg
+69.31% : zucchini
+12.44% : cucumber
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.09% : white stork
+ 0.09% : leafhopper
+ 0.09% : slide rule
+ 0.08% : wine bottle
+ 0.08% : rock python
+ 0.07% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q094.jpg
+70.14% : zucchini
+12.78% : cucumber
+ 0.14% : spaghetti squash
+ 0.14% : ear
+ 0.08% : white stork
+ 0.08% : leafhopper
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+ 0.07% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q095.jpg
+68.10% : zucchini
+13.71% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+ 0.07% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q096.jpg
+64.86% : zucchini
+16.63% : cucumber
+ 0.15% : spaghetti squash
+ 0.15% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.09% : slide rule
+ 0.08% : modem
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q097.jpg
+65.14% : zucchini
+17.49% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : modem
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q098.jpg
+66.38% : zucchini
+16.06% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.09% : leafhopper
+ 0.08% : white stork
+ 0.08% : modem
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q099.jpg
+66.59% : zucchini
+15.04% : cucumber
+ 0.15% : spaghetti squash
+ 0.14% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+ 0.08% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber10Q100.jpg
+65.98% : zucchini
+15.55% : cucumber
+ 0.15% : spaghetti squash
+ 0.13% : ear
+ 0.09% : leafhopper
+ 0.09% : white stork
+ 0.08% : slide rule
+ 0.08% : rock python
+ 0.08% : wine bottle
+ 0.08% : modem

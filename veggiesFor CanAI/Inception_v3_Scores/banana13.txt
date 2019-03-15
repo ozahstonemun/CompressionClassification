@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q001.jpg
+96.19% : banana
+ 0.19% : coil
+ 0.16% : grocery store
+ 0.12% : hook
+ 0.09% : shoe shop
+ 0.09% : confectionery
+ 0.08% : crane
+ 0.08% : clog
+ 0.06% : chain
+ 0.05% : knot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q002.jpg
+96.19% : banana
+ 0.19% : coil
+ 0.16% : grocery store
+ 0.12% : hook
+ 0.09% : shoe shop
+ 0.09% : confectionery
+ 0.08% : crane
+ 0.08% : clog
+ 0.06% : chain
+ 0.05% : knot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q003.jpg
+96.54% : banana
+ 0.17% : grocery store
+ 0.12% : coil
+ 0.11% : hook
+ 0.09% : shoe shop
+ 0.09% : clog
+ 0.08% : crane
+ 0.08% : confectionery
+ 0.05% : tile roof
+ 0.04% : chain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q004.jpg
+91.30% : banana
+ 0.78% : grocery store
+ 0.42% : confectionery
+ 0.37% : hook
+ 0.30% : coil
+ 0.21% : shoe shop
+ 0.15% : clog
+ 0.15% : knot
+ 0.14% : bakery
+ 0.14% : crane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q005.jpg
+94.61% : banana
+ 0.24% : grocery store
+ 0.18% : coil
+ 0.15% : butternut squash
+ 0.15% : clog
+ 0.12% : tile roof
+ 0.11% : confectionery
+ 0.09% : pretzel
+ 0.08% : orange
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q006.jpg
+97.81% : banana
+ 0.12% : coil
+ 0.09% : clog
+ 0.06% : grocery store
+ 0.06% : hook
+ 0.05% : butternut squash
+ 0.04% : knot
+ 0.04% : orange
+ 0.03% : tile roof
+ 0.03% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q007.jpg
+98.93% : banana
+ 0.04% : grocery store
+ 0.04% : clog
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : hook
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : knot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q008.jpg
+98.93% : banana
+ 0.06% : clog
+ 0.05% : grocery store
+ 0.03% : coil
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : hook
+ 0.01% : zucchini
+ 0.01% : shoe shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q009.jpg
+99.06% : banana
+ 0.07% : grocery store
+ 0.07% : clog
+ 0.03% : butternut squash
+ 0.03% : zucchini
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : shoe shop
+ 0.01% : hook
+ 0.01% : tile roof
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q010.jpg
+98.99% : banana
+ 0.06% : grocery store
+ 0.05% : clog
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.02% : coil
+ 0.01% : hook
+ 0.01% : shoe shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q011.jpg
+99.21% : banana
+ 0.06% : clog
+ 0.05% : grocery store
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q012.jpg
+99.26% : banana
+ 0.06% : grocery store
+ 0.03% : butternut squash
+ 0.03% : clog
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : coil
+ 0.01% : shoe shop
+ 0.01% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q013.jpg
+99.04% : banana
+ 0.06% : grocery store
+ 0.06% : clog
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q014.jpg
+98.98% : banana
+ 0.09% : clog
+ 0.05% : grocery store
+ 0.04% : butternut squash
+ 0.02% : pineapple
+ 0.02% : orange
+ 0.02% : coil
+ 0.02% : zucchini
+ 0.01% : shoe shop
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q015.jpg
+98.96% : banana
+ 0.06% : grocery store
+ 0.05% : clog
+ 0.04% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q016.jpg
+98.88% : banana
+ 0.11% : clog
+ 0.06% : grocery store
+ 0.04% : butternut squash
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.02% : orange
+ 0.01% : shoe shop
+ 0.01% : coil
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q017.jpg
+98.68% : banana
+ 0.11% : clog
+ 0.06% : grocery store
+ 0.04% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.02% : coil
+ 0.01% : shoe shop
+ 0.01% : tile roof
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q018.jpg
+99.02% : banana
+ 0.08% : clog
+ 0.04% : grocery store
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : orange
+ 0.01% : coil
+ 0.01% : shoe shop
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q019.jpg
+98.68% : banana
+ 0.08% : clog
+ 0.06% : grocery store
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : coil
+ 0.01% : shoe shop
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q020.jpg
+98.82% : banana
+ 0.09% : clog
+ 0.05% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q021.jpg
+99.06% : banana
+ 0.08% : clog
+ 0.05% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q022.jpg
+99.08% : banana
+ 0.07% : clog
+ 0.06% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q023.jpg
+98.68% : banana
+ 0.11% : clog
+ 0.07% : grocery store
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.02% : zucchini
+ 0.01% : shoe shop
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q024.jpg
+98.10% : banana
+ 0.22% : clog
+ 0.09% : grocery store
+ 0.04% : butternut squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.02% : zucchini
+ 0.02% : shoe shop
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q025.jpg
+98.70% : banana
+ 0.12% : clog
+ 0.07% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : coil
+ 0.01% : shoe shop
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q026.jpg
+98.47% : banana
+ 0.13% : clog
+ 0.08% : grocery store
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.02% : coil
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : shoe shop
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q027.jpg
+98.83% : banana
+ 0.10% : clog
+ 0.07% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q028.jpg
+98.54% : banana
+ 0.19% : clog
+ 0.07% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q029.jpg
+98.71% : banana
+ 0.17% : clog
+ 0.07% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : coil
+ 0.01% : zucchini
+ 0.01% : shoe shop
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q030.jpg
+98.59% : banana
+ 0.17% : clog
+ 0.08% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.01% : shoe shop
+ 0.01% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q031.jpg
+98.51% : banana
+ 0.18% : clog
+ 0.08% : grocery store
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.01% : shoe shop
+ 0.01% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q032.jpg
+98.37% : banana
+ 0.18% : clog
+ 0.08% : grocery store
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.02% : zucchini
+ 0.01% : shoe shop
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q033.jpg
+98.44% : banana
+ 0.16% : clog
+ 0.08% : grocery store
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : coil
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : shoe shop
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q034.jpg
+98.03% : banana
+ 0.23% : clog
+ 0.10% : grocery store
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.02% : coil
+ 0.02% : zucchini
+ 0.02% : shoe shop
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q035.jpg
+97.76% : banana
+ 0.32% : clog
+ 0.10% : grocery store
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.03% : coil
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q036.jpg
+97.76% : banana
+ 0.29% : clog
+ 0.13% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : butternut squash
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q037.jpg
+97.97% : banana
+ 0.22% : clog
+ 0.12% : grocery store
+ 0.03% : coil
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q038.jpg
+98.44% : banana
+ 0.17% : clog
+ 0.09% : grocery store
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : coil
+ 0.02% : butternut squash
+ 0.02% : zucchini
+ 0.01% : shoe shop
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q039.jpg
+98.24% : banana
+ 0.21% : clog
+ 0.09% : grocery store
+ 0.02% : orange
+ 0.02% : coil
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.02% : zucchini
+ 0.02% : shoe shop
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q040.jpg
+98.05% : banana
+ 0.23% : clog
+ 0.10% : grocery store
+ 0.03% : coil
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q041.jpg
+97.68% : banana
+ 0.30% : clog
+ 0.11% : grocery store
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.02% : shoe shop
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q042.jpg
+97.39% : banana
+ 0.38% : clog
+ 0.13% : grocery store
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q043.jpg
+97.21% : banana
+ 0.41% : clog
+ 0.13% : grocery store
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q044.jpg
+97.98% : banana
+ 0.27% : clog
+ 0.10% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q045.jpg
+97.95% : banana
+ 0.27% : clog
+ 0.10% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q046.jpg
+97.53% : banana
+ 0.33% : clog
+ 0.12% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q047.jpg
+97.49% : banana
+ 0.33% : clog
+ 0.12% : grocery store
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q048.jpg
+97.39% : banana
+ 0.37% : clog
+ 0.13% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q049.jpg
+97.62% : banana
+ 0.36% : clog
+ 0.12% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q050.jpg
+97.61% : banana
+ 0.36% : clog
+ 0.12% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q051.jpg
+97.63% : banana
+ 0.36% : clog
+ 0.12% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q052.jpg
+97.60% : banana
+ 0.30% : clog
+ 0.13% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q053.jpg
+97.50% : banana
+ 0.31% : clog
+ 0.14% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q054.jpg
+97.57% : banana
+ 0.29% : clog
+ 0.13% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q055.jpg
+97.44% : banana
+ 0.37% : clog
+ 0.14% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q056.jpg
+97.56% : banana
+ 0.36% : clog
+ 0.14% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.02% : pineapple
+ 0.02% : shoe shop
+ 0.02% : zucchini
+ 0.01% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q057.jpg
+97.48% : banana
+ 0.38% : clog
+ 0.15% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q058.jpg
+97.04% : banana
+ 0.39% : clog
+ 0.15% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q059.jpg
+96.95% : banana
+ 0.40% : clog
+ 0.15% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q060.jpg
+97.02% : banana
+ 0.38% : clog
+ 0.15% : grocery store
+ 0.03% : orange
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.02% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q061.jpg
+97.19% : banana
+ 0.34% : clog
+ 0.16% : grocery store
+ 0.04% : orange
+ 0.03% : coil
+ 0.03% : pineapple
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.02% : zucchini
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q062.jpg
+96.98% : banana
+ 0.42% : clog
+ 0.17% : grocery store
+ 0.04% : coil
+ 0.04% : orange
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q063.jpg
+97.19% : banana
+ 0.40% : clog
+ 0.16% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.02% : zucchini
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q064.jpg
+96.90% : banana
+ 0.45% : clog
+ 0.18% : grocery store
+ 0.04% : coil
+ 0.04% : orange
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q065.jpg
+96.94% : banana
+ 0.40% : clog
+ 0.16% : grocery store
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.04% : coil
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.03% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q066.jpg
+97.32% : banana
+ 0.37% : clog
+ 0.14% : grocery store
+ 0.03% : butternut squash
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.03% : zucchini
+ 0.01% : steel drum
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q067.jpg
+97.46% : banana
+ 0.34% : clog
+ 0.13% : grocery store
+ 0.03% : butternut squash
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q068.jpg
+96.92% : banana
+ 0.47% : clog
+ 0.15% : grocery store
+ 0.04% : butternut squash
+ 0.04% : coil
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.03% : orange
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q069.jpg
+97.00% : banana
+ 0.46% : clog
+ 0.15% : grocery store
+ 0.04% : coil
+ 0.04% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.03% : orange
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q070.jpg
+97.00% : banana
+ 0.50% : clog
+ 0.15% : grocery store
+ 0.04% : butternut squash
+ 0.03% : coil
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.03% : orange
+ 0.03% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q071.jpg
+97.38% : banana
+ 0.42% : clog
+ 0.14% : grocery store
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q072.jpg
+97.34% : banana
+ 0.42% : clog
+ 0.14% : grocery store
+ 0.03% : butternut squash
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q073.jpg
+97.06% : banana
+ 0.49% : clog
+ 0.16% : grocery store
+ 0.03% : coil
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q074.jpg
+96.51% : banana
+ 0.56% : clog
+ 0.18% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q075.jpg
+96.55% : banana
+ 0.56% : clog
+ 0.18% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q076.jpg
+97.44% : banana
+ 0.37% : clog
+ 0.14% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q077.jpg
+97.38% : banana
+ 0.37% : clog
+ 0.14% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : shoe shop
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q078.jpg
+97.34% : banana
+ 0.39% : clog
+ 0.15% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.03% : butternut squash
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q079.jpg
+97.42% : banana
+ 0.36% : clog
+ 0.14% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.03% : butternut squash
+ 0.02% : zucchini
+ 0.01% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q080.jpg
+97.02% : banana
+ 0.44% : clog
+ 0.16% : grocery store
+ 0.04% : coil
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q081.jpg
+96.91% : banana
+ 0.48% : clog
+ 0.17% : grocery store
+ 0.04% : coil
+ 0.03% : shoe shop
+ 0.03% : butternut squash
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q082.jpg
+97.00% : banana
+ 0.46% : clog
+ 0.17% : grocery store
+ 0.04% : coil
+ 0.03% : shoe shop
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q083.jpg
+97.23% : banana
+ 0.45% : clog
+ 0.15% : grocery store
+ 0.03% : coil
+ 0.03% : shoe shop
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.02% : zucchini
+ 0.02% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q084.jpg
+97.23% : banana
+ 0.43% : clog
+ 0.15% : grocery store
+ 0.03% : coil
+ 0.03% : shoe shop
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : butternut squash
+ 0.02% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q085.jpg
+97.20% : banana
+ 0.41% : clog
+ 0.16% : grocery store
+ 0.03% : coil
+ 0.03% : orange
+ 0.03% : shoe shop
+ 0.03% : pineapple
+ 0.03% : butternut squash
+ 0.02% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q086.jpg
+96.80% : banana
+ 0.51% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q087.jpg
+96.41% : banana
+ 0.61% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q088.jpg
+96.53% : banana
+ 0.57% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q089.jpg
+96.51% : banana
+ 0.57% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.03% : orange
+ 0.03% : butternut squash
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q090.jpg
+96.42% : banana
+ 0.58% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q091.jpg
+96.34% : banana
+ 0.64% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q092.jpg
+96.15% : banana
+ 0.69% : clog
+ 0.20% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : zucchini
+ 0.03% : pineapple
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q093.jpg
+96.04% : banana
+ 0.69% : clog
+ 0.21% : grocery store
+ 0.05% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q094.jpg
+96.32% : banana
+ 0.63% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q095.jpg
+96.55% : banana
+ 0.55% : clog
+ 0.18% : grocery store
+ 0.04% : coil
+ 0.04% : butternut squash
+ 0.04% : shoe shop
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q096.jpg
+96.49% : banana
+ 0.57% : clog
+ 0.18% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q097.jpg
+96.26% : banana
+ 0.63% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q098.jpg
+96.29% : banana
+ 0.61% : clog
+ 0.19% : grocery store
+ 0.04% : coil
+ 0.04% : shoe shop
+ 0.04% : butternut squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q099.jpg
+96.76% : banana
+ 0.56% : clog
+ 0.16% : grocery store
+ 0.04% : coil
+ 0.03% : butternut squash
+ 0.03% : shoe shop
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana13Q100.jpg
+96.44% : banana
+ 0.61% : clog
+ 0.17% : grocery store
+ 0.04% : coil
+ 0.04% : butternut squash
+ 0.04% : shoe shop
+ 0.03% : orange
+ 0.03% : pineapple
+ 0.03% : zucchini
+ 0.02% : amphibian

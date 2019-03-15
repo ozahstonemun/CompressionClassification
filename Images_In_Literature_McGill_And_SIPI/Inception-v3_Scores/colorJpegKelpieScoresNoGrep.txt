@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ001.jpg
+39.09% : kelpie
+21.18% : miniature pinscher
+ 5.70% : Chihuahua
+ 1.89% : German shepherd
+ 1.68% : malinois
+ 1.40% : Doberman
+ 1.39% : schipperke
+ 1.33% : dingo
+ 1.30% : Rottweiler
+ 1.27% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ002.jpg
+39.09% : kelpie
+21.18% : miniature pinscher
+ 5.68% : Chihuahua
+ 1.89% : German shepherd
+ 1.68% : malinois
+ 1.41% : Doberman
+ 1.39% : schipperke
+ 1.33% : dingo
+ 1.30% : Rottweiler
+ 1.28% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ003.jpg
+76.07% : kelpie
+ 2.57% : miniature pinscher
+ 1.26% : dingo
+ 1.25% : German shepherd
+ 1.15% : malinois
+ 1.05% : Doberman
+ 0.80% : schipperke
+ 0.65% : Rottweiler
+ 0.64% : Chihuahua
+ 0.64% : Cardigan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ004.jpg
+86.50% : kelpie
+ 3.86% : miniature pinscher
+ 1.94% : Doberman
+ 0.36% : Rottweiler
+ 0.32% : malinois
+ 0.28% : German shepherd
+ 0.27% : dingo
+ 0.27% : Appenzeller
+ 0.20% : bluetick
+ 0.17% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ005.jpg
+50.68% : kelpie
+24.94% : miniature pinscher
+12.71% : Doberman
+ 2.23% : Rottweiler
+ 0.36% : dingo
+ 0.36% : Appenzeller
+ 0.27% : malinois
+ 0.18% : basenji
+ 0.16% : schipperke
+ 0.15% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ006.jpg
+36.01% : Doberman
+28.92% : miniature pinscher
+19.00% : kelpie
+ 1.09% : Rottweiler
+ 0.67% : toy terrier
+ 0.59% : black-and-tan coonhound
+ 0.42% : Appenzeller
+ 0.36% : dingo
+ 0.28% : malinois
+ 0.17% : German shepherd
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ007.jpg
+51.30% : miniature pinscher
+24.43% : Doberman
+ 8.54% : kelpie
+ 3.20% : Rottweiler
+ 0.51% : toy terrier
+ 0.34% : dingo
+ 0.23% : black-and-tan coonhound
+ 0.22% : basenji
+ 0.21% : American Staffordshire terrier
+ 0.21% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ008.jpg
+43.71% : Doberman
+27.81% : miniature pinscher
+ 3.61% : kelpie
+ 2.73% : Rottweiler
+ 1.29% : malinois
+ 1.21% : Rhodesian ridgeback
+ 0.50% : American Staffordshire terrier
+ 0.49% : Great Dane
+ 0.42% : dingo
+ 0.38% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ009.jpg
+63.54% : miniature pinscher
+17.30% : Doberman
+ 5.89% : kelpie
+ 0.88% : Rottweiler
+ 0.78% : malinois
+ 0.44% : bluetick
+ 0.37% : Chihuahua
+ 0.36% : redbone
+ 0.35% : Appenzeller
+ 0.33% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ010.jpg
+51.33% : miniature pinscher
+26.85% : kelpie
+ 8.57% : Doberman
+ 1.66% : Rottweiler
+ 0.57% : bluetick
+ 0.46% : black-and-tan coonhound
+ 0.40% : malinois
+ 0.33% : Appenzeller
+ 0.30% : dingo
+ 0.29% : redbone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ011.jpg
+56.02% : miniature pinscher
+15.04% : Doberman
+ 9.25% : kelpie
+ 1.27% : Rottweiler
+ 0.72% : redbone
+ 0.60% : bluetick
+ 0.57% : black-and-tan coonhound
+ 0.40% : malinois
+ 0.35% : Appenzeller
+ 0.29% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ012.jpg
+31.91% : miniature pinscher
+13.66% : kelpie
+13.10% : Rottweiler
+ 9.26% : Doberman
+ 1.71% : bluetick
+ 0.83% : black-and-tan coonhound
+ 0.60% : malinois
+ 0.45% : Gordon setter
+ 0.45% : redbone
+ 0.42% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ013.jpg
+81.46% : miniature pinscher
+10.84% : kelpie
+ 1.40% : Doberman
+ 0.58% : Rottweiler
+ 0.38% : Chihuahua
+ 0.22% : toy terrier
+ 0.21% : bluetick
+ 0.16% : schipperke
+ 0.16% : dingo
+ 0.11% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ014.jpg
+32.95% : miniature pinscher
+27.10% : kelpie
+14.69% : Doberman
+ 5.41% : Rottweiler
+ 1.02% : bluetick
+ 0.94% : black-and-tan coonhound
+ 0.47% : toy terrier
+ 0.34% : dingo
+ 0.30% : Appenzeller
+ 0.25% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ015.jpg
+51.87% : kelpie
+16.15% : miniature pinscher
+ 8.11% : Rottweiler
+ 6.36% : Doberman
+ 0.83% : Appenzeller
+ 0.58% : bluetick
+ 0.53% : dingo
+ 0.32% : black-and-tan coonhound
+ 0.22% : basenji
+ 0.21% : schipperke
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ016.jpg
+42.40% : kelpie
+14.98% : Rottweiler
+12.17% : miniature pinscher
+ 7.71% : Doberman
+ 2.75% : bluetick
+ 0.96% : Appenzeller
+ 0.59% : black-and-tan coonhound
+ 0.51% : dingo
+ 0.39% : Gordon setter
+ 0.36% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ017.jpg
+26.13% : miniature pinscher
+20.87% : kelpie
+16.07% : Rottweiler
+ 8.30% : Doberman
+ 1.76% : bluetick
+ 0.87% : Appenzeller
+ 0.59% : black-and-tan coonhound
+ 0.55% : Gordon setter
+ 0.50% : dingo
+ 0.34% : schipperke
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ018.jpg
+48.04% : miniature pinscher
+21.60% : kelpie
+ 9.26% : Doberman
+ 3.06% : Rottweiler
+ 1.06% : bluetick
+ 0.72% : toy terrier
+ 0.47% : black-and-tan coonhound
+ 0.43% : Appenzeller
+ 0.35% : malinois
+ 0.30% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ019.jpg
+31.02% : miniature pinscher
+26.35% : kelpie
+10.89% : Doberman
+ 5.84% : Rottweiler
+ 2.84% : bluetick
+ 0.73% : black-and-tan coonhound
+ 0.63% : malinois
+ 0.52% : toy terrier
+ 0.40% : Appenzeller
+ 0.38% : redbone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ020.jpg
+45.26% : kelpie
+21.88% : miniature pinscher
+ 5.26% : Doberman
+ 4.27% : Rottweiler
+ 3.30% : bluetick
+ 1.35% : malinois
+ 0.56% : dingo
+ 0.49% : toy terrier
+ 0.43% : black-and-tan coonhound
+ 0.38% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ021.jpg
+27.87% : miniature pinscher
+19.46% : kelpie
+ 9.33% : Rottweiler
+ 6.75% : Doberman
+ 5.82% : bluetick
+ 1.55% : malinois
+ 0.64% : black-and-tan coonhound
+ 0.61% : dingo
+ 0.46% : toy terrier
+ 0.41% : German shepherd
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ022.jpg
+35.77% : miniature pinscher
+18.18% : kelpie
+ 9.45% : Doberman
+ 4.91% : Rottweiler
+ 3.94% : bluetick
+ 1.32% : malinois
+ 0.67% : toy terrier
+ 0.56% : black-and-tan coonhound
+ 0.44% : dingo
+ 0.33% : redbone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ023.jpg
+35.95% : miniature pinscher
+22.87% : kelpie
+ 6.53% : Doberman
+ 5.82% : Rottweiler
+ 2.02% : bluetick
+ 1.78% : malinois
+ 0.58% : toy terrier
+ 0.51% : dingo
+ 0.46% : Appenzeller
+ 0.39% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ024.jpg
+43.37% : miniature pinscher
+24.20% : kelpie
+ 4.12% : Rottweiler
+ 3.71% : bluetick
+ 3.65% : Doberman
+ 0.70% : malinois
+ 0.63% : dingo
+ 0.62% : Chihuahua
+ 0.61% : toy terrier
+ 0.49% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ025.jpg
+29.17% : miniature pinscher
+23.31% : kelpie
+ 6.34% : bluetick
+ 5.49% : Doberman
+ 5.21% : Rottweiler
+ 1.36% : Appenzeller
+ 1.29% : malinois
+ 1.00% : dingo
+ 0.91% : basenji
+ 0.74% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ026.jpg
+38.86% : miniature pinscher
+20.46% : kelpie
+ 7.02% : Doberman
+ 2.78% : bluetick
+ 2.31% : Rottweiler
+ 1.77% : Appenzeller
+ 1.34% : basenji
+ 1.01% : dingo
+ 1.00% : malinois
+ 0.61% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ027.jpg
+52.59% : miniature pinscher
+14.07% : kelpie
+ 6.73% : Doberman
+ 2.70% : Rottweiler
+ 1.92% : bluetick
+ 1.09% : malinois
+ 0.88% : Appenzeller
+ 0.73% : basenji
+ 0.60% : toy terrier
+ 0.55% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ028.jpg
+49.66% : miniature pinscher
+19.55% : kelpie
+ 3.33% : Doberman
+ 2.34% : bluetick
+ 1.40% : Rottweiler
+ 1.28% : toy terrier
+ 0.95% : malinois
+ 0.75% : Chihuahua
+ 0.67% : basenji
+ 0.54% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ029.jpg
+41.71% : miniature pinscher
+25.93% : kelpie
+ 4.53% : Doberman
+ 3.01% : bluetick
+ 1.89% : Rottweiler
+ 1.06% : malinois
+ 0.99% : toy terrier
+ 0.57% : Chihuahua
+ 0.50% : Appenzeller
+ 0.49% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ030.jpg
+44.40% : miniature pinscher
+24.70% : kelpie
+ 4.20% : Doberman
+ 1.92% : bluetick
+ 1.79% : Rottweiler
+ 1.32% : toy terrier
+ 0.77% : Chihuahua
+ 0.74% : malinois
+ 0.38% : black-and-tan coonhound
+ 0.35% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ031.jpg
+49.00% : miniature pinscher
+21.24% : kelpie
+ 4.00% : Doberman
+ 1.62% : Rottweiler
+ 1.42% : malinois
+ 1.32% : bluetick
+ 0.75% : toy terrier
+ 0.64% : Chihuahua
+ 0.46% : dingo
+ 0.41% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ032.jpg
+40.18% : kelpie
+29.32% : miniature pinscher
+ 2.71% : Doberman
+ 2.35% : Rottweiler
+ 2.06% : bluetick
+ 0.88% : malinois
+ 0.76% : toy terrier
+ 0.69% : Chihuahua
+ 0.52% : dingo
+ 0.40% : German shepherd
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ033.jpg
+40.04% : miniature pinscher
+30.16% : kelpie
+ 4.28% : Doberman
+ 2.85% : Rottweiler
+ 1.79% : bluetick
+ 1.21% : malinois
+ 0.74% : toy terrier
+ 0.61% : Chihuahua
+ 0.51% : dingo
+ 0.51% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ034.jpg
+47.83% : miniature pinscher
+17.73% : kelpie
+ 6.13% : Doberman
+ 3.09% : Rottweiler
+ 2.51% : bluetick
+ 1.04% : toy terrier
+ 0.59% : Chihuahua
+ 0.59% : basenji
+ 0.58% : malinois
+ 0.55% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ035.jpg
+46.99% : miniature pinscher
+17.14% : kelpie
+ 6.41% : Doberman
+ 4.78% : Rottweiler
+ 1.35% : bluetick
+ 0.89% : Appenzeller
+ 0.70% : toy terrier
+ 0.66% : Chihuahua
+ 0.62% : basenji
+ 0.58% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ036.jpg
+45.08% : miniature pinscher
+16.54% : kelpie
+ 6.10% : Rottweiler
+ 5.76% : Doberman
+ 1.87% : bluetick
+ 0.93% : toy terrier
+ 0.68% : Chihuahua
+ 0.65% : Appenzeller
+ 0.56% : black-and-tan coonhound
+ 0.52% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ037.jpg
+46.99% : miniature pinscher
+13.63% : kelpie
+ 6.95% : Doberman
+ 5.66% : Rottweiler
+ 1.65% : bluetick
+ 0.97% : toy terrier
+ 0.69% : Appenzeller
+ 0.64% : Chihuahua
+ 0.61% : malinois
+ 0.55% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ038.jpg
+38.20% : miniature pinscher
+20.76% : kelpie
+ 6.07% : Doberman
+ 4.54% : Rottweiler
+ 2.51% : bluetick
+ 0.93% : toy terrier
+ 0.89% : malinois
+ 0.83% : Appenzeller
+ 0.58% : basenji
+ 0.58% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ039.jpg
+27.12% : miniature pinscher
+24.46% : kelpie
+ 9.23% : Doberman
+ 6.94% : Rottweiler
+ 3.29% : bluetick
+ 1.11% : malinois
+ 1.00% : Appenzeller
+ 0.60% : dingo
+ 0.59% : black-and-tan coonhound
+ 0.54% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ040.jpg
+33.94% : kelpie
+28.02% : miniature pinscher
+ 6.11% : Doberman
+ 3.67% : bluetick
+ 2.84% : Rottweiler
+ 0.84% : malinois
+ 0.60% : toy terrier
+ 0.59% : dingo
+ 0.57% : Appenzeller
+ 0.42% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ041.jpg
+48.05% : kelpie
+24.23% : miniature pinscher
+ 4.19% : Doberman
+ 1.96% : bluetick
+ 1.86% : Rottweiler
+ 0.71% : malinois
+ 0.56% : dingo
+ 0.56% : toy terrier
+ 0.45% : Appenzeller
+ 0.42% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ042.jpg
+44.99% : kelpie
+25.43% : miniature pinscher
+ 4.47% : Doberman
+ 2.99% : Rottweiler
+ 1.71% : bluetick
+ 0.70% : malinois
+ 0.69% : dingo
+ 0.55% : toy terrier
+ 0.53% : Chihuahua
+ 0.43% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ043.jpg
+37.15% : kelpie
+33.99% : miniature pinscher
+ 5.18% : Doberman
+ 2.72% : Rottweiler
+ 1.34% : bluetick
+ 0.65% : toy terrier
+ 0.58% : malinois
+ 0.55% : dingo
+ 0.55% : Chihuahua
+ 0.34% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ044.jpg
+35.18% : miniature pinscher
+22.69% : kelpie
+ 9.76% : Doberman
+ 6.94% : Rottweiler
+ 1.27% : bluetick
+ 0.78% : malinois
+ 0.57% : toy terrier
+ 0.55% : Appenzeller
+ 0.52% : dingo
+ 0.48% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ045.jpg
+44.88% : miniature pinscher
+19.97% : kelpie
+ 8.59% : Doberman
+ 4.18% : Rottweiler
+ 1.01% : bluetick
+ 0.67% : toy terrier
+ 0.59% : malinois
+ 0.59% : Appenzeller
+ 0.55% : basenji
+ 0.54% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ046.jpg
+35.11% : miniature pinscher
+32.31% : kelpie
+ 8.46% : Doberman
+ 2.83% : Rottweiler
+ 1.43% : bluetick
+ 0.72% : toy terrier
+ 0.57% : malinois
+ 0.50% : Chihuahua
+ 0.49% : dingo
+ 0.45% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ047.jpg
+38.18% : miniature pinscher
+30.51% : kelpie
+ 8.66% : Doberman
+ 1.96% : Rottweiler
+ 1.22% : bluetick
+ 0.76% : toy terrier
+ 0.54% : malinois
+ 0.48% : Chihuahua
+ 0.45% : dingo
+ 0.44% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ048.jpg
+41.00% : miniature pinscher
+26.83% : kelpie
+10.07% : Doberman
+ 1.83% : Rottweiler
+ 1.28% : bluetick
+ 0.82% : toy terrier
+ 0.54% : malinois
+ 0.44% : basenji
+ 0.42% : Chihuahua
+ 0.36% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ049.jpg
+41.63% : kelpie
+28.88% : miniature pinscher
+ 7.23% : Doberman
+ 1.66% : Rottweiler
+ 1.06% : bluetick
+ 0.91% : toy terrier
+ 0.68% : malinois
+ 0.52% : basenji
+ 0.50% : dingo
+ 0.40% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ050.jpg
+36.10% : kelpie
+35.36% : miniature pinscher
+ 6.97% : Doberman
+ 1.58% : Rottweiler
+ 0.99% : bluetick
+ 0.99% : toy terrier
+ 0.60% : malinois
+ 0.52% : basenji
+ 0.47% : Chihuahua
+ 0.47% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ051.jpg
+41.46% : kelpie
+28.16% : miniature pinscher
+ 7.67% : Doberman
+ 2.04% : Rottweiler
+ 1.12% : bluetick
+ 0.87% : toy terrier
+ 0.63% : malinois
+ 0.49% : dingo
+ 0.46% : basenji
+ 0.41% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ052.jpg
+34.28% : miniature pinscher
+32.50% : kelpie
+ 8.00% : Doberman
+ 4.17% : Rottweiler
+ 1.32% : bluetick
+ 0.68% : Appenzeller
+ 0.65% : toy terrier
+ 0.47% : malinois
+ 0.43% : black-and-tan coonhound
+ 0.42% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ053.jpg
+40.92% : kelpie
+24.71% : miniature pinscher
+ 6.33% : Doberman
+ 5.21% : Rottweiler
+ 2.04% : bluetick
+ 0.77% : Appenzeller
+ 0.55% : toy terrier
+ 0.55% : malinois
+ 0.52% : dingo
+ 0.49% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ054.jpg
+42.61% : kelpie
+22.05% : miniature pinscher
+ 6.64% : Doberman
+ 5.89% : Rottweiler
+ 1.89% : bluetick
+ 0.69% : Appenzeller
+ 0.58% : malinois
+ 0.52% : toy terrier
+ 0.51% : dingo
+ 0.48% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ055.jpg
+45.12% : kelpie
+23.88% : miniature pinscher
+ 4.98% : Doberman
+ 2.99% : Rottweiler
+ 2.66% : bluetick
+ 0.66% : toy terrier
+ 0.58% : dingo
+ 0.52% : malinois
+ 0.40% : Appenzeller
+ 0.37% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ056.jpg
+47.93% : kelpie
+22.48% : miniature pinscher
+ 4.91% : Doberman
+ 2.40% : bluetick
+ 2.17% : Rottweiler
+ 0.72% : toy terrier
+ 0.66% : dingo
+ 0.51% : malinois
+ 0.46% : Appenzeller
+ 0.41% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ057.jpg
+46.73% : kelpie
+19.75% : miniature pinscher
+ 5.52% : Doberman
+ 4.48% : Rottweiler
+ 1.95% : bluetick
+ 0.67% : toy terrier
+ 0.67% : dingo
+ 0.51% : malinois
+ 0.45% : black-and-tan coonhound
+ 0.45% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ058.jpg
+40.75% : kelpie
+23.88% : miniature pinscher
+ 7.37% : Doberman
+ 3.37% : Rottweiler
+ 2.06% : bluetick
+ 0.75% : dingo
+ 0.60% : Appenzeller
+ 0.55% : toy terrier
+ 0.54% : basenji
+ 0.51% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ059.jpg
+40.23% : kelpie
+24.93% : miniature pinscher
+ 6.99% : Doberman
+ 3.59% : Rottweiler
+ 1.70% : bluetick
+ 0.71% : dingo
+ 0.67% : Appenzeller
+ 0.60% : toy terrier
+ 0.53% : basenji
+ 0.47% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ060.jpg
+38.26% : kelpie
+21.43% : miniature pinscher
+ 9.86% : Doberman
+ 4.08% : Rottweiler
+ 1.85% : bluetick
+ 0.73% : Appenzeller
+ 0.71% : dingo
+ 0.68% : basenji
+ 0.59% : malinois
+ 0.56% : toy terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ061.jpg
+35.40% : kelpie
+20.28% : miniature pinscher
+ 9.38% : Doberman
+ 5.39% : Rottweiler
+ 1.47% : bluetick
+ 0.89% : malinois
+ 0.71% : dingo
+ 0.65% : toy terrier
+ 0.61% : basenji
+ 0.57% : Appenzeller
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ062.jpg
+30.94% : kelpie
+18.14% : miniature pinscher
+11.41% : Doberman
+ 7.50% : Rottweiler
+ 1.45% : bluetick
+ 0.92% : malinois
+ 0.65% : dingo
+ 0.64% : toy terrier
+ 0.64% : Appenzeller
+ 0.63% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ063.jpg
+29.32% : kelpie
+20.38% : miniature pinscher
+12.85% : Doberman
+ 5.15% : Rottweiler
+ 1.80% : bluetick
+ 0.87% : malinois
+ 0.83% : toy terrier
+ 0.70% : basenji
+ 0.68% : Appenzeller
+ 0.65% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ064.jpg
+31.98% : kelpie
+21.39% : miniature pinscher
+10.45% : Doberman
+ 5.70% : Rottweiler
+ 1.53% : bluetick
+ 0.99% : Appenzeller
+ 0.82% : toy terrier
+ 0.63% : black-and-tan coonhound
+ 0.62% : basenji
+ 0.60% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ065.jpg
+36.20% : kelpie
+18.89% : miniature pinscher
+ 8.78% : Doberman
+ 3.94% : Rottweiler
+ 2.39% : bluetick
+ 1.05% : Appenzeller
+ 0.93% : malinois
+ 0.71% : toy terrier
+ 0.67% : dingo
+ 0.58% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ066.jpg
+33.23% : kelpie
+23.22% : miniature pinscher
+10.31% : Doberman
+ 3.87% : Rottweiler
+ 1.66% : bluetick
+ 1.05% : Appenzeller
+ 0.74% : toy terrier
+ 0.62% : malinois
+ 0.61% : dingo
+ 0.58% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ067.jpg
+35.35% : miniature pinscher
+20.36% : kelpie
+12.69% : Doberman
+ 3.50% : Rottweiler
+ 1.14% : bluetick
+ 1.12% : Appenzeller
+ 0.98% : basenji
+ 0.84% : toy terrier
+ 0.47% : dingo
+ 0.44% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ068.jpg
+34.54% : miniature pinscher
+15.77% : kelpie
+12.14% : Doberman
+ 7.66% : Rottweiler
+ 1.01% : Appenzeller
+ 0.91% : bluetick
+ 0.71% : toy terrier
+ 0.71% : basenji
+ 0.44% : black-and-tan coonhound
+ 0.44% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ069.jpg
+45.26% : miniature pinscher
+12.62% : kelpie
+ 9.52% : Doberman
+ 5.99% : Rottweiler
+ 0.83% : toy terrier
+ 0.73% : Appenzeller
+ 0.68% : bluetick
+ 0.66% : basenji
+ 0.41% : Chihuahua
+ 0.38% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ070.jpg
+41.87% : miniature pinscher
+11.41% : kelpie
+10.07% : Doberman
+ 6.52% : Rottweiler
+ 1.18% : bluetick
+ 0.96% : toy terrier
+ 0.70% : Appenzeller
+ 0.44% : Chihuahua
+ 0.43% : black-and-tan coonhound
+ 0.41% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ071.jpg
+40.73% : miniature pinscher
+12.26% : Doberman
+11.29% : kelpie
+ 7.26% : Rottweiler
+ 1.05% : bluetick
+ 0.81% : Appenzeller
+ 0.80% : toy terrier
+ 0.45% : black-and-tan coonhound
+ 0.45% : basenji
+ 0.39% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ072.jpg
+39.65% : miniature pinscher
+13.69% : kelpie
+10.77% : Doberman
+ 6.10% : Rottweiler
+ 1.32% : bluetick
+ 0.90% : toy terrier
+ 0.82% : Appenzeller
+ 0.55% : basenji
+ 0.46% : Chihuahua
+ 0.42% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ073.jpg
+38.71% : miniature pinscher
+10.53% : kelpie
+ 9.72% : Rottweiler
+ 9.34% : Doberman
+ 0.94% : Appenzeller
+ 0.93% : bluetick
+ 0.71% : toy terrier
+ 0.57% : basenji
+ 0.45% : black-and-tan coonhound
+ 0.43% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ074.jpg
+49.57% : miniature pinscher
+11.08% : kelpie
+ 6.95% : Doberman
+ 4.64% : Rottweiler
+ 0.83% : bluetick
+ 0.76% : Appenzeller
+ 0.74% : toy terrier
+ 0.54% : Chihuahua
+ 0.52% : basenji
+ 0.34% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ075.jpg
+51.24% : miniature pinscher
+ 9.62% : kelpie
+ 6.96% : Doberman
+ 4.69% : Rottweiler
+ 0.78% : bluetick
+ 0.69% : Appenzeller
+ 0.68% : toy terrier
+ 0.49% : basenji
+ 0.48% : Chihuahua
+ 0.31% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ076.jpg
+51.76% : miniature pinscher
+ 9.85% : kelpie
+ 6.07% : Doberman
+ 5.67% : Rottweiler
+ 0.75% : toy terrier
+ 0.68% : bluetick
+ 0.55% : Chihuahua
+ 0.53% : Appenzeller
+ 0.51% : basenji
+ 0.32% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ077.jpg
+46.94% : miniature pinscher
+11.43% : Doberman
+ 7.90% : kelpie
+ 6.80% : Rottweiler
+ 0.68% : Appenzeller
+ 0.66% : basenji
+ 0.64% : toy terrier
+ 0.63% : bluetick
+ 0.39% : Chihuahua
+ 0.30% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ078.jpg
+39.03% : miniature pinscher
+12.02% : Doberman
+ 9.04% : kelpie
+ 8.52% : Rottweiler
+ 0.87% : Appenzeller
+ 0.86% : bluetick
+ 0.80% : toy terrier
+ 0.75% : basenji
+ 0.40% : black-and-tan coonhound
+ 0.37% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ079.jpg
+45.39% : miniature pinscher
+10.40% : Doberman
+ 8.72% : kelpie
+ 4.12% : Rottweiler
+ 1.17% : basenji
+ 0.97% : Appenzeller
+ 0.94% : bluetick
+ 0.88% : toy terrier
+ 0.39% : Chihuahua
+ 0.39% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ080.jpg
+47.30% : miniature pinscher
+12.72% : Doberman
+ 8.91% : kelpie
+ 3.80% : Rottweiler
+ 0.98% : bluetick
+ 0.87% : basenji
+ 0.69% : Appenzeller
+ 0.66% : toy terrier
+ 0.35% : black-and-tan coonhound
+ 0.35% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ081.jpg
+58.22% : miniature pinscher
+12.58% : Doberman
+ 4.49% : kelpie
+ 3.09% : Rottweiler
+ 0.66% : basenji
+ 0.64% : bluetick
+ 0.56% : toy terrier
+ 0.46% : Appenzeller
+ 0.29% : black-and-tan coonhound
+ 0.28% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ082.jpg
+61.71% : miniature pinscher
+ 9.80% : Doberman
+ 4.28% : kelpie
+ 3.25% : Rottweiler
+ 0.62% : toy terrier
+ 0.58% : basenji
+ 0.45% : bluetick
+ 0.39% : Chihuahua
+ 0.38% : Appenzeller
+ 0.25% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ083.jpg
+52.67% : miniature pinscher
+14.25% : Doberman
+ 4.79% : kelpie
+ 4.64% : Rottweiler
+ 0.64% : basenji
+ 0.62% : toy terrier
+ 0.47% : Appenzeller
+ 0.43% : bluetick
+ 0.33% : Chihuahua
+ 0.29% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ084.jpg
+43.58% : miniature pinscher
+14.94% : Doberman
+ 6.25% : kelpie
+ 5.82% : Rottweiler
+ 0.77% : basenji
+ 0.61% : bluetick
+ 0.58% : Appenzeller
+ 0.56% : toy terrier
+ 0.33% : Chihuahua
+ 0.33% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ085.jpg
+46.20% : miniature pinscher
+18.31% : Doberman
+ 4.54% : Rottweiler
+ 4.25% : kelpie
+ 0.76% : basenji
+ 0.60% : bluetick
+ 0.56% : Appenzeller
+ 0.52% : toy terrier
+ 0.34% : black-and-tan coonhound
+ 0.26% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ086.jpg
+46.39% : miniature pinscher
+19.81% : Doberman
+ 3.69% : kelpie
+ 3.34% : Rottweiler
+ 0.78% : basenji
+ 0.68% : bluetick
+ 0.56% : Appenzeller
+ 0.50% : toy terrier
+ 0.32% : black-and-tan coonhound
+ 0.25% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ087.jpg
+42.50% : miniature pinscher
+18.51% : Doberman
+ 5.10% : kelpie
+ 5.10% : Rottweiler
+ 0.86% : bluetick
+ 0.70% : basenji
+ 0.56% : toy terrier
+ 0.45% : Appenzeller
+ 0.38% : black-and-tan coonhound
+ 0.26% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ088.jpg
+38.27% : miniature pinscher
+18.76% : Doberman
+ 6.37% : Rottweiler
+ 4.59% : kelpie
+ 0.94% : basenji
+ 0.74% : bluetick
+ 0.72% : Appenzeller
+ 0.44% : toy terrier
+ 0.35% : malinois
+ 0.34% : black-and-tan coonhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ089.jpg
+32.31% : miniature pinscher
+21.83% : Doberman
+ 9.34% : Rottweiler
+ 5.64% : kelpie
+ 0.67% : basenji
+ 0.63% : Appenzeller
+ 0.56% : bluetick
+ 0.42% : black-and-tan coonhound
+ 0.40% : toy terrier
+ 0.35% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ090.jpg
+30.58% : miniature pinscher
+22.32% : Doberman
+11.96% : Rottweiler
+ 4.39% : kelpie
+ 0.50% : bluetick
+ 0.49% : Appenzeller
+ 0.44% : basenji
+ 0.41% : toy terrier
+ 0.39% : black-and-tan coonhound
+ 0.26% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ091.jpg
+37.71% : miniature pinscher
+24.21% : Doberman
+ 8.16% : Rottweiler
+ 5.50% : kelpie
+ 0.48% : basenji
+ 0.45% : toy terrier
+ 0.44% : Appenzeller
+ 0.38% : bluetick
+ 0.36% : black-and-tan coonhound
+ 0.25% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ092.jpg
+45.49% : miniature pinscher
+18.97% : Doberman
+ 7.38% : Rottweiler
+ 3.43% : kelpie
+ 0.55% : basenji
+ 0.42% : toy terrier
+ 0.40% : Appenzeller
+ 0.26% : bluetick
+ 0.24% : black-and-tan coonhound
+ 0.20% : Chihuahua
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ093.jpg
+35.73% : miniature pinscher
+22.94% : Doberman
+ 8.94% : Rottweiler
+ 4.78% : kelpie
+ 0.50% : basenji
+ 0.42% : Appenzeller
+ 0.37% : toy terrier
+ 0.31% : bluetick
+ 0.31% : black-and-tan coonhound
+ 0.25% : malinois
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ094.jpg
+33.89% : miniature pinscher
+21.30% : Doberman
+ 8.30% : Rottweiler
+ 5.14% : kelpie
+ 0.69% : basenji
+ 0.52% : bluetick
+ 0.51% : Appenzeller
+ 0.45% : toy terrier
+ 0.35% : black-and-tan coonhound
+ 0.30% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ095.jpg
+39.85% : miniature pinscher
+20.38% : Doberman
+ 6.79% : Rottweiler
+ 5.92% : kelpie
+ 0.63% : basenji
+ 0.52% : toy terrier
+ 0.45% : bluetick
+ 0.41% : Appenzeller
+ 0.32% : black-and-tan coonhound
+ 0.24% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ096.jpg
+34.40% : miniature pinscher
+23.07% : Doberman
+ 5.47% : kelpie
+ 4.72% : Rottweiler
+ 1.11% : basenji
+ 0.68% : Appenzeller
+ 0.61% : bluetick
+ 0.52% : toy terrier
+ 0.29% : black-and-tan coonhound
+ 0.28% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ097.jpg
+34.97% : miniature pinscher
+22.30% : Doberman
+ 6.93% : Rottweiler
+ 6.04% : kelpie
+ 0.73% : bluetick
+ 0.73% : basenji
+ 0.53% : Appenzeller
+ 0.49% : toy terrier
+ 0.33% : black-and-tan coonhound
+ 0.26% : Airedale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ098.jpg
+37.00% : miniature pinscher
+21.16% : Doberman
+ 7.35% : Rottweiler
+ 5.68% : kelpie
+ 0.74% : basenji
+ 0.57% : bluetick
+ 0.57% : toy terrier
+ 0.51% : Appenzeller
+ 0.36% : black-and-tan coonhound
+ 0.24% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ099.jpg
+39.68% : miniature pinscher
+24.07% : Doberman
+ 5.49% : Rottweiler
+ 4.78% : kelpie
+ 0.97% : basenji
+ 0.57% : toy terrier
+ 0.50% : bluetick
+ 0.49% : Appenzeller
+ 0.29% : black-and-tan coonhound
+ 0.21% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorKelpieQ100.jpg
+36.48% : miniature pinscher
+24.56% : Doberman
+ 7.10% : Rottweiler
+ 4.90% : kelpie
+ 0.70% : basenji
+ 0.53% : toy terrier
+ 0.48% : bluetick
+ 0.47% : Appenzeller
+ 0.34% : black-and-tan coonhound
+ 0.24% : Airedale

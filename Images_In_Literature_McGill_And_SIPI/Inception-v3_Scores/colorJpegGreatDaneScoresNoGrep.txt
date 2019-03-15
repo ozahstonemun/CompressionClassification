@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ001.jpg
+94.13% : Great Dane
+ 0.69% : kelpie
+ 0.22% : Cardigan
+ 0.11% : German short-haired pointer
+ 0.09% : malinois
+ 0.09% : standard schnauzer
+ 0.08% : Doberman
+ 0.07% : German shepherd
+ 0.07% : English springer
+ 0.06% : Ibizan hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ002.jpg
+93.96% : Great Dane
+ 0.75% : kelpie
+ 0.24% : Cardigan
+ 0.11% : malinois
+ 0.10% : German short-haired pointer
+ 0.09% : Doberman
+ 0.09% : standard schnauzer
+ 0.09% : German shepherd
+ 0.07% : Ibizan hound
+ 0.06% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ003.jpg
+96.99% : Great Dane
+ 0.16% : kelpie
+ 0.15% : Cardigan
+ 0.06% : Ibizan hound
+ 0.05% : German short-haired pointer
+ 0.04% : Doberman
+ 0.04% : malinois
+ 0.03% : American Staffordshire terrier
+ 0.03% : standard schnauzer
+ 0.03% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ004.jpg
+98.47% : Great Dane
+ 0.08% : kelpie
+ 0.05% : American Staffordshire terrier
+ 0.05% : Doberman
+ 0.04% : Cardigan
+ 0.04% : Ibizan hound
+ 0.03% : English springer
+ 0.02% : basenji
+ 0.02% : Greater Swiss Mountain dog
+ 0.02% : giant schnauzer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ005.jpg
+99.21% : Great Dane
+ 0.07% : American Staffordshire terrier
+ 0.03% : Doberman
+ 0.02% : kelpie
+ 0.02% : Ibizan hound
+ 0.02% : Greater Swiss Mountain dog
+ 0.01% : great white shark
+ 0.01% : basenji
+ 0.01% : German short-haired pointer
+ 0.01% : dalmatian
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ006.jpg
+99.63% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.00% : cannon
+ 0.00% : Ibizan hound
+ 0.00% : muzzle
+ 0.00% : English foxhound
+ 0.00% : Greater Swiss Mountain dog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ007.jpg
+98.97% : Great Dane
+ 0.18% : American Staffordshire terrier
+ 0.02% : English foxhound
+ 0.02% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Greater Swiss Mountain dog
+ 0.01% : Ibizan hound
+ 0.01% : boxer
+ 0.01% : basenji
+ 0.01% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ008.jpg
+99.67% : Great Dane
+ 0.04% : American Staffordshire terrier
+ 0.00% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : English foxhound
+ 0.00% : Ibizan hound
+ 0.00% : dalmatian
+ 0.00% : cannon
+ 0.00% : basenji
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ009.jpg
+99.72% : Great Dane
+ 0.04% : American Staffordshire terrier
+ 0.01% : muzzle
+ 0.01% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : dalmatian
+ 0.00% : giant schnauzer
+ 0.00% : cannon
+ 0.00% : Mexican hairless
+ 0.00% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ010.jpg
+99.74% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : muzzle
+ 0.01% : Doberman
+ 0.00% : dalmatian
+ 0.00% : German short-haired pointer
+ 0.00% : cannon
+ 0.00% : giant schnauzer
+ 0.00% : English springer
+ 0.00% : jaguar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ011.jpg
+99.90% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.00% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : muzzle
+ 0.00% : dalmatian
+ 0.00% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : Mexican hairless
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ012.jpg
+99.79% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : Ibizan hound
+ 0.00% : dalmatian
+ 0.00% : bathtub
+ 0.00% : muzzle
+ 0.00% : English foxhound
+ 0.00% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ013.jpg
+99.78% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.00% : Ibizan hound
+ 0.00% : German short-haired pointer
+ 0.00% : English foxhound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : basenji
+ 0.00% : Mexican hairless
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ014.jpg
+99.82% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.00% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : dalmatian
+ 0.00% : muzzle
+ 0.00% : Ibizan hound
+ 0.00% : English foxhound
+ 0.00% : cannon
+ 0.00% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ015.jpg
+99.81% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.00% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : muzzle
+ 0.00% : Ibizan hound
+ 0.00% : dalmatian
+ 0.00% : English foxhound
+ 0.00% : whippet
+ 0.00% : giant schnauzer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ016.jpg
+99.79% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.00% : Doberman
+ 0.00% : dalmatian
+ 0.00% : Ibizan hound
+ 0.00% : English foxhound
+ 0.00% : muzzle
+ 0.00% : English springer
+ 0.00% : whippet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ017.jpg
+99.66% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.00% : Ibizan hound
+ 0.00% : English foxhound
+ 0.00% : muzzle
+ 0.00% : English springer
+ 0.00% : whippet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ018.jpg
+99.64% : Great Dane
+ 0.01% : dalmatian
+ 0.01% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : muzzle
+ 0.00% : cannon
+ 0.00% : jaguar
+ 0.00% : English springer
+ 0.00% : whippet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ019.jpg
+99.65% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : dalmatian
+ 0.01% : muzzle
+ 0.01% : Doberman
+ 0.00% : English springer
+ 0.00% : cannon
+ 0.00% : Ibizan hound
+ 0.00% : jaguar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ020.jpg
+99.40% : Great Dane
+ 0.04% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : muzzle
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : Mexican hairless
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ021.jpg
+99.59% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.00% : muzzle
+ 0.00% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : English foxhound
+ 0.00% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ022.jpg
+99.48% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.02% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : Ibizan hound
+ 0.01% : muzzle
+ 0.01% : English foxhound
+ 0.00% : Rhodesian ridgeback
+ 0.00% : English springer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ023.jpg
+99.51% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : dalmatian
+ 0.01% : muzzle
+ 0.01% : Ibizan hound
+ 0.00% : English springer
+ 0.00% : whippet
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ024.jpg
+99.58% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : muzzle
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : Mexican hairless
+ 0.00% : giant schnauzer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ025.jpg
+99.51% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : muzzle
+ 0.01% : dalmatian
+ 0.00% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : giant schnauzer
+ 0.00% : Mexican hairless
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ026.jpg
+99.58% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : muzzle
+ 0.00% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ027.jpg
+99.44% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : muzzle
+ 0.01% : dalmatian
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : English foxhound
+ 0.00% : giant schnauzer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ028.jpg
+99.31% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : muzzle
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : English foxhound
+ 0.01% : whippet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ029.jpg
+99.40% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : muzzle
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : English foxhound
+ 0.00% : basenji
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ030.jpg
+99.36% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : muzzle
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ031.jpg
+99.49% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : muzzle
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : cannon
+ 0.00% : giant schnauzer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ032.jpg
+99.53% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : muzzle
+ 0.01% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : cannon
+ 0.00% : giant schnauzer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ033.jpg
+99.67% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.00% : muzzle
+ 0.00% : Ibizan hound
+ 0.00% : English springer
+ 0.00% : Mexican hairless
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ034.jpg
+99.59% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : muzzle
+ 0.00% : Ibizan hound
+ 0.00% : English springer
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ035.jpg
+99.61% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : muzzle
+ 0.00% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : Rhodesian ridgeback
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ036.jpg
+99.63% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.00% : muzzle
+ 0.00% : Ibizan hound
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ037.jpg
+99.61% : Great Dane
+ 0.03% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : muzzle
+ 0.00% : English springer
+ 0.00% : whippet
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ038.jpg
+99.69% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ039.jpg
+99.71% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : German short-haired pointer
+ 0.00% : muzzle
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ040.jpg
+99.67% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.00% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ041.jpg
+99.74% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.00% : Ibizan hound
+ 0.00% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ042.jpg
+99.75% : Great Dane
+ 0.01% : dalmatian
+ 0.01% : American Staffordshire terrier
+ 0.00% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ043.jpg
+99.73% : Great Dane
+ 0.01% : dalmatian
+ 0.01% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.00% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ044.jpg
+99.66% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ045.jpg
+99.62% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ046.jpg
+99.62% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : muzzle
+ 0.01% : English springer
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ047.jpg
+99.60% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ048.jpg
+99.56% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ049.jpg
+99.55% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.02% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ050.jpg
+99.57% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ051.jpg
+99.57% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ052.jpg
+99.65% : Great Dane
+ 0.01% : dalmatian
+ 0.01% : American Staffordshire terrier
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ053.jpg
+99.62% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : English springer
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ054.jpg
+99.61% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ055.jpg
+99.70% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ056.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ057.jpg
+99.66% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : English springer
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ058.jpg
+99.60% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ059.jpg
+99.58% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : German short-haired pointer
+ 0.01% : muzzle
+ 0.00% : whippet
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ060.jpg
+99.59% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : German short-haired pointer
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : cannon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ061.jpg
+99.66% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ062.jpg
+99.66% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ063.jpg
+99.64% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.00% : English springer
+ 0.00% : muzzle
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ064.jpg
+99.64% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : whippet
+ 0.00% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ065.jpg
+99.69% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : whippet
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ066.jpg
+99.71% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.00% : German short-haired pointer
+ 0.00% : whippet
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ067.jpg
+99.68% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.00% : German short-haired pointer
+ 0.00% : whippet
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ068.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : whippet
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ069.jpg
+99.64% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : whippet
+ 0.01% : German short-haired pointer
+ 0.00% : English springer
+ 0.00% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ070.jpg
+99.62% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : whippet
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ071.jpg
+99.52% : Great Dane
+ 0.02% : dalmatian
+ 0.02% : American Staffordshire terrier
+ 0.01% : Ibizan hound
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : Irish wolfhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ072.jpg
+99.55% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.02% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : Irish wolfhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ073.jpg
+99.55% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : whippet
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ074.jpg
+99.63% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ075.jpg
+99.66% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.00% : whippet
+ 0.00% : English springer
+ 0.00% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ076.jpg
+99.62% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ077.jpg
+99.56% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : whippet
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ078.jpg
+99.55% : Great Dane
+ 0.02% : dalmatian
+ 0.02% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : whippet
+ 0.01% : English springer
+ 0.01% : Rhodesian ridgeback
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ079.jpg
+99.55% : Great Dane
+ 0.02% : dalmatian
+ 0.02% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : whippet
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ080.jpg
+99.53% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.02% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : whippet
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.01% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ081.jpg
+99.59% : Great Dane
+ 0.01% : dalmatian
+ 0.01% : American Staffordshire terrier
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ082.jpg
+99.57% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ083.jpg
+99.60% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : whippet
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ084.jpg
+99.61% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.01% : whippet
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ085.jpg
+99.60% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.01% : whippet
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ086.jpg
+99.59% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.01% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ087.jpg
+99.60% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : muzzle
+ 0.01% : whippet
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ088.jpg
+99.63% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ089.jpg
+99.62% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ090.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ091.jpg
+99.68% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : Rhodesian ridgeback
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ092.jpg
+99.60% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.01% : muzzle
+ 0.01% : whippet
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ093.jpg
+99.66% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : Walker hound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ094.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ095.jpg
+99.66% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ096.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.00% : whippet
+ 0.00% : English foxhound
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ097.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : Ibizan hound
+ 0.01% : English springer
+ 0.01% : whippet
+ 0.00% : English foxhound
+ 0.00% : muzzle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ098.jpg
+99.65% : Great Dane
+ 0.02% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : Doberman
+ 0.01% : German short-haired pointer
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ099.jpg
+99.67% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorGreatDaneQ100.jpg
+99.67% : Great Dane
+ 0.01% : American Staffordshire terrier
+ 0.01% : dalmatian
+ 0.01% : German short-haired pointer
+ 0.01% : Doberman
+ 0.01% : English springer
+ 0.01% : Ibizan hound
+ 0.00% : whippet
+ 0.00% : muzzle
+ 0.00% : English foxhound

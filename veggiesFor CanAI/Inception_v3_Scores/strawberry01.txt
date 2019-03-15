@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q001.jpg
+80.26% : strawberry
+ 1.83% : throne
+ 1.32% : candle
+ 1.27% : perfume
+ 0.70% : confectionery
+ 0.47% : soap dispenser
+ 0.45% : pop bottle
+ 0.34% : slot
+ 0.28% : lotion
+ 0.28% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q002.jpg
+78.84% : strawberry
+ 2.02% : throne
+ 1.42% : candle
+ 1.24% : perfume
+ 0.82% : confectionery
+ 0.49% : soap dispenser
+ 0.47% : pop bottle
+ 0.38% : slot
+ 0.30% : tray
+ 0.28% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q003.jpg
+84.81% : strawberry
+ 1.02% : candle
+ 0.79% : perfume
+ 0.62% : throne
+ 0.51% : soap dispenser
+ 0.50% : confectionery
+ 0.38% : lotion
+ 0.34% : pop bottle
+ 0.25% : pineapple
+ 0.21% : slot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q004.jpg
+96.03% : strawberry
+ 0.34% : pineapple
+ 0.21% : lotion
+ 0.14% : perfume
+ 0.11% : candle
+ 0.08% : orange
+ 0.08% : chocolate sauce
+ 0.07% : tray
+ 0.07% : packet
+ 0.07% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q005.jpg
+94.29% : strawberry
+ 0.27% : candle
+ 0.22% : meat loaf
+ 0.19% : tray
+ 0.14% : lotion
+ 0.13% : hamper
+ 0.12% : perfume
+ 0.12% : packet
+ 0.10% : pineapple
+ 0.09% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q006.jpg
+90.64% : strawberry
+ 0.85% : tray
+ 0.70% : hamper
+ 0.44% : perfume
+ 0.23% : lotion
+ 0.23% : trifle
+ 0.20% : candle
+ 0.20% : confectionery
+ 0.17% : slot
+ 0.17% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q007.jpg
+97.57% : strawberry
+ 0.17% : tray
+ 0.13% : hamper
+ 0.05% : perfume
+ 0.05% : candle
+ 0.05% : lotion
+ 0.05% : meat loaf
+ 0.04% : chocolate sauce
+ 0.04% : packet
+ 0.03% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q008.jpg
+97.39% : strawberry
+ 0.12% : lotion
+ 0.09% : perfume
+ 0.09% : hamper
+ 0.09% : tray
+ 0.08% : candle
+ 0.08% : packet
+ 0.05% : pineapple
+ 0.05% : confectionery
+ 0.05% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q009.jpg
+96.03% : strawberry
+ 0.16% : lotion
+ 0.15% : perfume
+ 0.13% : tray
+ 0.11% : hamper
+ 0.10% : candle
+ 0.10% : chocolate sauce
+ 0.09% : trifle
+ 0.09% : ice cream
+ 0.08% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q010.jpg
+97.50% : strawberry
+ 0.12% : hamper
+ 0.08% : candle
+ 0.08% : tray
+ 0.08% : lotion
+ 0.07% : packet
+ 0.05% : chocolate sauce
+ 0.05% : pineapple
+ 0.04% : trifle
+ 0.04% : perfume
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q011.jpg
+97.34% : strawberry
+ 0.14% : hamper
+ 0.13% : packet
+ 0.10% : tray
+ 0.10% : lotion
+ 0.07% : candle
+ 0.07% : chocolate sauce
+ 0.06% : perfume
+ 0.05% : Leonberg
+ 0.05% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q012.jpg
+96.13% : strawberry
+ 0.21% : packet
+ 0.16% : tray
+ 0.15% : hamper
+ 0.14% : lotion
+ 0.09% : candle
+ 0.09% : chocolate sauce
+ 0.08% : perfume
+ 0.08% : confectionery
+ 0.06% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q013.jpg
+95.17% : strawberry
+ 0.23% : lotion
+ 0.22% : packet
+ 0.19% : candle
+ 0.16% : perfume
+ 0.15% : tray
+ 0.13% : hamper
+ 0.09% : chocolate sauce
+ 0.08% : pineapple
+ 0.08% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q014.jpg
+97.87% : strawberry
+ 0.11% : lotion
+ 0.09% : packet
+ 0.08% : tray
+ 0.06% : hamper
+ 0.06% : chocolate sauce
+ 0.05% : candle
+ 0.05% : perfume
+ 0.04% : Leonberg
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q015.jpg
+98.07% : strawberry
+ 0.11% : lotion
+ 0.07% : tray
+ 0.06% : hamper
+ 0.05% : perfume
+ 0.05% : candle
+ 0.05% : packet
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q016.jpg
+97.35% : strawberry
+ 0.11% : lotion
+ 0.10% : packet
+ 0.09% : tray
+ 0.08% : hamper
+ 0.07% : perfume
+ 0.06% : candle
+ 0.05% : pineapple
+ 0.05% : chocolate sauce
+ 0.04% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q017.jpg
+98.21% : strawberry
+ 0.10% : packet
+ 0.09% : lotion
+ 0.06% : chocolate sauce
+ 0.05% : tray
+ 0.04% : candle
+ 0.04% : hamper
+ 0.04% : perfume
+ 0.04% : pineapple
+ 0.03% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q018.jpg
+97.61% : strawberry
+ 0.11% : packet
+ 0.11% : lotion
+ 0.07% : hamper
+ 0.06% : perfume
+ 0.06% : candle
+ 0.06% : chocolate sauce
+ 0.06% : tray
+ 0.05% : pineapple
+ 0.04% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q019.jpg
+98.06% : strawberry
+ 0.11% : lotion
+ 0.08% : packet
+ 0.06% : tray
+ 0.05% : chocolate sauce
+ 0.05% : perfume
+ 0.04% : hamper
+ 0.04% : pineapple
+ 0.04% : candle
+ 0.03% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q020.jpg
+98.14% : strawberry
+ 0.09% : lotion
+ 0.08% : packet
+ 0.06% : tray
+ 0.04% : candle
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : hamper
+ 0.03% : perfume
+ 0.03% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q021.jpg
+98.26% : strawberry
+ 0.09% : packet
+ 0.07% : lotion
+ 0.05% : tray
+ 0.05% : chocolate sauce
+ 0.05% : candle
+ 0.03% : pineapple
+ 0.03% : Leonberg
+ 0.03% : strainer
+ 0.03% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q022.jpg
+97.32% : strawberry
+ 0.10% : packet
+ 0.09% : lotion
+ 0.07% : chocolate sauce
+ 0.06% : candle
+ 0.06% : tray
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : Leonberg
+ 0.04% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q023.jpg
+97.75% : strawberry
+ 0.10% : packet
+ 0.09% : lotion
+ 0.07% : tray
+ 0.06% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : candle
+ 0.04% : Leonberg
+ 0.04% : pineapple
+ 0.04% : perfume
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q024.jpg
+97.88% : strawberry
+ 0.07% : packet
+ 0.06% : lotion
+ 0.05% : tray
+ 0.05% : candle
+ 0.04% : chocolate sauce
+ 0.04% : Leonberg
+ 0.04% : hamper
+ 0.03% : pineapple
+ 0.03% : perfume
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q025.jpg
+98.25% : strawberry
+ 0.08% : packet
+ 0.08% : lotion
+ 0.05% : tray
+ 0.05% : candle
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.03% : pineapple
+ 0.03% : Leonberg
+ 0.03% : perfume
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q026.jpg
+97.85% : strawberry
+ 0.09% : candle
+ 0.08% : lotion
+ 0.08% : packet
+ 0.07% : hamper
+ 0.07% : tray
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : perfume
+ 0.04% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q027.jpg
+97.98% : strawberry
+ 0.08% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.06% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : perfume
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q028.jpg
+97.85% : strawberry
+ 0.09% : packet
+ 0.09% : lotion
+ 0.08% : tray
+ 0.07% : candle
+ 0.06% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : perfume
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q029.jpg
+97.51% : strawberry
+ 0.12% : lotion
+ 0.11% : packet
+ 0.09% : tray
+ 0.07% : candle
+ 0.07% : hamper
+ 0.05% : perfume
+ 0.05% : chocolate sauce
+ 0.05% : pineapple
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q030.jpg
+97.50% : strawberry
+ 0.10% : packet
+ 0.10% : lotion
+ 0.07% : candle
+ 0.07% : tray
+ 0.06% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : perfume
+ 0.04% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q031.jpg
+98.29% : strawberry
+ 0.06% : packet
+ 0.06% : lotion
+ 0.06% : candle
+ 0.05% : tray
+ 0.04% : hamper
+ 0.04% : pineapple
+ 0.03% : chocolate sauce
+ 0.03% : banana
+ 0.03% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q032.jpg
+97.65% : strawberry
+ 0.11% : lotion
+ 0.11% : packet
+ 0.08% : candle
+ 0.07% : tray
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q033.jpg
+98.04% : strawberry
+ 0.09% : packet
+ 0.07% : tray
+ 0.07% : lotion
+ 0.06% : hamper
+ 0.05% : candle
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q034.jpg
+97.70% : strawberry
+ 0.10% : packet
+ 0.10% : tray
+ 0.09% : lotion
+ 0.07% : hamper
+ 0.06% : candle
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : perfume
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q035.jpg
+97.63% : strawberry
+ 0.11% : packet
+ 0.11% : tray
+ 0.09% : lotion
+ 0.07% : hamper
+ 0.07% : candle
+ 0.05% : perfume
+ 0.04% : pineapple
+ 0.04% : chocolate sauce
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q036.jpg
+98.01% : strawberry
+ 0.10% : packet
+ 0.07% : tray
+ 0.07% : lotion
+ 0.06% : hamper
+ 0.05% : candle
+ 0.04% : chocolate sauce
+ 0.04% : perfume
+ 0.04% : pineapple
+ 0.03% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q037.jpg
+98.18% : strawberry
+ 0.09% : packet
+ 0.07% : tray
+ 0.06% : lotion
+ 0.05% : hamper
+ 0.05% : candle
+ 0.04% : chocolate sauce
+ 0.03% : pineapple
+ 0.03% : perfume
+ 0.03% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q038.jpg
+97.73% : strawberry
+ 0.12% : packet
+ 0.11% : tray
+ 0.08% : lotion
+ 0.06% : hamper
+ 0.06% : candle
+ 0.05% : perfume
+ 0.04% : strainer
+ 0.04% : confectionery
+ 0.04% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q039.jpg
+97.92% : strawberry
+ 0.11% : tray
+ 0.09% : packet
+ 0.08% : lotion
+ 0.05% : candle
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : perfume
+ 0.03% : pineapple
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q040.jpg
+97.97% : strawberry
+ 0.09% : tray
+ 0.08% : packet
+ 0.07% : lotion
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : perfume
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q041.jpg
+97.81% : strawberry
+ 0.08% : lotion
+ 0.08% : tray
+ 0.07% : packet
+ 0.06% : candle
+ 0.04% : chocolate sauce
+ 0.04% : hamper
+ 0.04% : perfume
+ 0.04% : strainer
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q042.jpg
+97.49% : strawberry
+ 0.12% : lotion
+ 0.10% : packet
+ 0.08% : tray
+ 0.07% : candle
+ 0.05% : perfume
+ 0.05% : chocolate sauce
+ 0.05% : hamper
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q043.jpg
+97.57% : strawberry
+ 0.11% : lotion
+ 0.08% : packet
+ 0.08% : tray
+ 0.07% : candle
+ 0.05% : perfume
+ 0.05% : chocolate sauce
+ 0.05% : hamper
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q044.jpg
+97.32% : strawberry
+ 0.11% : lotion
+ 0.10% : packet
+ 0.08% : candle
+ 0.08% : tray
+ 0.06% : perfume
+ 0.05% : hamper
+ 0.05% : chocolate sauce
+ 0.05% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q045.jpg
+97.18% : strawberry
+ 0.12% : lotion
+ 0.11% : packet
+ 0.08% : tray
+ 0.08% : candle
+ 0.06% : hamper
+ 0.06% : perfume
+ 0.06% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q046.jpg
+97.74% : strawberry
+ 0.11% : lotion
+ 0.09% : packet
+ 0.07% : candle
+ 0.07% : tray
+ 0.05% : perfume
+ 0.05% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q047.jpg
+97.89% : strawberry
+ 0.09% : lotion
+ 0.08% : packet
+ 0.07% : tray
+ 0.07% : candle
+ 0.05% : perfume
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q048.jpg
+98.06% : strawberry
+ 0.09% : lotion
+ 0.07% : packet
+ 0.06% : candle
+ 0.06% : tray
+ 0.05% : perfume
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q049.jpg
+97.79% : strawberry
+ 0.10% : lotion
+ 0.08% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q050.jpg
+97.78% : strawberry
+ 0.10% : lotion
+ 0.08% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q051.jpg
+97.79% : strawberry
+ 0.10% : lotion
+ 0.08% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q052.jpg
+97.92% : strawberry
+ 0.10% : lotion
+ 0.10% : packet
+ 0.06% : tray
+ 0.06% : candle
+ 0.05% : perfume
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : banana
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q053.jpg
+97.43% : strawberry
+ 0.12% : packet
+ 0.12% : lotion
+ 0.08% : tray
+ 0.07% : candle
+ 0.06% : perfume
+ 0.06% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q054.jpg
+97.45% : strawberry
+ 0.12% : packet
+ 0.12% : lotion
+ 0.08% : tray
+ 0.07% : candle
+ 0.06% : perfume
+ 0.05% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q055.jpg
+97.11% : strawberry
+ 0.15% : lotion
+ 0.14% : packet
+ 0.10% : tray
+ 0.08% : candle
+ 0.08% : perfume
+ 0.08% : hamper
+ 0.05% : chocolate sauce
+ 0.05% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q056.jpg
+97.42% : strawberry
+ 0.14% : lotion
+ 0.13% : packet
+ 0.09% : tray
+ 0.07% : candle
+ 0.07% : perfume
+ 0.06% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q057.jpg
+97.37% : strawberry
+ 0.16% : lotion
+ 0.12% : packet
+ 0.08% : tray
+ 0.07% : candle
+ 0.07% : perfume
+ 0.06% : hamper
+ 0.05% : chocolate sauce
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q058.jpg
+97.84% : strawberry
+ 0.11% : lotion
+ 0.09% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : hamper
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q059.jpg
+97.80% : strawberry
+ 0.11% : lotion
+ 0.09% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : hamper
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q060.jpg
+97.78% : strawberry
+ 0.12% : lotion
+ 0.09% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.06% : perfume
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q061.jpg
+98.10% : strawberry
+ 0.08% : lotion
+ 0.07% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.04% : hamper
+ 0.04% : perfume
+ 0.04% : banana
+ 0.03% : chocolate sauce
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q062.jpg
+97.89% : strawberry
+ 0.09% : lotion
+ 0.08% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.04% : perfume
+ 0.04% : hamper
+ 0.04% : banana
+ 0.04% : chocolate sauce
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q063.jpg
+97.80% : strawberry
+ 0.09% : lotion
+ 0.09% : packet
+ 0.07% : tray
+ 0.07% : candle
+ 0.04% : perfume
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q064.jpg
+97.71% : strawberry
+ 0.09% : lotion
+ 0.08% : tray
+ 0.08% : packet
+ 0.07% : candle
+ 0.05% : perfume
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : pineapple
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q065.jpg
+97.83% : strawberry
+ 0.08% : packet
+ 0.08% : lotion
+ 0.08% : tray
+ 0.06% : candle
+ 0.04% : perfume
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.03% : strainer
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q066.jpg
+97.89% : strawberry
+ 0.08% : packet
+ 0.07% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.04% : perfume
+ 0.04% : hamper
+ 0.04% : pineapple
+ 0.03% : chocolate sauce
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q067.jpg
+98.33% : strawberry
+ 0.07% : tray
+ 0.06% : packet
+ 0.06% : lotion
+ 0.05% : candle
+ 0.03% : hamper
+ 0.03% : chocolate sauce
+ 0.03% : pineapple
+ 0.03% : perfume
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q068.jpg
+98.26% : strawberry
+ 0.06% : tray
+ 0.06% : packet
+ 0.06% : lotion
+ 0.05% : candle
+ 0.04% : hamper
+ 0.03% : perfume
+ 0.03% : chocolate sauce
+ 0.03% : pineapple
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q069.jpg
+98.11% : strawberry
+ 0.07% : tray
+ 0.07% : lotion
+ 0.06% : packet
+ 0.05% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.03% : chocolate sauce
+ 0.03% : banana
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q070.jpg
+98.07% : strawberry
+ 0.08% : tray
+ 0.07% : lotion
+ 0.07% : packet
+ 0.05% : candle
+ 0.04% : hamper
+ 0.04% : perfume
+ 0.03% : chocolate sauce
+ 0.03% : banana
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q071.jpg
+97.91% : strawberry
+ 0.08% : lotion
+ 0.08% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.03% : chocolate sauce
+ 0.03% : banana
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q072.jpg
+97.81% : strawberry
+ 0.10% : packet
+ 0.09% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : strainer
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q073.jpg
+97.87% : strawberry
+ 0.09% : lotion
+ 0.09% : packet
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : strainer
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q074.jpg
+97.96% : strawberry
+ 0.09% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.03% : perfume
+ 0.03% : banana
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q075.jpg
+97.92% : strawberry
+ 0.09% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : hamper
+ 0.06% : candle
+ 0.04% : chocolate sauce
+ 0.04% : perfume
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q076.jpg
+97.91% : strawberry
+ 0.10% : packet
+ 0.08% : lotion
+ 0.06% : tray
+ 0.05% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : banana
+ 0.03% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q077.jpg
+97.76% : strawberry
+ 0.13% : packet
+ 0.09% : lotion
+ 0.06% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : confectionery
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q078.jpg
+97.87% : strawberry
+ 0.12% : packet
+ 0.09% : lotion
+ 0.06% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : strainer
+ 0.03% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q079.jpg
+97.49% : strawberry
+ 0.15% : packet
+ 0.11% : lotion
+ 0.07% : tray
+ 0.07% : candle
+ 0.05% : perfume
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : iPod
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q080.jpg
+97.67% : strawberry
+ 0.14% : packet
+ 0.10% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : strainer
+ 0.03% : iPod
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q081.jpg
+97.50% : strawberry
+ 0.15% : packet
+ 0.09% : lotion
+ 0.07% : tray
+ 0.07% : candle
+ 0.06% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q082.jpg
+97.67% : strawberry
+ 0.14% : packet
+ 0.09% : lotion
+ 0.07% : candle
+ 0.06% : tray
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q083.jpg
+97.60% : strawberry
+ 0.13% : packet
+ 0.10% : lotion
+ 0.07% : tray
+ 0.07% : candle
+ 0.06% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q084.jpg
+97.52% : strawberry
+ 0.13% : packet
+ 0.11% : lotion
+ 0.07% : candle
+ 0.07% : tray
+ 0.06% : hamper
+ 0.06% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : strainer
+ 0.04% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q085.jpg
+97.31% : strawberry
+ 0.15% : packet
+ 0.11% : lotion
+ 0.08% : tray
+ 0.08% : candle
+ 0.06% : perfume
+ 0.06% : hamper
+ 0.04% : confectionery
+ 0.04% : chocolate sauce
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q086.jpg
+97.39% : strawberry
+ 0.12% : packet
+ 0.11% : lotion
+ 0.08% : tray
+ 0.08% : candle
+ 0.06% : perfume
+ 0.06% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q087.jpg
+97.42% : strawberry
+ 0.13% : packet
+ 0.10% : lotion
+ 0.08% : tray
+ 0.07% : candle
+ 0.06% : perfume
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : iPod
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q088.jpg
+97.61% : strawberry
+ 0.10% : packet
+ 0.10% : lotion
+ 0.07% : tray
+ 0.07% : candle
+ 0.05% : perfume
+ 0.05% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : iPod
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q089.jpg
+97.73% : strawberry
+ 0.10% : packet
+ 0.09% : lotion
+ 0.07% : tray
+ 0.07% : candle
+ 0.05% : perfume
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q090.jpg
+97.90% : strawberry
+ 0.09% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q091.jpg
+97.77% : strawberry
+ 0.11% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.04% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q092.jpg
+97.83% : strawberry
+ 0.10% : packet
+ 0.07% : tray
+ 0.07% : lotion
+ 0.06% : candle
+ 0.04% : hamper
+ 0.04% : chocolate sauce
+ 0.04% : perfume
+ 0.04% : banana
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q093.jpg
+97.54% : strawberry
+ 0.14% : packet
+ 0.09% : lotion
+ 0.08% : tray
+ 0.07% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q094.jpg
+97.92% : strawberry
+ 0.12% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : confectionery
+ 0.04% : chocolate sauce
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q095.jpg
+97.85% : strawberry
+ 0.12% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q096.jpg
+97.80% : strawberry
+ 0.11% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q097.jpg
+97.84% : strawberry
+ 0.11% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.04% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q098.jpg
+97.70% : strawberry
+ 0.14% : packet
+ 0.09% : lotion
+ 0.08% : tray
+ 0.06% : candle
+ 0.05% : perfume
+ 0.05% : hamper
+ 0.04% : confectionery
+ 0.04% : chocolate sauce
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q099.jpg
+97.83% : strawberry
+ 0.11% : packet
+ 0.08% : lotion
+ 0.08% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : chocolate sauce
+ 0.04% : confectionery
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry1Q100.jpg
+97.83% : strawberry
+ 0.12% : packet
+ 0.08% : lotion
+ 0.07% : tray
+ 0.06% : candle
+ 0.05% : hamper
+ 0.05% : perfume
+ 0.04% : confectionery
+ 0.04% : chocolate sauce
+ 0.03% : banana

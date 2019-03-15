@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q001.jpg
+13.89% : strawberry
+10.66% : acorn
+ 9.21% : buckeye
+ 3.73% : maraca
+ 3.63% : pineapple
+ 2.53% : fig
+ 1.69% : custard apple
+ 1.61% : hip
+ 1.39% : grocery store
+ 1.15% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q002.jpg
+13.97% : strawberry
+10.71% : acorn
+ 8.67% : buckeye
+ 3.83% : maraca
+ 3.69% : pineapple
+ 2.55% : fig
+ 1.69% : custard apple
+ 1.60% : hip
+ 1.39% : grocery store
+ 1.17% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q003.jpg
+17.13% : strawberry
+12.18% : acorn
+ 8.04% : buckeye
+ 5.89% : maraca
+ 3.88% : pineapple
+ 2.05% : fig
+ 1.32% : custard apple
+ 1.15% : hip
+ 1.09% : French loaf
+ 0.96% : earthstar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q004.jpg
+31.22% : custard apple
+ 4.83% : strawberry
+ 3.91% : buckeye
+ 3.58% : earthstar
+ 2.99% : mushroom
+ 2.54% : hen-of-the-woods
+ 1.80% : pineapple
+ 1.72% : jackfruit
+ 1.55% : acorn
+ 1.46% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q005.jpg
+23.28% : hen-of-the-woods
+15.44% : mushroom
+ 7.19% : earthstar
+ 2.92% : gyromitra
+ 2.19% : brain coral
+ 2.10% : jackfruit
+ 1.66% : stinkhorn
+ 1.54% : head cabbage
+ 1.29% : cauliflower
+ 1.18% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q006.jpg
+10.94% : mushroom
+ 6.33% : hen-of-the-woods
+ 5.62% : grocery store
+ 3.66% : strainer
+ 2.75% : earthstar
+ 2.71% : lemon
+ 2.15% : cauliflower
+ 2.12% : head cabbage
+ 1.81% : cucumber
+ 1.80% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q007.jpg
+47.89% : mushroom
+27.13% : hen-of-the-woods
+ 6.91% : earthstar
+ 1.00% : grocery store
+ 0.72% : strainer
+ 0.69% : mashed potato
+ 0.57% : gyromitra
+ 0.51% : stinkhorn
+ 0.44% : sea urchin
+ 0.42% : bolete
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q008.jpg
+56.18% : mushroom
+12.38% : hen-of-the-woods
+ 2.41% : strainer
+ 2.33% : earthstar
+ 1.25% : frying pan
+ 1.16% : mashed potato
+ 1.10% : grocery store
+ 0.86% : French loaf
+ 0.69% : wok
+ 0.63% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q009.jpg
+51.10% : mushroom
+23.84% : hen-of-the-woods
+ 2.03% : strainer
+ 1.93% : earthstar
+ 1.22% : mashed potato
+ 0.71% : French loaf
+ 0.64% : grocery store
+ 0.60% : frying pan
+ 0.52% : bolete
+ 0.46% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q010.jpg
+41.44% : mushroom
+15.06% : hen-of-the-woods
+ 4.14% : mashed potato
+ 3.53% : strainer
+ 2.12% : earthstar
+ 1.74% : frying pan
+ 1.20% : French loaf
+ 1.01% : meat loaf
+ 0.91% : grocery store
+ 0.70% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q011.jpg
+41.52% : mushroom
+11.74% : hen-of-the-woods
+ 5.63% : mashed potato
+ 4.48% : strainer
+ 3.79% : frying pan
+ 1.86% : earthstar
+ 1.39% : meat loaf
+ 1.01% : spatula
+ 0.99% : grocery store
+ 0.99% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q012.jpg
+59.14% : mushroom
+13.44% : hen-of-the-woods
+ 2.47% : mashed potato
+ 2.13% : earthstar
+ 1.87% : frying pan
+ 1.83% : strainer
+ 0.71% : bolete
+ 0.62% : wok
+ 0.61% : spatula
+ 0.59% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q013.jpg
+65.74% : mushroom
+12.60% : hen-of-the-woods
+ 1.69% : earthstar
+ 1.44% : strainer
+ 1.43% : bolete
+ 1.30% : mashed potato
+ 1.29% : frying pan
+ 0.46% : bagel
+ 0.40% : French loaf
+ 0.39% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q014.jpg
+56.17% : mushroom
+24.88% : hen-of-the-woods
+ 2.27% : earthstar
+ 1.33% : mashed potato
+ 1.14% : bolete
+ 0.76% : strainer
+ 0.71% : gyromitra
+ 0.51% : bagel
+ 0.45% : frying pan
+ 0.44% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q015.jpg
+57.97% : mushroom
+19.76% : hen-of-the-woods
+ 2.14% : earthstar
+ 1.71% : mashed potato
+ 1.66% : bolete
+ 0.94% : gyromitra
+ 0.86% : frying pan
+ 0.74% : strainer
+ 0.57% : dough
+ 0.49% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q016.jpg
+45.52% : mushroom
+24.38% : hen-of-the-woods
+ 2.28% : earthstar
+ 1.90% : bolete
+ 1.89% : mashed potato
+ 1.29% : strainer
+ 1.05% : frying pan
+ 0.95% : gyromitra
+ 0.84% : rotisserie
+ 0.64% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q017.jpg
+55.26% : mushroom
+13.31% : hen-of-the-woods
+ 2.10% : strainer
+ 1.72% : earthstar
+ 1.72% : mashed potato
+ 1.56% : frying pan
+ 0.95% : rotisserie
+ 0.77% : bolete
+ 0.68% : wok
+ 0.68% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q018.jpg
+51.88% : mushroom
+19.16% : hen-of-the-woods
+ 1.67% : mashed potato
+ 1.61% : earthstar
+ 1.59% : strainer
+ 1.31% : frying pan
+ 0.88% : bagel
+ 0.81% : bolete
+ 0.79% : dough
+ 0.69% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q019.jpg
+53.99% : mushroom
+20.02% : hen-of-the-woods
+ 2.16% : earthstar
+ 1.98% : bolete
+ 1.22% : mashed potato
+ 0.74% : frying pan
+ 0.69% : strainer
+ 0.67% : dough
+ 0.67% : gyromitra
+ 0.64% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q020.jpg
+53.60% : mushroom
+13.51% : hen-of-the-woods
+ 1.92% : mashed potato
+ 1.91% : frying pan
+ 1.48% : strainer
+ 1.39% : earthstar
+ 1.34% : bagel
+ 1.33% : bolete
+ 1.06% : rotisserie
+ 0.86% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q021.jpg
+63.39% : mushroom
+16.24% : hen-of-the-woods
+ 1.57% : bolete
+ 1.28% : earthstar
+ 0.81% : frying pan
+ 0.76% : mashed potato
+ 0.73% : strainer
+ 0.62% : bagel
+ 0.58% : rotisserie
+ 0.54% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q022.jpg
+67.45% : mushroom
+14.15% : hen-of-the-woods
+ 1.75% : bolete
+ 1.16% : earthstar
+ 0.91% : frying pan
+ 0.84% : mashed potato
+ 0.74% : bagel
+ 0.57% : strainer
+ 0.52% : rotisserie
+ 0.43% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q023.jpg
+61.91% : mushroom
+17.58% : hen-of-the-woods
+ 1.45% : bolete
+ 1.29% : earthstar
+ 0.93% : bagel
+ 0.84% : mashed potato
+ 0.69% : strainer
+ 0.67% : frying pan
+ 0.53% : rotisserie
+ 0.50% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q024.jpg
+54.11% : mushroom
+12.98% : hen-of-the-woods
+ 1.83% : earthstar
+ 1.60% : bolete
+ 1.56% : mashed potato
+ 1.28% : strainer
+ 1.18% : bagel
+ 1.13% : frying pan
+ 0.84% : rotisserie
+ 0.80% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q025.jpg
+55.13% : mushroom
+16.52% : hen-of-the-woods
+ 1.59% : earthstar
+ 1.58% : mashed potato
+ 1.22% : frying pan
+ 1.21% : strainer
+ 1.20% : bolete
+ 0.95% : bagel
+ 0.77% : rotisserie
+ 0.76% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q026.jpg
+61.27% : mushroom
+16.43% : hen-of-the-woods
+ 1.49% : earthstar
+ 1.29% : bolete
+ 1.10% : mashed potato
+ 0.94% : strainer
+ 0.83% : frying pan
+ 0.80% : bagel
+ 0.55% : tray
+ 0.52% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q027.jpg
+59.10% : mushroom
+18.46% : hen-of-the-woods
+ 1.45% : earthstar
+ 1.18% : mashed potato
+ 1.09% : strainer
+ 1.07% : bolete
+ 0.79% : frying pan
+ 0.78% : bagel
+ 0.62% : gyromitra
+ 0.59% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q028.jpg
+53.02% : mushroom
+15.88% : hen-of-the-woods
+ 1.59% : mashed potato
+ 1.53% : earthstar
+ 1.53% : bolete
+ 1.37% : strainer
+ 1.16% : frying pan
+ 1.12% : bagel
+ 0.86% : rotisserie
+ 0.84% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q029.jpg
+51.03% : mushroom
+17.21% : hen-of-the-woods
+ 1.92% : mashed potato
+ 1.59% : bolete
+ 1.35% : earthstar
+ 1.30% : bagel
+ 1.18% : frying pan
+ 1.18% : rotisserie
+ 1.04% : strainer
+ 0.94% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q030.jpg
+47.56% : mushroom
+16.65% : hen-of-the-woods
+ 1.96% : mashed potato
+ 1.66% : bolete
+ 1.63% : earthstar
+ 1.43% : bagel
+ 1.35% : frying pan
+ 1.07% : rotisserie
+ 1.07% : dough
+ 1.07% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q031.jpg
+56.13% : mushroom
+20.81% : hen-of-the-woods
+ 1.58% : earthstar
+ 1.55% : bolete
+ 1.03% : mashed potato
+ 0.94% : bagel
+ 0.74% : frying pan
+ 0.66% : gyromitra
+ 0.63% : rotisserie
+ 0.61% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q032.jpg
+52.75% : mushroom
+19.29% : hen-of-the-woods
+ 1.77% : earthstar
+ 1.72% : bolete
+ 1.31% : mashed potato
+ 1.14% : bagel
+ 1.01% : gyromitra
+ 0.88% : frying pan
+ 0.84% : strainer
+ 0.79% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q033.jpg
+48.83% : mushroom
+16.55% : hen-of-the-woods
+ 2.13% : mashed potato
+ 1.51% : earthstar
+ 1.45% : bagel
+ 1.38% : strainer
+ 1.33% : bolete
+ 1.33% : frying pan
+ 1.16% : rotisserie
+ 0.88% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q034.jpg
+54.61% : mushroom
+16.48% : hen-of-the-woods
+ 1.49% : earthstar
+ 1.48% : mashed potato
+ 1.34% : bolete
+ 1.23% : bagel
+ 1.00% : strainer
+ 0.90% : frying pan
+ 0.82% : rotisserie
+ 0.82% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q035.jpg
+57.07% : mushroom
+17.21% : hen-of-the-woods
+ 1.56% : bolete
+ 1.54% : earthstar
+ 1.38% : mashed potato
+ 1.05% : frying pan
+ 0.92% : bagel
+ 0.77% : strainer
+ 0.75% : gyromitra
+ 0.69% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q036.jpg
+56.74% : mushroom
+13.51% : hen-of-the-woods
+ 1.63% : mashed potato
+ 1.54% : bolete
+ 1.41% : earthstar
+ 1.29% : bagel
+ 1.29% : frying pan
+ 1.09% : strainer
+ 0.96% : dough
+ 0.80% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q037.jpg
+55.03% : mushroom
+14.84% : hen-of-the-woods
+ 1.60% : mashed potato
+ 1.43% : earthstar
+ 1.43% : frying pan
+ 1.35% : bolete
+ 1.21% : bagel
+ 1.13% : strainer
+ 0.89% : dough
+ 0.77% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q038.jpg
+59.06% : mushroom
+15.80% : hen-of-the-woods
+ 1.41% : mashed potato
+ 1.40% : earthstar
+ 1.24% : frying pan
+ 1.18% : bolete
+ 1.09% : bagel
+ 0.78% : strainer
+ 0.60% : dough
+ 0.60% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q039.jpg
+62.33% : mushroom
+16.41% : hen-of-the-woods
+ 1.31% : bolete
+ 1.25% : earthstar
+ 1.11% : mashed potato
+ 0.89% : frying pan
+ 0.79% : bagel
+ 0.60% : strainer
+ 0.55% : gyromitra
+ 0.52% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q040.jpg
+63.40% : mushroom
+15.88% : hen-of-the-woods
+ 1.34% : bolete
+ 1.27% : earthstar
+ 1.10% : mashed potato
+ 0.86% : frying pan
+ 0.74% : bagel
+ 0.58% : gyromitra
+ 0.58% : strainer
+ 0.53% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q041.jpg
+61.94% : mushroom
+15.40% : hen-of-the-woods
+ 1.51% : bolete
+ 1.36% : earthstar
+ 1.14% : mashed potato
+ 0.97% : bagel
+ 0.85% : frying pan
+ 0.69% : gyromitra
+ 0.64% : strainer
+ 0.56% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q042.jpg
+56.78% : mushroom
+16.46% : hen-of-the-woods
+ 1.56% : earthstar
+ 1.43% : bolete
+ 1.41% : mashed potato
+ 1.23% : bagel
+ 0.91% : frying pan
+ 0.79% : gyromitra
+ 0.77% : dough
+ 0.76% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q043.jpg
+57.91% : mushroom
+15.15% : hen-of-the-woods
+ 1.49% : earthstar
+ 1.47% : mashed potato
+ 1.45% : bolete
+ 1.23% : bagel
+ 0.97% : frying pan
+ 0.83% : strainer
+ 0.81% : gyromitra
+ 0.79% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q044.jpg
+57.76% : mushroom
+17.77% : hen-of-the-woods
+ 1.50% : mashed potato
+ 1.34% : earthstar
+ 1.14% : bolete
+ 1.10% : frying pan
+ 0.97% : bagel
+ 0.93% : strainer
+ 0.72% : gyromitra
+ 0.59% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q045.jpg
+55.44% : mushroom
+17.53% : hen-of-the-woods
+ 1.65% : mashed potato
+ 1.39% : earthstar
+ 1.29% : frying pan
+ 1.14% : strainer
+ 1.06% : bolete
+ 1.02% : bagel
+ 0.71% : gyromitra
+ 0.69% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q046.jpg
+57.60% : mushroom
+14.80% : hen-of-the-woods
+ 1.48% : mashed potato
+ 1.28% : earthstar
+ 1.27% : bagel
+ 1.20% : bolete
+ 1.15% : strainer
+ 0.95% : frying pan
+ 0.75% : dough
+ 0.71% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q047.jpg
+57.28% : mushroom
+14.75% : hen-of-the-woods
+ 1.61% : mashed potato
+ 1.30% : bagel
+ 1.24% : earthstar
+ 1.19% : strainer
+ 1.07% : bolete
+ 1.02% : frying pan
+ 0.75% : dough
+ 0.71% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q048.jpg
+57.27% : mushroom
+13.87% : hen-of-the-woods
+ 1.63% : mashed potato
+ 1.38% : bagel
+ 1.20% : earthstar
+ 1.19% : strainer
+ 1.04% : bolete
+ 1.02% : frying pan
+ 0.81% : dough
+ 0.73% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q049.jpg
+56.20% : mushroom
+13.80% : hen-of-the-woods
+ 1.54% : mashed potato
+ 1.42% : earthstar
+ 1.40% : bagel
+ 1.09% : frying pan
+ 1.08% : bolete
+ 0.99% : strainer
+ 0.78% : tray
+ 0.70% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q050.jpg
+55.99% : mushroom
+13.83% : hen-of-the-woods
+ 1.54% : mashed potato
+ 1.42% : bagel
+ 1.42% : earthstar
+ 1.10% : frying pan
+ 1.09% : bolete
+ 0.99% : strainer
+ 0.78% : tray
+ 0.72% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q051.jpg
+55.77% : mushroom
+13.79% : hen-of-the-woods
+ 1.56% : mashed potato
+ 1.45% : bagel
+ 1.43% : earthstar
+ 1.12% : bolete
+ 1.10% : frying pan
+ 1.01% : strainer
+ 0.77% : tray
+ 0.73% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q052.jpg
+61.09% : mushroom
+12.77% : hen-of-the-woods
+ 1.67% : mashed potato
+ 1.37% : earthstar
+ 1.20% : bolete
+ 1.13% : bagel
+ 0.89% : strainer
+ 0.84% : dough
+ 0.81% : frying pan
+ 0.75% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q053.jpg
+62.12% : mushroom
+12.33% : hen-of-the-woods
+ 1.51% : mashed potato
+ 1.37% : bolete
+ 1.36% : earthstar
+ 1.03% : bagel
+ 0.81% : frying pan
+ 0.78% : strainer
+ 0.77% : gyromitra
+ 0.75% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q054.jpg
+60.96% : mushroom
+12.22% : hen-of-the-woods
+ 1.60% : mashed potato
+ 1.38% : earthstar
+ 1.35% : bolete
+ 1.12% : bagel
+ 0.88% : strainer
+ 0.83% : frying pan
+ 0.82% : dough
+ 0.80% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q055.jpg
+65.22% : mushroom
+12.78% : hen-of-the-woods
+ 1.27% : bolete
+ 1.21% : earthstar
+ 1.08% : mashed potato
+ 1.02% : bagel
+ 0.67% : dough
+ 0.66% : frying pan
+ 0.63% : gyromitra
+ 0.60% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q056.jpg
+64.06% : mushroom
+12.73% : hen-of-the-woods
+ 1.48% : bolete
+ 1.25% : earthstar
+ 1.14% : mashed potato
+ 1.04% : bagel
+ 0.72% : dough
+ 0.70% : frying pan
+ 0.68% : gyromitra
+ 0.63% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q057.jpg
+62.52% : mushroom
+13.26% : hen-of-the-woods
+ 1.76% : bolete
+ 1.39% : earthstar
+ 1.17% : mashed potato
+ 1.12% : bagel
+ 0.86% : gyromitra
+ 0.83% : dough
+ 0.64% : frying pan
+ 0.61% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q058.jpg
+56.30% : mushroom
+15.31% : hen-of-the-woods
+ 1.61% : bolete
+ 1.42% : mashed potato
+ 1.41% : earthstar
+ 1.39% : bagel
+ 1.05% : gyromitra
+ 0.96% : dough
+ 0.93% : strainer
+ 0.81% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q059.jpg
+56.60% : mushroom
+15.02% : hen-of-the-woods
+ 1.63% : bolete
+ 1.42% : bagel
+ 1.39% : mashed potato
+ 1.34% : earthstar
+ 0.97% : gyromitra
+ 0.94% : dough
+ 0.91% : strainer
+ 0.85% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q060.jpg
+57.44% : mushroom
+14.46% : hen-of-the-woods
+ 1.71% : bolete
+ 1.50% : bagel
+ 1.25% : earthstar
+ 1.24% : mashed potato
+ 0.93% : dough
+ 0.93% : gyromitra
+ 0.81% : frying pan
+ 0.81% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q061.jpg
+55.72% : mushroom
+15.31% : hen-of-the-woods
+ 1.68% : bagel
+ 1.39% : bolete
+ 1.37% : mashed potato
+ 1.37% : earthstar
+ 1.03% : dough
+ 0.88% : strainer
+ 0.85% : frying pan
+ 0.77% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q062.jpg
+56.38% : mushroom
+15.50% : hen-of-the-woods
+ 1.60% : bagel
+ 1.40% : bolete
+ 1.37% : earthstar
+ 1.29% : mashed potato
+ 0.99% : dough
+ 0.89% : strainer
+ 0.78% : frying pan
+ 0.75% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q063.jpg
+58.61% : mushroom
+15.57% : hen-of-the-woods
+ 1.58% : bagel
+ 1.35% : earthstar
+ 1.33% : bolete
+ 1.17% : mashed potato
+ 0.97% : dough
+ 0.81% : strainer
+ 0.71% : gyromitra
+ 0.68% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q064.jpg
+60.04% : mushroom
+17.74% : hen-of-the-woods
+ 1.45% : bolete
+ 1.33% : earthstar
+ 1.11% : mashed potato
+ 1.05% : bagel
+ 0.77% : gyromitra
+ 0.70% : dough
+ 0.64% : strainer
+ 0.59% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q065.jpg
+58.29% : mushroom
+17.35% : hen-of-the-woods
+ 1.34% : earthstar
+ 1.29% : bolete
+ 1.18% : mashed potato
+ 1.16% : bagel
+ 0.80% : strainer
+ 0.76% : gyromitra
+ 0.73% : frying pan
+ 0.71% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q066.jpg
+59.25% : mushroom
+17.32% : hen-of-the-woods
+ 1.36% : bolete
+ 1.30% : earthstar
+ 1.13% : mashed potato
+ 1.08% : bagel
+ 0.78% : strainer
+ 0.72% : gyromitra
+ 0.69% : dough
+ 0.69% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q067.jpg
+58.61% : mushroom
+17.45% : hen-of-the-woods
+ 1.46% : bolete
+ 1.29% : earthstar
+ 1.13% : bagel
+ 1.11% : mashed potato
+ 0.87% : strainer
+ 0.72% : gyromitra
+ 0.67% : frying pan
+ 0.64% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q068.jpg
+56.80% : mushroom
+18.30% : hen-of-the-woods
+ 1.47% : bolete
+ 1.42% : earthstar
+ 1.28% : mashed potato
+ 1.09% : bagel
+ 0.92% : strainer
+ 0.79% : gyromitra
+ 0.74% : frying pan
+ 0.67% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q069.jpg
+55.73% : mushroom
+18.20% : hen-of-the-woods
+ 1.46% : bolete
+ 1.44% : earthstar
+ 1.37% : mashed potato
+ 1.18% : bagel
+ 0.97% : strainer
+ 0.84% : frying pan
+ 0.78% : gyromitra
+ 0.73% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q070.jpg
+57.25% : mushroom
+17.76% : hen-of-the-woods
+ 1.41% : bolete
+ 1.33% : earthstar
+ 1.26% : mashed potato
+ 1.05% : bagel
+ 0.93% : strainer
+ 0.78% : gyromitra
+ 0.75% : dough
+ 0.74% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q071.jpg
+55.85% : mushroom
+16.16% : hen-of-the-woods
+ 1.42% : mashed potato
+ 1.40% : bolete
+ 1.39% : earthstar
+ 1.16% : strainer
+ 1.13% : bagel
+ 0.83% : frying pan
+ 0.81% : dough
+ 0.80% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q072.jpg
+57.60% : mushroom
+14.96% : hen-of-the-woods
+ 1.56% : bolete
+ 1.36% : mashed potato
+ 1.29% : earthstar
+ 1.11% : bagel
+ 1.05% : strainer
+ 0.85% : frying pan
+ 0.81% : dough
+ 0.73% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q073.jpg
+59.20% : mushroom
+15.85% : hen-of-the-woods
+ 1.65% : bolete
+ 1.28% : earthstar
+ 1.11% : mashed potato
+ 0.99% : bagel
+ 0.96% : strainer
+ 0.80% : gyromitra
+ 0.71% : frying pan
+ 0.63% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q074.jpg
+59.80% : mushroom
+15.76% : hen-of-the-woods
+ 1.56% : bolete
+ 1.25% : earthstar
+ 1.08% : mashed potato
+ 1.00% : strainer
+ 0.88% : bagel
+ 0.83% : gyromitra
+ 0.71% : frying pan
+ 0.69% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q075.jpg
+59.78% : mushroom
+15.64% : hen-of-the-woods
+ 1.61% : bolete
+ 1.25% : earthstar
+ 1.08% : mashed potato
+ 0.98% : strainer
+ 0.90% : bagel
+ 0.84% : gyromitra
+ 0.72% : dough
+ 0.68% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q076.jpg
+58.27% : mushroom
+16.94% : hen-of-the-woods
+ 1.54% : bolete
+ 1.31% : earthstar
+ 1.08% : mashed potato
+ 0.92% : bagel
+ 0.87% : strainer
+ 0.84% : gyromitra
+ 0.75% : frying pan
+ 0.74% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q077.jpg
+60.04% : mushroom
+14.80% : hen-of-the-woods
+ 1.64% : bolete
+ 1.28% : earthstar
+ 1.15% : mashed potato
+ 1.01% : bagel
+ 0.89% : strainer
+ 0.81% : dough
+ 0.76% : frying pan
+ 0.74% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q078.jpg
+61.49% : mushroom
+13.43% : hen-of-the-woods
+ 1.65% : bolete
+ 1.34% : earthstar
+ 1.18% : mashed potato
+ 1.04% : bagel
+ 1.03% : strainer
+ 0.81% : dough
+ 0.78% : frying pan
+ 0.71% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q079.jpg
+61.17% : mushroom
+13.25% : hen-of-the-woods
+ 1.76% : bolete
+ 1.35% : earthstar
+ 1.19% : mashed potato
+ 1.07% : bagel
+ 1.00% : strainer
+ 0.89% : dough
+ 0.76% : gyromitra
+ 0.73% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q080.jpg
+60.44% : mushroom
+13.89% : hen-of-the-woods
+ 1.49% : bolete
+ 1.31% : earthstar
+ 1.24% : mashed potato
+ 1.09% : strainer
+ 1.08% : bagel
+ 0.93% : dough
+ 0.82% : frying pan
+ 0.73% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q081.jpg
+57.89% : mushroom
+14.47% : hen-of-the-woods
+ 1.47% : mashed potato
+ 1.35% : strainer
+ 1.34% : earthstar
+ 1.28% : bolete
+ 1.16% : bagel
+ 0.96% : dough
+ 0.84% : frying pan
+ 0.69% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q082.jpg
+55.70% : mushroom
+14.41% : hen-of-the-woods
+ 1.66% : mashed potato
+ 1.35% : strainer
+ 1.35% : bagel
+ 1.31% : earthstar
+ 1.19% : bolete
+ 1.04% : dough
+ 0.94% : frying pan
+ 0.72% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q083.jpg
+57.09% : mushroom
+14.11% : hen-of-the-woods
+ 1.69% : mashed potato
+ 1.30% : bolete
+ 1.25% : earthstar
+ 1.20% : bagel
+ 1.19% : strainer
+ 0.96% : dough
+ 0.92% : frying pan
+ 0.73% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q084.jpg
+56.66% : mushroom
+12.98% : hen-of-the-woods
+ 1.53% : mashed potato
+ 1.43% : bolete
+ 1.36% : bagel
+ 1.25% : strainer
+ 1.21% : earthstar
+ 1.03% : dough
+ 0.99% : frying pan
+ 0.80% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q085.jpg
+60.66% : mushroom
+11.84% : hen-of-the-woods
+ 1.44% : bolete
+ 1.24% : bagel
+ 1.19% : earthstar
+ 1.18% : mashed potato
+ 1.08% : strainer
+ 0.88% : dough
+ 0.79% : frying pan
+ 0.78% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q086.jpg
+60.01% : mushroom
+12.81% : hen-of-the-woods
+ 1.42% : bolete
+ 1.29% : bagel
+ 1.19% : mashed potato
+ 1.17% : strainer
+ 1.13% : earthstar
+ 0.91% : dough
+ 0.87% : frying pan
+ 0.77% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q087.jpg
+60.93% : mushroom
+14.20% : hen-of-the-woods
+ 1.51% : bolete
+ 1.16% : earthstar
+ 1.13% : bagel
+ 1.09% : mashed potato
+ 0.94% : strainer
+ 0.80% : dough
+ 0.74% : frying pan
+ 0.70% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q088.jpg
+60.05% : mushroom
+14.66% : hen-of-the-woods
+ 1.41% : bolete
+ 1.24% : earthstar
+ 1.15% : mashed potato
+ 1.12% : bagel
+ 0.95% : strainer
+ 0.78% : frying pan
+ 0.75% : dough
+ 0.71% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q089.jpg
+60.79% : mushroom
+14.41% : hen-of-the-woods
+ 1.40% : bolete
+ 1.22% : mashed potato
+ 1.18% : earthstar
+ 1.08% : bagel
+ 1.00% : strainer
+ 0.76% : frying pan
+ 0.74% : dough
+ 0.70% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q090.jpg
+62.39% : mushroom
+13.71% : hen-of-the-woods
+ 1.26% : bolete
+ 1.17% : bagel
+ 1.12% : mashed potato
+ 1.10% : earthstar
+ 0.91% : strainer
+ 0.74% : dough
+ 0.67% : frying pan
+ 0.63% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q091.jpg
+61.91% : mushroom
+12.99% : hen-of-the-woods
+ 1.32% : bagel
+ 1.21% : bolete
+ 1.08% : earthstar
+ 1.00% : mashed potato
+ 0.99% : strainer
+ 0.84% : dough
+ 0.80% : frying pan
+ 0.70% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q092.jpg
+58.15% : mushroom
+16.28% : hen-of-the-woods
+ 1.29% : earthstar
+ 1.13% : bagel
+ 1.10% : bolete
+ 0.96% : mashed potato
+ 0.87% : strainer
+ 0.78% : dough
+ 0.66% : gyromitra
+ 0.64% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q093.jpg
+53.39% : mushroom
+18.67% : hen-of-the-woods
+ 1.38% : bagel
+ 1.29% : mashed potato
+ 1.25% : earthstar
+ 1.07% : strainer
+ 0.92% : bolete
+ 0.84% : dough
+ 0.76% : frying pan
+ 0.74% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q094.jpg
+55.56% : mushroom
+18.91% : hen-of-the-woods
+ 1.28% : earthstar
+ 1.10% : mashed potato
+ 1.01% : bagel
+ 0.98% : strainer
+ 0.94% : bolete
+ 0.79% : dough
+ 0.72% : tray
+ 0.72% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q095.jpg
+55.79% : mushroom
+17.68% : hen-of-the-woods
+ 1.26% : earthstar
+ 1.14% : mashed potato
+ 1.09% : bagel
+ 1.07% : strainer
+ 0.96% : bolete
+ 0.84% : dough
+ 0.70% : gyromitra
+ 0.70% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q096.jpg
+57.91% : mushroom
+15.49% : hen-of-the-woods
+ 1.21% : earthstar
+ 1.18% : mashed potato
+ 1.13% : strainer
+ 1.12% : bagel
+ 1.04% : bolete
+ 0.85% : dough
+ 0.80% : frying pan
+ 0.71% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q097.jpg
+57.00% : mushroom
+15.13% : hen-of-the-woods
+ 1.21% : mashed potato
+ 1.20% : earthstar
+ 1.20% : strainer
+ 1.20% : bagel
+ 1.07% : bolete
+ 0.92% : dough
+ 0.83% : frying pan
+ 0.76% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q098.jpg
+57.01% : mushroom
+15.70% : hen-of-the-woods
+ 1.21% : earthstar
+ 1.20% : mashed potato
+ 1.17% : bagel
+ 1.17% : strainer
+ 1.10% : bolete
+ 0.90% : dough
+ 0.78% : frying pan
+ 0.74% : rotisserie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q099.jpg
+58.70% : mushroom
+16.19% : hen-of-the-woods
+ 1.18% : earthstar
+ 1.10% : mashed potato
+ 1.08% : bolete
+ 1.00% : bagel
+ 0.98% : strainer
+ 0.87% : dough
+ 0.73% : gyromitra
+ 0.67% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom10Q100.jpg
+58.84% : mushroom
+16.56% : hen-of-the-woods
+ 1.19% : earthstar
+ 1.07% : bolete
+ 1.06% : mashed potato
+ 1.04% : bagel
+ 0.97% : strainer
+ 0.80% : dough
+ 0.70% : gyromitra
+ 0.67% : frying pan

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q001.jpg
+29.24% : confectionery
+10.97% : hamper
+ 5.12% : vending machine
+ 3.89% : orange
+ 2.84% : packet
+ 1.96% : ping-pong ball
+ 1.67% : ice cream
+ 1.65% : toyshop
+ 1.50% : plastic bag
+ 1.14% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q002.jpg
+27.88% : confectionery
+10.65% : hamper
+ 5.30% : vending machine
+ 4.03% : orange
+ 2.81% : packet
+ 2.11% : ping-pong ball
+ 1.71% : toyshop
+ 1.66% : ice cream
+ 1.57% : plastic bag
+ 1.18% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q003.jpg
+34.21% : confectionery
+10.25% : hamper
+ 5.94% : vending machine
+ 5.34% : orange
+ 1.99% : toyshop
+ 1.99% : ping-pong ball
+ 1.65% : ice cream
+ 1.46% : shopping basket
+ 1.35% : packet
+ 1.15% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q004.jpg
+33.08% : confectionery
+16.59% : orange
+ 4.35% : vending machine
+ 2.79% : ping-pong ball
+ 2.26% : pineapple
+ 1.95% : toyshop
+ 1.83% : shopping basket
+ 1.78% : grocery store
+ 1.64% : plastic bag
+ 1.17% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q005.jpg
+20.59% : orange
+ 9.76% : confectionery
+ 5.32% : grocery store
+ 4.83% : pineapple
+ 4.18% : ping-pong ball
+ 3.32% : lemon
+ 2.99% : jackfruit
+ 2.19% : banana
+ 1.94% : vending machine
+ 1.64% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q006.jpg
+23.47% : orange
+ 6.26% : pineapple
+ 6.16% : grocery store
+ 4.89% : confectionery
+ 3.19% : jackfruit
+ 3.13% : lemon
+ 2.84% : plastic bag
+ 2.45% : banana
+ 2.41% : shopping basket
+ 2.37% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q007.jpg
+11.20% : orange
+ 6.70% : grocery store
+ 6.52% : plastic bag
+ 5.69% : pineapple
+ 5.03% : confectionery
+ 3.97% : conch
+ 3.40% : shopping basket
+ 3.30% : lemon
+ 2.61% : hamper
+ 2.45% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q008.jpg
+13.71% : orange
+ 9.39% : confectionery
+ 7.39% : hamper
+ 4.71% : pineapple
+ 4.59% : grocery store
+ 4.58% : shopping basket
+ 4.44% : plastic bag
+ 3.56% : packet
+ 2.65% : lemon
+ 1.88% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q009.jpg
+20.42% : orange
+13.75% : pineapple
+ 7.08% : confectionery
+ 5.72% : grocery store
+ 4.15% : conch
+ 3.00% : lemon
+ 2.61% : shopping basket
+ 2.41% : banana
+ 2.02% : bell pepper
+ 1.91% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q010.jpg
+15.17% : orange
+13.19% : pineapple
+ 7.33% : confectionery
+ 3.96% : grocery store
+ 3.51% : lemon
+ 2.54% : shopping basket
+ 2.28% : conch
+ 2.13% : bell pepper
+ 1.94% : jackfruit
+ 1.86% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q011.jpg
+18.26% : orange
+14.91% : pineapple
+ 6.12% : confectionery
+ 5.31% : grocery store
+ 3.71% : conch
+ 2.51% : jackfruit
+ 2.43% : banana
+ 2.40% : shopping basket
+ 2.28% : lemon
+ 2.16% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q012.jpg
+19.04% : orange
+ 8.34% : pineapple
+ 8.33% : conch
+ 7.45% : grocery store
+ 3.59% : confectionery
+ 3.52% : lemon
+ 2.56% : shopping basket
+ 2.43% : jackfruit
+ 2.07% : plastic bag
+ 1.82% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q013.jpg
+11.25% : orange
+ 8.15% : pineapple
+ 7.16% : grocery store
+ 6.19% : plastic bag
+ 5.03% : confectionery
+ 3.53% : lemon
+ 3.03% : shopping basket
+ 2.85% : bell pepper
+ 2.56% : hamper
+ 2.53% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q014.jpg
+19.77% : pineapple
+16.74% : orange
+ 5.78% : confectionery
+ 5.08% : grocery store
+ 3.45% : lemon
+ 3.45% : conch
+ 1.99% : shopping basket
+ 1.83% : banana
+ 1.71% : plastic bag
+ 1.70% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q015.jpg
+14.29% : orange
+10.21% : pineapple
+ 7.65% : confectionery
+ 5.21% : grocery store
+ 3.69% : shopping basket
+ 3.65% : conch
+ 2.84% : lemon
+ 2.48% : hamper
+ 2.46% : vending machine
+ 2.33% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q016.jpg
+20.67% : orange
+16.77% : pineapple
+ 5.02% : grocery store
+ 4.14% : confectionery
+ 3.46% : lemon
+ 2.79% : shopping basket
+ 2.53% : banana
+ 2.45% : conch
+ 2.00% : hamper
+ 1.96% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q017.jpg
+20.94% : orange
+12.18% : pineapple
+ 7.29% : confectionery
+ 5.12% : grocery store
+ 3.19% : shopping basket
+ 3.07% : lemon
+ 2.49% : bell pepper
+ 2.43% : hamper
+ 2.31% : conch
+ 1.94% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q018.jpg
+28.87% : orange
+18.35% : pineapple
+ 3.92% : grocery store
+ 3.56% : confectionery
+ 3.15% : lemon
+ 2.65% : bell pepper
+ 2.06% : banana
+ 2.06% : shopping basket
+ 1.88% : plastic bag
+ 1.47% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q019.jpg
+18.82% : orange
+10.55% : pineapple
+ 5.33% : confectionery
+ 4.91% : grocery store
+ 3.60% : lemon
+ 3.34% : bell pepper
+ 3.00% : plastic bag
+ 2.69% : conch
+ 2.67% : shopping basket
+ 1.85% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q020.jpg
+20.36% : orange
+15.71% : pineapple
+ 6.11% : confectionery
+ 4.20% : grocery store
+ 3.39% : conch
+ 3.21% : lemon
+ 2.54% : shopping basket
+ 2.27% : plastic bag
+ 2.24% : bell pepper
+ 1.73% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q021.jpg
+19.54% : orange
+13.58% : pineapple
+ 6.05% : confectionery
+ 5.38% : grocery store
+ 3.50% : plastic bag
+ 3.26% : bell pepper
+ 3.03% : lemon
+ 2.79% : conch
+ 2.32% : shopping basket
+ 2.21% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q022.jpg
+20.64% : orange
+16.84% : pineapple
+ 4.92% : lemon
+ 4.68% : confectionery
+ 4.01% : grocery store
+ 3.56% : bell pepper
+ 3.01% : shopping basket
+ 2.32% : banana
+ 2.27% : plastic bag
+ 1.73% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q023.jpg
+22.93% : orange
+14.19% : pineapple
+ 5.07% : confectionery
+ 4.29% : grocery store
+ 3.87% : lemon
+ 3.47% : bell pepper
+ 2.84% : shopping basket
+ 2.40% : plastic bag
+ 2.12% : banana
+ 1.84% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q024.jpg
+23.68% : orange
+13.51% : pineapple
+ 5.66% : confectionery
+ 5.01% : lemon
+ 4.06% : grocery store
+ 3.04% : bell pepper
+ 2.68% : shopping basket
+ 2.38% : plastic bag
+ 2.17% : banana
+ 1.99% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q025.jpg
+30.98% : orange
+15.90% : pineapple
+ 5.73% : lemon
+ 3.72% : grocery store
+ 3.44% : confectionery
+ 2.24% : banana
+ 1.94% : plastic bag
+ 1.94% : shopping basket
+ 1.83% : bell pepper
+ 1.81% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q026.jpg
+29.76% : orange
+19.90% : pineapple
+ 4.96% : lemon
+ 3.80% : grocery store
+ 3.53% : confectionery
+ 2.12% : shopping basket
+ 2.11% : banana
+ 1.86% : bell pepper
+ 1.65% : plastic bag
+ 1.27% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q027.jpg
+29.37% : orange
+18.11% : pineapple
+ 4.76% : lemon
+ 3.50% : confectionery
+ 3.16% : grocery store
+ 2.69% : bell pepper
+ 2.62% : banana
+ 2.27% : shopping basket
+ 1.83% : ping-pong ball
+ 1.68% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q028.jpg
+25.16% : orange
+22.95% : pineapple
+ 4.37% : lemon
+ 3.12% : confectionery
+ 2.78% : shopping basket
+ 2.77% : grocery store
+ 2.63% : banana
+ 2.11% : bell pepper
+ 1.88% : plastic bag
+ 1.58% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q029.jpg
+27.05% : orange
+21.15% : pineapple
+ 4.57% : lemon
+ 3.53% : confectionery
+ 3.23% : grocery store
+ 2.72% : bell pepper
+ 2.44% : banana
+ 2.23% : shopping basket
+ 1.64% : plastic bag
+ 1.64% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q030.jpg
+28.24% : orange
+18.50% : pineapple
+ 4.83% : lemon
+ 3.55% : confectionery
+ 3.51% : grocery store
+ 3.07% : bell pepper
+ 2.22% : banana
+ 1.99% : shopping basket
+ 1.72% : plastic bag
+ 1.68% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q031.jpg
+34.25% : orange
+14.16% : pineapple
+ 4.61% : lemon
+ 3.83% : grocery store
+ 3.31% : bell pepper
+ 2.64% : confectionery
+ 2.36% : ping-pong ball
+ 2.34% : banana
+ 2.23% : shopping basket
+ 1.74% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q032.jpg
+28.69% : orange
+15.84% : pineapple
+ 4.40% : lemon
+ 3.92% : grocery store
+ 3.86% : bell pepper
+ 2.59% : confectionery
+ 2.13% : banana
+ 2.08% : shopping basket
+ 1.84% : ping-pong ball
+ 1.79% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q033.jpg
+26.50% : orange
+16.71% : pineapple
+ 4.45% : lemon
+ 4.31% : grocery store
+ 2.98% : bell pepper
+ 2.89% : confectionery
+ 2.35% : banana
+ 1.99% : shopping basket
+ 1.79% : plastic bag
+ 1.78% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q034.jpg
+27.24% : orange
+17.33% : pineapple
+ 4.43% : grocery store
+ 4.18% : lemon
+ 3.02% : confectionery
+ 2.83% : bell pepper
+ 2.20% : banana
+ 1.99% : plastic bag
+ 1.97% : shopping basket
+ 1.89% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q035.jpg
+26.99% : orange
+16.05% : pineapple
+ 4.28% : confectionery
+ 4.25% : grocery store
+ 4.23% : lemon
+ 3.27% : bell pepper
+ 2.24% : shopping basket
+ 2.03% : banana
+ 1.72% : jackfruit
+ 1.70% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q036.jpg
+24.24% : orange
+12.77% : pineapple
+ 5.07% : confectionery
+ 4.75% : lemon
+ 4.09% : bell pepper
+ 3.87% : grocery store
+ 2.55% : shopping basket
+ 2.38% : plastic bag
+ 2.37% : ping-pong ball
+ 2.02% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q037.jpg
+23.81% : orange
+14.46% : pineapple
+ 5.41% : confectionery
+ 4.62% : lemon
+ 3.93% : bell pepper
+ 3.76% : grocery store
+ 2.46% : plastic bag
+ 2.38% : shopping basket
+ 2.11% : banana
+ 1.99% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q038.jpg
+23.27% : orange
+21.49% : pineapple
+ 4.93% : confectionery
+ 3.76% : lemon
+ 3.44% : bell pepper
+ 3.30% : grocery store
+ 2.30% : shopping basket
+ 2.19% : banana
+ 2.12% : plastic bag
+ 1.81% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q039.jpg
+25.66% : orange
+17.39% : pineapple
+ 4.45% : lemon
+ 4.29% : confectionery
+ 3.76% : grocery store
+ 3.32% : bell pepper
+ 2.47% : shopping basket
+ 2.08% : plastic bag
+ 2.03% : ping-pong ball
+ 1.93% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q040.jpg
+26.95% : orange
+18.78% : pineapple
+ 4.24% : lemon
+ 3.97% : confectionery
+ 3.61% : grocery store
+ 3.21% : bell pepper
+ 2.18% : shopping basket
+ 1.94% : banana
+ 1.86% : ping-pong ball
+ 1.85% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q041.jpg
+26.50% : orange
+19.99% : pineapple
+ 4.03% : grocery store
+ 4.02% : confectionery
+ 3.70% : lemon
+ 3.19% : bell pepper
+ 2.15% : shopping basket
+ 1.84% : banana
+ 1.79% : ping-pong ball
+ 1.71% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q042.jpg
+27.54% : orange
+17.09% : pineapple
+ 3.95% : lemon
+ 3.91% : grocery store
+ 3.91% : confectionery
+ 3.22% : bell pepper
+ 2.40% : shopping basket
+ 2.03% : banana
+ 1.80% : plastic bag
+ 1.68% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q043.jpg
+26.05% : orange
+20.38% : pineapple
+ 4.02% : grocery store
+ 3.77% : lemon
+ 3.74% : confectionery
+ 2.96% : bell pepper
+ 2.32% : shopping basket
+ 1.94% : banana
+ 1.84% : plastic bag
+ 1.78% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q044.jpg
+21.20% : orange
+17.65% : pineapple
+ 4.89% : confectionery
+ 4.87% : grocery store
+ 3.71% : lemon
+ 3.24% : bell pepper
+ 2.50% : shopping basket
+ 2.39% : plastic bag
+ 2.06% : vending machine
+ 1.85% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q045.jpg
+19.77% : orange
+17.27% : pineapple
+ 5.37% : grocery store
+ 5.06% : confectionery
+ 3.60% : bell pepper
+ 3.47% : lemon
+ 2.56% : shopping basket
+ 2.43% : plastic bag
+ 2.11% : vending machine
+ 1.83% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q046.jpg
+21.18% : orange
+19.14% : pineapple
+ 5.47% : grocery store
+ 4.86% : confectionery
+ 3.27% : lemon
+ 3.16% : bell pepper
+ 2.77% : shopping basket
+ 2.09% : plastic bag
+ 1.87% : banana
+ 1.84% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q047.jpg
+22.28% : orange
+18.51% : pineapple
+ 5.60% : grocery store
+ 4.41% : confectionery
+ 3.54% : lemon
+ 3.44% : bell pepper
+ 2.64% : shopping basket
+ 2.03% : plastic bag
+ 1.87% : ping-pong ball
+ 1.82% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q048.jpg
+22.05% : orange
+19.08% : pineapple
+ 5.23% : grocery store
+ 3.97% : confectionery
+ 3.63% : bell pepper
+ 3.26% : lemon
+ 2.58% : shopping basket
+ 2.19% : ping-pong ball
+ 2.01% : plastic bag
+ 1.85% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q049.jpg
+22.06% : orange
+19.02% : pineapple
+ 4.72% : grocery store
+ 4.17% : confectionery
+ 3.63% : bell pepper
+ 3.32% : lemon
+ 2.74% : shopping basket
+ 2.08% : plastic bag
+ 1.94% : ping-pong ball
+ 1.84% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q050.jpg
+22.33% : orange
+19.58% : pineapple
+ 4.68% : grocery store
+ 3.95% : confectionery
+ 3.63% : bell pepper
+ 3.22% : lemon
+ 2.67% : shopping basket
+ 2.04% : plastic bag
+ 1.87% : banana
+ 1.76% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q051.jpg
+22.65% : orange
+18.82% : pineapple
+ 4.84% : grocery store
+ 4.13% : confectionery
+ 3.69% : bell pepper
+ 3.24% : lemon
+ 2.64% : shopping basket
+ 1.96% : plastic bag
+ 1.86% : banana
+ 1.76% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q052.jpg
+21.94% : orange
+16.65% : pineapple
+ 5.36% : grocery store
+ 4.18% : bell pepper
+ 4.11% : confectionery
+ 3.11% : lemon
+ 2.66% : shopping basket
+ 2.00% : plastic bag
+ 1.78% : banana
+ 1.64% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q053.jpg
+24.98% : orange
+16.15% : pineapple
+ 4.92% : grocery store
+ 4.33% : confectionery
+ 3.91% : bell pepper
+ 3.10% : lemon
+ 2.42% : shopping basket
+ 1.82% : ping-pong ball
+ 1.75% : plastic bag
+ 1.70% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q054.jpg
+24.23% : orange
+17.26% : pineapple
+ 4.81% : grocery store
+ 4.35% : confectionery
+ 3.62% : bell pepper
+ 2.98% : lemon
+ 2.45% : shopping basket
+ 1.76% : ping-pong ball
+ 1.72% : banana
+ 1.63% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q055.jpg
+23.92% : orange
+17.65% : pineapple
+ 5.04% : grocery store
+ 4.36% : confectionery
+ 3.43% : bell pepper
+ 3.22% : lemon
+ 2.45% : shopping basket
+ 1.90% : plastic bag
+ 1.89% : banana
+ 1.71% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q056.jpg
+25.72% : orange
+15.13% : pineapple
+ 5.25% : confectionery
+ 5.07% : grocery store
+ 3.41% : lemon
+ 3.40% : bell pepper
+ 2.48% : shopping basket
+ 1.92% : ping-pong ball
+ 1.85% : vending machine
+ 1.77% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q057.jpg
+23.91% : orange
+18.46% : pineapple
+ 4.98% : confectionery
+ 4.73% : grocery store
+ 3.58% : lemon
+ 3.05% : bell pepper
+ 2.49% : shopping basket
+ 1.80% : banana
+ 1.75% : ping-pong ball
+ 1.69% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q058.jpg
+23.25% : orange
+19.68% : pineapple
+ 5.22% : confectionery
+ 3.71% : grocery store
+ 3.36% : lemon
+ 3.32% : bell pepper
+ 2.44% : shopping basket
+ 1.84% : vending machine
+ 1.70% : banana
+ 1.62% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q059.jpg
+24.57% : orange
+21.48% : pineapple
+ 4.37% : confectionery
+ 3.70% : lemon
+ 3.49% : grocery store
+ 3.03% : bell pepper
+ 2.33% : shopping basket
+ 1.74% : banana
+ 1.72% : vending machine
+ 1.66% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q060.jpg
+24.32% : orange
+20.64% : pineapple
+ 4.68% : confectionery
+ 3.78% : lemon
+ 3.43% : grocery store
+ 3.25% : bell pepper
+ 2.29% : shopping basket
+ 1.80% : vending machine
+ 1.77% : ping-pong ball
+ 1.70% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q061.jpg
+21.94% : orange
+17.87% : pineapple
+ 4.96% : confectionery
+ 4.29% : lemon
+ 3.65% : grocery store
+ 3.50% : bell pepper
+ 2.82% : shopping basket
+ 2.02% : ping-pong ball
+ 1.86% : plastic bag
+ 1.78% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q062.jpg
+23.01% : orange
+17.92% : pineapple
+ 4.69% : lemon
+ 4.57% : confectionery
+ 3.45% : grocery store
+ 3.38% : bell pepper
+ 2.81% : shopping basket
+ 2.06% : ping-pong ball
+ 1.70% : vending machine
+ 1.66% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q063.jpg
+22.26% : orange
+16.06% : pineapple
+ 4.82% : lemon
+ 4.33% : confectionery
+ 4.03% : grocery store
+ 3.78% : bell pepper
+ 2.91% : shopping basket
+ 2.18% : ping-pong ball
+ 1.97% : plastic bag
+ 1.65% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q064.jpg
+24.00% : orange
+16.35% : pineapple
+ 4.71% : lemon
+ 4.39% : confectionery
+ 3.71% : grocery store
+ 3.65% : bell pepper
+ 2.60% : shopping basket
+ 2.17% : ping-pong ball
+ 1.94% : plastic bag
+ 1.63% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q065.jpg
+24.15% : orange
+16.72% : pineapple
+ 4.57% : lemon
+ 4.56% : confectionery
+ 3.74% : bell pepper
+ 3.55% : grocery store
+ 2.37% : shopping basket
+ 2.36% : ping-pong ball
+ 1.75% : plastic bag
+ 1.62% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q066.jpg
+24.70% : orange
+16.13% : pineapple
+ 4.53% : confectionery
+ 4.41% : lemon
+ 3.77% : grocery store
+ 3.74% : bell pepper
+ 2.22% : shopping basket
+ 2.02% : ping-pong ball
+ 1.76% : banana
+ 1.70% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q067.jpg
+23.33% : orange
+17.13% : pineapple
+ 4.73% : confectionery
+ 4.50% : lemon
+ 3.62% : grocery store
+ 3.49% : bell pepper
+ 2.32% : shopping basket
+ 1.99% : ping-pong ball
+ 1.87% : plastic bag
+ 1.76% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q068.jpg
+23.11% : orange
+14.67% : pineapple
+ 5.65% : confectionery
+ 4.45% : lemon
+ 3.83% : bell pepper
+ 3.72% : grocery store
+ 2.65% : shopping basket
+ 2.29% : ping-pong ball
+ 1.84% : plastic bag
+ 1.83% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q069.jpg
+24.15% : orange
+15.04% : pineapple
+ 5.84% : confectionery
+ 4.66% : lemon
+ 3.88% : bell pepper
+ 3.64% : grocery store
+ 2.49% : shopping basket
+ 2.08% : ping-pong ball
+ 1.85% : banana
+ 1.82% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q070.jpg
+23.48% : orange
+15.63% : pineapple
+ 6.27% : confectionery
+ 4.39% : lemon
+ 3.70% : bell pepper
+ 3.64% : grocery store
+ 2.68% : shopping basket
+ 2.02% : ping-pong ball
+ 1.88% : banana
+ 1.85% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q071.jpg
+23.65% : orange
+19.06% : pineapple
+ 6.01% : confectionery
+ 4.13% : lemon
+ 3.19% : bell pepper
+ 3.18% : grocery store
+ 2.50% : shopping basket
+ 1.94% : banana
+ 1.73% : ping-pong ball
+ 1.64% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q072.jpg
+21.61% : orange
+19.15% : pineapple
+ 5.96% : confectionery
+ 4.03% : lemon
+ 3.42% : bell pepper
+ 3.37% : grocery store
+ 2.70% : shopping basket
+ 1.85% : banana
+ 1.76% : plastic bag
+ 1.71% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q073.jpg
+22.56% : orange
+18.36% : pineapple
+ 5.52% : confectionery
+ 4.14% : lemon
+ 3.44% : bell pepper
+ 3.28% : grocery store
+ 2.62% : shopping basket
+ 1.87% : ping-pong ball
+ 1.78% : vending machine
+ 1.77% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q074.jpg
+23.61% : orange
+18.72% : pineapple
+ 4.65% : confectionery
+ 4.03% : lemon
+ 3.70% : bell pepper
+ 3.65% : grocery store
+ 2.56% : shopping basket
+ 1.92% : plastic bag
+ 1.82% : banana
+ 1.81% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q075.jpg
+23.56% : orange
+18.61% : pineapple
+ 4.80% : confectionery
+ 4.02% : lemon
+ 3.71% : bell pepper
+ 3.68% : grocery store
+ 2.58% : shopping basket
+ 1.92% : plastic bag
+ 1.85% : banana
+ 1.76% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q076.jpg
+23.39% : orange
+18.71% : pineapple
+ 4.28% : confectionery
+ 4.06% : grocery store
+ 3.88% : lemon
+ 3.87% : bell pepper
+ 2.61% : shopping basket
+ 2.23% : plastic bag
+ 1.84% : banana
+ 1.70% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q077.jpg
+22.34% : orange
+17.29% : pineapple
+ 4.73% : confectionery
+ 4.28% : bell pepper
+ 4.24% : grocery store
+ 3.72% : lemon
+ 2.56% : shopping basket
+ 2.42% : plastic bag
+ 1.91% : banana
+ 1.71% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q078.jpg
+21.95% : orange
+18.17% : pineapple
+ 4.70% : confectionery
+ 4.33% : grocery store
+ 4.33% : bell pepper
+ 3.87% : lemon
+ 2.59% : shopping basket
+ 2.28% : plastic bag
+ 1.90% : banana
+ 1.80% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q079.jpg
+21.97% : orange
+19.49% : pineapple
+ 4.34% : confectionery
+ 4.32% : grocery store
+ 3.97% : lemon
+ 3.87% : bell pepper
+ 2.57% : shopping basket
+ 2.32% : plastic bag
+ 1.88% : banana
+ 1.74% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q080.jpg
+23.83% : orange
+17.86% : pineapple
+ 4.31% : grocery store
+ 4.12% : lemon
+ 4.09% : confectionery
+ 3.95% : bell pepper
+ 2.51% : shopping basket
+ 2.36% : plastic bag
+ 1.84% : banana
+ 1.69% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q081.jpg
+21.81% : orange
+19.56% : pineapple
+ 4.39% : grocery store
+ 4.08% : bell pepper
+ 3.95% : lemon
+ 3.74% : confectionery
+ 2.79% : shopping basket
+ 2.22% : plastic bag
+ 1.93% : banana
+ 1.75% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q082.jpg
+23.59% : orange
+20.19% : pineapple
+ 4.40% : grocery store
+ 3.88% : bell pepper
+ 3.81% : lemon
+ 3.56% : confectionery
+ 2.70% : shopping basket
+ 1.96% : banana
+ 1.89% : plastic bag
+ 1.62% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q083.jpg
+24.72% : orange
+17.81% : pineapple
+ 4.84% : grocery store
+ 3.94% : lemon
+ 3.78% : bell pepper
+ 3.27% : confectionery
+ 2.49% : shopping basket
+ 2.04% : banana
+ 1.99% : plastic bag
+ 1.71% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q084.jpg
+23.72% : orange
+17.96% : pineapple
+ 4.69% : grocery store
+ 4.19% : bell pepper
+ 3.88% : lemon
+ 3.72% : confectionery
+ 2.36% : shopping basket
+ 2.10% : plastic bag
+ 1.94% : banana
+ 1.90% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q085.jpg
+21.63% : orange
+17.20% : pineapple
+ 4.43% : grocery store
+ 4.23% : bell pepper
+ 3.99% : lemon
+ 3.47% : confectionery
+ 2.67% : shopping basket
+ 2.29% : plastic bag
+ 1.92% : banana
+ 1.82% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q086.jpg
+19.95% : orange
+17.94% : pineapple
+ 4.63% : grocery store
+ 4.47% : bell pepper
+ 4.06% : lemon
+ 3.52% : confectionery
+ 2.48% : shopping basket
+ 2.39% : plastic bag
+ 1.92% : banana
+ 1.80% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q087.jpg
+20.73% : orange
+15.87% : pineapple
+ 4.60% : grocery store
+ 4.52% : bell pepper
+ 4.08% : lemon
+ 3.80% : confectionery
+ 2.69% : shopping basket
+ 2.37% : plastic bag
+ 1.84% : vending machine
+ 1.74% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q088.jpg
+19.79% : orange
+17.36% : pineapple
+ 4.98% : grocery store
+ 4.28% : bell pepper
+ 4.16% : confectionery
+ 3.89% : lemon
+ 2.47% : shopping basket
+ 2.32% : plastic bag
+ 1.81% : vending machine
+ 1.75% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q089.jpg
+20.39% : orange
+17.57% : pineapple
+ 4.93% : grocery store
+ 4.10% : bell pepper
+ 3.90% : confectionery
+ 3.88% : lemon
+ 2.65% : shopping basket
+ 2.18% : plastic bag
+ 1.77% : vending machine
+ 1.75% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q090.jpg
+21.41% : orange
+17.41% : pineapple
+ 4.41% : confectionery
+ 4.38% : grocery store
+ 4.13% : bell pepper
+ 4.03% : lemon
+ 2.65% : shopping basket
+ 2.09% : plastic bag
+ 1.88% : banana
+ 1.85% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q091.jpg
+21.58% : orange
+16.46% : pineapple
+ 4.64% : bell pepper
+ 4.33% : confectionery
+ 4.29% : grocery store
+ 3.94% : lemon
+ 2.85% : shopping basket
+ 2.03% : plastic bag
+ 1.87% : banana
+ 1.74% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q092.jpg
+21.39% : pineapple
+20.56% : orange
+ 4.23% : grocery store
+ 4.16% : lemon
+ 3.78% : bell pepper
+ 3.50% : confectionery
+ 2.47% : plastic bag
+ 2.34% : shopping basket
+ 1.96% : banana
+ 1.85% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q093.jpg
+20.67% : orange
+19.19% : pineapple
+ 5.00% : confectionery
+ 4.81% : grocery store
+ 4.15% : lemon
+ 3.36% : bell pepper
+ 2.52% : shopping basket
+ 2.41% : plastic bag
+ 1.97% : banana
+ 1.68% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q094.jpg
+23.19% : pineapple
+18.92% : orange
+ 5.75% : confectionery
+ 4.45% : grocery store
+ 3.91% : lemon
+ 3.03% : bell pepper
+ 2.32% : shopping basket
+ 2.25% : banana
+ 1.87% : plastic bag
+ 1.68% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q095.jpg
+21.25% : pineapple
+17.80% : orange
+ 5.57% : confectionery
+ 4.58% : grocery store
+ 3.93% : lemon
+ 3.38% : bell pepper
+ 2.57% : shopping basket
+ 2.13% : banana
+ 2.04% : plastic bag
+ 1.70% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q096.jpg
+20.41% : pineapple
+18.91% : orange
+ 4.82% : confectionery
+ 4.70% : grocery store
+ 4.06% : lemon
+ 3.61% : bell pepper
+ 2.68% : shopping basket
+ 2.01% : banana
+ 1.98% : plastic bag
+ 1.77% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q097.jpg
+20.32% : pineapple
+19.78% : orange
+ 4.66% : confectionery
+ 4.62% : grocery store
+ 4.18% : lemon
+ 3.59% : bell pepper
+ 2.62% : shopping basket
+ 2.02% : banana
+ 1.92% : plastic bag
+ 1.70% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q098.jpg
+21.02% : pineapple
+19.04% : orange
+ 4.69% : grocery store
+ 4.39% : confectionery
+ 4.11% : lemon
+ 3.65% : bell pepper
+ 2.80% : shopping basket
+ 2.05% : banana
+ 2.01% : plastic bag
+ 1.65% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q099.jpg
+22.52% : pineapple
+19.15% : orange
+ 4.97% : confectionery
+ 4.47% : grocery store
+ 4.01% : lemon
+ 3.38% : bell pepper
+ 2.52% : shopping basket
+ 2.05% : banana
+ 1.78% : vending machine
+ 1.73% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange16Q100.jpg
+20.03% : orange
+19.77% : pineapple
+ 5.01% : confectionery
+ 4.54% : grocery store
+ 4.23% : lemon
+ 3.62% : bell pepper
+ 2.59% : shopping basket
+ 2.04% : banana
+ 1.88% : vending machine
+ 1.84% : plastic bag

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q001.jpg
+14.61% : bell pepper
+ 7.65% : bathing cap
+ 4.89% : ski mask
+ 4.47% : sea slug
+ 3.91% : ice lolly
+ 2.00% : mask
+ 1.63% : bucket
+ 1.62% : jellyfish
+ 1.45% : rubber eraser
+ 1.23% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q002.jpg
+14.61% : bell pepper
+ 7.65% : bathing cap
+ 4.89% : ski mask
+ 4.47% : sea slug
+ 3.91% : ice lolly
+ 2.00% : mask
+ 1.63% : bucket
+ 1.62% : jellyfish
+ 1.45% : rubber eraser
+ 1.23% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q003.jpg
+13.25% : bell pepper
+ 5.92% : bathing cap
+ 5.37% : ice lolly
+ 4.82% : ski mask
+ 4.39% : sea slug
+ 1.76% : mask
+ 1.72% : jellyfish
+ 1.71% : rubber eraser
+ 1.62% : bucket
+ 1.40% : diaper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q004.jpg
+83.11% : bell pepper
+ 0.64% : candle
+ 0.59% : sea slug
+ 0.45% : acorn squash
+ 0.40% : traffic light
+ 0.39% : chiton
+ 0.36% : jack-o'-lantern
+ 0.31% : buckeye
+ 0.30% : slug
+ 0.29% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q005.jpg
+53.74% : bell pepper
+ 1.23% : bathing cap
+ 1.18% : mask
+ 1.17% : ice lolly
+ 1.15% : sea slug
+ 1.00% : jellyfish
+ 0.92% : buckeye
+ 0.92% : knee pad
+ 0.73% : acorn squash
+ 0.60% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q006.jpg
+68.25% : bell pepper
+ 1.53% : ice lolly
+ 1.01% : sea slug
+ 0.60% : candle
+ 0.52% : sunscreen
+ 0.51% : jack-o'-lantern
+ 0.50% : bakery
+ 0.43% : jellyfish
+ 0.38% : cucumber
+ 0.38% : bathing cap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q007.jpg
+89.14% : bell pepper
+ 0.23% : sea slug
+ 0.22% : ice lolly
+ 0.18% : sunscreen
+ 0.16% : acorn squash
+ 0.16% : jack-o'-lantern
+ 0.15% : conch
+ 0.11% : jellyfish
+ 0.10% : cucumber
+ 0.10% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q008.jpg
+94.98% : bell pepper
+ 0.18% : acorn squash
+ 0.11% : corn
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.06% : buckeye
+ 0.05% : conch
+ 0.05% : ear
+ 0.04% : chiton
+ 0.04% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q009.jpg
+93.93% : bell pepper
+ 0.18% : acorn squash
+ 0.10% : cucumber
+ 0.09% : buckeye
+ 0.08% : grocery store
+ 0.07% : corn
+ 0.06% : sea slug
+ 0.05% : conch
+ 0.05% : chiton
+ 0.05% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q010.jpg
+94.79% : bell pepper
+ 0.21% : acorn squash
+ 0.08% : grocery store
+ 0.07% : cucumber
+ 0.06% : buckeye
+ 0.05% : sea slug
+ 0.05% : corn
+ 0.05% : chiton
+ 0.04% : sunscreen
+ 0.04% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q011.jpg
+92.77% : bell pepper
+ 0.26% : acorn squash
+ 0.10% : piggy bank
+ 0.09% : grocery store
+ 0.08% : chiton
+ 0.08% : cucumber
+ 0.07% : gas pump
+ 0.07% : bathing cap
+ 0.07% : corn
+ 0.07% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q012.jpg
+89.96% : bell pepper
+ 0.38% : acorn squash
+ 0.14% : buckeye
+ 0.12% : conch
+ 0.11% : cucumber
+ 0.11% : breastplate
+ 0.11% : saltshaker
+ 0.10% : piggy bank
+ 0.09% : sunscreen
+ 0.09% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q013.jpg
+89.91% : bell pepper
+ 0.40% : acorn squash
+ 0.16% : piggy bank
+ 0.15% : corn
+ 0.13% : sea slug
+ 0.12% : saltshaker
+ 0.11% : breastplate
+ 0.10% : cucumber
+ 0.09% : chiton
+ 0.08% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q014.jpg
+88.02% : bell pepper
+ 0.25% : acorn squash
+ 0.20% : breastplate
+ 0.18% : conch
+ 0.17% : saltshaker
+ 0.15% : corn
+ 0.12% : chiton
+ 0.11% : cucumber
+ 0.11% : flatworm
+ 0.11% : knee pad
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q015.jpg
+92.22% : bell pepper
+ 0.25% : breastplate
+ 0.21% : acorn squash
+ 0.15% : saltshaker
+ 0.13% : corn
+ 0.11% : sea slug
+ 0.11% : chiton
+ 0.09% : cucumber
+ 0.09% : cuirass
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q016.jpg
+91.05% : bell pepper
+ 0.19% : acorn squash
+ 0.17% : breastplate
+ 0.15% : sea slug
+ 0.13% : cucumber
+ 0.09% : piggy bank
+ 0.09% : flatworm
+ 0.09% : corn
+ 0.09% : buckeye
+ 0.08% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q017.jpg
+93.67% : bell pepper
+ 0.18% : acorn squash
+ 0.14% : breastplate
+ 0.13% : sea slug
+ 0.10% : cucumber
+ 0.10% : corn
+ 0.09% : buckeye
+ 0.07% : piggy bank
+ 0.07% : saltshaker
+ 0.07% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q018.jpg
+83.89% : bell pepper
+ 0.47% : sea slug
+ 0.39% : breastplate
+ 0.32% : acorn squash
+ 0.27% : flatworm
+ 0.22% : saltshaker
+ 0.19% : ocarina
+ 0.18% : piggy bank
+ 0.18% : cucumber
+ 0.16% : cuirass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q019.jpg
+85.79% : bell pepper
+ 0.39% : sea slug
+ 0.36% : acorn squash
+ 0.32% : breastplate
+ 0.27% : flatworm
+ 0.18% : saltshaker
+ 0.15% : cucumber
+ 0.15% : piggy bank
+ 0.14% : conch
+ 0.13% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q020.jpg
+64.78% : bell pepper
+ 1.72% : sea slug
+ 0.83% : flatworm
+ 0.80% : piggy bank
+ 0.56% : breastplate
+ 0.45% : saltshaker
+ 0.37% : conch
+ 0.36% : acorn squash
+ 0.34% : cucumber
+ 0.33% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q021.jpg
+83.81% : bell pepper
+ 0.35% : sea slug
+ 0.30% : breastplate
+ 0.25% : flatworm
+ 0.23% : acorn squash
+ 0.18% : saltshaker
+ 0.18% : corn
+ 0.16% : piggy bank
+ 0.16% : conch
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q022.jpg
+70.69% : bell pepper
+ 0.84% : sea slug
+ 0.62% : breastplate
+ 0.51% : piggy bank
+ 0.51% : flatworm
+ 0.38% : saltshaker
+ 0.35% : acorn squash
+ 0.34% : ocarina
+ 0.30% : cuirass
+ 0.22% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q023.jpg
+72.95% : bell pepper
+ 1.48% : sea slug
+ 1.04% : flatworm
+ 0.59% : breastplate
+ 0.37% : acorn squash
+ 0.28% : slug
+ 0.26% : cuirass
+ 0.26% : piggy bank
+ 0.25% : cucumber
+ 0.24% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q024.jpg
+71.03% : bell pepper
+ 2.00% : sea slug
+ 1.00% : flatworm
+ 0.69% : breastplate
+ 0.43% : acorn squash
+ 0.32% : slug
+ 0.32% : piggy bank
+ 0.30% : cuirass
+ 0.29% : cucumber
+ 0.22% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q025.jpg
+70.14% : bell pepper
+ 2.11% : sea slug
+ 1.20% : flatworm
+ 0.64% : breastplate
+ 0.37% : slug
+ 0.33% : acorn squash
+ 0.31% : conch
+ 0.29% : cuirass
+ 0.27% : cucumber
+ 0.25% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q026.jpg
+74.51% : bell pepper
+ 1.20% : sea slug
+ 0.84% : flatworm
+ 0.45% : breastplate
+ 0.26% : slug
+ 0.26% : acorn squash
+ 0.25% : conch
+ 0.18% : cuirass
+ 0.18% : piggy bank
+ 0.18% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q027.jpg
+69.91% : bell pepper
+ 1.46% : sea slug
+ 0.90% : flatworm
+ 0.50% : breastplate
+ 0.34% : acorn squash
+ 0.32% : piggy bank
+ 0.26% : slug
+ 0.26% : cucumber
+ 0.24% : conch
+ 0.23% : cuirass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q028.jpg
+73.84% : bell pepper
+ 1.41% : sea slug
+ 0.85% : flatworm
+ 0.32% : breastplate
+ 0.28% : acorn squash
+ 0.25% : slug
+ 0.21% : conch
+ 0.21% : cucumber
+ 0.20% : sunscreen
+ 0.19% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q029.jpg
+70.81% : bell pepper
+ 1.57% : sea slug
+ 1.10% : flatworm
+ 0.34% : breastplate
+ 0.33% : acorn squash
+ 0.26% : slug
+ 0.24% : conch
+ 0.22% : cucumber
+ 0.19% : piggy bank
+ 0.18% : cuirass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q030.jpg
+66.51% : bell pepper
+ 2.25% : sea slug
+ 1.24% : flatworm
+ 0.55% : breastplate
+ 0.32% : acorn squash
+ 0.30% : slug
+ 0.29% : piggy bank
+ 0.27% : cuirass
+ 0.25% : cucumber
+ 0.23% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q031.jpg
+63.96% : bell pepper
+ 2.52% : sea slug
+ 1.39% : flatworm
+ 0.55% : breastplate
+ 0.34% : acorn squash
+ 0.31% : slug
+ 0.29% : corn
+ 0.27% : saltshaker
+ 0.26% : conch
+ 0.24% : cuirass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q032.jpg
+68.40% : bell pepper
+ 1.68% : sea slug
+ 0.97% : flatworm
+ 0.45% : breastplate
+ 0.35% : acorn squash
+ 0.29% : corn
+ 0.24% : slug
+ 0.23% : saltshaker
+ 0.23% : cucumber
+ 0.22% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q033.jpg
+61.68% : bell pepper
+ 2.87% : sea slug
+ 1.78% : flatworm
+ 0.55% : breastplate
+ 0.45% : slug
+ 0.41% : conch
+ 0.37% : piggy bank
+ 0.30% : saltshaker
+ 0.29% : sunscreen
+ 0.27% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q034.jpg
+57.43% : bell pepper
+ 3.19% : sea slug
+ 2.04% : flatworm
+ 0.56% : breastplate
+ 0.51% : slug
+ 0.48% : conch
+ 0.40% : piggy bank
+ 0.34% : sunscreen
+ 0.33% : saltshaker
+ 0.30% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q035.jpg
+68.17% : bell pepper
+ 2.85% : sea slug
+ 1.55% : flatworm
+ 0.39% : breastplate
+ 0.37% : slug
+ 0.26% : acorn squash
+ 0.25% : conch
+ 0.25% : sunscreen
+ 0.24% : corn
+ 0.23% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q036.jpg
+65.69% : bell pepper
+ 2.15% : sea slug
+ 1.52% : flatworm
+ 0.47% : breastplate
+ 0.36% : slug
+ 0.31% : conch
+ 0.28% : sunscreen
+ 0.24% : corn
+ 0.24% : piggy bank
+ 0.22% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q037.jpg
+67.04% : bell pepper
+ 2.00% : sea slug
+ 1.47% : flatworm
+ 0.44% : breastplate
+ 0.35% : slug
+ 0.29% : conch
+ 0.29% : sunscreen
+ 0.24% : piggy bank
+ 0.23% : corn
+ 0.21% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q038.jpg
+67.24% : bell pepper
+ 2.54% : sea slug
+ 1.53% : flatworm
+ 0.43% : breastplate
+ 0.38% : slug
+ 0.29% : conch
+ 0.26% : acorn squash
+ 0.25% : corn
+ 0.25% : sunscreen
+ 0.20% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q039.jpg
+68.50% : bell pepper
+ 1.94% : sea slug
+ 1.37% : flatworm
+ 0.38% : breastplate
+ 0.32% : slug
+ 0.28% : conch
+ 0.26% : sunscreen
+ 0.24% : acorn squash
+ 0.24% : corn
+ 0.21% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q040.jpg
+66.59% : bell pepper
+ 1.75% : sea slug
+ 1.31% : flatworm
+ 0.39% : breastplate
+ 0.30% : slug
+ 0.26% : sunscreen
+ 0.25% : acorn squash
+ 0.25% : conch
+ 0.24% : corn
+ 0.21% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q041.jpg
+68.89% : bell pepper
+ 1.68% : sea slug
+ 1.42% : flatworm
+ 0.37% : breastplate
+ 0.29% : slug
+ 0.28% : conch
+ 0.26% : sunscreen
+ 0.22% : acorn squash
+ 0.20% : corn
+ 0.18% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q042.jpg
+68.99% : bell pepper
+ 1.72% : sea slug
+ 1.25% : flatworm
+ 0.34% : sunscreen
+ 0.31% : slug
+ 0.31% : breastplate
+ 0.30% : conch
+ 0.23% : acorn squash
+ 0.20% : corn
+ 0.17% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q043.jpg
+68.16% : bell pepper
+ 1.96% : sea slug
+ 1.43% : flatworm
+ 0.35% : slug
+ 0.33% : conch
+ 0.33% : breastplate
+ 0.32% : sunscreen
+ 0.22% : acorn squash
+ 0.20% : corn
+ 0.17% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q044.jpg
+73.12% : bell pepper
+ 1.41% : sea slug
+ 1.02% : flatworm
+ 0.30% : slug
+ 0.27% : breastplate
+ 0.23% : conch
+ 0.23% : acorn squash
+ 0.20% : sunscreen
+ 0.19% : corn
+ 0.16% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q045.jpg
+69.17% : bell pepper
+ 1.66% : sea slug
+ 1.25% : flatworm
+ 0.36% : slug
+ 0.29% : conch
+ 0.29% : breastplate
+ 0.24% : sunscreen
+ 0.24% : acorn squash
+ 0.19% : corn
+ 0.18% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q046.jpg
+72.84% : bell pepper
+ 1.60% : sea slug
+ 1.04% : flatworm
+ 0.29% : slug
+ 0.27% : breastplate
+ 0.24% : conch
+ 0.22% : sunscreen
+ 0.22% : corn
+ 0.21% : acorn squash
+ 0.18% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q047.jpg
+74.91% : bell pepper
+ 1.41% : sea slug
+ 0.90% : flatworm
+ 0.26% : slug
+ 0.25% : breastplate
+ 0.22% : conch
+ 0.21% : corn
+ 0.21% : acorn squash
+ 0.20% : sunscreen
+ 0.16% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q048.jpg
+73.17% : bell pepper
+ 1.79% : sea slug
+ 1.08% : flatworm
+ 0.29% : slug
+ 0.25% : breastplate
+ 0.24% : conch
+ 0.23% : corn
+ 0.21% : acorn squash
+ 0.21% : sunscreen
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q049.jpg
+64.90% : bell pepper
+ 3.00% : sea slug
+ 1.91% : flatworm
+ 0.46% : slug
+ 0.33% : breastplate
+ 0.32% : conch
+ 0.29% : sunscreen
+ 0.24% : corn
+ 0.24% : acorn squash
+ 0.20% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q050.jpg
+64.94% : bell pepper
+ 2.97% : sea slug
+ 1.94% : flatworm
+ 0.45% : slug
+ 0.33% : breastplate
+ 0.32% : conch
+ 0.28% : sunscreen
+ 0.24% : corn
+ 0.24% : acorn squash
+ 0.20% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q051.jpg
+64.83% : bell pepper
+ 2.95% : sea slug
+ 1.96% : flatworm
+ 0.46% : slug
+ 0.33% : breastplate
+ 0.32% : conch
+ 0.29% : sunscreen
+ 0.24% : corn
+ 0.24% : acorn squash
+ 0.20% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q052.jpg
+61.98% : bell pepper
+ 3.42% : sea slug
+ 2.17% : flatworm
+ 0.47% : slug
+ 0.41% : sunscreen
+ 0.35% : conch
+ 0.30% : breastplate
+ 0.22% : acorn squash
+ 0.22% : corn
+ 0.20% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q053.jpg
+63.35% : bell pepper
+ 3.23% : sea slug
+ 1.88% : flatworm
+ 0.47% : slug
+ 0.44% : sunscreen
+ 0.31% : conch
+ 0.30% : breastplate
+ 0.23% : acorn squash
+ 0.21% : corn
+ 0.20% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q054.jpg
+63.97% : bell pepper
+ 3.02% : sea slug
+ 1.76% : flatworm
+ 0.45% : slug
+ 0.44% : sunscreen
+ 0.31% : conch
+ 0.30% : breastplate
+ 0.23% : acorn squash
+ 0.21% : corn
+ 0.19% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q055.jpg
+69.23% : bell pepper
+ 2.13% : sea slug
+ 1.41% : flatworm
+ 0.34% : slug
+ 0.34% : sunscreen
+ 0.29% : conch
+ 0.29% : breastplate
+ 0.20% : corn
+ 0.20% : acorn squash
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q056.jpg
+67.01% : bell pepper
+ 2.34% : sea slug
+ 1.39% : flatworm
+ 0.40% : sunscreen
+ 0.37% : slug
+ 0.32% : conch
+ 0.30% : breastplate
+ 0.24% : corn
+ 0.22% : acorn squash
+ 0.21% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q057.jpg
+70.14% : bell pepper
+ 1.95% : sea slug
+ 1.32% : flatworm
+ 0.34% : sunscreen
+ 0.33% : slug
+ 0.27% : conch
+ 0.27% : breastplate
+ 0.24% : corn
+ 0.20% : acorn squash
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q058.jpg
+73.35% : bell pepper
+ 1.63% : sea slug
+ 1.09% : flatworm
+ 0.29% : sunscreen
+ 0.27% : slug
+ 0.23% : conch
+ 0.23% : breastplate
+ 0.20% : corn
+ 0.17% : acorn squash
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q059.jpg
+71.83% : bell pepper
+ 1.78% : sea slug
+ 1.18% : flatworm
+ 0.32% : sunscreen
+ 0.29% : slug
+ 0.24% : conch
+ 0.23% : breastplate
+ 0.20% : corn
+ 0.19% : acorn squash
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q060.jpg
+73.96% : bell pepper
+ 1.59% : sea slug
+ 0.96% : flatworm
+ 0.27% : sunscreen
+ 0.26% : slug
+ 0.22% : breastplate
+ 0.20% : conch
+ 0.20% : corn
+ 0.18% : acorn squash
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q061.jpg
+73.90% : bell pepper
+ 1.71% : sea slug
+ 0.94% : flatworm
+ 0.26% : sunscreen
+ 0.25% : slug
+ 0.25% : breastplate
+ 0.21% : corn
+ 0.19% : acorn squash
+ 0.17% : conch
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q062.jpg
+73.76% : bell pepper
+ 1.57% : sea slug
+ 0.85% : flatworm
+ 0.28% : sunscreen
+ 0.25% : slug
+ 0.24% : breastplate
+ 0.20% : corn
+ 0.19% : acorn squash
+ 0.17% : conch
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q063.jpg
+72.10% : bell pepper
+ 1.83% : sea slug
+ 0.96% : flatworm
+ 0.33% : sunscreen
+ 0.31% : slug
+ 0.27% : breastplate
+ 0.21% : corn
+ 0.19% : acorn squash
+ 0.19% : conch
+ 0.18% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q064.jpg
+71.17% : bell pepper
+ 1.96% : sea slug
+ 0.97% : flatworm
+ 0.31% : sunscreen
+ 0.31% : slug
+ 0.27% : breastplate
+ 0.26% : corn
+ 0.20% : acorn squash
+ 0.20% : piggy bank
+ 0.20% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q065.jpg
+69.61% : bell pepper
+ 2.43% : sea slug
+ 1.23% : flatworm
+ 0.36% : slug
+ 0.30% : sunscreen
+ 0.27% : breastplate
+ 0.22% : corn
+ 0.22% : acorn squash
+ 0.21% : saltshaker
+ 0.21% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q066.jpg
+70.88% : bell pepper
+ 2.17% : sea slug
+ 1.09% : flatworm
+ 0.32% : slug
+ 0.27% : sunscreen
+ 0.26% : breastplate
+ 0.23% : acorn squash
+ 0.22% : corn
+ 0.21% : saltshaker
+ 0.19% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q067.jpg
+70.41% : bell pepper
+ 2.28% : sea slug
+ 1.14% : flatworm
+ 0.33% : slug
+ 0.30% : sunscreen
+ 0.26% : breastplate
+ 0.24% : acorn squash
+ 0.23% : saltshaker
+ 0.21% : corn
+ 0.20% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q068.jpg
+66.66% : bell pepper
+ 2.49% : sea slug
+ 1.12% : flatworm
+ 0.36% : slug
+ 0.36% : sunscreen
+ 0.33% : breastplate
+ 0.26% : saltshaker
+ 0.25% : acorn squash
+ 0.25% : conch
+ 0.23% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q069.jpg
+62.67% : bell pepper
+ 2.85% : sea slug
+ 1.34% : flatworm
+ 0.42% : slug
+ 0.37% : sunscreen
+ 0.35% : breastplate
+ 0.27% : acorn squash
+ 0.27% : conch
+ 0.25% : saltshaker
+ 0.24% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q070.jpg
+62.24% : bell pepper
+ 3.38% : sea slug
+ 1.47% : flatworm
+ 0.46% : slug
+ 0.40% : sunscreen
+ 0.33% : breastplate
+ 0.31% : conch
+ 0.26% : acorn squash
+ 0.26% : corn
+ 0.23% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q071.jpg
+60.33% : bell pepper
+ 3.88% : sea slug
+ 1.87% : flatworm
+ 0.52% : slug
+ 0.45% : sunscreen
+ 0.33% : breastplate
+ 0.32% : conch
+ 0.29% : corn
+ 0.29% : saltshaker
+ 0.27% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q072.jpg
+59.74% : bell pepper
+ 3.94% : sea slug
+ 1.70% : flatworm
+ 0.52% : sunscreen
+ 0.52% : slug
+ 0.32% : conch
+ 0.31% : breastplate
+ 0.29% : corn
+ 0.28% : saltshaker
+ 0.27% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q073.jpg
+56.58% : bell pepper
+ 3.94% : sea slug
+ 1.74% : flatworm
+ 0.55% : sunscreen
+ 0.53% : slug
+ 0.35% : breastplate
+ 0.33% : conch
+ 0.30% : saltshaker
+ 0.30% : corn
+ 0.29% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q074.jpg
+50.56% : bell pepper
+ 4.93% : sea slug
+ 2.18% : flatworm
+ 0.65% : slug
+ 0.60% : sunscreen
+ 0.40% : conch
+ 0.37% : breastplate
+ 0.32% : piggy bank
+ 0.30% : saltshaker
+ 0.30% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q075.jpg
+50.74% : bell pepper
+ 4.86% : sea slug
+ 2.15% : flatworm
+ 0.65% : slug
+ 0.61% : sunscreen
+ 0.40% : conch
+ 0.37% : breastplate
+ 0.32% : piggy bank
+ 0.30% : corn
+ 0.30% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q076.jpg
+51.83% : bell pepper
+ 5.04% : sea slug
+ 1.87% : flatworm
+ 0.69% : slug
+ 0.66% : sunscreen
+ 0.36% : conch
+ 0.34% : piggy bank
+ 0.32% : breastplate
+ 0.31% : saltshaker
+ 0.29% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q077.jpg
+54.68% : bell pepper
+ 3.68% : sea slug
+ 1.54% : flatworm
+ 0.60% : sunscreen
+ 0.57% : slug
+ 0.35% : conch
+ 0.34% : breastplate
+ 0.31% : corn
+ 0.31% : piggy bank
+ 0.30% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q078.jpg
+55.17% : bell pepper
+ 3.69% : sea slug
+ 1.73% : flatworm
+ 0.57% : slug
+ 0.57% : sunscreen
+ 0.33% : conch
+ 0.31% : piggy bank
+ 0.30% : breastplate
+ 0.28% : corn
+ 0.28% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q079.jpg
+52.87% : bell pepper
+ 4.08% : sea slug
+ 2.01% : flatworm
+ 0.61% : sunscreen
+ 0.58% : slug
+ 0.36% : conch
+ 0.33% : breastplate
+ 0.31% : corn
+ 0.30% : piggy bank
+ 0.26% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q080.jpg
+50.58% : bell pepper
+ 4.96% : sea slug
+ 2.35% : flatworm
+ 0.66% : slug
+ 0.58% : sunscreen
+ 0.36% : piggy bank
+ 0.35% : conch
+ 0.34% : breastplate
+ 0.29% : saltshaker
+ 0.29% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q081.jpg
+55.82% : bell pepper
+ 4.31% : sea slug
+ 2.31% : flatworm
+ 0.57% : slug
+ 0.55% : sunscreen
+ 0.40% : conch
+ 0.32% : breastplate
+ 0.26% : piggy bank
+ 0.24% : acorn squash
+ 0.24% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q082.jpg
+56.28% : bell pepper
+ 4.07% : sea slug
+ 2.18% : flatworm
+ 0.56% : slug
+ 0.52% : sunscreen
+ 0.38% : conch
+ 0.29% : breastplate
+ 0.25% : piggy bank
+ 0.24% : snail
+ 0.23% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q083.jpg
+62.51% : bell pepper
+ 3.14% : sea slug
+ 1.75% : flatworm
+ 0.47% : slug
+ 0.43% : sunscreen
+ 0.35% : conch
+ 0.29% : breastplate
+ 0.24% : corn
+ 0.21% : cucumber
+ 0.21% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q084.jpg
+63.42% : bell pepper
+ 2.85% : sea slug
+ 1.74% : flatworm
+ 0.47% : slug
+ 0.47% : sunscreen
+ 0.35% : conch
+ 0.31% : breastplate
+ 0.28% : corn
+ 0.22% : piggy bank
+ 0.21% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q085.jpg
+62.09% : bell pepper
+ 3.29% : sea slug
+ 1.92% : flatworm
+ 0.54% : sunscreen
+ 0.49% : slug
+ 0.34% : breastplate
+ 0.34% : conch
+ 0.28% : corn
+ 0.23% : piggy bank
+ 0.20% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q086.jpg
+60.94% : bell pepper
+ 3.41% : sea slug
+ 1.81% : flatworm
+ 0.56% : sunscreen
+ 0.48% : slug
+ 0.37% : breastplate
+ 0.34% : conch
+ 0.27% : corn
+ 0.24% : piggy bank
+ 0.22% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q087.jpg
+61.02% : bell pepper
+ 3.80% : sea slug
+ 1.83% : flatworm
+ 0.57% : sunscreen
+ 0.48% : slug
+ 0.34% : breastplate
+ 0.32% : conch
+ 0.26% : corn
+ 0.24% : piggy bank
+ 0.23% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q088.jpg
+56.83% : bell pepper
+ 4.81% : sea slug
+ 2.11% : flatworm
+ 0.62% : sunscreen
+ 0.54% : slug
+ 0.37% : breastplate
+ 0.32% : conch
+ 0.27% : piggy bank
+ 0.27% : corn
+ 0.23% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q089.jpg
+57.95% : bell pepper
+ 4.73% : sea slug
+ 2.05% : flatworm
+ 0.58% : sunscreen
+ 0.53% : slug
+ 0.34% : breastplate
+ 0.31% : conch
+ 0.27% : corn
+ 0.26% : piggy bank
+ 0.24% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q090.jpg
+59.54% : bell pepper
+ 3.61% : sea slug
+ 1.91% : flatworm
+ 0.52% : sunscreen
+ 0.47% : slug
+ 0.33% : breastplate
+ 0.33% : conch
+ 0.29% : corn
+ 0.26% : acorn squash
+ 0.23% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q091.jpg
+58.38% : bell pepper
+ 3.49% : sea slug
+ 2.15% : flatworm
+ 0.48% : slug
+ 0.45% : sunscreen
+ 0.33% : breastplate
+ 0.32% : conch
+ 0.30% : corn
+ 0.26% : acorn squash
+ 0.25% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q092.jpg
+59.46% : bell pepper
+ 3.52% : sea slug
+ 1.96% : flatworm
+ 0.46% : slug
+ 0.43% : sunscreen
+ 0.41% : breastplate
+ 0.34% : conch
+ 0.33% : corn
+ 0.30% : piggy bank
+ 0.27% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q093.jpg
+62.92% : bell pepper
+ 3.14% : sea slug
+ 1.77% : flatworm
+ 0.44% : slug
+ 0.42% : breastplate
+ 0.40% : sunscreen
+ 0.32% : acorn squash
+ 0.31% : corn
+ 0.29% : piggy bank
+ 0.29% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q094.jpg
+67.07% : bell pepper
+ 3.06% : sea slug
+ 1.47% : flatworm
+ 0.39% : slug
+ 0.36% : breastplate
+ 0.35% : sunscreen
+ 0.31% : corn
+ 0.26% : conch
+ 0.24% : acorn squash
+ 0.23% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q095.jpg
+63.59% : bell pepper
+ 3.53% : sea slug
+ 1.83% : flatworm
+ 0.45% : slug
+ 0.43% : sunscreen
+ 0.38% : breastplate
+ 0.30% : corn
+ 0.27% : conch
+ 0.25% : acorn squash
+ 0.24% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q096.jpg
+59.24% : bell pepper
+ 4.57% : sea slug
+ 2.50% : flatworm
+ 0.52% : slug
+ 0.43% : sunscreen
+ 0.38% : breastplate
+ 0.31% : conch
+ 0.29% : corn
+ 0.27% : acorn squash
+ 0.26% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q097.jpg
+60.52% : bell pepper
+ 4.23% : sea slug
+ 2.21% : flatworm
+ 0.50% : slug
+ 0.43% : sunscreen
+ 0.35% : breastplate
+ 0.30% : conch
+ 0.28% : corn
+ 0.26% : piggy bank
+ 0.25% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q098.jpg
+61.30% : bell pepper
+ 4.31% : sea slug
+ 2.21% : flatworm
+ 0.50% : slug
+ 0.39% : sunscreen
+ 0.36% : breastplate
+ 0.30% : conch
+ 0.28% : corn
+ 0.26% : acorn squash
+ 0.25% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q099.jpg
+63.48% : bell pepper
+ 3.84% : sea slug
+ 1.94% : flatworm
+ 0.44% : slug
+ 0.39% : sunscreen
+ 0.36% : breastplate
+ 0.30% : conch
+ 0.29% : corn
+ 0.25% : acorn squash
+ 0.23% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper23Q100.jpg
+61.66% : bell pepper
+ 4.09% : sea slug
+ 2.14% : flatworm
+ 0.48% : slug
+ 0.43% : sunscreen
+ 0.37% : breastplate
+ 0.31% : conch
+ 0.28% : corn
+ 0.26% : acorn squash
+ 0.25% : piggy bank

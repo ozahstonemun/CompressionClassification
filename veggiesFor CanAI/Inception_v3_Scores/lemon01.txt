@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q001.jpg
+37.87% : orange
+16.48% : lemon
+ 3.62% : bottlecap
+ 1.38% : tennis ball
+ 0.62% : grocery store
+ 0.53% : harvester
+ 0.52% : confectionery
+ 0.49% : corn
+ 0.47% : lumbermill
+ 0.38% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q002.jpg
+37.87% : orange
+16.58% : lemon
+ 3.77% : bottlecap
+ 1.36% : tennis ball
+ 0.61% : grocery store
+ 0.53% : harvester
+ 0.51% : confectionery
+ 0.49% : corn
+ 0.48% : lumbermill
+ 0.38% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q003.jpg
+34.57% : orange
+17.57% : lemon
+ 6.20% : bottlecap
+ 2.11% : tennis ball
+ 0.52% : corn
+ 0.49% : grocery store
+ 0.49% : harvester
+ 0.45% : lumbermill
+ 0.42% : confectionery
+ 0.40% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q004.jpg
+88.37% : orange
+ 5.76% : lemon
+ 0.31% : pop bottle
+ 0.22% : confectionery
+ 0.22% : bottlecap
+ 0.21% : grocery store
+ 0.18% : tennis ball
+ 0.13% : pineapple
+ 0.08% : mixing bowl
+ 0.08% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q005.jpg
+62.98% : lemon
+29.94% : orange
+ 0.55% : spaghetti squash
+ 0.09% : tennis ball
+ 0.08% : ear
+ 0.08% : pineapple
+ 0.08% : acorn squash
+ 0.08% : corn
+ 0.06% : butternut squash
+ 0.06% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q006.jpg
+77.90% : orange
+18.48% : lemon
+ 0.09% : spaghetti squash
+ 0.04% : pineapple
+ 0.04% : banana
+ 0.03% : lifeboat
+ 0.03% : monarch
+ 0.03% : butternut squash
+ 0.02% : basketball
+ 0.02% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q007.jpg
+46.90% : orange
+45.42% : lemon
+ 0.25% : spaghetti squash
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : banana
+ 0.04% : basketball
+ 0.04% : honeycomb
+ 0.04% : monarch
+ 0.04% : lifeboat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q008.jpg
+73.99% : lemon
+17.43% : orange
+ 0.54% : spaghetti squash
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.04% : banana
+ 0.04% : monarch
+ 0.04% : basketball
+ 0.03% : croquet ball
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q009.jpg
+56.21% : lemon
+37.03% : orange
+ 0.20% : spaghetti squash
+ 0.06% : banana
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.03% : crate
+ 0.03% : basketball
+ 0.03% : grocery store
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q010.jpg
+65.29% : lemon
+26.78% : orange
+ 0.32% : spaghetti squash
+ 0.06% : strainer
+ 0.06% : pineapple
+ 0.05% : banana
+ 0.04% : daisy
+ 0.04% : oil filter
+ 0.04% : basketball
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q011.jpg
+71.52% : lemon
+22.17% : orange
+ 0.29% : spaghetti squash
+ 0.06% : pineapple
+ 0.06% : banana
+ 0.06% : strainer
+ 0.03% : Granny Smith
+ 0.02% : daisy
+ 0.02% : oil filter
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q012.jpg
+70.67% : lemon
+23.36% : orange
+ 0.28% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : banana
+ 0.03% : jellyfish
+ 0.02% : oil filter
+ 0.02% : honeycomb
+ 0.02% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q013.jpg
+78.57% : lemon
+15.14% : orange
+ 0.23% : spaghetti squash
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.04% : banana
+ 0.03% : daisy
+ 0.03% : honeycomb
+ 0.02% : oil filter
+ 0.02% : jellyfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q014.jpg
+71.25% : lemon
+21.35% : orange
+ 0.18% : spaghetti squash
+ 0.05% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : daisy
+ 0.03% : oil filter
+ 0.03% : jellyfish
+ 0.02% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q015.jpg
+86.41% : lemon
+ 8.09% : orange
+ 0.18% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : jellyfish
+ 0.02% : daisy
+ 0.02% : king penguin
+ 0.02% : oil filter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q016.jpg
+89.06% : lemon
+ 6.07% : orange
+ 0.15% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : dough
+ 0.02% : car wheel
+ 0.02% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q017.jpg
+87.34% : lemon
+ 6.57% : orange
+ 0.17% : spaghetti squash
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.04% : banana
+ 0.02% : dough
+ 0.02% : cheeseburger
+ 0.02% : jellyfish
+ 0.02% : oil filter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q018.jpg
+89.39% : lemon
+ 5.45% : orange
+ 0.12% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : dough
+ 0.02% : harmonica
+ 0.02% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q019.jpg
+89.65% : lemon
+ 5.21% : orange
+ 0.12% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.02% : oil filter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q020.jpg
+90.12% : lemon
+ 5.11% : orange
+ 0.18% : spaghetti squash
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : king penguin
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q021.jpg
+91.45% : lemon
+ 3.79% : orange
+ 0.13% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : dough
+ 0.02% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q022.jpg
+92.82% : lemon
+ 3.07% : orange
+ 0.11% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : dough
+ 0.02% : daisy
+ 0.01% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q023.jpg
+89.82% : lemon
+ 4.66% : orange
+ 0.14% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q024.jpg
+90.56% : lemon
+ 3.99% : orange
+ 0.12% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q025.jpg
+87.91% : lemon
+ 6.36% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : daisy
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q026.jpg
+91.83% : lemon
+ 3.97% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.01% : harmonica
+ 0.01% : daisy
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q027.jpg
+89.68% : lemon
+ 5.09% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q028.jpg
+88.44% : lemon
+ 6.19% : orange
+ 0.12% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : daisy
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q029.jpg
+87.73% : lemon
+ 6.63% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : daisy
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q030.jpg
+87.78% : lemon
+ 6.74% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : carton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q031.jpg
+90.87% : lemon
+ 4.13% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q032.jpg
+89.96% : lemon
+ 4.78% : orange
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q033.jpg
+90.51% : lemon
+ 4.84% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : harmonica
+ 0.01% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q034.jpg
+90.52% : lemon
+ 4.77% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : harmonica
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q035.jpg
+89.58% : lemon
+ 5.53% : orange
+ 0.11% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : harmonica
+ 0.02% : oil filter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q036.jpg
+89.56% : lemon
+ 5.32% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q037.jpg
+89.09% : lemon
+ 5.69% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : daisy
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q038.jpg
+88.89% : lemon
+ 5.80% : orange
+ 0.10% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : harmonica
+ 0.02% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q039.jpg
+88.99% : lemon
+ 5.53% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q040.jpg
+89.85% : lemon
+ 4.89% : orange
+ 0.10% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q041.jpg
+90.78% : lemon
+ 4.31% : orange
+ 0.11% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q042.jpg
+90.55% : lemon
+ 4.43% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : dough
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q043.jpg
+90.28% : lemon
+ 4.54% : orange
+ 0.10% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q044.jpg
+90.96% : lemon
+ 4.16% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q045.jpg
+91.51% : lemon
+ 3.93% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.01% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q046.jpg
+91.85% : lemon
+ 3.52% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q047.jpg
+92.01% : lemon
+ 3.44% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q048.jpg
+92.02% : lemon
+ 3.48% : orange
+ 0.11% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q049.jpg
+91.30% : lemon
+ 3.69% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q050.jpg
+91.17% : lemon
+ 3.76% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q051.jpg
+91.03% : lemon
+ 3.80% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q052.jpg
+91.93% : lemon
+ 3.54% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.01% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q053.jpg
+92.01% : lemon
+ 3.46% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.01% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q054.jpg
+91.91% : lemon
+ 3.56% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.01% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q055.jpg
+91.39% : lemon
+ 3.79% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.01% : oil filter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q056.jpg
+91.30% : lemon
+ 3.97% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q057.jpg
+90.77% : lemon
+ 4.49% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q058.jpg
+92.62% : lemon
+ 3.10% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q059.jpg
+93.11% : lemon
+ 2.89% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.01% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q060.jpg
+93.24% : lemon
+ 2.90% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.01% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q061.jpg
+92.06% : lemon
+ 3.59% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q062.jpg
+92.28% : lemon
+ 3.44% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q063.jpg
+91.77% : lemon
+ 3.86% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : daisy
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q064.jpg
+91.82% : lemon
+ 3.75% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.01% : daisy
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q065.jpg
+91.64% : lemon
+ 3.77% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q066.jpg
+92.02% : lemon
+ 3.57% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q067.jpg
+91.68% : lemon
+ 3.82% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : spatula
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q068.jpg
+91.25% : lemon
+ 4.27% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : Gordon setter
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q069.jpg
+91.86% : lemon
+ 3.75% : orange
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q070.jpg
+91.69% : lemon
+ 3.94% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q071.jpg
+91.84% : lemon
+ 3.89% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.01% : dough
+ 0.01% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q072.jpg
+90.98% : lemon
+ 4.43% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : Gordon setter
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q073.jpg
+91.62% : lemon
+ 4.00% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.01% : Gordon setter
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q074.jpg
+92.22% : lemon
+ 3.66% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q075.jpg
+92.16% : lemon
+ 3.65% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q076.jpg
+91.44% : lemon
+ 4.36% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : dough
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q077.jpg
+90.41% : lemon
+ 5.11% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.02% : harmonica
+ 0.02% : dough
+ 0.02% : carton
+ 0.02% : jellyfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q078.jpg
+91.02% : lemon
+ 4.41% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : banana
+ 0.02% : pineapple
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : carton
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q079.jpg
+90.76% : lemon
+ 4.47% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : carton
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q080.jpg
+90.29% : lemon
+ 4.81% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : carton
+ 0.02% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q081.jpg
+89.59% : lemon
+ 5.40% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : Gordon setter
+ 0.02% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q082.jpg
+90.20% : lemon
+ 5.06% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : Gordon setter
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q083.jpg
+91.06% : lemon
+ 4.38% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q084.jpg
+90.44% : lemon
+ 4.85% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.02% : honeycomb
+ 0.02% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q085.jpg
+90.62% : lemon
+ 4.79% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q086.jpg
+90.54% : lemon
+ 4.82% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+ 0.02% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q087.jpg
+91.45% : lemon
+ 4.13% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+ 0.01% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q088.jpg
+91.61% : lemon
+ 3.91% : orange
+ 0.09% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : daisy
+ 0.01% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q089.jpg
+91.56% : lemon
+ 3.96% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.01% : daisy
+ 0.01% : Gordon setter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q090.jpg
+91.40% : lemon
+ 4.05% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : harmonica
+ 0.02% : jellyfish
+ 0.01% : Gordon setter
+ 0.01% : car wheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q091.jpg
+91.14% : lemon
+ 4.31% : orange
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : daisy
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q092.jpg
+89.03% : lemon
+ 5.54% : orange
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : honeycomb
+ 0.02% : daisy
+ 0.02% : harmonica
+ 0.02% : jellyfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q093.jpg
+87.22% : lemon
+ 6.85% : orange
+ 0.10% : spaghetti squash
+ 0.05% : strainer
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.02% : honeycomb
+ 0.02% : daisy
+ 0.02% : jellyfish
+ 0.02% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q094.jpg
+87.94% : lemon
+ 6.25% : orange
+ 0.11% : spaghetti squash
+ 0.05% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : honeycomb
+ 0.02% : daisy
+ 0.02% : jellyfish
+ 0.02% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q095.jpg
+89.18% : lemon
+ 5.34% : orange
+ 0.11% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : honeycomb
+ 0.02% : jellyfish
+ 0.02% : daisy
+ 0.02% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q096.jpg
+90.15% : lemon
+ 4.90% : orange
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : honeycomb
+ 0.02% : harmonica
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q097.jpg
+90.52% : lemon
+ 4.63% : orange
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : harmonica
+ 0.02% : honeycomb
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q098.jpg
+90.47% : lemon
+ 4.68% : orange
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.02% : banana
+ 0.02% : jellyfish
+ 0.02% : honeycomb
+ 0.02% : harmonica
+ 0.02% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q099.jpg
+90.12% : lemon
+ 4.98% : orange
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : honeycomb
+ 0.02% : daisy
+ 0.02% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon1Q100.jpg
+90.08% : lemon
+ 4.97% : orange
+ 0.10% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : jellyfish
+ 0.02% : honeycomb
+ 0.02% : daisy
+ 0.02% : harmonica

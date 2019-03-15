@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q001.jpg
+53.09% : zucchini
+41.14% : cucumber
+ 0.59% : ear
+ 0.12% : banana
+ 0.12% : spaghetti squash
+ 0.11% : corn
+ 0.06% : grocery store
+ 0.05% : coil
+ 0.05% : hotdog
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q002.jpg
+53.14% : zucchini
+41.10% : cucumber
+ 0.59% : ear
+ 0.12% : banana
+ 0.12% : spaghetti squash
+ 0.11% : corn
+ 0.06% : grocery store
+ 0.05% : coil
+ 0.05% : hotdog
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q003.jpg
+55.69% : zucchini
+38.86% : cucumber
+ 0.48% : ear
+ 0.15% : banana
+ 0.11% : spaghetti squash
+ 0.10% : corn
+ 0.06% : grocery store
+ 0.05% : coil
+ 0.04% : missile
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q004.jpg
+81.93% : cucumber
+12.77% : zucchini
+ 0.27% : ear
+ 0.10% : spaghetti squash
+ 0.09% : banana
+ 0.07% : canoe
+ 0.07% : modem
+ 0.06% : coil
+ 0.05% : corn
+ 0.03% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q005.jpg
+67.11% : cucumber
+24.41% : zucchini
+ 0.21% : ear
+ 0.17% : spaghetti squash
+ 0.07% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.05% : French loaf
+ 0.04% : head cabbage
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q006.jpg
+44.60% : zucchini
+40.78% : cucumber
+ 0.61% : ear
+ 0.15% : spaghetti squash
+ 0.10% : coil
+ 0.10% : tile roof
+ 0.09% : canoe
+ 0.08% : French loaf
+ 0.08% : panpipe
+ 0.08% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q007.jpg
+49.61% : cucumber
+32.42% : zucchini
+ 0.37% : ear
+ 0.19% : spaghetti squash
+ 0.14% : coil
+ 0.10% : modem
+ 0.09% : grocery store
+ 0.09% : canoe
+ 0.08% : tile roof
+ 0.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q008.jpg
+69.51% : cucumber
+14.54% : zucchini
+ 0.30% : ear
+ 0.16% : coil
+ 0.16% : spaghetti squash
+ 0.15% : modem
+ 0.12% : grocery store
+ 0.10% : canoe
+ 0.09% : French loaf
+ 0.07% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q009.jpg
+64.29% : cucumber
+20.75% : zucchini
+ 0.28% : ear
+ 0.14% : grocery store
+ 0.13% : spaghetti squash
+ 0.13% : coil
+ 0.09% : modem
+ 0.08% : French loaf
+ 0.08% : panpipe
+ 0.08% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q010.jpg
+76.08% : cucumber
+14.03% : zucchini
+ 0.18% : ear
+ 0.14% : coil
+ 0.10% : grocery store
+ 0.09% : spaghetti squash
+ 0.09% : panpipe
+ 0.08% : modem
+ 0.06% : French loaf
+ 0.06% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q011.jpg
+76.48% : cucumber
+13.37% : zucchini
+ 0.17% : ear
+ 0.13% : coil
+ 0.13% : grocery store
+ 0.10% : spaghetti squash
+ 0.07% : modem
+ 0.06% : banana
+ 0.05% : French loaf
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q012.jpg
+75.47% : cucumber
+16.46% : zucchini
+ 0.15% : ear
+ 0.10% : coil
+ 0.09% : spaghetti squash
+ 0.09% : grocery store
+ 0.06% : modem
+ 0.04% : French loaf
+ 0.04% : panpipe
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q013.jpg
+74.58% : cucumber
+13.69% : zucchini
+ 0.15% : coil
+ 0.15% : ear
+ 0.12% : spaghetti squash
+ 0.12% : grocery store
+ 0.10% : modem
+ 0.06% : panpipe
+ 0.06% : French loaf
+ 0.06% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q014.jpg
+74.60% : cucumber
+14.57% : zucchini
+ 0.16% : ear
+ 0.14% : coil
+ 0.09% : spaghetti squash
+ 0.09% : modem
+ 0.09% : grocery store
+ 0.07% : panpipe
+ 0.05% : canoe
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q015.jpg
+72.56% : cucumber
+13.91% : zucchini
+ 0.20% : ear
+ 0.16% : spaghetti squash
+ 0.16% : coil
+ 0.13% : grocery store
+ 0.09% : modem
+ 0.08% : panpipe
+ 0.07% : cauliflower
+ 0.07% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q016.jpg
+75.86% : cucumber
+11.93% : zucchini
+ 0.28% : ear
+ 0.15% : spaghetti squash
+ 0.14% : coil
+ 0.12% : grocery store
+ 0.09% : modem
+ 0.07% : French loaf
+ 0.07% : panpipe
+ 0.06% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q017.jpg
+70.88% : cucumber
+16.82% : zucchini
+ 0.22% : ear
+ 0.14% : spaghetti squash
+ 0.13% : coil
+ 0.12% : grocery store
+ 0.09% : panpipe
+ 0.07% : French loaf
+ 0.06% : banana
+ 0.06% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q018.jpg
+83.73% : cucumber
+ 7.53% : zucchini
+ 0.14% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : panpipe
+ 0.07% : modem
+ 0.05% : banana
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q019.jpg
+81.54% : cucumber
+ 9.55% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.09% : spaghetti squash
+ 0.08% : grocery store
+ 0.08% : panpipe
+ 0.07% : modem
+ 0.04% : canoe
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q020.jpg
+85.28% : cucumber
+ 7.85% : zucchini
+ 0.11% : coil
+ 0.09% : ear
+ 0.08% : grocery store
+ 0.06% : modem
+ 0.06% : spaghetti squash
+ 0.04% : panpipe
+ 0.04% : banana
+ 0.03% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q021.jpg
+83.21% : cucumber
+ 9.15% : zucchini
+ 0.11% : ear
+ 0.11% : coil
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q022.jpg
+80.69% : cucumber
+10.56% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q023.jpg
+77.15% : cucumber
+12.67% : zucchini
+ 0.15% : ear
+ 0.13% : coil
+ 0.11% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : modem
+ 0.06% : panpipe
+ 0.05% : French loaf
+ 0.05% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q024.jpg
+78.82% : cucumber
+10.93% : zucchini
+ 0.15% : ear
+ 0.15% : coil
+ 0.12% : grocery store
+ 0.10% : spaghetti squash
+ 0.09% : modem
+ 0.06% : panpipe
+ 0.06% : banana
+ 0.05% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q025.jpg
+77.52% : cucumber
+12.57% : zucchini
+ 0.14% : ear
+ 0.11% : coil
+ 0.10% : spaghetti squash
+ 0.09% : grocery store
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q026.jpg
+84.05% : cucumber
+ 7.01% : zucchini
+ 0.14% : coil
+ 0.11% : ear
+ 0.10% : grocery store
+ 0.09% : modem
+ 0.08% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q027.jpg
+77.44% : cucumber
+12.49% : zucchini
+ 0.16% : ear
+ 0.14% : coil
+ 0.12% : grocery store
+ 0.09% : spaghetti squash
+ 0.07% : modem
+ 0.07% : panpipe
+ 0.05% : canoe
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q028.jpg
+81.72% : cucumber
+ 9.81% : zucchini
+ 0.12% : ear
+ 0.12% : coil
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q029.jpg
+82.63% : cucumber
+ 8.81% : zucchini
+ 0.12% : ear
+ 0.12% : coil
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.05% : canoe
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q030.jpg
+82.30% : cucumber
+ 9.65% : zucchini
+ 0.14% : ear
+ 0.11% : coil
+ 0.10% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.05% : panpipe
+ 0.04% : head cabbage
+ 0.04% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q031.jpg
+83.96% : cucumber
+ 8.24% : zucchini
+ 0.12% : coil
+ 0.11% : ear
+ 0.10% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : French loaf
+ 0.04% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q032.jpg
+79.05% : cucumber
+11.90% : zucchini
+ 0.13% : ear
+ 0.12% : coil
+ 0.11% : grocery store
+ 0.08% : spaghetti squash
+ 0.08% : modem
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q033.jpg
+85.10% : cucumber
+ 7.78% : zucchini
+ 0.11% : ear
+ 0.10% : coil
+ 0.09% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.04% : panpipe
+ 0.04% : French loaf
+ 0.04% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q034.jpg
+85.06% : cucumber
+ 7.54% : zucchini
+ 0.12% : ear
+ 0.11% : coil
+ 0.09% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.04% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q035.jpg
+82.00% : cucumber
+ 9.63% : zucchini
+ 0.13% : ear
+ 0.11% : coil
+ 0.10% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q036.jpg
+80.32% : cucumber
+ 9.70% : zucchini
+ 0.15% : ear
+ 0.12% : coil
+ 0.11% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : modem
+ 0.07% : panpipe
+ 0.05% : banana
+ 0.05% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q037.jpg
+80.80% : cucumber
+ 9.01% : zucchini
+ 0.14% : ear
+ 0.13% : coil
+ 0.11% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : modem
+ 0.07% : panpipe
+ 0.05% : banana
+ 0.05% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q038.jpg
+81.77% : cucumber
+ 8.62% : zucchini
+ 0.14% : coil
+ 0.14% : ear
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.08% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q039.jpg
+87.25% : cucumber
+ 5.44% : zucchini
+ 0.13% : coil
+ 0.10% : ear
+ 0.08% : modem
+ 0.08% : grocery store
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : French loaf
+ 0.04% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q040.jpg
+85.47% : cucumber
+ 6.78% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q041.jpg
+77.42% : cucumber
+11.26% : zucchini
+ 0.16% : coil
+ 0.16% : ear
+ 0.12% : grocery store
+ 0.10% : spaghetti squash
+ 0.08% : modem
+ 0.08% : panpipe
+ 0.06% : cauliflower
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q042.jpg
+77.58% : cucumber
+11.34% : zucchini
+ 0.15% : coil
+ 0.13% : ear
+ 0.11% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : modem
+ 0.07% : panpipe
+ 0.06% : banana
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q043.jpg
+76.79% : cucumber
+11.90% : zucchini
+ 0.15% : coil
+ 0.14% : ear
+ 0.12% : grocery store
+ 0.10% : spaghetti squash
+ 0.08% : modem
+ 0.07% : panpipe
+ 0.06% : banana
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q044.jpg
+82.94% : cucumber
+ 8.12% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.10% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : banana
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q045.jpg
+83.23% : cucumber
+ 7.84% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.10% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : banana
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q046.jpg
+81.60% : cucumber
+ 8.62% : zucchini
+ 0.14% : coil
+ 0.13% : ear
+ 0.11% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : banana
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q047.jpg
+80.95% : cucumber
+ 9.08% : zucchini
+ 0.14% : coil
+ 0.14% : ear
+ 0.11% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : banana
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q048.jpg
+80.08% : cucumber
+ 9.69% : zucchini
+ 0.14% : coil
+ 0.14% : ear
+ 0.11% : grocery store
+ 0.09% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.05% : head cabbage
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q049.jpg
+81.54% : cucumber
+ 9.17% : zucchini
+ 0.13% : ear
+ 0.13% : coil
+ 0.10% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : panpipe
+ 0.07% : modem
+ 0.05% : head cabbage
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q050.jpg
+81.65% : cucumber
+ 9.08% : zucchini
+ 0.13% : ear
+ 0.13% : coil
+ 0.10% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : panpipe
+ 0.07% : modem
+ 0.05% : head cabbage
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q051.jpg
+81.57% : cucumber
+ 9.16% : zucchini
+ 0.14% : ear
+ 0.13% : coil
+ 0.10% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : panpipe
+ 0.07% : modem
+ 0.05% : head cabbage
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q052.jpg
+80.58% : cucumber
+ 9.44% : zucchini
+ 0.15% : ear
+ 0.15% : coil
+ 0.10% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : modem
+ 0.08% : panpipe
+ 0.06% : canoe
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q053.jpg
+81.74% : cucumber
+ 8.61% : zucchini
+ 0.15% : coil
+ 0.14% : ear
+ 0.10% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : modem
+ 0.08% : panpipe
+ 0.05% : canoe
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q054.jpg
+82.29% : cucumber
+ 8.28% : zucchini
+ 0.15% : coil
+ 0.14% : ear
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.08% : spaghetti squash
+ 0.07% : panpipe
+ 0.05% : canoe
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q055.jpg
+84.29% : cucumber
+ 7.21% : zucchini
+ 0.14% : coil
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q056.jpg
+84.37% : cucumber
+ 7.24% : zucchini
+ 0.14% : coil
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q057.jpg
+85.86% : cucumber
+ 6.54% : zucchini
+ 0.13% : coil
+ 0.10% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q058.jpg
+86.85% : cucumber
+ 6.10% : zucchini
+ 0.13% : coil
+ 0.10% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.06% : spaghetti squash
+ 0.04% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q059.jpg
+87.52% : cucumber
+ 5.72% : zucchini
+ 0.13% : coil
+ 0.09% : ear
+ 0.07% : grocery store
+ 0.07% : modem
+ 0.05% : spaghetti squash
+ 0.04% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q060.jpg
+88.07% : cucumber
+ 5.43% : zucchini
+ 0.12% : coil
+ 0.09% : ear
+ 0.07% : grocery store
+ 0.07% : modem
+ 0.05% : spaghetti squash
+ 0.04% : panpipe
+ 0.03% : canoe
+ 0.03% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q061.jpg
+83.27% : cucumber
+ 8.27% : zucchini
+ 0.14% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q062.jpg
+80.37% : cucumber
+10.01% : zucchini
+ 0.15% : coil
+ 0.14% : ear
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.08% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q063.jpg
+83.24% : cucumber
+ 8.17% : zucchini
+ 0.14% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q064.jpg
+85.30% : cucumber
+ 6.89% : zucchini
+ 0.14% : coil
+ 0.10% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q065.jpg
+85.52% : cucumber
+ 6.65% : zucchini
+ 0.14% : coil
+ 0.09% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : hoopskirt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q066.jpg
+85.98% : cucumber
+ 6.46% : zucchini
+ 0.14% : coil
+ 0.09% : ear
+ 0.08% : modem
+ 0.08% : grocery store
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : hoopskirt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q067.jpg
+84.96% : cucumber
+ 7.31% : zucchini
+ 0.13% : coil
+ 0.10% : ear
+ 0.08% : modem
+ 0.08% : grocery store
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q068.jpg
+83.43% : cucumber
+ 8.32% : zucchini
+ 0.12% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q069.jpg
+82.69% : cucumber
+ 8.76% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.08% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q070.jpg
+83.30% : cucumber
+ 8.42% : zucchini
+ 0.12% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q071.jpg
+84.89% : cucumber
+ 7.11% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q072.jpg
+84.91% : cucumber
+ 7.02% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q073.jpg
+84.91% : cucumber
+ 7.37% : zucchini
+ 0.12% : coil
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : head cabbage
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q074.jpg
+82.72% : cucumber
+ 8.83% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.04% : French loaf
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q075.jpg
+82.92% : cucumber
+ 8.67% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.04% : French loaf
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q076.jpg
+84.45% : cucumber
+ 7.35% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q077.jpg
+83.83% : cucumber
+ 8.00% : zucchini
+ 0.13% : coil
+ 0.13% : ear
+ 0.09% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : modem
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q078.jpg
+83.76% : cucumber
+ 7.82% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q079.jpg
+83.15% : cucumber
+ 8.26% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q080.jpg
+84.06% : cucumber
+ 7.86% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q081.jpg
+84.43% : cucumber
+ 7.51% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q082.jpg
+84.98% : cucumber
+ 7.36% : zucchini
+ 0.12% : coil
+ 0.12% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q083.jpg
+82.35% : cucumber
+ 8.97% : zucchini
+ 0.13% : ear
+ 0.13% : coil
+ 0.09% : grocery store
+ 0.07% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q084.jpg
+83.65% : cucumber
+ 8.06% : zucchini
+ 0.13% : coil
+ 0.12% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q085.jpg
+84.90% : cucumber
+ 7.09% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q086.jpg
+84.61% : cucumber
+ 7.33% : zucchini
+ 0.14% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q087.jpg
+84.92% : cucumber
+ 7.26% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q088.jpg
+86.72% : cucumber
+ 6.12% : zucchini
+ 0.13% : coil
+ 0.10% : ear
+ 0.08% : grocery store
+ 0.07% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q089.jpg
+85.69% : cucumber
+ 6.73% : zucchini
+ 0.13% : coil
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q090.jpg
+86.76% : cucumber
+ 5.94% : zucchini
+ 0.13% : coil
+ 0.10% : ear
+ 0.08% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q091.jpg
+86.24% : cucumber
+ 6.19% : zucchini
+ 0.14% : coil
+ 0.10% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q092.jpg
+85.41% : cucumber
+ 6.70% : zucchini
+ 0.14% : coil
+ 0.10% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.06% : spaghetti squash
+ 0.05% : panpipe
+ 0.04% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q093.jpg
+84.54% : cucumber
+ 7.12% : zucchini
+ 0.14% : coil
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q094.jpg
+83.90% : cucumber
+ 7.63% : zucchini
+ 0.15% : coil
+ 0.14% : ear
+ 0.09% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.04% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q095.jpg
+81.75% : cucumber
+ 8.79% : zucchini
+ 0.16% : coil
+ 0.15% : ear
+ 0.10% : grocery store
+ 0.09% : modem
+ 0.08% : spaghetti squash
+ 0.07% : panpipe
+ 0.05% : canoe
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q096.jpg
+83.09% : cucumber
+ 8.12% : zucchini
+ 0.15% : coil
+ 0.14% : ear
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q097.jpg
+82.98% : cucumber
+ 7.99% : zucchini
+ 0.16% : coil
+ 0.14% : ear
+ 0.10% : grocery store
+ 0.09% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q098.jpg
+81.32% : cucumber
+ 9.25% : zucchini
+ 0.15% : coil
+ 0.15% : ear
+ 0.10% : grocery store
+ 0.08% : modem
+ 0.08% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q099.jpg
+82.80% : cucumber
+ 8.29% : zucchini
+ 0.15% : coil
+ 0.13% : ear
+ 0.09% : grocery store
+ 0.09% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.04% : hoopskirt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber15Q100.jpg
+82.82% : cucumber
+ 8.12% : zucchini
+ 0.16% : coil
+ 0.13% : ear
+ 0.10% : grocery store
+ 0.09% : modem
+ 0.07% : spaghetti squash
+ 0.06% : panpipe
+ 0.05% : canoe
+ 0.04% : hoopskirt

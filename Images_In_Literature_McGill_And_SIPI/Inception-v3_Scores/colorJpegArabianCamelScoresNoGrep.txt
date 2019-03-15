@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ001.jpg
+17.13% : marmot
+16.58% : weasel
+12.35% : brown bear
+ 4.79% : mink
+ 4.13% : beaver
+ 2.23% : otter
+ 1.98% : mongoose
+ 1.63% : Arabian camel
+ 1.33% : polecat
+ 1.29% : black-footed ferret
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ002.jpg
+17.07% : marmot
+16.58% : weasel
+12.37% : brown bear
+ 4.77% : mink
+ 4.13% : beaver
+ 2.23% : otter
+ 1.98% : mongoose
+ 1.62% : Arabian camel
+ 1.33% : polecat
+ 1.29% : black-footed ferret
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ003.jpg
+10.72% : Arabian camel
+ 6.05% : mink
+ 6.02% : Scottish deerhound
+ 5.58% : brown bear
+ 4.96% : Irish terrier
+ 4.93% : weasel
+ 4.17% : Irish setter
+ 4.14% : vizsla
+ 3.80% : Airedale
+ 2.44% : llama
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ004.jpg
+73.19% : Arabian camel
+ 2.96% : llama
+ 2.62% : Irish terrier
+ 1.01% : Scottish deerhound
+ 0.68% : Airedale
+ 0.68% : vizsla
+ 0.65% : Lakeland terrier
+ 0.62% : bighorn
+ 0.39% : Irish setter
+ 0.38% : Kerry blue terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ005.jpg
+96.65% : Arabian camel
+ 0.25% : llama
+ 0.05% : thresher
+ 0.04% : sorrel
+ 0.04% : vizsla
+ 0.03% : Airedale
+ 0.03% : Irish setter
+ 0.03% : English setter
+ 0.03% : Indian elephant
+ 0.03% : Bedlington terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ006.jpg
+14.20% : Sussex spaniel
+ 6.58% : Irish setter
+ 5.94% : curly-coated retriever
+ 5.09% : Irish water spaniel
+ 4.07% : vizsla
+ 3.85% : llama
+ 1.87% : Arabian camel
+ 1.47% : Chesapeake Bay retriever
+ 1.43% : German short-haired pointer
+ 1.29% : English setter
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ007.jpg
+16.95% : Arabian camel
+13.48% : standard poodle
+ 7.30% : Irish setter
+ 5.99% : llama
+ 3.98% : Sussex spaniel
+ 2.47% : vizsla
+ 2.06% : Irish water spaniel
+ 1.19% : komondor
+ 0.98% : curly-coated retriever
+ 0.65% : Chesapeake Bay retriever
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ008.jpg
+24.20% : Arabian camel
+13.40% : Irish setter
+ 7.75% : Sussex spaniel
+ 6.83% : llama
+ 3.14% : golden retriever
+ 2.81% : otterhound
+ 1.84% : cocker spaniel
+ 1.60% : English setter
+ 1.19% : standard poodle
+ 1.18% : clumber
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ009.jpg
+53.19% : Arabian camel
+15.94% : llama
+ 2.58% : Irish setter
+ 1.29% : standard poodle
+ 0.95% : Sussex spaniel
+ 0.93% : Irish terrier
+ 0.54% : otterhound
+ 0.53% : komondor
+ 0.36% : Airedale
+ 0.32% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ010.jpg
+64.87% : Arabian camel
+17.92% : llama
+ 0.45% : komondor
+ 0.39% : Irish setter
+ 0.33% : bighorn
+ 0.27% : standard poodle
+ 0.17% : Sussex spaniel
+ 0.17% : Irish terrier
+ 0.16% : otterhound
+ 0.16% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ011.jpg
+52.31% : Arabian camel
+12.98% : llama
+ 4.86% : Irish setter
+ 1.75% : Irish terrier
+ 0.81% : standard poodle
+ 0.67% : Sussex spaniel
+ 0.63% : Airedale
+ 0.53% : brown bear
+ 0.52% : golden retriever
+ 0.51% : otterhound
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ012.jpg
+74.73% : Arabian camel
+ 7.07% : llama
+ 1.19% : Irish setter
+ 0.35% : bighorn
+ 0.32% : Irish terrier
+ 0.28% : Sussex spaniel
+ 0.25% : sorrel
+ 0.21% : golden retriever
+ 0.19% : brown bear
+ 0.18% : bison
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ013.jpg
+88.41% : Arabian camel
+ 1.83% : llama
+ 0.37% : Irish setter
+ 0.28% : bighorn
+ 0.21% : brown bear
+ 0.20% : Sussex spaniel
+ 0.18% : bison
+ 0.11% : sorrel
+ 0.09% : ibex
+ 0.09% : golden retriever
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ014.jpg
+90.56% : Arabian camel
+ 1.49% : llama
+ 0.25% : bighorn
+ 0.24% : Irish setter
+ 0.11% : brown bear
+ 0.10% : Sussex spaniel
+ 0.09% : sorrel
+ 0.07% : bison
+ 0.07% : thresher
+ 0.06% : Irish terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ015.jpg
+95.06% : Arabian camel
+ 0.88% : llama
+ 0.12% : bighorn
+ 0.09% : sorrel
+ 0.06% : Irish setter
+ 0.05% : Sussex spaniel
+ 0.05% : bison
+ 0.05% : brown bear
+ 0.03% : parachute
+ 0.03% : kelpie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ016.jpg
+89.94% : Arabian camel
+ 2.34% : llama
+ 0.28% : bighorn
+ 0.16% : bison
+ 0.15% : Irish setter
+ 0.12% : sorrel
+ 0.11% : brown bear
+ 0.09% : ox
+ 0.08% : water buffalo
+ 0.07% : parachute
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ017.jpg
+88.48% : Arabian camel
+ 3.32% : llama
+ 0.25% : Irish setter
+ 0.19% : bighorn
+ 0.12% : bison
+ 0.11% : brown bear
+ 0.10% : sorrel
+ 0.09% : Sussex spaniel
+ 0.09% : parachute
+ 0.08% : ox
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ018.jpg
+73.68% : Arabian camel
+11.35% : llama
+ 1.38% : Irish setter
+ 0.29% : brown bear
+ 0.27% : Sussex spaniel
+ 0.25% : bison
+ 0.23% : bighorn
+ 0.20% : ox
+ 0.20% : golden retriever
+ 0.18% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ019.jpg
+71.38% : Arabian camel
+ 9.64% : llama
+ 1.12% : Irish setter
+ 0.48% : bison
+ 0.43% : brown bear
+ 0.28% : sorrel
+ 0.26% : bighorn
+ 0.25% : golden retriever
+ 0.24% : ox
+ 0.24% : Sussex spaniel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ020.jpg
+90.69% : Arabian camel
+ 4.38% : llama
+ 0.09% : Irish setter
+ 0.07% : bison
+ 0.07% : sorrel
+ 0.07% : brown bear
+ 0.06% : Irish terrier
+ 0.05% : bighorn
+ 0.05% : komondor
+ 0.05% : Sussex spaniel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ021.jpg
+93.60% : Arabian camel
+ 2.94% : llama
+ 0.06% : bighorn
+ 0.06% : sorrel
+ 0.05% : Irish setter
+ 0.04% : bison
+ 0.04% : komondor
+ 0.03% : brown bear
+ 0.03% : Irish terrier
+ 0.03% : standard poodle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ022.jpg
+92.38% : Arabian camel
+ 3.01% : llama
+ 0.09% : bighorn
+ 0.07% : bison
+ 0.06% : brown bear
+ 0.06% : Irish setter
+ 0.06% : sorrel
+ 0.04% : Sussex spaniel
+ 0.04% : parachute
+ 0.04% : ox
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ023.jpg
+91.95% : Arabian camel
+ 3.09% : llama
+ 0.12% : bighorn
+ 0.10% : bison
+ 0.08% : Irish setter
+ 0.07% : sorrel
+ 0.07% : brown bear
+ 0.05% : Sussex spaniel
+ 0.05% : ox
+ 0.05% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ024.jpg
+94.47% : Arabian camel
+ 1.29% : llama
+ 0.09% : bison
+ 0.08% : sorrel
+ 0.06% : bighorn
+ 0.04% : brown bear
+ 0.03% : komondor
+ 0.03% : ox
+ 0.03% : tow truck
+ 0.03% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ025.jpg
+94.13% : Arabian camel
+ 1.11% : llama
+ 0.13% : bison
+ 0.08% : sorrel
+ 0.07% : bighorn
+ 0.04% : ox
+ 0.04% : brown bear
+ 0.03% : parachute
+ 0.03% : lion
+ 0.03% : tow truck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ026.jpg
+92.62% : Arabian camel
+ 1.08% : llama
+ 0.10% : sorrel
+ 0.09% : bison
+ 0.09% : bighorn
+ 0.05% : parachute
+ 0.04% : lion
+ 0.04% : thresher
+ 0.04% : Irish setter
+ 0.04% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ027.jpg
+92.04% : Arabian camel
+ 1.29% : llama
+ 0.14% : bighorn
+ 0.12% : sorrel
+ 0.12% : bison
+ 0.06% : lion
+ 0.05% : Irish setter
+ 0.05% : ox
+ 0.04% : Sussex spaniel
+ 0.04% : parachute
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ028.jpg
+93.06% : Arabian camel
+ 1.47% : llama
+ 0.11% : sorrel
+ 0.09% : bighorn
+ 0.07% : bison
+ 0.04% : Irish setter
+ 0.04% : parachute
+ 0.04% : ox
+ 0.03% : orangutan
+ 0.03% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ029.jpg
+90.78% : Arabian camel
+ 1.39% : llama
+ 0.14% : sorrel
+ 0.14% : bison
+ 0.11% : bighorn
+ 0.06% : parachute
+ 0.06% : orangutan
+ 0.06% : Irish setter
+ 0.05% : Sussex spaniel
+ 0.04% : komondor
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ030.jpg
+85.70% : Arabian camel
+ 1.87% : llama
+ 0.23% : sorrel
+ 0.19% : bison
+ 0.14% : bighorn
+ 0.07% : thresher
+ 0.07% : kelpie
+ 0.07% : orangutan
+ 0.06% : komondor
+ 0.06% : Irish setter
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ031.jpg
+81.11% : Arabian camel
+ 2.57% : llama
+ 0.32% : bison
+ 0.23% : sorrel
+ 0.18% : bighorn
+ 0.09% : kelpie
+ 0.08% : thresher
+ 0.08% : lion
+ 0.08% : parachute
+ 0.08% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ032.jpg
+81.95% : Arabian camel
+ 3.14% : llama
+ 0.35% : bison
+ 0.27% : sorrel
+ 0.16% : bighorn
+ 0.08% : ox
+ 0.08% : water buffalo
+ 0.08% : parachute
+ 0.08% : orangutan
+ 0.08% : kelpie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ033.jpg
+86.37% : Arabian camel
+ 1.66% : llama
+ 0.24% : sorrel
+ 0.23% : bison
+ 0.12% : bighorn
+ 0.08% : thresher
+ 0.07% : lion
+ 0.06% : brown bear
+ 0.06% : ox
+ 0.06% : Irish setter
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ034.jpg
+88.54% : Arabian camel
+ 1.67% : llama
+ 0.26% : bison
+ 0.18% : sorrel
+ 0.11% : bighorn
+ 0.08% : ox
+ 0.07% : lion
+ 0.06% : brown bear
+ 0.05% : thresher
+ 0.05% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ035.jpg
+86.97% : Arabian camel
+ 2.73% : llama
+ 0.30% : bison
+ 0.21% : bighorn
+ 0.20% : sorrel
+ 0.11% : ox
+ 0.08% : ram
+ 0.06% : kelpie
+ 0.06% : orangutan
+ 0.06% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ036.jpg
+88.63% : Arabian camel
+ 2.01% : llama
+ 0.25% : bison
+ 0.16% : sorrel
+ 0.11% : bighorn
+ 0.07% : Irish setter
+ 0.06% : water buffalo
+ 0.06% : orangutan
+ 0.06% : ox
+ 0.06% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ037.jpg
+89.46% : Arabian camel
+ 2.17% : llama
+ 0.29% : bison
+ 0.15% : sorrel
+ 0.10% : bighorn
+ 0.07% : ox
+ 0.06% : Irish setter
+ 0.06% : water buffalo
+ 0.06% : orangutan
+ 0.06% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ038.jpg
+87.88% : Arabian camel
+ 3.10% : llama
+ 0.32% : bison
+ 0.16% : sorrel
+ 0.16% : bighorn
+ 0.11% : Irish setter
+ 0.10% : ox
+ 0.07% : water buffalo
+ 0.07% : brown bear
+ 0.06% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ039.jpg
+85.11% : Arabian camel
+ 2.65% : llama
+ 0.45% : bison
+ 0.21% : bighorn
+ 0.20% : sorrel
+ 0.13% : ox
+ 0.13% : Irish setter
+ 0.09% : water buffalo
+ 0.09% : brown bear
+ 0.07% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ040.jpg
+84.33% : Arabian camel
+ 3.89% : llama
+ 0.41% : bison
+ 0.22% : sorrel
+ 0.18% : bighorn
+ 0.15% : ox
+ 0.13% : Irish setter
+ 0.11% : brown bear
+ 0.10% : water buffalo
+ 0.08% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ041.jpg
+86.57% : Arabian camel
+ 4.26% : llama
+ 0.33% : bison
+ 0.20% : sorrel
+ 0.12% : bighorn
+ 0.11% : ox
+ 0.09% : Irish setter
+ 0.08% : water buffalo
+ 0.07% : brown bear
+ 0.07% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ042.jpg
+85.67% : Arabian camel
+ 3.41% : llama
+ 0.31% : bison
+ 0.20% : sorrel
+ 0.11% : bighorn
+ 0.10% : ox
+ 0.09% : Irish setter
+ 0.08% : brown bear
+ 0.07% : water buffalo
+ 0.07% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ043.jpg
+85.16% : Arabian camel
+ 2.96% : llama
+ 0.31% : bison
+ 0.25% : sorrel
+ 0.12% : bighorn
+ 0.11% : ox
+ 0.09% : Irish setter
+ 0.08% : water buffalo
+ 0.08% : brown bear
+ 0.07% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ044.jpg
+88.00% : Arabian camel
+ 3.76% : llama
+ 0.22% : bison
+ 0.17% : sorrel
+ 0.12% : bighorn
+ 0.08% : brown bear
+ 0.08% : ox
+ 0.07% : Irish setter
+ 0.06% : water buffalo
+ 0.05% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ045.jpg
+88.40% : Arabian camel
+ 4.19% : llama
+ 0.19% : bison
+ 0.16% : sorrel
+ 0.12% : bighorn
+ 0.08% : ox
+ 0.07% : brown bear
+ 0.06% : Irish setter
+ 0.05% : ram
+ 0.05% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ046.jpg
+86.81% : Arabian camel
+ 5.80% : llama
+ 0.16% : bison
+ 0.15% : sorrel
+ 0.12% : bighorn
+ 0.06% : ox
+ 0.05% : ram
+ 0.05% : water buffalo
+ 0.05% : Irish setter
+ 0.05% : parachute
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ047.jpg
+86.73% : Arabian camel
+ 6.28% : llama
+ 0.16% : bison
+ 0.15% : sorrel
+ 0.14% : bighorn
+ 0.07% : Irish setter
+ 0.06% : water buffalo
+ 0.06% : ram
+ 0.06% : ox
+ 0.05% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ048.jpg
+86.08% : Arabian camel
+ 6.58% : llama
+ 0.16% : sorrel
+ 0.14% : bison
+ 0.13% : bighorn
+ 0.07% : Irish setter
+ 0.06% : water buffalo
+ 0.06% : ram
+ 0.05% : ox
+ 0.05% : parachute
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ049.jpg
+82.37% : Arabian camel
+ 8.76% : llama
+ 0.27% : bison
+ 0.23% : sorrel
+ 0.17% : bighorn
+ 0.16% : Irish setter
+ 0.14% : ox
+ 0.09% : water buffalo
+ 0.09% : ram
+ 0.08% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ050.jpg
+80.98% : Arabian camel
+ 9.06% : llama
+ 0.31% : bison
+ 0.25% : sorrel
+ 0.20% : Irish setter
+ 0.19% : bighorn
+ 0.16% : ox
+ 0.11% : water buffalo
+ 0.10% : ram
+ 0.09% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ051.jpg
+82.03% : Arabian camel
+ 8.64% : llama
+ 0.26% : bison
+ 0.24% : sorrel
+ 0.17% : bighorn
+ 0.16% : Irish setter
+ 0.14% : ox
+ 0.09% : ram
+ 0.09% : water buffalo
+ 0.08% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ052.jpg
+88.03% : Arabian camel
+ 3.29% : llama
+ 0.21% : sorrel
+ 0.19% : bison
+ 0.15% : bighorn
+ 0.09% : Irish setter
+ 0.07% : ox
+ 0.06% : brown bear
+ 0.06% : water buffalo
+ 0.05% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ053.jpg
+87.37% : Arabian camel
+ 4.05% : llama
+ 0.20% : sorrel
+ 0.19% : bison
+ 0.16% : bighorn
+ 0.09% : Irish setter
+ 0.07% : ox
+ 0.06% : brown bear
+ 0.06% : water buffalo
+ 0.06% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ054.jpg
+84.04% : Arabian camel
+ 5.09% : llama
+ 0.23% : sorrel
+ 0.21% : bison
+ 0.16% : bighorn
+ 0.11% : Irish setter
+ 0.07% : water buffalo
+ 0.07% : ox
+ 0.07% : brown bear
+ 0.06% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ055.jpg
+85.06% : Arabian camel
+ 4.43% : llama
+ 0.23% : bison
+ 0.19% : sorrel
+ 0.15% : bighorn
+ 0.09% : Irish setter
+ 0.08% : water buffalo
+ 0.07% : ox
+ 0.07% : brown bear
+ 0.06% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ056.jpg
+82.83% : Arabian camel
+ 5.16% : llama
+ 0.25% : bison
+ 0.22% : sorrel
+ 0.18% : bighorn
+ 0.12% : Irish setter
+ 0.09% : water buffalo
+ 0.08% : ox
+ 0.07% : ram
+ 0.07% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ057.jpg
+82.68% : Arabian camel
+ 6.40% : llama
+ 0.21% : bison
+ 0.19% : sorrel
+ 0.15% : bighorn
+ 0.08% : Irish setter
+ 0.07% : water buffalo
+ 0.07% : ram
+ 0.07% : ox
+ 0.06% : kelpie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ058.jpg
+87.33% : Arabian camel
+ 5.01% : llama
+ 0.17% : bison
+ 0.13% : sorrel
+ 0.11% : bighorn
+ 0.08% : Irish setter
+ 0.05% : brown bear
+ 0.05% : ox
+ 0.05% : ram
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ059.jpg
+86.99% : Arabian camel
+ 5.49% : llama
+ 0.16% : bison
+ 0.14% : sorrel
+ 0.12% : bighorn
+ 0.07% : Irish setter
+ 0.05% : ram
+ 0.05% : brown bear
+ 0.05% : ox
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ060.jpg
+87.55% : Arabian camel
+ 4.40% : llama
+ 0.15% : bison
+ 0.13% : sorrel
+ 0.11% : bighorn
+ 0.06% : ram
+ 0.05% : Irish setter
+ 0.05% : ox
+ 0.05% : brown bear
+ 0.05% : kelpie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ061.jpg
+87.22% : Arabian camel
+ 4.19% : llama
+ 0.22% : bison
+ 0.16% : sorrel
+ 0.11% : bighorn
+ 0.07% : ox
+ 0.06% : brown bear
+ 0.06% : ram
+ 0.05% : Irish setter
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ062.jpg
+87.69% : Arabian camel
+ 3.54% : llama
+ 0.24% : bison
+ 0.16% : sorrel
+ 0.11% : bighorn
+ 0.07% : ox
+ 0.06% : brown bear
+ 0.06% : ram
+ 0.06% : Irish setter
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ063.jpg
+86.88% : Arabian camel
+ 3.21% : llama
+ 0.24% : bison
+ 0.17% : sorrel
+ 0.12% : bighorn
+ 0.06% : ram
+ 0.06% : ox
+ 0.06% : brown bear
+ 0.05% : water buffalo
+ 0.05% : kelpie
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ064.jpg
+85.86% : Arabian camel
+ 5.07% : llama
+ 0.25% : bison
+ 0.16% : sorrel
+ 0.13% : bighorn
+ 0.07% : ram
+ 0.07% : ox
+ 0.07% : Irish setter
+ 0.06% : brown bear
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ065.jpg
+85.29% : Arabian camel
+ 6.43% : llama
+ 0.23% : bison
+ 0.15% : sorrel
+ 0.11% : bighorn
+ 0.07% : Irish setter
+ 0.07% : ox
+ 0.07% : ram
+ 0.06% : brown bear
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ066.jpg
+86.69% : Arabian camel
+ 4.95% : llama
+ 0.23% : bison
+ 0.16% : sorrel
+ 0.12% : bighorn
+ 0.07% : ram
+ 0.07% : Irish setter
+ 0.06% : ox
+ 0.06% : brown bear
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ067.jpg
+87.45% : Arabian camel
+ 4.67% : llama
+ 0.23% : bison
+ 0.16% : sorrel
+ 0.12% : bighorn
+ 0.07% : Irish setter
+ 0.06% : ram
+ 0.06% : ox
+ 0.06% : brown bear
+ 0.05% : lion
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ068.jpg
+87.07% : Arabian camel
+ 4.35% : llama
+ 0.25% : bison
+ 0.17% : sorrel
+ 0.13% : bighorn
+ 0.07% : ram
+ 0.06% : Irish setter
+ 0.06% : ox
+ 0.05% : water buffalo
+ 0.05% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ069.jpg
+89.19% : Arabian camel
+ 3.98% : llama
+ 0.19% : bison
+ 0.15% : sorrel
+ 0.09% : bighorn
+ 0.06% : ox
+ 0.05% : ram
+ 0.05% : orangutan
+ 0.04% : Irish setter
+ 0.04% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ070.jpg
+88.39% : Arabian camel
+ 5.27% : llama
+ 0.18% : bison
+ 0.12% : sorrel
+ 0.11% : bighorn
+ 0.06% : ram
+ 0.06% : ox
+ 0.05% : Irish setter
+ 0.04% : brown bear
+ 0.04% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ071.jpg
+88.77% : Arabian camel
+ 4.75% : llama
+ 0.19% : bison
+ 0.14% : sorrel
+ 0.10% : bighorn
+ 0.07% : Irish setter
+ 0.06% : ox
+ 0.05% : ram
+ 0.05% : brown bear
+ 0.05% : orangutan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ072.jpg
+89.30% : Arabian camel
+ 4.31% : llama
+ 0.15% : bison
+ 0.14% : sorrel
+ 0.09% : bighorn
+ 0.08% : Irish setter
+ 0.05% : orangutan
+ 0.05% : ox
+ 0.04% : brown bear
+ 0.04% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ073.jpg
+89.13% : Arabian camel
+ 4.60% : llama
+ 0.18% : bison
+ 0.15% : sorrel
+ 0.08% : bighorn
+ 0.07% : Irish setter
+ 0.06% : orangutan
+ 0.06% : ox
+ 0.05% : brown bear
+ 0.05% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ074.jpg
+88.76% : Arabian camel
+ 4.19% : llama
+ 0.20% : bison
+ 0.14% : sorrel
+ 0.08% : bighorn
+ 0.07% : ox
+ 0.06% : Irish setter
+ 0.06% : orangutan
+ 0.05% : brown bear
+ 0.05% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ075.jpg
+89.04% : Arabian camel
+ 3.72% : llama
+ 0.19% : bison
+ 0.15% : sorrel
+ 0.08% : bighorn
+ 0.06% : ox
+ 0.05% : orangutan
+ 0.05% : Irish setter
+ 0.04% : brown bear
+ 0.04% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ076.jpg
+87.73% : Arabian camel
+ 5.17% : llama
+ 0.19% : bison
+ 0.15% : sorrel
+ 0.07% : bighorn
+ 0.06% : ox
+ 0.05% : Irish setter
+ 0.05% : orangutan
+ 0.05% : ram
+ 0.04% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ077.jpg
+87.11% : Arabian camel
+ 5.35% : llama
+ 0.18% : bison
+ 0.17% : sorrel
+ 0.08% : bighorn
+ 0.08% : ox
+ 0.06% : Irish setter
+ 0.06% : ram
+ 0.05% : brown bear
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ078.jpg
+90.27% : Arabian camel
+ 3.04% : llama
+ 0.18% : bison
+ 0.16% : sorrel
+ 0.07% : bighorn
+ 0.07% : ox
+ 0.05% : Irish setter
+ 0.05% : lion
+ 0.04% : marmot
+ 0.04% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ079.jpg
+89.15% : Arabian camel
+ 3.07% : llama
+ 0.21% : bison
+ 0.18% : sorrel
+ 0.10% : bighorn
+ 0.07% : ox
+ 0.06% : Irish setter
+ 0.05% : lion
+ 0.05% : marmot
+ 0.05% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ080.jpg
+89.20% : Arabian camel
+ 2.12% : llama
+ 0.22% : bison
+ 0.18% : sorrel
+ 0.11% : bighorn
+ 0.06% : ox
+ 0.06% : Irish setter
+ 0.05% : ram
+ 0.05% : brown bear
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ081.jpg
+88.91% : Arabian camel
+ 2.04% : llama
+ 0.30% : bison
+ 0.19% : sorrel
+ 0.11% : bighorn
+ 0.08% : ox
+ 0.06% : brown bear
+ 0.05% : ram
+ 0.05% : marmot
+ 0.05% : Irish setter
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ082.jpg
+89.50% : Arabian camel
+ 2.21% : llama
+ 0.20% : bison
+ 0.18% : sorrel
+ 0.09% : bighorn
+ 0.06% : ox
+ 0.05% : marmot
+ 0.05% : Irish setter
+ 0.05% : orangutan
+ 0.05% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ083.jpg
+88.93% : Arabian camel
+ 2.51% : llama
+ 0.27% : bison
+ 0.18% : sorrel
+ 0.11% : bighorn
+ 0.08% : ox
+ 0.06% : orangutan
+ 0.05% : marmot
+ 0.05% : Irish setter
+ 0.05% : ram
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ084.jpg
+89.27% : Arabian camel
+ 2.32% : llama
+ 0.24% : bison
+ 0.19% : sorrel
+ 0.12% : bighorn
+ 0.08% : ox
+ 0.06% : ram
+ 0.06% : brown bear
+ 0.06% : orangutan
+ 0.06% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ085.jpg
+88.40% : Arabian camel
+ 1.68% : llama
+ 0.32% : bison
+ 0.23% : sorrel
+ 0.16% : bighorn
+ 0.09% : ox
+ 0.08% : ram
+ 0.06% : marmot
+ 0.06% : brown bear
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ086.jpg
+87.71% : Arabian camel
+ 2.00% : llama
+ 0.37% : bison
+ 0.24% : sorrel
+ 0.19% : bighorn
+ 0.12% : ox
+ 0.10% : ram
+ 0.08% : brown bear
+ 0.07% : water buffalo
+ 0.06% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ087.jpg
+89.34% : Arabian camel
+ 1.97% : llama
+ 0.30% : bison
+ 0.20% : sorrel
+ 0.15% : bighorn
+ 0.10% : ox
+ 0.08% : ram
+ 0.06% : brown bear
+ 0.06% : water buffalo
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ088.jpg
+88.98% : Arabian camel
+ 2.49% : llama
+ 0.34% : bison
+ 0.17% : bighorn
+ 0.17% : sorrel
+ 0.11% : ox
+ 0.10% : ram
+ 0.07% : brown bear
+ 0.06% : water buffalo
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ089.jpg
+89.44% : Arabian camel
+ 2.45% : llama
+ 0.30% : bison
+ 0.17% : sorrel
+ 0.15% : bighorn
+ 0.11% : ox
+ 0.09% : ram
+ 0.06% : brown bear
+ 0.06% : water buffalo
+ 0.05% : Irish setter
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ090.jpg
+89.13% : Arabian camel
+ 2.31% : llama
+ 0.31% : bison
+ 0.17% : sorrel
+ 0.17% : bighorn
+ 0.09% : ox
+ 0.09% : ram
+ 0.06% : brown bear
+ 0.05% : water buffalo
+ 0.05% : marmot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ091.jpg
+87.97% : Arabian camel
+ 2.76% : llama
+ 0.32% : bison
+ 0.20% : sorrel
+ 0.16% : bighorn
+ 0.10% : ox
+ 0.09% : ram
+ 0.07% : brown bear
+ 0.07% : Irish setter
+ 0.07% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ092.jpg
+87.09% : Arabian camel
+ 2.88% : llama
+ 0.30% : bison
+ 0.20% : sorrel
+ 0.17% : bighorn
+ 0.09% : ram
+ 0.09% : ox
+ 0.07% : brown bear
+ 0.07% : Irish setter
+ 0.06% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ093.jpg
+87.81% : Arabian camel
+ 2.65% : llama
+ 0.26% : bison
+ 0.19% : sorrel
+ 0.16% : bighorn
+ 0.09% : ram
+ 0.08% : ox
+ 0.06% : brown bear
+ 0.06% : marmot
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ094.jpg
+88.62% : Arabian camel
+ 2.55% : llama
+ 0.19% : bison
+ 0.17% : sorrel
+ 0.16% : bighorn
+ 0.08% : ram
+ 0.06% : ox
+ 0.05% : brown bear
+ 0.05% : marmot
+ 0.04% : tow truck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ095.jpg
+88.51% : Arabian camel
+ 2.19% : llama
+ 0.20% : bison
+ 0.19% : sorrel
+ 0.15% : bighorn
+ 0.07% : ram
+ 0.06% : ox
+ 0.05% : brown bear
+ 0.05% : marmot
+ 0.04% : tow truck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ096.jpg
+88.29% : Arabian camel
+ 2.12% : llama
+ 0.26% : bison
+ 0.21% : sorrel
+ 0.15% : bighorn
+ 0.08% : ox
+ 0.08% : ram
+ 0.06% : marmot
+ 0.05% : brown bear
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ097.jpg
+87.94% : Arabian camel
+ 2.06% : llama
+ 0.26% : bison
+ 0.21% : sorrel
+ 0.14% : bighorn
+ 0.08% : ram
+ 0.08% : ox
+ 0.06% : marmot
+ 0.06% : brown bear
+ 0.05% : water buffalo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ098.jpg
+88.63% : Arabian camel
+ 1.60% : llama
+ 0.23% : bison
+ 0.21% : sorrel
+ 0.13% : bighorn
+ 0.07% : ox
+ 0.06% : ram
+ 0.05% : marmot
+ 0.05% : tow truck
+ 0.05% : brown bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ099.jpg
+88.45% : Arabian camel
+ 1.85% : llama
+ 0.25% : bison
+ 0.20% : sorrel
+ 0.14% : bighorn
+ 0.07% : ram
+ 0.07% : ox
+ 0.06% : marmot
+ 0.05% : brown bear
+ 0.05% : tow truck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorArabianCamelQ100.jpg
+87.56% : Arabian camel
+ 2.21% : llama
+ 0.24% : bison
+ 0.22% : sorrel
+ 0.14% : bighorn
+ 0.07% : ram
+ 0.07% : ox
+ 0.06% : marmot
+ 0.06% : brown bear
+ 0.05% : tow truck

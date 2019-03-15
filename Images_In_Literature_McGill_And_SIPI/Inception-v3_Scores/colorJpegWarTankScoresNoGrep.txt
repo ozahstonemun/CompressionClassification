@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank001.jpg
+ 3.15% : toy poodle
+ 2.74% : cheetah
+ 2.30% : dalmatian
+ 1.67% : crossword puzzle
+ 1.66% : badger
+ 1.10% : purse
+ 1.08% : Welsh springer spaniel
+ 1.01% : pillow
+ 0.98% : bib
+ 0.97% : black-footed ferret
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank002.jpg
+ 3.11% : toy poodle
+ 2.67% : cheetah
+ 2.31% : dalmatian
+ 1.74% : crossword puzzle
+ 1.41% : badger
+ 1.04% : pillow
+ 0.99% : bib
+ 0.98% : purse
+ 0.97% : Welsh springer spaniel
+ 0.91% : Airedale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank003.jpg
+ 6.42% : switch
+ 4.05% : safety pin
+ 2.62% : mailbag
+ 2.11% : can opener
+ 2.08% : mousetrap
+ 1.85% : purse
+ 1.76% : hair slide
+ 1.29% : mouse
+ 1.16% : cheetah
+ 1.14% : joystick
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank004.jpg
+12.99% : mousetrap
+ 8.74% : half track
+ 4.40% : hard disc
+ 4.32% : tank
+ 3.87% : switch
+ 3.03% : aircraft carrier
+ 2.88% : missile
+ 2.12% : warplane
+ 1.82% : mouse
+ 1.70% : airship
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank005.jpg
+55.72% : half track
+29.85% : tank
+ 2.16% : amphibian
+ 1.59% : missile
+ 1.55% : submarine
+ 1.39% : aircraft carrier
+ 0.73% : cannon
+ 0.55% : projectile
+ 0.52% : warplane
+ 0.14% : tow truck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank006.jpg
+75.87% : half track
+ 9.55% : tank
+ 2.36% : amphibian
+ 1.61% : missile
+ 1.06% : aircraft carrier
+ 0.69% : warplane
+ 0.43% : projectile
+ 0.42% : submarine
+ 0.39% : cannon
+ 0.31% : crane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank007.jpg
+44.55% : half track
+28.16% : tank
+ 8.27% : amphibian
+ 2.53% : aircraft carrier
+ 2.28% : submarine
+ 1.44% : warplane
+ 1.25% : missile
+ 1.13% : mousetrap
+ 0.34% : cannon
+ 0.34% : switch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank008.jpg
+36.97% : tank
+27.06% : half track
+12.46% : amphibian
+ 4.73% : submarine
+ 1.54% : missile
+ 1.50% : aircraft carrier
+ 1.43% : warplane
+ 1.04% : cannon
+ 0.52% : projectile
+ 0.24% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank009.jpg
+44.24% : tank
+32.78% : half track
+ 4.29% : amphibian
+ 1.56% : submarine
+ 1.19% : missile
+ 0.88% : aircraft carrier
+ 0.58% : projectile
+ 0.50% : warplane
+ 0.42% : cannon
+ 0.23% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank010.jpg
+61.10% : tank
+26.36% : half track
+ 4.55% : amphibian
+ 1.11% : submarine
+ 0.50% : steam locomotive
+ 0.40% : missile
+ 0.32% : cannon
+ 0.16% : projectile
+ 0.14% : aircraft carrier
+ 0.11% : warplane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank011.jpg
+82.05% : tank
+ 6.42% : half track
+ 4.62% : amphibian
+ 0.47% : submarine
+ 0.44% : missile
+ 0.28% : cannon
+ 0.18% : projectile
+ 0.18% : steam locomotive
+ 0.11% : aircraft carrier
+ 0.10% : warplane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank012.jpg
+75.19% : tank
+ 7.54% : amphibian
+ 5.59% : half track
+ 1.45% : submarine
+ 0.51% : steam locomotive
+ 0.42% : missile
+ 0.40% : cannon
+ 0.21% : projectile
+ 0.14% : aircraft carrier
+ 0.11% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank013.jpg
+74.23% : tank
+11.79% : amphibian
+ 4.33% : half track
+ 0.95% : submarine
+ 0.32% : missile
+ 0.26% : cannon
+ 0.26% : steam locomotive
+ 0.17% : projectile
+ 0.14% : aircraft carrier
+ 0.08% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank014.jpg
+58.94% : tank
+12.66% : amphibian
+ 8.15% : submarine
+ 4.49% : half track
+ 0.81% : steam locomotive
+ 0.53% : missile
+ 0.43% : cannon
+ 0.27% : aircraft carrier
+ 0.24% : projectile
+ 0.14% : warplane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank015.jpg
+76.34% : tank
+12.26% : amphibian
+ 3.88% : half track
+ 0.88% : submarine
+ 0.23% : cannon
+ 0.22% : steam locomotive
+ 0.21% : missile
+ 0.11% : projectile
+ 0.10% : snowplow
+ 0.10% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank016.jpg
+66.66% : tank
+12.95% : amphibian
+ 7.58% : half track
+ 1.52% : submarine
+ 0.46% : missile
+ 0.39% : cannon
+ 0.37% : steam locomotive
+ 0.28% : projectile
+ 0.13% : aircraft carrier
+ 0.12% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank017.jpg
+48.65% : tank
+30.99% : half track
+ 7.32% : amphibian
+ 0.50% : submarine
+ 0.42% : cannon
+ 0.39% : missile
+ 0.26% : steam locomotive
+ 0.24% : projectile
+ 0.21% : aircraft carrier
+ 0.14% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank018.jpg
+71.17% : tank
+13.31% : amphibian
+ 6.66% : half track
+ 0.50% : submarine
+ 0.38% : cannon
+ 0.32% : missile
+ 0.20% : steam locomotive
+ 0.20% : projectile
+ 0.13% : aircraft carrier
+ 0.09% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank019.jpg
+79.44% : tank
+ 7.40% : amphibian
+ 7.06% : half track
+ 0.26% : cannon
+ 0.24% : missile
+ 0.15% : projectile
+ 0.13% : submarine
+ 0.10% : steam locomotive
+ 0.06% : jeep
+ 0.06% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank020.jpg
+73.24% : tank
+11.44% : half track
+ 8.94% : amphibian
+ 0.21% : missile
+ 0.19% : cannon
+ 0.15% : projectile
+ 0.13% : submarine
+ 0.10% : steam locomotive
+ 0.08% : jeep
+ 0.07% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank021.jpg
+62.93% : tank
+13.19% : amphibian
+11.90% : half track
+ 0.33% : missile
+ 0.28% : cannon
+ 0.26% : submarine
+ 0.23% : projectile
+ 0.17% : aircraft carrier
+ 0.15% : jeep
+ 0.15% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank022.jpg
+63.18% : tank
+17.59% : half track
+11.38% : amphibian
+ 0.31% : cannon
+ 0.27% : submarine
+ 0.20% : missile
+ 0.14% : projectile
+ 0.12% : steam locomotive
+ 0.12% : harvester
+ 0.10% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank023.jpg
+60.54% : tank
+19.70% : half track
+ 8.99% : amphibian
+ 0.41% : cannon
+ 0.31% : submarine
+ 0.28% : missile
+ 0.20% : steam locomotive
+ 0.15% : projectile
+ 0.14% : harvester
+ 0.13% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank024.jpg
+60.97% : tank
+19.94% : half track
+10.45% : amphibian
+ 0.26% : missile
+ 0.26% : cannon
+ 0.20% : submarine
+ 0.16% : steam locomotive
+ 0.15% : projectile
+ 0.10% : jeep
+ 0.10% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank025.jpg
+57.91% : tank
+16.47% : half track
+13.57% : amphibian
+ 0.44% : submarine
+ 0.37% : missile
+ 0.36% : cannon
+ 0.20% : projectile
+ 0.18% : steam locomotive
+ 0.14% : jeep
+ 0.12% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank026.jpg
+67.08% : tank
+15.14% : half track
+10.06% : amphibian
+ 0.23% : missile
+ 0.22% : cannon
+ 0.16% : projectile
+ 0.10% : submarine
+ 0.09% : jeep
+ 0.09% : steam locomotive
+ 0.07% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank027.jpg
+57.25% : tank
+27.23% : half track
+ 8.38% : amphibian
+ 0.23% : missile
+ 0.22% : cannon
+ 0.15% : projectile
+ 0.11% : jeep
+ 0.08% : submarine
+ 0.08% : military uniform
+ 0.08% : harvester
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank028.jpg
+52.89% : tank
+34.33% : half track
+ 5.98% : amphibian
+ 0.28% : cannon
+ 0.20% : missile
+ 0.14% : harvester
+ 0.13% : projectile
+ 0.11% : jeep
+ 0.10% : steam locomotive
+ 0.08% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank029.jpg
+46.13% : half track
+41.97% : tank
+ 5.60% : amphibian
+ 0.20% : cannon
+ 0.16% : missile
+ 0.12% : harvester
+ 0.11% : projectile
+ 0.08% : steam locomotive
+ 0.07% : submarine
+ 0.07% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank030.jpg
+45.49% : tank
+42.23% : half track
+ 5.25% : amphibian
+ 0.21% : cannon
+ 0.21% : missile
+ 0.14% : projectile
+ 0.09% : harvester
+ 0.08% : steam locomotive
+ 0.07% : military uniform
+ 0.07% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank031.jpg
+51.80% : tank
+35.77% : half track
+ 5.12% : amphibian
+ 0.23% : missile
+ 0.22% : cannon
+ 0.16% : projectile
+ 0.10% : harvester
+ 0.07% : jeep
+ 0.07% : steam locomotive
+ 0.07% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank032.jpg
+49.31% : half track
+39.28% : tank
+ 5.60% : amphibian
+ 0.20% : missile
+ 0.19% : cannon
+ 0.13% : projectile
+ 0.08% : harvester
+ 0.07% : jeep
+ 0.06% : submarine
+ 0.06% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank033.jpg
+48.67% : tank
+41.45% : half track
+ 4.97% : amphibian
+ 0.21% : cannon
+ 0.17% : missile
+ 0.13% : projectile
+ 0.07% : harvester
+ 0.06% : submarine
+ 0.06% : jeep
+ 0.05% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank034.jpg
+51.27% : tank
+38.72% : half track
+ 4.94% : amphibian
+ 0.22% : cannon
+ 0.21% : missile
+ 0.15% : projectile
+ 0.08% : harvester
+ 0.07% : jeep
+ 0.07% : submarine
+ 0.05% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank035.jpg
+58.42% : tank
+29.00% : half track
+ 5.80% : amphibian
+ 0.30% : missile
+ 0.27% : cannon
+ 0.18% : projectile
+ 0.10% : harvester
+ 0.09% : submarine
+ 0.08% : jeep
+ 0.08% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank036.jpg
+53.41% : tank
+35.36% : half track
+ 4.54% : amphibian
+ 0.27% : missile
+ 0.25% : cannon
+ 0.18% : projectile
+ 0.11% : harvester
+ 0.09% : submarine
+ 0.08% : jeep
+ 0.07% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank037.jpg
+61.53% : tank
+27.43% : half track
+ 5.00% : amphibian
+ 0.24% : missile
+ 0.21% : cannon
+ 0.17% : projectile
+ 0.08% : harvester
+ 0.08% : jeep
+ 0.07% : submarine
+ 0.06% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank038.jpg
+60.40% : tank
+30.20% : half track
+ 4.51% : amphibian
+ 0.20% : missile
+ 0.19% : cannon
+ 0.15% : projectile
+ 0.08% : harvester
+ 0.07% : jeep
+ 0.06% : submarine
+ 0.05% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank039.jpg
+70.05% : tank
+18.47% : half track
+ 5.98% : amphibian
+ 0.21% : missile
+ 0.21% : cannon
+ 0.14% : projectile
+ 0.10% : jeep
+ 0.09% : harvester
+ 0.08% : submarine
+ 0.05% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank040.jpg
+65.28% : tank
+21.85% : half track
+ 6.17% : amphibian
+ 0.27% : missile
+ 0.23% : cannon
+ 0.19% : projectile
+ 0.12% : harvester
+ 0.11% : jeep
+ 0.09% : submarine
+ 0.07% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank041.jpg
+64.92% : tank
+20.39% : half track
+ 7.22% : amphibian
+ 0.24% : missile
+ 0.22% : cannon
+ 0.17% : projectile
+ 0.13% : jeep
+ 0.11% : harvester
+ 0.10% : submarine
+ 0.09% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank042.jpg
+65.83% : tank
+21.47% : half track
+ 6.13% : amphibian
+ 0.21% : missile
+ 0.20% : cannon
+ 0.15% : projectile
+ 0.11% : jeep
+ 0.10% : harvester
+ 0.09% : military uniform
+ 0.07% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank043.jpg
+70.07% : tank
+16.69% : half track
+ 6.66% : amphibian
+ 0.22% : cannon
+ 0.21% : missile
+ 0.15% : projectile
+ 0.12% : jeep
+ 0.09% : military uniform
+ 0.09% : harvester
+ 0.08% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank044.jpg
+68.14% : tank
+19.08% : half track
+ 6.63% : amphibian
+ 0.21% : missile
+ 0.18% : cannon
+ 0.14% : projectile
+ 0.11% : jeep
+ 0.10% : submarine
+ 0.08% : military uniform
+ 0.08% : harvester
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank045.jpg
+68.89% : tank
+19.00% : half track
+ 6.67% : amphibian
+ 0.17% : cannon
+ 0.17% : missile
+ 0.13% : projectile
+ 0.12% : jeep
+ 0.09% : harvester
+ 0.08% : submarine
+ 0.08% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank046.jpg
+58.02% : tank
+33.25% : half track
+ 4.43% : amphibian
+ 0.15% : cannon
+ 0.13% : missile
+ 0.10% : jeep
+ 0.09% : projectile
+ 0.07% : military uniform
+ 0.07% : harvester
+ 0.07% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank047.jpg
+50.70% : tank
+41.32% : half track
+ 3.59% : amphibian
+ 0.16% : cannon
+ 0.13% : missile
+ 0.09% : projectile
+ 0.09% : jeep
+ 0.07% : military uniform
+ 0.06% : harvester
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank048.jpg
+48.00% : half track
+44.91% : tank
+ 3.16% : amphibian
+ 0.13% : cannon
+ 0.12% : missile
+ 0.09% : projectile
+ 0.06% : jeep
+ 0.06% : military uniform
+ 0.05% : submarine
+ 0.04% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank049.jpg
+51.67% : tank
+40.38% : half track
+ 3.75% : amphibian
+ 0.17% : cannon
+ 0.13% : missile
+ 0.10% : projectile
+ 0.06% : submarine
+ 0.06% : military uniform
+ 0.05% : aircraft carrier
+ 0.05% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank050.jpg
+50.84% : tank
+41.65% : half track
+ 3.23% : amphibian
+ 0.18% : cannon
+ 0.13% : missile
+ 0.10% : projectile
+ 0.06% : submarine
+ 0.06% : military uniform
+ 0.06% : aircraft carrier
+ 0.05% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank051.jpg
+46.75% : half track
+45.73% : tank
+ 3.11% : amphibian
+ 0.19% : cannon
+ 0.14% : missile
+ 0.11% : projectile
+ 0.07% : submarine
+ 0.06% : aircraft carrier
+ 0.05% : military uniform
+ 0.05% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank052.jpg
+48.26% : half track
+44.11% : tank
+ 3.22% : amphibian
+ 0.18% : cannon
+ 0.12% : missile
+ 0.09% : projectile
+ 0.08% : harvester
+ 0.05% : military uniform
+ 0.05% : vulture
+ 0.05% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank053.jpg
+53.75% : tank
+36.90% : half track
+ 4.55% : amphibian
+ 0.17% : cannon
+ 0.14% : missile
+ 0.12% : projectile
+ 0.07% : harvester
+ 0.06% : military uniform
+ 0.06% : submarine
+ 0.06% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank054.jpg
+54.68% : tank
+36.09% : half track
+ 4.46% : amphibian
+ 0.18% : cannon
+ 0.14% : missile
+ 0.11% : projectile
+ 0.09% : harvester
+ 0.06% : jeep
+ 0.06% : military uniform
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank055.jpg
+56.80% : tank
+32.38% : half track
+ 5.57% : amphibian
+ 0.17% : cannon
+ 0.15% : missile
+ 0.11% : projectile
+ 0.09% : harvester
+ 0.06% : submarine
+ 0.06% : military uniform
+ 0.06% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank056.jpg
+51.77% : tank
+37.08% : half track
+ 5.02% : amphibian
+ 0.19% : missile
+ 0.19% : cannon
+ 0.13% : projectile
+ 0.12% : harvester
+ 0.09% : submarine
+ 0.07% : vulture
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank057.jpg
+50.42% : tank
+38.80% : half track
+ 4.81% : amphibian
+ 0.20% : cannon
+ 0.17% : missile
+ 0.14% : harvester
+ 0.12% : projectile
+ 0.08% : submarine
+ 0.08% : snowplow
+ 0.07% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank058.jpg
+58.57% : half track
+33.48% : tank
+ 3.18% : amphibian
+ 0.16% : cannon
+ 0.14% : missile
+ 0.09% : projectile
+ 0.09% : harvester
+ 0.06% : submarine
+ 0.06% : military uniform
+ 0.06% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank059.jpg
+64.48% : half track
+28.53% : tank
+ 2.57% : amphibian
+ 0.14% : cannon
+ 0.11% : missile
+ 0.10% : harvester
+ 0.08% : projectile
+ 0.06% : jeep
+ 0.06% : military uniform
+ 0.05% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank060.jpg
+53.32% : half track
+39.55% : tank
+ 2.71% : amphibian
+ 0.15% : cannon
+ 0.11% : missile
+ 0.11% : harvester
+ 0.09% : projectile
+ 0.07% : jeep
+ 0.07% : snowplow
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank061.jpg
+52.58% : tank
+38.93% : half track
+ 3.57% : amphibian
+ 0.17% : cannon
+ 0.14% : missile
+ 0.14% : harvester
+ 0.11% : projectile
+ 0.10% : jeep
+ 0.08% : snowplow
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank062.jpg
+55.57% : tank
+34.34% : half track
+ 4.30% : amphibian
+ 0.18% : cannon
+ 0.17% : missile
+ 0.13% : harvester
+ 0.12% : projectile
+ 0.09% : jeep
+ 0.08% : snowplow
+ 0.07% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank063.jpg
+49.75% : tank
+39.01% : half track
+ 4.41% : amphibian
+ 0.22% : cannon
+ 0.20% : missile
+ 0.16% : harvester
+ 0.14% : projectile
+ 0.09% : snowplow
+ 0.08% : submarine
+ 0.08% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank064.jpg
+49.03% : tank
+39.76% : half track
+ 4.30% : amphibian
+ 0.22% : cannon
+ 0.20% : missile
+ 0.15% : harvester
+ 0.15% : projectile
+ 0.09% : jeep
+ 0.08% : submarine
+ 0.08% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank065.jpg
+49.51% : tank
+39.70% : half track
+ 4.31% : amphibian
+ 0.22% : cannon
+ 0.17% : missile
+ 0.13% : harvester
+ 0.12% : projectile
+ 0.09% : submarine
+ 0.08% : jeep
+ 0.07% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank066.jpg
+51.93% : tank
+37.90% : half track
+ 4.28% : amphibian
+ 0.21% : cannon
+ 0.16% : missile
+ 0.15% : harvester
+ 0.12% : projectile
+ 0.09% : jeep
+ 0.07% : snowplow
+ 0.07% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank067.jpg
+50.16% : tank
+38.43% : half track
+ 4.64% : amphibian
+ 0.21% : cannon
+ 0.19% : missile
+ 0.15% : harvester
+ 0.13% : projectile
+ 0.09% : jeep
+ 0.09% : submarine
+ 0.07% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank068.jpg
+58.73% : tank
+30.69% : half track
+ 3.86% : amphibian
+ 0.25% : cannon
+ 0.21% : missile
+ 0.20% : harvester
+ 0.16% : projectile
+ 0.11% : jeep
+ 0.08% : military uniform
+ 0.08% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank069.jpg
+51.28% : tank
+39.20% : half track
+ 3.45% : amphibian
+ 0.24% : cannon
+ 0.19% : missile
+ 0.18% : harvester
+ 0.14% : projectile
+ 0.09% : jeep
+ 0.08% : military uniform
+ 0.07% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank070.jpg
+65.26% : tank
+24.34% : half track
+ 4.59% : amphibian
+ 0.21% : cannon
+ 0.19% : missile
+ 0.15% : projectile
+ 0.14% : harvester
+ 0.09% : jeep
+ 0.08% : military uniform
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank071.jpg
+60.38% : tank
+29.02% : half track
+ 4.63% : amphibian
+ 0.24% : cannon
+ 0.21% : missile
+ 0.16% : projectile
+ 0.13% : harvester
+ 0.07% : jeep
+ 0.07% : submarine
+ 0.07% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank072.jpg
+61.74% : tank
+27.06% : half track
+ 4.70% : amphibian
+ 0.27% : cannon
+ 0.23% : missile
+ 0.18% : projectile
+ 0.12% : harvester
+ 0.07% : submarine
+ 0.07% : military uniform
+ 0.07% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank073.jpg
+56.72% : tank
+33.50% : half track
+ 3.45% : amphibian
+ 0.28% : cannon
+ 0.23% : missile
+ 0.18% : harvester
+ 0.17% : projectile
+ 0.07% : jeep
+ 0.07% : military uniform
+ 0.06% : vulture
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank074.jpg
+59.45% : tank
+31.03% : half track
+ 4.35% : amphibian
+ 0.22% : cannon
+ 0.18% : missile
+ 0.18% : harvester
+ 0.13% : projectile
+ 0.06% : jeep
+ 0.06% : military uniform
+ 0.05% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank075.jpg
+61.17% : tank
+28.89% : half track
+ 4.57% : amphibian
+ 0.22% : cannon
+ 0.19% : harvester
+ 0.18% : missile
+ 0.13% : projectile
+ 0.06% : jeep
+ 0.06% : steam locomotive
+ 0.05% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank076.jpg
+55.59% : tank
+34.52% : half track
+ 4.22% : amphibian
+ 0.27% : harvester
+ 0.21% : cannon
+ 0.19% : missile
+ 0.13% : projectile
+ 0.06% : submarine
+ 0.06% : jeep
+ 0.06% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank077.jpg
+55.10% : tank
+33.43% : half track
+ 4.68% : amphibian
+ 0.36% : harvester
+ 0.26% : cannon
+ 0.22% : missile
+ 0.14% : projectile
+ 0.10% : submarine
+ 0.09% : snowplow
+ 0.09% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank078.jpg
+62.23% : tank
+26.06% : half track
+ 4.82% : amphibian
+ 0.28% : cannon
+ 0.24% : harvester
+ 0.24% : missile
+ 0.16% : projectile
+ 0.12% : submarine
+ 0.09% : jeep
+ 0.08% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank079.jpg
+56.71% : tank
+31.43% : half track
+ 5.47% : amphibian
+ 0.30% : harvester
+ 0.29% : cannon
+ 0.22% : missile
+ 0.15% : projectile
+ 0.11% : submarine
+ 0.09% : jeep
+ 0.07% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank080.jpg
+66.69% : tank
+21.44% : half track
+ 6.71% : amphibian
+ 0.24% : harvester
+ 0.22% : cannon
+ 0.20% : missile
+ 0.14% : projectile
+ 0.10% : submarine
+ 0.08% : jeep
+ 0.06% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank081.jpg
+69.82% : tank
+19.61% : half track
+ 5.28% : amphibian
+ 0.23% : cannon
+ 0.21% : harvester
+ 0.20% : missile
+ 0.14% : projectile
+ 0.09% : jeep
+ 0.08% : submarine
+ 0.05% : steam locomotive
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank082.jpg
+62.34% : tank
+27.19% : half track
+ 5.13% : amphibian
+ 0.35% : harvester
+ 0.23% : cannon
+ 0.20% : missile
+ 0.13% : projectile
+ 0.11% : jeep
+ 0.09% : submarine
+ 0.07% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank083.jpg
+56.70% : tank
+35.49% : half track
+ 3.73% : amphibian
+ 0.20% : cannon
+ 0.17% : harvester
+ 0.15% : missile
+ 0.10% : projectile
+ 0.07% : submarine
+ 0.06% : jeep
+ 0.05% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank084.jpg
+59.77% : tank
+31.96% : half track
+ 4.37% : amphibian
+ 0.19% : cannon
+ 0.15% : harvester
+ 0.14% : missile
+ 0.09% : projectile
+ 0.05% : snowplow
+ 0.05% : jeep
+ 0.05% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank085.jpg
+57.37% : tank
+34.68% : half track
+ 3.86% : amphibian
+ 0.19% : cannon
+ 0.17% : harvester
+ 0.14% : missile
+ 0.09% : projectile
+ 0.06% : snowplow
+ 0.05% : submarine
+ 0.05% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank086.jpg
+57.62% : tank
+35.16% : half track
+ 3.17% : amphibian
+ 0.17% : cannon
+ 0.13% : missile
+ 0.13% : harvester
+ 0.10% : projectile
+ 0.05% : submarine
+ 0.05% : military uniform
+ 0.04% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank087.jpg
+55.54% : tank
+37.26% : half track
+ 3.19% : amphibian
+ 0.19% : cannon
+ 0.15% : harvester
+ 0.12% : missile
+ 0.10% : projectile
+ 0.05% : snowplow
+ 0.05% : military uniform
+ 0.05% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank088.jpg
+63.21% : tank
+28.60% : half track
+ 3.74% : amphibian
+ 0.22% : cannon
+ 0.20% : harvester
+ 0.14% : missile
+ 0.11% : projectile
+ 0.06% : snowplow
+ 0.06% : jeep
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank089.jpg
+63.61% : tank
+28.45% : half track
+ 3.47% : amphibian
+ 0.18% : cannon
+ 0.14% : harvester
+ 0.13% : missile
+ 0.11% : projectile
+ 0.06% : military uniform
+ 0.05% : thresher
+ 0.05% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank090.jpg
+59.64% : tank
+32.33% : half track
+ 3.89% : amphibian
+ 0.18% : cannon
+ 0.15% : missile
+ 0.14% : harvester
+ 0.12% : projectile
+ 0.05% : military uniform
+ 0.05% : submarine
+ 0.05% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank091.jpg
+55.74% : tank
+35.90% : half track
+ 3.93% : amphibian
+ 0.18% : cannon
+ 0.17% : harvester
+ 0.15% : missile
+ 0.12% : projectile
+ 0.06% : jeep
+ 0.06% : submarine
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank092.jpg
+57.04% : tank
+33.94% : half track
+ 4.76% : amphibian
+ 0.18% : cannon
+ 0.17% : harvester
+ 0.15% : missile
+ 0.11% : projectile
+ 0.07% : jeep
+ 0.06% : snowplow
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank093.jpg
+61.54% : tank
+29.68% : half track
+ 4.60% : amphibian
+ 0.19% : harvester
+ 0.17% : cannon
+ 0.14% : missile
+ 0.10% : projectile
+ 0.09% : jeep
+ 0.07% : snowplow
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank094.jpg
+58.51% : tank
+32.91% : half track
+ 4.06% : amphibian
+ 0.20% : harvester
+ 0.19% : cannon
+ 0.17% : missile
+ 0.12% : projectile
+ 0.07% : jeep
+ 0.06% : snowplow
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank095.jpg
+63.48% : tank
+26.95% : half track
+ 4.32% : amphibian
+ 0.21% : cannon
+ 0.19% : harvester
+ 0.18% : missile
+ 0.14% : projectile
+ 0.07% : jeep
+ 0.07% : snowplow
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank096.jpg
+62.62% : tank
+28.64% : half track
+ 4.16% : amphibian
+ 0.19% : cannon
+ 0.18% : harvester
+ 0.14% : missile
+ 0.10% : projectile
+ 0.07% : jeep
+ 0.07% : snowplow
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank097.jpg
+59.73% : tank
+32.13% : half track
+ 3.93% : amphibian
+ 0.17% : cannon
+ 0.15% : harvester
+ 0.12% : missile
+ 0.09% : projectile
+ 0.06% : jeep
+ 0.06% : snowplow
+ 0.06% : submarine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank098.jpg
+58.15% : tank
+33.40% : half track
+ 3.98% : amphibian
+ 0.18% : cannon
+ 0.16% : harvester
+ 0.13% : missile
+ 0.10% : projectile
+ 0.07% : jeep
+ 0.07% : snowplow
+ 0.06% : military uniform
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank099.jpg
+61.90% : tank
+29.33% : half track
+ 4.36% : amphibian
+ 0.18% : cannon
+ 0.15% : harvester
+ 0.13% : missile
+ 0.09% : projectile
+ 0.06% : snowplow
+ 0.06% : submarine
+ 0.06% : jeep
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+Jpeg_NewFolder/wartank100.jpg
+59.56% : tank
+31.77% : half track
+ 4.29% : amphibian
+ 0.18% : cannon
+ 0.17% : harvester
+ 0.13% : missile
+ 0.10% : projectile
+ 0.06% : snowplow
+ 0.06% : jeep
+ 0.05% : military uniform

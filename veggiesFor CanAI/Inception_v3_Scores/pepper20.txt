@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q001.jpg
+14.38% : balloon
+12.84% : bell pepper
+10.69% : jack-o'-lantern
+ 8.39% : ping-pong ball
+ 4.51% : jellyfish
+ 2.95% : buckeye
+ 2.70% : candle
+ 2.38% : acorn squash
+ 1.71% : maraca
+ 1.13% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q002.jpg
+14.38% : balloon
+12.84% : bell pepper
+10.69% : jack-o'-lantern
+ 8.39% : ping-pong ball
+ 4.51% : jellyfish
+ 2.95% : buckeye
+ 2.70% : candle
+ 2.38% : acorn squash
+ 1.71% : maraca
+ 1.13% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q003.jpg
+15.39% : balloon
+12.40% : bell pepper
+10.42% : jack-o'-lantern
+ 8.87% : ping-pong ball
+ 4.38% : jellyfish
+ 3.01% : buckeye
+ 2.71% : candle
+ 2.24% : acorn squash
+ 1.85% : maraca
+ 1.15% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q004.jpg
+50.42% : balloon
+16.23% : maraca
+ 6.74% : candle
+ 3.45% : jack-o'-lantern
+ 2.28% : mouse
+ 1.74% : ocarina
+ 1.54% : ping-pong ball
+ 1.23% : bubble
+ 1.08% : bell pepper
+ 0.43% : pick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q005.jpg
+20.42% : bell pepper
+13.91% : candle
+ 5.72% : balloon
+ 3.00% : jack-o'-lantern
+ 2.87% : maraca
+ 2.52% : buckeye
+ 2.41% : ping-pong ball
+ 2.27% : corn
+ 2.21% : lemon
+ 1.99% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q006.jpg
+74.20% : bell pepper
+ 1.98% : corn
+ 1.79% : jack-o'-lantern
+ 1.35% : candle
+ 1.20% : buckeye
+ 0.94% : lemon
+ 0.85% : ear
+ 0.75% : ping-pong ball
+ 0.75% : orange
+ 0.48% : balloon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q007.jpg
+81.88% : bell pepper
+ 2.56% : jack-o'-lantern
+ 1.64% : corn
+ 1.39% : balloon
+ 0.65% : buckeye
+ 0.49% : ear
+ 0.24% : candle
+ 0.23% : jellyfish
+ 0.22% : maraca
+ 0.21% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q008.jpg
+80.28% : bell pepper
+ 2.45% : jack-o'-lantern
+ 1.32% : corn
+ 0.79% : acorn squash
+ 0.60% : ear
+ 0.56% : orange
+ 0.45% : spaghetti squash
+ 0.31% : lemon
+ 0.31% : balloon
+ 0.28% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q009.jpg
+87.72% : bell pepper
+ 1.69% : corn
+ 0.75% : jack-o'-lantern
+ 0.73% : ear
+ 0.39% : acorn squash
+ 0.24% : buckeye
+ 0.18% : orange
+ 0.17% : spaghetti squash
+ 0.13% : jackfruit
+ 0.12% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q010.jpg
+72.56% : bell pepper
+ 5.14% : corn
+ 3.67% : ear
+ 0.77% : lemon
+ 0.64% : spaghetti squash
+ 0.56% : orange
+ 0.52% : jack-o'-lantern
+ 0.46% : jackfruit
+ 0.34% : buckeye
+ 0.34% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q011.jpg
+89.26% : bell pepper
+ 2.89% : corn
+ 1.27% : ear
+ 0.43% : ping-pong ball
+ 0.27% : orange
+ 0.24% : lemon
+ 0.20% : balloon
+ 0.20% : jack-o'-lantern
+ 0.20% : spaghetti squash
+ 0.16% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q012.jpg
+91.40% : bell pepper
+ 2.24% : corn
+ 1.17% : ear
+ 0.12% : lemon
+ 0.12% : orange
+ 0.11% : spaghetti squash
+ 0.09% : ping-pong ball
+ 0.09% : jackfruit
+ 0.08% : jack-o'-lantern
+ 0.07% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q013.jpg
+91.30% : bell pepper
+ 2.44% : corn
+ 0.79% : ear
+ 0.25% : spaghetti squash
+ 0.18% : orange
+ 0.18% : lemon
+ 0.13% : acorn squash
+ 0.12% : jackfruit
+ 0.10% : jack-o'-lantern
+ 0.07% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q014.jpg
+96.61% : bell pepper
+ 0.89% : corn
+ 0.35% : ear
+ 0.06% : spaghetti squash
+ 0.05% : jackfruit
+ 0.04% : acorn squash
+ 0.04% : orange
+ 0.04% : lemon
+ 0.04% : candle
+ 0.03% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q015.jpg
+92.71% : bell pepper
+ 2.23% : corn
+ 0.89% : ear
+ 0.35% : spaghetti squash
+ 0.33% : lemon
+ 0.15% : jackfruit
+ 0.09% : orange
+ 0.09% : ping-pong ball
+ 0.08% : acorn squash
+ 0.05% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q016.jpg
+94.20% : bell pepper
+ 2.02% : corn
+ 0.79% : ear
+ 0.09% : spaghetti squash
+ 0.08% : jackfruit
+ 0.08% : lemon
+ 0.04% : candle
+ 0.04% : seat belt
+ 0.03% : acorn squash
+ 0.03% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q017.jpg
+98.12% : bell pepper
+ 0.37% : corn
+ 0.15% : ear
+ 0.05% : spaghetti squash
+ 0.03% : balloon
+ 0.03% : conch
+ 0.03% : candle
+ 0.02% : ping-pong ball
+ 0.02% : punching bag
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q018.jpg
+96.48% : bell pepper
+ 1.15% : corn
+ 0.35% : ear
+ 0.05% : ping-pong ball
+ 0.05% : spaghetti squash
+ 0.04% : punching bag
+ 0.04% : jackfruit
+ 0.03% : balloon
+ 0.03% : lemon
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q019.jpg
+98.52% : bell pepper
+ 0.52% : corn
+ 0.11% : ear
+ 0.03% : ping-pong ball
+ 0.02% : candle
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : acorn squash
+ 0.01% : punching bag
+ 0.01% : balloon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q020.jpg
+98.65% : bell pepper
+ 0.35% : corn
+ 0.10% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : acorn squash
+ 0.01% : candle
+ 0.01% : lemon
+ 0.01% : ping-pong ball
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q021.jpg
+97.51% : bell pepper
+ 0.74% : corn
+ 0.17% : ear
+ 0.05% : ping-pong ball
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.03% : candle
+ 0.02% : acorn squash
+ 0.02% : lemon
+ 0.02% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q022.jpg
+97.64% : bell pepper
+ 0.54% : corn
+ 0.14% : ear
+ 0.04% : spaghetti squash
+ 0.04% : ping-pong ball
+ 0.04% : jackfruit
+ 0.03% : lemon
+ 0.03% : candle
+ 0.02% : acorn squash
+ 0.02% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q023.jpg
+98.68% : bell pepper
+ 0.36% : corn
+ 0.08% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.01% : candle
+ 0.01% : acorn squash
+ 0.01% : punching bag
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q024.jpg
+97.82% : bell pepper
+ 0.46% : corn
+ 0.11% : ear
+ 0.05% : spaghetti squash
+ 0.04% : jackfruit
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.02% : ping-pong ball
+ 0.02% : cucumber
+ 0.01% : maraca
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q025.jpg
+98.87% : bell pepper
+ 0.22% : corn
+ 0.05% : ear
+ 0.03% : jackfruit
+ 0.02% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : ping-pong ball
+ 0.01% : conch
+ 0.01% : candle
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q026.jpg
+98.16% : bell pepper
+ 0.32% : corn
+ 0.08% : ear
+ 0.04% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : acorn squash
+ 0.02% : lemon
+ 0.02% : punching bag
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q027.jpg
+98.14% : bell pepper
+ 0.35% : corn
+ 0.08% : ear
+ 0.04% : spaghetti squash
+ 0.04% : jackfruit
+ 0.03% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.01% : croquet ball
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q028.jpg
+98.04% : bell pepper
+ 0.27% : corn
+ 0.06% : ear
+ 0.05% : spaghetti squash
+ 0.05% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.01% : maraca
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q029.jpg
+98.28% : bell pepper
+ 0.21% : corn
+ 0.05% : ear
+ 0.04% : jackfruit
+ 0.04% : spaghetti squash
+ 0.02% : acorn squash
+ 0.02% : conch
+ 0.01% : lemon
+ 0.01% : stove
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q030.jpg
+98.46% : bell pepper
+ 0.25% : corn
+ 0.05% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : ping-pong ball
+ 0.01% : lemon
+ 0.01% : maraca
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q031.jpg
+97.87% : bell pepper
+ 0.27% : corn
+ 0.06% : ear
+ 0.05% : spaghetti squash
+ 0.05% : jackfruit
+ 0.02% : punching bag
+ 0.02% : ping-pong ball
+ 0.02% : maraca
+ 0.02% : lemon
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q032.jpg
+98.19% : bell pepper
+ 0.23% : corn
+ 0.05% : ear
+ 0.04% : jackfruit
+ 0.04% : spaghetti squash
+ 0.01% : conch
+ 0.01% : lemon
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : maraca
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q033.jpg
+96.82% : bell pepper
+ 0.31% : corn
+ 0.11% : spaghetti squash
+ 0.09% : ear
+ 0.07% : jackfruit
+ 0.03% : lemon
+ 0.03% : ping-pong ball
+ 0.03% : acorn squash
+ 0.02% : maraca
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q034.jpg
+97.70% : bell pepper
+ 0.22% : corn
+ 0.06% : ear
+ 0.05% : jackfruit
+ 0.04% : spaghetti squash
+ 0.02% : seat belt
+ 0.02% : stove
+ 0.02% : acorn squash
+ 0.02% : conch
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q035.jpg
+98.07% : bell pepper
+ 0.21% : corn
+ 0.05% : ear
+ 0.04% : spaghetti squash
+ 0.04% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.02% : punching bag
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q036.jpg
+98.27% : bell pepper
+ 0.20% : corn
+ 0.05% : jackfruit
+ 0.04% : ear
+ 0.04% : spaghetti squash
+ 0.02% : lemon
+ 0.01% : seat belt
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q037.jpg
+98.38% : bell pepper
+ 0.19% : corn
+ 0.04% : jackfruit
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.01% : lemon
+ 0.01% : seat belt
+ 0.01% : acorn squash
+ 0.01% : candle
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q038.jpg
+98.18% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.04% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.01% : stove
+ 0.01% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q039.jpg
+98.10% : bell pepper
+ 0.27% : corn
+ 0.06% : ear
+ 0.04% : jackfruit
+ 0.04% : spaghetti squash
+ 0.02% : lemon
+ 0.02% : stove
+ 0.02% : seat belt
+ 0.02% : candle
+ 0.01% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q040.jpg
+98.11% : bell pepper
+ 0.30% : corn
+ 0.06% : ear
+ 0.05% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : lemon
+ 0.02% : seat belt
+ 0.01% : stove
+ 0.01% : conch
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q041.jpg
+98.15% : bell pepper
+ 0.23% : corn
+ 0.05% : ear
+ 0.04% : jackfruit
+ 0.03% : spaghetti squash
+ 0.01% : lemon
+ 0.01% : conch
+ 0.01% : ping-pong ball
+ 0.01% : seat belt
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q042.jpg
+98.20% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : seat belt
+ 0.02% : acorn squash
+ 0.01% : candle
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q043.jpg
+98.28% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : seat belt
+ 0.02% : candle
+ 0.01% : acorn squash
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q044.jpg
+97.82% : bell pepper
+ 0.20% : corn
+ 0.05% : spaghetti squash
+ 0.05% : jackfruit
+ 0.05% : ear
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.02% : stove
+ 0.02% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q045.jpg
+97.85% : bell pepper
+ 0.19% : corn
+ 0.06% : spaghetti squash
+ 0.05% : ear
+ 0.04% : jackfruit
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.02% : ping-pong ball
+ 0.02% : acorn squash
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q046.jpg
+97.68% : bell pepper
+ 0.18% : corn
+ 0.05% : spaghetti squash
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.03% : ping-pong ball
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q047.jpg
+97.70% : bell pepper
+ 0.18% : corn
+ 0.05% : spaghetti squash
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.02% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q048.jpg
+97.68% : bell pepper
+ 0.17% : corn
+ 0.05% : spaghetti squash
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.03% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : seat belt
+ 0.02% : acorn squash
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q049.jpg
+97.99% : bell pepper
+ 0.14% : corn
+ 0.04% : spaghetti squash
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : stove
+ 0.02% : seat belt
+ 0.02% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q050.jpg
+97.99% : bell pepper
+ 0.14% : corn
+ 0.04% : spaghetti squash
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : stove
+ 0.02% : seat belt
+ 0.02% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q051.jpg
+97.98% : bell pepper
+ 0.14% : corn
+ 0.04% : spaghetti squash
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : stove
+ 0.02% : seat belt
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q052.jpg
+98.06% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : candle
+ 0.02% : lemon
+ 0.02% : stove
+ 0.02% : ping-pong ball
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q053.jpg
+97.97% : bell pepper
+ 0.19% : corn
+ 0.05% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : seat belt
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q054.jpg
+97.92% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.02% : stove
+ 0.02% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q055.jpg
+98.29% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : lemon
+ 0.01% : stove
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q056.jpg
+98.13% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q057.jpg
+98.26% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q058.jpg
+98.15% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : ping-pong ball
+ 0.03% : spaghetti squash
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : lemon
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q059.jpg
+98.08% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.03% : ping-pong ball
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q060.jpg
+97.99% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q061.jpg
+98.22% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q062.jpg
+98.26% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q063.jpg
+98.25% : bell pepper
+ 0.21% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.01% : acorn squash
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q064.jpg
+98.14% : bell pepper
+ 0.21% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : lemon
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q065.jpg
+98.30% : bell pepper
+ 0.21% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.02% : ping-pong ball
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q066.jpg
+98.34% : bell pepper
+ 0.22% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q067.jpg
+98.31% : bell pepper
+ 0.23% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : seat belt
+ 0.02% : candle
+ 0.02% : lemon
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q068.jpg
+98.26% : bell pepper
+ 0.21% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.02% : lemon
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q069.jpg
+98.14% : bell pepper
+ 0.23% : corn
+ 0.05% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : seat belt
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : lemon
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q070.jpg
+98.35% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.03% : spaghetti squash
+ 0.02% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q071.jpg
+98.43% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.01% : ping-pong ball
+ 0.01% : lemon
+ 0.01% : stove
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q072.jpg
+98.26% : bell pepper
+ 0.21% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : lemon
+ 0.01% : seat belt
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q073.jpg
+98.22% : bell pepper
+ 0.22% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : seat belt
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q074.jpg
+98.52% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.01% : candle
+ 0.01% : stove
+ 0.01% : seat belt
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q075.jpg
+98.51% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.01% : candle
+ 0.01% : stove
+ 0.01% : seat belt
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q076.jpg
+98.52% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.01% : ping-pong ball
+ 0.01% : stove
+ 0.01% : seat belt
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q077.jpg
+98.26% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.02% : spaghetti squash
+ 0.02% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : lemon
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q078.jpg
+98.49% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : ping-pong ball
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.01% : stove
+ 0.01% : seat belt
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q079.jpg
+98.57% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.02% : spaghetti squash
+ 0.01% : seat belt
+ 0.01% : stove
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q080.jpg
+98.43% : bell pepper
+ 0.18% : corn
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : seat belt
+ 0.01% : stove
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q081.jpg
+98.45% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : seat belt
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q082.jpg
+98.45% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : lemon
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q083.jpg
+98.41% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.02% : spaghetti squash
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : lemon
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q084.jpg
+98.09% : bell pepper
+ 0.23% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.03% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.02% : lemon
+ 0.02% : stove
+ 0.02% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q085.jpg
+98.17% : bell pepper
+ 0.24% : corn
+ 0.04% : ear
+ 0.03% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : stove
+ 0.02% : lemon
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q086.jpg
+98.51% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.02% : stove
+ 0.01% : ping-pong ball
+ 0.01% : lemon
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q087.jpg
+98.48% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.02% : stove
+ 0.01% : ping-pong ball
+ 0.01% : cucumber
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q088.jpg
+98.53% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.01% : stove
+ 0.01% : ping-pong ball
+ 0.01% : cucumber
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q089.jpg
+98.49% : bell pepper
+ 0.14% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.02% : stove
+ 0.02% : ping-pong ball
+ 0.01% : cucumber
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q090.jpg
+98.40% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q091.jpg
+98.38% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : stove
+ 0.01% : seat belt
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q092.jpg
+98.25% : bell pepper
+ 0.17% : corn
+ 0.04% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.02% : stove
+ 0.02% : seat belt
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q093.jpg
+98.23% : bell pepper
+ 0.19% : corn
+ 0.04% : ear
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : lemon
+ 0.01% : stove
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q094.jpg
+98.48% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.02% : spaghetti squash
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : lemon
+ 0.01% : stove
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q095.jpg
+98.58% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : spaghetti squash
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.01% : ping-pong ball
+ 0.01% : stove
+ 0.01% : lemon
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q096.jpg
+98.61% : bell pepper
+ 0.14% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.01% : ping-pong ball
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q097.jpg
+98.63% : bell pepper
+ 0.14% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.01% : ping-pong ball
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q098.jpg
+98.44% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.02% : stove
+ 0.01% : lemon
+ 0.01% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q099.jpg
+98.43% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : candle
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper20Q100.jpg
+98.52% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.01% : stove
+ 0.01% : lemon
+ 0.01% : seat belt

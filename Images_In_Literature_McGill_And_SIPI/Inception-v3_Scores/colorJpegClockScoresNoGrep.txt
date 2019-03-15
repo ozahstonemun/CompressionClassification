@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ001.jpg
+ 6.62% : switch
+ 6.11% : tape player
+ 5.13% : pencil sharpener
+ 4.83% : digital watch
+ 4.60% : combination lock
+ 3.22% : cassette
+ 2.64% : radio
+ 2.55% : gasmask
+ 2.18% : espresso maker
+ 2.13% : Polaroid camera
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ002.jpg
+ 5.65% : tape player
+ 5.57% : pencil sharpener
+ 4.78% : switch
+ 4.24% : digital watch
+ 3.58% : combination lock
+ 2.68% : cassette
+ 2.55% : espresso maker
+ 2.28% : gasmask
+ 2.26% : Polaroid camera
+ 1.82% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ003.jpg
+15.56% : electric fan
+ 5.28% : projector
+ 5.01% : pencil sharpener
+ 4.68% : scale
+ 3.82% : guillotine
+ 3.49% : hand blower
+ 3.39% : radio
+ 2.94% : analog clock
+ 1.80% : printer
+ 1.78% : espresso maker
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ004.jpg
+15.59% : magnetic compass
+13.65% : analog clock
+ 5.25% : electric fan
+ 3.78% : guillotine
+ 3.66% : scale
+ 2.57% : pencil sharpener
+ 2.43% : radio
+ 1.95% : digital watch
+ 1.68% : reel
+ 1.63% : combination lock
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ005.jpg
+59.62% : analog clock
+ 4.52% : magnetic compass
+ 2.75% : wall clock
+ 2.55% : stopwatch
+ 2.08% : scale
+ 1.75% : electric fan
+ 1.75% : barometer
+ 1.59% : combination lock
+ 1.25% : tractor
+ 0.99% : thresher
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ006.jpg
+37.61% : analog clock
+21.39% : magnetic compass
+10.23% : stopwatch
+ 4.09% : electric fan
+ 1.70% : wall clock
+ 1.65% : combination lock
+ 1.50% : barometer
+ 1.28% : scale
+ 1.05% : digital watch
+ 0.97% : thresher
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ007.jpg
+72.52% : analog clock
+ 6.51% : magnetic compass
+ 3.84% : stopwatch
+ 2.94% : wall clock
+ 1.34% : scale
+ 0.85% : tractor
+ 0.69% : barometer
+ 0.69% : thresher
+ 0.53% : gas pump
+ 0.41% : digital clock
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ008.jpg
+76.74% : analog clock
+ 6.63% : magnetic compass
+ 3.54% : stopwatch
+ 1.89% : wall clock
+ 1.62% : scale
+ 1.31% : digital clock
+ 0.81% : barometer
+ 0.67% : digital watch
+ 0.45% : combination lock
+ 0.22% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ009.jpg
+62.91% : analog clock
+20.33% : stopwatch
+ 4.71% : magnetic compass
+ 1.32% : wall clock
+ 0.85% : digital watch
+ 0.82% : digital clock
+ 0.77% : barometer
+ 0.24% : scale
+ 0.23% : combination lock
+ 0.22% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ010.jpg
+60.36% : analog clock
+16.67% : stopwatch
+ 4.99% : magnetic compass
+ 1.90% : wall clock
+ 1.42% : digital watch
+ 1.18% : barometer
+ 0.98% : digital clock
+ 0.47% : combination lock
+ 0.38% : scale
+ 0.26% : tractor
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ011.jpg
+60.86% : analog clock
+10.77% : magnetic compass
+10.37% : stopwatch
+ 3.84% : wall clock
+ 1.41% : barometer
+ 0.82% : digital watch
+ 0.67% : digital clock
+ 0.66% : combination lock
+ 0.43% : gas pump
+ 0.33% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ012.jpg
+42.14% : analog clock
+25.30% : stopwatch
+11.96% : magnetic compass
+ 3.56% : digital watch
+ 3.14% : barometer
+ 2.94% : wall clock
+ 1.79% : digital clock
+ 0.43% : scale
+ 0.40% : combination lock
+ 0.19% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ013.jpg
+34.79% : stopwatch
+32.01% : analog clock
+13.78% : magnetic compass
+ 4.55% : barometer
+ 3.52% : digital watch
+ 1.73% : wall clock
+ 1.02% : digital clock
+ 0.31% : combination lock
+ 0.21% : whistle
+ 0.19% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ014.jpg
+42.49% : analog clock
+29.13% : magnetic compass
+12.95% : stopwatch
+ 3.04% : barometer
+ 2.81% : wall clock
+ 1.69% : digital watch
+ 0.78% : digital clock
+ 0.58% : combination lock
+ 0.53% : whistle
+ 0.09% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ015.jpg
+54.11% : analog clock
+19.94% : magnetic compass
+10.33% : stopwatch
+ 3.41% : barometer
+ 1.87% : wall clock
+ 1.15% : digital watch
+ 0.64% : whistle
+ 0.58% : combination lock
+ 0.54% : digital clock
+ 0.16% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ016.jpg
+43.89% : magnetic compass
+25.34% : analog clock
+14.32% : stopwatch
+ 2.51% : combination lock
+ 2.04% : barometer
+ 1.63% : digital watch
+ 1.34% : wall clock
+ 1.05% : whistle
+ 0.30% : digital clock
+ 0.20% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ017.jpg
+52.52% : analog clock
+20.78% : stopwatch
+11.63% : magnetic compass
+ 3.82% : wall clock
+ 1.80% : barometer
+ 1.20% : digital watch
+ 0.83% : combination lock
+ 0.51% : digital clock
+ 0.25% : whistle
+ 0.12% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ018.jpg
+58.51% : analog clock
+17.44% : magnetic compass
+ 7.22% : wall clock
+ 4.37% : stopwatch
+ 1.82% : barometer
+ 0.58% : scale
+ 0.42% : combination lock
+ 0.41% : digital clock
+ 0.40% : digital watch
+ 0.17% : dining table
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ019.jpg
+40.93% : analog clock
+26.21% : magnetic compass
+16.76% : stopwatch
+ 2.58% : wall clock
+ 1.79% : barometer
+ 1.42% : digital watch
+ 0.48% : combination lock
+ 0.31% : whistle
+ 0.31% : digital clock
+ 0.14% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ020.jpg
+40.76% : magnetic compass
+35.47% : analog clock
+ 8.17% : stopwatch
+ 2.45% : wall clock
+ 1.94% : barometer
+ 0.92% : digital watch
+ 0.62% : combination lock
+ 0.49% : whistle
+ 0.20% : digital clock
+ 0.16% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ021.jpg
+42.53% : analog clock
+25.87% : magnetic compass
+ 8.37% : stopwatch
+ 2.22% : wall clock
+ 1.83% : barometer
+ 1.20% : digital watch
+ 0.89% : combination lock
+ 0.39% : digital clock
+ 0.37% : whistle
+ 0.35% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ022.jpg
+53.72% : analog clock
+11.93% : stopwatch
+ 7.40% : magnetic compass
+ 4.06% : wall clock
+ 1.63% : barometer
+ 0.65% : combination lock
+ 0.63% : digital watch
+ 0.31% : racer
+ 0.27% : digital clock
+ 0.26% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ023.jpg
+37.30% : analog clock
+23.59% : stopwatch
+11.91% : magnetic compass
+ 2.40% : barometer
+ 2.18% : digital watch
+ 2.03% : wall clock
+ 0.88% : combination lock
+ 0.81% : digital clock
+ 0.33% : whistle
+ 0.29% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ024.jpg
+43.34% : analog clock
+15.02% : magnetic compass
+14.14% : stopwatch
+ 2.92% : barometer
+ 2.85% : wall clock
+ 1.27% : digital watch
+ 0.96% : combination lock
+ 0.58% : digital clock
+ 0.34% : radio
+ 0.26% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ025.jpg
+53.07% : analog clock
+19.09% : stopwatch
+ 7.32% : magnetic compass
+ 2.64% : wall clock
+ 2.46% : barometer
+ 1.08% : digital watch
+ 0.38% : digital clock
+ 0.32% : combination lock
+ 0.23% : whistle
+ 0.21% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ026.jpg
+58.44% : analog clock
+ 9.25% : stopwatch
+ 9.01% : magnetic compass
+ 5.85% : wall clock
+ 3.94% : barometer
+ 0.68% : digital watch
+ 0.41% : combination lock
+ 0.34% : digital clock
+ 0.24% : scale
+ 0.19% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ027.jpg
+45.76% : analog clock
+17.34% : stopwatch
+16.69% : magnetic compass
+ 4.09% : barometer
+ 2.34% : wall clock
+ 2.05% : digital watch
+ 0.55% : digital clock
+ 0.51% : combination lock
+ 0.37% : whistle
+ 0.24% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ028.jpg
+34.48% : stopwatch
+31.66% : analog clock
+12.05% : magnetic compass
+ 4.30% : barometer
+ 2.19% : wall clock
+ 2.15% : digital watch
+ 0.57% : digital clock
+ 0.53% : combination lock
+ 0.39% : whistle
+ 0.22% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ029.jpg
+38.57% : analog clock
+29.99% : stopwatch
+11.99% : magnetic compass
+ 3.51% : barometer
+ 2.53% : digital watch
+ 2.14% : wall clock
+ 0.62% : digital clock
+ 0.39% : combination lock
+ 0.31% : whistle
+ 0.16% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ030.jpg
+45.80% : analog clock
+19.05% : stopwatch
+17.07% : magnetic compass
+ 3.35% : barometer
+ 2.78% : wall clock
+ 2.03% : digital watch
+ 0.67% : digital clock
+ 0.35% : combination lock
+ 0.27% : whistle
+ 0.11% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ031.jpg
+59.69% : analog clock
+11.71% : magnetic compass
+ 9.57% : stopwatch
+ 3.10% : wall clock
+ 2.18% : barometer
+ 1.09% : digital watch
+ 0.37% : digital clock
+ 0.35% : combination lock
+ 0.34% : whistle
+ 0.16% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ032.jpg
+61.59% : analog clock
+11.96% : stopwatch
+ 7.08% : magnetic compass
+ 4.07% : wall clock
+ 2.47% : barometer
+ 0.93% : digital watch
+ 0.41% : digital clock
+ 0.36% : combination lock
+ 0.17% : whistle
+ 0.15% : bell cote
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ033.jpg
+57.63% : analog clock
+11.67% : stopwatch
+ 6.00% : magnetic compass
+ 3.75% : wall clock
+ 2.71% : barometer
+ 1.11% : digital watch
+ 0.47% : combination lock
+ 0.39% : digital clock
+ 0.24% : whistle
+ 0.21% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ034.jpg
+46.11% : analog clock
+12.64% : stopwatch
+ 9.58% : magnetic compass
+ 3.37% : wall clock
+ 2.84% : barometer
+ 1.40% : digital watch
+ 1.04% : combination lock
+ 0.52% : digital clock
+ 0.40% : whistle
+ 0.31% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ035.jpg
+41.15% : analog clock
+19.80% : stopwatch
+12.70% : magnetic compass
+ 2.97% : barometer
+ 2.27% : digital watch
+ 1.95% : wall clock
+ 0.96% : combination lock
+ 0.62% : digital clock
+ 0.50% : whistle
+ 0.27% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ036.jpg
+43.32% : analog clock
+24.89% : stopwatch
+ 6.24% : magnetic compass
+ 2.46% : barometer
+ 2.27% : wall clock
+ 1.43% : digital watch
+ 0.90% : combination lock
+ 0.35% : digital clock
+ 0.35% : whistle
+ 0.24% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ037.jpg
+36.72% : analog clock
+23.79% : stopwatch
+ 9.09% : magnetic compass
+ 2.77% : barometer
+ 2.02% : wall clock
+ 1.76% : digital watch
+ 1.28% : combination lock
+ 0.45% : digital clock
+ 0.41% : whistle
+ 0.32% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ038.jpg
+33.71% : stopwatch
+28.78% : analog clock
+ 6.04% : magnetic compass
+ 3.74% : barometer
+ 2.76% : digital watch
+ 1.94% : wall clock
+ 1.25% : combination lock
+ 0.74% : digital clock
+ 0.43% : whistle
+ 0.24% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ039.jpg
+39.35% : analog clock
+27.54% : stopwatch
+ 4.80% : magnetic compass
+ 4.38% : barometer
+ 2.98% : wall clock
+ 1.78% : digital watch
+ 0.82% : digital clock
+ 0.64% : combination lock
+ 0.31% : whistle
+ 0.24% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ040.jpg
+43.16% : analog clock
+26.66% : stopwatch
+ 3.65% : barometer
+ 3.54% : magnetic compass
+ 2.97% : wall clock
+ 1.53% : digital watch
+ 0.68% : digital clock
+ 0.54% : combination lock
+ 0.37% : whistle
+ 0.25% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ041.jpg
+41.51% : analog clock
+30.30% : stopwatch
+ 3.06% : magnetic compass
+ 2.20% : barometer
+ 1.83% : wall clock
+ 1.21% : digital watch
+ 0.49% : digital clock
+ 0.41% : combination lock
+ 0.35% : whistle
+ 0.24% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ042.jpg
+40.75% : analog clock
+30.95% : stopwatch
+ 3.05% : magnetic compass
+ 2.57% : barometer
+ 1.93% : wall clock
+ 1.41% : digital watch
+ 0.67% : digital clock
+ 0.34% : combination lock
+ 0.29% : whistle
+ 0.21% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ043.jpg
+34.60% : analog clock
+34.05% : stopwatch
+ 4.27% : magnetic compass
+ 3.33% : barometer
+ 1.84% : wall clock
+ 1.55% : digital watch
+ 0.64% : digital clock
+ 0.56% : whistle
+ 0.43% : combination lock
+ 0.29% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ044.jpg
+35.66% : stopwatch
+33.24% : analog clock
+ 5.69% : magnetic compass
+ 3.63% : barometer
+ 1.99% : digital watch
+ 1.69% : wall clock
+ 0.65% : digital clock
+ 0.64% : whistle
+ 0.48% : combination lock
+ 0.26% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ045.jpg
+34.38% : analog clock
+31.54% : stopwatch
+ 6.33% : magnetic compass
+ 3.49% : barometer
+ 2.02% : digital watch
+ 1.67% : wall clock
+ 0.85% : whistle
+ 0.63% : digital clock
+ 0.53% : combination lock
+ 0.31% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ046.jpg
+44.01% : analog clock
+24.70% : stopwatch
+ 5.62% : magnetic compass
+ 2.29% : barometer
+ 1.91% : wall clock
+ 0.90% : digital watch
+ 0.70% : combination lock
+ 0.69% : whistle
+ 0.33% : digital clock
+ 0.26% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ047.jpg
+41.70% : analog clock
+28.20% : stopwatch
+ 4.94% : magnetic compass
+ 2.48% : barometer
+ 1.87% : wall clock
+ 1.12% : digital watch
+ 0.71% : whistle
+ 0.57% : combination lock
+ 0.39% : digital clock
+ 0.26% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ048.jpg
+42.54% : analog clock
+22.25% : stopwatch
+ 7.41% : magnetic compass
+ 3.21% : barometer
+ 1.99% : wall clock
+ 0.91% : digital watch
+ 0.79% : combination lock
+ 0.76% : whistle
+ 0.40% : digital clock
+ 0.28% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ049.jpg
+40.41% : analog clock
+18.74% : stopwatch
+11.06% : magnetic compass
+ 4.33% : barometer
+ 2.08% : wall clock
+ 1.32% : digital watch
+ 0.84% : combination lock
+ 0.69% : whistle
+ 0.59% : digital clock
+ 0.33% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ050.jpg
+47.45% : analog clock
+16.26% : stopwatch
+ 9.10% : magnetic compass
+ 4.09% : barometer
+ 2.53% : wall clock
+ 0.76% : digital watch
+ 0.74% : combination lock
+ 0.57% : whistle
+ 0.36% : digital clock
+ 0.29% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ051.jpg
+49.65% : analog clock
+13.03% : stopwatch
+10.70% : magnetic compass
+ 3.66% : barometer
+ 2.61% : wall clock
+ 0.88% : digital watch
+ 0.75% : combination lock
+ 0.62% : whistle
+ 0.37% : digital clock
+ 0.26% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ052.jpg
+49.63% : analog clock
+12.77% : stopwatch
+10.26% : magnetic compass
+ 2.58% : barometer
+ 1.70% : wall clock
+ 1.00% : digital watch
+ 0.76% : combination lock
+ 0.69% : whistle
+ 0.38% : digital clock
+ 0.31% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ053.jpg
+42.43% : analog clock
+15.75% : stopwatch
+12.48% : magnetic compass
+ 2.15% : barometer
+ 1.54% : digital watch
+ 1.31% : wall clock
+ 1.28% : combination lock
+ 1.22% : whistle
+ 0.42% : digital clock
+ 0.32% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ054.jpg
+42.15% : analog clock
+15.35% : stopwatch
+12.65% : magnetic compass
+ 1.88% : barometer
+ 1.49% : whistle
+ 1.41% : combination lock
+ 1.23% : wall clock
+ 1.06% : digital watch
+ 0.35% : racer
+ 0.30% : digital clock
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ055.jpg
+48.57% : analog clock
+16.12% : stopwatch
+ 9.20% : magnetic compass
+ 2.47% : barometer
+ 1.58% : wall clock
+ 0.91% : combination lock
+ 0.77% : whistle
+ 0.74% : digital watch
+ 0.29% : digital clock
+ 0.27% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ056.jpg
+46.10% : analog clock
+17.38% : stopwatch
+ 8.60% : magnetic compass
+ 2.15% : barometer
+ 1.79% : wall clock
+ 1.17% : combination lock
+ 0.77% : whistle
+ 0.71% : digital watch
+ 0.35% : pencil sharpener
+ 0.31% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ057.jpg
+43.68% : analog clock
+17.69% : stopwatch
+ 6.92% : magnetic compass
+ 2.32% : barometer
+ 2.04% : wall clock
+ 1.52% : combination lock
+ 0.73% : whistle
+ 0.63% : digital watch
+ 0.38% : racer
+ 0.38% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ058.jpg
+50.17% : analog clock
+14.23% : stopwatch
+ 4.98% : magnetic compass
+ 2.59% : wall clock
+ 2.42% : barometer
+ 1.36% : combination lock
+ 0.58% : digital watch
+ 0.53% : whistle
+ 0.37% : racer
+ 0.36% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ059.jpg
+44.87% : analog clock
+15.49% : stopwatch
+ 6.29% : magnetic compass
+ 2.44% : wall clock
+ 2.39% : barometer
+ 2.16% : combination lock
+ 0.73% : whistle
+ 0.65% : digital watch
+ 0.42% : racer
+ 0.40% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ060.jpg
+46.33% : analog clock
+13.86% : stopwatch
+ 5.55% : magnetic compass
+ 2.43% : combination lock
+ 2.33% : wall clock
+ 2.25% : barometer
+ 0.73% : whistle
+ 0.50% : digital watch
+ 0.50% : racer
+ 0.45% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ061.jpg
+41.96% : analog clock
+15.00% : stopwatch
+ 6.43% : magnetic compass
+ 3.52% : combination lock
+ 2.06% : barometer
+ 1.72% : wall clock
+ 1.05% : whistle
+ 0.80% : digital watch
+ 0.42% : pencil sharpener
+ 0.42% : racer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ062.jpg
+37.78% : analog clock
+16.96% : stopwatch
+ 7.73% : magnetic compass
+ 2.85% : combination lock
+ 2.12% : barometer
+ 1.61% : wall clock
+ 1.11% : digital watch
+ 0.97% : whistle
+ 0.56% : digital clock
+ 0.46% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ063.jpg
+38.02% : analog clock
+16.09% : stopwatch
+ 5.48% : magnetic compass
+ 2.34% : combination lock
+ 1.93% : barometer
+ 1.72% : wall clock
+ 1.13% : digital watch
+ 0.76% : pencil sharpener
+ 0.75% : whistle
+ 0.61% : digital clock
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ064.jpg
+38.46% : analog clock
+16.31% : stopwatch
+ 6.58% : magnetic compass
+ 2.21% : barometer
+ 2.05% : combination lock
+ 1.74% : wall clock
+ 1.40% : digital watch
+ 0.77% : pencil sharpener
+ 0.69% : digital clock
+ 0.66% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ065.jpg
+42.80% : analog clock
+10.68% : stopwatch
+10.29% : magnetic compass
+ 3.64% : barometer
+ 1.71% : digital watch
+ 1.54% : combination lock
+ 1.43% : wall clock
+ 1.26% : digital clock
+ 0.67% : whistle
+ 0.61% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ066.jpg
+35.50% : analog clock
+12.71% : magnetic compass
+11.76% : stopwatch
+ 4.36% : barometer
+ 2.30% : digital watch
+ 1.75% : combination lock
+ 1.68% : digital clock
+ 1.34% : wall clock
+ 0.82% : whistle
+ 0.59% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ067.jpg
+41.52% : analog clock
+11.45% : stopwatch
+10.58% : magnetic compass
+ 4.58% : barometer
+ 2.48% : digital watch
+ 1.76% : combination lock
+ 1.59% : digital clock
+ 1.32% : wall clock
+ 0.85% : whistle
+ 0.54% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ068.jpg
+38.64% : analog clock
+12.62% : stopwatch
+ 7.26% : magnetic compass
+ 4.49% : barometer
+ 2.29% : combination lock
+ 2.03% : digital watch
+ 1.37% : digital clock
+ 1.17% : wall clock
+ 0.93% : whistle
+ 0.59% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ069.jpg
+33.90% : analog clock
+12.27% : stopwatch
+ 8.15% : magnetic compass
+ 4.05% : barometer
+ 3.34% : combination lock
+ 1.97% : digital watch
+ 1.15% : wall clock
+ 1.00% : whistle
+ 0.94% : digital clock
+ 0.69% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ070.jpg
+37.40% : analog clock
+ 9.97% : stopwatch
+ 5.98% : magnetic compass
+ 3.95% : barometer
+ 3.30% : combination lock
+ 1.47% : digital watch
+ 1.44% : wall clock
+ 0.97% : digital clock
+ 0.82% : whistle
+ 0.60% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ071.jpg
+43.16% : analog clock
+ 8.41% : stopwatch
+ 8.07% : magnetic compass
+ 4.23% : barometer
+ 2.90% : combination lock
+ 1.71% : wall clock
+ 1.00% : digital watch
+ 0.80% : digital clock
+ 0.67% : whistle
+ 0.42% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ072.jpg
+42.88% : analog clock
+13.01% : stopwatch
+ 6.54% : magnetic compass
+ 4.56% : barometer
+ 1.64% : wall clock
+ 1.62% : combination lock
+ 1.49% : digital watch
+ 1.48% : digital clock
+ 0.51% : whistle
+ 0.39% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ073.jpg
+51.75% : analog clock
+11.62% : stopwatch
+ 6.86% : magnetic compass
+ 3.43% : barometer
+ 1.81% : wall clock
+ 1.41% : combination lock
+ 1.25% : digital watch
+ 1.12% : digital clock
+ 0.44% : whistle
+ 0.28% : scale
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ074.jpg
+47.77% : analog clock
+11.49% : magnetic compass
+ 6.85% : stopwatch
+ 4.39% : barometer
+ 2.03% : combination lock
+ 1.98% : wall clock
+ 1.24% : digital watch
+ 1.16% : digital clock
+ 0.55% : whistle
+ 0.30% : bookcase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ075.jpg
+47.74% : analog clock
+ 9.65% : magnetic compass
+ 6.04% : stopwatch
+ 4.63% : barometer
+ 2.44% : combination lock
+ 2.07% : wall clock
+ 0.95% : digital clock
+ 0.89% : digital watch
+ 0.58% : whistle
+ 0.36% : bookcase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ076.jpg
+52.02% : analog clock
+ 7.44% : stopwatch
+ 6.39% : magnetic compass
+ 3.65% : barometer
+ 2.59% : wall clock
+ 2.02% : combination lock
+ 0.81% : digital clock
+ 0.76% : digital watch
+ 0.49% : whistle
+ 0.33% : bookcase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ077.jpg
+45.76% : analog clock
+11.43% : stopwatch
+ 3.86% : barometer
+ 3.64% : magnetic compass
+ 2.95% : wall clock
+ 2.48% : combination lock
+ 0.77% : digital clock
+ 0.61% : digital watch
+ 0.53% : scale
+ 0.41% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ078.jpg
+39.18% : analog clock
+12.77% : stopwatch
+ 4.15% : combination lock
+ 3.74% : magnetic compass
+ 2.99% : barometer
+ 2.90% : wall clock
+ 0.68% : digital clock
+ 0.60% : digital watch
+ 0.52% : whistle
+ 0.51% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ079.jpg
+39.60% : analog clock
+11.79% : stopwatch
+ 4.78% : magnetic compass
+ 3.53% : combination lock
+ 3.08% : barometer
+ 2.45% : wall clock
+ 1.07% : digital clock
+ 0.97% : digital watch
+ 0.64% : whistle
+ 0.60% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ080.jpg
+38.39% : analog clock
+11.07% : stopwatch
+ 4.82% : magnetic compass
+ 4.72% : combination lock
+ 2.94% : barometer
+ 2.64% : wall clock
+ 1.22% : digital watch
+ 1.22% : digital clock
+ 0.69% : whistle
+ 0.67% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ081.jpg
+40.66% : analog clock
+10.93% : stopwatch
+ 4.77% : combination lock
+ 4.21% : magnetic compass
+ 3.38% : wall clock
+ 2.84% : barometer
+ 1.01% : digital clock
+ 0.96% : digital watch
+ 0.68% : whistle
+ 0.54% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ082.jpg
+45.15% : analog clock
+10.06% : stopwatch
+ 4.05% : combination lock
+ 3.56% : magnetic compass
+ 3.53% : wall clock
+ 2.48% : barometer
+ 0.84% : digital clock
+ 0.81% : digital watch
+ 0.72% : whistle
+ 0.49% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ083.jpg
+45.48% : analog clock
+14.75% : stopwatch
+ 3.98% : combination lock
+ 3.54% : magnetic compass
+ 3.06% : wall clock
+ 2.69% : barometer
+ 1.14% : digital watch
+ 0.93% : digital clock
+ 0.64% : whistle
+ 0.46% : radio
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ084.jpg
+48.20% : analog clock
+13.13% : stopwatch
+ 4.56% : magnetic compass
+ 3.86% : combination lock
+ 2.89% : wall clock
+ 2.56% : barometer
+ 1.15% : digital watch
+ 0.95% : digital clock
+ 0.57% : whistle
+ 0.51% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ085.jpg
+54.19% : analog clock
+12.34% : stopwatch
+ 3.78% : magnetic compass
+ 2.86% : combination lock
+ 2.84% : wall clock
+ 2.35% : barometer
+ 0.86% : digital watch
+ 0.82% : digital clock
+ 0.45% : whistle
+ 0.39% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ086.jpg
+47.93% : analog clock
+12.68% : stopwatch
+ 3.63% : wall clock
+ 3.06% : combination lock
+ 3.04% : magnetic compass
+ 2.03% : barometer
+ 0.72% : digital watch
+ 0.64% : digital clock
+ 0.55% : whistle
+ 0.49% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ087.jpg
+41.55% : analog clock
+13.65% : stopwatch
+ 4.78% : combination lock
+ 3.29% : magnetic compass
+ 3.06% : wall clock
+ 2.29% : barometer
+ 1.01% : digital watch
+ 0.86% : digital clock
+ 0.63% : pencil sharpener
+ 0.61% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ088.jpg
+42.27% : analog clock
+13.58% : stopwatch
+ 5.20% : combination lock
+ 3.24% : magnetic compass
+ 2.92% : wall clock
+ 2.71% : barometer
+ 1.07% : digital watch
+ 0.91% : digital clock
+ 0.63% : whistle
+ 0.55% : bookcase
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ089.jpg
+41.78% : analog clock
+16.20% : stopwatch
+ 5.50% : combination lock
+ 3.18% : magnetic compass
+ 2.61% : wall clock
+ 2.58% : barometer
+ 1.50% : digital watch
+ 1.04% : digital clock
+ 0.58% : whistle
+ 0.47% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ090.jpg
+43.16% : analog clock
+15.30% : stopwatch
+ 4.63% : combination lock
+ 3.05% : wall clock
+ 2.49% : barometer
+ 2.25% : magnetic compass
+ 1.00% : digital watch
+ 0.95% : digital clock
+ 0.55% : scale
+ 0.52% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ091.jpg
+46.32% : analog clock
+13.52% : stopwatch
+ 4.45% : combination lock
+ 3.00% : wall clock
+ 2.69% : barometer
+ 2.51% : magnetic compass
+ 1.08% : digital clock
+ 1.05% : digital watch
+ 0.56% : scale
+ 0.43% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ092.jpg
+51.28% : analog clock
+14.27% : stopwatch
+ 3.45% : wall clock
+ 2.98% : combination lock
+ 2.18% : barometer
+ 1.93% : magnetic compass
+ 0.97% : digital clock
+ 0.92% : digital watch
+ 0.60% : scale
+ 0.37% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ093.jpg
+42.38% : analog clock
+17.96% : stopwatch
+ 3.82% : combination lock
+ 3.03% : wall clock
+ 1.91% : magnetic compass
+ 1.66% : barometer
+ 0.82% : digital watch
+ 0.73% : digital clock
+ 0.54% : whistle
+ 0.48% : pencil sharpener
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ094.jpg
+44.74% : analog clock
+12.56% : stopwatch
+ 4.71% : wall clock
+ 3.67% : combination lock
+ 1.58% : magnetic compass
+ 1.33% : barometer
+ 0.73% : pencil sharpener
+ 0.53% : whistle
+ 0.50% : digital watch
+ 0.49% : digital clock
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ095.jpg
+46.34% : analog clock
+15.39% : stopwatch
+ 4.69% : wall clock
+ 2.08% : combination lock
+ 1.46% : barometer
+ 1.38% : magnetic compass
+ 0.75% : digital clock
+ 0.69% : digital watch
+ 0.62% : pencil sharpener
+ 0.41% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ096.jpg
+33.29% : analog clock
+21.90% : stopwatch
+ 4.81% : combination lock
+ 3.41% : wall clock
+ 1.55% : magnetic compass
+ 1.33% : barometer
+ 1.16% : digital watch
+ 1.02% : pencil sharpener
+ 1.01% : digital clock
+ 0.52% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ097.jpg
+41.12% : analog clock
+18.77% : stopwatch
+ 4.52% : combination lock
+ 4.01% : wall clock
+ 1.42% : magnetic compass
+ 1.38% : barometer
+ 1.02% : digital watch
+ 1.01% : digital clock
+ 0.75% : pencil sharpener
+ 0.40% : teapot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ098.jpg
+39.76% : analog clock
+20.19% : stopwatch
+ 3.73% : combination lock
+ 3.69% : wall clock
+ 1.62% : magnetic compass
+ 1.57% : barometer
+ 1.16% : digital watch
+ 1.03% : digital clock
+ 0.73% : pencil sharpener
+ 0.47% : whistle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ099.jpg
+39.21% : analog clock
+20.55% : stopwatch
+ 4.00% : wall clock
+ 3.94% : combination lock
+ 1.44% : magnetic compass
+ 1.44% : barometer
+ 1.13% : digital watch
+ 1.00% : digital clock
+ 0.66% : pencil sharpener
+ 0.44% : teapot
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+_clockCompGauss/colorClock/colorClockQ100.jpg
+41.97% : analog clock
+19.25% : stopwatch
+ 3.97% : wall clock
+ 3.31% : combination lock
+ 1.33% : barometer
+ 1.33% : magnetic compass
+ 0.96% : digital watch
+ 0.91% : digital clock
+ 0.65% : pencil sharpener
+ 0.42% : teapot

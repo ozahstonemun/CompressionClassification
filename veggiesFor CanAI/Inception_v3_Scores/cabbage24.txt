@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q001.jpg
+56.94% : lemon
+13.47% : orange
+ 9.21% : spaghetti squash
+ 4.40% : acorn squash
+ 0.54% : sombrero
+ 0.53% : alp
+ 0.49% : head cabbage
+ 0.29% : tennis ball
+ 0.24% : butternut squash
+ 0.15% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q002.jpg
+56.94% : lemon
+13.47% : orange
+ 9.21% : spaghetti squash
+ 4.40% : acorn squash
+ 0.54% : sombrero
+ 0.53% : alp
+ 0.49% : head cabbage
+ 0.29% : tennis ball
+ 0.24% : butternut squash
+ 0.15% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q003.jpg
+54.00% : lemon
+12.12% : orange
+10.27% : spaghetti squash
+ 5.75% : acorn squash
+ 0.66% : sombrero
+ 0.63% : head cabbage
+ 0.56% : alp
+ 0.32% : tennis ball
+ 0.28% : butternut squash
+ 0.18% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q004.jpg
+63.41% : head cabbage
+15.81% : lemon
+ 3.47% : acorn squash
+ 3.05% : sombrero
+ 1.54% : orange
+ 1.52% : balloon
+ 1.20% : spaghetti squash
+ 0.70% : tennis ball
+ 0.43% : guacamole
+ 0.25% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q005.jpg
+65.11% : head cabbage
+ 7.21% : spaghetti squash
+ 5.80% : lemon
+ 4.32% : orange
+ 1.50% : acorn squash
+ 1.30% : butternut squash
+ 0.58% : chambered nautilus
+ 0.41% : grocery store
+ 0.24% : alp
+ 0.23% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q006.jpg
+95.92% : head cabbage
+ 0.40% : spaghetti squash
+ 0.19% : lemon
+ 0.14% : butternut squash
+ 0.14% : acorn squash
+ 0.13% : dough
+ 0.12% : chambered nautilus
+ 0.06% : grocery store
+ 0.06% : French loaf
+ 0.06% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q007.jpg
+77.74% : head cabbage
+11.37% : acorn squash
+ 3.37% : spaghetti squash
+ 0.89% : lemon
+ 0.37% : butternut squash
+ 0.14% : chambered nautilus
+ 0.11% : grocery store
+ 0.10% : custard apple
+ 0.08% : orange
+ 0.08% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q008.jpg
+92.00% : head cabbage
+ 2.25% : lemon
+ 0.58% : spaghetti squash
+ 0.38% : butternut squash
+ 0.25% : dough
+ 0.15% : orange
+ 0.12% : acorn squash
+ 0.10% : chambered nautilus
+ 0.06% : cauliflower
+ 0.06% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q009.jpg
+95.58% : head cabbage
+ 0.32% : lemon
+ 0.09% : butternut squash
+ 0.08% : spaghetti squash
+ 0.07% : cauliflower
+ 0.07% : dough
+ 0.04% : acorn squash
+ 0.04% : valley
+ 0.04% : velvet
+ 0.03% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q010.jpg
+97.97% : head cabbage
+ 0.05% : cauliflower
+ 0.05% : lemon
+ 0.04% : dough
+ 0.04% : butternut squash
+ 0.04% : spaghetti squash
+ 0.04% : acorn squash
+ 0.03% : chambered nautilus
+ 0.02% : valley
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q011.jpg
+96.27% : head cabbage
+ 0.38% : lemon
+ 0.27% : spaghetti squash
+ 0.20% : butternut squash
+ 0.17% : acorn squash
+ 0.11% : dough
+ 0.05% : chambered nautilus
+ 0.04% : cauliflower
+ 0.03% : custard apple
+ 0.03% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q012.jpg
+98.30% : head cabbage
+ 0.15% : lemon
+ 0.08% : spaghetti squash
+ 0.06% : cauliflower
+ 0.05% : dough
+ 0.05% : butternut squash
+ 0.04% : acorn squash
+ 0.01% : valley
+ 0.01% : custard apple
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q013.jpg
+97.75% : head cabbage
+ 0.06% : cauliflower
+ 0.05% : dough
+ 0.05% : chambered nautilus
+ 0.04% : lemon
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : velvet
+ 0.02% : valley
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q014.jpg
+96.15% : head cabbage
+ 0.10% : spaghetti squash
+ 0.10% : butternut squash
+ 0.10% : dough
+ 0.09% : lemon
+ 0.07% : chambered nautilus
+ 0.07% : acorn squash
+ 0.06% : cauliflower
+ 0.03% : grocery store
+ 0.03% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q015.jpg
+96.30% : head cabbage
+ 0.09% : cauliflower
+ 0.09% : dough
+ 0.08% : lemon
+ 0.06% : butternut squash
+ 0.05% : spaghetti squash
+ 0.05% : chambered nautilus
+ 0.05% : acorn squash
+ 0.04% : velvet
+ 0.03% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q016.jpg
+96.71% : head cabbage
+ 0.09% : cauliflower
+ 0.08% : spaghetti squash
+ 0.07% : dough
+ 0.06% : butternut squash
+ 0.06% : acorn squash
+ 0.05% : lemon
+ 0.04% : chambered nautilus
+ 0.03% : velvet
+ 0.03% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q017.jpg
+95.97% : head cabbage
+ 0.10% : cauliflower
+ 0.09% : lemon
+ 0.07% : dough
+ 0.07% : butternut squash
+ 0.07% : spaghetti squash
+ 0.06% : chambered nautilus
+ 0.05% : velvet
+ 0.04% : acorn squash
+ 0.03% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q018.jpg
+96.17% : head cabbage
+ 0.12% : cauliflower
+ 0.07% : dough
+ 0.06% : acorn squash
+ 0.06% : butternut squash
+ 0.05% : spaghetti squash
+ 0.05% : lemon
+ 0.04% : chambered nautilus
+ 0.04% : velvet
+ 0.03% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q019.jpg
+93.93% : head cabbage
+ 0.22% : lemon
+ 0.21% : spaghetti squash
+ 0.21% : acorn squash
+ 0.19% : butternut squash
+ 0.14% : cauliflower
+ 0.14% : dough
+ 0.06% : grocery store
+ 0.06% : chambered nautilus
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q020.jpg
+96.46% : head cabbage
+ 0.10% : cauliflower
+ 0.10% : lemon
+ 0.07% : spaghetti squash
+ 0.06% : butternut squash
+ 0.05% : chambered nautilus
+ 0.05% : acorn squash
+ 0.04% : dough
+ 0.04% : fig
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q021.jpg
+94.38% : head cabbage
+ 0.13% : acorn squash
+ 0.13% : cauliflower
+ 0.11% : dough
+ 0.11% : spaghetti squash
+ 0.11% : butternut squash
+ 0.09% : chambered nautilus
+ 0.08% : lemon
+ 0.05% : grocery store
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q022.jpg
+89.33% : head cabbage
+ 0.33% : lemon
+ 0.27% : spaghetti squash
+ 0.21% : butternut squash
+ 0.21% : acorn squash
+ 0.17% : cauliflower
+ 0.17% : dough
+ 0.11% : chambered nautilus
+ 0.10% : grocery store
+ 0.08% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q023.jpg
+94.37% : head cabbage
+ 0.14% : lemon
+ 0.12% : cauliflower
+ 0.12% : butternut squash
+ 0.11% : acorn squash
+ 0.11% : spaghetti squash
+ 0.10% : dough
+ 0.08% : chambered nautilus
+ 0.05% : grocery store
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q024.jpg
+92.87% : head cabbage
+ 0.27% : spaghetti squash
+ 0.20% : lemon
+ 0.17% : acorn squash
+ 0.17% : butternut squash
+ 0.15% : dough
+ 0.13% : cauliflower
+ 0.12% : chambered nautilus
+ 0.08% : grocery store
+ 0.07% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q025.jpg
+92.00% : head cabbage
+ 0.33% : lemon
+ 0.17% : cauliflower
+ 0.15% : butternut squash
+ 0.14% : acorn squash
+ 0.14% : spaghetti squash
+ 0.13% : dough
+ 0.07% : chambered nautilus
+ 0.07% : grocery store
+ 0.07% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q026.jpg
+94.36% : head cabbage
+ 0.17% : lemon
+ 0.15% : cauliflower
+ 0.14% : acorn squash
+ 0.13% : butternut squash
+ 0.10% : dough
+ 0.10% : spaghetti squash
+ 0.05% : chambered nautilus
+ 0.05% : fig
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q027.jpg
+94.76% : head cabbage
+ 0.16% : spaghetti squash
+ 0.15% : lemon
+ 0.15% : acorn squash
+ 0.13% : butternut squash
+ 0.11% : cauliflower
+ 0.11% : dough
+ 0.09% : chambered nautilus
+ 0.06% : custard apple
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q028.jpg
+93.99% : head cabbage
+ 0.14% : cauliflower
+ 0.13% : lemon
+ 0.11% : acorn squash
+ 0.11% : butternut squash
+ 0.10% : spaghetti squash
+ 0.08% : dough
+ 0.06% : chambered nautilus
+ 0.05% : custard apple
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q029.jpg
+95.09% : head cabbage
+ 0.12% : cauliflower
+ 0.11% : acorn squash
+ 0.10% : lemon
+ 0.09% : butternut squash
+ 0.07% : spaghetti squash
+ 0.06% : chambered nautilus
+ 0.06% : dough
+ 0.05% : grocery store
+ 0.04% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q030.jpg
+93.02% : head cabbage
+ 0.21% : lemon
+ 0.15% : cauliflower
+ 0.13% : butternut squash
+ 0.13% : acorn squash
+ 0.11% : dough
+ 0.11% : spaghetti squash
+ 0.07% : chambered nautilus
+ 0.07% : velvet
+ 0.05% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q031.jpg
+90.03% : head cabbage
+ 0.30% : lemon
+ 0.25% : acorn squash
+ 0.22% : butternut squash
+ 0.22% : spaghetti squash
+ 0.18% : cauliflower
+ 0.15% : dough
+ 0.12% : chambered nautilus
+ 0.10% : grocery store
+ 0.08% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q032.jpg
+90.82% : head cabbage
+ 0.21% : lemon
+ 0.18% : cauliflower
+ 0.17% : acorn squash
+ 0.16% : butternut squash
+ 0.16% : dough
+ 0.14% : spaghetti squash
+ 0.10% : chambered nautilus
+ 0.07% : grocery store
+ 0.07% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q033.jpg
+93.75% : head cabbage
+ 0.20% : spaghetti squash
+ 0.19% : acorn squash
+ 0.15% : butternut squash
+ 0.14% : lemon
+ 0.12% : dough
+ 0.12% : cauliflower
+ 0.11% : chambered nautilus
+ 0.08% : grocery store
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q034.jpg
+93.85% : head cabbage
+ 0.19% : lemon
+ 0.17% : spaghetti squash
+ 0.16% : acorn squash
+ 0.15% : butternut squash
+ 0.14% : dough
+ 0.13% : cauliflower
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q035.jpg
+92.91% : head cabbage
+ 0.22% : lemon
+ 0.21% : dough
+ 0.19% : spaghetti squash
+ 0.16% : butternut squash
+ 0.14% : acorn squash
+ 0.13% : cauliflower
+ 0.13% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q036.jpg
+93.76% : head cabbage
+ 0.16% : lemon
+ 0.15% : spaghetti squash
+ 0.15% : butternut squash
+ 0.15% : dough
+ 0.14% : acorn squash
+ 0.12% : cauliflower
+ 0.09% : chambered nautilus
+ 0.06% : grocery store
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q037.jpg
+94.13% : head cabbage
+ 0.14% : spaghetti squash
+ 0.14% : dough
+ 0.14% : lemon
+ 0.13% : butternut squash
+ 0.13% : acorn squash
+ 0.11% : cauliflower
+ 0.09% : chambered nautilus
+ 0.06% : grocery store
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q038.jpg
+93.12% : head cabbage
+ 0.20% : lemon
+ 0.17% : dough
+ 0.16% : spaghetti squash
+ 0.15% : acorn squash
+ 0.14% : butternut squash
+ 0.14% : cauliflower
+ 0.10% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q039.jpg
+92.43% : head cabbage
+ 0.19% : dough
+ 0.17% : acorn squash
+ 0.15% : cauliflower
+ 0.14% : lemon
+ 0.14% : butternut squash
+ 0.14% : spaghetti squash
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.06% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q040.jpg
+93.44% : head cabbage
+ 0.17% : dough
+ 0.17% : acorn squash
+ 0.14% : cauliflower
+ 0.14% : lemon
+ 0.14% : butternut squash
+ 0.12% : spaghetti squash
+ 0.06% : chambered nautilus
+ 0.05% : velvet
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q041.jpg
+94.92% : head cabbage
+ 0.12% : dough
+ 0.11% : lemon
+ 0.11% : acorn squash
+ 0.10% : butternut squash
+ 0.10% : cauliflower
+ 0.10% : spaghetti squash
+ 0.07% : chambered nautilus
+ 0.04% : grocery store
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q042.jpg
+95.39% : head cabbage
+ 0.10% : acorn squash
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.10% : lemon
+ 0.09% : butternut squash
+ 0.09% : cauliflower
+ 0.07% : chambered nautilus
+ 0.04% : grocery store
+ 0.04% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q043.jpg
+95.30% : head cabbage
+ 0.10% : dough
+ 0.10% : lemon
+ 0.10% : spaghetti squash
+ 0.10% : acorn squash
+ 0.10% : butternut squash
+ 0.09% : cauliflower
+ 0.07% : chambered nautilus
+ 0.04% : grocery store
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q044.jpg
+93.07% : head cabbage
+ 0.24% : lemon
+ 0.21% : butternut squash
+ 0.18% : spaghetti squash
+ 0.18% : dough
+ 0.17% : acorn squash
+ 0.13% : cauliflower
+ 0.11% : chambered nautilus
+ 0.07% : grocery store
+ 0.06% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q045.jpg
+93.34% : head cabbage
+ 0.21% : lemon
+ 0.20% : butternut squash
+ 0.18% : spaghetti squash
+ 0.17% : acorn squash
+ 0.17% : dough
+ 0.12% : cauliflower
+ 0.11% : chambered nautilus
+ 0.07% : grocery store
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q046.jpg
+92.96% : head cabbage
+ 0.16% : dough
+ 0.15% : cauliflower
+ 0.15% : lemon
+ 0.13% : butternut squash
+ 0.13% : spaghetti squash
+ 0.11% : acorn squash
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q047.jpg
+92.92% : head cabbage
+ 0.15% : dough
+ 0.15% : cauliflower
+ 0.15% : lemon
+ 0.13% : butternut squash
+ 0.13% : spaghetti squash
+ 0.11% : acorn squash
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q048.jpg
+92.59% : head cabbage
+ 0.20% : lemon
+ 0.19% : dough
+ 0.16% : butternut squash
+ 0.15% : spaghetti squash
+ 0.15% : cauliflower
+ 0.14% : acorn squash
+ 0.09% : chambered nautilus
+ 0.07% : grocery store
+ 0.05% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q049.jpg
+92.31% : head cabbage
+ 0.16% : butternut squash
+ 0.16% : cauliflower
+ 0.15% : dough
+ 0.14% : acorn squash
+ 0.13% : lemon
+ 0.13% : spaghetti squash
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q050.jpg
+92.36% : head cabbage
+ 0.16% : butternut squash
+ 0.16% : cauliflower
+ 0.15% : dough
+ 0.14% : acorn squash
+ 0.13% : lemon
+ 0.12% : spaghetti squash
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q051.jpg
+92.34% : head cabbage
+ 0.16% : butternut squash
+ 0.16% : cauliflower
+ 0.15% : dough
+ 0.14% : acorn squash
+ 0.13% : lemon
+ 0.12% : spaghetti squash
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : valley
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q052.jpg
+93.37% : head cabbage
+ 0.16% : dough
+ 0.14% : cauliflower
+ 0.14% : butternut squash
+ 0.13% : lemon
+ 0.13% : spaghetti squash
+ 0.11% : acorn squash
+ 0.09% : chambered nautilus
+ 0.05% : velvet
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q053.jpg
+94.05% : head cabbage
+ 0.14% : dough
+ 0.13% : butternut squash
+ 0.13% : cauliflower
+ 0.13% : spaghetti squash
+ 0.12% : acorn squash
+ 0.10% : lemon
+ 0.08% : chambered nautilus
+ 0.05% : custard apple
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q054.jpg
+94.15% : head cabbage
+ 0.14% : dough
+ 0.13% : butternut squash
+ 0.13% : spaghetti squash
+ 0.13% : cauliflower
+ 0.12% : acorn squash
+ 0.10% : lemon
+ 0.08% : chambered nautilus
+ 0.05% : custard apple
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q055.jpg
+94.28% : head cabbage
+ 0.16% : acorn squash
+ 0.15% : butternut squash
+ 0.14% : spaghetti squash
+ 0.14% : dough
+ 0.12% : cauliflower
+ 0.12% : lemon
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q056.jpg
+94.40% : head cabbage
+ 0.16% : acorn squash
+ 0.15% : butternut squash
+ 0.14% : spaghetti squash
+ 0.13% : dough
+ 0.12% : cauliflower
+ 0.12% : lemon
+ 0.08% : chambered nautilus
+ 0.05% : custard apple
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q057.jpg
+94.21% : head cabbage
+ 0.15% : acorn squash
+ 0.14% : butternut squash
+ 0.13% : cauliflower
+ 0.13% : spaghetti squash
+ 0.12% : lemon
+ 0.10% : dough
+ 0.08% : chambered nautilus
+ 0.05% : grocery store
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q058.jpg
+93.54% : head cabbage
+ 0.14% : cauliflower
+ 0.14% : spaghetti squash
+ 0.13% : acorn squash
+ 0.12% : butternut squash
+ 0.11% : lemon
+ 0.09% : dough
+ 0.08% : chambered nautilus
+ 0.05% : velvet
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q059.jpg
+93.07% : head cabbage
+ 0.16% : cauliflower
+ 0.14% : spaghetti squash
+ 0.13% : butternut squash
+ 0.13% : acorn squash
+ 0.11% : lemon
+ 0.10% : dough
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q060.jpg
+92.83% : head cabbage
+ 0.16% : cauliflower
+ 0.14% : spaghetti squash
+ 0.14% : acorn squash
+ 0.13% : butternut squash
+ 0.11% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q061.jpg
+93.92% : head cabbage
+ 0.14% : cauliflower
+ 0.13% : acorn squash
+ 0.13% : spaghetti squash
+ 0.12% : butternut squash
+ 0.11% : lemon
+ 0.09% : dough
+ 0.08% : chambered nautilus
+ 0.05% : velvet
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q062.jpg
+93.91% : head cabbage
+ 0.14% : cauliflower
+ 0.13% : acorn squash
+ 0.12% : spaghetti squash
+ 0.12% : butternut squash
+ 0.11% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.04% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q063.jpg
+93.78% : head cabbage
+ 0.15% : cauliflower
+ 0.12% : acorn squash
+ 0.12% : spaghetti squash
+ 0.11% : butternut squash
+ 0.10% : dough
+ 0.10% : lemon
+ 0.07% : chambered nautilus
+ 0.06% : velvet
+ 0.04% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q064.jpg
+93.03% : head cabbage
+ 0.16% : cauliflower
+ 0.13% : acorn squash
+ 0.13% : spaghetti squash
+ 0.13% : dough
+ 0.12% : butternut squash
+ 0.11% : lemon
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q065.jpg
+92.43% : head cabbage
+ 0.17% : cauliflower
+ 0.14% : dough
+ 0.14% : lemon
+ 0.14% : acorn squash
+ 0.13% : butternut squash
+ 0.13% : spaghetti squash
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q066.jpg
+92.20% : head cabbage
+ 0.18% : cauliflower
+ 0.15% : acorn squash
+ 0.14% : butternut squash
+ 0.14% : lemon
+ 0.13% : dough
+ 0.13% : spaghetti squash
+ 0.09% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q067.jpg
+91.32% : head cabbage
+ 0.19% : cauliflower
+ 0.18% : butternut squash
+ 0.18% : dough
+ 0.17% : lemon
+ 0.17% : acorn squash
+ 0.14% : spaghetti squash
+ 0.11% : chambered nautilus
+ 0.08% : velvet
+ 0.07% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q068.jpg
+91.84% : head cabbage
+ 0.17% : dough
+ 0.17% : cauliflower
+ 0.16% : butternut squash
+ 0.15% : lemon
+ 0.14% : acorn squash
+ 0.14% : spaghetti squash
+ 0.12% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q069.jpg
+91.77% : head cabbage
+ 0.17% : dough
+ 0.17% : butternut squash
+ 0.16% : cauliflower
+ 0.15% : lemon
+ 0.15% : acorn squash
+ 0.15% : spaghetti squash
+ 0.12% : chambered nautilus
+ 0.07% : velvet
+ 0.07% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q070.jpg
+92.07% : head cabbage
+ 0.16% : cauliflower
+ 0.15% : lemon
+ 0.15% : butternut squash
+ 0.15% : spaghetti squash
+ 0.14% : dough
+ 0.14% : acorn squash
+ 0.10% : chambered nautilus
+ 0.06% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q071.jpg
+92.53% : head cabbage
+ 0.16% : lemon
+ 0.16% : cauliflower
+ 0.14% : butternut squash
+ 0.14% : spaghetti squash
+ 0.13% : acorn squash
+ 0.12% : dough
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.06% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q072.jpg
+93.15% : head cabbage
+ 0.15% : lemon
+ 0.15% : cauliflower
+ 0.13% : butternut squash
+ 0.13% : spaghetti squash
+ 0.12% : acorn squash
+ 0.11% : dough
+ 0.07% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q073.jpg
+94.64% : head cabbage
+ 0.12% : cauliflower
+ 0.12% : lemon
+ 0.11% : spaghetti squash
+ 0.10% : acorn squash
+ 0.10% : butternut squash
+ 0.09% : dough
+ 0.07% : chambered nautilus
+ 0.05% : grocery store
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q074.jpg
+94.35% : head cabbage
+ 0.14% : lemon
+ 0.12% : spaghetti squash
+ 0.12% : cauliflower
+ 0.11% : acorn squash
+ 0.11% : butternut squash
+ 0.10% : dough
+ 0.07% : chambered nautilus
+ 0.05% : grocery store
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q075.jpg
+94.30% : head cabbage
+ 0.14% : lemon
+ 0.12% : cauliflower
+ 0.12% : spaghetti squash
+ 0.11% : acorn squash
+ 0.11% : butternut squash
+ 0.10% : dough
+ 0.08% : chambered nautilus
+ 0.05% : grocery store
+ 0.04% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q076.jpg
+93.09% : head cabbage
+ 0.15% : lemon
+ 0.13% : cauliflower
+ 0.13% : spaghetti squash
+ 0.12% : acorn squash
+ 0.12% : butternut squash
+ 0.10% : dough
+ 0.09% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q077.jpg
+91.96% : head cabbage
+ 0.17% : spaghetti squash
+ 0.15% : acorn squash
+ 0.15% : cauliflower
+ 0.15% : butternut squash
+ 0.14% : lemon
+ 0.13% : dough
+ 0.09% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q078.jpg
+92.02% : head cabbage
+ 0.17% : spaghetti squash
+ 0.15% : lemon
+ 0.15% : acorn squash
+ 0.15% : cauliflower
+ 0.14% : butternut squash
+ 0.14% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q079.jpg
+91.13% : head cabbage
+ 0.18% : spaghetti squash
+ 0.18% : lemon
+ 0.18% : acorn squash
+ 0.16% : cauliflower
+ 0.16% : butternut squash
+ 0.16% : dough
+ 0.09% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q080.jpg
+92.45% : head cabbage
+ 0.16% : lemon
+ 0.16% : acorn squash
+ 0.16% : spaghetti squash
+ 0.15% : cauliflower
+ 0.14% : dough
+ 0.13% : butternut squash
+ 0.07% : chambered nautilus
+ 0.06% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q081.jpg
+92.03% : head cabbage
+ 0.18% : acorn squash
+ 0.16% : spaghetti squash
+ 0.16% : lemon
+ 0.16% : cauliflower
+ 0.15% : butternut squash
+ 0.13% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q082.jpg
+92.27% : head cabbage
+ 0.17% : cauliflower
+ 0.16% : spaghetti squash
+ 0.16% : acorn squash
+ 0.15% : lemon
+ 0.15% : butternut squash
+ 0.13% : dough
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q083.jpg
+93.07% : head cabbage
+ 0.16% : cauliflower
+ 0.14% : acorn squash
+ 0.13% : butternut squash
+ 0.13% : spaghetti squash
+ 0.12% : lemon
+ 0.10% : dough
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q084.jpg
+93.53% : head cabbage
+ 0.15% : cauliflower
+ 0.12% : acorn squash
+ 0.12% : spaghetti squash
+ 0.12% : butternut squash
+ 0.11% : lemon
+ 0.10% : dough
+ 0.06% : chambered nautilus
+ 0.05% : velvet
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q085.jpg
+93.32% : head cabbage
+ 0.15% : cauliflower
+ 0.12% : spaghetti squash
+ 0.12% : acorn squash
+ 0.12% : butternut squash
+ 0.11% : lemon
+ 0.11% : dough
+ 0.07% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q086.jpg
+92.27% : head cabbage
+ 0.17% : cauliflower
+ 0.16% : acorn squash
+ 0.15% : spaghetti squash
+ 0.15% : butternut squash
+ 0.14% : lemon
+ 0.14% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q087.jpg
+92.08% : head cabbage
+ 0.20% : acorn squash
+ 0.18% : spaghetti squash
+ 0.18% : lemon
+ 0.17% : butternut squash
+ 0.16% : cauliflower
+ 0.15% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.07% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q088.jpg
+92.33% : head cabbage
+ 0.20% : acorn squash
+ 0.18% : spaghetti squash
+ 0.16% : lemon
+ 0.16% : butternut squash
+ 0.15% : cauliflower
+ 0.13% : dough
+ 0.08% : chambered nautilus
+ 0.06% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q089.jpg
+92.83% : head cabbage
+ 0.17% : acorn squash
+ 0.16% : spaghetti squash
+ 0.15% : cauliflower
+ 0.15% : lemon
+ 0.15% : butternut squash
+ 0.12% : dough
+ 0.07% : chambered nautilus
+ 0.06% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q090.jpg
+93.18% : head cabbage
+ 0.15% : cauliflower
+ 0.14% : acorn squash
+ 0.14% : spaghetti squash
+ 0.12% : lemon
+ 0.12% : butternut squash
+ 0.11% : dough
+ 0.07% : chambered nautilus
+ 0.06% : grocery store
+ 0.06% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q091.jpg
+93.26% : head cabbage
+ 0.16% : acorn squash
+ 0.15% : spaghetti squash
+ 0.14% : cauliflower
+ 0.13% : butternut squash
+ 0.12% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.06% : grocery store
+ 0.05% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q092.jpg
+93.79% : head cabbage
+ 0.16% : cauliflower
+ 0.11% : spaghetti squash
+ 0.11% : acorn squash
+ 0.11% : butternut squash
+ 0.10% : lemon
+ 0.09% : dough
+ 0.07% : chambered nautilus
+ 0.06% : velvet
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q093.jpg
+92.60% : head cabbage
+ 0.16% : cauliflower
+ 0.13% : spaghetti squash
+ 0.13% : butternut squash
+ 0.12% : acorn squash
+ 0.09% : lemon
+ 0.08% : dough
+ 0.07% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q094.jpg
+92.44% : head cabbage
+ 0.16% : cauliflower
+ 0.14% : acorn squash
+ 0.14% : butternut squash
+ 0.13% : spaghetti squash
+ 0.11% : lemon
+ 0.09% : dough
+ 0.07% : velvet
+ 0.07% : chambered nautilus
+ 0.05% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q095.jpg
+91.76% : head cabbage
+ 0.17% : cauliflower
+ 0.17% : acorn squash
+ 0.16% : butternut squash
+ 0.15% : spaghetti squash
+ 0.13% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.08% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q096.jpg
+92.20% : head cabbage
+ 0.16% : cauliflower
+ 0.15% : spaghetti squash
+ 0.15% : acorn squash
+ 0.13% : butternut squash
+ 0.13% : lemon
+ 0.12% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q097.jpg
+91.94% : head cabbage
+ 0.17% : acorn squash
+ 0.17% : spaghetti squash
+ 0.17% : cauliflower
+ 0.14% : butternut squash
+ 0.13% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q098.jpg
+92.19% : head cabbage
+ 0.16% : spaghetti squash
+ 0.16% : cauliflower
+ 0.16% : acorn squash
+ 0.15% : butternut squash
+ 0.13% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q099.jpg
+91.85% : head cabbage
+ 0.17% : cauliflower
+ 0.17% : spaghetti squash
+ 0.15% : acorn squash
+ 0.15% : butternut squash
+ 0.15% : lemon
+ 0.12% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage24Q100.jpg
+92.34% : head cabbage
+ 0.17% : spaghetti squash
+ 0.17% : cauliflower
+ 0.16% : acorn squash
+ 0.14% : butternut squash
+ 0.13% : lemon
+ 0.11% : dough
+ 0.08% : chambered nautilus
+ 0.07% : velvet
+ 0.06% : grocery store

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q001.jpg
+31.94% : orange
+19.46% : packet
+ 5.78% : spaghetti squash
+ 3.01% : confectionery
+ 2.73% : acorn squash
+ 1.80% : butternut squash
+ 1.64% : lemon
+ 1.30% : stinkhorn
+ 1.25% : hamper
+ 1.03% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q002.jpg
+32.01% : orange
+19.19% : packet
+ 5.90% : spaghetti squash
+ 3.04% : confectionery
+ 2.82% : acorn squash
+ 1.80% : butternut squash
+ 1.62% : lemon
+ 1.34% : stinkhorn
+ 1.24% : hamper
+ 1.03% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q003.jpg
+25.60% : orange
+21.23% : packet
+ 8.41% : spaghetti squash
+ 3.45% : acorn squash
+ 2.65% : confectionery
+ 2.14% : butternut squash
+ 1.79% : lemon
+ 1.20% : stinkhorn
+ 1.10% : bell pepper
+ 0.86% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q004.jpg
+22.92% : packet
+21.72% : spaghetti squash
+10.50% : orange
+ 3.83% : confectionery
+ 3.32% : lemon
+ 2.65% : acorn squash
+ 1.82% : butternut squash
+ 1.18% : hamper
+ 0.89% : envelope
+ 0.78% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q005.jpg
+36.24% : orange
+22.83% : packet
+ 5.47% : spaghetti squash
+ 2.32% : confectionery
+ 2.27% : lemon
+ 1.85% : acorn squash
+ 1.56% : hamper
+ 1.51% : butternut squash
+ 1.46% : bell pepper
+ 0.45% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q006.jpg
+36.06% : packet
+25.24% : orange
+ 8.69% : spaghetti squash
+ 3.61% : confectionery
+ 3.36% : lemon
+ 2.14% : hamper
+ 1.12% : butternut squash
+ 0.83% : Granny Smith
+ 0.52% : safety pin
+ 0.44% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q007.jpg
+48.81% : orange
+13.52% : spaghetti squash
+ 5.42% : packet
+ 3.40% : acorn squash
+ 2.35% : lemon
+ 2.22% : butternut squash
+ 1.85% : bell pepper
+ 0.96% : confectionery
+ 0.93% : hamper
+ 0.48% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q008.jpg
+26.95% : orange
+19.60% : spaghetti squash
+10.21% : packet
+ 5.19% : acorn squash
+ 3.26% : bell pepper
+ 3.10% : butternut squash
+ 2.41% : confectionery
+ 2.27% : lemon
+ 1.17% : grocery store
+ 0.89% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q009.jpg
+27.73% : spaghetti squash
+24.76% : orange
+ 7.02% : bell pepper
+ 6.33% : packet
+ 3.62% : acorn squash
+ 3.40% : butternut squash
+ 2.48% : lemon
+ 1.03% : confectionery
+ 0.74% : hamper
+ 0.58% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q010.jpg
+46.08% : spaghetti squash
+12.42% : acorn squash
+10.08% : bell pepper
+ 9.05% : orange
+ 7.30% : butternut squash
+ 1.12% : packet
+ 1.10% : lemon
+ 0.30% : confectionery
+ 0.19% : grocery store
+ 0.19% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q011.jpg
+35.29% : spaghetti squash
+11.22% : acorn squash
+10.26% : butternut squash
+ 8.57% : bell pepper
+ 5.64% : packet
+ 3.83% : orange
+ 1.08% : lemon
+ 0.46% : pick
+ 0.44% : menu
+ 0.43% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q012.jpg
+35.32% : spaghetti squash
+27.22% : acorn squash
+12.42% : butternut squash
+ 6.12% : bell pepper
+ 3.22% : orange
+ 1.80% : packet
+ 0.55% : lemon
+ 0.28% : grocery store
+ 0.24% : hamper
+ 0.23% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q013.jpg
+23.74% : bell pepper
+19.23% : spaghetti squash
+15.25% : butternut squash
+10.10% : acorn squash
+ 8.32% : orange
+ 3.11% : packet
+ 0.90% : lemon
+ 0.45% : strawberry
+ 0.45% : menu
+ 0.40% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q014.jpg
+37.45% : spaghetti squash
+25.26% : acorn squash
+14.78% : butternut squash
+ 7.54% : bell pepper
+ 1.38% : orange
+ 1.27% : packet
+ 0.26% : lemon
+ 0.25% : menu
+ 0.24% : grocery store
+ 0.24% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q015.jpg
+29.08% : acorn squash
+18.58% : butternut squash
+17.87% : spaghetti squash
+12.49% : bell pepper
+ 3.42% : orange
+ 1.38% : packet
+ 0.49% : lemon
+ 0.36% : menu
+ 0.34% : grocery store
+ 0.27% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q016.jpg
+31.91% : spaghetti squash
+28.00% : acorn squash
+13.56% : butternut squash
+12.17% : bell pepper
+ 1.24% : orange
+ 1.07% : packet
+ 0.32% : lemon
+ 0.27% : grocery store
+ 0.24% : menu
+ 0.18% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q017.jpg
+25.08% : bell pepper
+19.73% : acorn squash
+18.73% : spaghetti squash
+14.13% : butternut squash
+ 3.99% : orange
+ 1.51% : packet
+ 0.63% : lemon
+ 0.41% : grocery store
+ 0.38% : menu
+ 0.31% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q018.jpg
+22.64% : bell pepper
+20.28% : spaghetti squash
+14.56% : acorn squash
+13.87% : butternut squash
+ 4.72% : orange
+ 3.03% : packet
+ 1.09% : lemon
+ 0.78% : grocery store
+ 0.51% : menu
+ 0.38% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q019.jpg
+23.63% : spaghetti squash
+21.20% : bell pepper
+16.47% : acorn squash
+10.66% : butternut squash
+ 3.47% : packet
+ 3.04% : orange
+ 0.91% : lemon
+ 0.66% : menu
+ 0.62% : grocery store
+ 0.40% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q020.jpg
+22.93% : spaghetti squash
+19.20% : bell pepper
+18.77% : acorn squash
+13.89% : butternut squash
+ 3.35% : packet
+ 3.08% : orange
+ 0.81% : lemon
+ 0.70% : grocery store
+ 0.44% : menu
+ 0.34% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q021.jpg
+30.91% : acorn squash
+22.31% : spaghetti squash
+18.57% : bell pepper
+11.24% : butternut squash
+ 1.72% : packet
+ 1.45% : orange
+ 0.47% : lemon
+ 0.39% : grocery store
+ 0.30% : menu
+ 0.25% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q022.jpg
+27.91% : acorn squash
+18.75% : spaghetti squash
+17.54% : butternut squash
+14.14% : bell pepper
+ 2.65% : packet
+ 2.34% : orange
+ 0.53% : grocery store
+ 0.52% : menu
+ 0.47% : lemon
+ 0.33% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q023.jpg
+28.57% : acorn squash
+18.87% : spaghetti squash
+16.65% : bell pepper
+13.59% : butternut squash
+ 2.94% : packet
+ 2.17% : orange
+ 0.77% : grocery store
+ 0.55% : lemon
+ 0.41% : menu
+ 0.36% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q024.jpg
+22.30% : bell pepper
+21.54% : spaghetti squash
+17.89% : acorn squash
+ 9.39% : butternut squash
+ 4.17% : orange
+ 2.68% : packet
+ 0.84% : lemon
+ 0.66% : grocery store
+ 0.47% : menu
+ 0.47% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q025.jpg
+22.29% : spaghetti squash
+21.74% : acorn squash
+18.50% : bell pepper
+11.76% : butternut squash
+ 3.17% : orange
+ 2.44% : packet
+ 0.81% : lemon
+ 0.64% : grocery store
+ 0.51% : menu
+ 0.41% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q026.jpg
+28.48% : bell pepper
+15.92% : acorn squash
+14.24% : spaghetti squash
+ 7.64% : butternut squash
+ 3.66% : orange
+ 3.36% : packet
+ 1.09% : grocery store
+ 0.81% : lemon
+ 0.63% : vending machine
+ 0.59% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q027.jpg
+25.75% : acorn squash
+22.95% : spaghetti squash
+18.64% : bell pepper
+ 8.21% : butternut squash
+ 3.13% : orange
+ 2.07% : packet
+ 0.84% : lemon
+ 0.55% : grocery store
+ 0.35% : menu
+ 0.35% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q028.jpg
+24.36% : spaghetti squash
+22.00% : bell pepper
+14.88% : acorn squash
+11.96% : butternut squash
+ 3.44% : orange
+ 2.40% : packet
+ 0.79% : lemon
+ 0.59% : grocery store
+ 0.43% : menu
+ 0.40% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q029.jpg
+23.39% : spaghetti squash
+22.63% : bell pepper
+15.71% : acorn squash
+ 9.35% : butternut squash
+ 3.92% : orange
+ 2.35% : packet
+ 0.90% : lemon
+ 0.67% : grocery store
+ 0.50% : menu
+ 0.40% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q030.jpg
+26.56% : spaghetti squash
+18.56% : bell pepper
+16.98% : acorn squash
+ 9.28% : butternut squash
+ 3.38% : orange
+ 2.85% : packet
+ 0.83% : lemon
+ 0.69% : grocery store
+ 0.49% : menu
+ 0.43% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q031.jpg
+28.30% : bell pepper
+22.42% : spaghetti squash
+16.56% : acorn squash
+ 7.97% : butternut squash
+ 2.63% : orange
+ 2.27% : packet
+ 0.69% : lemon
+ 0.57% : grocery store
+ 0.37% : confectionery
+ 0.36% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q032.jpg
+31.74% : bell pepper
+20.54% : spaghetti squash
+12.11% : acorn squash
+ 7.07% : butternut squash
+ 3.38% : orange
+ 2.60% : packet
+ 0.88% : lemon
+ 0.57% : grocery store
+ 0.44% : strawberry
+ 0.40% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q033.jpg
+25.44% : bell pepper
+19.16% : spaghetti squash
+13.38% : acorn squash
+ 9.64% : butternut squash
+ 3.22% : packet
+ 3.22% : orange
+ 0.83% : lemon
+ 0.63% : grocery store
+ 0.53% : menu
+ 0.48% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q034.jpg
+23.53% : bell pepper
+22.45% : spaghetti squash
+15.34% : acorn squash
+11.94% : butternut squash
+ 2.52% : packet
+ 2.27% : orange
+ 0.67% : lemon
+ 0.52% : grocery store
+ 0.44% : menu
+ 0.41% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q035.jpg
+27.20% : bell pepper
+22.70% : spaghetti squash
+ 9.51% : butternut squash
+ 8.83% : acorn squash
+ 3.48% : packet
+ 2.88% : orange
+ 0.75% : lemon
+ 0.62% : menu
+ 0.60% : grocery store
+ 0.47% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q036.jpg
+25.47% : bell pepper
+25.40% : spaghetti squash
+12.89% : acorn squash
+ 8.01% : butternut squash
+ 3.41% : packet
+ 3.20% : orange
+ 0.97% : lemon
+ 0.57% : grocery store
+ 0.50% : menu
+ 0.46% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q037.jpg
+25.30% : spaghetti squash
+25.07% : bell pepper
+14.53% : acorn squash
+ 8.23% : butternut squash
+ 3.24% : orange
+ 2.97% : packet
+ 0.90% : lemon
+ 0.52% : grocery store
+ 0.47% : menu
+ 0.45% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q038.jpg
+25.16% : bell pepper
+21.70% : spaghetti squash
+17.90% : acorn squash
+11.01% : butternut squash
+ 2.23% : packet
+ 2.17% : orange
+ 0.50% : grocery store
+ 0.50% : menu
+ 0.47% : lemon
+ 0.33% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q039.jpg
+22.78% : spaghetti squash
+20.71% : bell pepper
+17.49% : acorn squash
+10.36% : butternut squash
+ 2.97% : packet
+ 2.60% : orange
+ 0.66% : menu
+ 0.62% : lemon
+ 0.55% : grocery store
+ 0.42% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q040.jpg
+21.02% : spaghetti squash
+19.50% : bell pepper
+16.76% : acorn squash
+10.22% : butternut squash
+ 3.72% : packet
+ 2.92% : orange
+ 0.73% : menu
+ 0.70% : lemon
+ 0.61% : grocery store
+ 0.47% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q041.jpg
+20.52% : bell pepper
+19.93% : spaghetti squash
+18.48% : acorn squash
+ 8.51% : butternut squash
+ 3.35% : orange
+ 2.87% : packet
+ 0.74% : lemon
+ 0.59% : menu
+ 0.56% : grocery store
+ 0.46% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q042.jpg
+22.04% : spaghetti squash
+21.32% : acorn squash
+21.14% : bell pepper
+ 9.14% : butternut squash
+ 2.47% : orange
+ 2.22% : packet
+ 0.57% : lemon
+ 0.52% : grocery store
+ 0.45% : menu
+ 0.39% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q043.jpg
+23.55% : spaghetti squash
+22.15% : acorn squash
+21.15% : bell pepper
+ 9.43% : butternut squash
+ 1.99% : orange
+ 1.94% : packet
+ 0.51% : lemon
+ 0.48% : grocery store
+ 0.43% : menu
+ 0.35% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q044.jpg
+24.24% : bell pepper
+21.18% : spaghetti squash
+17.49% : acorn squash
+ 8.86% : butternut squash
+ 2.58% : packet
+ 2.14% : orange
+ 0.71% : lemon
+ 0.61% : grocery store
+ 0.49% : Crock Pot
+ 0.45% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q045.jpg
+23.68% : spaghetti squash
+20.72% : bell pepper
+18.03% : acorn squash
+ 9.57% : butternut squash
+ 2.67% : packet
+ 2.02% : orange
+ 0.71% : lemon
+ 0.59% : grocery store
+ 0.46% : menu
+ 0.46% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q046.jpg
+25.56% : bell pepper
+20.20% : spaghetti squash
+11.76% : acorn squash
+ 9.52% : butternut squash
+ 3.67% : packet
+ 2.52% : orange
+ 0.82% : grocery store
+ 0.70% : lemon
+ 0.67% : menu
+ 0.52% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q047.jpg
+26.09% : bell pepper
+19.84% : spaghetti squash
+12.27% : acorn squash
+ 9.86% : butternut squash
+ 3.56% : packet
+ 2.26% : orange
+ 0.78% : grocery store
+ 0.68% : menu
+ 0.63% : lemon
+ 0.51% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q048.jpg
+32.84% : bell pepper
+16.15% : spaghetti squash
+ 9.79% : acorn squash
+ 8.36% : butternut squash
+ 3.77% : packet
+ 2.39% : orange
+ 0.81% : grocery store
+ 0.69% : menu
+ 0.66% : lemon
+ 0.57% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q049.jpg
+24.74% : bell pepper
+21.59% : spaghetti squash
+15.03% : acorn squash
+ 9.05% : butternut squash
+ 2.71% : packet
+ 2.30% : orange
+ 0.83% : grocery store
+ 0.78% : lemon
+ 0.60% : vending machine
+ 0.53% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q050.jpg
+24.40% : bell pepper
+21.80% : spaghetti squash
+14.81% : acorn squash
+ 8.92% : butternut squash
+ 2.79% : packet
+ 2.36% : orange
+ 0.85% : grocery store
+ 0.81% : lemon
+ 0.61% : vending machine
+ 0.54% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q051.jpg
+24.30% : bell pepper
+22.05% : spaghetti squash
+15.00% : acorn squash
+ 8.96% : butternut squash
+ 2.71% : packet
+ 2.34% : orange
+ 0.84% : grocery store
+ 0.80% : lemon
+ 0.60% : vending machine
+ 0.53% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q052.jpg
+28.29% : bell pepper
+20.55% : spaghetti squash
+16.94% : acorn squash
+ 8.36% : butternut squash
+ 2.16% : packet
+ 1.75% : orange
+ 0.60% : grocery store
+ 0.50% : menu
+ 0.49% : vending machine
+ 0.48% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q053.jpg
+31.35% : bell pepper
+18.03% : spaghetti squash
+16.06% : acorn squash
+ 8.05% : butternut squash
+ 2.19% : packet
+ 1.84% : orange
+ 0.71% : grocery store
+ 0.54% : menu
+ 0.52% : vending machine
+ 0.50% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q054.jpg
+30.25% : bell pepper
+18.35% : spaghetti squash
+16.98% : acorn squash
+ 8.32% : butternut squash
+ 2.20% : packet
+ 1.77% : orange
+ 0.70% : grocery store
+ 0.53% : menu
+ 0.51% : vending machine
+ 0.50% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q055.jpg
+28.29% : bell pepper
+16.95% : spaghetti squash
+13.35% : acorn squash
+ 9.12% : butternut squash
+ 3.15% : packet
+ 2.44% : orange
+ 0.93% : grocery store
+ 0.70% : lemon
+ 0.63% : vending machine
+ 0.62% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q056.jpg
+28.47% : bell pepper
+17.58% : spaghetti squash
+15.05% : acorn squash
+ 8.67% : butternut squash
+ 3.12% : packet
+ 2.05% : orange
+ 0.88% : grocery store
+ 0.64% : menu
+ 0.61% : lemon
+ 0.57% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q057.jpg
+25.69% : bell pepper
+17.64% : spaghetti squash
+16.86% : acorn squash
+ 9.46% : butternut squash
+ 3.11% : packet
+ 1.87% : orange
+ 0.90% : grocery store
+ 0.65% : menu
+ 0.60% : vending machine
+ 0.56% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q058.jpg
+22.83% : spaghetti squash
+22.18% : bell pepper
+20.56% : acorn squash
+ 7.75% : butternut squash
+ 2.63% : packet
+ 1.32% : orange
+ 0.77% : grocery store
+ 0.61% : menu
+ 0.51% : vending machine
+ 0.46% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q059.jpg
+24.29% : spaghetti squash
+21.06% : bell pepper
+19.85% : acorn squash
+ 7.95% : butternut squash
+ 2.62% : packet
+ 1.31% : orange
+ 0.82% : grocery store
+ 0.59% : menu
+ 0.49% : vending machine
+ 0.47% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q060.jpg
+23.46% : bell pepper
+21.75% : spaghetti squash
+18.53% : acorn squash
+ 7.84% : butternut squash
+ 2.88% : packet
+ 1.50% : orange
+ 0.85% : grocery store
+ 0.66% : menu
+ 0.57% : vending machine
+ 0.48% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q061.jpg
+23.51% : spaghetti squash
+21.57% : bell pepper
+20.11% : acorn squash
+ 7.99% : butternut squash
+ 2.83% : packet
+ 1.45% : orange
+ 0.69% : grocery store
+ 0.62% : menu
+ 0.53% : vending machine
+ 0.45% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q062.jpg
+24.61% : bell pepper
+21.28% : spaghetti squash
+15.97% : acorn squash
+ 7.47% : butternut squash
+ 3.36% : packet
+ 1.63% : orange
+ 0.80% : grocery store
+ 0.75% : menu
+ 0.61% : vending machine
+ 0.49% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q063.jpg
+27.56% : bell pepper
+21.11% : spaghetti squash
+14.36% : acorn squash
+ 6.58% : butternut squash
+ 3.23% : packet
+ 1.72% : orange
+ 0.80% : grocery store
+ 0.73% : menu
+ 0.65% : vending machine
+ 0.52% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q064.jpg
+27.42% : bell pepper
+20.24% : spaghetti squash
+14.01% : acorn squash
+ 7.00% : butternut squash
+ 3.89% : packet
+ 1.80% : orange
+ 0.83% : menu
+ 0.82% : grocery store
+ 0.69% : vending machine
+ 0.54% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q065.jpg
+27.93% : bell pepper
+20.56% : spaghetti squash
+14.82% : acorn squash
+ 7.50% : butternut squash
+ 3.24% : packet
+ 1.72% : orange
+ 0.76% : grocery store
+ 0.72% : menu
+ 0.62% : vending machine
+ 0.50% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q066.jpg
+25.66% : spaghetti squash
+21.45% : bell pepper
+17.12% : acorn squash
+ 7.73% : butternut squash
+ 3.16% : packet
+ 1.52% : orange
+ 0.73% : grocery store
+ 0.70% : menu
+ 0.58% : vending machine
+ 0.50% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q067.jpg
+25.87% : spaghetti squash
+21.43% : bell pepper
+18.80% : acorn squash
+ 8.33% : butternut squash
+ 2.43% : packet
+ 1.51% : orange
+ 0.68% : grocery store
+ 0.55% : menu
+ 0.51% : lemon
+ 0.49% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q068.jpg
+24.00% : bell pepper
+23.47% : spaghetti squash
+17.44% : acorn squash
+ 7.99% : butternut squash
+ 2.56% : packet
+ 1.63% : orange
+ 0.82% : grocery store
+ 0.66% : menu
+ 0.55% : lemon
+ 0.53% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q069.jpg
+24.39% : spaghetti squash
+23.68% : bell pepper
+17.09% : acorn squash
+ 7.47% : butternut squash
+ 2.47% : packet
+ 1.71% : orange
+ 0.74% : grocery store
+ 0.68% : menu
+ 0.56% : lemon
+ 0.56% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q070.jpg
+24.01% : spaghetti squash
+22.73% : bell pepper
+15.25% : acorn squash
+ 7.61% : butternut squash
+ 2.80% : packet
+ 2.10% : orange
+ 0.82% : grocery store
+ 0.70% : lemon
+ 0.65% : menu
+ 0.61% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q071.jpg
+30.32% : spaghetti squash
+17.72% : acorn squash
+16.95% : bell pepper
+ 9.03% : butternut squash
+ 2.03% : packet
+ 1.80% : orange
+ 0.68% : grocery store
+ 0.61% : lemon
+ 0.52% : menu
+ 0.50% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q072.jpg
+29.09% : spaghetti squash
+19.05% : bell pepper
+17.17% : acorn squash
+ 8.56% : butternut squash
+ 2.00% : packet
+ 1.77% : orange
+ 0.71% : grocery store
+ 0.58% : lemon
+ 0.53% : menu
+ 0.49% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q073.jpg
+31.52% : spaghetti squash
+18.82% : bell pepper
+14.95% : acorn squash
+ 9.11% : butternut squash
+ 2.02% : packet
+ 1.77% : orange
+ 0.61% : grocery store
+ 0.54% : lemon
+ 0.51% : menu
+ 0.46% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q074.jpg
+29.57% : spaghetti squash
+20.91% : bell pepper
+15.27% : acorn squash
+ 8.63% : butternut squash
+ 2.17% : packet
+ 1.74% : orange
+ 0.66% : grocery store
+ 0.55% : menu
+ 0.53% : lemon
+ 0.48% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q075.jpg
+28.92% : spaghetti squash
+21.47% : bell pepper
+14.89% : acorn squash
+ 8.41% : butternut squash
+ 2.30% : packet
+ 1.76% : orange
+ 0.68% : grocery store
+ 0.57% : menu
+ 0.54% : lemon
+ 0.50% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q076.jpg
+26.54% : bell pepper
+26.10% : spaghetti squash
+13.27% : acorn squash
+ 7.19% : butternut squash
+ 2.73% : packet
+ 1.85% : orange
+ 0.82% : grocery store
+ 0.60% : menu
+ 0.53% : vending machine
+ 0.53% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q077.jpg
+31.58% : bell pepper
+18.70% : spaghetti squash
+15.00% : acorn squash
+ 8.69% : butternut squash
+ 2.64% : packet
+ 1.92% : orange
+ 0.79% : grocery store
+ 0.61% : menu
+ 0.50% : vending machine
+ 0.49% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q078.jpg
+33.80% : bell pepper
+18.29% : spaghetti squash
+12.80% : acorn squash
+ 7.52% : butternut squash
+ 2.88% : packet
+ 2.21% : orange
+ 0.76% : grocery store
+ 0.59% : menu
+ 0.59% : lemon
+ 0.58% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q079.jpg
+32.26% : bell pepper
+18.80% : spaghetti squash
+13.18% : acorn squash
+ 8.11% : butternut squash
+ 2.92% : packet
+ 2.10% : orange
+ 0.74% : grocery store
+ 0.61% : lemon
+ 0.59% : vending machine
+ 0.57% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q080.jpg
+30.17% : bell pepper
+19.97% : spaghetti squash
+12.81% : acorn squash
+ 7.72% : butternut squash
+ 3.10% : packet
+ 2.50% : orange
+ 0.72% : grocery store
+ 0.69% : lemon
+ 0.63% : menu
+ 0.59% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q081.jpg
+29.86% : bell pepper
+22.68% : spaghetti squash
+14.87% : acorn squash
+ 7.58% : butternut squash
+ 2.50% : packet
+ 1.89% : orange
+ 0.64% : grocery store
+ 0.58% : menu
+ 0.51% : lemon
+ 0.48% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q082.jpg
+27.81% : bell pepper
+23.07% : spaghetti squash
+15.03% : acorn squash
+ 7.58% : butternut squash
+ 3.15% : packet
+ 1.97% : orange
+ 0.73% : grocery store
+ 0.59% : menu
+ 0.54% : lemon
+ 0.51% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q083.jpg
+25.73% : spaghetti squash
+24.55% : bell pepper
+13.18% : acorn squash
+ 7.31% : butternut squash
+ 3.63% : packet
+ 2.18% : orange
+ 0.78% : grocery store
+ 0.62% : vending machine
+ 0.61% : lemon
+ 0.61% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q084.jpg
+23.37% : spaghetti squash
+22.45% : bell pepper
+13.84% : acorn squash
+ 8.28% : butternut squash
+ 3.97% : packet
+ 2.20% : orange
+ 0.73% : grocery store
+ 0.69% : menu
+ 0.64% : vending machine
+ 0.62% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q085.jpg
+25.08% : bell pepper
+22.48% : spaghetti squash
+13.10% : acorn squash
+ 7.67% : butternut squash
+ 4.26% : packet
+ 2.20% : orange
+ 0.75% : grocery store
+ 0.66% : menu
+ 0.65% : vending machine
+ 0.62% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q086.jpg
+23.87% : bell pepper
+23.28% : spaghetti squash
+13.89% : acorn squash
+ 8.35% : butternut squash
+ 3.54% : packet
+ 2.29% : orange
+ 0.74% : grocery store
+ 0.70% : menu
+ 0.64% : lemon
+ 0.61% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q087.jpg
+25.01% : bell pepper
+21.86% : spaghetti squash
+14.94% : acorn squash
+ 8.92% : butternut squash
+ 3.25% : packet
+ 2.09% : orange
+ 0.71% : menu
+ 0.69% : grocery store
+ 0.58% : vending machine
+ 0.55% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q088.jpg
+24.72% : bell pepper
+23.27% : spaghetti squash
+14.60% : acorn squash
+ 8.90% : butternut squash
+ 3.24% : packet
+ 1.99% : orange
+ 0.70% : grocery store
+ 0.69% : menu
+ 0.58% : vending machine
+ 0.53% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q089.jpg
+26.27% : bell pepper
+22.36% : spaghetti squash
+11.86% : acorn squash
+ 8.62% : butternut squash
+ 3.35% : packet
+ 2.29% : orange
+ 0.73% : menu
+ 0.67% : grocery store
+ 0.60% : vending machine
+ 0.59% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q090.jpg
+27.29% : bell pepper
+24.83% : spaghetti squash
+13.49% : acorn squash
+ 7.86% : butternut squash
+ 2.74% : packet
+ 2.03% : orange
+ 0.62% : grocery store
+ 0.62% : menu
+ 0.54% : lemon
+ 0.52% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q091.jpg
+26.37% : spaghetti squash
+25.09% : bell pepper
+11.58% : acorn squash
+ 7.25% : butternut squash
+ 3.34% : packet
+ 2.53% : orange
+ 0.72% : grocery store
+ 0.72% : menu
+ 0.66% : lemon
+ 0.61% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q092.jpg
+29.02% : spaghetti squash
+18.96% : bell pepper
+13.12% : acorn squash
+ 7.14% : butternut squash
+ 3.66% : packet
+ 2.32% : orange
+ 0.89% : grocery store
+ 0.72% : menu
+ 0.71% : vending machine
+ 0.69% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q093.jpg
+26.37% : spaghetti squash
+22.85% : bell pepper
+14.95% : acorn squash
+ 7.12% : butternut squash
+ 3.59% : packet
+ 1.95% : orange
+ 0.75% : menu
+ 0.71% : grocery store
+ 0.57% : vending machine
+ 0.53% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q094.jpg
+25.65% : bell pepper
+21.94% : spaghetti squash
+14.53% : acorn squash
+ 6.94% : butternut squash
+ 3.82% : packet
+ 2.35% : orange
+ 0.81% : grocery store
+ 0.75% : menu
+ 0.68% : vending machine
+ 0.68% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q095.jpg
+26.03% : bell pepper
+21.96% : spaghetti squash
+14.30% : acorn squash
+ 6.67% : butternut squash
+ 3.50% : packet
+ 2.52% : orange
+ 0.85% : grocery store
+ 0.73% : lemon
+ 0.72% : menu
+ 0.67% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q096.jpg
+27.48% : bell pepper
+20.91% : spaghetti squash
+14.02% : acorn squash
+ 6.78% : butternut squash
+ 3.31% : packet
+ 2.51% : orange
+ 0.82% : grocery store
+ 0.72% : menu
+ 0.69% : lemon
+ 0.67% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q097.jpg
+25.03% : bell pepper
+22.20% : spaghetti squash
+12.99% : acorn squash
+ 6.99% : butternut squash
+ 3.49% : packet
+ 2.72% : orange
+ 0.92% : grocery store
+ 0.79% : lemon
+ 0.75% : menu
+ 0.71% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q098.jpg
+26.47% : bell pepper
+22.02% : spaghetti squash
+14.31% : acorn squash
+ 6.49% : butternut squash
+ 3.37% : packet
+ 2.28% : orange
+ 0.80% : grocery store
+ 0.75% : menu
+ 0.67% : vending machine
+ 0.63% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q099.jpg
+27.51% : bell pepper
+20.59% : spaghetti squash
+12.86% : acorn squash
+ 5.99% : butternut squash
+ 3.71% : packet
+ 2.69% : orange
+ 0.83% : grocery store
+ 0.78% : lemon
+ 0.76% : menu
+ 0.73% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper2Q100.jpg
+25.59% : bell pepper
+22.08% : spaghetti squash
+15.46% : acorn squash
+ 6.83% : butternut squash
+ 3.17% : packet
+ 2.64% : orange
+ 0.79% : grocery store
+ 0.73% : lemon
+ 0.71% : menu
+ 0.61% : vending machine

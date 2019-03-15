@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q001.jpg
+22.58% : zucchini
+14.87% : cucumber
+ 2.11% : acorn squash
+ 1.49% : canoe
+ 1.26% : French loaf
+ 1.08% : sleeping bag
+ 0.97% : valley
+ 0.88% : alp
+ 0.85% : clog
+ 0.77% : worm fence
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q002.jpg
+20.87% : zucchini
+14.43% : cucumber
+ 2.09% : acorn squash
+ 1.49% : canoe
+ 1.35% : French loaf
+ 1.13% : sleeping bag
+ 1.00% : valley
+ 0.91% : alp
+ 0.87% : clog
+ 0.79% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q003.jpg
+27.29% : zucchini
+18.97% : cucumber
+ 1.74% : acorn squash
+ 1.29% : clog
+ 0.87% : canoe
+ 0.85% : coil
+ 0.79% : valley
+ 0.71% : French loaf
+ 0.66% : worm fence
+ 0.64% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q004.jpg
+46.15% : zucchini
+43.80% : cucumber
+ 0.38% : sock
+ 0.36% : clog
+ 0.26% : acorn squash
+ 0.19% : French loaf
+ 0.17% : coil
+ 0.12% : sea cucumber
+ 0.12% : green snake
+ 0.11% : sandal
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q005.jpg
+46.73% : zucchini
+29.67% : cucumber
+ 1.58% : sea cucumber
+ 1.12% : French loaf
+ 0.32% : spaghetti squash
+ 0.28% : dough
+ 0.25% : coil
+ 0.19% : acorn squash
+ 0.18% : lemon
+ 0.18% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q006.jpg
+73.93% : cucumber
+24.45% : zucchini
+ 0.10% : French loaf
+ 0.07% : wine bottle
+ 0.03% : coil
+ 0.02% : sea cucumber
+ 0.02% : spaghetti squash
+ 0.02% : beer bottle
+ 0.02% : acorn squash
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q007.jpg
+87.65% : cucumber
+ 9.80% : zucchini
+ 0.07% : French loaf
+ 0.04% : coil
+ 0.03% : modem
+ 0.03% : head cabbage
+ 0.03% : wine bottle
+ 0.02% : spaghetti squash
+ 0.02% : ear
+ 0.02% : tench
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q008.jpg
+78.54% : cucumber
+17.49% : zucchini
+ 0.08% : spaghetti squash
+ 0.06% : French loaf
+ 0.04% : coil
+ 0.04% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.04% : wine bottle
+ 0.03% : tench
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q009.jpg
+82.01% : cucumber
+13.44% : zucchini
+ 0.09% : French loaf
+ 0.06% : spaghetti squash
+ 0.06% : coil
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : wine bottle
+ 0.04% : ear
+ 0.04% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q010.jpg
+91.28% : cucumber
+ 3.77% : zucchini
+ 0.09% : modem
+ 0.08% : head cabbage
+ 0.08% : coil
+ 0.06% : French loaf
+ 0.04% : ear
+ 0.04% : spaghetti squash
+ 0.03% : bell pepper
+ 0.02% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q011.jpg
+95.45% : cucumber
+ 1.23% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.05% : French loaf
+ 0.04% : head cabbage
+ 0.02% : ear
+ 0.02% : spaghetti squash
+ 0.02% : grocery store
+ 0.02% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q012.jpg
+98.42% : cucumber
+ 0.20% : zucchini
+ 0.08% : modem
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : head cabbage
+ 0.01% : canoe
+ 0.01% : iron
+ 0.01% : ear
+ 0.01% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q013.jpg
+97.96% : cucumber
+ 0.34% : zucchini
+ 0.05% : modem
+ 0.03% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.01% : ear
+ 0.01% : lemon
+ 0.01% : grocery store
+ 0.01% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q014.jpg
+97.40% : cucumber
+ 0.33% : zucchini
+ 0.08% : modem
+ 0.05% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.01% : lemon
+ 0.01% : ear
+ 0.01% : canoe
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q015.jpg
+97.73% : cucumber
+ 0.20% : zucchini
+ 0.09% : modem
+ 0.05% : coil
+ 0.02% : head cabbage
+ 0.02% : French loaf
+ 0.01% : iron
+ 0.01% : canoe
+ 0.01% : bell pepper
+ 0.01% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q016.jpg
+97.10% : cucumber
+ 0.38% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.04% : French loaf
+ 0.03% : head cabbage
+ 0.01% : lemon
+ 0.01% : Granny Smith
+ 0.01% : ear
+ 0.01% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q017.jpg
+97.88% : cucumber
+ 0.19% : zucchini
+ 0.08% : modem
+ 0.05% : coil
+ 0.03% : French loaf
+ 0.03% : head cabbage
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : bell pepper
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q018.jpg
+97.98% : cucumber
+ 0.19% : zucchini
+ 0.06% : modem
+ 0.04% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : lemon
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q019.jpg
+97.84% : cucumber
+ 0.18% : zucchini
+ 0.08% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : canoe
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q020.jpg
+98.19% : cucumber
+ 0.19% : zucchini
+ 0.06% : modem
+ 0.04% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : ear
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q021.jpg
+97.60% : cucumber
+ 0.35% : zucchini
+ 0.06% : modem
+ 0.04% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : ear
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q022.jpg
+97.92% : cucumber
+ 0.23% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : iron
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q023.jpg
+97.91% : cucumber
+ 0.25% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q024.jpg
+98.20% : cucumber
+ 0.13% : zucchini
+ 0.09% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : canoe
+ 0.01% : lemon
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q025.jpg
+96.98% : cucumber
+ 0.27% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.03% : French loaf
+ 0.03% : head cabbage
+ 0.02% : bell pepper
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q026.jpg
+97.56% : cucumber
+ 0.13% : zucchini
+ 0.10% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q027.jpg
+97.70% : cucumber
+ 0.20% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : lemon
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q028.jpg
+97.71% : cucumber
+ 0.18% : zucchini
+ 0.09% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q029.jpg
+97.90% : cucumber
+ 0.16% : zucchini
+ 0.09% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iPod
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q030.jpg
+97.72% : cucumber
+ 0.19% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : grocery store
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q031.jpg
+98.19% : cucumber
+ 0.13% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q032.jpg
+98.46% : cucumber
+ 0.10% : zucchini
+ 0.08% : modem
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : iPod
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q033.jpg
+98.53% : cucumber
+ 0.08% : modem
+ 0.06% : zucchini
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : iron
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iPod
+ 0.01% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q034.jpg
+98.55% : cucumber
+ 0.09% : modem
+ 0.05% : zucchini
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : iron
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iPod
+ 0.01% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q035.jpg
+98.48% : cucumber
+ 0.08% : modem
+ 0.08% : zucchini
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : lemon
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q036.jpg
+98.47% : cucumber
+ 0.09% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : lemon
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : iPod
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q037.jpg
+98.39% : cucumber
+ 0.10% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : lemon
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q038.jpg
+98.56% : cucumber
+ 0.12% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.01% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q039.jpg
+98.47% : cucumber
+ 0.13% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q040.jpg
+98.50% : cucumber
+ 0.11% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q041.jpg
+98.11% : cucumber
+ 0.14% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q042.jpg
+97.98% : cucumber
+ 0.16% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q043.jpg
+97.88% : cucumber
+ 0.17% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q044.jpg
+97.71% : cucumber
+ 0.17% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q045.jpg
+97.88% : cucumber
+ 0.13% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q046.jpg
+98.42% : cucumber
+ 0.11% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q047.jpg
+98.39% : cucumber
+ 0.10% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q048.jpg
+98.43% : cucumber
+ 0.09% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q049.jpg
+98.38% : cucumber
+ 0.11% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q050.jpg
+98.36% : cucumber
+ 0.11% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q051.jpg
+98.35% : cucumber
+ 0.11% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : nematode
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q052.jpg
+98.30% : cucumber
+ 0.11% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : Granny Smith
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q053.jpg
+98.22% : cucumber
+ 0.10% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q054.jpg
+98.18% : cucumber
+ 0.11% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q055.jpg
+98.15% : cucumber
+ 0.13% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q056.jpg
+97.98% : cucumber
+ 0.17% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q057.jpg
+98.03% : cucumber
+ 0.20% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q058.jpg
+97.94% : cucumber
+ 0.23% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q059.jpg
+97.87% : cucumber
+ 0.22% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q060.jpg
+97.94% : cucumber
+ 0.24% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q061.jpg
+98.16% : cucumber
+ 0.19% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q062.jpg
+98.18% : cucumber
+ 0.19% : zucchini
+ 0.06% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q063.jpg
+98.18% : cucumber
+ 0.17% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q064.jpg
+97.96% : cucumber
+ 0.20% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : lemon
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q065.jpg
+97.98% : cucumber
+ 0.20% : zucchini
+ 0.06% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : lemon
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q066.jpg
+97.92% : cucumber
+ 0.20% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q067.jpg
+98.24% : cucumber
+ 0.16% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q068.jpg
+98.04% : cucumber
+ 0.21% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q069.jpg
+98.05% : cucumber
+ 0.20% : zucchini
+ 0.07% : modem
+ 0.05% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q070.jpg
+98.02% : cucumber
+ 0.21% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q071.jpg
+97.94% : cucumber
+ 0.19% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q072.jpg
+97.86% : cucumber
+ 0.22% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q073.jpg
+97.87% : cucumber
+ 0.17% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q074.jpg
+97.98% : cucumber
+ 0.14% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : iPod
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q075.jpg
+97.95% : cucumber
+ 0.14% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : lemon
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : iPod
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q076.jpg
+97.84% : cucumber
+ 0.16% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q077.jpg
+97.84% : cucumber
+ 0.16% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q078.jpg
+97.89% : cucumber
+ 0.17% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : lemon
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q079.jpg
+97.88% : cucumber
+ 0.16% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q080.jpg
+98.02% : cucumber
+ 0.13% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q081.jpg
+97.96% : cucumber
+ 0.15% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q082.jpg
+97.78% : cucumber
+ 0.17% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q083.jpg
+97.77% : cucumber
+ 0.19% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q084.jpg
+97.34% : cucumber
+ 0.22% : zucchini
+ 0.09% : modem
+ 0.07% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : iron
+ 0.01% : lemon
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q085.jpg
+97.26% : cucumber
+ 0.30% : zucchini
+ 0.08% : modem
+ 0.07% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : lemon
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q086.jpg
+97.36% : cucumber
+ 0.26% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : lemon
+ 0.01% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q087.jpg
+97.52% : cucumber
+ 0.25% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : bell pepper
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q088.jpg
+97.66% : cucumber
+ 0.21% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.01% : Granny Smith
+ 0.01% : lemon
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q089.jpg
+97.67% : cucumber
+ 0.20% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : Granny Smith
+ 0.01% : bell pepper
+ 0.01% : iron
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q090.jpg
+97.54% : cucumber
+ 0.18% : zucchini
+ 0.09% : modem
+ 0.07% : coil
+ 0.02% : French loaf
+ 0.01% : head cabbage
+ 0.01% : iron
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q091.jpg
+97.56% : cucumber
+ 0.20% : zucchini
+ 0.09% : modem
+ 0.07% : coil
+ 0.02% : French loaf
+ 0.01% : iron
+ 0.01% : head cabbage
+ 0.01% : lemon
+ 0.01% : bell pepper
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q092.jpg
+96.64% : cucumber
+ 0.53% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : Granny Smith
+ 0.02% : bell pepper
+ 0.02% : lemon
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q093.jpg
+96.54% : cucumber
+ 0.52% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.03% : French loaf
+ 0.02% : Granny Smith
+ 0.02% : head cabbage
+ 0.02% : bell pepper
+ 0.02% : lemon
+ 0.02% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q094.jpg
+96.96% : cucumber
+ 0.45% : zucchini
+ 0.07% : modem
+ 0.06% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : Granny Smith
+ 0.02% : bell pepper
+ 0.01% : iron
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q095.jpg
+96.78% : cucumber
+ 0.45% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : Granny Smith
+ 0.02% : bell pepper
+ 0.02% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q096.jpg
+96.91% : cucumber
+ 0.33% : zucchini
+ 0.09% : modem
+ 0.07% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : Granny Smith
+ 0.02% : bell pepper
+ 0.02% : iron
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q097.jpg
+97.03% : cucumber
+ 0.29% : zucchini
+ 0.09% : modem
+ 0.07% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : iron
+ 0.02% : bell pepper
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q098.jpg
+96.81% : cucumber
+ 0.35% : zucchini
+ 0.09% : modem
+ 0.07% : coil
+ 0.03% : French loaf
+ 0.02% : head cabbage
+ 0.02% : bell pepper
+ 0.02% : Granny Smith
+ 0.02% : iron
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q099.jpg
+97.04% : cucumber
+ 0.30% : zucchini
+ 0.09% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.02% : bell pepper
+ 0.02% : iron
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber5Q100.jpg
+97.13% : cucumber
+ 0.29% : zucchini
+ 0.08% : modem
+ 0.06% : coil
+ 0.02% : French loaf
+ 0.02% : head cabbage
+ 0.02% : iron
+ 0.02% : bell pepper
+ 0.01% : Granny Smith
+ 0.01% : lemon

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q001.jpg
+61.93% : bell pepper
+ 9.61% : jack-o'-lantern
+ 2.95% : corn
+ 2.41% : ear
+ 1.26% : tick
+ 1.05% : stinkhorn
+ 1.05% : spaghetti squash
+ 1.04% : lemon
+ 0.93% : ladybug
+ 0.75% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q002.jpg
+61.93% : bell pepper
+ 9.61% : jack-o'-lantern
+ 2.95% : corn
+ 2.41% : ear
+ 1.26% : tick
+ 1.05% : stinkhorn
+ 1.05% : spaghetti squash
+ 1.04% : lemon
+ 0.93% : ladybug
+ 0.75% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q003.jpg
+61.28% : bell pepper
+ 8.54% : jack-o'-lantern
+ 3.27% : corn
+ 2.55% : ear
+ 1.48% : tick
+ 1.11% : spaghetti squash
+ 1.05% : stinkhorn
+ 1.03% : lemon
+ 1.01% : ladybug
+ 0.95% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q004.jpg
+70.15% : bell pepper
+18.00% : jack-o'-lantern
+ 0.54% : orange
+ 0.38% : corn
+ 0.27% : ear
+ 0.24% : lemon
+ 0.23% : jellyfish
+ 0.18% : pomegranate
+ 0.17% : candle
+ 0.17% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q005.jpg
+71.86% : bell pepper
+ 4.03% : jack-o'-lantern
+ 1.53% : corn
+ 1.31% : ear
+ 0.97% : buckeye
+ 0.48% : yellow lady's slipper
+ 0.47% : lemon
+ 0.47% : orange
+ 0.34% : stinkhorn
+ 0.30% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q006.jpg
+93.54% : bell pepper
+ 0.57% : ear
+ 0.47% : corn
+ 0.39% : jack-o'-lantern
+ 0.29% : yellow lady's slipper
+ 0.19% : jackfruit
+ 0.14% : lemon
+ 0.13% : candle
+ 0.10% : orange
+ 0.10% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q007.jpg
+60.55% : bell pepper
+17.69% : jack-o'-lantern
+ 0.96% : corn
+ 0.85% : ear
+ 0.43% : yellow lady's slipper
+ 0.41% : orange
+ 0.28% : buckeye
+ 0.26% : spaghetti squash
+ 0.24% : candle
+ 0.22% : jellyfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q008.jpg
+93.22% : bell pepper
+ 0.49% : ear
+ 0.44% : lemon
+ 0.43% : corn
+ 0.27% : yellow lady's slipper
+ 0.24% : candle
+ 0.19% : orange
+ 0.18% : jack-o'-lantern
+ 0.14% : jackfruit
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q009.jpg
+89.81% : bell pepper
+ 2.10% : lemon
+ 0.81% : corn
+ 0.79% : orange
+ 0.40% : ear
+ 0.32% : jack-o'-lantern
+ 0.31% : yellow lady's slipper
+ 0.15% : candle
+ 0.14% : hip
+ 0.14% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q010.jpg
+74.71% : bell pepper
+ 2.73% : yellow lady's slipper
+ 1.99% : lemon
+ 1.85% : corn
+ 1.52% : orange
+ 1.47% : jack-o'-lantern
+ 1.01% : ear
+ 0.28% : spaghetti squash
+ 0.27% : zucchini
+ 0.26% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q011.jpg
+68.46% : bell pepper
+ 5.92% : yellow lady's slipper
+ 4.20% : lemon
+ 1.80% : orange
+ 0.90% : corn
+ 0.75% : ear
+ 0.70% : jack-o'-lantern
+ 0.43% : hip
+ 0.29% : pomegranate
+ 0.26% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q012.jpg
+69.05% : bell pepper
+ 3.12% : lemon
+ 2.62% : orange
+ 2.31% : yellow lady's slipper
+ 2.06% : corn
+ 1.16% : ear
+ 0.89% : jack-o'-lantern
+ 0.48% : zucchini
+ 0.45% : spaghetti squash
+ 0.44% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q013.jpg
+90.60% : bell pepper
+ 1.44% : yellow lady's slipper
+ 0.96% : corn
+ 0.63% : lemon
+ 0.47% : ear
+ 0.19% : orange
+ 0.17% : jackfruit
+ 0.17% : spaghetti squash
+ 0.15% : zucchini
+ 0.10% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q014.jpg
+90.01% : bell pepper
+ 1.11% : lemon
+ 1.04% : corn
+ 0.60% : yellow lady's slipper
+ 0.54% : ear
+ 0.25% : orange
+ 0.14% : jackfruit
+ 0.13% : zucchini
+ 0.13% : spaghetti squash
+ 0.11% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q015.jpg
+92.80% : bell pepper
+ 0.91% : corn
+ 0.63% : lemon
+ 0.30% : ear
+ 0.24% : yellow lady's slipper
+ 0.13% : orange
+ 0.12% : cucumber
+ 0.12% : spaghetti squash
+ 0.11% : jackfruit
+ 0.11% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q016.jpg
+90.13% : bell pepper
+ 1.75% : corn
+ 1.54% : lemon
+ 0.59% : yellow lady's slipper
+ 0.51% : ear
+ 0.19% : orange
+ 0.17% : jackfruit
+ 0.12% : slug
+ 0.10% : zucchini
+ 0.09% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q017.jpg
+95.98% : bell pepper
+ 0.61% : corn
+ 0.20% : ear
+ 0.17% : lemon
+ 0.10% : yellow lady's slipper
+ 0.08% : spaghetti squash
+ 0.08% : slug
+ 0.07% : zucchini
+ 0.07% : jackfruit
+ 0.06% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q018.jpg
+95.15% : bell pepper
+ 0.80% : corn
+ 0.46% : lemon
+ 0.27% : ear
+ 0.19% : yellow lady's slipper
+ 0.10% : spaghetti squash
+ 0.07% : orange
+ 0.07% : jackfruit
+ 0.07% : slug
+ 0.06% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q019.jpg
+97.48% : bell pepper
+ 0.40% : corn
+ 0.13% : lemon
+ 0.11% : ear
+ 0.09% : yellow lady's slipper
+ 0.04% : jackfruit
+ 0.04% : spaghetti squash
+ 0.03% : slug
+ 0.03% : zucchini
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q020.jpg
+97.66% : bell pepper
+ 0.27% : corn
+ 0.09% : yellow lady's slipper
+ 0.09% : lemon
+ 0.08% : ear
+ 0.04% : slug
+ 0.03% : spaghetti squash
+ 0.03% : zucchini
+ 0.03% : jackfruit
+ 0.03% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q021.jpg
+98.36% : bell pepper
+ 0.36% : corn
+ 0.10% : ear
+ 0.04% : lemon
+ 0.03% : yellow lady's slipper
+ 0.02% : slug
+ 0.02% : jackfruit
+ 0.02% : spaghetti squash
+ 0.02% : acorn squash
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q022.jpg
+98.80% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.02% : lemon
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : candle
+ 0.01% : jackfruit
+ 0.01% : spaghetti squash
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q023.jpg
+98.29% : bell pepper
+ 0.31% : corn
+ 0.08% : ear
+ 0.03% : yellow lady's slipper
+ 0.02% : jackfruit
+ 0.02% : lemon
+ 0.02% : slug
+ 0.02% : candle
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q024.jpg
+98.32% : bell pepper
+ 0.14% : corn
+ 0.04% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : slug
+ 0.02% : candle
+ 0.02% : jackfruit
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q025.jpg
+98.39% : bell pepper
+ 0.19% : corn
+ 0.05% : ear
+ 0.03% : yellow lady's slipper
+ 0.03% : slug
+ 0.02% : zucchini
+ 0.02% : jackfruit
+ 0.02% : candle
+ 0.02% : spaghetti squash
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q026.jpg
+98.80% : bell pepper
+ 0.14% : corn
+ 0.03% : ear
+ 0.02% : yellow lady's slipper
+ 0.01% : candle
+ 0.01% : slug
+ 0.01% : jackfruit
+ 0.01% : lemon
+ 0.01% : stove
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q027.jpg
+98.01% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.01% : zucchini
+ 0.01% : abacus
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q028.jpg
+98.20% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : jackfruit
+ 0.01% : frying pan
+ 0.01% : zucchini
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q029.jpg
+98.46% : bell pepper
+ 0.11% : corn
+ 0.04% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : candle
+ 0.01% : stove
+ 0.01% : slug
+ 0.01% : jackfruit
+ 0.01% : zucchini
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q030.jpg
+98.66% : bell pepper
+ 0.12% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.01% : stove
+ 0.01% : yellow lady's slipper
+ 0.01% : frying pan
+ 0.01% : jackfruit
+ 0.01% : slug
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q031.jpg
+98.24% : bell pepper
+ 0.15% : corn
+ 0.04% : ear
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : slug
+ 0.01% : jackfruit
+ 0.01% : grocery store
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q032.jpg
+98.16% : bell pepper
+ 0.13% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.01% : frying pan
+ 0.01% : slug
+ 0.01% : abacus
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q033.jpg
+98.15% : bell pepper
+ 0.18% : corn
+ 0.05% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : frying pan
+ 0.01% : yellow lady's slipper
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q034.jpg
+98.06% : bell pepper
+ 0.18% : corn
+ 0.05% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : frying pan
+ 0.02% : yellow lady's slipper
+ 0.01% : slug
+ 0.01% : abacus
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q035.jpg
+98.33% : bell pepper
+ 0.12% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.01% : yellow lady's slipper
+ 0.01% : frying pan
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q036.jpg
+98.01% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : frying pan
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q037.jpg
+98.00% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : yellow lady's slipper
+ 0.01% : frying pan
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q038.jpg
+97.98% : bell pepper
+ 0.12% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.01% : frying pan
+ 0.01% : slug
+ 0.01% : grocery store
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q039.jpg
+97.64% : bell pepper
+ 0.17% : corn
+ 0.05% : ear
+ 0.03% : stove
+ 0.03% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : frying pan
+ 0.02% : jackfruit
+ 0.02% : slug
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q040.jpg
+98.25% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.01% : slug
+ 0.01% : frying pan
+ 0.01% : grocery store
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q041.jpg
+97.84% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : frying pan
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q042.jpg
+97.94% : bell pepper
+ 0.08% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : frying pan
+ 0.01% : abacus
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q043.jpg
+97.92% : bell pepper
+ 0.09% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : frying pan
+ 0.01% : abacus
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q044.jpg
+97.71% : bell pepper
+ 0.15% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : abacus
+ 0.01% : grocery store
+ 0.01% : frying pan
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q045.jpg
+97.73% : bell pepper
+ 0.15% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : abacus
+ 0.02% : grocery store
+ 0.01% : frying pan
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q046.jpg
+97.76% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : abacus
+ 0.01% : grocery store
+ 0.01% : pencil sharpener
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q047.jpg
+97.81% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : pencil sharpener
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q048.jpg
+97.75% : bell pepper
+ 0.12% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q049.jpg
+97.64% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q050.jpg
+97.64% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q051.jpg
+97.63% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.02% : jackfruit
+ 0.01% : abacus
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q052.jpg
+97.65% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.03% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : frying pan
+ 0.01% : abacus
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q053.jpg
+97.83% : bell pepper
+ 0.08% : corn
+ 0.03% : candle
+ 0.03% : stove
+ 0.03% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : frying pan
+ 0.01% : pencil sharpener
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q054.jpg
+97.79% : bell pepper
+ 0.08% : corn
+ 0.03% : candle
+ 0.03% : stove
+ 0.03% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : frying pan
+ 0.01% : pencil sharpener
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q055.jpg
+98.33% : bell pepper
+ 0.07% : corn
+ 0.02% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : zucchini
+ 0.01% : abacus
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q056.jpg
+98.24% : bell pepper
+ 0.07% : corn
+ 0.02% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.02% : candle
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q057.jpg
+98.20% : bell pepper
+ 0.07% : corn
+ 0.02% : yellow lady's slipper
+ 0.02% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : slug
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q058.jpg
+98.09% : bell pepper
+ 0.08% : corn
+ 0.02% : ear
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : frying pan
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q059.jpg
+98.05% : bell pepper
+ 0.07% : corn
+ 0.02% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : slug
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q060.jpg
+98.03% : bell pepper
+ 0.07% : corn
+ 0.02% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : slug
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q061.jpg
+97.85% : bell pepper
+ 0.08% : corn
+ 0.03% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : slug
+ 0.01% : pencil sharpener
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q062.jpg
+97.91% : bell pepper
+ 0.08% : corn
+ 0.03% : ear
+ 0.03% : yellow lady's slipper
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : grocery store
+ 0.01% : zucchini
+ 0.01% : pencil sharpener
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q063.jpg
+98.03% : bell pepper
+ 0.08% : corn
+ 0.03% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : jackfruit
+ 0.01% : zucchini
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q064.jpg
+97.85% : bell pepper
+ 0.08% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : pencil sharpener
+ 0.01% : abacus
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q065.jpg
+97.74% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : yellow lady's slipper
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : zucchini
+ 0.01% : pencil sharpener
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q066.jpg
+97.63% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : yellow lady's slipper
+ 0.03% : candle
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q067.jpg
+97.16% : bell pepper
+ 0.12% : corn
+ 0.04% : ear
+ 0.03% : candle
+ 0.03% : yellow lady's slipper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : frying pan
+ 0.02% : pencil sharpener
+ 0.02% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q068.jpg
+97.43% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : candle
+ 0.03% : yellow lady's slipper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q069.jpg
+97.52% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : yellow lady's slipper
+ 0.03% : stove
+ 0.03% : candle
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q070.jpg
+97.62% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q071.jpg
+97.62% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q072.jpg
+97.57% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q073.jpg
+97.83% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q074.jpg
+97.67% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q075.jpg
+97.67% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q076.jpg
+97.87% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : frying pan
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q077.jpg
+97.95% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q078.jpg
+97.76% : bell pepper
+ 0.12% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : grocery store
+ 0.02% : yellow lady's slipper
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q079.jpg
+97.72% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : grocery store
+ 0.02% : yellow lady's slipper
+ 0.02% : abacus
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q080.jpg
+97.69% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.02% : yellow lady's slipper
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q081.jpg
+97.59% : bell pepper
+ 0.12% : corn
+ 0.04% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : abacus
+ 0.02% : grocery store
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q082.jpg
+97.64% : bell pepper
+ 0.12% : corn
+ 0.04% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : abacus
+ 0.02% : grocery store
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q083.jpg
+97.29% : bell pepper
+ 0.13% : corn
+ 0.04% : ear
+ 0.03% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q084.jpg
+97.71% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q085.jpg
+97.78% : bell pepper
+ 0.09% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q086.jpg
+97.87% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : candle
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q087.jpg
+97.84% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q088.jpg
+97.90% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q089.jpg
+97.90% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q090.jpg
+97.78% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : yellow lady's slipper
+ 0.02% : stove
+ 0.02% : candle
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q091.jpg
+98.04% : bell pepper
+ 0.09% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q092.jpg
+97.69% : bell pepper
+ 0.11% : corn
+ 0.03% : candle
+ 0.03% : ear
+ 0.03% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q093.jpg
+97.93% : bell pepper
+ 0.15% : corn
+ 0.04% : candle
+ 0.04% : ear
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : jack-o'-lantern
+ 0.01% : pencil sharpener
+ 0.01% : jackfruit
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q094.jpg
+97.97% : bell pepper
+ 0.14% : corn
+ 0.04% : ear
+ 0.03% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : jack-o'-lantern
+ 0.01% : grocery store
+ 0.01% : pencil sharpener
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q095.jpg
+98.04% : bell pepper
+ 0.12% : corn
+ 0.03% : ear
+ 0.03% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : jack-o'-lantern
+ 0.01% : grocery store
+ 0.01% : pencil sharpener
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q096.jpg
+97.97% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : pencil sharpener
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q097.jpg
+97.86% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q098.jpg
+98.00% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : candle
+ 0.02% : stove
+ 0.02% : yellow lady's slipper
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : pencil sharpener
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q099.jpg
+98.09% : bell pepper
+ 0.11% : corn
+ 0.03% : ear
+ 0.02% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper19Q100.jpg
+98.06% : bell pepper
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : candle
+ 0.02% : yellow lady's slipper
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : pencil sharpener

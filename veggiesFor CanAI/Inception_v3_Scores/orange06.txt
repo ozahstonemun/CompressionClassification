@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q001.jpg
+14.32% : orange
+13.45% : jack-o'-lantern
+ 2.07% : butternut squash
+ 1.86% : traffic light
+ 1.23% : grocery store
+ 0.76% : pot
+ 0.72% : baseball
+ 0.71% : ping-pong ball
+ 0.62% : zucchini
+ 0.60% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q002.jpg
+14.21% : orange
+13.36% : jack-o'-lantern
+ 2.04% : butternut squash
+ 1.92% : traffic light
+ 1.25% : grocery store
+ 0.76% : pot
+ 0.71% : baseball
+ 0.69% : ping-pong ball
+ 0.62% : zucchini
+ 0.61% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q003.jpg
+13.87% : orange
+13.13% : jack-o'-lantern
+ 1.94% : traffic light
+ 1.86% : butternut squash
+ 1.13% : grocery store
+ 0.82% : pot
+ 0.81% : baseball
+ 0.69% : strawberry
+ 0.61% : ping-pong ball
+ 0.54% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q004.jpg
+27.98% : orange
+11.16% : jack-o'-lantern
+ 4.42% : butternut squash
+ 0.88% : traffic light
+ 0.86% : bell pepper
+ 0.70% : acorn squash
+ 0.62% : lemon
+ 0.52% : strawberry
+ 0.51% : grocery store
+ 0.45% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q005.jpg
+63.02% : orange
+ 4.29% : butternut squash
+ 3.16% : jack-o'-lantern
+ 1.13% : grocery store
+ 0.81% : lemon
+ 0.73% : acorn squash
+ 0.42% : bell pepper
+ 0.36% : zucchini
+ 0.32% : spaghetti squash
+ 0.25% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q006.jpg
+81.15% : orange
+ 1.77% : butternut squash
+ 1.11% : grocery store
+ 1.04% : lemon
+ 0.72% : jack-o'-lantern
+ 0.32% : zucchini
+ 0.18% : butcher shop
+ 0.18% : acorn squash
+ 0.13% : spaghetti squash
+ 0.11% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q007.jpg
+89.90% : orange
+ 3.61% : lemon
+ 0.32% : grocery store
+ 0.20% : butternut squash
+ 0.13% : jack-o'-lantern
+ 0.10% : banana
+ 0.09% : acorn squash
+ 0.07% : spaghetti squash
+ 0.06% : pineapple
+ 0.05% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q008.jpg
+96.78% : orange
+ 1.30% : lemon
+ 0.06% : banana
+ 0.04% : grocery store
+ 0.02% : jack-o'-lantern
+ 0.02% : butternut squash
+ 0.02% : basketball
+ 0.01% : croquet ball
+ 0.01% : pineapple
+ 0.01% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q009.jpg
+95.22% : orange
+ 1.33% : lemon
+ 0.09% : banana
+ 0.06% : grocery store
+ 0.03% : basketball
+ 0.03% : spaghetti squash
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q010.jpg
+92.41% : orange
+ 2.56% : lemon
+ 0.09% : banana
+ 0.05% : basketball
+ 0.04% : grocery store
+ 0.04% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : ping-pong ball
+ 0.03% : magnetic compass
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q011.jpg
+90.87% : orange
+ 3.95% : lemon
+ 0.10% : banana
+ 0.05% : spaghetti squash
+ 0.05% : ping-pong ball
+ 0.04% : basketball
+ 0.03% : grocery store
+ 0.03% : pineapple
+ 0.03% : croquet ball
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q012.jpg
+91.12% : orange
+ 3.42% : lemon
+ 0.10% : banana
+ 0.07% : ping-pong ball
+ 0.06% : spaghetti squash
+ 0.05% : basketball
+ 0.04% : grocery store
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q013.jpg
+90.36% : orange
+ 3.49% : lemon
+ 0.11% : banana
+ 0.08% : ping-pong ball
+ 0.06% : spaghetti squash
+ 0.06% : basketball
+ 0.05% : grocery store
+ 0.03% : combination lock
+ 0.03% : pineapple
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q014.jpg
+90.14% : orange
+ 3.47% : lemon
+ 0.12% : ping-pong ball
+ 0.11% : banana
+ 0.07% : spaghetti squash
+ 0.05% : basketball
+ 0.05% : grocery store
+ 0.04% : croquet ball
+ 0.03% : combination lock
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q015.jpg
+92.18% : orange
+ 1.99% : lemon
+ 0.11% : banana
+ 0.10% : ping-pong ball
+ 0.06% : grocery store
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q016.jpg
+94.29% : orange
+ 1.91% : lemon
+ 0.12% : ping-pong ball
+ 0.07% : banana
+ 0.04% : basketball
+ 0.04% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+ 0.02% : American black bear
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q017.jpg
+94.29% : orange
+ 1.79% : lemon
+ 0.12% : ping-pong ball
+ 0.07% : banana
+ 0.05% : basketball
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : combination lock
+ 0.02% : American black bear
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q018.jpg
+94.71% : orange
+ 1.50% : lemon
+ 0.10% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : grocery store
+ 0.02% : combination lock
+ 0.02% : American black bear
+ 0.02% : pineapple
+ 0.02% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q019.jpg
+93.99% : orange
+ 1.45% : lemon
+ 0.10% : ping-pong ball
+ 0.08% : banana
+ 0.05% : basketball
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.02% : American black bear
+ 0.02% : limpkin
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q020.jpg
+93.49% : orange
+ 1.95% : lemon
+ 0.12% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.02% : American black bear
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q021.jpg
+94.62% : orange
+ 1.54% : lemon
+ 0.11% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : grocery store
+ 0.02% : combination lock
+ 0.02% : American black bear
+ 0.02% : croquet ball
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q022.jpg
+92.23% : orange
+ 2.09% : lemon
+ 0.15% : ping-pong ball
+ 0.11% : banana
+ 0.06% : basketball
+ 0.04% : grocery store
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q023.jpg
+93.47% : orange
+ 2.03% : lemon
+ 0.13% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.04% : grocery store
+ 0.02% : American black bear
+ 0.02% : combination lock
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q024.jpg
+94.19% : orange
+ 1.66% : lemon
+ 0.12% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.04% : grocery store
+ 0.02% : croquet ball
+ 0.02% : combination lock
+ 0.02% : American black bear
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q025.jpg
+94.10% : orange
+ 1.59% : lemon
+ 0.16% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.04% : grocery store
+ 0.03% : croquet ball
+ 0.02% : spaghetti squash
+ 0.02% : combination lock
+ 0.02% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q026.jpg
+93.69% : orange
+ 1.90% : lemon
+ 0.13% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.04% : grocery store
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+ 0.02% : combination lock
+ 0.02% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q027.jpg
+94.64% : orange
+ 1.67% : lemon
+ 0.12% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : grocery store
+ 0.02% : croquet ball
+ 0.02% : combination lock
+ 0.02% : American black bear
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q028.jpg
+92.20% : orange
+ 2.16% : lemon
+ 0.15% : ping-pong ball
+ 0.12% : banana
+ 0.06% : basketball
+ 0.04% : grocery store
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q029.jpg
+92.49% : orange
+ 2.11% : lemon
+ 0.16% : ping-pong ball
+ 0.12% : banana
+ 0.06% : basketball
+ 0.04% : grocery store
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q030.jpg
+91.95% : orange
+ 2.40% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : grocery store
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q031.jpg
+93.63% : orange
+ 2.04% : lemon
+ 0.14% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : croquet ball
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : American black bear
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q032.jpg
+93.89% : orange
+ 1.87% : lemon
+ 0.13% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+ 0.02% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q033.jpg
+92.81% : orange
+ 2.40% : lemon
+ 0.15% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q034.jpg
+91.73% : orange
+ 2.98% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : American black bear
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q035.jpg
+92.28% : orange
+ 2.85% : lemon
+ 0.17% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q036.jpg
+89.98% : orange
+ 4.23% : lemon
+ 0.19% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q037.jpg
+90.23% : orange
+ 4.13% : lemon
+ 0.19% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q038.jpg
+90.85% : orange
+ 3.71% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q039.jpg
+91.62% : orange
+ 3.18% : lemon
+ 0.17% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.04% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q040.jpg
+92.47% : orange
+ 2.81% : lemon
+ 0.16% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q041.jpg
+91.60% : orange
+ 3.49% : lemon
+ 0.17% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : croquet ball
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q042.jpg
+90.98% : orange
+ 4.01% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q043.jpg
+91.46% : orange
+ 3.74% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q044.jpg
+92.23% : orange
+ 2.93% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : croquet ball
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q045.jpg
+91.99% : orange
+ 2.99% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q046.jpg
+90.74% : orange
+ 3.62% : lemon
+ 0.15% : ping-pong ball
+ 0.12% : banana
+ 0.05% : basketball
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q047.jpg
+91.00% : orange
+ 3.48% : lemon
+ 0.15% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q048.jpg
+91.97% : orange
+ 3.04% : lemon
+ 0.15% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q049.jpg
+93.36% : orange
+ 2.34% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.02% : grocery store
+ 0.02% : American black bear
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q050.jpg
+93.44% : orange
+ 2.31% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.02% : spaghetti squash
+ 0.02% : grocery store
+ 0.02% : American black bear
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q051.jpg
+93.43% : orange
+ 2.30% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.02% : spaghetti squash
+ 0.02% : grocery store
+ 0.02% : American black bear
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q052.jpg
+92.54% : orange
+ 2.66% : lemon
+ 0.18% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q053.jpg
+92.91% : orange
+ 2.48% : lemon
+ 0.18% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q054.jpg
+92.78% : orange
+ 2.50% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q055.jpg
+92.01% : orange
+ 3.05% : lemon
+ 0.18% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q056.jpg
+92.62% : orange
+ 2.70% : lemon
+ 0.17% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q057.jpg
+92.08% : orange
+ 3.00% : lemon
+ 0.19% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q058.jpg
+91.49% : orange
+ 2.93% : lemon
+ 0.17% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q059.jpg
+91.66% : orange
+ 2.87% : lemon
+ 0.18% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q060.jpg
+91.71% : orange
+ 2.89% : lemon
+ 0.17% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q061.jpg
+91.96% : orange
+ 2.82% : lemon
+ 0.17% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q062.jpg
+92.02% : orange
+ 2.91% : lemon
+ 0.17% : ping-pong ball
+ 0.10% : banana
+ 0.04% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q063.jpg
+90.88% : orange
+ 3.49% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q064.jpg
+90.87% : orange
+ 3.37% : lemon
+ 0.19% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q065.jpg
+91.00% : orange
+ 3.03% : lemon
+ 0.22% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q066.jpg
+90.85% : orange
+ 3.06% : lemon
+ 0.22% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q067.jpg
+89.90% : orange
+ 3.61% : lemon
+ 0.22% : ping-pong ball
+ 0.12% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.04% : combination lock
+ 0.04% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q068.jpg
+91.16% : orange
+ 3.42% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.04% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q069.jpg
+91.66% : orange
+ 3.09% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q070.jpg
+91.07% : orange
+ 3.32% : lemon
+ 0.17% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q071.jpg
+91.66% : orange
+ 3.11% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q072.jpg
+91.71% : orange
+ 3.09% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : American black bear
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q073.jpg
+91.85% : orange
+ 2.82% : lemon
+ 0.19% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : spaghetti squash
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q074.jpg
+92.27% : orange
+ 2.69% : lemon
+ 0.18% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q075.jpg
+92.26% : orange
+ 2.70% : lemon
+ 0.18% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q076.jpg
+91.84% : orange
+ 2.85% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q077.jpg
+91.33% : orange
+ 3.00% : lemon
+ 0.14% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q078.jpg
+91.01% : orange
+ 3.19% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : American black bear
+ 0.04% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q079.jpg
+90.96% : orange
+ 3.14% : lemon
+ 0.16% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : American black bear
+ 0.04% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : grocery store
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q080.jpg
+90.88% : orange
+ 3.18% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q081.jpg
+92.35% : orange
+ 2.50% : lemon
+ 0.15% : ping-pong ball
+ 0.11% : banana
+ 0.05% : basketball
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q082.jpg
+92.95% : orange
+ 2.27% : lemon
+ 0.15% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q083.jpg
+93.24% : orange
+ 2.14% : lemon
+ 0.15% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q084.jpg
+92.99% : orange
+ 2.35% : lemon
+ 0.14% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q085.jpg
+92.99% : orange
+ 2.31% : lemon
+ 0.14% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : spaghetti squash
+ 0.02% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q086.jpg
+92.98% : orange
+ 2.34% : lemon
+ 0.15% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q087.jpg
+93.70% : orange
+ 2.07% : lemon
+ 0.14% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q088.jpg
+93.37% : orange
+ 2.19% : lemon
+ 0.15% : ping-pong ball
+ 0.09% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q089.jpg
+93.02% : orange
+ 2.30% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : croquet ball
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q090.jpg
+92.69% : orange
+ 2.53% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q091.jpg
+92.46% : orange
+ 2.63% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q092.jpg
+92.57% : orange
+ 2.71% : lemon
+ 0.15% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : spaghetti squash
+ 0.02% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q093.jpg
+93.09% : orange
+ 2.35% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q094.jpg
+93.42% : orange
+ 2.16% : lemon
+ 0.14% : ping-pong ball
+ 0.09% : banana
+ 0.04% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q095.jpg
+93.37% : orange
+ 2.17% : lemon
+ 0.15% : ping-pong ball
+ 0.08% : banana
+ 0.04% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q096.jpg
+93.27% : orange
+ 2.33% : lemon
+ 0.15% : ping-pong ball
+ 0.08% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q097.jpg
+93.52% : orange
+ 2.15% : lemon
+ 0.15% : ping-pong ball
+ 0.08% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q098.jpg
+93.55% : orange
+ 2.13% : lemon
+ 0.15% : ping-pong ball
+ 0.08% : banana
+ 0.04% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q099.jpg
+93.45% : orange
+ 2.13% : lemon
+ 0.15% : ping-pong ball
+ 0.08% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : grocery store
+ 0.03% : combination lock
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange6Q100.jpg
+93.23% : orange
+ 2.29% : lemon
+ 0.15% : ping-pong ball
+ 0.08% : banana
+ 0.05% : basketball
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : grocery store
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash

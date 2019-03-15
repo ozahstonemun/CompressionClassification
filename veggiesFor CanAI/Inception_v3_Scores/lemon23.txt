@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q001.jpg
+ 6.12% : orange
+ 6.04% : lumbermill
+ 2.54% : pot
+ 1.13% : tray
+ 1.07% : lemon
+ 1.05% : confectionery
+ 0.88% : honeycomb
+ 0.80% : coil
+ 0.79% : grocery store
+ 0.74% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q002.jpg
+ 6.05% : orange
+ 5.93% : lumbermill
+ 2.50% : pot
+ 1.13% : tray
+ 1.07% : lemon
+ 1.05% : confectionery
+ 0.91% : honeycomb
+ 0.80% : coil
+ 0.78% : grocery store
+ 0.75% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q003.jpg
+ 8.72% : orange
+ 6.93% : lumbermill
+ 3.10% : pot
+ 1.46% : lemon
+ 1.11% : tray
+ 1.02% : confectionery
+ 0.88% : grocery store
+ 0.74% : bottlecap
+ 0.71% : strainer
+ 0.71% : sea anemone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q004.jpg
+ 5.44% : orange
+ 3.06% : lemon
+ 1.51% : harvester
+ 1.04% : confectionery
+ 0.99% : tennis ball
+ 0.87% : pot
+ 0.82% : butternut squash
+ 0.75% : grocery store
+ 0.72% : tray
+ 0.65% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q005.jpg
+ 7.59% : orange
+ 7.06% : lemon
+ 2.67% : tennis ball
+ 1.51% : harvester
+ 1.07% : tray
+ 0.84% : butternut squash
+ 0.73% : strainer
+ 0.72% : pot
+ 0.64% : wok
+ 0.64% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q006.jpg
+44.02% : orange
+10.44% : lemon
+ 1.08% : butternut squash
+ 0.98% : tennis ball
+ 0.93% : pot
+ 0.83% : lumbermill
+ 0.80% : harvester
+ 0.68% : tray
+ 0.67% : honeycomb
+ 0.48% : space heater
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q007.jpg
+43.18% : lemon
+ 9.56% : tennis ball
+ 7.47% : orange
+ 1.06% : harvester
+ 0.76% : strainer
+ 0.56% : tray
+ 0.50% : frying pan
+ 0.41% : spaghetti squash
+ 0.40% : honeycomb
+ 0.37% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q008.jpg
+35.04% : lemon
+34.03% : orange
+ 0.48% : strainer
+ 0.46% : honeycomb
+ 0.40% : tray
+ 0.40% : frying pan
+ 0.40% : tennis ball
+ 0.39% : lumbermill
+ 0.37% : spaghetti squash
+ 0.35% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q009.jpg
+82.41% : lemon
+ 6.98% : orange
+ 0.37% : spaghetti squash
+ 0.35% : tennis ball
+ 0.27% : honeycomb
+ 0.24% : harvester
+ 0.19% : strainer
+ 0.10% : lumbermill
+ 0.09% : croquet ball
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q010.jpg
+76.70% : lemon
+ 9.40% : orange
+ 0.46% : tennis ball
+ 0.32% : spaghetti squash
+ 0.24% : honeycomb
+ 0.23% : harvester
+ 0.16% : strainer
+ 0.14% : Norfolk terrier
+ 0.13% : frying pan
+ 0.11% : lumbermill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q011.jpg
+87.75% : lemon
+ 6.11% : orange
+ 0.22% : spaghetti squash
+ 0.14% : tennis ball
+ 0.09% : strainer
+ 0.09% : honeycomb
+ 0.08% : harvester
+ 0.06% : frying pan
+ 0.06% : Norfolk terrier
+ 0.05% : lumbermill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q012.jpg
+86.20% : lemon
+ 5.38% : orange
+ 0.25% : spaghetti squash
+ 0.23% : tennis ball
+ 0.12% : harvester
+ 0.12% : strainer
+ 0.11% : honeycomb
+ 0.08% : Norfolk terrier
+ 0.07% : frying pan
+ 0.06% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q013.jpg
+83.22% : lemon
+ 9.60% : orange
+ 0.26% : spaghetti squash
+ 0.09% : tennis ball
+ 0.08% : Norfolk terrier
+ 0.07% : honeycomb
+ 0.07% : strainer
+ 0.06% : harvester
+ 0.05% : bottlecap
+ 0.05% : lumbermill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q014.jpg
+84.11% : lemon
+ 8.09% : orange
+ 0.31% : spaghetti squash
+ 0.18% : tennis ball
+ 0.11% : strainer
+ 0.11% : harvester
+ 0.09% : frying pan
+ 0.08% : bottlecap
+ 0.08% : honeycomb
+ 0.07% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q015.jpg
+87.83% : lemon
+ 6.17% : orange
+ 0.18% : spaghetti squash
+ 0.10% : tennis ball
+ 0.10% : honeycomb
+ 0.08% : strainer
+ 0.06% : harvester
+ 0.05% : Norfolk terrier
+ 0.05% : frying pan
+ 0.04% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q016.jpg
+87.28% : lemon
+ 7.84% : orange
+ 0.26% : spaghetti squash
+ 0.14% : tennis ball
+ 0.07% : strainer
+ 0.05% : harvester
+ 0.04% : Norfolk terrier
+ 0.04% : honeycomb
+ 0.04% : frying pan
+ 0.04% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q017.jpg
+85.26% : lemon
+ 8.38% : orange
+ 0.37% : spaghetti squash
+ 0.12% : tennis ball
+ 0.07% : strainer
+ 0.07% : Norfolk terrier
+ 0.07% : harvester
+ 0.06% : frying pan
+ 0.05% : bottlecap
+ 0.05% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q018.jpg
+90.29% : lemon
+ 5.20% : orange
+ 0.24% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.04% : Norfolk terrier
+ 0.04% : honeycomb
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q019.jpg
+90.88% : lemon
+ 4.35% : orange
+ 0.26% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.04% : Norfolk terrier
+ 0.04% : harvester
+ 0.04% : honeycomb
+ 0.04% : frying pan
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q020.jpg
+88.40% : lemon
+ 5.93% : orange
+ 0.23% : spaghetti squash
+ 0.08% : tennis ball
+ 0.06% : strainer
+ 0.05% : Norfolk terrier
+ 0.05% : honeycomb
+ 0.05% : harvester
+ 0.05% : frying pan
+ 0.04% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q021.jpg
+88.93% : lemon
+ 5.20% : orange
+ 0.28% : spaghetti squash
+ 0.10% : tennis ball
+ 0.07% : strainer
+ 0.06% : frying pan
+ 0.05% : harvester
+ 0.05% : Norfolk terrier
+ 0.05% : honeycomb
+ 0.04% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q022.jpg
+88.06% : lemon
+ 7.09% : orange
+ 0.15% : spaghetti squash
+ 0.07% : tennis ball
+ 0.06% : strainer
+ 0.05% : honeycomb
+ 0.04% : bottlecap
+ 0.04% : frying pan
+ 0.04% : Norfolk terrier
+ 0.04% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q023.jpg
+88.93% : lemon
+ 6.91% : orange
+ 0.14% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.04% : frying pan
+ 0.03% : Norfolk terrier
+ 0.03% : bottlecap
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q024.jpg
+91.99% : lemon
+ 4.02% : orange
+ 0.15% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.04% : Norfolk terrier
+ 0.04% : honeycomb
+ 0.04% : harvester
+ 0.03% : pillow
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q025.jpg
+88.33% : lemon
+ 7.07% : orange
+ 0.15% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.05% : honeycomb
+ 0.04% : frying pan
+ 0.04% : harvester
+ 0.04% : Norfolk terrier
+ 0.04% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q026.jpg
+88.72% : lemon
+ 6.70% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.05% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.04% : frying pan
+ 0.04% : harvester
+ 0.04% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q027.jpg
+89.13% : lemon
+ 6.51% : orange
+ 0.16% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q028.jpg
+90.03% : lemon
+ 5.72% : orange
+ 0.17% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.04% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : pillow
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q029.jpg
+88.94% : lemon
+ 6.93% : orange
+ 0.11% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.04% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q030.jpg
+90.61% : lemon
+ 5.20% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q031.jpg
+89.70% : lemon
+ 6.44% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.04% : frying pan
+ 0.03% : harvester
+ 0.03% : Norfolk terrier
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q032.jpg
+90.97% : lemon
+ 5.76% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.02% : pillow
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q033.jpg
+92.45% : lemon
+ 4.08% : orange
+ 0.15% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : pillow
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q034.jpg
+90.67% : lemon
+ 5.42% : orange
+ 0.17% : spaghetti squash
+ 0.06% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.03% : frying pan
+ 0.03% : Norfolk terrier
+ 0.03% : bottlecap
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q035.jpg
+93.15% : lemon
+ 3.53% : orange
+ 0.15% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.02% : harvester
+ 0.02% : pillow
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q036.jpg
+91.18% : lemon
+ 4.82% : orange
+ 0.17% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q037.jpg
+91.48% : lemon
+ 4.67% : orange
+ 0.17% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q038.jpg
+91.68% : lemon
+ 4.29% : orange
+ 0.17% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : pillow
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q039.jpg
+92.05% : lemon
+ 4.43% : orange
+ 0.14% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.02% : harvester
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q040.jpg
+92.54% : lemon
+ 4.18% : orange
+ 0.12% : spaghetti squash
+ 0.06% : tennis ball
+ 0.03% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.02% : frying pan
+ 0.02% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q041.jpg
+93.46% : lemon
+ 3.48% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.03% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : honeycomb
+ 0.02% : pillow
+ 0.02% : frying pan
+ 0.02% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q042.jpg
+93.01% : lemon
+ 3.96% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.03% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : honeycomb
+ 0.02% : pillow
+ 0.02% : harvester
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q043.jpg
+92.95% : lemon
+ 4.08% : orange
+ 0.10% : spaghetti squash
+ 0.06% : tennis ball
+ 0.03% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : honeycomb
+ 0.02% : pillow
+ 0.02% : harvester
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q044.jpg
+91.69% : lemon
+ 4.63% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.03% : frying pan
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q045.jpg
+91.44% : lemon
+ 4.75% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : pillow
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q046.jpg
+91.10% : lemon
+ 5.16% : orange
+ 0.11% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q047.jpg
+91.22% : lemon
+ 5.08% : orange
+ 0.11% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q048.jpg
+90.87% : lemon
+ 5.35% : orange
+ 0.12% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : croquet ball
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q049.jpg
+90.25% : lemon
+ 5.41% : orange
+ 0.16% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q050.jpg
+90.14% : lemon
+ 5.54% : orange
+ 0.15% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q051.jpg
+90.15% : lemon
+ 5.53% : orange
+ 0.15% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q052.jpg
+92.18% : lemon
+ 4.38% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q053.jpg
+92.19% : lemon
+ 4.34% : orange
+ 0.14% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q054.jpg
+92.26% : lemon
+ 4.24% : orange
+ 0.14% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q055.jpg
+92.99% : lemon
+ 3.55% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q056.jpg
+92.60% : lemon
+ 3.74% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q057.jpg
+92.95% : lemon
+ 3.32% : orange
+ 0.14% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q058.jpg
+92.16% : lemon
+ 4.18% : orange
+ 0.14% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q059.jpg
+92.10% : lemon
+ 4.25% : orange
+ 0.14% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q060.jpg
+92.20% : lemon
+ 4.15% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q061.jpg
+92.82% : lemon
+ 3.71% : orange
+ 0.13% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q062.jpg
+92.95% : lemon
+ 3.64% : orange
+ 0.13% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.02% : pillow
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q063.jpg
+92.57% : lemon
+ 3.96% : orange
+ 0.12% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.03% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.02% : pillow
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q064.jpg
+91.80% : lemon
+ 4.58% : orange
+ 0.12% : spaghetti squash
+ 0.06% : tennis ball
+ 0.05% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q065.jpg
+91.96% : lemon
+ 4.50% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q066.jpg
+92.10% : lemon
+ 4.37% : orange
+ 0.13% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : bottlecap
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q067.jpg
+91.20% : lemon
+ 5.13% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : honeycomb
+ 0.04% : strainer
+ 0.04% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q068.jpg
+91.58% : lemon
+ 4.74% : orange
+ 0.14% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.03% : harvester
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q069.jpg
+91.64% : lemon
+ 4.79% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.03% : harvester
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q070.jpg
+92.17% : lemon
+ 4.07% : orange
+ 0.14% : spaghetti squash
+ 0.09% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q071.jpg
+93.11% : lemon
+ 3.55% : orange
+ 0.12% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.02% : harvester
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q072.jpg
+93.54% : lemon
+ 3.27% : orange
+ 0.11% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.02% : pillow
+ 0.02% : harvester
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q073.jpg
+93.66% : lemon
+ 3.28% : orange
+ 0.10% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.02% : pillow
+ 0.02% : frying pan
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q074.jpg
+92.68% : lemon
+ 3.94% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : pillow
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q075.jpg
+92.70% : lemon
+ 3.92% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : pillow
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q076.jpg
+92.79% : lemon
+ 3.92% : orange
+ 0.13% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : pillow
+ 0.03% : bottlecap
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q077.jpg
+92.63% : lemon
+ 4.07% : orange
+ 0.13% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : bottlecap
+ 0.03% : frying pan
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q078.jpg
+93.16% : lemon
+ 3.54% : orange
+ 0.12% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : bottlecap
+ 0.03% : harvester
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q079.jpg
+92.73% : lemon
+ 3.90% : orange
+ 0.12% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : bottlecap
+ 0.03% : harvester
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q080.jpg
+92.50% : lemon
+ 3.94% : orange
+ 0.13% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : bottlecap
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q081.jpg
+92.09% : lemon
+ 4.25% : orange
+ 0.12% : spaghetti squash
+ 0.07% : tennis ball
+ 0.05% : honeycomb
+ 0.04% : strainer
+ 0.04% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q082.jpg
+92.77% : lemon
+ 3.73% : orange
+ 0.13% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : pillow
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q083.jpg
+93.67% : lemon
+ 3.35% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.02% : bottlecap
+ 0.02% : harvester
+ 0.02% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q084.jpg
+93.88% : lemon
+ 3.13% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.03% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.02% : bottlecap
+ 0.02% : pillow
+ 0.02% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q085.jpg
+93.42% : lemon
+ 3.37% : orange
+ 0.10% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.03% : bottlecap
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q086.jpg
+92.97% : lemon
+ 3.68% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : pillow
+ 0.03% : harvester
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q087.jpg
+92.24% : lemon
+ 4.21% : orange
+ 0.12% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.04% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q088.jpg
+91.43% : lemon
+ 5.08% : orange
+ 0.11% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : honeycomb
+ 0.04% : strainer
+ 0.03% : Norfolk terrier
+ 0.03% : harvester
+ 0.03% : frying pan
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q089.jpg
+92.25% : lemon
+ 4.55% : orange
+ 0.11% : spaghetti squash
+ 0.05% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.02% : harvester
+ 0.02% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q090.jpg
+93.56% : lemon
+ 3.46% : orange
+ 0.10% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.03% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.02% : pillow
+ 0.02% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q091.jpg
+92.83% : lemon
+ 3.94% : orange
+ 0.10% : spaghetti squash
+ 0.06% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.03% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : bottlecap
+ 0.03% : pillow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q092.jpg
+93.02% : lemon
+ 3.67% : orange
+ 0.11% : spaghetti squash
+ 0.07% : tennis ball
+ 0.04% : strainer
+ 0.04% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.03% : frying pan
+ 0.03% : harvester
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q093.jpg
+90.49% : lemon
+ 5.38% : orange
+ 0.10% : spaghetti squash
+ 0.09% : tennis ball
+ 0.05% : honeycomb
+ 0.05% : strainer
+ 0.04% : Norfolk terrier
+ 0.04% : harvester
+ 0.04% : frying pan
+ 0.03% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q094.jpg
+89.99% : lemon
+ 5.37% : orange
+ 0.12% : spaghetti squash
+ 0.11% : tennis ball
+ 0.06% : honeycomb
+ 0.06% : strainer
+ 0.05% : Norfolk terrier
+ 0.05% : bottlecap
+ 0.05% : harvester
+ 0.05% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q095.jpg
+91.32% : lemon
+ 4.36% : orange
+ 0.12% : spaghetti squash
+ 0.10% : tennis ball
+ 0.05% : honeycomb
+ 0.05% : strainer
+ 0.05% : Norfolk terrier
+ 0.04% : bottlecap
+ 0.04% : harvester
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q096.jpg
+91.99% : lemon
+ 4.01% : orange
+ 0.12% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : honeycomb
+ 0.05% : strainer
+ 0.04% : Norfolk terrier
+ 0.04% : harvester
+ 0.04% : bottlecap
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q097.jpg
+91.55% : lemon
+ 4.54% : orange
+ 0.12% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.05% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.04% : bottlecap
+ 0.04% : frying pan
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q098.jpg
+91.72% : lemon
+ 4.33% : orange
+ 0.12% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : strainer
+ 0.05% : honeycomb
+ 0.04% : Norfolk terrier
+ 0.04% : harvester
+ 0.04% : bottlecap
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q099.jpg
+91.80% : lemon
+ 4.14% : orange
+ 0.13% : spaghetti squash
+ 0.08% : tennis ball
+ 0.05% : honeycomb
+ 0.05% : strainer
+ 0.04% : Norfolk terrier
+ 0.04% : harvester
+ 0.04% : frying pan
+ 0.04% : bottlecap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon23Q100.jpg
+91.65% : lemon
+ 4.20% : orange
+ 0.13% : spaghetti squash
+ 0.09% : tennis ball
+ 0.05% : strainer
+ 0.05% : honeycomb
+ 0.05% : Norfolk terrier
+ 0.04% : harvester
+ 0.04% : bottlecap
+ 0.04% : frying pan

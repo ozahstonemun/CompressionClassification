@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q001.jpg
+79.94% : tennis ball
+11.82% : lemon
+ 1.70% : orange
+ 0.87% : broom
+ 0.63% : rubber eraser
+ 0.38% : Granny Smith
+ 0.30% : candle
+ 0.29% : croquet ball
+ 0.17% : racket
+ 0.16% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q002.jpg
+79.86% : tennis ball
+11.97% : lemon
+ 1.69% : orange
+ 0.86% : broom
+ 0.63% : rubber eraser
+ 0.38% : Granny Smith
+ 0.30% : candle
+ 0.29% : croquet ball
+ 0.17% : racket
+ 0.16% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q003.jpg
+79.74% : tennis ball
+11.48% : lemon
+ 1.61% : orange
+ 0.82% : broom
+ 0.66% : rubber eraser
+ 0.42% : croquet ball
+ 0.41% : candle
+ 0.35% : Granny Smith
+ 0.24% : shopping basket
+ 0.17% : racket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q004.jpg
+57.93% : orange
+10.86% : lemon
+ 8.43% : pineapple
+ 4.21% : strawberry
+ 1.47% : shopping basket
+ 1.43% : candle
+ 0.95% : banana
+ 0.78% : croquet ball
+ 0.64% : confectionery
+ 0.47% : bucket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q005.jpg
+47.23% : lemon
+17.97% : orange
+ 3.08% : shopping basket
+ 2.84% : broom
+ 1.82% : strawberry
+ 1.73% : tennis ball
+ 1.51% : Granny Smith
+ 1.41% : spaghetti squash
+ 0.69% : pineapple
+ 0.64% : shovel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q006.jpg
+50.99% : lemon
+18.01% : orange
+ 2.02% : shopping basket
+ 1.66% : spaghetti squash
+ 1.37% : tennis ball
+ 1.33% : strawberry
+ 1.26% : crate
+ 1.14% : croquet ball
+ 0.82% : broom
+ 0.78% : shovel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q007.jpg
+14.58% : shopping basket
+13.82% : orange
+ 9.46% : crate
+ 9.33% : lemon
+ 2.87% : grocery store
+ 2.35% : carton
+ 2.21% : broom
+ 1.63% : croquet ball
+ 1.42% : candle
+ 1.35% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q008.jpg
+49.89% : lemon
+ 8.86% : spaghetti squash
+ 7.70% : shopping basket
+ 7.55% : orange
+ 1.91% : Granny Smith
+ 1.45% : broom
+ 1.21% : grocery store
+ 1.14% : croquet ball
+ 1.14% : tennis ball
+ 0.80% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q009.jpg
+44.80% : lemon
+ 8.15% : orange
+ 4.67% : spaghetti squash
+ 4.36% : shopping basket
+ 3.25% : croquet ball
+ 1.79% : tennis ball
+ 1.77% : crate
+ 1.74% : Granny Smith
+ 1.22% : broom
+ 0.77% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q010.jpg
+29.21% : lemon
+ 9.29% : orange
+ 8.17% : shopping basket
+ 3.21% : crate
+ 3.08% : broom
+ 2.31% : shovel
+ 2.24% : spaghetti squash
+ 1.65% : grocery store
+ 1.48% : wool
+ 1.21% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q011.jpg
+37.67% : lemon
+13.36% : shopping basket
+ 5.28% : spaghetti squash
+ 4.15% : orange
+ 2.24% : grocery store
+ 2.02% : Granny Smith
+ 1.58% : strawberry
+ 1.31% : shovel
+ 1.22% : broom
+ 1.16% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q012.jpg
+42.46% : lemon
+ 5.52% : shopping basket
+ 4.93% : spaghetti squash
+ 3.80% : orange
+ 1.77% : grocery store
+ 1.66% : shovel
+ 1.44% : crate
+ 1.11% : Granny Smith
+ 1.09% : broom
+ 1.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q013.jpg
+53.66% : lemon
+ 5.82% : orange
+ 4.89% : shopping basket
+ 3.98% : spaghetti squash
+ 1.50% : shovel
+ 1.25% : croquet ball
+ 1.15% : broom
+ 1.13% : strawberry
+ 1.04% : grocery store
+ 0.98% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q014.jpg
+71.21% : lemon
+ 4.89% : orange
+ 4.46% : spaghetti squash
+ 3.10% : shopping basket
+ 1.13% : shovel
+ 0.76% : Granny Smith
+ 0.62% : strawberry
+ 0.57% : broom
+ 0.44% : tennis ball
+ 0.44% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q015.jpg
+59.18% : lemon
+ 7.11% : orange
+ 6.39% : shopping basket
+ 3.23% : spaghetti squash
+ 1.40% : shovel
+ 1.13% : Granny Smith
+ 1.13% : croquet ball
+ 0.86% : strawberry
+ 0.82% : plastic bag
+ 0.79% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q016.jpg
+63.24% : lemon
+ 5.89% : orange
+ 5.26% : shopping basket
+ 4.57% : spaghetti squash
+ 1.18% : Granny Smith
+ 0.94% : croquet ball
+ 0.89% : strawberry
+ 0.72% : plastic bag
+ 0.72% : tennis ball
+ 0.61% : shovel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q017.jpg
+42.57% : lemon
+ 9.15% : shopping basket
+ 6.19% : orange
+ 5.37% : spaghetti squash
+ 1.84% : croquet ball
+ 1.80% : grocery store
+ 1.35% : Granny Smith
+ 1.26% : wool
+ 1.14% : shovel
+ 1.08% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q018.jpg
+49.76% : lemon
+ 7.82% : orange
+ 6.91% : shopping basket
+ 4.76% : spaghetti squash
+ 1.30% : Granny Smith
+ 1.24% : French loaf
+ 1.16% : shovel
+ 1.09% : grocery store
+ 1.00% : croquet ball
+ 0.98% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q019.jpg
+54.23% : lemon
+ 6.59% : orange
+ 6.15% : shopping basket
+ 5.93% : spaghetti squash
+ 1.32% : croquet ball
+ 1.20% : Granny Smith
+ 1.02% : grocery store
+ 0.94% : shovel
+ 0.75% : strawberry
+ 0.68% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q020.jpg
+61.83% : lemon
+ 5.49% : shopping basket
+ 5.32% : orange
+ 4.77% : spaghetti squash
+ 0.99% : croquet ball
+ 0.95% : Granny Smith
+ 0.81% : grocery store
+ 0.71% : shovel
+ 0.64% : plastic bag
+ 0.63% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q021.jpg
+65.89% : lemon
+ 6.59% : orange
+ 4.87% : shopping basket
+ 2.63% : spaghetti squash
+ 1.27% : Granny Smith
+ 0.78% : plastic bag
+ 0.72% : croquet ball
+ 0.68% : grocery store
+ 0.56% : French loaf
+ 0.56% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q022.jpg
+69.54% : lemon
+ 6.26% : orange
+ 4.34% : shopping basket
+ 2.31% : spaghetti squash
+ 1.48% : Granny Smith
+ 0.82% : croquet ball
+ 0.74% : shovel
+ 0.71% : strawberry
+ 0.61% : tennis ball
+ 0.58% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q023.jpg
+67.25% : lemon
+ 7.89% : orange
+ 3.92% : shopping basket
+ 2.40% : spaghetti squash
+ 1.35% : Granny Smith
+ 0.87% : croquet ball
+ 0.70% : plastic bag
+ 0.63% : strawberry
+ 0.60% : tennis ball
+ 0.53% : shovel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q024.jpg
+73.60% : lemon
+ 6.22% : orange
+ 2.23% : shopping basket
+ 2.23% : spaghetti squash
+ 1.14% : Granny Smith
+ 0.92% : croquet ball
+ 0.74% : tennis ball
+ 0.55% : strawberry
+ 0.52% : shovel
+ 0.51% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q025.jpg
+73.00% : lemon
+ 5.88% : orange
+ 2.96% : shopping basket
+ 2.70% : spaghetti squash
+ 1.43% : Granny Smith
+ 0.74% : croquet ball
+ 0.67% : tennis ball
+ 0.57% : strawberry
+ 0.55% : shovel
+ 0.47% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q026.jpg
+65.19% : lemon
+ 7.63% : orange
+ 3.02% : shopping basket
+ 2.86% : spaghetti squash
+ 1.40% : Granny Smith
+ 0.81% : croquet ball
+ 0.80% : shovel
+ 0.78% : strawberry
+ 0.61% : plastic bag
+ 0.58% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q027.jpg
+75.85% : lemon
+ 6.83% : orange
+ 1.96% : spaghetti squash
+ 1.66% : shopping basket
+ 1.15% : Granny Smith
+ 0.50% : strawberry
+ 0.49% : croquet ball
+ 0.47% : shovel
+ 0.45% : plastic bag
+ 0.40% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q028.jpg
+77.06% : lemon
+ 6.62% : orange
+ 1.74% : spaghetti squash
+ 1.63% : shopping basket
+ 0.69% : Granny Smith
+ 0.57% : croquet ball
+ 0.46% : shovel
+ 0.45% : tennis ball
+ 0.42% : strawberry
+ 0.36% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q029.jpg
+76.72% : lemon
+ 7.09% : orange
+ 1.62% : spaghetti squash
+ 1.56% : shopping basket
+ 0.67% : Granny Smith
+ 0.50% : shovel
+ 0.49% : strawberry
+ 0.47% : tennis ball
+ 0.46% : croquet ball
+ 0.37% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q030.jpg
+67.87% : lemon
+ 7.56% : orange
+ 2.77% : spaghetti squash
+ 2.29% : shopping basket
+ 0.91% : Granny Smith
+ 0.83% : strawberry
+ 0.72% : shovel
+ 0.64% : plastic bag
+ 0.62% : croquet ball
+ 0.43% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q031.jpg
+71.27% : lemon
+ 8.01% : orange
+ 2.41% : spaghetti squash
+ 2.11% : shopping basket
+ 0.80% : Granny Smith
+ 0.71% : shovel
+ 0.69% : strawberry
+ 0.54% : croquet ball
+ 0.47% : plastic bag
+ 0.40% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q032.jpg
+75.29% : lemon
+ 8.72% : orange
+ 1.58% : spaghetti squash
+ 1.39% : shopping basket
+ 0.67% : Granny Smith
+ 0.57% : croquet ball
+ 0.51% : strawberry
+ 0.42% : shovel
+ 0.40% : tennis ball
+ 0.35% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q033.jpg
+73.57% : lemon
+ 9.28% : orange
+ 1.83% : shopping basket
+ 1.32% : spaghetti squash
+ 0.59% : Granny Smith
+ 0.50% : croquet ball
+ 0.49% : shovel
+ 0.47% : strawberry
+ 0.46% : tennis ball
+ 0.39% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q034.jpg
+76.38% : lemon
+ 7.98% : orange
+ 1.46% : spaghetti squash
+ 1.32% : shopping basket
+ 0.66% : Granny Smith
+ 0.51% : croquet ball
+ 0.45% : shovel
+ 0.44% : strawberry
+ 0.39% : tennis ball
+ 0.30% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q035.jpg
+73.20% : lemon
+ 9.93% : orange
+ 1.49% : shopping basket
+ 1.48% : spaghetti squash
+ 0.67% : Granny Smith
+ 0.64% : shovel
+ 0.50% : strawberry
+ 0.47% : croquet ball
+ 0.37% : tennis ball
+ 0.33% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q036.jpg
+70.94% : lemon
+ 8.91% : orange
+ 2.38% : shopping basket
+ 1.97% : spaghetti squash
+ 0.96% : Granny Smith
+ 0.62% : shovel
+ 0.61% : strawberry
+ 0.51% : croquet ball
+ 0.49% : tennis ball
+ 0.43% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q037.jpg
+70.74% : lemon
+ 8.59% : orange
+ 2.58% : shopping basket
+ 1.95% : spaghetti squash
+ 1.01% : Granny Smith
+ 0.67% : shovel
+ 0.60% : strawberry
+ 0.50% : croquet ball
+ 0.47% : tennis ball
+ 0.45% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q038.jpg
+74.15% : lemon
+ 8.07% : orange
+ 2.06% : shopping basket
+ 1.63% : spaghetti squash
+ 0.93% : Granny Smith
+ 0.57% : shovel
+ 0.54% : strawberry
+ 0.44% : plastic bag
+ 0.42% : croquet ball
+ 0.36% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q039.jpg
+68.79% : lemon
+ 8.28% : orange
+ 2.80% : shopping basket
+ 1.89% : spaghetti squash
+ 1.13% : Granny Smith
+ 0.69% : strawberry
+ 0.57% : shovel
+ 0.52% : plastic bag
+ 0.45% : croquet ball
+ 0.44% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q040.jpg
+73.36% : lemon
+ 8.35% : orange
+ 1.91% : shopping basket
+ 1.76% : spaghetti squash
+ 0.89% : Granny Smith
+ 0.57% : strawberry
+ 0.52% : shovel
+ 0.45% : plastic bag
+ 0.41% : tennis ball
+ 0.38% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q041.jpg
+73.01% : lemon
+ 7.96% : orange
+ 2.14% : shopping basket
+ 2.05% : spaghetti squash
+ 0.83% : Granny Smith
+ 0.68% : shovel
+ 0.54% : strawberry
+ 0.46% : tennis ball
+ 0.45% : croquet ball
+ 0.40% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q042.jpg
+72.77% : lemon
+ 8.80% : orange
+ 2.45% : shopping basket
+ 1.92% : spaghetti squash
+ 0.78% : Granny Smith
+ 0.58% : shovel
+ 0.57% : strawberry
+ 0.55% : tennis ball
+ 0.44% : croquet ball
+ 0.34% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q043.jpg
+74.01% : lemon
+ 8.98% : orange
+ 2.28% : shopping basket
+ 1.79% : spaghetti squash
+ 0.76% : Granny Smith
+ 0.53% : strawberry
+ 0.53% : tennis ball
+ 0.49% : shovel
+ 0.40% : croquet ball
+ 0.31% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q044.jpg
+74.64% : lemon
+ 8.07% : orange
+ 2.06% : shopping basket
+ 1.80% : spaghetti squash
+ 0.95% : Granny Smith
+ 0.57% : strawberry
+ 0.54% : tennis ball
+ 0.51% : shovel
+ 0.45% : croquet ball
+ 0.36% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q045.jpg
+74.13% : lemon
+ 8.14% : orange
+ 2.07% : shopping basket
+ 1.57% : spaghetti squash
+ 1.01% : Granny Smith
+ 0.56% : strawberry
+ 0.54% : tennis ball
+ 0.50% : shovel
+ 0.48% : croquet ball
+ 0.38% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q046.jpg
+74.34% : lemon
+ 7.21% : orange
+ 2.25% : shopping basket
+ 1.93% : spaghetti squash
+ 0.81% : Granny Smith
+ 0.62% : tennis ball
+ 0.50% : strawberry
+ 0.49% : shovel
+ 0.47% : croquet ball
+ 0.42% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q047.jpg
+74.01% : lemon
+ 7.34% : orange
+ 2.12% : shopping basket
+ 1.96% : spaghetti squash
+ 0.83% : Granny Smith
+ 0.61% : tennis ball
+ 0.49% : shovel
+ 0.48% : strawberry
+ 0.44% : croquet ball
+ 0.42% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q048.jpg
+73.73% : lemon
+ 7.35% : orange
+ 2.24% : shopping basket
+ 2.24% : spaghetti squash
+ 0.86% : Granny Smith
+ 0.74% : tennis ball
+ 0.50% : croquet ball
+ 0.47% : strawberry
+ 0.42% : plastic bag
+ 0.42% : shovel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q049.jpg
+73.85% : lemon
+ 9.79% : orange
+ 1.76% : shopping basket
+ 1.49% : spaghetti squash
+ 0.76% : Granny Smith
+ 0.48% : strawberry
+ 0.47% : tennis ball
+ 0.42% : croquet ball
+ 0.41% : shovel
+ 0.37% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q050.jpg
+74.39% : lemon
+ 9.57% : orange
+ 1.70% : shopping basket
+ 1.46% : spaghetti squash
+ 0.73% : Granny Smith
+ 0.47% : strawberry
+ 0.46% : tennis ball
+ 0.42% : croquet ball
+ 0.41% : shovel
+ 0.36% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q051.jpg
+74.22% : lemon
+ 9.73% : orange
+ 1.71% : shopping basket
+ 1.43% : spaghetti squash
+ 0.73% : Granny Smith
+ 0.47% : strawberry
+ 0.46% : tennis ball
+ 0.42% : croquet ball
+ 0.39% : shovel
+ 0.37% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q052.jpg
+68.76% : lemon
+ 9.42% : orange
+ 2.58% : shopping basket
+ 1.78% : spaghetti squash
+ 1.00% : Granny Smith
+ 0.69% : strawberry
+ 0.60% : tennis ball
+ 0.56% : croquet ball
+ 0.55% : shovel
+ 0.52% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q053.jpg
+66.54% : lemon
+ 9.42% : orange
+ 2.93% : shopping basket
+ 1.98% : spaghetti squash
+ 1.04% : Granny Smith
+ 0.78% : strawberry
+ 0.67% : tennis ball
+ 0.65% : croquet ball
+ 0.62% : shovel
+ 0.55% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q054.jpg
+66.68% : lemon
+ 9.67% : orange
+ 3.00% : shopping basket
+ 1.84% : spaghetti squash
+ 1.04% : Granny Smith
+ 0.77% : strawberry
+ 0.66% : tennis ball
+ 0.65% : croquet ball
+ 0.63% : shovel
+ 0.54% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q055.jpg
+65.86% : lemon
+ 9.84% : orange
+ 3.77% : shopping basket
+ 2.06% : spaghetti squash
+ 1.05% : Granny Smith
+ 0.80% : croquet ball
+ 0.77% : strawberry
+ 0.63% : tennis ball
+ 0.59% : shovel
+ 0.45% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q056.jpg
+65.03% : lemon
+10.23% : orange
+ 3.90% : shopping basket
+ 2.00% : spaghetti squash
+ 1.16% : Granny Smith
+ 0.78% : strawberry
+ 0.75% : croquet ball
+ 0.65% : shovel
+ 0.59% : tennis ball
+ 0.45% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q057.jpg
+66.02% : lemon
+10.94% : orange
+ 3.55% : shopping basket
+ 1.79% : spaghetti squash
+ 1.02% : Granny Smith
+ 0.75% : strawberry
+ 0.66% : croquet ball
+ 0.63% : shovel
+ 0.49% : tennis ball
+ 0.42% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q058.jpg
+66.20% : lemon
+11.03% : orange
+ 2.85% : shopping basket
+ 1.62% : spaghetti squash
+ 0.95% : Granny Smith
+ 0.89% : croquet ball
+ 0.73% : tennis ball
+ 0.71% : strawberry
+ 0.70% : shovel
+ 0.46% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q059.jpg
+64.22% : lemon
+11.30% : orange
+ 3.30% : shopping basket
+ 1.67% : spaghetti squash
+ 1.04% : Granny Smith
+ 0.90% : croquet ball
+ 0.81% : strawberry
+ 0.75% : shovel
+ 0.74% : tennis ball
+ 0.52% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q060.jpg
+63.40% : lemon
+11.46% : orange
+ 3.46% : shopping basket
+ 1.68% : spaghetti squash
+ 1.05% : Granny Smith
+ 0.85% : strawberry
+ 0.84% : croquet ball
+ 0.76% : shovel
+ 0.71% : tennis ball
+ 0.51% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q061.jpg
+66.81% : lemon
+12.09% : orange
+ 3.03% : shopping basket
+ 1.43% : spaghetti squash
+ 0.95% : Granny Smith
+ 0.87% : strawberry
+ 0.62% : croquet ball
+ 0.58% : shovel
+ 0.54% : tennis ball
+ 0.47% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q062.jpg
+67.91% : lemon
+12.25% : orange
+ 2.84% : shopping basket
+ 1.40% : spaghetti squash
+ 0.88% : Granny Smith
+ 0.79% : strawberry
+ 0.59% : croquet ball
+ 0.56% : shovel
+ 0.53% : tennis ball
+ 0.43% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q063.jpg
+65.03% : lemon
+12.31% : orange
+ 3.68% : shopping basket
+ 1.75% : spaghetti squash
+ 1.09% : Granny Smith
+ 0.91% : strawberry
+ 0.72% : croquet ball
+ 0.62% : shovel
+ 0.60% : tennis ball
+ 0.48% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q064.jpg
+65.13% : lemon
+13.82% : orange
+ 3.06% : shopping basket
+ 1.64% : spaghetti squash
+ 0.98% : Granny Smith
+ 0.89% : strawberry
+ 0.62% : croquet ball
+ 0.55% : tennis ball
+ 0.51% : shovel
+ 0.43% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q065.jpg
+62.08% : lemon
+13.73% : orange
+ 3.66% : shopping basket
+ 1.71% : spaghetti squash
+ 1.04% : Granny Smith
+ 0.88% : strawberry
+ 0.71% : croquet ball
+ 0.67% : shovel
+ 0.60% : tennis ball
+ 0.51% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q066.jpg
+61.41% : lemon
+12.37% : orange
+ 3.77% : shopping basket
+ 1.93% : spaghetti squash
+ 1.13% : Granny Smith
+ 0.93% : strawberry
+ 0.77% : croquet ball
+ 0.76% : shovel
+ 0.60% : tennis ball
+ 0.57% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q067.jpg
+68.53% : lemon
+ 9.99% : orange
+ 2.86% : shopping basket
+ 1.55% : spaghetti squash
+ 1.01% : Granny Smith
+ 0.77% : strawberry
+ 0.71% : croquet ball
+ 0.63% : shovel
+ 0.55% : tennis ball
+ 0.48% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q068.jpg
+66.16% : lemon
+ 9.61% : orange
+ 3.30% : shopping basket
+ 1.82% : spaghetti squash
+ 1.19% : Granny Smith
+ 0.81% : strawberry
+ 0.79% : croquet ball
+ 0.79% : shovel
+ 0.59% : tennis ball
+ 0.50% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q069.jpg
+65.88% : lemon
+ 9.84% : orange
+ 3.00% : shopping basket
+ 1.74% : spaghetti squash
+ 1.20% : Granny Smith
+ 0.90% : croquet ball
+ 0.83% : shovel
+ 0.76% : strawberry
+ 0.65% : tennis ball
+ 0.51% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q070.jpg
+63.80% : lemon
+12.40% : orange
+ 3.30% : shopping basket
+ 1.78% : spaghetti squash
+ 1.11% : Granny Smith
+ 0.87% : croquet ball
+ 0.76% : strawberry
+ 0.75% : shovel
+ 0.57% : tennis ball
+ 0.46% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q071.jpg
+63.93% : lemon
+12.15% : orange
+ 3.09% : shopping basket
+ 1.64% : spaghetti squash
+ 1.05% : Granny Smith
+ 0.86% : strawberry
+ 0.77% : croquet ball
+ 0.71% : shovel
+ 0.54% : tennis ball
+ 0.49% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q072.jpg
+65.66% : lemon
+11.59% : orange
+ 2.87% : shopping basket
+ 1.66% : spaghetti squash
+ 1.02% : Granny Smith
+ 0.82% : strawberry
+ 0.72% : croquet ball
+ 0.69% : shovel
+ 0.48% : tennis ball
+ 0.45% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q073.jpg
+64.51% : lemon
+11.46% : orange
+ 3.81% : shopping basket
+ 1.59% : spaghetti squash
+ 1.12% : Granny Smith
+ 0.88% : strawberry
+ 0.74% : croquet ball
+ 0.62% : shovel
+ 0.52% : tennis ball
+ 0.46% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q074.jpg
+64.99% : lemon
+11.91% : orange
+ 3.33% : shopping basket
+ 1.52% : spaghetti squash
+ 0.94% : Granny Smith
+ 0.82% : strawberry
+ 0.82% : croquet ball
+ 0.64% : shovel
+ 0.55% : tennis ball
+ 0.50% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q075.jpg
+64.36% : lemon
+11.92% : orange
+ 3.35% : shopping basket
+ 1.54% : spaghetti squash
+ 0.99% : Granny Smith
+ 0.85% : strawberry
+ 0.84% : croquet ball
+ 0.64% : shovel
+ 0.56% : tennis ball
+ 0.51% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q076.jpg
+63.03% : lemon
+12.79% : orange
+ 4.04% : shopping basket
+ 1.42% : spaghetti squash
+ 0.98% : Granny Smith
+ 0.84% : strawberry
+ 0.75% : croquet ball
+ 0.58% : shovel
+ 0.54% : plastic bag
+ 0.52% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q077.jpg
+64.78% : lemon
+11.52% : orange
+ 4.02% : shopping basket
+ 1.42% : spaghetti squash
+ 0.98% : Granny Smith
+ 0.85% : croquet ball
+ 0.80% : strawberry
+ 0.57% : shovel
+ 0.55% : tennis ball
+ 0.55% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q078.jpg
+62.41% : lemon
+10.27% : orange
+ 3.99% : shopping basket
+ 2.10% : spaghetti squash
+ 1.10% : Granny Smith
+ 1.09% : croquet ball
+ 0.78% : shovel
+ 0.76% : strawberry
+ 0.66% : tennis ball
+ 0.66% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q079.jpg
+62.51% : lemon
+ 9.98% : orange
+ 3.88% : shopping basket
+ 2.15% : spaghetti squash
+ 1.13% : Granny Smith
+ 0.95% : croquet ball
+ 0.80% : shovel
+ 0.79% : strawberry
+ 0.67% : plastic bag
+ 0.62% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q080.jpg
+65.73% : lemon
+10.22% : orange
+ 3.22% : shopping basket
+ 1.88% : spaghetti squash
+ 1.06% : Granny Smith
+ 0.76% : strawberry
+ 0.73% : croquet ball
+ 0.60% : shovel
+ 0.57% : plastic bag
+ 0.54% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q081.jpg
+67.17% : lemon
+ 9.86% : orange
+ 3.06% : shopping basket
+ 1.94% : spaghetti squash
+ 1.06% : Granny Smith
+ 0.73% : strawberry
+ 0.59% : croquet ball
+ 0.55% : shovel
+ 0.50% : plastic bag
+ 0.46% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q082.jpg
+67.08% : lemon
+10.04% : orange
+ 3.25% : shopping basket
+ 2.06% : spaghetti squash
+ 1.10% : Granny Smith
+ 0.74% : strawberry
+ 0.59% : croquet ball
+ 0.57% : shovel
+ 0.52% : plastic bag
+ 0.47% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q083.jpg
+70.05% : lemon
+ 9.07% : orange
+ 2.47% : shopping basket
+ 1.97% : spaghetti squash
+ 1.01% : Granny Smith
+ 0.59% : strawberry
+ 0.59% : croquet ball
+ 0.52% : shovel
+ 0.49% : tennis ball
+ 0.46% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q084.jpg
+68.37% : lemon
+ 9.71% : orange
+ 2.51% : shopping basket
+ 2.05% : spaghetti squash
+ 1.10% : Granny Smith
+ 0.61% : croquet ball
+ 0.60% : strawberry
+ 0.53% : shovel
+ 0.51% : tennis ball
+ 0.47% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q085.jpg
+67.06% : lemon
+10.08% : orange
+ 2.92% : shopping basket
+ 1.98% : spaghetti squash
+ 1.26% : Granny Smith
+ 0.63% : strawberry
+ 0.60% : croquet ball
+ 0.54% : shovel
+ 0.51% : tennis ball
+ 0.47% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q086.jpg
+68.36% : lemon
+10.07% : orange
+ 2.73% : shopping basket
+ 1.93% : spaghetti squash
+ 1.14% : Granny Smith
+ 0.65% : strawberry
+ 0.56% : croquet ball
+ 0.50% : shovel
+ 0.48% : tennis ball
+ 0.41% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q087.jpg
+68.87% : lemon
+11.79% : orange
+ 2.30% : shopping basket
+ 1.58% : spaghetti squash
+ 1.01% : Granny Smith
+ 0.60% : strawberry
+ 0.55% : croquet ball
+ 0.46% : shovel
+ 0.45% : tennis ball
+ 0.40% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q088.jpg
+70.11% : lemon
+10.76% : orange
+ 2.24% : shopping basket
+ 1.55% : spaghetti squash
+ 1.07% : Granny Smith
+ 0.63% : strawberry
+ 0.55% : shovel
+ 0.52% : croquet ball
+ 0.45% : tennis ball
+ 0.40% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q089.jpg
+70.24% : lemon
+11.01% : orange
+ 2.28% : shopping basket
+ 1.57% : spaghetti squash
+ 1.00% : Granny Smith
+ 0.63% : strawberry
+ 0.57% : shovel
+ 0.54% : croquet ball
+ 0.43% : tennis ball
+ 0.41% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q090.jpg
+66.53% : lemon
+10.88% : orange
+ 3.49% : shopping basket
+ 1.83% : spaghetti squash
+ 1.25% : Granny Smith
+ 0.78% : strawberry
+ 0.62% : croquet ball
+ 0.60% : shovel
+ 0.49% : plastic bag
+ 0.44% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q091.jpg
+62.85% : lemon
+12.32% : orange
+ 3.70% : shopping basket
+ 1.51% : spaghetti squash
+ 1.43% : Granny Smith
+ 0.90% : strawberry
+ 0.61% : croquet ball
+ 0.58% : shovel
+ 0.54% : plastic bag
+ 0.49% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q092.jpg
+58.65% : lemon
+14.94% : orange
+ 4.38% : shopping basket
+ 1.68% : spaghetti squash
+ 1.32% : Granny Smith
+ 1.10% : strawberry
+ 0.70% : hamper
+ 0.66% : croquet ball
+ 0.62% : shovel
+ 0.52% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q093.jpg
+55.36% : lemon
+18.07% : orange
+ 4.80% : shopping basket
+ 1.57% : spaghetti squash
+ 1.12% : strawberry
+ 1.05% : Granny Smith
+ 0.75% : hamper
+ 0.62% : croquet ball
+ 0.56% : shovel
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q094.jpg
+56.01% : lemon
+16.28% : orange
+ 4.77% : shopping basket
+ 1.76% : spaghetti squash
+ 1.20% : Granny Smith
+ 0.95% : strawberry
+ 0.76% : hamper
+ 0.65% : shovel
+ 0.57% : plastic bag
+ 0.57% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q095.jpg
+57.22% : lemon
+14.93% : orange
+ 4.49% : shopping basket
+ 1.86% : spaghetti squash
+ 1.21% : Granny Smith
+ 0.91% : strawberry
+ 0.72% : hamper
+ 0.63% : shovel
+ 0.60% : croquet ball
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q096.jpg
+60.28% : lemon
+13.92% : orange
+ 4.15% : shopping basket
+ 1.89% : spaghetti squash
+ 1.19% : Granny Smith
+ 0.89% : strawberry
+ 0.61% : hamper
+ 0.58% : shovel
+ 0.54% : plastic bag
+ 0.54% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q097.jpg
+60.26% : lemon
+13.43% : orange
+ 4.04% : shopping basket
+ 1.74% : spaghetti squash
+ 1.28% : Granny Smith
+ 0.87% : strawberry
+ 0.60% : shovel
+ 0.60% : hamper
+ 0.56% : croquet ball
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q098.jpg
+59.33% : lemon
+13.38% : orange
+ 4.34% : shopping basket
+ 1.94% : spaghetti squash
+ 1.33% : Granny Smith
+ 0.90% : strawberry
+ 0.65% : hamper
+ 0.64% : shovel
+ 0.58% : croquet ball
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q099.jpg
+60.62% : lemon
+13.27% : orange
+ 4.04% : shopping basket
+ 1.90% : spaghetti squash
+ 1.29% : Granny Smith
+ 0.84% : strawberry
+ 0.63% : hamper
+ 0.56% : croquet ball
+ 0.56% : shovel
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon28Q100.jpg
+58.83% : lemon
+13.36% : orange
+ 4.48% : shopping basket
+ 2.05% : spaghetti squash
+ 1.31% : Granny Smith
+ 0.86% : strawberry
+ 0.67% : hamper
+ 0.64% : croquet ball
+ 0.58% : shovel
+ 0.56% : plastic bag

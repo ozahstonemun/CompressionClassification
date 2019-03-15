@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q001.jpg
+98.55% : strawberry
+ 0.09% : agaric
+ 0.03% : pomegranate
+ 0.03% : pineapple
+ 0.02% : packet
+ 0.02% : hip
+ 0.02% : chocolate sauce
+ 0.02% : meat loaf
+ 0.02% : tray
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q002.jpg
+98.55% : strawberry
+ 0.09% : agaric
+ 0.03% : pomegranate
+ 0.03% : pineapple
+ 0.02% : packet
+ 0.02% : hip
+ 0.02% : chocolate sauce
+ 0.02% : meat loaf
+ 0.02% : tray
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q003.jpg
+98.86% : strawberry
+ 0.09% : agaric
+ 0.03% : pomegranate
+ 0.02% : pineapple
+ 0.02% : chocolate sauce
+ 0.02% : hip
+ 0.02% : fig
+ 0.02% : banana
+ 0.01% : tray
+ 0.01% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q004.jpg
+99.11% : strawberry
+ 0.03% : banana
+ 0.02% : pineapple
+ 0.02% : chocolate sauce
+ 0.01% : hamper
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : agaric
+ 0.01% : tray
+ 0.01% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q005.jpg
+97.68% : strawberry
+ 0.11% : banana
+ 0.06% : chocolate sauce
+ 0.05% : Leonberg
+ 0.03% : pineapple
+ 0.03% : tray
+ 0.03% : fig
+ 0.03% : pomegranate
+ 0.03% : Tibetan mastiff
+ 0.02% : ringneck snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q006.jpg
+97.49% : strawberry
+ 0.11% : banana
+ 0.05% : fig
+ 0.03% : chocolate sauce
+ 0.03% : pineapple
+ 0.03% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.02% : Tibetan mastiff
+ 0.02% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q007.jpg
+98.08% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : pineapple
+ 0.03% : chocolate sauce
+ 0.03% : Leonberg
+ 0.02% : ringneck snake
+ 0.02% : trifle
+ 0.02% : Tibetan mastiff
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q008.jpg
+98.20% : strawberry
+ 0.12% : banana
+ 0.03% : Leonberg
+ 0.03% : chocolate sauce
+ 0.03% : fig
+ 0.03% : pineapple
+ 0.02% : ringneck snake
+ 0.02% : tray
+ 0.02% : Tibetan mastiff
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q009.jpg
+98.76% : strawberry
+ 0.10% : banana
+ 0.03% : Leonberg
+ 0.02% : fig
+ 0.02% : chocolate sauce
+ 0.02% : ringneck snake
+ 0.02% : tray
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.01% : Tibetan mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q010.jpg
+98.93% : strawberry
+ 0.11% : banana
+ 0.03% : Leonberg
+ 0.02% : ringneck snake
+ 0.02% : chocolate sauce
+ 0.01% : tray
+ 0.01% : Tibetan mastiff
+ 0.01% : pineapple
+ 0.01% : bull mastiff
+ 0.01% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q011.jpg
+98.60% : strawberry
+ 0.12% : banana
+ 0.03% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : fig
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.02% : Tibetan mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q012.jpg
+98.97% : strawberry
+ 0.10% : banana
+ 0.02% : tray
+ 0.02% : Leonberg
+ 0.02% : ringneck snake
+ 0.02% : chocolate sauce
+ 0.02% : fig
+ 0.02% : pineapple
+ 0.01% : Tibetan mastiff
+ 0.01% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q013.jpg
+98.58% : strawberry
+ 0.13% : banana
+ 0.03% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : fig
+ 0.03% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q014.jpg
+98.58% : strawberry
+ 0.11% : banana
+ 0.05% : tray
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : fig
+ 0.02% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q015.jpg
+98.76% : strawberry
+ 0.10% : banana
+ 0.04% : tray
+ 0.03% : Leonberg
+ 0.02% : ringneck snake
+ 0.02% : fig
+ 0.02% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.01% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q016.jpg
+98.67% : strawberry
+ 0.12% : banana
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.02% : chocolate sauce
+ 0.02% : fig
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q017.jpg
+98.59% : strawberry
+ 0.11% : banana
+ 0.04% : tray
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : fig
+ 0.02% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q018.jpg
+99.01% : strawberry
+ 0.10% : banana
+ 0.03% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.02% : German shepherd
+ 0.02% : fig
+ 0.02% : chocolate sauce
+ 0.01% : pineapple
+ 0.01% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q019.jpg
+98.81% : strawberry
+ 0.10% : banana
+ 0.04% : tray
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.02% : fig
+ 0.02% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.01% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q020.jpg
+98.63% : strawberry
+ 0.13% : banana
+ 0.03% : tray
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : fig
+ 0.02% : German shepherd
+ 0.02% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q021.jpg
+98.72% : strawberry
+ 0.12% : banana
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : fig
+ 0.02% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q022.jpg
+98.34% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q023.jpg
+98.51% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.03% : fig
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q024.jpg
+98.46% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.02% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.02% : Tibetan mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q025.jpg
+98.60% : strawberry
+ 0.13% : banana
+ 0.03% : Leonberg
+ 0.03% : fig
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q026.jpg
+98.35% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.04% : fig
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q027.jpg
+98.71% : strawberry
+ 0.12% : banana
+ 0.03% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : fig
+ 0.02% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : trifle
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q028.jpg
+98.50% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : fig
+ 0.03% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : trifle
+ 0.02% : Tibetan mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q029.jpg
+98.46% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : fig
+ 0.03% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : trifle
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q030.jpg
+98.07% : strawberry
+ 0.16% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.03% : pineapple
+ 0.02% : Tibetan mastiff
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q031.jpg
+98.43% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.04% : fig
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : tray
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q032.jpg
+98.55% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : tray
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q033.jpg
+98.41% : strawberry
+ 0.15% : banana
+ 0.04% : Leonberg
+ 0.04% : fig
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : German shepherd
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q034.jpg
+98.63% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.02% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : pineapple
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q035.jpg
+98.33% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q036.jpg
+98.37% : strawberry
+ 0.14% : banana
+ 0.05% : Leonberg
+ 0.04% : tray
+ 0.04% : fig
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : bull mastiff
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q037.jpg
+98.30% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q038.jpg
+98.35% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q039.jpg
+98.53% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : fig
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : German shepherd
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q040.jpg
+98.57% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : German shepherd
+ 0.02% : trifle
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q041.jpg
+98.43% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q042.jpg
+98.54% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q043.jpg
+98.54% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q044.jpg
+98.51% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q045.jpg
+98.60% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.02% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q046.jpg
+98.59% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : tray
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q047.jpg
+98.60% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : tray
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q048.jpg
+98.55% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.03% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q049.jpg
+98.57% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q050.jpg
+98.56% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q051.jpg
+98.56% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q052.jpg
+98.50% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q053.jpg
+98.55% : strawberry
+ 0.14% : banana
+ 0.03% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q054.jpg
+98.52% : strawberry
+ 0.14% : banana
+ 0.03% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q055.jpg
+98.45% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q056.jpg
+98.46% : strawberry
+ 0.13% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q057.jpg
+98.45% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q058.jpg
+98.43% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q059.jpg
+98.44% : strawberry
+ 0.14% : banana
+ 0.04% : Leonberg
+ 0.04% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q060.jpg
+98.46% : strawberry
+ 0.13% : banana
+ 0.04% : Leonberg
+ 0.03% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q061.jpg
+98.28% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q062.jpg
+98.24% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q063.jpg
+98.18% : strawberry
+ 0.16% : banana
+ 0.05% : fig
+ 0.04% : Leonberg
+ 0.04% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q064.jpg
+98.23% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q065.jpg
+98.28% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q066.jpg
+98.27% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q067.jpg
+98.26% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q068.jpg
+98.30% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q069.jpg
+98.23% : strawberry
+ 0.16% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q070.jpg
+98.17% : strawberry
+ 0.16% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q071.jpg
+98.04% : strawberry
+ 0.17% : banana
+ 0.05% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.04% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : pineapple
+ 0.03% : trifle
+ 0.02% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q072.jpg
+98.02% : strawberry
+ 0.17% : banana
+ 0.05% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.04% : ringneck snake
+ 0.04% : chocolate sauce
+ 0.03% : trifle
+ 0.03% : pineapple
+ 0.02% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q073.jpg
+98.00% : strawberry
+ 0.16% : banana
+ 0.05% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.04% : chocolate sauce
+ 0.04% : ringneck snake
+ 0.03% : trifle
+ 0.03% : pineapple
+ 0.02% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q074.jpg
+98.21% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q075.jpg
+98.20% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q076.jpg
+98.31% : strawberry
+ 0.15% : banana
+ 0.04% : Leonberg
+ 0.04% : fig
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q077.jpg
+98.17% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q078.jpg
+98.21% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q079.jpg
+98.24% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q080.jpg
+98.21% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q081.jpg
+98.29% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q082.jpg
+98.34% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q083.jpg
+98.27% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q084.jpg
+98.26% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q085.jpg
+98.26% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q086.jpg
+98.24% : strawberry
+ 0.15% : banana
+ 0.05% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q087.jpg
+98.31% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : tray
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q088.jpg
+98.32% : strawberry
+ 0.14% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.03% : ringneck snake
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q089.jpg
+98.27% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : tray
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q090.jpg
+98.29% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q091.jpg
+98.21% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q092.jpg
+98.26% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q093.jpg
+98.21% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.04% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q094.jpg
+98.24% : strawberry
+ 0.15% : banana
+ 0.05% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q095.jpg
+98.24% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : tray
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : gibbon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q096.jpg
+98.23% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : chocolate sauce
+ 0.03% : tray
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q097.jpg
+98.19% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q098.jpg
+98.31% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q099.jpg
+98.24% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : trifle
+ 0.02% : pineapple
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry8Q100.jpg
+98.30% : strawberry
+ 0.15% : banana
+ 0.04% : fig
+ 0.04% : Leonberg
+ 0.03% : ringneck snake
+ 0.03% : tray
+ 0.03% : chocolate sauce
+ 0.02% : pineapple
+ 0.02% : trifle
+ 0.02% : German shepherd

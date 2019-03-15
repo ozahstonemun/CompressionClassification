@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q001.jpg
+63.29% : head cabbage
+12.17% : tennis ball
+ 4.70% : lemon
+ 3.21% : sombrero
+ 2.24% : croquet ball
+ 1.04% : acorn squash
+ 0.82% : golf ball
+ 0.66% : spaghetti squash
+ 0.59% : wool
+ 0.39% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q002.jpg
+63.29% : head cabbage
+12.17% : tennis ball
+ 4.70% : lemon
+ 3.21% : sombrero
+ 2.24% : croquet ball
+ 1.04% : acorn squash
+ 0.82% : golf ball
+ 0.66% : spaghetti squash
+ 0.59% : wool
+ 0.39% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q003.jpg
+61.63% : head cabbage
+12.98% : tennis ball
+ 4.62% : lemon
+ 3.18% : sombrero
+ 2.51% : croquet ball
+ 1.53% : acorn squash
+ 0.93% : golf ball
+ 0.84% : spaghetti squash
+ 0.64% : wool
+ 0.44% : balloon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q004.jpg
+90.02% : head cabbage
+ 3.35% : lemon
+ 1.58% : spaghetti squash
+ 0.71% : tennis ball
+ 0.56% : acorn squash
+ 0.48% : croquet ball
+ 0.25% : cucumber
+ 0.21% : wool
+ 0.18% : sombrero
+ 0.13% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q005.jpg
+99.48% : head cabbage
+ 0.09% : lemon
+ 0.06% : tennis ball
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : guacamole
+ 0.01% : custard apple
+ 0.01% : croquet ball
+ 0.01% : cucumber
+ 0.01% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q006.jpg
+99.69% : head cabbage
+ 0.02% : tennis ball
+ 0.01% : cauliflower
+ 0.01% : custard apple
+ 0.01% : guacamole
+ 0.00% : swab
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : fig
+ 0.00% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q007.jpg
+99.25% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : leatherback turtle
+ 0.00% : guacamole
+ 0.00% : acorn squash
+ 0.00% : artichoke
+ 0.00% : cucumber
+ 0.00% : pot
+ 0.00% : sulphur butterfly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q008.jpg
+99.29% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : pot
+ 0.01% : bell pepper
+ 0.01% : leatherback turtle
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q009.jpg
+99.11% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : pot
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : artichoke
+ 0.00% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q010.jpg
+99.50% : head cabbage
+ 0.04% : cauliflower
+ 0.01% : acorn squash
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.00% : butternut squash
+ 0.00% : bell pepper
+ 0.00% : artichoke
+ 0.00% : pot
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q011.jpg
+99.47% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.00% : pot
+ 0.00% : custard apple
+ 0.00% : bell pepper
+ 0.00% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q012.jpg
+99.63% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : pot
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : velvet
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q013.jpg
+99.14% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q014.jpg
+99.36% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : pot
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : velvet
+ 0.00% : cleaver
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q015.jpg
+99.39% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : pot
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cucumber
+ 0.00% : cleaver
+ 0.00% : velvet
+ 0.00% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q016.jpg
+99.30% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.01% : pot
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.00% : zucchini
+ 0.00% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q017.jpg
+99.36% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.01% : cucumber
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : guacamole
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q018.jpg
+99.07% : head cabbage
+ 0.04% : cauliflower
+ 0.01% : cucumber
+ 0.01% : pot
+ 0.01% : fig
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q019.jpg
+99.04% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : pot
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q020.jpg
+99.16% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.01% : pot
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : zucchini
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q021.jpg
+98.87% : head cabbage
+ 0.04% : cauliflower
+ 0.04% : fig
+ 0.02% : pot
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : greenhouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q022.jpg
+98.89% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q023.jpg
+99.13% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : zucchini
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q024.jpg
+99.45% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : pot
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.00% : guacamole
+ 0.00% : goblet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q025.jpg
+99.19% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : pot
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q026.jpg
+99.19% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.01% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : greenhouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q027.jpg
+98.90% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : acorn squash
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : goblet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q028.jpg
+98.96% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.02% : fig
+ 0.02% : cucumber
+ 0.01% : bell pepper
+ 0.01% : zucchini
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q029.jpg
+99.22% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : pot
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : bell pepper
+ 0.01% : zucchini
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : goblet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q030.jpg
+98.35% : head cabbage
+ 0.06% : cauliflower
+ 0.03% : pot
+ 0.03% : cucumber
+ 0.03% : fig
+ 0.02% : zucchini
+ 0.02% : cleaver
+ 0.02% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q031.jpg
+99.40% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.01% : cucumber
+ 0.01% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q032.jpg
+99.26% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : fig
+ 0.01% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q033.jpg
+99.01% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q034.jpg
+99.04% : head cabbage
+ 0.03% : fig
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q035.jpg
+99.01% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : bell pepper
+ 0.01% : zucchini
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : greenhouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q036.jpg
+98.93% : head cabbage
+ 0.04% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : cucumber
+ 0.02% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q037.jpg
+98.91% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.03% : cucumber
+ 0.02% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q038.jpg
+98.81% : head cabbage
+ 0.04% : pot
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : greenhouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q039.jpg
+98.84% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : guacamole
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q040.jpg
+98.85% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.03% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : guacamole
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q041.jpg
+99.00% : head cabbage
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q042.jpg
+98.97% : head cabbage
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : guacamole
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q043.jpg
+98.92% : head cabbage
+ 0.04% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q044.jpg
+99.00% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.02% : fig
+ 0.02% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q045.jpg
+99.06% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : pot
+ 0.02% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : acorn squash
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q046.jpg
+98.87% : head cabbage
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : cleaver
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q047.jpg
+98.90% : head cabbage
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q048.jpg
+98.87% : head cabbage
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q049.jpg
+98.78% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q050.jpg
+98.79% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q051.jpg
+98.78% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q052.jpg
+99.08% : head cabbage
+ 0.03% : pot
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q053.jpg
+99.05% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.02% : fig
+ 0.02% : cucumber
+ 0.01% : cleaver
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q054.jpg
+99.02% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.02% : fig
+ 0.02% : cucumber
+ 0.01% : cleaver
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q055.jpg
+98.80% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q056.jpg
+98.82% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q057.jpg
+98.86% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q058.jpg
+98.98% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q059.jpg
+98.99% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q060.jpg
+98.96% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q061.jpg
+98.97% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q062.jpg
+98.96% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q063.jpg
+98.97% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q064.jpg
+98.92% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q065.jpg
+98.76% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q066.jpg
+98.89% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q067.jpg
+98.97% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q068.jpg
+99.02% : head cabbage
+ 0.03% : fig
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q069.jpg
+98.70% : head cabbage
+ 0.04% : fig
+ 0.04% : pot
+ 0.04% : cauliflower
+ 0.03% : cucumber
+ 0.02% : zucchini
+ 0.02% : guacamole
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q070.jpg
+98.84% : head cabbage
+ 0.04% : pot
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q071.jpg
+98.87% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.01% : cleaver
+ 0.01% : zucchini
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q072.jpg
+98.92% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q073.jpg
+98.87% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : pot
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : zucchini
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q074.jpg
+99.04% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q075.jpg
+99.05% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q076.jpg
+99.05% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q077.jpg
+98.92% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q078.jpg
+99.08% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q079.jpg
+99.05% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q080.jpg
+99.07% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q081.jpg
+99.04% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q082.jpg
+99.05% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : cucumber
+ 0.02% : pot
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q083.jpg
+99.13% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q084.jpg
+99.14% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : pot
+ 0.02% : fig
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q085.jpg
+99.12% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q086.jpg
+99.12% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q087.jpg
+99.11% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q088.jpg
+99.07% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q089.jpg
+99.10% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q090.jpg
+99.16% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q091.jpg
+99.07% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q092.jpg
+99.12% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q093.jpg
+99.10% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : cleaver
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q094.jpg
+98.90% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q095.jpg
+98.86% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : guacamole
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q096.jpg
+98.75% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : guacamole
+ 0.01% : bell pepper
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q097.jpg
+98.69% : head cabbage
+ 0.04% : cauliflower
+ 0.04% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q098.jpg
+98.69% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q099.jpg
+98.75% : head cabbage
+ 0.04% : cauliflower
+ 0.04% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage20Q100.jpg
+98.63% : head cabbage
+ 0.04% : cauliflower
+ 0.04% : fig
+ 0.03% : pot
+ 0.02% : cucumber
+ 0.01% : zucchini
+ 0.01% : bell pepper
+ 0.01% : guacamole
+ 0.01% : cleaver
+ 0.01% : acorn squash

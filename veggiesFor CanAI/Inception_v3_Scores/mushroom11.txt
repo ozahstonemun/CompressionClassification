@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q001.jpg
+16.17% : bagel
+12.58% : spaghetti squash
+ 6.72% : bolete
+ 4.42% : hook
+ 3.76% : lemon
+ 3.02% : pretzel
+ 2.84% : coral fungus
+ 2.19% : teddy
+ 2.16% : tennis ball
+ 2.01% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q002.jpg
+16.17% : bagel
+12.59% : spaghetti squash
+ 6.73% : bolete
+ 4.42% : hook
+ 3.76% : lemon
+ 3.01% : pretzel
+ 2.84% : coral fungus
+ 2.19% : teddy
+ 2.16% : tennis ball
+ 2.00% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q003.jpg
+17.81% : bagel
+14.45% : spaghetti squash
+ 7.77% : bolete
+ 3.66% : hook
+ 2.88% : lemon
+ 2.72% : coral fungus
+ 2.49% : pretzel
+ 2.25% : stinkhorn
+ 2.20% : butternut squash
+ 1.75% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q004.jpg
+14.07% : earthstar
+13.28% : teddy
+ 8.33% : bagel
+ 5.56% : bolete
+ 4.55% : padlock
+ 3.23% : mushroom
+ 3.15% : French loaf
+ 2.32% : hook
+ 1.72% : pretzel
+ 1.38% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q005.jpg
+18.87% : earthstar
+12.35% : bolete
+ 7.11% : chain
+ 4.47% : hook
+ 4.37% : mushroom
+ 3.12% : bagel
+ 2.23% : hen-of-the-woods
+ 2.18% : padlock
+ 1.88% : snail
+ 1.72% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q006.jpg
+17.91% : mushroom
+12.15% : hook
+ 6.70% : bolete
+ 3.30% : earthstar
+ 3.07% : hen-of-the-woods
+ 2.89% : bagel
+ 2.29% : padlock
+ 2.28% : chain
+ 1.99% : teddy
+ 1.96% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q007.jpg
+12.17% : hook
+12.05% : mushroom
+ 7.82% : bolete
+ 5.28% : earthstar
+ 3.91% : chain
+ 2.07% : prison
+ 1.40% : radiator
+ 1.30% : pomegranate
+ 1.30% : nail
+ 1.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q008.jpg
+47.09% : earthstar
+10.53% : hen-of-the-woods
+10.04% : bolete
+ 9.15% : mushroom
+ 1.95% : gyromitra
+ 1.73% : coral fungus
+ 1.52% : hook
+ 1.03% : prison
+ 0.69% : stinkhorn
+ 0.58% : hog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q009.jpg
+45.42% : earthstar
+16.08% : mushroom
+13.82% : bolete
+13.17% : hen-of-the-woods
+ 0.88% : gyromitra
+ 0.76% : coral fungus
+ 0.59% : hook
+ 0.51% : stinkhorn
+ 0.24% : butternut squash
+ 0.20% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q010.jpg
+44.42% : bolete
+26.75% : mushroom
+15.49% : earthstar
+ 7.05% : hen-of-the-woods
+ 0.75% : gyromitra
+ 0.49% : coral fungus
+ 0.31% : agaric
+ 0.25% : stinkhorn
+ 0.13% : prison
+ 0.09% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q011.jpg
+71.18% : mushroom
+17.54% : bolete
+ 2.98% : earthstar
+ 1.51% : hen-of-the-woods
+ 1.06% : stinkhorn
+ 0.36% : prison
+ 0.32% : agaric
+ 0.21% : coral fungus
+ 0.17% : teddy
+ 0.16% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q012.jpg
+52.47% : mushroom
+20.82% : earthstar
+ 9.86% : bolete
+ 8.84% : hen-of-the-woods
+ 0.74% : stinkhorn
+ 0.43% : agaric
+ 0.40% : coral fungus
+ 0.34% : gyromitra
+ 0.25% : prison
+ 0.12% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q013.jpg
+50.56% : mushroom
+27.38% : earthstar
+ 9.59% : hen-of-the-woods
+ 5.77% : bolete
+ 0.54% : gyromitra
+ 0.47% : prison
+ 0.30% : stinkhorn
+ 0.25% : coral fungus
+ 0.22% : agaric
+ 0.12% : radiator
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q014.jpg
+44.23% : mushroom
+32.95% : earthstar
+ 9.40% : hen-of-the-woods
+ 8.19% : bolete
+ 0.48% : stinkhorn
+ 0.37% : gyromitra
+ 0.26% : coral fungus
+ 0.20% : agaric
+ 0.15% : teddy
+ 0.11% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q015.jpg
+84.27% : mushroom
+ 6.32% : earthstar
+ 4.21% : bolete
+ 2.33% : hen-of-the-woods
+ 0.21% : stinkhorn
+ 0.20% : prison
+ 0.16% : agaric
+ 0.09% : butternut squash
+ 0.07% : coral fungus
+ 0.06% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q016.jpg
+68.96% : mushroom
+12.86% : earthstar
+ 6.68% : bolete
+ 6.34% : hen-of-the-woods
+ 0.27% : prison
+ 0.26% : stinkhorn
+ 0.24% : gyromitra
+ 0.24% : teddy
+ 0.21% : coral fungus
+ 0.20% : agaric
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q017.jpg
+49.81% : mushroom
+32.77% : earthstar
+ 6.50% : hen-of-the-woods
+ 4.44% : bolete
+ 0.37% : gyromitra
+ 0.34% : agaric
+ 0.27% : stinkhorn
+ 0.25% : coral fungus
+ 0.21% : teddy
+ 0.15% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q018.jpg
+45.26% : mushroom
+33.56% : earthstar
+ 9.50% : hen-of-the-woods
+ 6.03% : bolete
+ 0.40% : gyromitra
+ 0.28% : stinkhorn
+ 0.27% : agaric
+ 0.26% : coral fungus
+ 0.18% : prison
+ 0.13% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q019.jpg
+69.88% : mushroom
+12.26% : earthstar
+ 7.06% : bolete
+ 6.20% : hen-of-the-woods
+ 0.41% : agaric
+ 0.22% : gyromitra
+ 0.21% : coral fungus
+ 0.20% : stinkhorn
+ 0.13% : prison
+ 0.08% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q020.jpg
+68.71% : mushroom
+11.62% : earthstar
+ 8.65% : bolete
+ 6.19% : hen-of-the-woods
+ 0.34% : agaric
+ 0.22% : gyromitra
+ 0.21% : stinkhorn
+ 0.17% : coral fungus
+ 0.16% : prison
+ 0.14% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q021.jpg
+67.75% : mushroom
+14.56% : earthstar
+ 6.60% : bolete
+ 6.23% : hen-of-the-woods
+ 0.33% : agaric
+ 0.23% : gyromitra
+ 0.19% : coral fungus
+ 0.19% : teddy
+ 0.14% : stinkhorn
+ 0.14% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q022.jpg
+78.87% : mushroom
+ 7.69% : bolete
+ 6.81% : earthstar
+ 4.40% : hen-of-the-woods
+ 0.25% : agaric
+ 0.19% : gyromitra
+ 0.14% : coral fungus
+ 0.10% : stinkhorn
+ 0.06% : prison
+ 0.04% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q023.jpg
+71.63% : mushroom
+14.39% : earthstar
+ 6.11% : hen-of-the-woods
+ 3.72% : bolete
+ 0.28% : agaric
+ 0.26% : gyromitra
+ 0.17% : prison
+ 0.17% : coral fungus
+ 0.13% : stinkhorn
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q024.jpg
+80.62% : mushroom
+ 8.81% : earthstar
+ 4.26% : hen-of-the-woods
+ 3.99% : bolete
+ 0.30% : agaric
+ 0.12% : gyromitra
+ 0.10% : coral fungus
+ 0.09% : stinkhorn
+ 0.06% : prison
+ 0.05% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q025.jpg
+72.29% : mushroom
+14.56% : earthstar
+ 5.71% : bolete
+ 4.64% : hen-of-the-woods
+ 0.21% : agaric
+ 0.14% : gyromitra
+ 0.13% : stinkhorn
+ 0.12% : prison
+ 0.11% : coral fungus
+ 0.09% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q026.jpg
+61.32% : mushroom
+23.48% : earthstar
+ 5.57% : bolete
+ 4.61% : hen-of-the-woods
+ 0.27% : agaric
+ 0.26% : prison
+ 0.17% : teddy
+ 0.16% : gyromitra
+ 0.16% : coral fungus
+ 0.12% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q027.jpg
+80.51% : mushroom
+ 7.43% : earthstar
+ 5.08% : hen-of-the-woods
+ 4.19% : bolete
+ 0.24% : agaric
+ 0.14% : gyromitra
+ 0.11% : coral fungus
+ 0.10% : prison
+ 0.08% : stinkhorn
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q028.jpg
+82.56% : mushroom
+ 5.95% : hen-of-the-woods
+ 4.91% : earthstar
+ 4.80% : bolete
+ 0.16% : agaric
+ 0.11% : coral fungus
+ 0.10% : gyromitra
+ 0.09% : stinkhorn
+ 0.07% : butternut squash
+ 0.05% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q029.jpg
+81.33% : mushroom
+ 7.01% : earthstar
+ 5.39% : hen-of-the-woods
+ 4.38% : bolete
+ 0.14% : agaric
+ 0.10% : coral fungus
+ 0.09% : gyromitra
+ 0.07% : stinkhorn
+ 0.06% : teddy
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q030.jpg
+80.18% : mushroom
+ 8.22% : earthstar
+ 4.85% : hen-of-the-woods
+ 4.60% : bolete
+ 0.15% : agaric
+ 0.14% : teddy
+ 0.12% : gyromitra
+ 0.11% : coral fungus
+ 0.08% : prison
+ 0.06% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q031.jpg
+84.63% : mushroom
+ 4.91% : bolete
+ 4.79% : earthstar
+ 3.68% : hen-of-the-woods
+ 0.17% : agaric
+ 0.08% : gyromitra
+ 0.08% : stinkhorn
+ 0.08% : coral fungus
+ 0.07% : butternut squash
+ 0.06% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q032.jpg
+84.99% : mushroom
+ 5.96% : earthstar
+ 3.82% : bolete
+ 3.72% : hen-of-the-woods
+ 0.16% : agaric
+ 0.07% : gyromitra
+ 0.07% : coral fungus
+ 0.07% : stinkhorn
+ 0.04% : prison
+ 0.04% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q033.jpg
+84.32% : mushroom
+ 5.09% : bolete
+ 4.82% : earthstar
+ 3.87% : hen-of-the-woods
+ 0.16% : agaric
+ 0.09% : coral fungus
+ 0.07% : gyromitra
+ 0.07% : prison
+ 0.07% : butternut squash
+ 0.06% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q034.jpg
+83.75% : mushroom
+ 5.49% : earthstar
+ 4.93% : bolete
+ 3.70% : hen-of-the-woods
+ 0.18% : agaric
+ 0.09% : prison
+ 0.09% : coral fungus
+ 0.09% : gyromitra
+ 0.07% : stinkhorn
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q035.jpg
+84.77% : mushroom
+ 5.03% : bolete
+ 5.01% : earthstar
+ 3.46% : hen-of-the-woods
+ 0.15% : agaric
+ 0.08% : coral fungus
+ 0.07% : gyromitra
+ 0.05% : prison
+ 0.05% : stinkhorn
+ 0.05% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q036.jpg
+84.61% : mushroom
+ 6.73% : earthstar
+ 3.45% : hen-of-the-woods
+ 3.25% : bolete
+ 0.12% : agaric
+ 0.11% : bagel
+ 0.09% : coral fungus
+ 0.09% : teddy
+ 0.07% : gyromitra
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q037.jpg
+85.13% : mushroom
+ 6.34% : earthstar
+ 3.41% : hen-of-the-woods
+ 3.12% : bolete
+ 0.13% : agaric
+ 0.10% : bagel
+ 0.09% : teddy
+ 0.09% : coral fungus
+ 0.07% : gyromitra
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q038.jpg
+84.65% : mushroom
+ 5.33% : earthstar
+ 3.99% : hen-of-the-woods
+ 3.63% : bolete
+ 0.19% : agaric
+ 0.11% : gyromitra
+ 0.09% : coral fungus
+ 0.08% : bagel
+ 0.07% : prison
+ 0.07% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q039.jpg
+83.94% : mushroom
+ 5.89% : earthstar
+ 4.02% : hen-of-the-woods
+ 3.85% : bolete
+ 0.20% : agaric
+ 0.09% : gyromitra
+ 0.09% : coral fungus
+ 0.08% : bagel
+ 0.08% : stinkhorn
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q040.jpg
+87.60% : mushroom
+ 4.14% : bolete
+ 3.48% : earthstar
+ 3.24% : hen-of-the-woods
+ 0.15% : agaric
+ 0.08% : gyromitra
+ 0.08% : bagel
+ 0.07% : coral fungus
+ 0.06% : stinkhorn
+ 0.04% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q041.jpg
+86.38% : mushroom
+ 4.75% : bolete
+ 4.05% : earthstar
+ 2.97% : hen-of-the-woods
+ 0.12% : agaric
+ 0.10% : bagel
+ 0.08% : gyromitra
+ 0.07% : butternut squash
+ 0.07% : coral fungus
+ 0.07% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q042.jpg
+87.67% : mushroom
+ 4.53% : bolete
+ 3.14% : earthstar
+ 3.10% : hen-of-the-woods
+ 0.11% : agaric
+ 0.08% : bagel
+ 0.07% : gyromitra
+ 0.06% : coral fungus
+ 0.06% : butternut squash
+ 0.06% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q043.jpg
+88.85% : mushroom
+ 4.27% : bolete
+ 2.87% : hen-of-the-woods
+ 2.60% : earthstar
+ 0.11% : agaric
+ 0.08% : bagel
+ 0.06% : gyromitra
+ 0.06% : coral fungus
+ 0.05% : butternut squash
+ 0.05% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q044.jpg
+88.26% : mushroom
+ 5.26% : bolete
+ 2.60% : hen-of-the-woods
+ 2.05% : earthstar
+ 0.14% : agaric
+ 0.11% : bagel
+ 0.08% : butternut squash
+ 0.07% : gyromitra
+ 0.07% : coral fungus
+ 0.06% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q045.jpg
+88.88% : mushroom
+ 5.10% : bolete
+ 2.44% : hen-of-the-woods
+ 1.99% : earthstar
+ 0.13% : agaric
+ 0.10% : bagel
+ 0.08% : butternut squash
+ 0.06% : gyromitra
+ 0.06% : coral fungus
+ 0.05% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q046.jpg
+88.47% : mushroom
+ 4.94% : bolete
+ 2.97% : hen-of-the-woods
+ 2.08% : earthstar
+ 0.13% : agaric
+ 0.08% : bagel
+ 0.07% : gyromitra
+ 0.06% : butternut squash
+ 0.05% : coral fungus
+ 0.04% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q047.jpg
+88.58% : mushroom
+ 4.88% : bolete
+ 2.94% : hen-of-the-woods
+ 2.06% : earthstar
+ 0.13% : agaric
+ 0.08% : bagel
+ 0.07% : gyromitra
+ 0.06% : butternut squash
+ 0.05% : coral fungus
+ 0.04% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q048.jpg
+88.22% : mushroom
+ 4.98% : bolete
+ 3.06% : hen-of-the-woods
+ 2.05% : earthstar
+ 0.16% : agaric
+ 0.09% : gyromitra
+ 0.08% : bagel
+ 0.05% : coral fungus
+ 0.05% : stinkhorn
+ 0.05% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q049.jpg
+87.05% : mushroom
+ 5.52% : bolete
+ 3.04% : hen-of-the-woods
+ 2.61% : earthstar
+ 0.16% : agaric
+ 0.11% : bagel
+ 0.10% : gyromitra
+ 0.06% : butternut squash
+ 0.06% : coral fungus
+ 0.05% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q050.jpg
+87.07% : mushroom
+ 5.47% : bolete
+ 3.06% : hen-of-the-woods
+ 2.61% : earthstar
+ 0.16% : agaric
+ 0.11% : bagel
+ 0.10% : gyromitra
+ 0.06% : butternut squash
+ 0.06% : coral fungus
+ 0.05% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q051.jpg
+87.03% : mushroom
+ 5.48% : bolete
+ 3.07% : hen-of-the-woods
+ 2.62% : earthstar
+ 0.16% : agaric
+ 0.11% : bagel
+ 0.10% : gyromitra
+ 0.06% : butternut squash
+ 0.06% : coral fungus
+ 0.05% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q052.jpg
+86.77% : mushroom
+ 6.80% : bolete
+ 2.79% : hen-of-the-woods
+ 1.82% : earthstar
+ 0.18% : agaric
+ 0.12% : bagel
+ 0.08% : gyromitra
+ 0.06% : coral fungus
+ 0.06% : teddy
+ 0.05% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q053.jpg
+84.23% : mushroom
+ 8.21% : bolete
+ 3.26% : hen-of-the-woods
+ 2.23% : earthstar
+ 0.17% : agaric
+ 0.15% : bagel
+ 0.10% : gyromitra
+ 0.07% : coral fungus
+ 0.07% : prison
+ 0.06% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q054.jpg
+83.92% : mushroom
+ 8.35% : bolete
+ 3.28% : hen-of-the-woods
+ 2.29% : earthstar
+ 0.17% : agaric
+ 0.16% : bagel
+ 0.10% : gyromitra
+ 0.07% : coral fungus
+ 0.07% : prison
+ 0.06% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q055.jpg
+85.14% : mushroom
+ 7.09% : bolete
+ 2.98% : hen-of-the-woods
+ 2.43% : earthstar
+ 0.23% : bagel
+ 0.14% : agaric
+ 0.09% : teddy
+ 0.08% : gyromitra
+ 0.07% : butternut squash
+ 0.07% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q056.jpg
+85.39% : mushroom
+ 7.61% : bolete
+ 2.78% : hen-of-the-woods
+ 2.05% : earthstar
+ 0.23% : bagel
+ 0.12% : agaric
+ 0.08% : teddy
+ 0.08% : gyromitra
+ 0.07% : butternut squash
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q057.jpg
+85.70% : mushroom
+ 7.23% : bolete
+ 2.93% : hen-of-the-woods
+ 2.16% : earthstar
+ 0.18% : bagel
+ 0.12% : agaric
+ 0.08% : gyromitra
+ 0.07% : teddy
+ 0.06% : coral fungus
+ 0.05% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q058.jpg
+87.36% : mushroom
+ 6.67% : bolete
+ 2.49% : hen-of-the-woods
+ 1.78% : earthstar
+ 0.17% : bagel
+ 0.12% : agaric
+ 0.06% : gyromitra
+ 0.06% : teddy
+ 0.05% : butternut squash
+ 0.05% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q059.jpg
+86.85% : mushroom
+ 6.57% : bolete
+ 2.62% : hen-of-the-woods
+ 1.98% : earthstar
+ 0.22% : bagel
+ 0.12% : agaric
+ 0.07% : gyromitra
+ 0.07% : butternut squash
+ 0.07% : teddy
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q060.jpg
+86.96% : mushroom
+ 6.54% : bolete
+ 2.72% : hen-of-the-woods
+ 1.88% : earthstar
+ 0.21% : bagel
+ 0.12% : agaric
+ 0.07% : gyromitra
+ 0.07% : butternut squash
+ 0.06% : teddy
+ 0.05% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q061.jpg
+86.56% : mushroom
+ 6.76% : bolete
+ 2.83% : hen-of-the-woods
+ 1.94% : earthstar
+ 0.26% : bagel
+ 0.13% : agaric
+ 0.08% : gyromitra
+ 0.06% : butternut squash
+ 0.06% : coral fungus
+ 0.05% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q062.jpg
+88.43% : mushroom
+ 5.70% : bolete
+ 2.49% : hen-of-the-woods
+ 1.75% : earthstar
+ 0.22% : bagel
+ 0.11% : agaric
+ 0.07% : gyromitra
+ 0.05% : teddy
+ 0.05% : coral fungus
+ 0.04% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q063.jpg
+88.12% : mushroom
+ 5.78% : bolete
+ 2.50% : hen-of-the-woods
+ 1.89% : earthstar
+ 0.23% : bagel
+ 0.12% : agaric
+ 0.06% : gyromitra
+ 0.05% : teddy
+ 0.05% : butternut squash
+ 0.05% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q064.jpg
+85.20% : mushroom
+ 6.19% : bolete
+ 3.22% : earthstar
+ 3.07% : hen-of-the-woods
+ 0.26% : bagel
+ 0.14% : agaric
+ 0.08% : gyromitra
+ 0.07% : teddy
+ 0.07% : coral fungus
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q065.jpg
+83.95% : mushroom
+ 6.25% : bolete
+ 3.60% : hen-of-the-woods
+ 3.39% : earthstar
+ 0.31% : bagel
+ 0.16% : agaric
+ 0.12% : gyromitra
+ 0.08% : teddy
+ 0.07% : coral fungus
+ 0.07% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q066.jpg
+83.13% : mushroom
+ 6.68% : bolete
+ 3.88% : hen-of-the-woods
+ 3.33% : earthstar
+ 0.35% : bagel
+ 0.15% : agaric
+ 0.10% : gyromitra
+ 0.09% : teddy
+ 0.08% : coral fungus
+ 0.08% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q067.jpg
+82.99% : mushroom
+ 6.97% : bolete
+ 3.75% : hen-of-the-woods
+ 3.38% : earthstar
+ 0.25% : bagel
+ 0.15% : agaric
+ 0.12% : gyromitra
+ 0.08% : coral fungus
+ 0.08% : butternut squash
+ 0.08% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q068.jpg
+82.99% : mushroom
+ 7.56% : bolete
+ 3.64% : hen-of-the-woods
+ 2.98% : earthstar
+ 0.29% : bagel
+ 0.15% : agaric
+ 0.12% : gyromitra
+ 0.09% : butternut squash
+ 0.08% : coral fungus
+ 0.07% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q069.jpg
+82.49% : mushroom
+ 7.83% : bolete
+ 3.49% : earthstar
+ 3.45% : hen-of-the-woods
+ 0.23% : bagel
+ 0.15% : agaric
+ 0.11% : gyromitra
+ 0.09% : butternut squash
+ 0.08% : coral fungus
+ 0.07% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q070.jpg
+84.93% : mushroom
+ 6.21% : bolete
+ 3.32% : hen-of-the-woods
+ 3.12% : earthstar
+ 0.28% : bagel
+ 0.15% : agaric
+ 0.10% : gyromitra
+ 0.09% : butternut squash
+ 0.07% : coral fungus
+ 0.06% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q071.jpg
+87.21% : mushroom
+ 5.31% : bolete
+ 2.88% : hen-of-the-woods
+ 2.44% : earthstar
+ 0.24% : bagel
+ 0.15% : agaric
+ 0.10% : gyromitra
+ 0.07% : butternut squash
+ 0.06% : coral fungus
+ 0.05% : teddy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q072.jpg
+87.12% : mushroom
+ 5.16% : bolete
+ 2.77% : hen-of-the-woods
+ 2.76% : earthstar
+ 0.24% : bagel
+ 0.13% : agaric
+ 0.09% : gyromitra
+ 0.07% : teddy
+ 0.07% : butternut squash
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q073.jpg
+83.71% : mushroom
+ 7.21% : bolete
+ 3.03% : earthstar
+ 2.78% : hen-of-the-woods
+ 0.47% : bagel
+ 0.16% : agaric
+ 0.11% : teddy
+ 0.11% : gyromitra
+ 0.09% : butternut squash
+ 0.07% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q074.jpg
+83.92% : mushroom
+ 7.19% : bolete
+ 3.22% : earthstar
+ 2.69% : hen-of-the-woods
+ 0.40% : bagel
+ 0.17% : agaric
+ 0.11% : gyromitra
+ 0.10% : teddy
+ 0.08% : coral fungus
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q075.jpg
+83.63% : mushroom
+ 7.26% : bolete
+ 3.29% : earthstar
+ 2.74% : hen-of-the-woods
+ 0.42% : bagel
+ 0.18% : agaric
+ 0.11% : gyromitra
+ 0.11% : teddy
+ 0.08% : coral fungus
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q076.jpg
+83.64% : mushroom
+ 9.16% : bolete
+ 2.31% : earthstar
+ 2.21% : hen-of-the-woods
+ 0.46% : bagel
+ 0.16% : agaric
+ 0.11% : teddy
+ 0.09% : gyromitra
+ 0.07% : butternut squash
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q077.jpg
+83.98% : mushroom
+ 9.01% : bolete
+ 2.14% : earthstar
+ 2.13% : hen-of-the-woods
+ 0.55% : bagel
+ 0.15% : agaric
+ 0.10% : teddy
+ 0.09% : gyromitra
+ 0.08% : butternut squash
+ 0.06% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q078.jpg
+83.40% : mushroom
+ 8.71% : bolete
+ 3.09% : earthstar
+ 2.22% : hen-of-the-woods
+ 0.38% : bagel
+ 0.16% : agaric
+ 0.10% : gyromitra
+ 0.07% : butternut squash
+ 0.07% : teddy
+ 0.07% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q079.jpg
+83.28% : mushroom
+ 8.63% : bolete
+ 3.08% : earthstar
+ 2.45% : hen-of-the-woods
+ 0.32% : bagel
+ 0.15% : agaric
+ 0.11% : gyromitra
+ 0.08% : butternut squash
+ 0.07% : teddy
+ 0.06% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q080.jpg
+82.79% : mushroom
+ 8.58% : bolete
+ 3.06% : earthstar
+ 2.54% : hen-of-the-woods
+ 0.42% : bagel
+ 0.16% : agaric
+ 0.11% : gyromitra
+ 0.10% : butternut squash
+ 0.07% : teddy
+ 0.07% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q081.jpg
+85.98% : mushroom
+ 6.47% : bolete
+ 2.75% : hen-of-the-woods
+ 2.36% : earthstar
+ 0.27% : bagel
+ 0.17% : agaric
+ 0.09% : gyromitra
+ 0.07% : butternut squash
+ 0.06% : teddy
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q082.jpg
+85.38% : mushroom
+ 6.86% : bolete
+ 2.74% : hen-of-the-woods
+ 2.53% : earthstar
+ 0.22% : bagel
+ 0.17% : agaric
+ 0.11% : gyromitra
+ 0.07% : teddy
+ 0.06% : butternut squash
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q083.jpg
+86.87% : mushroom
+ 5.73% : bolete
+ 2.54% : earthstar
+ 2.45% : hen-of-the-woods
+ 0.23% : bagel
+ 0.16% : agaric
+ 0.10% : gyromitra
+ 0.07% : teddy
+ 0.06% : butternut squash
+ 0.06% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q084.jpg
+84.21% : mushroom
+ 6.59% : bolete
+ 3.26% : earthstar
+ 2.92% : hen-of-the-woods
+ 0.30% : bagel
+ 0.19% : agaric
+ 0.12% : gyromitra
+ 0.10% : teddy
+ 0.07% : coral fungus
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q085.jpg
+83.41% : mushroom
+ 6.07% : bolete
+ 4.08% : earthstar
+ 3.15% : hen-of-the-woods
+ 0.31% : bagel
+ 0.19% : agaric
+ 0.12% : gyromitra
+ 0.10% : teddy
+ 0.08% : coral fungus
+ 0.08% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q086.jpg
+82.04% : mushroom
+ 6.60% : bolete
+ 4.34% : earthstar
+ 3.51% : hen-of-the-woods
+ 0.38% : bagel
+ 0.18% : agaric
+ 0.13% : gyromitra
+ 0.11% : teddy
+ 0.09% : coral fungus
+ 0.08% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q087.jpg
+82.04% : mushroom
+ 7.49% : bolete
+ 3.42% : earthstar
+ 2.98% : hen-of-the-woods
+ 0.57% : bagel
+ 0.22% : agaric
+ 0.12% : gyromitra
+ 0.12% : butternut squash
+ 0.10% : teddy
+ 0.08% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q088.jpg
+82.79% : mushroom
+ 7.75% : bolete
+ 2.96% : earthstar
+ 2.86% : hen-of-the-woods
+ 0.66% : bagel
+ 0.18% : agaric
+ 0.12% : butternut squash
+ 0.11% : gyromitra
+ 0.09% : teddy
+ 0.07% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q089.jpg
+82.62% : mushroom
+ 8.12% : bolete
+ 2.93% : earthstar
+ 2.67% : hen-of-the-woods
+ 0.72% : bagel
+ 0.17% : agaric
+ 0.13% : butternut squash
+ 0.11% : gyromitra
+ 0.10% : teddy
+ 0.07% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q090.jpg
+80.10% : mushroom
+ 6.70% : bolete
+ 5.45% : earthstar
+ 4.05% : hen-of-the-woods
+ 0.43% : bagel
+ 0.17% : agaric
+ 0.13% : teddy
+ 0.12% : gyromitra
+ 0.10% : butternut squash
+ 0.08% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q091.jpg
+83.69% : mushroom
+ 6.23% : bolete
+ 4.23% : earthstar
+ 3.17% : hen-of-the-woods
+ 0.25% : bagel
+ 0.14% : agaric
+ 0.12% : teddy
+ 0.09% : gyromitra
+ 0.08% : butternut squash
+ 0.07% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q092.jpg
+74.55% : mushroom
+ 9.14% : bolete
+ 7.51% : earthstar
+ 4.80% : hen-of-the-woods
+ 0.22% : agaric
+ 0.21% : bagel
+ 0.21% : teddy
+ 0.15% : gyromitra
+ 0.12% : coral fungus
+ 0.11% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q093.jpg
+73.32% : mushroom
+12.12% : bolete
+ 5.67% : earthstar
+ 4.20% : hen-of-the-woods
+ 0.26% : bagel
+ 0.25% : agaric
+ 0.20% : gyromitra
+ 0.20% : teddy
+ 0.11% : coral fungus
+ 0.10% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q094.jpg
+75.50% : mushroom
+10.18% : bolete
+ 6.29% : earthstar
+ 3.79% : hen-of-the-woods
+ 0.31% : bagel
+ 0.24% : agaric
+ 0.17% : gyromitra
+ 0.16% : teddy
+ 0.10% : butternut squash
+ 0.10% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q095.jpg
+79.57% : mushroom
+ 8.30% : bolete
+ 4.84% : earthstar
+ 3.66% : hen-of-the-woods
+ 0.29% : bagel
+ 0.21% : agaric
+ 0.14% : gyromitra
+ 0.14% : teddy
+ 0.10% : butternut squash
+ 0.08% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q096.jpg
+80.98% : mushroom
+ 8.62% : bolete
+ 3.61% : earthstar
+ 3.32% : hen-of-the-woods
+ 0.39% : bagel
+ 0.19% : agaric
+ 0.13% : gyromitra
+ 0.12% : teddy
+ 0.09% : butternut squash
+ 0.08% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q097.jpg
+81.01% : mushroom
+ 8.35% : bolete
+ 3.92% : earthstar
+ 3.38% : hen-of-the-woods
+ 0.40% : bagel
+ 0.18% : agaric
+ 0.12% : teddy
+ 0.12% : gyromitra
+ 0.10% : butternut squash
+ 0.07% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q098.jpg
+80.17% : mushroom
+ 8.79% : bolete
+ 4.22% : earthstar
+ 3.42% : hen-of-the-woods
+ 0.33% : bagel
+ 0.19% : agaric
+ 0.13% : teddy
+ 0.13% : gyromitra
+ 0.09% : butternut squash
+ 0.08% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q099.jpg
+80.52% : mushroom
+ 9.22% : bolete
+ 3.57% : hen-of-the-woods
+ 3.36% : earthstar
+ 0.33% : bagel
+ 0.21% : agaric
+ 0.13% : gyromitra
+ 0.11% : teddy
+ 0.09% : butternut squash
+ 0.08% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom11Q100.jpg
+81.81% : mushroom
+ 8.47% : bolete
+ 3.45% : hen-of-the-woods
+ 3.26% : earthstar
+ 0.28% : bagel
+ 0.19% : agaric
+ 0.13% : gyromitra
+ 0.12% : teddy
+ 0.07% : butternut squash
+ 0.07% : coral fungus

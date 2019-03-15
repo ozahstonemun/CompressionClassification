@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q001.jpg
+92.00% : lemon
+ 1.24% : tennis ball
+ 1.13% : orange
+ 0.93% : spaghetti squash
+ 0.11% : shoji
+ 0.11% : racket
+ 0.10% : mushroom
+ 0.10% : window screen
+ 0.09% : dough
+ 0.09% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q002.jpg
+92.00% : lemon
+ 1.24% : tennis ball
+ 1.13% : orange
+ 0.93% : spaghetti squash
+ 0.11% : shoji
+ 0.11% : racket
+ 0.10% : mushroom
+ 0.10% : window screen
+ 0.09% : dough
+ 0.09% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q003.jpg
+93.82% : lemon
+ 0.97% : orange
+ 0.82% : tennis ball
+ 0.72% : spaghetti squash
+ 0.09% : shoji
+ 0.09% : mushroom
+ 0.07% : racket
+ 0.07% : window screen
+ 0.07% : dough
+ 0.07% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q004.jpg
+64.83% : lemon
+23.49% : orange
+ 3.09% : tennis ball
+ 0.52% : pot
+ 0.45% : spaghetti squash
+ 0.38% : honeycomb
+ 0.29% : window screen
+ 0.23% : prison
+ 0.16% : racket
+ 0.14% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q005.jpg
+92.48% : lemon
+ 2.78% : tennis ball
+ 1.18% : orange
+ 0.23% : spaghetti squash
+ 0.08% : racket
+ 0.07% : shoji
+ 0.06% : prison
+ 0.06% : window screen
+ 0.06% : honeycomb
+ 0.05% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q006.jpg
+87.82% : lemon
+ 6.28% : tennis ball
+ 1.88% : orange
+ 0.14% : racket
+ 0.13% : honeycomb
+ 0.11% : spaghetti squash
+ 0.08% : window screen
+ 0.08% : prison
+ 0.07% : shoji
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q007.jpg
+96.07% : lemon
+ 2.04% : orange
+ 0.14% : tennis ball
+ 0.05% : window screen
+ 0.03% : spaghetti squash
+ 0.03% : shoji
+ 0.03% : honeycomb
+ 0.02% : prison
+ 0.02% : strainer
+ 0.01% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q008.jpg
+94.95% : lemon
+ 0.91% : orange
+ 0.33% : tennis ball
+ 0.07% : spaghetti squash
+ 0.05% : window screen
+ 0.05% : racket
+ 0.04% : shoji
+ 0.04% : prison
+ 0.04% : honeycomb
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q009.jpg
+75.17% : lemon
+18.55% : orange
+ 0.26% : tennis ball
+ 0.13% : window screen
+ 0.10% : honeycomb
+ 0.10% : prison
+ 0.07% : shoji
+ 0.07% : strainer
+ 0.06% : banana
+ 0.06% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q010.jpg
+89.92% : lemon
+ 1.48% : orange
+ 0.14% : window screen
+ 0.13% : shoji
+ 0.12% : tennis ball
+ 0.12% : spaghetti squash
+ 0.07% : prison
+ 0.06% : French loaf
+ 0.06% : dough
+ 0.06% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q011.jpg
+88.72% : lemon
+ 1.75% : orange
+ 0.17% : spaghetti squash
+ 0.15% : tennis ball
+ 0.13% : French loaf
+ 0.11% : window screen
+ 0.10% : shoji
+ 0.09% : dough
+ 0.09% : honeycomb
+ 0.09% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q012.jpg
+92.57% : lemon
+ 0.81% : orange
+ 0.12% : window screen
+ 0.11% : dough
+ 0.09% : French loaf
+ 0.08% : tennis ball
+ 0.07% : shoji
+ 0.07% : prison
+ 0.07% : spaghetti squash
+ 0.05% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q013.jpg
+95.87% : lemon
+ 0.26% : orange
+ 0.09% : window screen
+ 0.06% : dough
+ 0.06% : spaghetti squash
+ 0.04% : French loaf
+ 0.03% : shoji
+ 0.03% : strainer
+ 0.03% : prison
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q014.jpg
+92.00% : lemon
+ 1.45% : orange
+ 0.22% : window screen
+ 0.09% : prison
+ 0.07% : strainer
+ 0.07% : French loaf
+ 0.06% : shoji
+ 0.05% : dough
+ 0.05% : shopping basket
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q015.jpg
+93.48% : lemon
+ 0.58% : orange
+ 0.18% : window screen
+ 0.07% : dough
+ 0.06% : French loaf
+ 0.05% : prison
+ 0.05% : shoji
+ 0.05% : spaghetti squash
+ 0.05% : strainer
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q016.jpg
+94.58% : lemon
+ 0.45% : orange
+ 0.14% : window screen
+ 0.08% : dough
+ 0.06% : French loaf
+ 0.06% : prison
+ 0.05% : strainer
+ 0.04% : shoji
+ 0.04% : black widow
+ 0.04% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q017.jpg
+92.57% : lemon
+ 0.76% : orange
+ 0.18% : window screen
+ 0.07% : strainer
+ 0.06% : prison
+ 0.06% : French loaf
+ 0.05% : dough
+ 0.05% : black widow
+ 0.05% : fire screen
+ 0.05% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q018.jpg
+95.27% : lemon
+ 0.27% : orange
+ 0.09% : window screen
+ 0.07% : dough
+ 0.04% : French loaf
+ 0.03% : spaghetti squash
+ 0.03% : black widow
+ 0.03% : shoji
+ 0.03% : prison
+ 0.03% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q019.jpg
+95.45% : lemon
+ 0.40% : orange
+ 0.09% : window screen
+ 0.05% : dough
+ 0.04% : strainer
+ 0.04% : French loaf
+ 0.03% : spaghetti squash
+ 0.03% : prison
+ 0.03% : black widow
+ 0.02% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q020.jpg
+94.49% : lemon
+ 0.47% : orange
+ 0.09% : window screen
+ 0.07% : dough
+ 0.06% : French loaf
+ 0.04% : black widow
+ 0.04% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : frying pan
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q021.jpg
+95.28% : lemon
+ 0.36% : orange
+ 0.08% : window screen
+ 0.07% : dough
+ 0.05% : French loaf
+ 0.03% : black widow
+ 0.03% : prison
+ 0.03% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q022.jpg
+95.23% : lemon
+ 0.37% : orange
+ 0.07% : window screen
+ 0.07% : dough
+ 0.05% : French loaf
+ 0.03% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : black widow
+ 0.03% : prison
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q023.jpg
+94.30% : lemon
+ 0.34% : orange
+ 0.08% : window screen
+ 0.06% : dough
+ 0.04% : black widow
+ 0.04% : French loaf
+ 0.04% : spaghetti squash
+ 0.04% : strainer
+ 0.04% : prison
+ 0.03% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q024.jpg
+94.59% : lemon
+ 0.26% : orange
+ 0.13% : window screen
+ 0.09% : dough
+ 0.07% : French loaf
+ 0.05% : black widow
+ 0.05% : strainer
+ 0.04% : spaghetti squash
+ 0.04% : prison
+ 0.04% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q025.jpg
+94.35% : lemon
+ 0.34% : orange
+ 0.12% : window screen
+ 0.09% : dough
+ 0.07% : French loaf
+ 0.05% : strainer
+ 0.05% : black widow
+ 0.04% : shopping basket
+ 0.04% : spatula
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q026.jpg
+94.65% : lemon
+ 0.33% : orange
+ 0.10% : window screen
+ 0.07% : dough
+ 0.05% : French loaf
+ 0.05% : strainer
+ 0.04% : black widow
+ 0.03% : spatula
+ 0.03% : spaghetti squash
+ 0.03% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q027.jpg
+93.86% : lemon
+ 0.40% : orange
+ 0.10% : dough
+ 0.09% : window screen
+ 0.07% : French loaf
+ 0.05% : spaghetti squash
+ 0.05% : strainer
+ 0.04% : black widow
+ 0.04% : shopping basket
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q028.jpg
+93.71% : lemon
+ 0.31% : orange
+ 0.10% : dough
+ 0.09% : window screen
+ 0.08% : French loaf
+ 0.05% : shopping basket
+ 0.05% : spaghetti squash
+ 0.05% : strainer
+ 0.04% : spatula
+ 0.04% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q029.jpg
+94.24% : lemon
+ 0.36% : orange
+ 0.11% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : spatula
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : frying pan
+ 0.04% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q030.jpg
+93.76% : lemon
+ 0.34% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.09% : French loaf
+ 0.05% : prison
+ 0.05% : strainer
+ 0.05% : spatula
+ 0.05% : shopping basket
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q031.jpg
+94.92% : lemon
+ 0.21% : orange
+ 0.09% : window screen
+ 0.07% : dough
+ 0.06% : French loaf
+ 0.04% : prison
+ 0.04% : squirrel monkey
+ 0.04% : spaghetti squash
+ 0.03% : shopping basket
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q032.jpg
+94.78% : lemon
+ 0.21% : orange
+ 0.08% : dough
+ 0.08% : window screen
+ 0.06% : French loaf
+ 0.04% : prison
+ 0.04% : black widow
+ 0.04% : shopping basket
+ 0.04% : strainer
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q033.jpg
+94.77% : lemon
+ 0.20% : orange
+ 0.10% : dough
+ 0.08% : French loaf
+ 0.08% : window screen
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : prison
+ 0.04% : spaghetti squash
+ 0.04% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q034.jpg
+94.21% : lemon
+ 0.24% : orange
+ 0.10% : dough
+ 0.09% : French loaf
+ 0.08% : window screen
+ 0.05% : spatula
+ 0.05% : prison
+ 0.04% : window shade
+ 0.04% : frying pan
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q035.jpg
+93.63% : lemon
+ 0.33% : orange
+ 0.09% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : black widow
+ 0.04% : prison
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q036.jpg
+94.71% : lemon
+ 0.22% : orange
+ 0.11% : dough
+ 0.07% : French loaf
+ 0.07% : window screen
+ 0.04% : window shade
+ 0.04% : spatula
+ 0.04% : prison
+ 0.03% : strainer
+ 0.03% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q037.jpg
+94.88% : lemon
+ 0.22% : orange
+ 0.10% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.04% : spatula
+ 0.04% : window shade
+ 0.04% : strainer
+ 0.04% : prison
+ 0.03% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q038.jpg
+94.35% : lemon
+ 0.23% : orange
+ 0.10% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.04% : prison
+ 0.04% : spaghetti squash
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q039.jpg
+95.08% : lemon
+ 0.22% : orange
+ 0.10% : dough
+ 0.07% : French loaf
+ 0.06% : window screen
+ 0.04% : prison
+ 0.04% : spatula
+ 0.03% : shopping basket
+ 0.03% : window shade
+ 0.03% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q040.jpg
+95.57% : lemon
+ 0.22% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.05% : French loaf
+ 0.04% : strainer
+ 0.03% : shopping basket
+ 0.03% : spatula
+ 0.03% : black widow
+ 0.03% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q041.jpg
+93.92% : lemon
+ 0.30% : orange
+ 0.10% : window screen
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.05% : strainer
+ 0.05% : prison
+ 0.05% : spatula
+ 0.05% : shopping basket
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q042.jpg
+93.70% : lemon
+ 0.25% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.08% : French loaf
+ 0.06% : strainer
+ 0.05% : spatula
+ 0.05% : prison
+ 0.05% : shopping basket
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q043.jpg
+93.77% : lemon
+ 0.25% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.08% : French loaf
+ 0.06% : strainer
+ 0.05% : spatula
+ 0.05% : prison
+ 0.05% : shopping basket
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q044.jpg
+94.49% : lemon
+ 0.23% : orange
+ 0.09% : dough
+ 0.08% : window screen
+ 0.07% : French loaf
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : frying pan
+ 0.04% : prison
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q045.jpg
+94.30% : lemon
+ 0.26% : orange
+ 0.09% : dough
+ 0.09% : window screen
+ 0.07% : French loaf
+ 0.05% : strainer
+ 0.04% : spatula
+ 0.04% : frying pan
+ 0.04% : prison
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q046.jpg
+94.04% : lemon
+ 0.28% : orange
+ 0.09% : dough
+ 0.08% : window screen
+ 0.08% : French loaf
+ 0.06% : strainer
+ 0.05% : prison
+ 0.05% : spatula
+ 0.04% : shopping basket
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q047.jpg
+94.16% : lemon
+ 0.28% : orange
+ 0.09% : dough
+ 0.08% : window screen
+ 0.08% : French loaf
+ 0.06% : strainer
+ 0.05% : prison
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q048.jpg
+94.39% : lemon
+ 0.26% : orange
+ 0.09% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : strainer
+ 0.05% : prison
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q049.jpg
+95.23% : lemon
+ 0.25% : orange
+ 0.06% : dough
+ 0.06% : window screen
+ 0.05% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.03% : shopping basket
+ 0.03% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q050.jpg
+95.23% : lemon
+ 0.25% : orange
+ 0.07% : dough
+ 0.06% : window screen
+ 0.05% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.03% : shopping basket
+ 0.03% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q051.jpg
+95.24% : lemon
+ 0.25% : orange
+ 0.07% : dough
+ 0.06% : window screen
+ 0.05% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.03% : shopping basket
+ 0.03% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q052.jpg
+94.92% : lemon
+ 0.28% : orange
+ 0.08% : dough
+ 0.06% : French loaf
+ 0.06% : window screen
+ 0.04% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.03% : prison
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q053.jpg
+94.91% : lemon
+ 0.28% : orange
+ 0.07% : dough
+ 0.06% : French loaf
+ 0.06% : window screen
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.03% : prison
+ 0.03% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q054.jpg
+94.95% : lemon
+ 0.27% : orange
+ 0.07% : dough
+ 0.06% : French loaf
+ 0.06% : window screen
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.03% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q055.jpg
+94.89% : lemon
+ 0.28% : orange
+ 0.07% : dough
+ 0.06% : window screen
+ 0.06% : French loaf
+ 0.04% : shopping basket
+ 0.04% : strainer
+ 0.04% : window shade
+ 0.04% : spatula
+ 0.03% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q056.jpg
+94.94% : lemon
+ 0.27% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.06% : French loaf
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.04% : window shade
+ 0.04% : spatula
+ 0.03% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q057.jpg
+94.78% : lemon
+ 0.24% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.06% : French loaf
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.04% : window shade
+ 0.04% : spatula
+ 0.03% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q058.jpg
+95.11% : lemon
+ 0.21% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.06% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.03% : frying pan
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q059.jpg
+95.03% : lemon
+ 0.21% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.06% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.03% : window shade
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q060.jpg
+94.98% : lemon
+ 0.22% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.03% : frying pan
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q061.jpg
+94.63% : lemon
+ 0.23% : orange
+ 0.09% : dough
+ 0.08% : window screen
+ 0.08% : French loaf
+ 0.05% : strainer
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : window shade
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q062.jpg
+94.68% : lemon
+ 0.25% : orange
+ 0.09% : dough
+ 0.08% : window screen
+ 0.07% : French loaf
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : window shade
+ 0.03% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q063.jpg
+94.60% : lemon
+ 0.26% : orange
+ 0.08% : dough
+ 0.08% : window screen
+ 0.07% : French loaf
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q064.jpg
+94.65% : lemon
+ 0.27% : orange
+ 0.08% : window screen
+ 0.08% : dough
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q065.jpg
+94.85% : lemon
+ 0.21% : orange
+ 0.08% : dough
+ 0.08% : window screen
+ 0.07% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q066.jpg
+94.96% : lemon
+ 0.23% : orange
+ 0.08% : window screen
+ 0.07% : dough
+ 0.07% : French loaf
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : shopping basket
+ 0.04% : prison
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q067.jpg
+94.69% : lemon
+ 0.26% : orange
+ 0.08% : window screen
+ 0.06% : dough
+ 0.06% : French loaf
+ 0.05% : strainer
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : prison
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q068.jpg
+94.68% : lemon
+ 0.28% : orange
+ 0.08% : window screen
+ 0.07% : dough
+ 0.06% : French loaf
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : prison
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q069.jpg
+94.59% : lemon
+ 0.28% : orange
+ 0.08% : window screen
+ 0.06% : dough
+ 0.06% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : strainer
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q070.jpg
+95.02% : lemon
+ 0.25% : orange
+ 0.07% : dough
+ 0.06% : window screen
+ 0.05% : French loaf
+ 0.04% : shopping basket
+ 0.04% : spatula
+ 0.03% : prison
+ 0.03% : window shade
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q071.jpg
+94.76% : lemon
+ 0.26% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.06% : French loaf
+ 0.04% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.03% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q072.jpg
+94.82% : lemon
+ 0.26% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.06% : French loaf
+ 0.04% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.03% : prison
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q073.jpg
+94.49% : lemon
+ 0.26% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : strainer
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q074.jpg
+94.39% : lemon
+ 0.27% : orange
+ 0.08% : dough
+ 0.08% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q075.jpg
+94.45% : lemon
+ 0.27% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q076.jpg
+95.01% : lemon
+ 0.24% : orange
+ 0.08% : dough
+ 0.06% : French loaf
+ 0.06% : window screen
+ 0.04% : spatula
+ 0.04% : shopping basket
+ 0.04% : window shade
+ 0.03% : prison
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q077.jpg
+94.62% : lemon
+ 0.25% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : window shade
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q078.jpg
+94.30% : lemon
+ 0.27% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : window shade
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q079.jpg
+94.14% : lemon
+ 0.27% : orange
+ 0.08% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : window shade
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q080.jpg
+94.57% : lemon
+ 0.28% : orange
+ 0.08% : dough
+ 0.07% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q081.jpg
+94.29% : lemon
+ 0.29% : orange
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.04% : strainer
+ 0.04% : frying pan
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q082.jpg
+93.99% : lemon
+ 0.29% : orange
+ 0.09% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : frying pan
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q083.jpg
+93.69% : lemon
+ 0.32% : orange
+ 0.09% : dough
+ 0.08% : French loaf
+ 0.08% : window screen
+ 0.05% : spatula
+ 0.05% : shopping basket
+ 0.05% : strainer
+ 0.04% : frying pan
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q084.jpg
+94.13% : lemon
+ 0.27% : orange
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.04% : strainer
+ 0.04% : window shade
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q085.jpg
+94.14% : lemon
+ 0.25% : orange
+ 0.09% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.04% : strainer
+ 0.04% : window shade
+ 0.04% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q086.jpg
+93.70% : lemon
+ 0.28% : orange
+ 0.09% : French loaf
+ 0.08% : dough
+ 0.08% : window screen
+ 0.06% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q087.jpg
+93.57% : lemon
+ 0.29% : orange
+ 0.09% : French loaf
+ 0.09% : window screen
+ 0.09% : dough
+ 0.06% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.05% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q088.jpg
+93.75% : lemon
+ 0.30% : orange
+ 0.09% : window screen
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.06% : shopping basket
+ 0.05% : strainer
+ 0.05% : spatula
+ 0.04% : prison
+ 0.04% : African grey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q089.jpg
+93.62% : lemon
+ 0.30% : orange
+ 0.09% : window screen
+ 0.09% : dough
+ 0.09% : French loaf
+ 0.06% : shopping basket
+ 0.05% : strainer
+ 0.05% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q090.jpg
+93.82% : lemon
+ 0.29% : orange
+ 0.09% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.06% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : prison
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q091.jpg
+94.04% : lemon
+ 0.29% : orange
+ 0.09% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.06% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : prison
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q092.jpg
+94.33% : lemon
+ 0.27% : orange
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.04% : strainer
+ 0.04% : prison
+ 0.04% : African grey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q093.jpg
+94.23% : lemon
+ 0.29% : orange
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.07% : window screen
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q094.jpg
+94.20% : lemon
+ 0.28% : orange
+ 0.08% : window screen
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q095.jpg
+94.32% : lemon
+ 0.30% : orange
+ 0.08% : window screen
+ 0.07% : dough
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q096.jpg
+94.38% : lemon
+ 0.28% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q097.jpg
+94.24% : lemon
+ 0.29% : orange
+ 0.08% : window screen
+ 0.08% : dough
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.05% : strainer
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q098.jpg
+94.35% : lemon
+ 0.30% : orange
+ 0.07% : window screen
+ 0.07% : dough
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : prison
+ 0.04% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q099.jpg
+94.23% : lemon
+ 0.29% : orange
+ 0.08% : dough
+ 0.08% : French loaf
+ 0.08% : window screen
+ 0.05% : shopping basket
+ 0.05% : spatula
+ 0.04% : strainer
+ 0.04% : prison
+ 0.04% : African grey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon21Q100.jpg
+94.42% : lemon
+ 0.30% : orange
+ 0.07% : dough
+ 0.07% : window screen
+ 0.07% : French loaf
+ 0.05% : shopping basket
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : prison
+ 0.03% : window shade

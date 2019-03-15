@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q001.jpg
+95.45% : cucumber
+ 3.23% : zucchini
+ 0.10% : French loaf
+ 0.04% : grocery store
+ 0.04% : Granny Smith
+ 0.04% : ear
+ 0.04% : banana
+ 0.03% : spaghetti squash
+ 0.02% : coil
+ 0.02% : projectile
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q002.jpg
+95.50% : cucumber
+ 3.19% : zucchini
+ 0.10% : French loaf
+ 0.04% : grocery store
+ 0.04% : Granny Smith
+ 0.04% : ear
+ 0.04% : banana
+ 0.03% : spaghetti squash
+ 0.02% : coil
+ 0.02% : projectile
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q003.jpg
+93.91% : cucumber
+ 4.32% : zucchini
+ 0.10% : French loaf
+ 0.06% : grocery store
+ 0.05% : ear
+ 0.05% : Granny Smith
+ 0.04% : spaghetti squash
+ 0.03% : banana
+ 0.03% : head cabbage
+ 0.02% : projectile
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q004.jpg
+94.04% : cucumber
+ 4.93% : zucchini
+ 0.05% : grocery store
+ 0.03% : coil
+ 0.02% : spaghetti squash
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.01% : strawberry
+ 0.01% : banana
+ 0.01% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q005.jpg
+80.71% : cucumber
+13.53% : zucchini
+ 0.29% : spaghetti squash
+ 0.22% : acorn squash
+ 0.17% : grocery store
+ 0.08% : ear
+ 0.06% : head cabbage
+ 0.06% : coil
+ 0.06% : butternut squash
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q006.jpg
+85.07% : cucumber
+11.68% : zucchini
+ 0.24% : grocery store
+ 0.12% : bell pepper
+ 0.08% : spaghetti squash
+ 0.06% : strawberry
+ 0.06% : coil
+ 0.05% : ear
+ 0.05% : hip
+ 0.04% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q007.jpg
+78.85% : cucumber
+16.28% : zucchini
+ 0.39% : grocery store
+ 0.14% : spaghetti squash
+ 0.11% : ear
+ 0.10% : bell pepper
+ 0.09% : acorn squash
+ 0.08% : coil
+ 0.06% : butternut squash
+ 0.06% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q008.jpg
+79.09% : cucumber
+16.24% : zucchini
+ 0.19% : grocery store
+ 0.16% : spaghetti squash
+ 0.10% : bell pepper
+ 0.08% : acorn squash
+ 0.06% : ear
+ 0.06% : strawberry
+ 0.06% : head cabbage
+ 0.05% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q009.jpg
+89.03% : cucumber
+ 7.66% : zucchini
+ 0.20% : grocery store
+ 0.11% : spaghetti squash
+ 0.10% : bell pepper
+ 0.05% : ear
+ 0.05% : strawberry
+ 0.05% : coil
+ 0.05% : head cabbage
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q010.jpg
+82.10% : cucumber
+13.13% : zucchini
+ 0.35% : grocery store
+ 0.18% : bell pepper
+ 0.15% : spaghetti squash
+ 0.11% : ear
+ 0.07% : strawberry
+ 0.06% : acorn squash
+ 0.06% : coil
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q011.jpg
+85.90% : cucumber
+10.48% : zucchini
+ 0.30% : grocery store
+ 0.13% : spaghetti squash
+ 0.12% : bell pepper
+ 0.09% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : acorn squash
+ 0.04% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q012.jpg
+83.77% : cucumber
+11.24% : zucchini
+ 0.27% : grocery store
+ 0.20% : bell pepper
+ 0.17% : spaghetti squash
+ 0.09% : acorn squash
+ 0.08% : strawberry
+ 0.07% : ear
+ 0.07% : hip
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q013.jpg
+89.52% : cucumber
+ 6.05% : zucchini
+ 0.39% : grocery store
+ 0.21% : bell pepper
+ 0.12% : spaghetti squash
+ 0.08% : acorn squash
+ 0.06% : strawberry
+ 0.06% : ear
+ 0.06% : coil
+ 0.05% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q014.jpg
+91.76% : cucumber
+ 5.56% : zucchini
+ 0.20% : grocery store
+ 0.09% : bell pepper
+ 0.08% : spaghetti squash
+ 0.06% : ear
+ 0.05% : coil
+ 0.04% : strawberry
+ 0.03% : head cabbage
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q015.jpg
+87.51% : cucumber
+ 7.53% : zucchini
+ 0.29% : grocery store
+ 0.23% : bell pepper
+ 0.13% : spaghetti squash
+ 0.09% : ear
+ 0.08% : acorn squash
+ 0.07% : strawberry
+ 0.06% : coil
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q016.jpg
+89.24% : cucumber
+ 7.28% : zucchini
+ 0.28% : grocery store
+ 0.18% : bell pepper
+ 0.10% : spaghetti squash
+ 0.08% : ear
+ 0.05% : acorn squash
+ 0.05% : head cabbage
+ 0.05% : coil
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q017.jpg
+91.89% : cucumber
+ 5.27% : zucchini
+ 0.24% : grocery store
+ 0.11% : bell pepper
+ 0.07% : spaghetti squash
+ 0.07% : coil
+ 0.06% : ear
+ 0.04% : acorn squash
+ 0.03% : head cabbage
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q018.jpg
+91.92% : cucumber
+ 4.39% : zucchini
+ 0.23% : grocery store
+ 0.18% : bell pepper
+ 0.07% : ear
+ 0.07% : spaghetti squash
+ 0.07% : coil
+ 0.05% : strawberry
+ 0.04% : hip
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q019.jpg
+90.14% : cucumber
+ 5.67% : zucchini
+ 0.29% : grocery store
+ 0.21% : bell pepper
+ 0.11% : ear
+ 0.08% : spaghetti squash
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : strawberry
+ 0.05% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q020.jpg
+90.09% : cucumber
+ 5.33% : zucchini
+ 0.34% : grocery store
+ 0.20% : bell pepper
+ 0.10% : ear
+ 0.08% : spaghetti squash
+ 0.07% : coil
+ 0.06% : head cabbage
+ 0.05% : hip
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q021.jpg
+91.22% : cucumber
+ 5.18% : zucchini
+ 0.31% : grocery store
+ 0.15% : bell pepper
+ 0.09% : ear
+ 0.07% : spaghetti squash
+ 0.07% : coil
+ 0.04% : head cabbage
+ 0.04% : acorn squash
+ 0.04% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q022.jpg
+91.69% : cucumber
+ 4.50% : zucchini
+ 0.31% : grocery store
+ 0.20% : bell pepper
+ 0.09% : ear
+ 0.08% : spaghetti squash
+ 0.07% : coil
+ 0.05% : hip
+ 0.04% : acorn squash
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q023.jpg
+91.79% : cucumber
+ 5.16% : zucchini
+ 0.27% : grocery store
+ 0.15% : bell pepper
+ 0.09% : ear
+ 0.08% : spaghetti squash
+ 0.05% : coil
+ 0.05% : head cabbage
+ 0.04% : acorn squash
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q024.jpg
+91.99% : cucumber
+ 4.37% : zucchini
+ 0.36% : grocery store
+ 0.24% : bell pepper
+ 0.08% : spaghetti squash
+ 0.07% : ear
+ 0.06% : coil
+ 0.06% : hip
+ 0.06% : strawberry
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q025.jpg
+91.30% : cucumber
+ 4.87% : zucchini
+ 0.36% : grocery store
+ 0.17% : bell pepper
+ 0.09% : ear
+ 0.09% : spaghetti squash
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.04% : strawberry
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q026.jpg
+90.68% : cucumber
+ 5.28% : zucchini
+ 0.37% : grocery store
+ 0.20% : bell pepper
+ 0.11% : ear
+ 0.09% : spaghetti squash
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : acorn squash
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q027.jpg
+90.85% : cucumber
+ 5.42% : zucchini
+ 0.35% : grocery store
+ 0.17% : bell pepper
+ 0.10% : spaghetti squash
+ 0.09% : ear
+ 0.05% : coil
+ 0.05% : head cabbage
+ 0.04% : strawberry
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q028.jpg
+90.82% : cucumber
+ 5.13% : zucchini
+ 0.37% : grocery store
+ 0.20% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : acorn squash
+ 0.05% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q029.jpg
+91.25% : cucumber
+ 4.86% : zucchini
+ 0.34% : grocery store
+ 0.18% : bell pepper
+ 0.08% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.04% : acorn squash
+ 0.04% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q030.jpg
+94.27% : cucumber
+ 3.16% : zucchini
+ 0.21% : grocery store
+ 0.10% : bell pepper
+ 0.06% : spaghetti squash
+ 0.05% : ear
+ 0.05% : coil
+ 0.04% : head cabbage
+ 0.03% : strawberry
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q031.jpg
+91.68% : cucumber
+ 4.94% : zucchini
+ 0.27% : grocery store
+ 0.14% : bell pepper
+ 0.08% : spaghetti squash
+ 0.07% : ear
+ 0.05% : coil
+ 0.05% : head cabbage
+ 0.04% : strawberry
+ 0.04% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q032.jpg
+92.27% : cucumber
+ 4.06% : zucchini
+ 0.29% : grocery store
+ 0.17% : bell pepper
+ 0.08% : spaghetti squash
+ 0.07% : ear
+ 0.06% : coil
+ 0.05% : strawberry
+ 0.05% : hip
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q033.jpg
+91.37% : cucumber
+ 4.66% : zucchini
+ 0.30% : grocery store
+ 0.19% : bell pepper
+ 0.08% : ear
+ 0.08% : spaghetti squash
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q034.jpg
+91.84% : cucumber
+ 4.30% : zucchini
+ 0.29% : grocery store
+ 0.17% : bell pepper
+ 0.08% : ear
+ 0.07% : spaghetti squash
+ 0.07% : coil
+ 0.04% : head cabbage
+ 0.04% : hip
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q035.jpg
+89.87% : cucumber
+ 6.19% : zucchini
+ 0.34% : grocery store
+ 0.21% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.05% : coil
+ 0.05% : head cabbage
+ 0.05% : acorn squash
+ 0.05% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q036.jpg
+91.43% : cucumber
+ 4.86% : zucchini
+ 0.32% : grocery store
+ 0.24% : bell pepper
+ 0.08% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q037.jpg
+90.75% : cucumber
+ 5.29% : zucchini
+ 0.32% : grocery store
+ 0.23% : bell pepper
+ 0.08% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q038.jpg
+90.37% : cucumber
+ 5.70% : zucchini
+ 0.32% : grocery store
+ 0.21% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : strawberry
+ 0.04% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q039.jpg
+90.93% : cucumber
+ 5.33% : zucchini
+ 0.35% : grocery store
+ 0.22% : bell pepper
+ 0.08% : ear
+ 0.08% : spaghetti squash
+ 0.06% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q040.jpg
+89.96% : cucumber
+ 6.02% : zucchini
+ 0.34% : grocery store
+ 0.23% : bell pepper
+ 0.10% : spaghetti squash
+ 0.10% : ear
+ 0.06% : coil
+ 0.05% : acorn squash
+ 0.05% : head cabbage
+ 0.05% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q041.jpg
+90.36% : cucumber
+ 5.31% : zucchini
+ 0.38% : grocery store
+ 0.25% : bell pepper
+ 0.11% : spaghetti squash
+ 0.09% : ear
+ 0.07% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q042.jpg
+91.59% : cucumber
+ 4.53% : zucchini
+ 0.33% : grocery store
+ 0.19% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.05% : strawberry
+ 0.04% : head cabbage
+ 0.04% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q043.jpg
+91.86% : cucumber
+ 4.51% : zucchini
+ 0.31% : grocery store
+ 0.17% : bell pepper
+ 0.08% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.04% : head cabbage
+ 0.04% : strawberry
+ 0.04% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q044.jpg
+91.17% : cucumber
+ 5.07% : zucchini
+ 0.30% : grocery store
+ 0.18% : bell pepper
+ 0.08% : ear
+ 0.08% : spaghetti squash
+ 0.07% : coil
+ 0.04% : head cabbage
+ 0.04% : hip
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q045.jpg
+90.41% : cucumber
+ 5.55% : zucchini
+ 0.33% : grocery store
+ 0.20% : bell pepper
+ 0.09% : ear
+ 0.09% : spaghetti squash
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q046.jpg
+89.75% : cucumber
+ 6.06% : zucchini
+ 0.35% : grocery store
+ 0.20% : bell pepper
+ 0.10% : ear
+ 0.10% : spaghetti squash
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q047.jpg
+89.53% : cucumber
+ 6.15% : zucchini
+ 0.36% : grocery store
+ 0.21% : bell pepper
+ 0.10% : ear
+ 0.10% : spaghetti squash
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q048.jpg
+90.70% : cucumber
+ 5.01% : zucchini
+ 0.35% : grocery store
+ 0.23% : bell pepper
+ 0.09% : ear
+ 0.09% : spaghetti squash
+ 0.08% : coil
+ 0.05% : strawberry
+ 0.05% : hip
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q049.jpg
+89.71% : cucumber
+ 5.48% : zucchini
+ 0.40% : grocery store
+ 0.28% : bell pepper
+ 0.10% : ear
+ 0.09% : spaghetti squash
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q050.jpg
+89.58% : cucumber
+ 5.62% : zucchini
+ 0.39% : grocery store
+ 0.29% : bell pepper
+ 0.10% : ear
+ 0.09% : spaghetti squash
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q051.jpg
+89.30% : cucumber
+ 5.83% : zucchini
+ 0.39% : grocery store
+ 0.28% : bell pepper
+ 0.10% : ear
+ 0.10% : spaghetti squash
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q052.jpg
+88.04% : cucumber
+ 6.49% : zucchini
+ 0.40% : grocery store
+ 0.24% : bell pepper
+ 0.11% : ear
+ 0.11% : spaghetti squash
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : head cabbage
+ 0.06% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q053.jpg
+88.80% : cucumber
+ 5.90% : zucchini
+ 0.39% : grocery store
+ 0.27% : bell pepper
+ 0.11% : ear
+ 0.11% : spaghetti squash
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q054.jpg
+89.04% : cucumber
+ 5.76% : zucchini
+ 0.40% : grocery store
+ 0.26% : bell pepper
+ 0.11% : ear
+ 0.11% : spaghetti squash
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q055.jpg
+91.05% : cucumber
+ 5.04% : zucchini
+ 0.36% : grocery store
+ 0.23% : bell pepper
+ 0.09% : ear
+ 0.08% : spaghetti squash
+ 0.06% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q056.jpg
+90.36% : cucumber
+ 5.62% : zucchini
+ 0.36% : grocery store
+ 0.23% : bell pepper
+ 0.10% : ear
+ 0.08% : spaghetti squash
+ 0.07% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q057.jpg
+89.42% : cucumber
+ 6.23% : zucchini
+ 0.39% : grocery store
+ 0.24% : bell pepper
+ 0.10% : ear
+ 0.09% : spaghetti squash
+ 0.07% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q058.jpg
+89.96% : cucumber
+ 6.09% : zucchini
+ 0.31% : grocery store
+ 0.19% : bell pepper
+ 0.09% : ear
+ 0.08% : spaghetti squash
+ 0.06% : coil
+ 0.05% : hip
+ 0.04% : strawberry
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q059.jpg
+89.09% : cucumber
+ 6.79% : zucchini
+ 0.33% : grocery store
+ 0.21% : bell pepper
+ 0.09% : ear
+ 0.09% : spaghetti squash
+ 0.06% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q060.jpg
+89.09% : cucumber
+ 6.69% : zucchini
+ 0.34% : grocery store
+ 0.20% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.06% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q061.jpg
+88.26% : cucumber
+ 7.17% : zucchini
+ 0.36% : grocery store
+ 0.26% : bell pepper
+ 0.10% : spaghetti squash
+ 0.09% : ear
+ 0.07% : hip
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q062.jpg
+88.59% : cucumber
+ 7.08% : zucchini
+ 0.35% : grocery store
+ 0.23% : bell pepper
+ 0.10% : spaghetti squash
+ 0.09% : ear
+ 0.06% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q063.jpg
+89.06% : cucumber
+ 6.53% : zucchini
+ 0.36% : grocery store
+ 0.25% : bell pepper
+ 0.10% : spaghetti squash
+ 0.09% : ear
+ 0.07% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q064.jpg
+89.34% : cucumber
+ 6.51% : zucchini
+ 0.32% : grocery store
+ 0.24% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q065.jpg
+89.33% : cucumber
+ 6.61% : zucchini
+ 0.29% : grocery store
+ 0.19% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q066.jpg
+89.33% : cucumber
+ 6.65% : zucchini
+ 0.32% : grocery store
+ 0.18% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q067.jpg
+88.27% : cucumber
+ 7.34% : zucchini
+ 0.34% : grocery store
+ 0.19% : bell pepper
+ 0.10% : spaghetti squash
+ 0.10% : ear
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q068.jpg
+89.85% : cucumber
+ 6.23% : zucchini
+ 0.30% : grocery store
+ 0.16% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.04% : hip
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q069.jpg
+89.79% : cucumber
+ 6.33% : zucchini
+ 0.30% : grocery store
+ 0.19% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q070.jpg
+89.13% : cucumber
+ 6.70% : zucchini
+ 0.33% : grocery store
+ 0.21% : bell pepper
+ 0.10% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q071.jpg
+89.43% : cucumber
+ 6.57% : zucchini
+ 0.33% : grocery store
+ 0.21% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q072.jpg
+89.19% : cucumber
+ 6.64% : zucchini
+ 0.35% : grocery store
+ 0.23% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.06% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q073.jpg
+89.66% : cucumber
+ 6.27% : zucchini
+ 0.34% : grocery store
+ 0.22% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : hip
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q074.jpg
+89.70% : cucumber
+ 6.31% : zucchini
+ 0.31% : grocery store
+ 0.21% : bell pepper
+ 0.08% : ear
+ 0.08% : spaghetti squash
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q075.jpg
+89.84% : cucumber
+ 6.14% : zucchini
+ 0.30% : grocery store
+ 0.21% : bell pepper
+ 0.08% : ear
+ 0.08% : spaghetti squash
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q076.jpg
+89.41% : cucumber
+ 6.43% : zucchini
+ 0.32% : grocery store
+ 0.22% : bell pepper
+ 0.09% : ear
+ 0.09% : spaghetti squash
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.04% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q077.jpg
+89.66% : cucumber
+ 6.14% : zucchini
+ 0.33% : grocery store
+ 0.24% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q078.jpg
+89.61% : cucumber
+ 6.25% : zucchini
+ 0.32% : grocery store
+ 0.22% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q079.jpg
+89.37% : cucumber
+ 6.46% : zucchini
+ 0.32% : grocery store
+ 0.22% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q080.jpg
+90.12% : cucumber
+ 5.81% : zucchini
+ 0.33% : grocery store
+ 0.23% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.07% : coil
+ 0.05% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q081.jpg
+90.37% : cucumber
+ 5.45% : zucchini
+ 0.35% : grocery store
+ 0.22% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.08% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q082.jpg
+89.88% : cucumber
+ 5.78% : zucchini
+ 0.38% : grocery store
+ 0.23% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.08% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q083.jpg
+88.57% : cucumber
+ 6.49% : zucchini
+ 0.39% : grocery store
+ 0.28% : bell pepper
+ 0.10% : spaghetti squash
+ 0.09% : ear
+ 0.09% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q084.jpg
+89.53% : cucumber
+ 5.84% : zucchini
+ 0.38% : grocery store
+ 0.26% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.08% : coil
+ 0.07% : hip
+ 0.06% : strawberry
+ 0.06% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q085.jpg
+89.59% : cucumber
+ 5.82% : zucchini
+ 0.36% : grocery store
+ 0.23% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.08% : coil
+ 0.06% : hip
+ 0.06% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q086.jpg
+89.34% : cucumber
+ 6.06% : zucchini
+ 0.36% : grocery store
+ 0.22% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.08% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q087.jpg
+89.21% : cucumber
+ 6.13% : zucchini
+ 0.38% : grocery store
+ 0.25% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : coil
+ 0.09% : ear
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q088.jpg
+89.66% : cucumber
+ 5.74% : zucchini
+ 0.36% : grocery store
+ 0.25% : bell pepper
+ 0.09% : spaghetti squash
+ 0.09% : ear
+ 0.08% : coil
+ 0.06% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q089.jpg
+90.02% : cucumber
+ 5.69% : zucchini
+ 0.34% : grocery store
+ 0.23% : bell pepper
+ 0.09% : spaghetti squash
+ 0.08% : ear
+ 0.08% : coil
+ 0.05% : hip
+ 0.05% : strawberry
+ 0.05% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q090.jpg
+91.51% : cucumber
+ 4.70% : zucchini
+ 0.29% : grocery store
+ 0.22% : bell pepper
+ 0.08% : coil
+ 0.08% : spaghetti squash
+ 0.07% : ear
+ 0.05% : hip
+ 0.04% : strawberry
+ 0.04% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q091.jpg
+89.31% : cucumber
+ 6.27% : zucchini
+ 0.36% : grocery store
+ 0.22% : bell pepper
+ 0.10% : spaghetti squash
+ 0.10% : ear
+ 0.08% : coil
+ 0.06% : hip
+ 0.05% : head cabbage
+ 0.05% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q092.jpg
+84.00% : cucumber
+10.23% : zucchini
+ 0.41% : grocery store
+ 0.22% : bell pepper
+ 0.12% : spaghetti squash
+ 0.12% : ear
+ 0.09% : coil
+ 0.08% : hip
+ 0.07% : head cabbage
+ 0.06% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q093.jpg
+81.91% : cucumber
+11.52% : zucchini
+ 0.54% : grocery store
+ 0.24% : bell pepper
+ 0.14% : spaghetti squash
+ 0.13% : ear
+ 0.10% : hip
+ 0.10% : coil
+ 0.08% : head cabbage
+ 0.07% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q094.jpg
+82.02% : cucumber
+11.24% : zucchini
+ 0.60% : grocery store
+ 0.26% : bell pepper
+ 0.15% : spaghetti squash
+ 0.12% : ear
+ 0.10% : hip
+ 0.10% : coil
+ 0.09% : head cabbage
+ 0.07% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q095.jpg
+83.50% : cucumber
+10.10% : zucchini
+ 0.55% : grocery store
+ 0.27% : bell pepper
+ 0.15% : spaghetti squash
+ 0.12% : ear
+ 0.09% : hip
+ 0.09% : coil
+ 0.08% : head cabbage
+ 0.07% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q096.jpg
+85.79% : cucumber
+ 8.74% : zucchini
+ 0.50% : grocery store
+ 0.25% : bell pepper
+ 0.12% : spaghetti squash
+ 0.10% : ear
+ 0.08% : coil
+ 0.08% : hip
+ 0.07% : head cabbage
+ 0.06% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q097.jpg
+85.59% : cucumber
+ 8.71% : zucchini
+ 0.51% : grocery store
+ 0.27% : bell pepper
+ 0.13% : spaghetti squash
+ 0.11% : ear
+ 0.09% : coil
+ 0.08% : hip
+ 0.07% : head cabbage
+ 0.07% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q098.jpg
+85.91% : cucumber
+ 8.47% : zucchini
+ 0.51% : grocery store
+ 0.27% : bell pepper
+ 0.13% : spaghetti squash
+ 0.11% : ear
+ 0.09% : coil
+ 0.09% : hip
+ 0.07% : head cabbage
+ 0.07% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q099.jpg
+85.28% : cucumber
+ 8.94% : zucchini
+ 0.52% : grocery store
+ 0.26% : bell pepper
+ 0.13% : spaghetti squash
+ 0.11% : ear
+ 0.09% : coil
+ 0.09% : hip
+ 0.08% : head cabbage
+ 0.07% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber4Q100.jpg
+84.44% : cucumber
+ 9.49% : zucchini
+ 0.54% : grocery store
+ 0.27% : bell pepper
+ 0.14% : spaghetti squash
+ 0.11% : ear
+ 0.09% : coil
+ 0.09% : hip
+ 0.08% : head cabbage
+ 0.07% : strawberry

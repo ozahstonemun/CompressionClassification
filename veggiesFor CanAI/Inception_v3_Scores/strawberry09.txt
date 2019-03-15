@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q001.jpg
+55.98% : strawberry
+11.36% : goldfish
+ 4.27% : coral reef
+ 3.79% : pomegranate
+ 2.88% : agaric
+ 0.84% : pot
+ 0.79% : sea anemone
+ 0.74% : orange
+ 0.61% : coral fungus
+ 0.53% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q002.jpg
+55.94% : strawberry
+11.38% : goldfish
+ 4.28% : coral reef
+ 3.80% : pomegranate
+ 2.87% : agaric
+ 0.84% : pot
+ 0.79% : sea anemone
+ 0.74% : orange
+ 0.61% : coral fungus
+ 0.53% : hip
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q003.jpg
+48.44% : strawberry
+10.39% : goldfish
+ 4.71% : agaric
+ 4.64% : coral reef
+ 4.00% : pomegranate
+ 1.31% : orange
+ 1.09% : sea anemone
+ 1.09% : coral fungus
+ 0.93% : pot
+ 0.61% : sea slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q004.jpg
+32.18% : goldfish
+12.95% : coral reef
+ 5.13% : strawberry
+ 4.77% : orange
+ 4.05% : sea anemone
+ 4.03% : pot
+ 1.75% : greenhouse
+ 1.65% : confectionery
+ 1.34% : vase
+ 1.32% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q005.jpg
+99.84% : strawberry
+ 0.03% : pineapple
+ 0.01% : orange
+ 0.01% : pomegranate
+ 0.00% : banana
+ 0.00% : candle
+ 0.00% : vase
+ 0.00% : hamper
+ 0.00% : chocolate sauce
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q006.jpg
+99.30% : strawberry
+ 0.04% : pineapple
+ 0.03% : banana
+ 0.02% : orange
+ 0.02% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : ice cream
+ 0.01% : toaster
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q007.jpg
+98.67% : strawberry
+ 0.08% : pomegranate
+ 0.08% : pineapple
+ 0.05% : orange
+ 0.05% : banana
+ 0.03% : brain coral
+ 0.03% : candle
+ 0.02% : goldfish
+ 0.01% : jackfruit
+ 0.01% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q008.jpg
+97.94% : strawberry
+ 0.24% : pineapple
+ 0.07% : banana
+ 0.07% : pomegranate
+ 0.06% : orange
+ 0.03% : candle
+ 0.03% : tray
+ 0.03% : trifle
+ 0.03% : soap dispenser
+ 0.02% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q009.jpg
+98.70% : strawberry
+ 0.11% : pineapple
+ 0.06% : banana
+ 0.05% : orange
+ 0.02% : tray
+ 0.02% : pomegranate
+ 0.02% : trifle
+ 0.02% : candle
+ 0.01% : hamper
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q010.jpg
+98.91% : strawberry
+ 0.06% : pineapple
+ 0.05% : banana
+ 0.04% : orange
+ 0.03% : pomegranate
+ 0.02% : candle
+ 0.02% : trifle
+ 0.01% : hamper
+ 0.01% : fig
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q011.jpg
+98.69% : strawberry
+ 0.10% : pineapple
+ 0.09% : banana
+ 0.05% : orange
+ 0.03% : pomegranate
+ 0.02% : tray
+ 0.02% : trifle
+ 0.02% : scale
+ 0.01% : fig
+ 0.01% : goldfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q012.jpg
+98.70% : strawberry
+ 0.07% : banana
+ 0.07% : pineapple
+ 0.05% : orange
+ 0.03% : tray
+ 0.02% : fig
+ 0.01% : hamper
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q013.jpg
+98.38% : strawberry
+ 0.11% : banana
+ 0.09% : pineapple
+ 0.06% : orange
+ 0.03% : tray
+ 0.03% : pomegranate
+ 0.02% : fig
+ 0.02% : goldfish
+ 0.02% : scale
+ 0.02% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q014.jpg
+98.28% : strawberry
+ 0.10% : banana
+ 0.09% : pineapple
+ 0.06% : orange
+ 0.03% : tray
+ 0.03% : fig
+ 0.02% : pomegranate
+ 0.02% : trifle
+ 0.02% : candle
+ 0.02% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q015.jpg
+99.09% : strawberry
+ 0.06% : pineapple
+ 0.05% : banana
+ 0.02% : orange
+ 0.02% : tray
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : chocolate sauce
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q016.jpg
+99.36% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.02% : orange
+ 0.02% : tray
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : chocolate sauce
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q017.jpg
+99.29% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : scale
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q018.jpg
+99.11% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : orange
+ 0.02% : tray
+ 0.02% : pomegranate
+ 0.02% : goldfish
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q019.jpg
+99.05% : strawberry
+ 0.08% : banana
+ 0.06% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : chocolate sauce
+ 0.01% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q020.jpg
+99.01% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : pomegranate
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q021.jpg
+98.64% : strawberry
+ 0.10% : banana
+ 0.08% : pineapple
+ 0.05% : orange
+ 0.04% : tray
+ 0.02% : trifle
+ 0.02% : fig
+ 0.02% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : goldfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q022.jpg
+99.05% : strawberry
+ 0.06% : banana
+ 0.06% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q023.jpg
+98.44% : strawberry
+ 0.10% : pineapple
+ 0.08% : banana
+ 0.07% : orange
+ 0.06% : tray
+ 0.02% : pomegranate
+ 0.02% : goldfish
+ 0.02% : fig
+ 0.02% : candle
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q024.jpg
+99.07% : strawberry
+ 0.05% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+ 0.01% : goldfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q025.jpg
+99.13% : strawberry
+ 0.06% : pineapple
+ 0.06% : banana
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q026.jpg
+98.72% : strawberry
+ 0.07% : pineapple
+ 0.06% : banana
+ 0.05% : orange
+ 0.04% : tray
+ 0.02% : goldfish
+ 0.02% : pomegranate
+ 0.02% : candle
+ 0.02% : fig
+ 0.02% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q027.jpg
+99.09% : strawberry
+ 0.05% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q028.jpg
+98.97% : strawberry
+ 0.05% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.02% : pomegranate
+ 0.01% : fig
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q029.jpg
+98.67% : strawberry
+ 0.09% : pineapple
+ 0.07% : banana
+ 0.06% : orange
+ 0.04% : tray
+ 0.03% : pomegranate
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.02% : fig
+ 0.01% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q030.jpg
+98.83% : strawberry
+ 0.07% : banana
+ 0.06% : pineapple
+ 0.04% : orange
+ 0.04% : tray
+ 0.02% : pomegranate
+ 0.02% : goldfish
+ 0.02% : fig
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q031.jpg
+98.78% : strawberry
+ 0.06% : banana
+ 0.06% : pineapple
+ 0.04% : tray
+ 0.04% : orange
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q032.jpg
+99.21% : strawberry
+ 0.05% : banana
+ 0.03% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : goldfish
+ 0.01% : candle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q033.jpg
+99.11% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : goldfish
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q034.jpg
+99.16% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q035.jpg
+98.98% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q036.jpg
+98.90% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.02% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q037.jpg
+98.87% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.02% : trifle
+ 0.02% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q038.jpg
+98.93% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q039.jpg
+98.95% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q040.jpg
+98.91% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.02% : candle
+ 0.02% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q041.jpg
+98.90% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : trifle
+ 0.01% : goldfish
+ 0.01% : candle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q042.jpg
+99.10% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q043.jpg
+99.13% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q044.jpg
+99.00% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.02% : tray
+ 0.02% : goldfish
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q045.jpg
+98.96% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : goldfish
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q046.jpg
+98.98% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q047.jpg
+99.00% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q048.jpg
+98.96% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.02% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q049.jpg
+98.86% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : fig
+ 0.02% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q050.jpg
+98.86% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : fig
+ 0.02% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q051.jpg
+98.86% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : fig
+ 0.02% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q052.jpg
+98.98% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.02% : fig
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q053.jpg
+98.83% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : goldfish
+ 0.02% : fig
+ 0.02% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q054.jpg
+98.84% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.02% : goldfish
+ 0.02% : fig
+ 0.02% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q055.jpg
+98.99% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : fig
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q056.jpg
+99.01% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q057.jpg
+99.11% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q058.jpg
+98.96% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q059.jpg
+98.98% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q060.jpg
+98.98% : strawberry
+ 0.07% : banana
+ 0.05% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q061.jpg
+99.04% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q062.jpg
+99.10% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q063.jpg
+99.05% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : fig
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q064.jpg
+99.08% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q065.jpg
+99.07% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q066.jpg
+99.07% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q067.jpg
+99.01% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q068.jpg
+99.13% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : pomegranate
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q069.jpg
+99.06% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : pomegranate
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q070.jpg
+99.07% : strawberry
+ 0.05% : banana
+ 0.04% : tray
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q071.jpg
+99.11% : strawberry
+ 0.06% : banana
+ 0.04% : tray
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q072.jpg
+99.09% : strawberry
+ 0.06% : banana
+ 0.04% : tray
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q073.jpg
+99.07% : strawberry
+ 0.06% : banana
+ 0.04% : tray
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q074.jpg
+99.09% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : chocolate sauce
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q075.jpg
+99.10% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : chocolate sauce
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q076.jpg
+99.12% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : trifle
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q077.jpg
+99.08% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q078.jpg
+99.02% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.04% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q079.jpg
+99.06% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : pomegranate
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q080.jpg
+99.09% : strawberry
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q081.jpg
+99.15% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : candle
+ 0.01% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q082.jpg
+99.28% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : pomegranate
+ 0.01% : goldfish
+ 0.01% : fig
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q083.jpg
+99.13% : strawberry
+ 0.05% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : trifle
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q084.jpg
+99.13% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.01% : pomegranate
+ 0.01% : fig
+ 0.01% : candle
+ 0.01% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q085.jpg
+99.10% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : fig
+ 0.01% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q086.jpg
+99.15% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : fig
+ 0.01% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q087.jpg
+99.10% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.02% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q088.jpg
+99.09% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q089.jpg
+99.02% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.04% : orange
+ 0.02% : goldfish
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : pomegranate
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q090.jpg
+99.07% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.03% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q091.jpg
+98.96% : strawberry
+ 0.06% : banana
+ 0.05% : pineapple
+ 0.04% : orange
+ 0.04% : tray
+ 0.02% : goldfish
+ 0.01% : pomegranate
+ 0.01% : candle
+ 0.01% : trifle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q092.jpg
+99.13% : strawberry
+ 0.05% : banana
+ 0.04% : tray
+ 0.04% : pineapple
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : scale
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q093.jpg
+99.21% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q094.jpg
+99.17% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q095.jpg
+99.11% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q096.jpg
+99.14% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q097.jpg
+99.21% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q098.jpg
+99.20% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.03% : tray
+ 0.03% : orange
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : fig
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q099.jpg
+99.12% : strawberry
+ 0.05% : banana
+ 0.04% : pineapple
+ 0.04% : orange
+ 0.03% : tray
+ 0.01% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry9Q100.jpg
+99.10% : strawberry
+ 0.05% : banana
+ 0.05% : pineapple
+ 0.04% : tray
+ 0.04% : orange
+ 0.02% : goldfish
+ 0.01% : pomegranate
+ 0.01% : trifle
+ 0.01% : candle
+ 0.01% : fig

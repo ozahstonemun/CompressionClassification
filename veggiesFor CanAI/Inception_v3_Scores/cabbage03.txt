@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q001.jpg
+44.54% : plastic bag
+ 9.89% : shower cap
+ 8.90% : head cabbage
+ 2.79% : brassiere
+ 1.80% : bathing cap
+ 0.89% : lemon
+ 0.75% : tennis ball
+ 0.74% : soccer ball
+ 0.73% : diaper
+ 0.72% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q002.jpg
+44.63% : plastic bag
+10.06% : shower cap
+ 8.85% : head cabbage
+ 2.78% : brassiere
+ 1.80% : bathing cap
+ 0.88% : lemon
+ 0.74% : tennis ball
+ 0.73% : soccer ball
+ 0.73% : diaper
+ 0.72% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q003.jpg
+36.72% : plastic bag
+12.73% : shower cap
+ 7.77% : head cabbage
+ 3.66% : brassiere
+ 1.40% : bathing cap
+ 0.98% : diaper
+ 0.87% : packet
+ 0.83% : lemon
+ 0.76% : sleeping bag
+ 0.72% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q004.jpg
+53.13% : head cabbage
+23.94% : plastic bag
+ 5.03% : cauliflower
+ 1.50% : shower cap
+ 0.79% : custard apple
+ 0.49% : Granny Smith
+ 0.47% : packet
+ 0.43% : soccer ball
+ 0.23% : spaghetti squash
+ 0.18% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q005.jpg
+42.70% : cauliflower
+32.73% : head cabbage
+ 6.24% : shower cap
+ 4.85% : plastic bag
+ 4.54% : soccer ball
+ 0.23% : Granny Smith
+ 0.22% : custard apple
+ 0.20% : packet
+ 0.18% : diaper
+ 0.12% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q006.jpg
+38.05% : head cabbage
+28.22% : cauliflower
+ 4.41% : plastic bag
+ 2.77% : shower cap
+ 1.53% : soccer ball
+ 0.93% : Granny Smith
+ 0.62% : packet
+ 0.40% : white stork
+ 0.37% : diaper
+ 0.33% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q007.jpg
+41.15% : head cabbage
+34.07% : cauliflower
+12.27% : shower cap
+ 2.20% : plastic bag
+ 1.16% : soccer ball
+ 0.49% : Granny Smith
+ 0.17% : lemon
+ 0.16% : packet
+ 0.15% : diaper
+ 0.12% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q008.jpg
+52.17% : cauliflower
+31.10% : head cabbage
+ 4.38% : plastic bag
+ 3.13% : shower cap
+ 1.32% : soccer ball
+ 0.58% : Granny Smith
+ 0.17% : bagel
+ 0.17% : custard apple
+ 0.13% : white stork
+ 0.10% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q009.jpg
+50.91% : cauliflower
+22.39% : head cabbage
+10.09% : plastic bag
+ 2.26% : shower cap
+ 1.31% : soccer ball
+ 1.14% : Granny Smith
+ 0.34% : packet
+ 0.24% : custard apple
+ 0.22% : white stork
+ 0.15% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q010.jpg
+41.59% : cauliflower
+28.49% : head cabbage
+14.63% : plastic bag
+ 0.98% : shower cap
+ 0.78% : Granny Smith
+ 0.76% : soccer ball
+ 0.37% : packet
+ 0.33% : bagel
+ 0.30% : custard apple
+ 0.20% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q011.jpg
+56.57% : cauliflower
+21.19% : head cabbage
+ 8.37% : plastic bag
+ 3.47% : shower cap
+ 1.62% : soccer ball
+ 0.55% : Granny Smith
+ 0.22% : custard apple
+ 0.19% : bagel
+ 0.19% : dough
+ 0.15% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q012.jpg
+42.92% : cauliflower
+37.75% : head cabbage
+ 8.09% : plastic bag
+ 1.57% : shower cap
+ 1.13% : soccer ball
+ 0.48% : Granny Smith
+ 0.29% : custard apple
+ 0.16% : dough
+ 0.14% : lemon
+ 0.14% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q013.jpg
+44.21% : cauliflower
+33.96% : head cabbage
+ 7.80% : plastic bag
+ 1.81% : shower cap
+ 1.17% : soccer ball
+ 0.43% : Granny Smith
+ 0.32% : custard apple
+ 0.28% : bagel
+ 0.25% : paper towel
+ 0.22% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q014.jpg
+48.08% : cauliflower
+34.37% : head cabbage
+ 6.90% : plastic bag
+ 1.32% : soccer ball
+ 0.71% : shower cap
+ 0.44% : Granny Smith
+ 0.23% : custard apple
+ 0.22% : bagel
+ 0.18% : dough
+ 0.15% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q015.jpg
+47.28% : head cabbage
+42.55% : cauliflower
+ 4.51% : plastic bag
+ 0.49% : soccer ball
+ 0.43% : shower cap
+ 0.42% : Granny Smith
+ 0.15% : custard apple
+ 0.13% : dough
+ 0.12% : packet
+ 0.09% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q016.jpg
+43.08% : cauliflower
+39.25% : head cabbage
+ 6.69% : plastic bag
+ 1.55% : shower cap
+ 0.71% : soccer ball
+ 0.65% : Granny Smith
+ 0.25% : custard apple
+ 0.21% : lemon
+ 0.20% : packet
+ 0.20% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q017.jpg
+48.60% : cauliflower
+36.40% : head cabbage
+ 6.67% : plastic bag
+ 0.76% : shower cap
+ 0.72% : soccer ball
+ 0.69% : Granny Smith
+ 0.21% : bagel
+ 0.20% : custard apple
+ 0.17% : dough
+ 0.17% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q018.jpg
+62.04% : head cabbage
+22.18% : cauliflower
+ 4.35% : plastic bag
+ 1.04% : shower cap
+ 0.98% : Granny Smith
+ 0.37% : soccer ball
+ 0.27% : lemon
+ 0.24% : custard apple
+ 0.21% : packet
+ 0.19% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q019.jpg
+56.75% : head cabbage
+23.82% : cauliflower
+ 5.38% : plastic bag
+ 1.36% : shower cap
+ 1.31% : Granny Smith
+ 0.38% : packet
+ 0.36% : soccer ball
+ 0.33% : custard apple
+ 0.30% : dough
+ 0.28% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q020.jpg
+66.37% : head cabbage
+20.18% : cauliflower
+ 3.43% : plastic bag
+ 0.91% : Granny Smith
+ 0.41% : shower cap
+ 0.26% : lemon
+ 0.24% : custard apple
+ 0.23% : soccer ball
+ 0.19% : packet
+ 0.18% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q021.jpg
+51.59% : head cabbage
+28.17% : cauliflower
+ 6.59% : plastic bag
+ 1.22% : Granny Smith
+ 0.93% : shower cap
+ 0.38% : packet
+ 0.36% : soccer ball
+ 0.31% : lemon
+ 0.27% : custard apple
+ 0.25% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q022.jpg
+62.38% : head cabbage
+26.46% : cauliflower
+ 4.41% : plastic bag
+ 0.77% : Granny Smith
+ 0.40% : shower cap
+ 0.20% : soccer ball
+ 0.19% : cucumber
+ 0.17% : custard apple
+ 0.16% : packet
+ 0.15% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q023.jpg
+47.99% : head cabbage
+29.97% : cauliflower
+10.63% : plastic bag
+ 1.36% : Granny Smith
+ 0.51% : shower cap
+ 0.35% : soccer ball
+ 0.33% : packet
+ 0.30% : cucumber
+ 0.29% : lemon
+ 0.28% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q024.jpg
+51.36% : head cabbage
+25.53% : cauliflower
+10.20% : plastic bag
+ 1.82% : Granny Smith
+ 0.64% : shower cap
+ 0.41% : packet
+ 0.38% : cucumber
+ 0.33% : lemon
+ 0.28% : custard apple
+ 0.26% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q025.jpg
+39.08% : head cabbage
+34.11% : cauliflower
+13.01% : plastic bag
+ 1.66% : Granny Smith
+ 0.45% : packet
+ 0.44% : shower cap
+ 0.41% : soccer ball
+ 0.37% : cucumber
+ 0.35% : custard apple
+ 0.34% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q026.jpg
+44.91% : head cabbage
+25.73% : cauliflower
+13.66% : plastic bag
+ 1.63% : Granny Smith
+ 0.61% : shower cap
+ 0.56% : packet
+ 0.47% : cucumber
+ 0.42% : lemon
+ 0.39% : custard apple
+ 0.34% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q027.jpg
+42.89% : head cabbage
+36.50% : cauliflower
+10.38% : plastic bag
+ 1.73% : Granny Smith
+ 0.36% : packet
+ 0.35% : soccer ball
+ 0.30% : custard apple
+ 0.27% : cucumber
+ 0.26% : shower cap
+ 0.22% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q028.jpg
+42.76% : head cabbage
+33.53% : cauliflower
+13.98% : plastic bag
+ 1.30% : Granny Smith
+ 0.40% : shower cap
+ 0.35% : packet
+ 0.31% : soccer ball
+ 0.24% : custard apple
+ 0.23% : cucumber
+ 0.21% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q029.jpg
+41.95% : cauliflower
+39.16% : head cabbage
+10.63% : plastic bag
+ 1.07% : Granny Smith
+ 0.36% : shower cap
+ 0.34% : soccer ball
+ 0.32% : packet
+ 0.25% : custard apple
+ 0.22% : cucumber
+ 0.19% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q030.jpg
+47.85% : head cabbage
+41.00% : cauliflower
+ 4.47% : plastic bag
+ 0.97% : Granny Smith
+ 0.32% : soccer ball
+ 0.22% : custard apple
+ 0.19% : cucumber
+ 0.17% : shower cap
+ 0.17% : packet
+ 0.14% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q031.jpg
+55.05% : head cabbage
+32.63% : cauliflower
+ 5.64% : plastic bag
+ 0.96% : Granny Smith
+ 0.24% : shower cap
+ 0.23% : soccer ball
+ 0.22% : custard apple
+ 0.21% : cucumber
+ 0.20% : packet
+ 0.13% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q032.jpg
+52.24% : head cabbage
+35.96% : cauliflower
+ 5.09% : plastic bag
+ 0.94% : Granny Smith
+ 0.29% : soccer ball
+ 0.26% : shower cap
+ 0.19% : custard apple
+ 0.19% : packet
+ 0.18% : cucumber
+ 0.13% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q033.jpg
+48.10% : head cabbage
+31.03% : cauliflower
+10.52% : plastic bag
+ 1.21% : Granny Smith
+ 0.63% : shower cap
+ 0.33% : soccer ball
+ 0.31% : packet
+ 0.26% : cucumber
+ 0.23% : custard apple
+ 0.22% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q034.jpg
+44.78% : head cabbage
+30.05% : cauliflower
+10.14% : plastic bag
+ 1.98% : Granny Smith
+ 0.50% : shower cap
+ 0.46% : cucumber
+ 0.45% : packet
+ 0.36% : soccer ball
+ 0.36% : custard apple
+ 0.36% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q035.jpg
+55.01% : head cabbage
+25.55% : cauliflower
+ 7.34% : plastic bag
+ 1.58% : Granny Smith
+ 0.41% : packet
+ 0.39% : cucumber
+ 0.39% : shower cap
+ 0.30% : lemon
+ 0.27% : soccer ball
+ 0.26% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q036.jpg
+53.40% : head cabbage
+29.91% : cauliflower
+ 6.32% : plastic bag
+ 1.79% : Granny Smith
+ 0.39% : cucumber
+ 0.33% : packet
+ 0.27% : soccer ball
+ 0.25% : shower cap
+ 0.24% : custard apple
+ 0.20% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q037.jpg
+58.24% : head cabbage
+26.20% : cauliflower
+ 5.37% : plastic bag
+ 1.77% : Granny Smith
+ 0.38% : cucumber
+ 0.35% : packet
+ 0.24% : soccer ball
+ 0.23% : custard apple
+ 0.23% : shower cap
+ 0.21% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q038.jpg
+44.86% : head cabbage
+32.95% : cauliflower
+ 9.93% : plastic bag
+ 1.64% : Granny Smith
+ 0.38% : soccer ball
+ 0.37% : shower cap
+ 0.35% : packet
+ 0.32% : cucumber
+ 0.28% : lemon
+ 0.26% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q039.jpg
+39.24% : head cabbage
+33.25% : cauliflower
+13.49% : plastic bag
+ 2.29% : Granny Smith
+ 0.47% : soccer ball
+ 0.47% : shower cap
+ 0.46% : packet
+ 0.33% : cucumber
+ 0.30% : lemon
+ 0.29% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q040.jpg
+45.11% : head cabbage
+33.37% : cauliflower
+ 9.46% : plastic bag
+ 2.06% : Granny Smith
+ 0.48% : shower cap
+ 0.42% : soccer ball
+ 0.38% : packet
+ 0.30% : custard apple
+ 0.27% : cucumber
+ 0.24% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q041.jpg
+46.42% : head cabbage
+35.06% : cauliflower
+ 6.82% : plastic bag
+ 1.72% : Granny Smith
+ 0.51% : shower cap
+ 0.43% : soccer ball
+ 0.29% : cucumber
+ 0.28% : custard apple
+ 0.27% : packet
+ 0.24% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q042.jpg
+51.23% : head cabbage
+27.27% : cauliflower
+ 8.47% : plastic bag
+ 1.78% : Granny Smith
+ 0.43% : shower cap
+ 0.36% : cucumber
+ 0.35% : packet
+ 0.34% : soccer ball
+ 0.26% : custard apple
+ 0.25% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q043.jpg
+52.16% : head cabbage
+27.26% : cauliflower
+ 7.58% : plastic bag
+ 1.75% : Granny Smith
+ 0.46% : shower cap
+ 0.35% : packet
+ 0.35% : cucumber
+ 0.34% : soccer ball
+ 0.26% : custard apple
+ 0.26% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q044.jpg
+46.29% : head cabbage
+27.33% : cauliflower
+14.52% : plastic bag
+ 1.74% : Granny Smith
+ 0.41% : shower cap
+ 0.35% : packet
+ 0.30% : soccer ball
+ 0.29% : cucumber
+ 0.27% : white stork
+ 0.26% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q045.jpg
+49.96% : head cabbage
+25.06% : cauliflower
+12.91% : plastic bag
+ 1.87% : Granny Smith
+ 0.39% : shower cap
+ 0.36% : packet
+ 0.32% : cucumber
+ 0.27% : grocery store
+ 0.27% : white stork
+ 0.27% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q046.jpg
+40.47% : head cabbage
+27.79% : cauliflower
+16.74% : plastic bag
+ 2.15% : Granny Smith
+ 0.53% : packet
+ 0.52% : shower cap
+ 0.48% : cucumber
+ 0.35% : lemon
+ 0.35% : soccer ball
+ 0.30% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q047.jpg
+40.18% : head cabbage
+28.29% : cauliflower
+16.54% : plastic bag
+ 2.13% : Granny Smith
+ 0.55% : shower cap
+ 0.53% : packet
+ 0.47% : cucumber
+ 0.36% : lemon
+ 0.35% : soccer ball
+ 0.30% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q048.jpg
+39.38% : head cabbage
+30.45% : cauliflower
+14.61% : plastic bag
+ 2.13% : Granny Smith
+ 0.57% : shower cap
+ 0.53% : packet
+ 0.51% : cucumber
+ 0.39% : soccer ball
+ 0.38% : lemon
+ 0.31% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q049.jpg
+35.40% : head cabbage
+30.74% : cauliflower
+20.03% : plastic bag
+ 1.98% : Granny Smith
+ 0.47% : packet
+ 0.42% : cucumber
+ 0.39% : soccer ball
+ 0.38% : shower cap
+ 0.29% : white stork
+ 0.28% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q050.jpg
+35.46% : head cabbage
+30.71% : cauliflower
+19.93% : plastic bag
+ 2.01% : Granny Smith
+ 0.47% : packet
+ 0.42% : cucumber
+ 0.39% : soccer ball
+ 0.38% : shower cap
+ 0.29% : white stork
+ 0.28% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q051.jpg
+35.68% : head cabbage
+30.99% : cauliflower
+19.51% : plastic bag
+ 2.01% : Granny Smith
+ 0.47% : packet
+ 0.42% : cucumber
+ 0.40% : soccer ball
+ 0.38% : shower cap
+ 0.29% : white stork
+ 0.28% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q052.jpg
+43.36% : head cabbage
+25.04% : cauliflower
+16.80% : plastic bag
+ 1.96% : Granny Smith
+ 0.55% : packet
+ 0.47% : shower cap
+ 0.39% : cucumber
+ 0.31% : soccer ball
+ 0.31% : lemon
+ 0.29% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q053.jpg
+37.38% : head cabbage
+25.40% : cauliflower
+23.37% : plastic bag
+ 1.78% : Granny Smith
+ 0.54% : packet
+ 0.53% : shower cap
+ 0.36% : cucumber
+ 0.32% : soccer ball
+ 0.28% : lemon
+ 0.28% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q054.jpg
+37.52% : head cabbage
+24.91% : cauliflower
+23.62% : plastic bag
+ 1.79% : Granny Smith
+ 0.55% : packet
+ 0.53% : shower cap
+ 0.37% : cucumber
+ 0.31% : soccer ball
+ 0.28% : grocery store
+ 0.28% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q055.jpg
+37.49% : head cabbage
+31.78% : cauliflower
+19.16% : plastic bag
+ 1.77% : Granny Smith
+ 0.48% : packet
+ 0.35% : shower cap
+ 0.32% : soccer ball
+ 0.31% : cucumber
+ 0.25% : custard apple
+ 0.24% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q056.jpg
+40.72% : head cabbage
+29.73% : cauliflower
+17.39% : plastic bag
+ 1.94% : Granny Smith
+ 0.47% : packet
+ 0.34% : cucumber
+ 0.31% : soccer ball
+ 0.30% : shower cap
+ 0.27% : white stork
+ 0.27% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q057.jpg
+39.76% : head cabbage
+28.60% : cauliflower
+19.06% : plastic bag
+ 1.99% : Granny Smith
+ 0.49% : packet
+ 0.35% : cucumber
+ 0.34% : shower cap
+ 0.29% : soccer ball
+ 0.27% : grocery store
+ 0.27% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q058.jpg
+35.49% : head cabbage
+28.94% : cauliflower
+24.16% : plastic bag
+ 1.60% : Granny Smith
+ 0.43% : packet
+ 0.31% : cucumber
+ 0.31% : shower cap
+ 0.28% : soccer ball
+ 0.26% : custard apple
+ 0.26% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q059.jpg
+33.50% : head cabbage
+29.28% : cauliflower
+25.93% : plastic bag
+ 1.54% : Granny Smith
+ 0.43% : packet
+ 0.33% : shower cap
+ 0.28% : cucumber
+ 0.27% : soccer ball
+ 0.26% : grocery store
+ 0.26% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q060.jpg
+33.89% : head cabbage
+32.67% : cauliflower
+22.82% : plastic bag
+ 1.50% : Granny Smith
+ 0.39% : packet
+ 0.30% : soccer ball
+ 0.29% : shower cap
+ 0.28% : cucumber
+ 0.25% : custard apple
+ 0.24% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q061.jpg
+39.19% : head cabbage
+33.53% : cauliflower
+16.58% : plastic bag
+ 1.82% : Granny Smith
+ 0.37% : packet
+ 0.36% : cucumber
+ 0.32% : soccer ball
+ 0.24% : grocery store
+ 0.24% : custard apple
+ 0.23% : shower cap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q062.jpg
+37.43% : head cabbage
+33.81% : cauliflower
+17.46% : plastic bag
+ 1.90% : Granny Smith
+ 0.40% : packet
+ 0.37% : cucumber
+ 0.33% : soccer ball
+ 0.29% : shower cap
+ 0.24% : custard apple
+ 0.24% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q063.jpg
+38.68% : head cabbage
+31.11% : cauliflower
+18.51% : plastic bag
+ 2.07% : Granny Smith
+ 0.42% : packet
+ 0.36% : cucumber
+ 0.32% : soccer ball
+ 0.25% : grocery store
+ 0.24% : custard apple
+ 0.24% : shower cap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q064.jpg
+39.54% : head cabbage
+26.33% : cauliflower
+22.57% : plastic bag
+ 1.68% : Granny Smith
+ 0.42% : packet
+ 0.40% : shower cap
+ 0.32% : cucumber
+ 0.27% : soccer ball
+ 0.24% : grocery store
+ 0.24% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q065.jpg
+37.03% : head cabbage
+27.39% : cauliflower
+22.53% : plastic bag
+ 1.94% : Granny Smith
+ 0.48% : packet
+ 0.40% : cucumber
+ 0.39% : shower cap
+ 0.29% : grocery store
+ 0.29% : soccer ball
+ 0.26% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q066.jpg
+35.84% : head cabbage
+27.80% : cauliflower
+24.19% : plastic bag
+ 1.82% : Granny Smith
+ 0.45% : packet
+ 0.38% : cucumber
+ 0.35% : shower cap
+ 0.28% : soccer ball
+ 0.28% : grocery store
+ 0.24% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q067.jpg
+36.67% : head cabbage
+30.66% : cauliflower
+18.38% : plastic bag
+ 2.30% : Granny Smith
+ 0.54% : packet
+ 0.44% : cucumber
+ 0.34% : soccer ball
+ 0.31% : grocery store
+ 0.31% : shower cap
+ 0.29% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q068.jpg
+34.77% : head cabbage
+30.92% : cauliflower
+20.89% : plastic bag
+ 2.28% : Granny Smith
+ 0.54% : packet
+ 0.42% : cucumber
+ 0.33% : shower cap
+ 0.33% : soccer ball
+ 0.28% : grocery store
+ 0.27% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q069.jpg
+37.12% : head cabbage
+30.39% : cauliflower
+20.19% : plastic bag
+ 2.19% : Granny Smith
+ 0.48% : packet
+ 0.39% : cucumber
+ 0.30% : soccer ball
+ 0.26% : shower cap
+ 0.26% : grocery store
+ 0.25% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q070.jpg
+32.60% : head cabbage
+32.60% : cauliflower
+24.80% : plastic bag
+ 1.85% : Granny Smith
+ 0.40% : packet
+ 0.30% : soccer ball
+ 0.28% : cucumber
+ 0.27% : shower cap
+ 0.23% : grocery store
+ 0.21% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q071.jpg
+35.80% : head cabbage
+31.16% : cauliflower
+22.48% : plastic bag
+ 1.87% : Granny Smith
+ 0.40% : packet
+ 0.35% : cucumber
+ 0.31% : shower cap
+ 0.29% : soccer ball
+ 0.26% : grocery store
+ 0.23% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q072.jpg
+32.97% : head cabbage
+31.46% : cauliflower
+24.46% : plastic bag
+ 1.90% : Granny Smith
+ 0.45% : packet
+ 0.35% : cucumber
+ 0.33% : shower cap
+ 0.32% : soccer ball
+ 0.27% : grocery store
+ 0.24% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q073.jpg
+37.34% : head cabbage
+26.87% : cauliflower
+23.05% : plastic bag
+ 2.13% : Granny Smith
+ 0.49% : packet
+ 0.43% : cucumber
+ 0.35% : shower cap
+ 0.31% : soccer ball
+ 0.28% : grocery store
+ 0.27% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q074.jpg
+42.20% : head cabbage
+28.03% : cauliflower
+19.06% : plastic bag
+ 1.87% : Granny Smith
+ 0.40% : packet
+ 0.35% : cucumber
+ 0.33% : shower cap
+ 0.27% : soccer ball
+ 0.24% : custard apple
+ 0.23% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q075.jpg
+42.41% : head cabbage
+28.20% : cauliflower
+18.68% : plastic bag
+ 1.89% : Granny Smith
+ 0.39% : packet
+ 0.35% : cucumber
+ 0.33% : shower cap
+ 0.27% : soccer ball
+ 0.24% : custard apple
+ 0.23% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q076.jpg
+42.42% : head cabbage
+23.59% : plastic bag
+22.99% : cauliflower
+ 1.81% : Granny Smith
+ 0.49% : packet
+ 0.38% : cucumber
+ 0.36% : shower cap
+ 0.26% : grocery store
+ 0.26% : custard apple
+ 0.21% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q077.jpg
+39.29% : head cabbage
+26.72% : cauliflower
+22.87% : plastic bag
+ 1.84% : Granny Smith
+ 0.48% : packet
+ 0.37% : shower cap
+ 0.35% : cucumber
+ 0.27% : soccer ball
+ 0.26% : custard apple
+ 0.23% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q078.jpg
+36.19% : head cabbage
+26.05% : plastic bag
+25.97% : cauliflower
+ 2.04% : Granny Smith
+ 0.50% : packet
+ 0.38% : shower cap
+ 0.33% : cucumber
+ 0.29% : soccer ball
+ 0.27% : grocery store
+ 0.26% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q079.jpg
+34.82% : head cabbage
+28.93% : plastic bag
+24.68% : cauliflower
+ 2.03% : Granny Smith
+ 0.47% : packet
+ 0.41% : shower cap
+ 0.30% : cucumber
+ 0.27% : soccer ball
+ 0.26% : custard apple
+ 0.26% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q080.jpg
+35.94% : head cabbage
+27.19% : plastic bag
+26.34% : cauliflower
+ 1.72% : Granny Smith
+ 0.42% : packet
+ 0.39% : shower cap
+ 0.29% : cucumber
+ 0.26% : custard apple
+ 0.25% : grocery store
+ 0.25% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q081.jpg
+42.51% : head cabbage
+28.80% : cauliflower
+18.82% : plastic bag
+ 1.58% : Granny Smith
+ 0.35% : packet
+ 0.29% : cucumber
+ 0.28% : shower cap
+ 0.27% : soccer ball
+ 0.23% : custard apple
+ 0.21% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q082.jpg
+42.24% : head cabbage
+27.93% : cauliflower
+19.20% : plastic bag
+ 1.78% : Granny Smith
+ 0.37% : packet
+ 0.33% : cucumber
+ 0.29% : shower cap
+ 0.26% : soccer ball
+ 0.24% : custard apple
+ 0.23% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q083.jpg
+38.58% : head cabbage
+32.12% : cauliflower
+18.87% : plastic bag
+ 1.87% : Granny Smith
+ 0.37% : packet
+ 0.34% : cucumber
+ 0.29% : soccer ball
+ 0.24% : custard apple
+ 0.23% : shower cap
+ 0.22% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q084.jpg
+33.49% : head cabbage
+27.76% : cauliflower
+26.15% : plastic bag
+ 1.80% : Granny Smith
+ 0.47% : packet
+ 0.42% : cucumber
+ 0.40% : shower cap
+ 0.31% : soccer ball
+ 0.29% : grocery store
+ 0.27% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q085.jpg
+32.39% : head cabbage
+29.84% : cauliflower
+25.18% : plastic bag
+ 1.82% : Granny Smith
+ 0.44% : shower cap
+ 0.44% : packet
+ 0.42% : cucumber
+ 0.36% : soccer ball
+ 0.28% : custard apple
+ 0.27% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q086.jpg
+29.42% : cauliflower
+29.33% : head cabbage
+28.14% : plastic bag
+ 1.81% : Granny Smith
+ 0.51% : packet
+ 0.43% : shower cap
+ 0.37% : cucumber
+ 0.34% : soccer ball
+ 0.28% : grocery store
+ 0.27% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q087.jpg
+31.75% : head cabbage
+28.61% : plastic bag
+26.33% : cauliflower
+ 1.97% : Granny Smith
+ 0.55% : packet
+ 0.44% : shower cap
+ 0.40% : cucumber
+ 0.29% : grocery store
+ 0.29% : soccer ball
+ 0.27% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q088.jpg
+31.87% : head cabbage
+30.47% : plastic bag
+25.97% : cauliflower
+ 1.68% : Granny Smith
+ 0.49% : packet
+ 0.39% : shower cap
+ 0.33% : cucumber
+ 0.27% : grocery store
+ 0.26% : soccer ball
+ 0.24% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q089.jpg
+31.53% : head cabbage
+30.88% : plastic bag
+25.58% : cauliflower
+ 1.79% : Granny Smith
+ 0.52% : packet
+ 0.38% : shower cap
+ 0.33% : cucumber
+ 0.28% : grocery store
+ 0.26% : soccer ball
+ 0.25% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q090.jpg
+33.62% : head cabbage
+29.86% : plastic bag
+25.14% : cauliflower
+ 1.73% : Granny Smith
+ 0.48% : packet
+ 0.38% : shower cap
+ 0.34% : cucumber
+ 0.25% : grocery store
+ 0.24% : white stork
+ 0.24% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q091.jpg
+40.21% : head cabbage
+25.89% : plastic bag
+24.38% : cauliflower
+ 1.41% : Granny Smith
+ 0.44% : packet
+ 0.39% : shower cap
+ 0.31% : cucumber
+ 0.25% : grocery store
+ 0.22% : custard apple
+ 0.19% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q092.jpg
+43.73% : head cabbage
+26.54% : cauliflower
+20.62% : plastic bag
+ 1.40% : Granny Smith
+ 0.43% : packet
+ 0.35% : cucumber
+ 0.32% : shower cap
+ 0.27% : grocery store
+ 0.20% : custard apple
+ 0.19% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q093.jpg
+46.61% : head cabbage
+25.48% : cauliflower
+15.90% : plastic bag
+ 2.20% : Granny Smith
+ 0.51% : packet
+ 0.48% : cucumber
+ 0.32% : grocery store
+ 0.32% : shower cap
+ 0.26% : white stork
+ 0.26% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q094.jpg
+38.20% : head cabbage
+25.63% : cauliflower
+23.58% : plastic bag
+ 2.20% : Granny Smith
+ 0.50% : cucumber
+ 0.49% : packet
+ 0.37% : shower cap
+ 0.35% : grocery store
+ 0.28% : white stork
+ 0.25% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q095.jpg
+39.96% : head cabbage
+24.83% : cauliflower
+23.98% : plastic bag
+ 1.90% : Granny Smith
+ 0.46% : packet
+ 0.43% : cucumber
+ 0.32% : grocery store
+ 0.32% : shower cap
+ 0.24% : white stork
+ 0.23% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q096.jpg
+37.16% : head cabbage
+27.05% : cauliflower
+24.26% : plastic bag
+ 1.90% : Granny Smith
+ 0.47% : packet
+ 0.42% : cucumber
+ 0.33% : shower cap
+ 0.32% : grocery store
+ 0.24% : soccer ball
+ 0.24% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q097.jpg
+38.16% : head cabbage
+26.21% : cauliflower
+24.73% : plastic bag
+ 1.65% : Granny Smith
+ 0.46% : packet
+ 0.41% : cucumber
+ 0.34% : shower cap
+ 0.30% : grocery store
+ 0.22% : custard apple
+ 0.22% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q098.jpg
+37.81% : head cabbage
+26.05% : plastic bag
+24.75% : cauliflower
+ 1.80% : Granny Smith
+ 0.48% : packet
+ 0.42% : cucumber
+ 0.42% : shower cap
+ 0.32% : grocery store
+ 0.24% : white stork
+ 0.23% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q099.jpg
+36.63% : head cabbage
+27.51% : cauliflower
+24.93% : plastic bag
+ 1.73% : Granny Smith
+ 0.44% : packet
+ 0.41% : cucumber
+ 0.34% : shower cap
+ 0.29% : grocery store
+ 0.24% : soccer ball
+ 0.24% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage3Q100.jpg
+37.70% : head cabbage
+27.28% : plastic bag
+23.97% : cauliflower
+ 1.66% : Granny Smith
+ 0.47% : packet
+ 0.43% : cucumber
+ 0.39% : shower cap
+ 0.29% : grocery store
+ 0.24% : custard apple
+ 0.23% : white stork

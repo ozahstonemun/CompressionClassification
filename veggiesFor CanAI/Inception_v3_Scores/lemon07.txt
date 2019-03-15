@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q001.jpg
+25.07% : lemon
+16.01% : orange
+ 5.19% : spaghetti squash
+ 2.69% : bell pepper
+ 1.91% : butternut squash
+ 1.26% : lumbermill
+ 1.22% : tennis ball
+ 0.97% : grocery store
+ 0.95% : acorn squash
+ 0.67% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q002.jpg
+25.11% : lemon
+16.13% : orange
+ 5.17% : spaghetti squash
+ 2.68% : bell pepper
+ 1.90% : butternut squash
+ 1.25% : lumbermill
+ 1.22% : tennis ball
+ 0.97% : grocery store
+ 0.94% : acorn squash
+ 0.67% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q003.jpg
+25.03% : lemon
+17.09% : orange
+ 4.74% : spaghetti squash
+ 2.45% : bell pepper
+ 1.80% : butternut squash
+ 1.42% : lumbermill
+ 1.28% : tennis ball
+ 1.04% : grocery store
+ 0.94% : acorn squash
+ 0.78% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q004.jpg
+46.09% : orange
+40.78% : lemon
+ 1.48% : spaghetti squash
+ 0.69% : grocery store
+ 0.66% : bell pepper
+ 0.45% : tennis ball
+ 0.36% : acorn squash
+ 0.33% : pot
+ 0.27% : ping-pong ball
+ 0.20% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q005.jpg
+39.46% : lemon
+11.24% : spaghetti squash
+ 6.82% : orange
+ 4.23% : tennis ball
+ 2.62% : butternut squash
+ 1.42% : grocery store
+ 1.10% : bell pepper
+ 0.85% : head cabbage
+ 0.81% : acorn squash
+ 0.72% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q006.jpg
+80.85% : orange
+11.82% : lemon
+ 0.61% : spaghetti squash
+ 0.52% : butternut squash
+ 0.23% : grocery store
+ 0.07% : jack-o'-lantern
+ 0.06% : bell pepper
+ 0.05% : tennis ball
+ 0.05% : pineapple
+ 0.05% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q007.jpg
+92.74% : lemon
+ 3.05% : orange
+ 0.15% : spaghetti squash
+ 0.08% : tennis ball
+ 0.04% : butternut squash
+ 0.03% : honeycomb
+ 0.02% : grocery store
+ 0.02% : strainer
+ 0.02% : ice cream
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q008.jpg
+47.99% : lemon
+39.33% : orange
+ 0.19% : spaghetti squash
+ 0.11% : butternut squash
+ 0.08% : grocery store
+ 0.07% : king penguin
+ 0.06% : pineapple
+ 0.05% : banana
+ 0.05% : tennis ball
+ 0.05% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q009.jpg
+75.46% : lemon
+13.92% : orange
+ 0.42% : spaghetti squash
+ 0.10% : butternut squash
+ 0.05% : king penguin
+ 0.05% : grocery store
+ 0.04% : pineapple
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q010.jpg
+79.22% : lemon
+12.35% : orange
+ 0.27% : spaghetti squash
+ 0.04% : king penguin
+ 0.04% : butternut squash
+ 0.04% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q011.jpg
+66.76% : lemon
+22.32% : orange
+ 0.23% : spaghetti squash
+ 0.05% : butternut squash
+ 0.05% : pineapple
+ 0.05% : banana
+ 0.05% : oxygen mask
+ 0.04% : king penguin
+ 0.04% : grocery store
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q012.jpg
+70.51% : lemon
+18.73% : orange
+ 0.21% : spaghetti squash
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.05% : banana
+ 0.04% : king penguin
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q013.jpg
+87.67% : lemon
+ 5.60% : orange
+ 0.17% : spaghetti squash
+ 0.03% : dough
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : oxygen mask
+ 0.02% : croquet ball
+ 0.02% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q014.jpg
+78.76% : lemon
+12.73% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.04% : king penguin
+ 0.03% : pineapple
+ 0.03% : croquet ball
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q015.jpg
+87.29% : lemon
+ 5.24% : orange
+ 0.13% : spaghetti squash
+ 0.03% : dough
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q016.jpg
+81.65% : lemon
+ 8.80% : orange
+ 0.15% : spaghetti squash
+ 0.04% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : dough
+ 0.04% : hognose snake
+ 0.04% : pineapple
+ 0.03% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q017.jpg
+88.71% : lemon
+ 4.39% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : king penguin
+ 0.03% : croquet ball
+ 0.02% : Norfolk terrier
+ 0.02% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q018.jpg
+87.12% : lemon
+ 4.79% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.04% : strainer
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : king penguin
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q019.jpg
+89.97% : lemon
+ 3.63% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : croquet ball
+ 0.02% : king penguin
+ 0.02% : oxygen mask
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q020.jpg
+86.41% : lemon
+ 5.55% : orange
+ 0.14% : spaghetti squash
+ 0.04% : king penguin
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : croquet ball
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q021.jpg
+86.01% : lemon
+ 5.55% : orange
+ 0.16% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : limpkin
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q022.jpg
+87.97% : lemon
+ 4.40% : orange
+ 0.15% : spaghetti squash
+ 0.04% : dough
+ 0.04% : king penguin
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q023.jpg
+83.25% : lemon
+ 7.87% : orange
+ 0.15% : spaghetti squash
+ 0.04% : dough
+ 0.04% : strainer
+ 0.04% : king penguin
+ 0.04% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q024.jpg
+88.24% : lemon
+ 4.50% : orange
+ 0.16% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : croquet ball
+ 0.02% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q025.jpg
+86.55% : lemon
+ 6.05% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : croquet ball
+ 0.03% : hognose snake
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q026.jpg
+87.06% : lemon
+ 5.49% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q027.jpg
+87.86% : lemon
+ 4.67% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.03% : king penguin
+ 0.03% : hognose snake
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q028.jpg
+87.25% : lemon
+ 5.47% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : oxygen mask
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q029.jpg
+87.85% : lemon
+ 4.87% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.03% : king penguin
+ 0.03% : croquet ball
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.02% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q030.jpg
+87.13% : lemon
+ 5.36% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : hognose snake
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q031.jpg
+84.19% : lemon
+ 6.92% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+ 0.03% : window shade
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q032.jpg
+87.35% : lemon
+ 4.77% : orange
+ 0.15% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : croquet ball
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q033.jpg
+84.65% : lemon
+ 7.50% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : pineapple
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : hognose snake
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q034.jpg
+87.46% : lemon
+ 5.49% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.02% : hognose snake
+ 0.02% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q035.jpg
+88.80% : lemon
+ 4.76% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.02% : oxygen mask
+ 0.02% : pineapple
+ 0.02% : strainer
+ 0.02% : croquet ball
+ 0.02% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q036.jpg
+87.96% : lemon
+ 4.90% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : croquet ball
+ 0.03% : banana
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q037.jpg
+87.90% : lemon
+ 4.92% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : croquet ball
+ 0.03% : strainer
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q038.jpg
+86.83% : lemon
+ 5.77% : orange
+ 0.14% : spaghetti squash
+ 0.03% : dough
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q039.jpg
+87.30% : lemon
+ 5.46% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : hognose snake
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q040.jpg
+87.70% : lemon
+ 5.07% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : hognose snake
+ 0.03% : platypus
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q041.jpg
+86.32% : lemon
+ 5.72% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.04% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : croquet ball
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q042.jpg
+85.90% : lemon
+ 6.14% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.04% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q043.jpg
+86.44% : lemon
+ 5.76% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.04% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : croquet ball
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q044.jpg
+87.87% : lemon
+ 4.93% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : window shade
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q045.jpg
+87.57% : lemon
+ 5.00% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : limpkin
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q046.jpg
+88.92% : lemon
+ 3.89% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : strainer
+ 0.02% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q047.jpg
+88.74% : lemon
+ 4.00% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : strainer
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q048.jpg
+88.68% : lemon
+ 4.12% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : window shade
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q049.jpg
+88.60% : lemon
+ 3.98% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : window shade
+ 0.03% : strainer
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q050.jpg
+88.65% : lemon
+ 3.96% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : strainer
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q051.jpg
+88.55% : lemon
+ 4.02% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : window shade
+ 0.03% : platypus
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q052.jpg
+87.54% : lemon
+ 5.13% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : platypus
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q053.jpg
+87.06% : lemon
+ 5.33% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : limpkin
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q054.jpg
+86.93% : lemon
+ 5.44% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : limpkin
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q055.jpg
+88.56% : lemon
+ 4.36% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.02% : window shade
+ 0.02% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q056.jpg
+87.98% : lemon
+ 4.77% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.03% : window shade
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q057.jpg
+88.10% : lemon
+ 4.58% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.02% : croquet ball
+ 0.02% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q058.jpg
+86.45% : lemon
+ 5.60% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q059.jpg
+86.20% : lemon
+ 5.57% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q060.jpg
+86.46% : lemon
+ 5.46% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : platypus
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q061.jpg
+86.15% : lemon
+ 5.63% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : window shade
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q062.jpg
+85.90% : lemon
+ 5.75% : orange
+ 0.14% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : strainer
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q063.jpg
+85.74% : lemon
+ 5.93% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : window shade
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q064.jpg
+85.93% : lemon
+ 5.96% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q065.jpg
+85.76% : lemon
+ 6.13% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q066.jpg
+86.11% : lemon
+ 6.02% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : platypus
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q067.jpg
+85.07% : lemon
+ 6.42% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : platypus
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q068.jpg
+86.20% : lemon
+ 5.77% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q069.jpg
+86.07% : lemon
+ 5.87% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q070.jpg
+86.23% : lemon
+ 5.90% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : window shade
+ 0.03% : pineapple
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q071.jpg
+86.85% : lemon
+ 5.35% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : platypus
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q072.jpg
+86.83% : lemon
+ 5.48% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : window shade
+ 0.03% : platypus
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q073.jpg
+85.74% : lemon
+ 6.14% : orange
+ 0.13% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : window shade
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q074.jpg
+84.61% : lemon
+ 7.22% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.03% : limpkin
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q075.jpg
+84.44% : lemon
+ 7.32% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.03% : limpkin
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q076.jpg
+85.12% : lemon
+ 7.06% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q077.jpg
+85.33% : lemon
+ 6.92% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : window shade
+ 0.03% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q078.jpg
+86.73% : lemon
+ 6.01% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : banana
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q079.jpg
+86.74% : lemon
+ 5.95% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : banana
+ 0.03% : platypus
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q080.jpg
+87.62% : lemon
+ 5.38% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.02% : pineapple
+ 0.02% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q081.jpg
+86.98% : lemon
+ 5.88% : orange
+ 0.10% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : banana
+ 0.03% : strainer
+ 0.02% : pineapple
+ 0.02% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q082.jpg
+87.24% : lemon
+ 5.66% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.02% : window shade
+ 0.02% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q083.jpg
+85.97% : lemon
+ 6.72% : orange
+ 0.10% : spaghetti squash
+ 0.04% : dough
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : strainer
+ 0.03% : window shade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q084.jpg
+86.40% : lemon
+ 6.14% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q085.jpg
+86.85% : lemon
+ 5.76% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : platypus
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q086.jpg
+86.41% : lemon
+ 6.07% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : platypus
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q087.jpg
+85.60% : lemon
+ 6.87% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q088.jpg
+85.57% : lemon
+ 6.78% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+ 0.03% : banana
+ 0.03% : platypus
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q089.jpg
+84.94% : lemon
+ 7.13% : orange
+ 0.10% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : hognose snake
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q090.jpg
+85.99% : lemon
+ 6.63% : orange
+ 0.10% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q091.jpg
+85.39% : lemon
+ 6.96% : orange
+ 0.10% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : banana
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : limpkin
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q092.jpg
+86.85% : lemon
+ 6.13% : orange
+ 0.11% : spaghetti squash
+ 0.03% : dough
+ 0.03% : strainer
+ 0.03% : hognose snake
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.03% : king penguin
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q093.jpg
+87.83% : lemon
+ 5.42% : orange
+ 0.11% : spaghetti squash
+ 0.03% : dough
+ 0.03% : strainer
+ 0.02% : hognose snake
+ 0.02% : pineapple
+ 0.02% : oxygen mask
+ 0.02% : king penguin
+ 0.02% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q094.jpg
+85.99% : lemon
+ 6.62% : orange
+ 0.11% : spaghetti squash
+ 0.03% : dough
+ 0.03% : strainer
+ 0.03% : hognose snake
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : pineapple
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q095.jpg
+86.54% : lemon
+ 6.21% : orange
+ 0.12% : spaghetti squash
+ 0.03% : dough
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : hognose snake
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q096.jpg
+86.39% : lemon
+ 6.25% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : hognose snake
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q097.jpg
+85.57% : lemon
+ 6.70% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : banana
+ 0.03% : platypus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q098.jpg
+86.27% : lemon
+ 6.43% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : platypus
+ 0.03% : hognose snake
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q099.jpg
+85.92% : lemon
+ 6.61% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : platypus
+ 0.03% : king penguin
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon7Q100.jpg
+86.03% : lemon
+ 6.56% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.03% : strainer
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : king penguin
+ 0.03% : platypus
+ 0.03% : hognose snake

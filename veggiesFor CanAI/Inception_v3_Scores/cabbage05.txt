@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q001.jpg
+97.67% : chainlink fence
+ 0.57% : umbrella
+ 0.42% : plastic bag
+ 0.23% : worm fence
+ 0.19% : shopping cart
+ 0.08% : shopping basket
+ 0.04% : prison
+ 0.03% : head cabbage
+ 0.03% : tennis ball
+ 0.03% : solar dish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q002.jpg
+97.79% : chainlink fence
+ 0.53% : umbrella
+ 0.39% : plastic bag
+ 0.23% : worm fence
+ 0.18% : shopping cart
+ 0.08% : shopping basket
+ 0.04% : prison
+ 0.03% : tennis ball
+ 0.03% : solar dish
+ 0.03% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q003.jpg
+94.98% : chainlink fence
+ 1.32% : umbrella
+ 0.92% : plastic bag
+ 0.31% : worm fence
+ 0.29% : shopping cart
+ 0.13% : shopping basket
+ 0.12% : head cabbage
+ 0.11% : prison
+ 0.08% : spider web
+ 0.06% : solar dish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q004.jpg
+31.90% : plastic bag
+18.07% : chainlink fence
+ 7.22% : shopping basket
+ 4.91% : shower cap
+ 4.29% : shopping cart
+ 2.42% : head cabbage
+ 1.15% : umbrella
+ 1.14% : tennis ball
+ 0.72% : broccoli
+ 0.48% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q005.jpg
+17.27% : shopping basket
+14.97% : chainlink fence
+13.60% : head cabbage
+ 7.80% : shopping cart
+ 3.82% : plastic bag
+ 3.05% : tennis ball
+ 1.90% : shower cap
+ 1.55% : broccoli
+ 1.27% : cauliflower
+ 1.24% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q006.jpg
+28.99% : chainlink fence
+25.67% : head cabbage
+13.60% : shopping basket
+ 3.47% : plastic bag
+ 1.35% : shopping cart
+ 1.25% : cauliflower
+ 0.91% : custard apple
+ 0.90% : broccoli
+ 0.50% : umbrella
+ 0.47% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q007.jpg
+38.49% : plastic bag
+16.18% : shopping basket
+ 8.51% : chainlink fence
+ 4.64% : head cabbage
+ 3.97% : umbrella
+ 2.23% : shopping cart
+ 1.21% : cauliflower
+ 0.83% : shower cap
+ 0.61% : broccoli
+ 0.53% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q008.jpg
+24.38% : chainlink fence
+18.63% : plastic bag
+ 7.86% : head cabbage
+ 4.15% : shopping basket
+ 4.08% : umbrella
+ 1.93% : shower cap
+ 0.81% : cauliflower
+ 0.68% : dough
+ 0.68% : broccoli
+ 0.57% : solar dish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q009.jpg
+20.28% : chainlink fence
+11.35% : head cabbage
+10.66% : shopping basket
+ 5.58% : plastic bag
+ 4.98% : umbrella
+ 2.55% : shower cap
+ 1.35% : cauliflower
+ 1.12% : broccoli
+ 0.90% : shopping cart
+ 0.63% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q010.jpg
+19.98% : chainlink fence
+17.07% : head cabbage
+ 8.31% : shopping basket
+ 7.00% : plastic bag
+ 3.60% : shower cap
+ 3.33% : umbrella
+ 2.85% : broccoli
+ 2.07% : cauliflower
+ 1.77% : shopping cart
+ 0.70% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q011.jpg
+24.91% : plastic bag
+11.31% : shopping basket
+10.44% : head cabbage
+ 5.79% : chainlink fence
+ 4.91% : shower cap
+ 2.61% : umbrella
+ 1.95% : cauliflower
+ 1.64% : broccoli
+ 1.18% : shopping cart
+ 0.66% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q012.jpg
+22.86% : plastic bag
+16.58% : head cabbage
+ 6.01% : shower cap
+ 5.33% : shopping basket
+ 4.75% : chainlink fence
+ 3.19% : cauliflower
+ 2.62% : broccoli
+ 1.68% : umbrella
+ 1.18% : jackfruit
+ 0.61% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q013.jpg
+18.95% : plastic bag
+15.09% : head cabbage
+13.10% : shopping basket
+ 6.11% : shower cap
+ 5.38% : chainlink fence
+ 2.31% : broccoli
+ 1.96% : umbrella
+ 1.83% : cauliflower
+ 1.46% : shopping cart
+ 0.64% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q014.jpg
+17.57% : plastic bag
+15.99% : head cabbage
+ 7.08% : shower cap
+ 6.77% : chainlink fence
+ 3.96% : shopping basket
+ 2.96% : cauliflower
+ 2.17% : broccoli
+ 1.38% : jackfruit
+ 1.19% : umbrella
+ 0.59% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q015.jpg
+18.51% : head cabbage
+15.05% : plastic bag
+10.86% : shower cap
+ 8.46% : chainlink fence
+ 5.39% : shopping basket
+ 2.46% : cauliflower
+ 1.99% : broccoli
+ 1.01% : jackfruit
+ 0.61% : dough
+ 0.59% : umbrella
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q016.jpg
+27.69% : head cabbage
+27.36% : plastic bag
+ 6.38% : shower cap
+ 5.96% : shopping basket
+ 3.92% : cauliflower
+ 3.24% : chainlink fence
+ 1.87% : broccoli
+ 0.85% : dough
+ 0.84% : jackfruit
+ 0.53% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q017.jpg
+34.44% : plastic bag
+12.80% : head cabbage
+12.74% : shopping basket
+ 8.28% : shower cap
+ 3.58% : cauliflower
+ 3.07% : chainlink fence
+ 1.59% : broccoli
+ 1.24% : shopping cart
+ 0.73% : jackfruit
+ 0.63% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q018.jpg
+30.41% : plastic bag
+24.97% : head cabbage
+ 5.57% : shopping basket
+ 4.73% : cauliflower
+ 4.69% : shower cap
+ 3.72% : chainlink fence
+ 2.17% : broccoli
+ 1.37% : jackfruit
+ 0.75% : custard apple
+ 0.44% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q019.jpg
+48.20% : plastic bag
+16.39% : head cabbage
+ 5.89% : shopping basket
+ 4.30% : cauliflower
+ 2.55% : shower cap
+ 2.24% : chainlink fence
+ 1.60% : broccoli
+ 0.90% : jackfruit
+ 0.62% : custard apple
+ 0.60% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q020.jpg
+41.68% : plastic bag
+20.65% : head cabbage
+ 4.66% : shopping basket
+ 4.30% : cauliflower
+ 3.73% : shower cap
+ 2.13% : chainlink fence
+ 2.05% : broccoli
+ 1.02% : jackfruit
+ 0.76% : custard apple
+ 0.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q021.jpg
+43.23% : plastic bag
+19.55% : head cabbage
+ 4.68% : cauliflower
+ 3.57% : shopping basket
+ 2.66% : chainlink fence
+ 2.18% : broccoli
+ 2.13% : shower cap
+ 1.14% : jackfruit
+ 0.69% : custard apple
+ 0.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q022.jpg
+36.70% : plastic bag
+23.37% : head cabbage
+ 4.63% : shopping basket
+ 4.47% : cauliflower
+ 4.32% : shower cap
+ 2.43% : chainlink fence
+ 2.31% : broccoli
+ 0.98% : jackfruit
+ 0.52% : dough
+ 0.48% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q023.jpg
+31.95% : plastic bag
+23.11% : head cabbage
+ 7.00% : shower cap
+ 4.43% : cauliflower
+ 3.64% : shopping basket
+ 2.06% : broccoli
+ 1.89% : chainlink fence
+ 0.91% : jackfruit
+ 0.73% : custard apple
+ 0.67% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q024.jpg
+27.60% : head cabbage
+24.61% : plastic bag
+ 4.45% : cauliflower
+ 3.56% : shopping basket
+ 3.52% : shower cap
+ 2.96% : broccoli
+ 2.52% : chainlink fence
+ 1.65% : jackfruit
+ 0.98% : custard apple
+ 0.66% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q025.jpg
+33.48% : head cabbage
+24.77% : plastic bag
+ 5.52% : cauliflower
+ 3.44% : shopping basket
+ 3.08% : broccoli
+ 2.57% : jackfruit
+ 2.12% : chainlink fence
+ 1.47% : shower cap
+ 1.00% : custard apple
+ 0.63% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q026.jpg
+33.75% : plastic bag
+24.29% : head cabbage
+ 4.21% : cauliflower
+ 3.80% : shopping basket
+ 2.46% : shower cap
+ 2.45% : broccoli
+ 2.22% : chainlink fence
+ 1.62% : jackfruit
+ 0.71% : custard apple
+ 0.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q027.jpg
+37.74% : plastic bag
+20.81% : head cabbage
+ 5.30% : shopping basket
+ 5.20% : cauliflower
+ 2.88% : shower cap
+ 2.04% : chainlink fence
+ 1.62% : broccoli
+ 1.36% : jackfruit
+ 0.93% : custard apple
+ 0.79% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q028.jpg
+36.36% : plastic bag
+24.58% : head cabbage
+ 4.60% : shopping basket
+ 4.59% : cauliflower
+ 2.29% : shower cap
+ 2.20% : chainlink fence
+ 1.81% : broccoli
+ 1.28% : jackfruit
+ 0.80% : custard apple
+ 0.63% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q029.jpg
+42.24% : plastic bag
+21.26% : head cabbage
+ 4.40% : cauliflower
+ 3.59% : shopping basket
+ 2.57% : chainlink fence
+ 2.09% : shower cap
+ 1.92% : broccoli
+ 1.50% : jackfruit
+ 0.88% : custard apple
+ 0.49% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q030.jpg
+38.09% : plastic bag
+26.44% : head cabbage
+ 5.29% : cauliflower
+ 3.09% : shopping basket
+ 2.78% : chainlink fence
+ 2.43% : shower cap
+ 1.64% : broccoli
+ 1.01% : jackfruit
+ 0.68% : custard apple
+ 0.44% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q031.jpg
+41.43% : plastic bag
+22.60% : head cabbage
+ 5.11% : shopping basket
+ 4.57% : cauliflower
+ 2.18% : broccoli
+ 2.17% : chainlink fence
+ 1.91% : shower cap
+ 1.42% : jackfruit
+ 0.82% : custard apple
+ 0.47% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q032.jpg
+42.96% : plastic bag
+20.31% : head cabbage
+ 4.93% : shopping basket
+ 4.71% : cauliflower
+ 2.19% : chainlink fence
+ 1.96% : broccoli
+ 1.87% : shower cap
+ 1.39% : jackfruit
+ 0.88% : custard apple
+ 0.65% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q033.jpg
+54.81% : plastic bag
+11.23% : head cabbage
+ 4.12% : shower cap
+ 3.53% : cauliflower
+ 2.68% : shopping basket
+ 1.79% : chainlink fence
+ 1.60% : broccoli
+ 1.43% : jackfruit
+ 0.82% : custard apple
+ 0.73% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q034.jpg
+47.13% : plastic bag
+13.83% : head cabbage
+ 4.03% : shower cap
+ 3.70% : shopping basket
+ 3.35% : cauliflower
+ 2.46% : chainlink fence
+ 2.06% : broccoli
+ 1.68% : jackfruit
+ 1.12% : custard apple
+ 0.92% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q035.jpg
+41.81% : plastic bag
+19.15% : head cabbage
+ 4.97% : shopping basket
+ 4.11% : cauliflower
+ 3.40% : shower cap
+ 2.23% : chainlink fence
+ 1.87% : broccoli
+ 1.77% : jackfruit
+ 0.90% : custard apple
+ 0.82% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q036.jpg
+29.89% : head cabbage
+29.36% : plastic bag
+ 5.59% : cauliflower
+ 4.06% : shopping basket
+ 2.62% : chainlink fence
+ 2.50% : broccoli
+ 1.94% : jackfruit
+ 1.69% : shower cap
+ 0.99% : custard apple
+ 0.80% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q037.jpg
+32.44% : head cabbage
+26.48% : plastic bag
+ 6.18% : cauliflower
+ 3.35% : shopping basket
+ 2.67% : chainlink fence
+ 2.62% : broccoli
+ 1.89% : jackfruit
+ 1.68% : shower cap
+ 0.97% : custard apple
+ 0.72% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q038.jpg
+34.65% : plastic bag
+20.15% : head cabbage
+ 4.64% : cauliflower
+ 3.61% : shopping basket
+ 3.51% : shower cap
+ 2.45% : chainlink fence
+ 2.28% : broccoli
+ 1.83% : jackfruit
+ 1.05% : custard apple
+ 0.70% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q039.jpg
+30.89% : plastic bag
+25.73% : head cabbage
+ 5.12% : cauliflower
+ 3.27% : shopping basket
+ 3.25% : chainlink fence
+ 3.22% : shower cap
+ 2.19% : broccoli
+ 1.55% : jackfruit
+ 0.87% : custard apple
+ 0.65% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q040.jpg
+33.65% : plastic bag
+20.60% : head cabbage
+ 5.00% : cauliflower
+ 3.50% : shower cap
+ 3.36% : shopping basket
+ 3.17% : chainlink fence
+ 2.40% : broccoli
+ 2.21% : jackfruit
+ 0.89% : custard apple
+ 0.82% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q041.jpg
+30.21% : plastic bag
+22.80% : head cabbage
+ 4.74% : cauliflower
+ 3.84% : shower cap
+ 3.07% : chainlink fence
+ 3.06% : shopping basket
+ 2.77% : jackfruit
+ 2.49% : broccoli
+ 1.04% : custard apple
+ 0.98% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q042.jpg
+32.58% : plastic bag
+27.09% : head cabbage
+ 5.11% : cauliflower
+ 2.96% : shower cap
+ 2.79% : shopping basket
+ 2.31% : chainlink fence
+ 1.93% : broccoli
+ 1.69% : jackfruit
+ 0.87% : custard apple
+ 0.86% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q043.jpg
+34.41% : plastic bag
+25.58% : head cabbage
+ 5.23% : cauliflower
+ 2.88% : shopping basket
+ 2.77% : shower cap
+ 2.20% : chainlink fence
+ 1.96% : broccoli
+ 1.73% : jackfruit
+ 0.90% : dough
+ 0.90% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q044.jpg
+34.94% : plastic bag
+22.60% : head cabbage
+ 5.63% : cauliflower
+ 3.60% : shopping basket
+ 2.77% : shower cap
+ 2.55% : chainlink fence
+ 2.46% : broccoli
+ 2.21% : jackfruit
+ 1.17% : custard apple
+ 0.74% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q045.jpg
+38.67% : plastic bag
+21.21% : head cabbage
+ 5.14% : cauliflower
+ 3.76% : shopping basket
+ 2.72% : shower cap
+ 2.30% : broccoli
+ 2.29% : chainlink fence
+ 2.08% : jackfruit
+ 1.14% : custard apple
+ 0.75% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q046.jpg
+38.41% : plastic bag
+21.43% : head cabbage
+ 5.71% : cauliflower
+ 4.31% : shopping basket
+ 2.86% : chainlink fence
+ 2.51% : broccoli
+ 2.14% : jackfruit
+ 1.67% : shower cap
+ 1.20% : custard apple
+ 0.81% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q047.jpg
+40.49% : plastic bag
+20.27% : head cabbage
+ 5.63% : cauliflower
+ 4.31% : shopping basket
+ 2.78% : chainlink fence
+ 2.45% : broccoli
+ 2.10% : jackfruit
+ 1.56% : shower cap
+ 1.15% : custard apple
+ 0.76% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q048.jpg
+41.91% : plastic bag
+19.22% : head cabbage
+ 4.95% : cauliflower
+ 3.91% : shopping basket
+ 2.83% : chainlink fence
+ 2.33% : broccoli
+ 2.14% : jackfruit
+ 1.82% : shower cap
+ 1.12% : custard apple
+ 0.76% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q049.jpg
+34.04% : plastic bag
+23.36% : head cabbage
+ 4.66% : cauliflower
+ 4.10% : shopping basket
+ 3.30% : chainlink fence
+ 2.52% : broccoli
+ 2.51% : jackfruit
+ 2.36% : shower cap
+ 1.14% : custard apple
+ 0.71% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q050.jpg
+34.13% : plastic bag
+22.77% : head cabbage
+ 4.71% : cauliflower
+ 4.20% : shopping basket
+ 3.33% : chainlink fence
+ 2.59% : broccoli
+ 2.53% : jackfruit
+ 2.32% : shower cap
+ 1.16% : custard apple
+ 0.73% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q051.jpg
+33.30% : plastic bag
+23.00% : head cabbage
+ 5.01% : cauliflower
+ 4.11% : shopping basket
+ 3.35% : chainlink fence
+ 2.73% : broccoli
+ 2.63% : jackfruit
+ 2.23% : shower cap
+ 1.20% : custard apple
+ 0.71% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q052.jpg
+42.71% : plastic bag
+15.96% : head cabbage
+ 3.93% : cauliflower
+ 3.62% : shopping basket
+ 3.48% : shower cap
+ 2.95% : chainlink fence
+ 2.20% : jackfruit
+ 1.99% : broccoli
+ 1.03% : custard apple
+ 0.69% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q053.jpg
+38.77% : plastic bag
+17.99% : head cabbage
+ 4.21% : cauliflower
+ 3.70% : shower cap
+ 3.43% : shopping basket
+ 2.81% : chainlink fence
+ 2.47% : jackfruit
+ 2.06% : broccoli
+ 1.08% : custard apple
+ 0.80% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q054.jpg
+40.47% : plastic bag
+16.35% : head cabbage
+ 4.12% : cauliflower
+ 3.72% : shower cap
+ 3.52% : shopping basket
+ 2.77% : jackfruit
+ 2.67% : chainlink fence
+ 2.04% : broccoli
+ 1.11% : custard apple
+ 0.82% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q055.jpg
+47.64% : plastic bag
+16.81% : head cabbage
+ 4.48% : cauliflower
+ 3.68% : shopping basket
+ 2.74% : shower cap
+ 2.02% : jackfruit
+ 2.02% : broccoli
+ 1.91% : chainlink fence
+ 0.90% : custard apple
+ 0.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q056.jpg
+47.46% : plastic bag
+15.82% : head cabbage
+ 4.27% : shopping basket
+ 3.77% : cauliflower
+ 3.35% : shower cap
+ 2.06% : chainlink fence
+ 1.90% : jackfruit
+ 1.87% : broccoli
+ 0.90% : custard apple
+ 0.67% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q057.jpg
+48.66% : plastic bag
+15.89% : head cabbage
+ 3.89% : shopping basket
+ 3.61% : cauliflower
+ 2.59% : shower cap
+ 2.11% : chainlink fence
+ 1.94% : jackfruit
+ 1.85% : broccoli
+ 0.90% : custard apple
+ 0.66% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q058.jpg
+37.81% : plastic bag
+22.84% : head cabbage
+ 5.29% : cauliflower
+ 2.71% : chainlink fence
+ 2.66% : jackfruit
+ 2.64% : shopping basket
+ 2.36% : broccoli
+ 2.06% : shower cap
+ 1.11% : custard apple
+ 0.68% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q059.jpg
+36.53% : plastic bag
+23.76% : head cabbage
+ 5.18% : cauliflower
+ 2.71% : jackfruit
+ 2.62% : chainlink fence
+ 2.61% : shopping basket
+ 2.30% : shower cap
+ 2.28% : broccoli
+ 1.13% : custard apple
+ 0.65% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q060.jpg
+38.63% : plastic bag
+22.06% : head cabbage
+ 5.15% : cauliflower
+ 2.64% : jackfruit
+ 2.55% : shopping basket
+ 2.53% : chainlink fence
+ 2.23% : shower cap
+ 2.21% : broccoli
+ 1.06% : custard apple
+ 0.59% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q061.jpg
+37.58% : plastic bag
+26.11% : head cabbage
+ 4.52% : cauliflower
+ 3.45% : shopping basket
+ 2.50% : chainlink fence
+ 2.35% : shower cap
+ 2.16% : broccoli
+ 1.79% : jackfruit
+ 0.96% : custard apple
+ 0.50% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q062.jpg
+34.07% : plastic bag
+28.67% : head cabbage
+ 4.50% : cauliflower
+ 3.51% : shopping basket
+ 2.56% : chainlink fence
+ 2.51% : shower cap
+ 2.26% : broccoli
+ 1.64% : jackfruit
+ 0.91% : custard apple
+ 0.50% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q063.jpg
+34.54% : plastic bag
+27.43% : head cabbage
+ 4.78% : cauliflower
+ 3.43% : shopping basket
+ 2.68% : chainlink fence
+ 2.49% : shower cap
+ 2.38% : broccoli
+ 1.77% : jackfruit
+ 0.93% : custard apple
+ 0.53% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q064.jpg
+31.99% : plastic bag
+28.65% : head cabbage
+ 5.10% : cauliflower
+ 2.71% : shopping basket
+ 2.42% : broccoli
+ 2.26% : chainlink fence
+ 2.19% : jackfruit
+ 2.16% : shower cap
+ 1.07% : custard apple
+ 0.55% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q065.jpg
+31.56% : plastic bag
+27.89% : head cabbage
+ 5.11% : cauliflower
+ 3.00% : shopping basket
+ 2.52% : chainlink fence
+ 2.51% : broccoli
+ 2.17% : jackfruit
+ 1.82% : shower cap
+ 1.22% : custard apple
+ 0.57% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q066.jpg
+34.93% : plastic bag
+27.13% : head cabbage
+ 5.05% : cauliflower
+ 2.80% : shopping basket
+ 2.40% : broccoli
+ 2.30% : jackfruit
+ 2.30% : chainlink fence
+ 1.56% : shower cap
+ 1.22% : custard apple
+ 0.58% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q067.jpg
+31.47% : plastic bag
+27.28% : head cabbage
+ 5.62% : cauliflower
+ 3.22% : shopping basket
+ 2.91% : chainlink fence
+ 2.88% : broccoli
+ 2.21% : jackfruit
+ 1.58% : shower cap
+ 1.29% : custard apple
+ 0.57% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q068.jpg
+34.55% : plastic bag
+25.56% : head cabbage
+ 5.48% : cauliflower
+ 3.22% : shopping basket
+ 2.59% : broccoli
+ 2.51% : chainlink fence
+ 2.19% : jackfruit
+ 1.83% : shower cap
+ 1.21% : custard apple
+ 0.58% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q069.jpg
+36.87% : plastic bag
+23.88% : head cabbage
+ 5.59% : cauliflower
+ 3.52% : shopping basket
+ 2.48% : broccoli
+ 2.28% : jackfruit
+ 2.24% : chainlink fence
+ 1.72% : shower cap
+ 1.26% : custard apple
+ 0.61% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q070.jpg
+41.59% : plastic bag
+18.80% : head cabbage
+ 5.12% : cauliflower
+ 3.99% : shopping basket
+ 2.45% : jackfruit
+ 2.36% : broccoli
+ 2.13% : chainlink fence
+ 1.84% : shower cap
+ 1.20% : custard apple
+ 0.65% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q071.jpg
+38.50% : plastic bag
+21.31% : head cabbage
+ 5.62% : cauliflower
+ 4.14% : shopping basket
+ 2.41% : broccoli
+ 2.22% : chainlink fence
+ 2.05% : jackfruit
+ 1.99% : shower cap
+ 1.06% : custard apple
+ 0.58% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q072.jpg
+38.96% : plastic bag
+21.40% : head cabbage
+ 5.43% : cauliflower
+ 3.74% : shopping basket
+ 2.32% : broccoli
+ 2.16% : chainlink fence
+ 2.03% : jackfruit
+ 1.96% : shower cap
+ 0.99% : custard apple
+ 0.55% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q073.jpg
+34.86% : plastic bag
+26.64% : head cabbage
+ 5.55% : cauliflower
+ 3.99% : shopping basket
+ 2.53% : chainlink fence
+ 2.44% : broccoli
+ 1.65% : shower cap
+ 1.54% : jackfruit
+ 0.95% : custard apple
+ 0.51% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q074.jpg
+36.59% : plastic bag
+25.12% : head cabbage
+ 5.22% : cauliflower
+ 3.65% : shopping basket
+ 2.61% : chainlink fence
+ 2.18% : shower cap
+ 2.13% : broccoli
+ 1.34% : jackfruit
+ 0.89% : custard apple
+ 0.52% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q075.jpg
+37.39% : plastic bag
+24.70% : head cabbage
+ 5.09% : cauliflower
+ 3.72% : shopping basket
+ 2.62% : chainlink fence
+ 2.12% : shower cap
+ 2.11% : broccoli
+ 1.36% : jackfruit
+ 0.87% : custard apple
+ 0.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q076.jpg
+44.22% : plastic bag
+19.80% : head cabbage
+ 4.23% : cauliflower
+ 3.57% : shopping basket
+ 2.56% : chainlink fence
+ 2.18% : shower cap
+ 1.98% : broccoli
+ 1.52% : jackfruit
+ 0.85% : custard apple
+ 0.51% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q077.jpg
+41.73% : plastic bag
+19.69% : head cabbage
+ 4.41% : cauliflower
+ 3.47% : shopping basket
+ 2.69% : chainlink fence
+ 2.22% : shower cap
+ 2.11% : broccoli
+ 1.74% : jackfruit
+ 0.92% : custard apple
+ 0.50% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q078.jpg
+37.71% : plastic bag
+23.49% : head cabbage
+ 4.49% : cauliflower
+ 3.04% : shopping basket
+ 2.89% : chainlink fence
+ 2.52% : broccoli
+ 2.27% : jackfruit
+ 1.75% : shower cap
+ 0.88% : custard apple
+ 0.49% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q079.jpg
+38.50% : plastic bag
+23.67% : head cabbage
+ 4.60% : cauliflower
+ 2.86% : shopping basket
+ 2.67% : chainlink fence
+ 2.50% : jackfruit
+ 2.49% : broccoli
+ 1.52% : shower cap
+ 0.94% : custard apple
+ 0.50% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q080.jpg
+40.51% : plastic bag
+23.49% : head cabbage
+ 4.47% : cauliflower
+ 2.70% : shopping basket
+ 2.52% : jackfruit
+ 2.42% : chainlink fence
+ 2.34% : broccoli
+ 1.51% : shower cap
+ 0.94% : custard apple
+ 0.55% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q081.jpg
+42.46% : plastic bag
+20.55% : head cabbage
+ 4.86% : cauliflower
+ 3.12% : shopping basket
+ 2.42% : chainlink fence
+ 2.16% : broccoli
+ 2.15% : shower cap
+ 1.70% : jackfruit
+ 1.00% : custard apple
+ 0.59% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q082.jpg
+43.75% : plastic bag
+19.21% : head cabbage
+ 4.56% : cauliflower
+ 3.23% : shopping basket
+ 2.28% : shower cap
+ 2.23% : chainlink fence
+ 1.97% : broccoli
+ 1.71% : jackfruit
+ 1.01% : custard apple
+ 0.65% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q083.jpg
+40.77% : plastic bag
+21.77% : head cabbage
+ 5.11% : cauliflower
+ 3.15% : shopping basket
+ 2.25% : chainlink fence
+ 2.23% : broccoli
+ 1.93% : shower cap
+ 1.75% : jackfruit
+ 1.10% : custard apple
+ 0.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q084.jpg
+40.21% : plastic bag
+21.41% : head cabbage
+ 4.88% : cauliflower
+ 3.29% : shopping basket
+ 2.28% : chainlink fence
+ 2.25% : broccoli
+ 2.21% : shower cap
+ 1.80% : jackfruit
+ 1.15% : custard apple
+ 0.59% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q085.jpg
+38.81% : plastic bag
+22.61% : head cabbage
+ 5.10% : cauliflower
+ 3.28% : shopping basket
+ 2.43% : broccoli
+ 2.35% : chainlink fence
+ 2.02% : shower cap
+ 1.85% : jackfruit
+ 1.16% : custard apple
+ 0.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q086.jpg
+38.53% : plastic bag
+24.71% : head cabbage
+ 4.54% : cauliflower
+ 3.79% : shopping basket
+ 2.49% : chainlink fence
+ 2.19% : broccoli
+ 1.95% : shower cap
+ 1.51% : jackfruit
+ 1.08% : custard apple
+ 0.50% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q087.jpg
+43.10% : plastic bag
+21.23% : head cabbage
+ 4.36% : cauliflower
+ 3.82% : shopping basket
+ 2.43% : chainlink fence
+ 2.03% : broccoli
+ 1.82% : shower cap
+ 1.49% : jackfruit
+ 0.98% : custard apple
+ 0.49% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q088.jpg
+41.32% : plastic bag
+21.93% : head cabbage
+ 4.72% : cauliflower
+ 3.57% : shopping basket
+ 2.30% : chainlink fence
+ 2.04% : broccoli
+ 2.03% : shower cap
+ 1.52% : jackfruit
+ 0.99% : custard apple
+ 0.52% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q089.jpg
+40.84% : plastic bag
+21.58% : head cabbage
+ 4.66% : cauliflower
+ 3.80% : shopping basket
+ 2.42% : chainlink fence
+ 2.11% : shower cap
+ 2.11% : broccoli
+ 1.52% : jackfruit
+ 1.00% : custard apple
+ 0.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q090.jpg
+34.30% : plastic bag
+27.46% : head cabbage
+ 5.41% : cauliflower
+ 3.04% : shopping basket
+ 2.22% : broccoli
+ 2.22% : chainlink fence
+ 1.81% : shower cap
+ 1.74% : jackfruit
+ 1.04% : custard apple
+ 0.48% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q091.jpg
+36.43% : plastic bag
+27.08% : head cabbage
+ 4.88% : cauliflower
+ 2.97% : shopping basket
+ 2.17% : chainlink fence
+ 2.14% : broccoli
+ 1.93% : shower cap
+ 1.64% : jackfruit
+ 0.97% : custard apple
+ 0.51% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q092.jpg
+41.09% : plastic bag
+25.41% : head cabbage
+ 4.22% : cauliflower
+ 2.89% : shopping basket
+ 1.94% : shower cap
+ 1.90% : broccoli
+ 1.82% : jackfruit
+ 1.82% : chainlink fence
+ 0.93% : custard apple
+ 0.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q093.jpg
+43.83% : plastic bag
+22.52% : head cabbage
+ 4.31% : cauliflower
+ 3.23% : shopping basket
+ 1.92% : jackfruit
+ 1.88% : chainlink fence
+ 1.87% : broccoli
+ 1.57% : shower cap
+ 0.97% : custard apple
+ 0.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q094.jpg
+45.17% : plastic bag
+20.79% : head cabbage
+ 4.30% : cauliflower
+ 3.62% : shopping basket
+ 2.04% : chainlink fence
+ 2.03% : jackfruit
+ 1.94% : broccoli
+ 1.63% : shower cap
+ 1.00% : custard apple
+ 0.57% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q095.jpg
+45.55% : plastic bag
+21.90% : head cabbage
+ 4.33% : cauliflower
+ 3.40% : shopping basket
+ 2.04% : jackfruit
+ 1.91% : broccoli
+ 1.79% : chainlink fence
+ 1.40% : shower cap
+ 1.03% : custard apple
+ 0.56% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q096.jpg
+42.18% : plastic bag
+23.62% : head cabbage
+ 4.92% : cauliflower
+ 3.37% : shopping basket
+ 2.01% : chainlink fence
+ 1.97% : broccoli
+ 1.88% : jackfruit
+ 1.61% : shower cap
+ 1.06% : custard apple
+ 0.58% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q097.jpg
+44.61% : plastic bag
+21.82% : head cabbage
+ 4.32% : cauliflower
+ 3.48% : shopping basket
+ 1.93% : broccoli
+ 1.91% : jackfruit
+ 1.89% : chainlink fence
+ 1.58% : shower cap
+ 1.01% : custard apple
+ 0.60% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q098.jpg
+42.95% : plastic bag
+21.73% : head cabbage
+ 4.82% : cauliflower
+ 3.60% : shopping basket
+ 2.06% : chainlink fence
+ 2.00% : broccoli
+ 1.99% : jackfruit
+ 1.69% : shower cap
+ 1.08% : custard apple
+ 0.57% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q099.jpg
+44.04% : plastic bag
+21.65% : head cabbage
+ 4.83% : cauliflower
+ 3.54% : shopping basket
+ 2.09% : chainlink fence
+ 1.95% : broccoli
+ 1.76% : shower cap
+ 1.70% : jackfruit
+ 1.02% : custard apple
+ 0.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage5Q100.jpg
+43.67% : plastic bag
+21.17% : head cabbage
+ 4.72% : cauliflower
+ 3.75% : shopping basket
+ 2.22% : chainlink fence
+ 1.96% : broccoli
+ 1.93% : jackfruit
+ 1.64% : shower cap
+ 1.05% : custard apple
+ 0.56% : dough

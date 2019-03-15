@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q001.jpg
+99.68% : broccoli
+ 0.02% : cauliflower
+ 0.02% : analog clock
+ 0.01% : odometer
+ 0.00% : bath towel
+ 0.00% : pot
+ 0.00% : head cabbage
+ 0.00% : rapeseed
+ 0.00% : syringe
+ 0.00% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q002.jpg
+99.68% : broccoli
+ 0.02% : cauliflower
+ 0.02% : analog clock
+ 0.01% : odometer
+ 0.00% : bath towel
+ 0.00% : pot
+ 0.00% : head cabbage
+ 0.00% : rapeseed
+ 0.00% : syringe
+ 0.00% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q003.jpg
+99.47% : broccoli
+ 0.03% : cauliflower
+ 0.02% : analog clock
+ 0.01% : odometer
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : pot
+ 0.01% : rapeseed
+ 0.00% : syringe
+ 0.00% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q004.jpg
+99.70% : broccoli
+ 0.03% : analog clock
+ 0.02% : cauliflower
+ 0.00% : bath towel
+ 0.00% : odometer
+ 0.00% : head cabbage
+ 0.00% : pot
+ 0.00% : rapeseed
+ 0.00% : wall clock
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q005.jpg
+99.79% : broccoli
+ 0.02% : analog clock
+ 0.02% : cauliflower
+ 0.00% : bath towel
+ 0.00% : head cabbage
+ 0.00% : wall clock
+ 0.00% : odometer
+ 0.00% : African chameleon
+ 0.00% : pot
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q006.jpg
+99.63% : broccoli
+ 0.02% : analog clock
+ 0.02% : cauliflower
+ 0.00% : rapeseed
+ 0.00% : bath towel
+ 0.00% : head cabbage
+ 0.00% : odometer
+ 0.00% : wall clock
+ 0.00% : mask
+ 0.00% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q007.jpg
+99.46% : broccoli
+ 0.02% : cauliflower
+ 0.02% : analog clock
+ 0.01% : head cabbage
+ 0.00% : bath towel
+ 0.00% : rapeseed
+ 0.00% : odometer
+ 0.00% : wall clock
+ 0.00% : banana
+ 0.00% : Kerry blue terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q008.jpg
+99.30% : broccoli
+ 0.03% : cauliflower
+ 0.02% : analog clock
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : bath towel
+ 0.00% : banana
+ 0.00% : rapeseed
+ 0.00% : jackfruit
+ 0.00% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q009.jpg
+99.50% : broccoli
+ 0.03% : cauliflower
+ 0.02% : analog clock
+ 0.01% : head cabbage
+ 0.00% : bath towel
+ 0.00% : odometer
+ 0.00% : rapeseed
+ 0.00% : wall clock
+ 0.00% : tabby
+ 0.00% : Kerry blue terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q010.jpg
+99.23% : broccoli
+ 0.04% : cauliflower
+ 0.02% : analog clock
+ 0.01% : head cabbage
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.00% : rapeseed
+ 0.00% : wall clock
+ 0.00% : Kerry blue terrier
+ 0.00% : tabby
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q011.jpg
+99.20% : broccoli
+ 0.04% : cauliflower
+ 0.02% : analog clock
+ 0.01% : head cabbage
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.01% : rapeseed
+ 0.00% : jackfruit
+ 0.00% : wall clock
+ 0.00% : Kerry blue terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q012.jpg
+99.31% : broccoli
+ 0.04% : cauliflower
+ 0.02% : analog clock
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.00% : wall clock
+ 0.00% : mask
+ 0.00% : Kerry blue terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q013.jpg
+98.81% : broccoli
+ 0.05% : cauliflower
+ 0.03% : analog clock
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.01% : mask
+ 0.01% : banana
+ 0.01% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q014.jpg
+98.92% : broccoli
+ 0.05% : cauliflower
+ 0.03% : analog clock
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q015.jpg
+98.56% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q016.jpg
+98.52% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : shovel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q017.jpg
+98.60% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : bath towel
+ 0.01% : odometer
+ 0.01% : mask
+ 0.01% : banana
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q018.jpg
+98.24% : broccoli
+ 0.07% : cauliflower
+ 0.05% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : mask
+ 0.01% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q019.jpg
+98.44% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : mask
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q020.jpg
+98.55% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q021.jpg
+98.46% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q022.jpg
+98.53% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q023.jpg
+98.54% : broccoli
+ 0.06% : cauliflower
+ 0.03% : analog clock
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q024.jpg
+98.11% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q025.jpg
+97.96% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.02% : rapeseed
+ 0.01% : odometer
+ 0.01% : zucchini
+ 0.01% : banana
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q026.jpg
+98.25% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q027.jpg
+98.80% : broccoli
+ 0.05% : cauliflower
+ 0.03% : analog clock
+ 0.01% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q028.jpg
+98.89% : broccoli
+ 0.05% : cauliflower
+ 0.03% : analog clock
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q029.jpg
+98.83% : broccoli
+ 0.05% : cauliflower
+ 0.03% : analog clock
+ 0.01% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q030.jpg
+98.64% : broccoli
+ 0.05% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q031.jpg
+98.65% : broccoli
+ 0.06% : cauliflower
+ 0.03% : analog clock
+ 0.02% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : zucchini
+ 0.01% : banana
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q032.jpg
+98.70% : broccoli
+ 0.05% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : head cabbage
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q033.jpg
+98.27% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q034.jpg
+98.28% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q035.jpg
+98.27% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q036.jpg
+98.43% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q037.jpg
+98.46% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : rapeseed
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q038.jpg
+98.11% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q039.jpg
+98.23% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q040.jpg
+98.24% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q041.jpg
+98.19% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q042.jpg
+98.01% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q043.jpg
+98.01% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q044.jpg
+98.12% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q045.jpg
+98.31% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q046.jpg
+98.34% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q047.jpg
+98.39% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q048.jpg
+98.40% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q049.jpg
+98.45% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q050.jpg
+98.45% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q051.jpg
+98.47% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q052.jpg
+98.21% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q053.jpg
+98.14% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q054.jpg
+98.30% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q055.jpg
+98.24% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q056.jpg
+98.34% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q057.jpg
+98.38% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q058.jpg
+98.41% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q059.jpg
+98.49% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q060.jpg
+98.54% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q061.jpg
+98.52% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q062.jpg
+98.51% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q063.jpg
+98.40% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q064.jpg
+98.34% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q065.jpg
+98.45% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q066.jpg
+98.57% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q067.jpg
+98.55% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q068.jpg
+98.58% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q069.jpg
+98.62% : broccoli
+ 0.06% : cauliflower
+ 0.03% : analog clock
+ 0.01% : rapeseed
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q070.jpg
+98.57% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.01% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q071.jpg
+98.55% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q072.jpg
+98.54% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q073.jpg
+98.34% : broccoli
+ 0.06% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q074.jpg
+98.20% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q075.jpg
+98.09% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q076.jpg
+98.11% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q077.jpg
+98.03% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q078.jpg
+98.03% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q079.jpg
+98.01% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q080.jpg
+97.98% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q081.jpg
+98.07% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q082.jpg
+98.16% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q083.jpg
+98.32% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q084.jpg
+98.55% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.01% : rapeseed
+ 0.01% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q085.jpg
+98.49% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q086.jpg
+98.48% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.02% : rapeseed
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : zucchini
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q087.jpg
+98.38% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.02% : rapeseed
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q088.jpg
+98.28% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.02% : rapeseed
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q089.jpg
+98.32% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q090.jpg
+98.33% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q091.jpg
+98.35% : broccoli
+ 0.07% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.02% : rapeseed
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q092.jpg
+98.10% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : odometer
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q093.jpg
+97.99% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q094.jpg
+98.10% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.02% : bath towel
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q095.jpg
+98.08% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : head cabbage
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q096.jpg
+98.15% : broccoli
+ 0.09% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q097.jpg
+98.23% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : bath towel
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : jackfruit
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q098.jpg
+98.16% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : odometer
+ 0.01% : jackfruit
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q099.jpg
+98.25% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : head cabbage
+ 0.02% : bath towel
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoli3Q100.jpg
+98.24% : broccoli
+ 0.08% : cauliflower
+ 0.04% : analog clock
+ 0.02% : rapeseed
+ 0.02% : bath towel
+ 0.02% : head cabbage
+ 0.01% : jackfruit
+ 0.01% : odometer
+ 0.01% : banana
+ 0.01% : zucchini

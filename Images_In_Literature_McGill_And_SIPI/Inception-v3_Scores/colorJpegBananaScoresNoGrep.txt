@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ001.jpg
+ 9.97% : boa constrictor
+ 4.21% : tarantula
+ 2.05% : rock python
+ 1.71% : freight car
+ 1.61% : gyromitra
+ 1.59% : comic book
+ 1.49% : chain
+ 1.48% : crane
+ 1.43% : stinkhorn
+ 1.41% : bee
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ002.jpg
+10.07% : boa constrictor
+ 4.43% : tarantula
+ 2.12% : rock python
+ 1.73% : freight car
+ 1.54% : comic book
+ 1.49% : gyromitra
+ 1.47% : chain
+ 1.43% : bee
+ 1.41% : crane
+ 1.39% : chocolate sauce
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ003.jpg
+ 4.02% : comic book
+ 3.58% : sea anemone
+ 2.79% : gyromitra
+ 2.79% : freight car
+ 2.77% : book jacket
+ 2.56% : jack-o'-lantern
+ 2.44% : chain
+ 2.10% : carousel
+ 2.04% : hen-of-the-woods
+ 2.01% : crane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ004.jpg
+56.42% : banana
+ 6.77% : jack-o'-lantern
+ 4.03% : butternut squash
+ 2.49% : crane
+ 2.31% : sea anemone
+ 2.11% : comic book
+ 1.04% : tile roof
+ 0.64% : nematode
+ 0.58% : freight car
+ 0.58% : forklift
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ005.jpg
+99.38% : banana
+ 0.13% : butternut squash
+ 0.04% : orange
+ 0.03% : tile roof
+ 0.02% : zucchini
+ 0.02% : grocery store
+ 0.01% : jack-o'-lantern
+ 0.01% : crane
+ 0.01% : spaghetti squash
+ 0.01% : pineapple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ006.jpg
+99.73% : banana
+ 0.04% : butternut squash
+ 0.02% : orange
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.00% : grocery store
+ 0.00% : tile roof
+ 0.00% : crane
+ 0.00% : wooden spoon
+ 0.00% : pineapple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ007.jpg
+99.68% : banana
+ 0.03% : butternut squash
+ 0.02% : orange
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : crane
+ 0.01% : tile roof
+ 0.00% : grocery store
+ 0.00% : pineapple
+ 0.00% : king crab
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ008.jpg
+98.92% : banana
+ 0.07% : orange
+ 0.05% : butternut squash
+ 0.04% : spaghetti squash
+ 0.03% : zucchini
+ 0.01% : tile roof
+ 0.01% : pineapple
+ 0.01% : grocery store
+ 0.01% : crane
+ 0.01% : lemon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ009.jpg
+98.07% : banana
+ 0.15% : orange
+ 0.09% : spaghetti squash
+ 0.08% : butternut squash
+ 0.06% : zucchini
+ 0.03% : grocery store
+ 0.03% : pineapple
+ 0.02% : tile roof
+ 0.01% : lemon
+ 0.01% : acorn squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ010.jpg
+99.10% : banana
+ 0.07% : orange
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : zucchini
+ 0.01% : pineapple
+ 0.01% : grocery store
+ 0.01% : lemon
+ 0.00% : custard apple
+ 0.00% : tile roof
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ011.jpg
+99.06% : banana
+ 0.10% : orange
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : zucchini
+ 0.02% : grocery store
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.00% : acorn squash
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ012.jpg
+98.80% : banana
+ 0.10% : orange
+ 0.04% : butternut squash
+ 0.03% : zucchini
+ 0.03% : spaghetti squash
+ 0.02% : grocery store
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : tile roof
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ013.jpg
+99.74% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : spaghetti squash
+ 0.01% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ014.jpg
+99.46% : banana
+ 0.05% : orange
+ 0.02% : butternut squash
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : pineapple
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ015.jpg
+99.65% : banana
+ 0.04% : orange
+ 0.01% : butternut squash
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.00% : lemon
+ 0.00% : strawberry
+ 0.00% : tile roof
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ016.jpg
+99.73% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : spaghetti squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ017.jpg
+99.77% : banana
+ 0.02% : orange
+ 0.01% : spaghetti squash
+ 0.01% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ018.jpg
+99.89% : banana
+ 0.01% : orange
+ 0.00% : spaghetti squash
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ019.jpg
+99.83% : banana
+ 0.01% : orange
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ020.jpg
+99.92% : banana
+ 0.01% : orange
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : custard apple
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ021.jpg
+99.85% : banana
+ 0.01% : orange
+ 0.00% : spaghetti squash
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : custard apple
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ022.jpg
+99.92% : banana
+ 0.01% : orange
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ023.jpg
+99.91% : banana
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ024.jpg
+99.93% : banana
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ025.jpg
+99.91% : banana
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : spaghetti squash
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ026.jpg
+99.94% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ027.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ028.jpg
+99.95% : banana
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ029.jpg
+99.94% : banana
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ030.jpg
+99.91% : banana
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ031.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ032.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ033.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ034.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ035.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ036.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ037.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ038.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ039.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ040.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ041.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ042.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ043.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ044.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ045.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ046.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ047.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ048.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ049.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ050.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ051.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ052.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ053.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ054.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ055.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ056.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ057.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : lemon
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ058.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ059.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ060.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ061.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ062.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ063.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ064.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ065.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ066.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ067.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ068.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ069.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ070.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ071.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ072.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : bighorn
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ073.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : bighorn
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ074.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ075.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ076.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ077.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ078.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ079.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ080.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : lakeside
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ081.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ082.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ083.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ084.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ085.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ086.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ087.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ088.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ089.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ090.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ091.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ092.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ093.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ094.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ095.jpg
+99.96% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ096.jpg
+99.95% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ097.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ098.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ099.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : shopping basket
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorBananaQ100.jpg
+99.97% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : bighorn

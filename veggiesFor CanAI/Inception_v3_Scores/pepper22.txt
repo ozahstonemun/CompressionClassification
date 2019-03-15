@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q001.jpg
+97.28% : bell pepper
+ 0.99% : candle
+ 0.26% : traffic light
+ 0.24% : jack-o'-lantern
+ 0.10% : pomegranate
+ 0.09% : hair slide
+ 0.05% : piggy bank
+ 0.05% : strawberry
+ 0.04% : balloon
+ 0.03% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q002.jpg
+97.27% : bell pepper
+ 0.99% : candle
+ 0.26% : traffic light
+ 0.24% : jack-o'-lantern
+ 0.10% : pomegranate
+ 0.09% : hair slide
+ 0.05% : piggy bank
+ 0.05% : strawberry
+ 0.04% : balloon
+ 0.03% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q003.jpg
+96.97% : bell pepper
+ 1.16% : candle
+ 0.25% : traffic light
+ 0.20% : jack-o'-lantern
+ 0.10% : hair slide
+ 0.10% : pomegranate
+ 0.08% : piggy bank
+ 0.06% : strawberry
+ 0.05% : balloon
+ 0.03% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q004.jpg
+99.74% : bell pepper
+ 0.02% : pomegranate
+ 0.02% : candle
+ 0.01% : strawberry
+ 0.01% : corn
+ 0.01% : jack-o'-lantern
+ 0.00% : hair slide
+ 0.00% : chiton
+ 0.00% : lipstick
+ 0.00% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q005.jpg
+99.46% : bell pepper
+ 0.02% : corn
+ 0.01% : pomegranate
+ 0.01% : acorn squash
+ 0.01% : saltshaker
+ 0.01% : ear
+ 0.01% : candle
+ 0.01% : jack-o'-lantern
+ 0.01% : chiton
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q006.jpg
+99.37% : bell pepper
+ 0.02% : acorn squash
+ 0.01% : saltshaker
+ 0.01% : corn
+ 0.01% : candle
+ 0.01% : jack-o'-lantern
+ 0.01% : pomegranate
+ 0.01% : clog
+ 0.01% : abacus
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q007.jpg
+99.44% : bell pepper
+ 0.02% : acorn squash
+ 0.01% : corn
+ 0.01% : abacus
+ 0.01% : grocery store
+ 0.01% : saltshaker
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : jack-o'-lantern
+ 0.00% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q008.jpg
+99.49% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : saltshaker
+ 0.01% : grocery store
+ 0.01% : corn
+ 0.01% : candle
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : abacus
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q009.jpg
+99.38% : bell pepper
+ 0.01% : corn
+ 0.01% : acorn squash
+ 0.01% : saltshaker
+ 0.01% : jack-o'-lantern
+ 0.01% : grocery store
+ 0.01% : ear
+ 0.01% : stove
+ 0.01% : candle
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q010.jpg
+99.29% : bell pepper
+ 0.02% : corn
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : jack-o'-lantern
+ 0.00% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q011.jpg
+99.52% : bell pepper
+ 0.02% : corn
+ 0.01% : grocery store
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.00% : candle
+ 0.00% : acorn squash
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q012.jpg
+99.46% : bell pepper
+ 0.01% : corn
+ 0.01% : grocery store
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : saltshaker
+ 0.01% : abacus
+ 0.01% : acorn squash
+ 0.00% : jackfruit
+ 0.00% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q013.jpg
+98.99% : bell pepper
+ 0.02% : grocery store
+ 0.02% : stove
+ 0.01% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : chimpanzee
+ 0.01% : dial telephone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q014.jpg
+98.90% : bell pepper
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q015.jpg
+99.00% : bell pepper
+ 0.02% : grocery store
+ 0.02% : stove
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : acorn squash
+ 0.01% : ear
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q016.jpg
+98.76% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.01% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : acorn squash
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q017.jpg
+98.60% : bell pepper
+ 0.04% : stove
+ 0.03% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : acorn squash
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q018.jpg
+98.61% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : candle
+ 0.01% : chimpanzee
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q019.jpg
+98.64% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : breastplate
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : cuirass
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q020.jpg
+98.55% : bell pepper
+ 0.03% : stove
+ 0.03% : grocery store
+ 0.02% : corn
+ 0.02% : breastplate
+ 0.01% : saltshaker
+ 0.01% : abacus
+ 0.01% : cuirass
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q021.jpg
+98.70% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : acorn squash
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q022.jpg
+98.95% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : chimpanzee
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q023.jpg
+99.35% : bell pepper
+ 0.02% : stove
+ 0.01% : corn
+ 0.01% : grocery store
+ 0.01% : abacus
+ 0.00% : breastplate
+ 0.00% : saltshaker
+ 0.00% : frying pan
+ 0.00% : candle
+ 0.00% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q024.jpg
+99.09% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.01% : corn
+ 0.01% : abacus
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q025.jpg
+98.99% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.01% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.01% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q026.jpg
+98.80% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : breastplate
+ 0.01% : abacus
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q027.jpg
+98.76% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q028.jpg
+98.93% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q029.jpg
+99.08% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q030.jpg
+98.93% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q031.jpg
+98.91% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : candle
+ 0.01% : cuirass
+ 0.01% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q032.jpg
+98.88% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : candle
+ 0.01% : chiton
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q033.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : candle
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q034.jpg
+98.98% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : punching bag
+ 0.01% : candle
+ 0.01% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q035.jpg
+98.90% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : candle
+ 0.01% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q036.jpg
+99.02% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : candle
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q037.jpg
+99.06% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : candle
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q038.jpg
+99.14% : bell pepper
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : breastplate
+ 0.01% : candle
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q039.jpg
+98.99% : bell pepper
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : candle
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q040.jpg
+99.18% : bell pepper
+ 0.02% : stove
+ 0.01% : grocery store
+ 0.01% : corn
+ 0.01% : abacus
+ 0.01% : candle
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.00% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q041.jpg
+99.08% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q042.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q043.jpg
+98.88% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q044.jpg
+98.79% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q045.jpg
+98.78% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q046.jpg
+98.57% : bell pepper
+ 0.03% : stove
+ 0.03% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q047.jpg
+98.55% : bell pepper
+ 0.03% : stove
+ 0.03% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q048.jpg
+98.63% : bell pepper
+ 0.03% : stove
+ 0.03% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q049.jpg
+98.93% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q050.jpg
+98.93% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q051.jpg
+98.91% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q052.jpg
+98.92% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : Labrador retriever
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q053.jpg
+98.95% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : Labrador retriever
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q054.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : Labrador retriever
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q055.jpg
+98.75% : bell pepper
+ 0.03% : stove
+ 0.03% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : cuirass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q056.jpg
+98.79% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q057.jpg
+98.79% : bell pepper
+ 0.04% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q058.jpg
+98.74% : bell pepper
+ 0.04% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : chiton
+ 0.01% : chimpanzee
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q059.jpg
+98.83% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q060.jpg
+98.85% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q061.jpg
+99.06% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q062.jpg
+99.03% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : clog
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q063.jpg
+99.04% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q064.jpg
+99.06% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q065.jpg
+99.12% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.00% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q066.jpg
+99.05% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q067.jpg
+98.93% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q068.jpg
+98.91% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : chiton
+ 0.01% : breastplate
+ 0.01% : punching bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q069.jpg
+98.95% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q070.jpg
+99.08% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q071.jpg
+99.10% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q072.jpg
+99.15% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.00% : breastplate
+ 0.00% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q073.jpg
+99.03% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.01% : dial telephone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q074.jpg
+99.14% : bell pepper
+ 0.02% : corn
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.00% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q075.jpg
+99.12% : bell pepper
+ 0.02% : corn
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.00% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q076.jpg
+99.06% : bell pepper
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : candle
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q077.jpg
+98.90% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.02% : abacus
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : candle
+ 0.01% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q078.jpg
+98.91% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.02% : abacus
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+ 0.01% : chimpanzee
+ 0.01% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q079.jpg
+98.92% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.02% : abacus
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : breastplate
+ 0.01% : dial telephone
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q080.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : saltshaker
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q081.jpg
+99.00% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : rhinoceros beetle
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : Norfolk terrier
+ 0.01% : chimpanzee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q082.jpg
+99.01% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : Norfolk terrier
+ 0.01% : chimpanzee
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q083.jpg
+99.15% : bell pepper
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.00% : Labrador retriever
+ 0.00% : punching bag
+ 0.00% : rhinoceros beetle
+ 0.00% : Norfolk terrier
+ 0.00% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q084.jpg
+99.08% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : rhinoceros beetle
+ 0.00% : chiton
+ 0.00% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q085.jpg
+99.01% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+ 0.01% : Labrador retriever
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q086.jpg
+98.88% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : Norfolk terrier
+ 0.01% : Labrador retriever
+ 0.01% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q087.jpg
+98.91% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : chiton
+ 0.01% : Labrador retriever
+ 0.01% : punching bag
+ 0.01% : saltshaker
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q088.jpg
+98.89% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : Norfolk terrier
+ 0.01% : rhinoceros beetle
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q089.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : Labrador retriever
+ 0.01% : chiton
+ 0.01% : candle
+ 0.01% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q090.jpg
+98.99% : bell pepper
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : Norfolk terrier
+ 0.01% : Labrador retriever
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q091.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+ 0.01% : ear
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q092.jpg
+99.18% : bell pepper
+ 0.02% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : ear
+ 0.01% : punching bag
+ 0.01% : Labrador retriever
+ 0.00% : Norfolk terrier
+ 0.00% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q093.jpg
+99.00% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : ear
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q094.jpg
+99.01% : bell pepper
+ 0.03% : corn
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : ear
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q095.jpg
+99.02% : bell pepper
+ 0.03% : corn
+ 0.02% : stove
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : breastplate
+ 0.01% : punching bag
+ 0.01% : ear
+ 0.01% : chiton
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q096.jpg
+98.87% : bell pepper
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : chiton
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : saltshaker
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q097.jpg
+98.89% : bell pepper
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : rhinoceros beetle
+ 0.01% : ear
+ 0.01% : breastplate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q098.jpg
+98.86% : bell pepper
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : grocery store
+ 0.02% : abacus
+ 0.01% : punching bag
+ 0.01% : chiton
+ 0.01% : breastplate
+ 0.01% : rhinoceros beetle
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q099.jpg
+98.94% : bell pepper
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : ear
+ 0.01% : rhinoceros beetle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper22Q100.jpg
+98.93% : bell pepper
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : grocery store
+ 0.01% : abacus
+ 0.01% : punching bag
+ 0.01% : breastplate
+ 0.01% : chiton
+ 0.01% : ear
+ 0.01% : Labrador retriever

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q001.jpg
+23.31% : spaghetti squash
+18.39% : lemon
+13.93% : orange
+ 7.59% : acorn squash
+ 1.48% : earthstar
+ 1.14% : sombrero
+ 0.56% : cowboy hat
+ 0.50% : head cabbage
+ 0.46% : pineapple
+ 0.45% : crane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q002.jpg
+23.31% : spaghetti squash
+18.39% : lemon
+13.93% : orange
+ 7.59% : acorn squash
+ 1.48% : earthstar
+ 1.14% : sombrero
+ 0.56% : cowboy hat
+ 0.50% : head cabbage
+ 0.46% : pineapple
+ 0.45% : crane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q003.jpg
+19.97% : spaghetti squash
+17.03% : lemon
+14.46% : orange
+ 7.87% : acorn squash
+ 2.02% : earthstar
+ 1.16% : sombrero
+ 0.55% : head cabbage
+ 0.54% : cowboy hat
+ 0.47% : pineapple
+ 0.46% : crane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q004.jpg
+27.76% : orange
+15.05% : acorn squash
+ 7.90% : spaghetti squash
+ 4.74% : lemon
+ 2.36% : jack-o'-lantern
+ 2.05% : butternut squash
+ 1.79% : head cabbage
+ 1.40% : grocery store
+ 0.94% : barrow
+ 0.75% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q005.jpg
+18.20% : spaghetti squash
+13.21% : orange
+11.87% : lemon
+ 4.16% : stinkhorn
+ 3.87% : acorn squash
+ 2.65% : head cabbage
+ 1.44% : pineapple
+ 1.11% : lumbermill
+ 0.75% : crane
+ 0.72% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q006.jpg
+49.38% : head cabbage
+ 6.36% : spaghetti squash
+ 4.60% : orange
+ 4.33% : lemon
+ 2.89% : candle
+ 1.65% : jack-o'-lantern
+ 1.34% : cauliflower
+ 0.87% : sombrero
+ 0.85% : ice cream
+ 0.48% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q007.jpg
+63.49% : head cabbage
+ 6.17% : spaghetti squash
+ 3.87% : acorn squash
+ 3.62% : lemon
+ 0.75% : butternut squash
+ 0.64% : cauliflower
+ 0.59% : orange
+ 0.54% : grocery store
+ 0.48% : sombrero
+ 0.45% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q008.jpg
+75.34% : head cabbage
+ 6.05% : spaghetti squash
+ 3.63% : lemon
+ 0.52% : cauliflower
+ 0.41% : ice cream
+ 0.39% : sombrero
+ 0.39% : acorn squash
+ 0.32% : orange
+ 0.29% : butternut squash
+ 0.18% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q009.jpg
+68.15% : head cabbage
+ 4.57% : acorn squash
+ 2.39% : spaghetti squash
+ 1.20% : butternut squash
+ 0.93% : custard apple
+ 0.77% : jack-o'-lantern
+ 0.57% : grocery store
+ 0.44% : lemon
+ 0.37% : cauliflower
+ 0.30% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q010.jpg
+85.47% : head cabbage
+ 1.05% : lemon
+ 0.76% : spaghetti squash
+ 0.38% : cauliflower
+ 0.37% : acorn squash
+ 0.33% : grocery store
+ 0.31% : butternut squash
+ 0.22% : jack-o'-lantern
+ 0.17% : sombrero
+ 0.15% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q011.jpg
+77.11% : head cabbage
+ 1.15% : spaghetti squash
+ 0.72% : acorn squash
+ 0.69% : lemon
+ 0.50% : butternut squash
+ 0.46% : jack-o'-lantern
+ 0.46% : cauliflower
+ 0.35% : grocery store
+ 0.25% : sombrero
+ 0.20% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q012.jpg
+72.94% : head cabbage
+ 1.21% : spaghetti squash
+ 1.14% : acorn squash
+ 1.02% : butternut squash
+ 0.93% : lemon
+ 0.64% : sombrero
+ 0.56% : cauliflower
+ 0.52% : jack-o'-lantern
+ 0.47% : grocery store
+ 0.35% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q013.jpg
+82.80% : head cabbage
+ 0.46% : maze
+ 0.39% : butternut squash
+ 0.38% : spaghetti squash
+ 0.35% : jack-o'-lantern
+ 0.32% : cauliflower
+ 0.32% : yellow lady's slipper
+ 0.28% : lemon
+ 0.24% : grocery store
+ 0.23% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q014.jpg
+73.62% : head cabbage
+ 2.13% : acorn squash
+ 1.51% : spaghetti squash
+ 1.05% : butternut squash
+ 0.66% : lemon
+ 0.52% : custard apple
+ 0.51% : grocery store
+ 0.37% : jack-o'-lantern
+ 0.26% : sombrero
+ 0.26% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q015.jpg
+65.39% : head cabbage
+ 1.14% : lemon
+ 0.96% : butternut squash
+ 0.94% : spaghetti squash
+ 0.72% : acorn squash
+ 0.70% : grocery store
+ 0.64% : cauliflower
+ 0.45% : yellow lady's slipper
+ 0.44% : jack-o'-lantern
+ 0.37% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q016.jpg
+71.27% : head cabbage
+ 1.30% : spaghetti squash
+ 0.83% : butternut squash
+ 0.68% : jack-o'-lantern
+ 0.67% : acorn squash
+ 0.63% : lemon
+ 0.51% : maze
+ 0.48% : cauliflower
+ 0.33% : grocery store
+ 0.33% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q017.jpg
+73.30% : head cabbage
+ 1.73% : acorn squash
+ 1.58% : spaghetti squash
+ 1.03% : butternut squash
+ 0.49% : custard apple
+ 0.48% : lemon
+ 0.47% : jack-o'-lantern
+ 0.42% : grocery store
+ 0.42% : cauliflower
+ 0.36% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q018.jpg
+76.93% : head cabbage
+ 1.37% : spaghetti squash
+ 1.08% : acorn squash
+ 0.96% : butternut squash
+ 0.53% : jack-o'-lantern
+ 0.41% : lemon
+ 0.36% : grocery store
+ 0.33% : yellow lady's slipper
+ 0.32% : cauliflower
+ 0.27% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q019.jpg
+79.57% : head cabbage
+ 1.19% : spaghetti squash
+ 0.82% : acorn squash
+ 0.73% : jack-o'-lantern
+ 0.59% : butternut squash
+ 0.36% : maze
+ 0.29% : sombrero
+ 0.28% : grocery store
+ 0.27% : cauliflower
+ 0.22% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q020.jpg
+84.77% : head cabbage
+ 1.03% : spaghetti squash
+ 0.62% : acorn squash
+ 0.48% : butternut squash
+ 0.30% : jack-o'-lantern
+ 0.28% : lemon
+ 0.25% : cauliflower
+ 0.23% : grocery store
+ 0.21% : yellow lady's slipper
+ 0.18% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q021.jpg
+74.24% : head cabbage
+ 1.12% : spaghetti squash
+ 1.00% : acorn squash
+ 0.79% : jack-o'-lantern
+ 0.73% : butternut squash
+ 0.47% : grocery store
+ 0.44% : lemon
+ 0.32% : maze
+ 0.30% : cauliflower
+ 0.28% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q022.jpg
+84.10% : head cabbage
+ 0.89% : spaghetti squash
+ 0.86% : acorn squash
+ 0.59% : butternut squash
+ 0.39% : jack-o'-lantern
+ 0.28% : grocery store
+ 0.27% : lemon
+ 0.26% : cauliflower
+ 0.18% : maze
+ 0.16% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q023.jpg
+91.88% : head cabbage
+ 0.56% : spaghetti squash
+ 0.37% : acorn squash
+ 0.23% : butternut squash
+ 0.21% : jack-o'-lantern
+ 0.20% : cauliflower
+ 0.17% : lemon
+ 0.16% : grocery store
+ 0.12% : sombrero
+ 0.12% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q024.jpg
+81.57% : head cabbage
+ 1.48% : spaghetti squash
+ 1.30% : acorn squash
+ 0.73% : butternut squash
+ 0.73% : jack-o'-lantern
+ 0.39% : lemon
+ 0.32% : grocery store
+ 0.24% : yellow lady's slipper
+ 0.22% : maze
+ 0.21% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q025.jpg
+87.29% : head cabbage
+ 0.92% : spaghetti squash
+ 0.79% : acorn squash
+ 0.48% : butternut squash
+ 0.28% : lemon
+ 0.25% : cauliflower
+ 0.23% : jack-o'-lantern
+ 0.21% : grocery store
+ 0.16% : sombrero
+ 0.15% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q026.jpg
+84.54% : head cabbage
+ 0.68% : spaghetti squash
+ 0.65% : acorn squash
+ 0.44% : butternut squash
+ 0.37% : jack-o'-lantern
+ 0.28% : cauliflower
+ 0.28% : lemon
+ 0.27% : grocery store
+ 0.25% : maze
+ 0.20% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q027.jpg
+82.32% : head cabbage
+ 1.16% : spaghetti squash
+ 1.12% : acorn squash
+ 0.52% : butternut squash
+ 0.43% : lemon
+ 0.38% : jack-o'-lantern
+ 0.34% : grocery store
+ 0.31% : cauliflower
+ 0.21% : maze
+ 0.20% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q028.jpg
+90.40% : head cabbage
+ 0.58% : acorn squash
+ 0.47% : spaghetti squash
+ 0.33% : butternut squash
+ 0.24% : jack-o'-lantern
+ 0.24% : cauliflower
+ 0.19% : grocery store
+ 0.16% : lemon
+ 0.15% : maze
+ 0.11% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q029.jpg
+86.84% : head cabbage
+ 0.82% : acorn squash
+ 0.70% : spaghetti squash
+ 0.50% : butternut squash
+ 0.32% : jack-o'-lantern
+ 0.25% : lemon
+ 0.23% : grocery store
+ 0.23% : cauliflower
+ 0.18% : sombrero
+ 0.16% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q030.jpg
+87.93% : head cabbage
+ 0.85% : acorn squash
+ 0.74% : spaghetti squash
+ 0.45% : butternut squash
+ 0.27% : lemon
+ 0.24% : grocery store
+ 0.23% : jack-o'-lantern
+ 0.21% : cauliflower
+ 0.14% : maze
+ 0.11% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q031.jpg
+87.01% : head cabbage
+ 0.69% : spaghetti squash
+ 0.64% : acorn squash
+ 0.45% : jack-o'-lantern
+ 0.40% : butternut squash
+ 0.26% : lemon
+ 0.23% : cauliflower
+ 0.22% : grocery store
+ 0.16% : maze
+ 0.15% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q032.jpg
+86.40% : head cabbage
+ 0.98% : acorn squash
+ 0.85% : spaghetti squash
+ 0.55% : butternut squash
+ 0.44% : jack-o'-lantern
+ 0.35% : lemon
+ 0.22% : grocery store
+ 0.21% : cauliflower
+ 0.18% : yellow lady's slipper
+ 0.14% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q033.jpg
+86.37% : head cabbage
+ 1.33% : acorn squash
+ 1.20% : spaghetti squash
+ 0.51% : butternut squash
+ 0.44% : jack-o'-lantern
+ 0.29% : lemon
+ 0.26% : cauliflower
+ 0.17% : grocery store
+ 0.14% : maze
+ 0.12% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q034.jpg
+83.15% : head cabbage
+ 1.23% : spaghetti squash
+ 1.11% : acorn squash
+ 0.65% : jack-o'-lantern
+ 0.52% : butternut squash
+ 0.36% : lemon
+ 0.24% : cauliflower
+ 0.19% : maze
+ 0.18% : grocery store
+ 0.17% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q035.jpg
+91.35% : head cabbage
+ 0.45% : acorn squash
+ 0.39% : spaghetti squash
+ 0.30% : butternut squash
+ 0.27% : jack-o'-lantern
+ 0.24% : lemon
+ 0.18% : cauliflower
+ 0.17% : grocery store
+ 0.12% : maze
+ 0.08% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q036.jpg
+84.37% : head cabbage
+ 1.08% : acorn squash
+ 0.96% : spaghetti squash
+ 0.59% : butternut squash
+ 0.49% : jack-o'-lantern
+ 0.39% : lemon
+ 0.28% : grocery store
+ 0.22% : maze
+ 0.21% : cauliflower
+ 0.16% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q037.jpg
+83.53% : head cabbage
+ 1.16% : acorn squash
+ 1.01% : spaghetti squash
+ 0.63% : butternut squash
+ 0.51% : jack-o'-lantern
+ 0.40% : lemon
+ 0.27% : grocery store
+ 0.23% : cauliflower
+ 0.22% : maze
+ 0.17% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q038.jpg
+85.35% : head cabbage
+ 0.92% : acorn squash
+ 0.82% : spaghetti squash
+ 0.59% : jack-o'-lantern
+ 0.58% : butternut squash
+ 0.27% : maze
+ 0.27% : cauliflower
+ 0.25% : lemon
+ 0.21% : grocery store
+ 0.12% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q039.jpg
+86.50% : head cabbage
+ 0.67% : spaghetti squash
+ 0.67% : acorn squash
+ 0.59% : jack-o'-lantern
+ 0.47% : butternut squash
+ 0.25% : lemon
+ 0.24% : cauliflower
+ 0.24% : maze
+ 0.20% : grocery store
+ 0.11% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q040.jpg
+83.74% : head cabbage
+ 1.57% : acorn squash
+ 1.00% : spaghetti squash
+ 0.68% : butternut squash
+ 0.68% : jack-o'-lantern
+ 0.31% : lemon
+ 0.26% : cauliflower
+ 0.26% : grocery store
+ 0.22% : maze
+ 0.17% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q041.jpg
+81.28% : head cabbage
+ 1.60% : acorn squash
+ 1.29% : spaghetti squash
+ 0.80% : butternut squash
+ 0.67% : jack-o'-lantern
+ 0.34% : grocery store
+ 0.33% : lemon
+ 0.32% : cauliflower
+ 0.19% : yellow lady's slipper
+ 0.19% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q042.jpg
+84.44% : head cabbage
+ 1.23% : acorn squash
+ 1.05% : spaghetti squash
+ 0.60% : butternut squash
+ 0.58% : jack-o'-lantern
+ 0.32% : cauliflower
+ 0.28% : lemon
+ 0.25% : grocery store
+ 0.18% : maze
+ 0.14% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q043.jpg
+83.47% : head cabbage
+ 1.21% : acorn squash
+ 1.14% : spaghetti squash
+ 0.65% : jack-o'-lantern
+ 0.61% : butternut squash
+ 0.33% : cauliflower
+ 0.28% : lemon
+ 0.26% : grocery store
+ 0.19% : maze
+ 0.15% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q044.jpg
+83.18% : head cabbage
+ 1.21% : acorn squash
+ 1.01% : spaghetti squash
+ 0.71% : butternut squash
+ 0.54% : jack-o'-lantern
+ 0.34% : grocery store
+ 0.33% : maze
+ 0.32% : cauliflower
+ 0.31% : lemon
+ 0.16% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q045.jpg
+83.23% : head cabbage
+ 1.04% : acorn squash
+ 0.90% : spaghetti squash
+ 0.66% : butternut squash
+ 0.50% : jack-o'-lantern
+ 0.37% : grocery store
+ 0.34% : maze
+ 0.32% : lemon
+ 0.30% : cauliflower
+ 0.18% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q046.jpg
+87.19% : head cabbage
+ 0.80% : acorn squash
+ 0.74% : spaghetti squash
+ 0.53% : butternut squash
+ 0.40% : jack-o'-lantern
+ 0.25% : cauliflower
+ 0.22% : grocery store
+ 0.20% : lemon
+ 0.19% : maze
+ 0.11% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q047.jpg
+86.68% : head cabbage
+ 0.83% : acorn squash
+ 0.78% : spaghetti squash
+ 0.54% : butternut squash
+ 0.42% : jack-o'-lantern
+ 0.25% : cauliflower
+ 0.23% : grocery store
+ 0.21% : lemon
+ 0.20% : maze
+ 0.12% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q048.jpg
+84.78% : head cabbage
+ 0.96% : spaghetti squash
+ 0.94% : acorn squash
+ 0.57% : butternut squash
+ 0.56% : jack-o'-lantern
+ 0.27% : cauliflower
+ 0.25% : grocery store
+ 0.24% : lemon
+ 0.23% : maze
+ 0.18% : sombrero
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q049.jpg
+78.28% : head cabbage
+ 1.52% : spaghetti squash
+ 1.48% : acorn squash
+ 0.93% : jack-o'-lantern
+ 0.82% : butternut squash
+ 0.47% : lemon
+ 0.37% : grocery store
+ 0.28% : cauliflower
+ 0.26% : sombrero
+ 0.24% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q050.jpg
+78.20% : head cabbage
+ 1.52% : spaghetti squash
+ 1.48% : acorn squash
+ 0.94% : jack-o'-lantern
+ 0.82% : butternut squash
+ 0.47% : lemon
+ 0.37% : grocery store
+ 0.28% : cauliflower
+ 0.26% : sombrero
+ 0.24% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q051.jpg
+78.22% : head cabbage
+ 1.51% : spaghetti squash
+ 1.46% : acorn squash
+ 0.94% : jack-o'-lantern
+ 0.82% : butternut squash
+ 0.47% : lemon
+ 0.37% : grocery store
+ 0.28% : cauliflower
+ 0.26% : sombrero
+ 0.24% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q052.jpg
+80.01% : head cabbage
+ 1.36% : acorn squash
+ 1.13% : spaghetti squash
+ 0.95% : jack-o'-lantern
+ 0.81% : butternut squash
+ 0.34% : grocery store
+ 0.31% : lemon
+ 0.30% : cauliflower
+ 0.28% : sombrero
+ 0.26% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q053.jpg
+79.82% : head cabbage
+ 1.79% : acorn squash
+ 1.36% : spaghetti squash
+ 1.04% : jack-o'-lantern
+ 0.92% : butternut squash
+ 0.31% : grocery store
+ 0.31% : cauliflower
+ 0.30% : lemon
+ 0.28% : sombrero
+ 0.23% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q054.jpg
+80.50% : head cabbage
+ 1.71% : acorn squash
+ 1.29% : spaghetti squash
+ 0.98% : jack-o'-lantern
+ 0.88% : butternut squash
+ 0.31% : grocery store
+ 0.30% : cauliflower
+ 0.30% : lemon
+ 0.28% : sombrero
+ 0.22% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q055.jpg
+80.58% : head cabbage
+ 1.42% : acorn squash
+ 1.35% : spaghetti squash
+ 0.95% : butternut squash
+ 0.87% : jack-o'-lantern
+ 0.37% : cauliflower
+ 0.29% : lemon
+ 0.28% : grocery store
+ 0.27% : yellow lady's slipper
+ 0.23% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q056.jpg
+81.82% : head cabbage
+ 1.30% : acorn squash
+ 1.27% : spaghetti squash
+ 0.99% : butternut squash
+ 0.78% : jack-o'-lantern
+ 0.37% : cauliflower
+ 0.30% : lemon
+ 0.29% : grocery store
+ 0.25% : yellow lady's slipper
+ 0.21% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q057.jpg
+80.50% : head cabbage
+ 1.30% : acorn squash
+ 1.23% : spaghetti squash
+ 0.91% : jack-o'-lantern
+ 0.90% : butternut squash
+ 0.39% : cauliflower
+ 0.31% : grocery store
+ 0.30% : lemon
+ 0.28% : yellow lady's slipper
+ 0.19% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q058.jpg
+78.22% : head cabbage
+ 1.58% : spaghetti squash
+ 1.51% : acorn squash
+ 1.08% : butternut squash
+ 0.97% : jack-o'-lantern
+ 0.42% : lemon
+ 0.39% : cauliflower
+ 0.36% : grocery store
+ 0.33% : yellow lady's slipper
+ 0.23% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q059.jpg
+80.63% : head cabbage
+ 1.28% : spaghetti squash
+ 1.17% : acorn squash
+ 0.90% : butternut squash
+ 0.89% : jack-o'-lantern
+ 0.36% : cauliflower
+ 0.34% : lemon
+ 0.33% : grocery store
+ 0.29% : yellow lady's slipper
+ 0.21% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q060.jpg
+80.47% : head cabbage
+ 1.35% : spaghetti squash
+ 1.24% : acorn squash
+ 0.95% : butternut squash
+ 0.83% : jack-o'-lantern
+ 0.35% : lemon
+ 0.35% : cauliflower
+ 0.33% : grocery store
+ 0.30% : yellow lady's slipper
+ 0.22% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q061.jpg
+78.93% : head cabbage
+ 1.40% : acorn squash
+ 1.36% : spaghetti squash
+ 1.00% : butternut squash
+ 0.93% : jack-o'-lantern
+ 0.36% : cauliflower
+ 0.35% : lemon
+ 0.33% : grocery store
+ 0.30% : yellow lady's slipper
+ 0.26% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q062.jpg
+81.36% : head cabbage
+ 1.28% : spaghetti squash
+ 1.25% : acorn squash
+ 0.91% : butternut squash
+ 0.76% : jack-o'-lantern
+ 0.35% : cauliflower
+ 0.28% : grocery store
+ 0.28% : lemon
+ 0.28% : yellow lady's slipper
+ 0.24% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q063.jpg
+78.85% : head cabbage
+ 1.48% : spaghetti squash
+ 1.40% : acorn squash
+ 1.06% : butternut squash
+ 0.86% : jack-o'-lantern
+ 0.39% : cauliflower
+ 0.31% : lemon
+ 0.30% : grocery store
+ 0.29% : yellow lady's slipper
+ 0.26% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q064.jpg
+79.05% : head cabbage
+ 1.45% : spaghetti squash
+ 1.45% : acorn squash
+ 1.05% : butternut squash
+ 0.74% : jack-o'-lantern
+ 0.40% : cauliflower
+ 0.37% : lemon
+ 0.32% : grocery store
+ 0.28% : yellow lady's slipper
+ 0.23% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q065.jpg
+81.33% : head cabbage
+ 1.31% : spaghetti squash
+ 1.27% : acorn squash
+ 0.84% : butternut squash
+ 0.71% : jack-o'-lantern
+ 0.37% : cauliflower
+ 0.33% : lemon
+ 0.32% : grocery store
+ 0.26% : yellow lady's slipper
+ 0.21% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q066.jpg
+82.57% : head cabbage
+ 1.19% : spaghetti squash
+ 1.13% : acorn squash
+ 0.77% : butternut squash
+ 0.62% : jack-o'-lantern
+ 0.38% : cauliflower
+ 0.35% : lemon
+ 0.32% : grocery store
+ 0.22% : yellow lady's slipper
+ 0.20% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q067.jpg
+86.06% : head cabbage
+ 1.03% : acorn squash
+ 0.96% : spaghetti squash
+ 0.65% : butternut squash
+ 0.45% : jack-o'-lantern
+ 0.32% : cauliflower
+ 0.27% : grocery store
+ 0.26% : lemon
+ 0.15% : maze
+ 0.14% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q068.jpg
+83.38% : head cabbage
+ 1.31% : acorn squash
+ 1.05% : spaghetti squash
+ 0.79% : butternut squash
+ 0.52% : jack-o'-lantern
+ 0.34% : cauliflower
+ 0.30% : lemon
+ 0.29% : grocery store
+ 0.22% : yellow lady's slipper
+ 0.17% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q069.jpg
+84.44% : head cabbage
+ 1.11% : acorn squash
+ 0.98% : spaghetti squash
+ 0.71% : butternut squash
+ 0.43% : jack-o'-lantern
+ 0.31% : cauliflower
+ 0.30% : lemon
+ 0.27% : grocery store
+ 0.21% : yellow lady's slipper
+ 0.18% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q070.jpg
+82.09% : head cabbage
+ 1.08% : spaghetti squash
+ 1.00% : acorn squash
+ 0.75% : butternut squash
+ 0.57% : jack-o'-lantern
+ 0.34% : lemon
+ 0.32% : yellow lady's slipper
+ 0.30% : cauliflower
+ 0.27% : grocery store
+ 0.25% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q071.jpg
+85.37% : head cabbage
+ 0.97% : spaghetti squash
+ 0.83% : acorn squash
+ 0.59% : butternut squash
+ 0.50% : jack-o'-lantern
+ 0.25% : cauliflower
+ 0.23% : lemon
+ 0.21% : grocery store
+ 0.21% : maze
+ 0.20% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q072.jpg
+86.47% : head cabbage
+ 1.01% : spaghetti squash
+ 0.80% : acorn squash
+ 0.57% : butternut squash
+ 0.46% : jack-o'-lantern
+ 0.26% : cauliflower
+ 0.22% : lemon
+ 0.20% : grocery store
+ 0.19% : yellow lady's slipper
+ 0.18% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q073.jpg
+84.82% : head cabbage
+ 1.17% : spaghetti squash
+ 0.85% : acorn squash
+ 0.59% : butternut squash
+ 0.52% : jack-o'-lantern
+ 0.28% : lemon
+ 0.25% : cauliflower
+ 0.23% : grocery store
+ 0.19% : maze
+ 0.16% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q074.jpg
+82.11% : head cabbage
+ 1.58% : spaghetti squash
+ 1.10% : acorn squash
+ 0.68% : butternut squash
+ 0.60% : jack-o'-lantern
+ 0.32% : lemon
+ 0.29% : cauliflower
+ 0.25% : maze
+ 0.23% : grocery store
+ 0.19% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q075.jpg
+82.15% : head cabbage
+ 1.58% : spaghetti squash
+ 1.11% : acorn squash
+ 0.68% : butternut squash
+ 0.60% : jack-o'-lantern
+ 0.32% : lemon
+ 0.29% : cauliflower
+ 0.25% : maze
+ 0.23% : grocery store
+ 0.19% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q076.jpg
+78.55% : head cabbage
+ 2.01% : spaghetti squash
+ 1.68% : acorn squash
+ 0.88% : butternut squash
+ 0.73% : jack-o'-lantern
+ 0.33% : lemon
+ 0.30% : cauliflower
+ 0.29% : grocery store
+ 0.28% : maze
+ 0.22% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q077.jpg
+78.71% : head cabbage
+ 1.70% : spaghetti squash
+ 1.68% : acorn squash
+ 0.97% : butternut squash
+ 0.82% : jack-o'-lantern
+ 0.33% : lemon
+ 0.32% : cauliflower
+ 0.29% : maze
+ 0.29% : grocery store
+ 0.21% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q078.jpg
+79.92% : head cabbage
+ 1.50% : spaghetti squash
+ 1.49% : acorn squash
+ 0.96% : butternut squash
+ 0.77% : jack-o'-lantern
+ 0.34% : cauliflower
+ 0.32% : lemon
+ 0.29% : grocery store
+ 0.27% : maze
+ 0.26% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q079.jpg
+79.99% : head cabbage
+ 1.54% : spaghetti squash
+ 1.48% : acorn squash
+ 1.00% : butternut squash
+ 0.73% : jack-o'-lantern
+ 0.33% : lemon
+ 0.33% : cauliflower
+ 0.27% : grocery store
+ 0.26% : maze
+ 0.26% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q080.jpg
+80.14% : head cabbage
+ 1.61% : acorn squash
+ 1.56% : spaghetti squash
+ 0.98% : butternut squash
+ 0.70% : jack-o'-lantern
+ 0.32% : cauliflower
+ 0.30% : grocery store
+ 0.29% : lemon
+ 0.28% : maze
+ 0.26% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q081.jpg
+78.44% : head cabbage
+ 1.69% : acorn squash
+ 1.41% : spaghetti squash
+ 0.99% : butternut squash
+ 0.78% : jack-o'-lantern
+ 0.32% : cauliflower
+ 0.31% : grocery store
+ 0.31% : maze
+ 0.28% : yellow lady's slipper
+ 0.28% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q082.jpg
+81.48% : head cabbage
+ 1.26% : acorn squash
+ 1.24% : spaghetti squash
+ 0.80% : butternut squash
+ 0.71% : jack-o'-lantern
+ 0.31% : cauliflower
+ 0.26% : maze
+ 0.26% : grocery store
+ 0.25% : yellow lady's slipper
+ 0.25% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q083.jpg
+79.63% : head cabbage
+ 1.61% : acorn squash
+ 1.58% : spaghetti squash
+ 0.94% : butternut squash
+ 0.86% : jack-o'-lantern
+ 0.31% : grocery store
+ 0.29% : cauliflower
+ 0.27% : yellow lady's slipper
+ 0.25% : maze
+ 0.24% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q084.jpg
+80.48% : head cabbage
+ 1.64% : spaghetti squash
+ 1.20% : acorn squash
+ 0.85% : butternut squash
+ 0.73% : jack-o'-lantern
+ 0.36% : yellow lady's slipper
+ 0.33% : grocery store
+ 0.30% : lemon
+ 0.25% : cauliflower
+ 0.24% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q085.jpg
+78.50% : head cabbage
+ 1.72% : spaghetti squash
+ 1.44% : acorn squash
+ 1.01% : butternut squash
+ 0.80% : jack-o'-lantern
+ 0.42% : yellow lady's slipper
+ 0.33% : grocery store
+ 0.31% : lemon
+ 0.26% : cauliflower
+ 0.25% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q086.jpg
+76.92% : head cabbage
+ 1.72% : spaghetti squash
+ 1.56% : acorn squash
+ 1.12% : butternut squash
+ 0.90% : jack-o'-lantern
+ 0.50% : yellow lady's slipper
+ 0.36% : grocery store
+ 0.31% : cauliflower
+ 0.30% : lemon
+ 0.29% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q087.jpg
+78.32% : head cabbage
+ 1.81% : acorn squash
+ 1.78% : spaghetti squash
+ 1.13% : butternut squash
+ 0.79% : jack-o'-lantern
+ 0.43% : yellow lady's slipper
+ 0.36% : grocery store
+ 0.32% : lemon
+ 0.29% : cauliflower
+ 0.25% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q088.jpg
+78.12% : head cabbage
+ 2.17% : acorn squash
+ 2.03% : spaghetti squash
+ 1.16% : butternut squash
+ 0.73% : jack-o'-lantern
+ 0.37% : lemon
+ 0.36% : grocery store
+ 0.36% : yellow lady's slipper
+ 0.29% : cauliflower
+ 0.22% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q089.jpg
+79.09% : head cabbage
+ 1.80% : spaghetti squash
+ 1.80% : acorn squash
+ 1.12% : butternut squash
+ 0.71% : jack-o'-lantern
+ 0.35% : yellow lady's slipper
+ 0.34% : grocery store
+ 0.32% : lemon
+ 0.30% : cauliflower
+ 0.23% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q090.jpg
+83.33% : head cabbage
+ 1.44% : spaghetti squash
+ 1.31% : acorn squash
+ 0.86% : butternut squash
+ 0.61% : jack-o'-lantern
+ 0.26% : cauliflower
+ 0.26% : yellow lady's slipper
+ 0.24% : lemon
+ 0.23% : grocery store
+ 0.18% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q091.jpg
+78.96% : head cabbage
+ 1.96% : acorn squash
+ 1.59% : spaghetti squash
+ 1.17% : butternut squash
+ 0.74% : jack-o'-lantern
+ 0.34% : yellow lady's slipper
+ 0.30% : grocery store
+ 0.29% : cauliflower
+ 0.28% : lemon
+ 0.27% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q092.jpg
+70.28% : head cabbage
+ 2.94% : acorn squash
+ 2.12% : spaghetti squash
+ 1.76% : butternut squash
+ 1.30% : jack-o'-lantern
+ 0.60% : yellow lady's slipper
+ 0.38% : lemon
+ 0.38% : cauliflower
+ 0.34% : maze
+ 0.32% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q093.jpg
+66.85% : head cabbage
+ 2.77% : acorn squash
+ 2.33% : spaghetti squash
+ 1.58% : butternut squash
+ 1.26% : jack-o'-lantern
+ 0.64% : yellow lady's slipper
+ 0.54% : lemon
+ 0.41% : maze
+ 0.39% : cauliflower
+ 0.36% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q094.jpg
+65.07% : head cabbage
+ 2.82% : acorn squash
+ 2.52% : spaghetti squash
+ 2.08% : butternut squash
+ 1.33% : jack-o'-lantern
+ 0.89% : yellow lady's slipper
+ 0.57% : lemon
+ 0.43% : grocery store
+ 0.42% : maze
+ 0.40% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q095.jpg
+68.83% : head cabbage
+ 2.42% : acorn squash
+ 2.34% : spaghetti squash
+ 1.80% : butternut squash
+ 1.24% : jack-o'-lantern
+ 0.65% : yellow lady's slipper
+ 0.51% : lemon
+ 0.40% : grocery store
+ 0.35% : cauliflower
+ 0.34% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q096.jpg
+72.87% : head cabbage
+ 2.20% : acorn squash
+ 2.08% : spaghetti squash
+ 1.64% : butternut squash
+ 1.10% : jack-o'-lantern
+ 0.52% : yellow lady's slipper
+ 0.38% : lemon
+ 0.37% : grocery store
+ 0.34% : cauliflower
+ 0.30% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q097.jpg
+71.63% : head cabbage
+ 2.07% : acorn squash
+ 1.88% : spaghetti squash
+ 1.66% : butternut squash
+ 1.18% : jack-o'-lantern
+ 0.53% : yellow lady's slipper
+ 0.40% : lemon
+ 0.39% : grocery store
+ 0.37% : cauliflower
+ 0.33% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q098.jpg
+73.11% : head cabbage
+ 2.24% : acorn squash
+ 2.00% : spaghetti squash
+ 1.72% : butternut squash
+ 1.11% : jack-o'-lantern
+ 0.41% : yellow lady's slipper
+ 0.39% : lemon
+ 0.37% : grocery store
+ 0.35% : cauliflower
+ 0.28% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q099.jpg
+73.51% : head cabbage
+ 1.99% : acorn squash
+ 1.89% : spaghetti squash
+ 1.58% : butternut squash
+ 1.07% : jack-o'-lantern
+ 0.44% : yellow lady's slipper
+ 0.39% : lemon
+ 0.38% : grocery store
+ 0.34% : cauliflower
+ 0.30% : maze
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage25Q100.jpg
+71.81% : head cabbage
+ 2.25% : acorn squash
+ 2.11% : spaghetti squash
+ 1.89% : butternut squash
+ 1.10% : jack-o'-lantern
+ 0.49% : yellow lady's slipper
+ 0.43% : grocery store
+ 0.43% : lemon
+ 0.34% : cauliflower
+ 0.32% : maze

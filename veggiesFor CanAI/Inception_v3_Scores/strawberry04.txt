@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q001.jpg
+98.04% : strawberry
+ 0.88% : pineapple
+ 0.27% : tray
+ 0.05% : banana
+ 0.04% : toaster
+ 0.04% : vending machine
+ 0.03% : orange
+ 0.02% : picket fence
+ 0.02% : fountain
+ 0.02% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q002.jpg
+98.04% : strawberry
+ 0.88% : pineapple
+ 0.27% : tray
+ 0.05% : banana
+ 0.04% : toaster
+ 0.04% : vending machine
+ 0.03% : orange
+ 0.02% : picket fence
+ 0.02% : fountain
+ 0.02% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q003.jpg
+98.48% : strawberry
+ 0.67% : pineapple
+ 0.12% : tray
+ 0.06% : banana
+ 0.03% : vending machine
+ 0.02% : orange
+ 0.02% : picket fence
+ 0.02% : toaster
+ 0.02% : fountain
+ 0.01% : shower curtain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q004.jpg
+93.82% : strawberry
+ 2.52% : pineapple
+ 0.65% : tray
+ 0.43% : vending machine
+ 0.33% : banana
+ 0.20% : toaster
+ 0.17% : orange
+ 0.14% : hamper
+ 0.14% : packet
+ 0.12% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q005.jpg
+97.54% : strawberry
+ 0.37% : tray
+ 0.34% : packet
+ 0.24% : pineapple
+ 0.15% : banana
+ 0.06% : vending machine
+ 0.05% : saltshaker
+ 0.03% : orange
+ 0.03% : hamper
+ 0.03% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q006.jpg
+89.45% : strawberry
+ 2.35% : tray
+ 2.27% : packet
+ 0.87% : pineapple
+ 0.55% : banana
+ 0.26% : saltshaker
+ 0.17% : vending machine
+ 0.12% : hamper
+ 0.08% : lighter
+ 0.07% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q007.jpg
+95.05% : strawberry
+ 0.75% : tray
+ 0.55% : pineapple
+ 0.47% : packet
+ 0.27% : banana
+ 0.14% : saltshaker
+ 0.13% : hamper
+ 0.06% : lighter
+ 0.06% : toaster
+ 0.05% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q008.jpg
+94.34% : strawberry
+ 0.98% : pineapple
+ 0.72% : tray
+ 0.53% : packet
+ 0.34% : banana
+ 0.09% : saltshaker
+ 0.08% : hamper
+ 0.08% : vending machine
+ 0.08% : orange
+ 0.06% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q009.jpg
+94.20% : strawberry
+ 1.29% : tray
+ 0.91% : packet
+ 0.71% : pineapple
+ 0.30% : banana
+ 0.10% : saltshaker
+ 0.08% : lighter
+ 0.07% : vending machine
+ 0.04% : orange
+ 0.04% : mousetrap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q010.jpg
+92.52% : strawberry
+ 1.75% : tray
+ 0.81% : packet
+ 0.44% : pineapple
+ 0.34% : banana
+ 0.16% : vending machine
+ 0.11% : saltshaker
+ 0.10% : lighter
+ 0.09% : hamper
+ 0.09% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q011.jpg
+94.13% : strawberry
+ 1.12% : tray
+ 0.46% : pineapple
+ 0.43% : packet
+ 0.28% : banana
+ 0.09% : hamper
+ 0.09% : vending machine
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q012.jpg
+95.20% : strawberry
+ 0.84% : tray
+ 0.57% : packet
+ 0.38% : pineapple
+ 0.25% : banana
+ 0.11% : vending machine
+ 0.08% : saltshaker
+ 0.06% : hamper
+ 0.05% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q013.jpg
+95.15% : strawberry
+ 0.80% : tray
+ 0.68% : packet
+ 0.27% : pineapple
+ 0.22% : banana
+ 0.13% : saltshaker
+ 0.12% : vending machine
+ 0.07% : lighter
+ 0.06% : grocery store
+ 0.05% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q014.jpg
+95.51% : strawberry
+ 0.86% : tray
+ 0.46% : packet
+ 0.32% : pineapple
+ 0.21% : banana
+ 0.11% : saltshaker
+ 0.06% : vending machine
+ 0.06% : lighter
+ 0.05% : grocery store
+ 0.05% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q015.jpg
+97.04% : strawberry
+ 0.68% : tray
+ 0.25% : packet
+ 0.21% : pineapple
+ 0.17% : banana
+ 0.06% : saltshaker
+ 0.04% : vending machine
+ 0.04% : grocery store
+ 0.03% : chocolate sauce
+ 0.03% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q016.jpg
+94.51% : strawberry
+ 1.05% : tray
+ 0.65% : packet
+ 0.39% : pineapple
+ 0.30% : banana
+ 0.15% : saltshaker
+ 0.09% : vending machine
+ 0.09% : grocery store
+ 0.06% : lighter
+ 0.05% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q017.jpg
+96.84% : strawberry
+ 0.59% : tray
+ 0.32% : packet
+ 0.22% : pineapple
+ 0.20% : banana
+ 0.08% : saltshaker
+ 0.06% : grocery store
+ 0.04% : orange
+ 0.04% : vending machine
+ 0.03% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q018.jpg
+95.43% : strawberry
+ 0.68% : tray
+ 0.53% : packet
+ 0.30% : pineapple
+ 0.23% : banana
+ 0.13% : saltshaker
+ 0.07% : vending machine
+ 0.07% : lighter
+ 0.07% : grocery store
+ 0.06% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q019.jpg
+94.13% : strawberry
+ 0.75% : packet
+ 0.58% : tray
+ 0.46% : pineapple
+ 0.26% : banana
+ 0.15% : saltshaker
+ 0.08% : grocery store
+ 0.08% : vending machine
+ 0.07% : orange
+ 0.07% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q020.jpg
+96.71% : strawberry
+ 0.42% : packet
+ 0.38% : tray
+ 0.19% : pineapple
+ 0.18% : banana
+ 0.10% : saltshaker
+ 0.05% : orange
+ 0.05% : grocery store
+ 0.05% : lighter
+ 0.05% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q021.jpg
+96.49% : strawberry
+ 0.49% : tray
+ 0.39% : packet
+ 0.27% : pineapple
+ 0.19% : banana
+ 0.11% : saltshaker
+ 0.06% : grocery store
+ 0.05% : orange
+ 0.04% : vending machine
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q022.jpg
+96.05% : strawberry
+ 0.53% : tray
+ 0.43% : packet
+ 0.38% : pineapple
+ 0.18% : banana
+ 0.12% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q023.jpg
+95.47% : strawberry
+ 0.54% : packet
+ 0.50% : tray
+ 0.37% : pineapple
+ 0.23% : banana
+ 0.10% : grocery store
+ 0.09% : saltshaker
+ 0.06% : orange
+ 0.05% : vending machine
+ 0.05% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q024.jpg
+95.91% : strawberry
+ 0.48% : packet
+ 0.47% : tray
+ 0.33% : pineapple
+ 0.23% : banana
+ 0.14% : saltshaker
+ 0.08% : grocery store
+ 0.06% : orange
+ 0.06% : lighter
+ 0.05% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q025.jpg
+96.13% : strawberry
+ 0.44% : packet
+ 0.43% : tray
+ 0.33% : pineapple
+ 0.21% : banana
+ 0.11% : saltshaker
+ 0.06% : grocery store
+ 0.06% : lighter
+ 0.06% : orange
+ 0.05% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q026.jpg
+96.02% : strawberry
+ 0.48% : tray
+ 0.42% : packet
+ 0.30% : pineapple
+ 0.22% : banana
+ 0.10% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q027.jpg
+95.28% : strawberry
+ 0.69% : tray
+ 0.47% : packet
+ 0.35% : pineapple
+ 0.24% : banana
+ 0.12% : saltshaker
+ 0.08% : grocery store
+ 0.07% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q028.jpg
+96.31% : strawberry
+ 0.44% : tray
+ 0.38% : packet
+ 0.31% : pineapple
+ 0.21% : banana
+ 0.08% : grocery store
+ 0.07% : saltshaker
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q029.jpg
+95.37% : strawberry
+ 0.63% : tray
+ 0.46% : packet
+ 0.42% : pineapple
+ 0.24% : banana
+ 0.10% : grocery store
+ 0.09% : saltshaker
+ 0.08% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q030.jpg
+95.82% : strawberry
+ 0.60% : tray
+ 0.46% : packet
+ 0.33% : pineapple
+ 0.19% : banana
+ 0.10% : saltshaker
+ 0.09% : grocery store
+ 0.06% : vending machine
+ 0.05% : lighter
+ 0.05% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q031.jpg
+96.06% : strawberry
+ 0.52% : tray
+ 0.37% : packet
+ 0.28% : pineapple
+ 0.19% : banana
+ 0.08% : grocery store
+ 0.08% : saltshaker
+ 0.07% : vending machine
+ 0.05% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q032.jpg
+96.64% : strawberry
+ 0.45% : tray
+ 0.34% : packet
+ 0.25% : pineapple
+ 0.18% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : lighter
+ 0.04% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q033.jpg
+96.82% : strawberry
+ 0.44% : tray
+ 0.29% : packet
+ 0.20% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.04% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q034.jpg
+96.72% : strawberry
+ 0.36% : tray
+ 0.30% : packet
+ 0.28% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.08% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q035.jpg
+96.47% : strawberry
+ 0.43% : tray
+ 0.33% : packet
+ 0.29% : pineapple
+ 0.19% : banana
+ 0.09% : saltshaker
+ 0.08% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q036.jpg
+97.02% : strawberry
+ 0.35% : tray
+ 0.27% : pineapple
+ 0.25% : packet
+ 0.17% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.03% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q037.jpg
+96.92% : strawberry
+ 0.38% : tray
+ 0.30% : pineapple
+ 0.25% : packet
+ 0.18% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q038.jpg
+95.70% : strawberry
+ 0.55% : tray
+ 0.41% : packet
+ 0.41% : pineapple
+ 0.22% : banana
+ 0.09% : saltshaker
+ 0.08% : grocery store
+ 0.06% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q039.jpg
+96.22% : strawberry
+ 0.50% : tray
+ 0.42% : pineapple
+ 0.31% : packet
+ 0.19% : banana
+ 0.08% : saltshaker
+ 0.06% : grocery store
+ 0.05% : orange
+ 0.05% : vending machine
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q040.jpg
+96.05% : strawberry
+ 0.53% : tray
+ 0.40% : pineapple
+ 0.34% : packet
+ 0.21% : banana
+ 0.09% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q041.jpg
+95.60% : strawberry
+ 0.49% : tray
+ 0.45% : packet
+ 0.35% : pineapple
+ 0.18% : banana
+ 0.12% : saltshaker
+ 0.08% : grocery store
+ 0.07% : vending machine
+ 0.06% : lighter
+ 0.05% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q042.jpg
+96.02% : strawberry
+ 0.41% : tray
+ 0.41% : packet
+ 0.31% : pineapple
+ 0.17% : banana
+ 0.11% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.06% : lighter
+ 0.05% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q043.jpg
+95.46% : strawberry
+ 0.49% : packet
+ 0.47% : tray
+ 0.36% : pineapple
+ 0.18% : banana
+ 0.12% : saltshaker
+ 0.08% : grocery store
+ 0.07% : vending machine
+ 0.06% : lighter
+ 0.06% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q044.jpg
+96.81% : strawberry
+ 0.44% : tray
+ 0.33% : packet
+ 0.21% : pineapple
+ 0.15% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.05% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q045.jpg
+96.84% : strawberry
+ 0.46% : tray
+ 0.31% : packet
+ 0.22% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q046.jpg
+96.16% : strawberry
+ 0.49% : tray
+ 0.41% : packet
+ 0.27% : pineapple
+ 0.18% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q047.jpg
+96.12% : strawberry
+ 0.49% : tray
+ 0.42% : packet
+ 0.28% : pineapple
+ 0.18% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q048.jpg
+96.08% : strawberry
+ 0.50% : tray
+ 0.44% : packet
+ 0.27% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.08% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q049.jpg
+96.44% : strawberry
+ 0.42% : tray
+ 0.33% : packet
+ 0.29% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q050.jpg
+96.43% : strawberry
+ 0.42% : tray
+ 0.33% : packet
+ 0.29% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q051.jpg
+96.40% : strawberry
+ 0.42% : tray
+ 0.34% : packet
+ 0.29% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q052.jpg
+95.83% : strawberry
+ 0.43% : packet
+ 0.41% : tray
+ 0.36% : pineapple
+ 0.20% : banana
+ 0.11% : saltshaker
+ 0.08% : grocery store
+ 0.07% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q053.jpg
+95.59% : strawberry
+ 0.48% : packet
+ 0.39% : tray
+ 0.37% : pineapple
+ 0.22% : banana
+ 0.12% : saltshaker
+ 0.09% : grocery store
+ 0.07% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q054.jpg
+95.62% : strawberry
+ 0.47% : packet
+ 0.40% : tray
+ 0.36% : pineapple
+ 0.22% : banana
+ 0.13% : saltshaker
+ 0.09% : grocery store
+ 0.07% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q055.jpg
+95.61% : strawberry
+ 0.45% : tray
+ 0.43% : packet
+ 0.32% : pineapple
+ 0.20% : banana
+ 0.11% : saltshaker
+ 0.10% : grocery store
+ 0.07% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q056.jpg
+95.84% : strawberry
+ 0.44% : tray
+ 0.41% : packet
+ 0.28% : pineapple
+ 0.20% : banana
+ 0.11% : saltshaker
+ 0.10% : grocery store
+ 0.07% : vending machine
+ 0.05% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q057.jpg
+95.73% : strawberry
+ 0.42% : tray
+ 0.40% : packet
+ 0.29% : pineapple
+ 0.20% : banana
+ 0.11% : grocery store
+ 0.10% : saltshaker
+ 0.07% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q058.jpg
+96.32% : strawberry
+ 0.37% : tray
+ 0.37% : packet
+ 0.26% : pineapple
+ 0.20% : banana
+ 0.10% : saltshaker
+ 0.09% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q059.jpg
+96.43% : strawberry
+ 0.37% : tray
+ 0.36% : packet
+ 0.26% : pineapple
+ 0.20% : banana
+ 0.09% : saltshaker
+ 0.09% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q060.jpg
+96.34% : strawberry
+ 0.38% : tray
+ 0.37% : packet
+ 0.27% : pineapple
+ 0.20% : banana
+ 0.10% : saltshaker
+ 0.09% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q061.jpg
+96.25% : strawberry
+ 0.37% : tray
+ 0.37% : packet
+ 0.30% : pineapple
+ 0.19% : banana
+ 0.09% : grocery store
+ 0.08% : saltshaker
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q062.jpg
+96.15% : strawberry
+ 0.42% : packet
+ 0.38% : tray
+ 0.28% : pineapple
+ 0.19% : banana
+ 0.09% : grocery store
+ 0.08% : saltshaker
+ 0.06% : vending machine
+ 0.06% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q063.jpg
+96.44% : strawberry
+ 0.38% : packet
+ 0.34% : tray
+ 0.29% : pineapple
+ 0.18% : banana
+ 0.08% : grocery store
+ 0.07% : saltshaker
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q064.jpg
+96.41% : strawberry
+ 0.38% : tray
+ 0.38% : packet
+ 0.28% : pineapple
+ 0.18% : banana
+ 0.08% : grocery store
+ 0.07% : saltshaker
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q065.jpg
+96.43% : strawberry
+ 0.44% : tray
+ 0.33% : packet
+ 0.27% : pineapple
+ 0.17% : banana
+ 0.07% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q066.jpg
+96.74% : strawberry
+ 0.41% : tray
+ 0.29% : packet
+ 0.23% : pineapple
+ 0.17% : banana
+ 0.07% : grocery store
+ 0.06% : saltshaker
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q067.jpg
+96.67% : strawberry
+ 0.41% : tray
+ 0.30% : packet
+ 0.24% : pineapple
+ 0.16% : banana
+ 0.07% : grocery store
+ 0.07% : saltshaker
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q068.jpg
+96.82% : strawberry
+ 0.40% : tray
+ 0.29% : packet
+ 0.23% : pineapple
+ 0.16% : banana
+ 0.07% : grocery store
+ 0.07% : saltshaker
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q069.jpg
+96.90% : strawberry
+ 0.37% : tray
+ 0.29% : packet
+ 0.21% : pineapple
+ 0.16% : banana
+ 0.07% : grocery store
+ 0.06% : saltshaker
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q070.jpg
+96.99% : strawberry
+ 0.41% : tray
+ 0.25% : packet
+ 0.22% : pineapple
+ 0.17% : banana
+ 0.06% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.03% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q071.jpg
+96.88% : strawberry
+ 0.38% : tray
+ 0.25% : packet
+ 0.22% : pineapple
+ 0.16% : banana
+ 0.06% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.03% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q072.jpg
+96.84% : strawberry
+ 0.39% : tray
+ 0.26% : packet
+ 0.21% : pineapple
+ 0.15% : banana
+ 0.06% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q073.jpg
+96.63% : strawberry
+ 0.39% : tray
+ 0.29% : packet
+ 0.23% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q074.jpg
+96.83% : strawberry
+ 0.36% : tray
+ 0.26% : packet
+ 0.24% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q075.jpg
+96.92% : strawberry
+ 0.35% : tray
+ 0.25% : packet
+ 0.23% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q076.jpg
+96.88% : strawberry
+ 0.36% : tray
+ 0.26% : packet
+ 0.24% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.03% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q077.jpg
+96.87% : strawberry
+ 0.37% : tray
+ 0.27% : packet
+ 0.23% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.04% : orange
+ 0.04% : vending machine
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q078.jpg
+96.64% : strawberry
+ 0.44% : tray
+ 0.29% : packet
+ 0.24% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q079.jpg
+96.47% : strawberry
+ 0.46% : tray
+ 0.30% : packet
+ 0.25% : pineapple
+ 0.18% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q080.jpg
+96.42% : strawberry
+ 0.49% : tray
+ 0.31% : packet
+ 0.24% : pineapple
+ 0.16% : banana
+ 0.09% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : lighter
+ 0.05% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q081.jpg
+96.54% : strawberry
+ 0.43% : tray
+ 0.30% : packet
+ 0.26% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q082.jpg
+96.37% : strawberry
+ 0.43% : tray
+ 0.33% : packet
+ 0.27% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : lighter
+ 0.05% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q083.jpg
+96.31% : strawberry
+ 0.47% : tray
+ 0.32% : packet
+ 0.28% : pineapple
+ 0.18% : banana
+ 0.09% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q084.jpg
+96.44% : strawberry
+ 0.45% : tray
+ 0.30% : packet
+ 0.27% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q085.jpg
+96.18% : strawberry
+ 0.48% : tray
+ 0.34% : packet
+ 0.29% : pineapple
+ 0.17% : banana
+ 0.09% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : orange
+ 0.05% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q086.jpg
+96.65% : strawberry
+ 0.42% : tray
+ 0.29% : packet
+ 0.25% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q087.jpg
+96.56% : strawberry
+ 0.42% : tray
+ 0.31% : packet
+ 0.27% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q088.jpg
+96.76% : strawberry
+ 0.40% : tray
+ 0.29% : packet
+ 0.26% : pineapple
+ 0.17% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q089.jpg
+97.05% : strawberry
+ 0.37% : tray
+ 0.26% : packet
+ 0.23% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.05% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.03% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q090.jpg
+96.90% : strawberry
+ 0.36% : tray
+ 0.25% : packet
+ 0.24% : pineapple
+ 0.17% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q091.jpg
+96.92% : strawberry
+ 0.35% : tray
+ 0.27% : packet
+ 0.24% : pineapple
+ 0.16% : banana
+ 0.06% : saltshaker
+ 0.06% : grocery store
+ 0.04% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q092.jpg
+96.93% : strawberry
+ 0.37% : tray
+ 0.28% : packet
+ 0.24% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q093.jpg
+96.94% : strawberry
+ 0.36% : tray
+ 0.28% : packet
+ 0.23% : pineapple
+ 0.16% : banana
+ 0.07% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q094.jpg
+96.59% : strawberry
+ 0.38% : tray
+ 0.29% : packet
+ 0.28% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.06% : vending machine
+ 0.05% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q095.jpg
+96.65% : strawberry
+ 0.36% : tray
+ 0.28% : packet
+ 0.26% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.05% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q096.jpg
+96.68% : strawberry
+ 0.38% : tray
+ 0.27% : packet
+ 0.27% : pineapple
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.04% : lighter
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q097.jpg
+96.63% : strawberry
+ 0.40% : tray
+ 0.28% : pineapple
+ 0.28% : packet
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q098.jpg
+96.62% : strawberry
+ 0.39% : tray
+ 0.27% : pineapple
+ 0.27% : packet
+ 0.17% : banana
+ 0.08% : saltshaker
+ 0.07% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q099.jpg
+96.80% : strawberry
+ 0.38% : tray
+ 0.26% : packet
+ 0.26% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.04% : orange
+ 0.04% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry4Q100.jpg
+96.78% : strawberry
+ 0.37% : tray
+ 0.27% : packet
+ 0.26% : pineapple
+ 0.16% : banana
+ 0.08% : saltshaker
+ 0.06% : grocery store
+ 0.05% : vending machine
+ 0.05% : orange
+ 0.04% : lighter

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q001.jpg
+13.65% : confectionery
+10.24% : grocery store
+ 9.57% : head cabbage
+ 2.92% : cauliflower
+ 2.75% : tennis ball
+ 2.47% : pop bottle
+ 2.32% : plastic bag
+ 2.26% : packet
+ 1.97% : Granny Smith
+ 1.96% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q002.jpg
+13.60% : confectionery
+10.15% : grocery store
+ 9.37% : head cabbage
+ 2.87% : cauliflower
+ 2.82% : tennis ball
+ 2.51% : pop bottle
+ 2.28% : plastic bag
+ 2.26% : packet
+ 1.99% : Granny Smith
+ 1.97% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q003.jpg
+10.60% : head cabbage
+ 9.22% : confectionery
+ 8.76% : grocery store
+ 3.16% : tennis ball
+ 2.91% : pop bottle
+ 2.91% : cauliflower
+ 2.37% : plastic bag
+ 2.15% : Granny Smith
+ 2.03% : packet
+ 1.77% : wool
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q004.jpg
+35.36% : head cabbage
+ 8.83% : grocery store
+ 5.35% : confectionery
+ 3.83% : cauliflower
+ 1.47% : wool
+ 1.36% : pop bottle
+ 1.35% : bell pepper
+ 1.31% : packet
+ 1.30% : Granny Smith
+ 1.19% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q005.jpg
+63.30% : head cabbage
+ 5.12% : cauliflower
+ 3.36% : grocery store
+ 1.35% : plastic bag
+ 1.05% : Granny Smith
+ 0.90% : wool
+ 0.74% : bell pepper
+ 0.48% : packet
+ 0.44% : lemon
+ 0.41% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q006.jpg
+77.34% : head cabbage
+ 7.07% : cauliflower
+ 2.37% : grocery store
+ 1.28% : Granny Smith
+ 0.59% : bell pepper
+ 0.59% : plastic bag
+ 0.44% : wool
+ 0.35% : custard apple
+ 0.23% : cucumber
+ 0.21% : white stork
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q007.jpg
+87.08% : head cabbage
+ 2.07% : cauliflower
+ 0.98% : Granny Smith
+ 0.86% : grocery store
+ 0.58% : custard apple
+ 0.49% : bell pepper
+ 0.30% : plastic bag
+ 0.21% : wool
+ 0.16% : cucumber
+ 0.13% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q008.jpg
+87.48% : head cabbage
+ 1.28% : Granny Smith
+ 1.06% : cauliflower
+ 0.76% : custard apple
+ 0.53% : grocery store
+ 0.39% : bell pepper
+ 0.28% : plastic bag
+ 0.23% : tennis ball
+ 0.22% : wool
+ 0.17% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q009.jpg
+82.47% : head cabbage
+ 4.51% : cauliflower
+ 1.55% : Granny Smith
+ 1.13% : grocery store
+ 0.98% : wool
+ 0.64% : bell pepper
+ 0.31% : plastic bag
+ 0.21% : custard apple
+ 0.14% : white stork
+ 0.14% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q010.jpg
+80.40% : head cabbage
+ 4.00% : cauliflower
+ 2.01% : grocery store
+ 1.58% : Granny Smith
+ 0.61% : wool
+ 0.55% : bell pepper
+ 0.51% : custard apple
+ 0.34% : plastic bag
+ 0.21% : fig
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q011.jpg
+90.14% : head cabbage
+ 4.52% : cauliflower
+ 0.99% : grocery store
+ 0.43% : custard apple
+ 0.38% : Granny Smith
+ 0.22% : bell pepper
+ 0.10% : wool
+ 0.10% : fig
+ 0.09% : plastic bag
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q012.jpg
+89.32% : head cabbage
+ 2.70% : cauliflower
+ 1.13% : grocery store
+ 0.78% : Granny Smith
+ 0.26% : custard apple
+ 0.25% : wool
+ 0.21% : bell pepper
+ 0.15% : fig
+ 0.13% : cucumber
+ 0.10% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q013.jpg
+88.11% : head cabbage
+ 2.69% : cauliflower
+ 1.59% : grocery store
+ 1.10% : Granny Smith
+ 0.39% : custard apple
+ 0.36% : wool
+ 0.26% : bell pepper
+ 0.17% : plastic bag
+ 0.14% : fig
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q014.jpg
+81.92% : head cabbage
+ 4.79% : cauliflower
+ 2.33% : grocery store
+ 1.73% : Granny Smith
+ 0.75% : custard apple
+ 0.40% : bell pepper
+ 0.40% : wool
+ 0.30% : cucumber
+ 0.28% : guacamole
+ 0.24% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q015.jpg
+83.27% : head cabbage
+ 4.25% : cauliflower
+ 2.13% : grocery store
+ 1.33% : Granny Smith
+ 0.53% : custard apple
+ 0.46% : bell pepper
+ 0.40% : wool
+ 0.25% : plastic bag
+ 0.21% : cucumber
+ 0.17% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q016.jpg
+77.85% : head cabbage
+ 5.95% : cauliflower
+ 2.59% : grocery store
+ 2.20% : Granny Smith
+ 0.88% : custard apple
+ 0.67% : bell pepper
+ 0.59% : wool
+ 0.31% : plastic bag
+ 0.31% : cucumber
+ 0.25% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q017.jpg
+87.20% : head cabbage
+ 3.43% : cauliflower
+ 1.57% : grocery store
+ 1.21% : Granny Smith
+ 0.52% : custard apple
+ 0.39% : bell pepper
+ 0.25% : guacamole
+ 0.20% : wool
+ 0.17% : cucumber
+ 0.17% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q018.jpg
+89.12% : head cabbage
+ 3.25% : cauliflower
+ 1.31% : grocery store
+ 0.89% : Granny Smith
+ 0.47% : custard apple
+ 0.26% : wool
+ 0.23% : bell pepper
+ 0.15% : guacamole
+ 0.14% : cucumber
+ 0.11% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q019.jpg
+89.72% : head cabbage
+ 2.91% : cauliflower
+ 1.62% : grocery store
+ 0.64% : Granny Smith
+ 0.56% : custard apple
+ 0.20% : bell pepper
+ 0.19% : wool
+ 0.19% : guacamole
+ 0.15% : cucumber
+ 0.13% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q020.jpg
+87.03% : head cabbage
+ 3.65% : cauliflower
+ 1.75% : grocery store
+ 0.73% : Granny Smith
+ 0.57% : custard apple
+ 0.27% : wool
+ 0.23% : bell pepper
+ 0.19% : guacamole
+ 0.15% : fig
+ 0.15% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q021.jpg
+80.65% : head cabbage
+ 6.74% : cauliflower
+ 2.56% : grocery store
+ 1.30% : Granny Smith
+ 0.61% : custard apple
+ 0.40% : bell pepper
+ 0.38% : wool
+ 0.30% : plastic bag
+ 0.22% : guacamole
+ 0.20% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q022.jpg
+84.80% : head cabbage
+ 5.15% : cauliflower
+ 2.25% : grocery store
+ 0.97% : Granny Smith
+ 0.50% : custard apple
+ 0.32% : bell pepper
+ 0.30% : guacamole
+ 0.23% : wool
+ 0.19% : cucumber
+ 0.19% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q023.jpg
+83.00% : head cabbage
+ 5.53% : cauliflower
+ 1.81% : grocery store
+ 1.50% : Granny Smith
+ 0.66% : custard apple
+ 0.38% : plastic bag
+ 0.37% : bell pepper
+ 0.34% : guacamole
+ 0.27% : wool
+ 0.18% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q024.jpg
+87.28% : head cabbage
+ 2.91% : cauliflower
+ 2.29% : grocery store
+ 1.14% : Granny Smith
+ 0.67% : custard apple
+ 0.26% : plastic bag
+ 0.24% : wool
+ 0.24% : guacamole
+ 0.22% : bell pepper
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q025.jpg
+82.91% : head cabbage
+ 5.20% : cauliflower
+ 2.40% : grocery store
+ 1.37% : Granny Smith
+ 0.63% : custard apple
+ 0.39% : wool
+ 0.29% : bell pepper
+ 0.23% : plastic bag
+ 0.21% : cucumber
+ 0.18% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q026.jpg
+85.07% : head cabbage
+ 4.62% : cauliflower
+ 1.99% : grocery store
+ 1.20% : Granny Smith
+ 0.53% : custard apple
+ 0.29% : bell pepper
+ 0.26% : wool
+ 0.26% : plastic bag
+ 0.23% : guacamole
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q027.jpg
+84.52% : head cabbage
+ 4.35% : cauliflower
+ 2.85% : grocery store
+ 1.07% : Granny Smith
+ 0.50% : custard apple
+ 0.27% : wool
+ 0.25% : bell pepper
+ 0.25% : plastic bag
+ 0.17% : guacamole
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q028.jpg
+81.74% : head cabbage
+ 5.62% : cauliflower
+ 2.72% : grocery store
+ 1.24% : Granny Smith
+ 0.64% : custard apple
+ 0.39% : bell pepper
+ 0.30% : wool
+ 0.30% : plastic bag
+ 0.26% : guacamole
+ 0.20% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q029.jpg
+81.43% : head cabbage
+ 5.96% : cauliflower
+ 2.56% : grocery store
+ 1.18% : Granny Smith
+ 0.59% : custard apple
+ 0.39% : bell pepper
+ 0.33% : wool
+ 0.31% : plastic bag
+ 0.27% : guacamole
+ 0.18% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q030.jpg
+79.35% : head cabbage
+ 6.15% : cauliflower
+ 3.23% : grocery store
+ 1.51% : Granny Smith
+ 0.68% : custard apple
+ 0.39% : bell pepper
+ 0.33% : wool
+ 0.31% : plastic bag
+ 0.23% : guacamole
+ 0.20% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q031.jpg
+86.93% : head cabbage
+ 4.23% : cauliflower
+ 2.08% : grocery store
+ 0.76% : Granny Smith
+ 0.44% : custard apple
+ 0.32% : bell pepper
+ 0.23% : plastic bag
+ 0.17% : guacamole
+ 0.16% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q032.jpg
+86.92% : head cabbage
+ 4.87% : cauliflower
+ 1.71% : grocery store
+ 0.86% : Granny Smith
+ 0.46% : custard apple
+ 0.26% : bell pepper
+ 0.19% : plastic bag
+ 0.18% : guacamole
+ 0.14% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q033.jpg
+83.29% : head cabbage
+ 5.55% : cauliflower
+ 2.43% : grocery store
+ 0.94% : Granny Smith
+ 0.70% : custard apple
+ 0.29% : bell pepper
+ 0.25% : plastic bag
+ 0.24% : guacamole
+ 0.19% : wool
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q034.jpg
+85.39% : head cabbage
+ 5.13% : cauliflower
+ 2.02% : grocery store
+ 0.80% : Granny Smith
+ 0.50% : custard apple
+ 0.27% : bell pepper
+ 0.22% : plastic bag
+ 0.21% : guacamole
+ 0.17% : wool
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q035.jpg
+85.13% : head cabbage
+ 5.84% : cauliflower
+ 2.07% : grocery store
+ 0.75% : Granny Smith
+ 0.43% : custard apple
+ 0.24% : bell pepper
+ 0.21% : plastic bag
+ 0.18% : wool
+ 0.16% : guacamole
+ 0.13% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q036.jpg
+83.79% : head cabbage
+ 5.53% : cauliflower
+ 2.48% : grocery store
+ 1.11% : Granny Smith
+ 0.54% : custard apple
+ 0.29% : guacamole
+ 0.26% : bell pepper
+ 0.24% : plastic bag
+ 0.18% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q037.jpg
+83.72% : head cabbage
+ 5.49% : cauliflower
+ 2.43% : grocery store
+ 1.03% : Granny Smith
+ 0.50% : custard apple
+ 0.30% : bell pepper
+ 0.24% : plastic bag
+ 0.24% : guacamole
+ 0.20% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q038.jpg
+82.34% : head cabbage
+ 7.44% : cauliflower
+ 2.48% : grocery store
+ 0.90% : Granny Smith
+ 0.41% : custard apple
+ 0.36% : bell pepper
+ 0.26% : plastic bag
+ 0.18% : wool
+ 0.17% : guacamole
+ 0.14% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q039.jpg
+79.90% : head cabbage
+ 8.09% : cauliflower
+ 2.56% : grocery store
+ 1.27% : Granny Smith
+ 0.49% : custard apple
+ 0.37% : bell pepper
+ 0.28% : plastic bag
+ 0.25% : wool
+ 0.20% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q040.jpg
+81.55% : head cabbage
+ 7.72% : cauliflower
+ 2.39% : grocery store
+ 1.07% : Granny Smith
+ 0.46% : custard apple
+ 0.34% : bell pepper
+ 0.25% : plastic bag
+ 0.24% : wool
+ 0.23% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q041.jpg
+81.58% : head cabbage
+ 7.55% : cauliflower
+ 2.39% : grocery store
+ 1.03% : Granny Smith
+ 0.42% : custard apple
+ 0.37% : bell pepper
+ 0.29% : plastic bag
+ 0.24% : wool
+ 0.18% : guacamole
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q042.jpg
+81.77% : head cabbage
+ 6.14% : cauliflower
+ 2.74% : grocery store
+ 1.03% : Granny Smith
+ 0.50% : custard apple
+ 0.39% : bell pepper
+ 0.32% : plastic bag
+ 0.24% : wool
+ 0.20% : guacamole
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q043.jpg
+81.23% : head cabbage
+ 5.86% : cauliflower
+ 2.83% : grocery store
+ 1.14% : Granny Smith
+ 0.51% : custard apple
+ 0.40% : bell pepper
+ 0.34% : plastic bag
+ 0.26% : wool
+ 0.22% : guacamole
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q044.jpg
+81.76% : head cabbage
+ 6.53% : cauliflower
+ 2.76% : grocery store
+ 1.01% : Granny Smith
+ 0.48% : custard apple
+ 0.34% : bell pepper
+ 0.26% : plastic bag
+ 0.22% : wool
+ 0.18% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q045.jpg
+80.68% : head cabbage
+ 6.59% : cauliflower
+ 2.96% : grocery store
+ 1.12% : Granny Smith
+ 0.51% : custard apple
+ 0.37% : bell pepper
+ 0.27% : plastic bag
+ 0.24% : wool
+ 0.19% : guacamole
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q046.jpg
+80.88% : head cabbage
+ 7.10% : cauliflower
+ 2.57% : grocery store
+ 1.08% : Granny Smith
+ 0.46% : custard apple
+ 0.35% : bell pepper
+ 0.26% : plastic bag
+ 0.23% : wool
+ 0.21% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q047.jpg
+81.12% : head cabbage
+ 6.94% : cauliflower
+ 2.61% : grocery store
+ 1.05% : Granny Smith
+ 0.46% : custard apple
+ 0.35% : bell pepper
+ 0.26% : plastic bag
+ 0.22% : wool
+ 0.21% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q048.jpg
+81.20% : head cabbage
+ 7.19% : cauliflower
+ 2.47% : grocery store
+ 1.12% : Granny Smith
+ 0.48% : custard apple
+ 0.33% : bell pepper
+ 0.25% : plastic bag
+ 0.22% : guacamole
+ 0.22% : wool
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q049.jpg
+80.63% : head cabbage
+ 7.03% : cauliflower
+ 2.67% : grocery store
+ 1.24% : Granny Smith
+ 0.49% : custard apple
+ 0.31% : bell pepper
+ 0.24% : wool
+ 0.24% : plastic bag
+ 0.21% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q050.jpg
+80.62% : head cabbage
+ 7.09% : cauliflower
+ 2.64% : grocery store
+ 1.26% : Granny Smith
+ 0.49% : custard apple
+ 0.31% : bell pepper
+ 0.25% : wool
+ 0.23% : plastic bag
+ 0.21% : guacamole
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q051.jpg
+80.84% : head cabbage
+ 7.06% : cauliflower
+ 2.60% : grocery store
+ 1.24% : Granny Smith
+ 0.49% : custard apple
+ 0.30% : bell pepper
+ 0.24% : wool
+ 0.23% : plastic bag
+ 0.20% : guacamole
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q052.jpg
+77.15% : head cabbage
+ 8.55% : cauliflower
+ 3.00% : grocery store
+ 1.40% : Granny Smith
+ 0.71% : custard apple
+ 0.36% : bell pepper
+ 0.31% : wool
+ 0.28% : plastic bag
+ 0.28% : guacamole
+ 0.20% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q053.jpg
+75.78% : head cabbage
+ 9.18% : cauliflower
+ 3.19% : grocery store
+ 1.39% : Granny Smith
+ 0.74% : custard apple
+ 0.38% : bell pepper
+ 0.31% : wool
+ 0.30% : guacamole
+ 0.29% : plastic bag
+ 0.21% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q054.jpg
+75.64% : head cabbage
+ 9.02% : cauliflower
+ 3.25% : grocery store
+ 1.37% : Granny Smith
+ 0.75% : custard apple
+ 0.40% : bell pepper
+ 0.32% : wool
+ 0.32% : guacamole
+ 0.30% : plastic bag
+ 0.21% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q055.jpg
+82.35% : head cabbage
+ 6.32% : cauliflower
+ 2.41% : grocery store
+ 1.09% : Granny Smith
+ 0.52% : custard apple
+ 0.33% : bell pepper
+ 0.26% : guacamole
+ 0.22% : plastic bag
+ 0.20% : wool
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q056.jpg
+82.30% : head cabbage
+ 6.52% : cauliflower
+ 2.42% : grocery store
+ 1.07% : Granny Smith
+ 0.52% : custard apple
+ 0.32% : bell pepper
+ 0.25% : guacamole
+ 0.21% : plastic bag
+ 0.20% : wool
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q057.jpg
+83.96% : head cabbage
+ 6.16% : cauliflower
+ 2.03% : grocery store
+ 0.98% : Granny Smith
+ 0.46% : custard apple
+ 0.27% : bell pepper
+ 0.25% : guacamole
+ 0.20% : plastic bag
+ 0.20% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q058.jpg
+83.88% : head cabbage
+ 6.07% : cauliflower
+ 2.14% : grocery store
+ 0.96% : Granny Smith
+ 0.45% : custard apple
+ 0.27% : bell pepper
+ 0.25% : guacamole
+ 0.22% : wool
+ 0.21% : plastic bag
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q059.jpg
+83.25% : head cabbage
+ 6.34% : cauliflower
+ 2.21% : grocery store
+ 0.98% : Granny Smith
+ 0.47% : custard apple
+ 0.27% : bell pepper
+ 0.25% : guacamole
+ 0.24% : wool
+ 0.21% : plastic bag
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q060.jpg
+83.72% : head cabbage
+ 6.10% : cauliflower
+ 2.15% : grocery store
+ 0.95% : Granny Smith
+ 0.46% : custard apple
+ 0.26% : bell pepper
+ 0.26% : guacamole
+ 0.22% : wool
+ 0.21% : plastic bag
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q061.jpg
+83.41% : head cabbage
+ 6.06% : cauliflower
+ 2.04% : grocery store
+ 1.04% : Granny Smith
+ 0.44% : custard apple
+ 0.27% : guacamole
+ 0.26% : bell pepper
+ 0.23% : plastic bag
+ 0.21% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q062.jpg
+84.06% : head cabbage
+ 5.54% : cauliflower
+ 2.18% : grocery store
+ 1.06% : Granny Smith
+ 0.46% : custard apple
+ 0.25% : bell pepper
+ 0.23% : guacamole
+ 0.22% : plastic bag
+ 0.22% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q063.jpg
+83.85% : head cabbage
+ 5.74% : cauliflower
+ 2.13% : grocery store
+ 1.07% : Granny Smith
+ 0.46% : custard apple
+ 0.27% : bell pepper
+ 0.23% : plastic bag
+ 0.23% : guacamole
+ 0.22% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q064.jpg
+84.02% : head cabbage
+ 5.83% : cauliflower
+ 2.21% : grocery store
+ 1.02% : Granny Smith
+ 0.44% : custard apple
+ 0.27% : bell pepper
+ 0.25% : guacamole
+ 0.22% : plastic bag
+ 0.21% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q065.jpg
+83.11% : head cabbage
+ 6.10% : cauliflower
+ 2.41% : grocery store
+ 1.12% : Granny Smith
+ 0.48% : custard apple
+ 0.28% : plastic bag
+ 0.28% : bell pepper
+ 0.27% : wool
+ 0.18% : guacamole
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q066.jpg
+84.37% : head cabbage
+ 5.32% : cauliflower
+ 2.39% : grocery store
+ 1.04% : Granny Smith
+ 0.45% : custard apple
+ 0.30% : plastic bag
+ 0.29% : bell pepper
+ 0.26% : wool
+ 0.17% : guacamole
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q067.jpg
+84.94% : head cabbage
+ 5.30% : cauliflower
+ 2.25% : grocery store
+ 1.04% : Granny Smith
+ 0.45% : custard apple
+ 0.28% : bell pepper
+ 0.27% : plastic bag
+ 0.25% : wool
+ 0.18% : guacamole
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q068.jpg
+84.05% : head cabbage
+ 5.62% : cauliflower
+ 2.39% : grocery store
+ 1.04% : Granny Smith
+ 0.47% : custard apple
+ 0.31% : bell pepper
+ 0.27% : plastic bag
+ 0.22% : wool
+ 0.20% : guacamole
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q069.jpg
+87.28% : head cabbage
+ 4.24% : cauliflower
+ 1.96% : grocery store
+ 0.78% : Granny Smith
+ 0.41% : custard apple
+ 0.24% : bell pepper
+ 0.23% : plastic bag
+ 0.18% : guacamole
+ 0.17% : wool
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q070.jpg
+85.38% : head cabbage
+ 4.46% : cauliflower
+ 2.17% : grocery store
+ 0.90% : Granny Smith
+ 0.46% : custard apple
+ 0.28% : bell pepper
+ 0.25% : plastic bag
+ 0.23% : guacamole
+ 0.21% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q071.jpg
+82.83% : head cabbage
+ 4.78% : cauliflower
+ 2.75% : grocery store
+ 1.15% : Granny Smith
+ 0.55% : custard apple
+ 0.29% : bell pepper
+ 0.29% : plastic bag
+ 0.27% : wool
+ 0.27% : guacamole
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q072.jpg
+82.74% : head cabbage
+ 4.71% : cauliflower
+ 2.79% : grocery store
+ 1.15% : Granny Smith
+ 0.54% : custard apple
+ 0.30% : bell pepper
+ 0.29% : plastic bag
+ 0.27% : guacamole
+ 0.27% : wool
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q073.jpg
+85.31% : head cabbage
+ 4.36% : cauliflower
+ 2.36% : grocery store
+ 0.93% : Granny Smith
+ 0.43% : custard apple
+ 0.28% : plastic bag
+ 0.26% : bell pepper
+ 0.23% : guacamole
+ 0.21% : wool
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q074.jpg
+84.10% : head cabbage
+ 4.90% : cauliflower
+ 2.48% : grocery store
+ 0.94% : Granny Smith
+ 0.51% : custard apple
+ 0.30% : plastic bag
+ 0.30% : bell pepper
+ 0.25% : guacamole
+ 0.21% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q075.jpg
+84.38% : head cabbage
+ 4.93% : cauliflower
+ 2.42% : grocery store
+ 0.89% : Granny Smith
+ 0.50% : custard apple
+ 0.30% : plastic bag
+ 0.30% : bell pepper
+ 0.24% : guacamole
+ 0.20% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q076.jpg
+83.97% : head cabbage
+ 4.85% : cauliflower
+ 2.49% : grocery store
+ 0.89% : Granny Smith
+ 0.50% : custard apple
+ 0.32% : bell pepper
+ 0.29% : plastic bag
+ 0.24% : guacamole
+ 0.22% : wool
+ 0.15% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q077.jpg
+83.02% : head cabbage
+ 5.14% : cauliflower
+ 2.75% : grocery store
+ 0.99% : Granny Smith
+ 0.52% : custard apple
+ 0.32% : bell pepper
+ 0.30% : plastic bag
+ 0.24% : guacamole
+ 0.22% : wool
+ 0.15% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q078.jpg
+83.93% : head cabbage
+ 5.32% : cauliflower
+ 2.61% : grocery store
+ 0.98% : Granny Smith
+ 0.47% : custard apple
+ 0.29% : bell pepper
+ 0.28% : plastic bag
+ 0.24% : guacamole
+ 0.20% : wool
+ 0.15% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q079.jpg
+84.30% : head cabbage
+ 5.10% : cauliflower
+ 2.57% : grocery store
+ 0.97% : Granny Smith
+ 0.46% : custard apple
+ 0.28% : bell pepper
+ 0.27% : plastic bag
+ 0.25% : guacamole
+ 0.19% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q080.jpg
+82.55% : head cabbage
+ 5.67% : cauliflower
+ 2.92% : grocery store
+ 1.06% : Granny Smith
+ 0.51% : custard apple
+ 0.30% : bell pepper
+ 0.29% : plastic bag
+ 0.28% : guacamole
+ 0.23% : wool
+ 0.16% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q081.jpg
+82.07% : head cabbage
+ 5.39% : cauliflower
+ 2.91% : grocery store
+ 1.06% : Granny Smith
+ 0.51% : custard apple
+ 0.33% : bell pepper
+ 0.31% : plastic bag
+ 0.27% : guacamole
+ 0.24% : wool
+ 0.16% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q082.jpg
+82.08% : head cabbage
+ 5.27% : cauliflower
+ 3.02% : grocery store
+ 1.12% : Granny Smith
+ 0.55% : custard apple
+ 0.31% : bell pepper
+ 0.30% : plastic bag
+ 0.29% : guacamole
+ 0.22% : wool
+ 0.17% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q083.jpg
+83.55% : head cabbage
+ 5.37% : cauliflower
+ 2.67% : grocery store
+ 0.95% : Granny Smith
+ 0.43% : custard apple
+ 0.28% : bell pepper
+ 0.26% : plastic bag
+ 0.24% : guacamole
+ 0.20% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q084.jpg
+85.77% : head cabbage
+ 4.80% : cauliflower
+ 2.24% : grocery store
+ 0.89% : Granny Smith
+ 0.39% : custard apple
+ 0.23% : bell pepper
+ 0.23% : plastic bag
+ 0.19% : guacamole
+ 0.18% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q085.jpg
+85.24% : head cabbage
+ 5.09% : cauliflower
+ 2.28% : grocery store
+ 0.97% : Granny Smith
+ 0.39% : custard apple
+ 0.23% : bell pepper
+ 0.23% : plastic bag
+ 0.21% : guacamole
+ 0.19% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q086.jpg
+86.39% : head cabbage
+ 4.50% : cauliflower
+ 2.03% : grocery store
+ 0.94% : Granny Smith
+ 0.38% : custard apple
+ 0.22% : guacamole
+ 0.21% : bell pepper
+ 0.20% : plastic bag
+ 0.18% : wool
+ 0.12% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q087.jpg
+83.83% : head cabbage
+ 4.97% : cauliflower
+ 2.55% : grocery store
+ 1.07% : Granny Smith
+ 0.46% : custard apple
+ 0.27% : bell pepper
+ 0.26% : guacamole
+ 0.25% : plastic bag
+ 0.23% : wool
+ 0.13% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q088.jpg
+84.52% : head cabbage
+ 4.96% : cauliflower
+ 2.36% : grocery store
+ 1.02% : Granny Smith
+ 0.46% : custard apple
+ 0.27% : guacamole
+ 0.26% : bell pepper
+ 0.23% : plastic bag
+ 0.20% : wool
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q089.jpg
+84.21% : head cabbage
+ 5.16% : cauliflower
+ 2.31% : grocery store
+ 1.04% : Granny Smith
+ 0.46% : custard apple
+ 0.28% : bell pepper
+ 0.27% : guacamole
+ 0.23% : plastic bag
+ 0.21% : wool
+ 0.14% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q090.jpg
+84.52% : head cabbage
+ 5.50% : cauliflower
+ 2.23% : grocery store
+ 0.94% : Granny Smith
+ 0.42% : custard apple
+ 0.28% : bell pepper
+ 0.24% : guacamole
+ 0.22% : plastic bag
+ 0.18% : wool
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q091.jpg
+85.17% : head cabbage
+ 4.98% : cauliflower
+ 2.20% : grocery store
+ 0.88% : Granny Smith
+ 0.42% : custard apple
+ 0.27% : bell pepper
+ 0.24% : guacamole
+ 0.23% : plastic bag
+ 0.18% : wool
+ 0.13% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q092.jpg
+84.44% : head cabbage
+ 5.44% : cauliflower
+ 2.30% : grocery store
+ 0.90% : Granny Smith
+ 0.45% : custard apple
+ 0.28% : bell pepper
+ 0.25% : guacamole
+ 0.23% : plastic bag
+ 0.18% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q093.jpg
+81.69% : head cabbage
+ 5.92% : cauliflower
+ 2.74% : grocery store
+ 1.14% : Granny Smith
+ 0.57% : custard apple
+ 0.32% : bell pepper
+ 0.29% : guacamole
+ 0.27% : plastic bag
+ 0.23% : wool
+ 0.17% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q094.jpg
+84.41% : head cabbage
+ 5.31% : cauliflower
+ 2.12% : grocery store
+ 0.98% : Granny Smith
+ 0.50% : custard apple
+ 0.28% : bell pepper
+ 0.24% : guacamole
+ 0.24% : plastic bag
+ 0.19% : wool
+ 0.15% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q095.jpg
+83.51% : head cabbage
+ 5.59% : cauliflower
+ 2.18% : grocery store
+ 1.06% : Granny Smith
+ 0.51% : custard apple
+ 0.29% : bell pepper
+ 0.28% : guacamole
+ 0.27% : plastic bag
+ 0.20% : wool
+ 0.15% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q096.jpg
+83.93% : head cabbage
+ 5.24% : cauliflower
+ 2.25% : grocery store
+ 1.04% : Granny Smith
+ 0.50% : custard apple
+ 0.29% : bell pepper
+ 0.27% : guacamole
+ 0.25% : plastic bag
+ 0.21% : wool
+ 0.14% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q097.jpg
+83.46% : head cabbage
+ 5.39% : cauliflower
+ 2.36% : grocery store
+ 1.06% : Granny Smith
+ 0.49% : custard apple
+ 0.30% : bell pepper
+ 0.26% : plastic bag
+ 0.24% : guacamole
+ 0.21% : wool
+ 0.15% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q098.jpg
+83.67% : head cabbage
+ 5.38% : cauliflower
+ 2.32% : grocery store
+ 1.02% : Granny Smith
+ 0.49% : custard apple
+ 0.29% : bell pepper
+ 0.26% : plastic bag
+ 0.26% : guacamole
+ 0.21% : wool
+ 0.14% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q099.jpg
+84.35% : head cabbage
+ 5.10% : cauliflower
+ 2.16% : grocery store
+ 1.04% : Granny Smith
+ 0.48% : custard apple
+ 0.28% : bell pepper
+ 0.26% : plastic bag
+ 0.24% : guacamole
+ 0.21% : wool
+ 0.13% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage15Q100.jpg
+84.13% : head cabbage
+ 5.07% : cauliflower
+ 2.25% : grocery store
+ 1.01% : Granny Smith
+ 0.49% : custard apple
+ 0.29% : bell pepper
+ 0.27% : plastic bag
+ 0.25% : guacamole
+ 0.21% : wool
+ 0.14% : cucumber

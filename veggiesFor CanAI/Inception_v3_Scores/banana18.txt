@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q001.jpg
+98.96% : banana
+ 0.15% : spaghetti squash
+ 0.10% : orange
+ 0.03% : lemon
+ 0.03% : toilet seat
+ 0.02% : clog
+ 0.02% : motor scooter
+ 0.02% : crash helmet
+ 0.02% : jack-o'-lantern
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q002.jpg
+98.97% : banana
+ 0.15% : spaghetti squash
+ 0.10% : orange
+ 0.03% : lemon
+ 0.03% : toilet seat
+ 0.02% : clog
+ 0.02% : motor scooter
+ 0.02% : crash helmet
+ 0.02% : jack-o'-lantern
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q003.jpg
+99.27% : banana
+ 0.10% : spaghetti squash
+ 0.07% : orange
+ 0.02% : toilet seat
+ 0.02% : motor scooter
+ 0.02% : lemon
+ 0.01% : clog
+ 0.01% : crash helmet
+ 0.01% : ashcan
+ 0.01% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q004.jpg
+96.59% : banana
+ 0.43% : spaghetti squash
+ 0.32% : orange
+ 0.12% : lemon
+ 0.10% : acorn squash
+ 0.03% : pineapple
+ 0.03% : barrel
+ 0.03% : clog
+ 0.03% : barrow
+ 0.03% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q005.jpg
+96.62% : banana
+ 0.56% : spaghetti squash
+ 0.18% : orange
+ 0.09% : acorn squash
+ 0.09% : lemon
+ 0.05% : toilet seat
+ 0.04% : pineapple
+ 0.03% : whippet
+ 0.02% : zucchini
+ 0.02% : crash helmet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q006.jpg
+83.95% : banana
+ 8.43% : spaghetti squash
+ 0.85% : acorn squash
+ 0.52% : lemon
+ 0.23% : orange
+ 0.16% : jack-o'-lantern
+ 0.13% : barrel
+ 0.10% : toilet seat
+ 0.09% : pineapple
+ 0.09% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q007.jpg
+84.54% : banana
+ 6.87% : spaghetti squash
+ 0.69% : acorn squash
+ 0.65% : lemon
+ 0.50% : orange
+ 0.16% : pineapple
+ 0.07% : butternut squash
+ 0.07% : zucchini
+ 0.06% : toilet seat
+ 0.06% : barrel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q008.jpg
+95.21% : banana
+ 2.17% : spaghetti squash
+ 0.29% : acorn squash
+ 0.14% : orange
+ 0.11% : lemon
+ 0.05% : pineapple
+ 0.04% : whippet
+ 0.03% : butternut squash
+ 0.03% : jack-o'-lantern
+ 0.02% : barrel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q009.jpg
+89.77% : banana
+ 1.71% : spaghetti squash
+ 0.48% : orange
+ 0.44% : acorn squash
+ 0.37% : lemon
+ 0.10% : pineapple
+ 0.08% : barrel
+ 0.08% : ashcan
+ 0.06% : clog
+ 0.06% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q010.jpg
+95.14% : banana
+ 2.29% : spaghetti squash
+ 0.14% : orange
+ 0.11% : acorn squash
+ 0.08% : lemon
+ 0.05% : pineapple
+ 0.04% : whippet
+ 0.02% : barrel
+ 0.02% : butternut squash
+ 0.02% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q011.jpg
+93.37% : banana
+ 2.45% : spaghetti squash
+ 0.25% : orange
+ 0.24% : acorn squash
+ 0.14% : lemon
+ 0.08% : pineapple
+ 0.03% : whippet
+ 0.03% : butternut squash
+ 0.03% : jack-o'-lantern
+ 0.02% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q012.jpg
+95.05% : banana
+ 1.44% : spaghetti squash
+ 0.18% : orange
+ 0.13% : lemon
+ 0.11% : acorn squash
+ 0.07% : pineapple
+ 0.03% : whippet
+ 0.02% : clog
+ 0.02% : zucchini
+ 0.02% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q013.jpg
+96.65% : banana
+ 0.78% : spaghetti squash
+ 0.12% : orange
+ 0.07% : lemon
+ 0.06% : acorn squash
+ 0.06% : pineapple
+ 0.02% : whippet
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q014.jpg
+96.56% : banana
+ 1.05% : spaghetti squash
+ 0.13% : orange
+ 0.06% : lemon
+ 0.05% : acorn squash
+ 0.05% : pineapple
+ 0.02% : butternut squash
+ 0.02% : zucchini
+ 0.02% : slug
+ 0.02% : whippet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q015.jpg
+96.97% : banana
+ 0.61% : spaghetti squash
+ 0.10% : orange
+ 0.06% : lemon
+ 0.05% : pineapple
+ 0.04% : acorn squash
+ 0.02% : whippet
+ 0.01% : slug
+ 0.01% : zucchini
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q016.jpg
+95.40% : banana
+ 0.62% : spaghetti squash
+ 0.10% : orange
+ 0.07% : lemon
+ 0.07% : acorn squash
+ 0.07% : pineapple
+ 0.03% : whippet
+ 0.02% : zucchini
+ 0.02% : butternut squash
+ 0.02% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q017.jpg
+97.62% : banana
+ 0.21% : spaghetti squash
+ 0.09% : orange
+ 0.05% : lemon
+ 0.04% : pineapple
+ 0.02% : acorn squash
+ 0.02% : whippet
+ 0.01% : clog
+ 0.01% : pug
+ 0.01% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q018.jpg
+97.69% : banana
+ 0.16% : spaghetti squash
+ 0.05% : orange
+ 0.04% : pineapple
+ 0.03% : lemon
+ 0.02% : acorn squash
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q019.jpg
+98.43% : banana
+ 0.11% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.03% : lemon
+ 0.01% : whippet
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.01% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q020.jpg
+96.78% : banana
+ 0.31% : spaghetti squash
+ 0.08% : orange
+ 0.05% : pineapple
+ 0.05% : lemon
+ 0.03% : acorn squash
+ 0.02% : whippet
+ 0.01% : bull mastiff
+ 0.01% : slug
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q021.jpg
+98.14% : banana
+ 0.13% : spaghetti squash
+ 0.05% : orange
+ 0.03% : pineapple
+ 0.03% : lemon
+ 0.02% : acorn squash
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q022.jpg
+98.40% : banana
+ 0.09% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.02% : lemon
+ 0.01% : acorn squash
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q023.jpg
+98.18% : banana
+ 0.17% : spaghetti squash
+ 0.05% : orange
+ 0.03% : pineapple
+ 0.03% : lemon
+ 0.01% : acorn squash
+ 0.01% : whippet
+ 0.01% : slug
+ 0.01% : bull mastiff
+ 0.01% : pug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q024.jpg
+98.47% : banana
+ 0.07% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.01% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q025.jpg
+98.43% : banana
+ 0.09% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : acorn squash
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q026.jpg
+98.46% : banana
+ 0.06% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.01% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q027.jpg
+98.56% : banana
+ 0.06% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : acorn squash
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q028.jpg
+98.65% : banana
+ 0.06% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q029.jpg
+98.29% : banana
+ 0.07% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.02% : lemon
+ 0.01% : acorn squash
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q030.jpg
+98.80% : banana
+ 0.04% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q031.jpg
+98.23% : banana
+ 0.07% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.02% : lemon
+ 0.01% : acorn squash
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q032.jpg
+98.87% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.01% : acorn squash
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q033.jpg
+98.34% : banana
+ 0.05% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q034.jpg
+98.23% : banana
+ 0.06% : spaghetti squash
+ 0.04% : orange
+ 0.03% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q035.jpg
+98.58% : banana
+ 0.05% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q036.jpg
+98.67% : banana
+ 0.05% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : acorn squash
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q037.jpg
+98.56% : banana
+ 0.05% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : acorn squash
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q038.jpg
+98.54% : banana
+ 0.05% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : acorn squash
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : whippet
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q039.jpg
+98.59% : banana
+ 0.05% : spaghetti squash
+ 0.04% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q040.jpg
+98.83% : banana
+ 0.04% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q041.jpg
+98.56% : banana
+ 0.04% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : bull mastiff
+ 0.01% : acorn squash
+ 0.01% : pug
+ 0.01% : whippet
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q042.jpg
+98.79% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q043.jpg
+98.81% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q044.jpg
+99.00% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : bull mastiff
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q045.jpg
+99.10% : banana
+ 0.02% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q046.jpg
+98.98% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q047.jpg
+98.97% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q048.jpg
+98.98% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q049.jpg
+99.06% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.00% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q050.jpg
+99.05% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.00% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q051.jpg
+99.06% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.00% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q052.jpg
+98.60% : banana
+ 0.04% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : acorn squash
+ 0.01% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q053.jpg
+98.55% : banana
+ 0.04% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q054.jpg
+98.58% : banana
+ 0.04% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q055.jpg
+98.72% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q056.jpg
+98.60% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q057.jpg
+98.77% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q058.jpg
+98.88% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.00% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q059.jpg
+98.92% : banana
+ 0.03% : orange
+ 0.02% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q060.jpg
+98.89% : banana
+ 0.03% : orange
+ 0.02% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.00% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q061.jpg
+98.74% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : clog
+ 0.01% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q062.jpg
+98.73% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q063.jpg
+98.75% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q064.jpg
+98.96% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : butternut squash
+ 0.00% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q065.jpg
+98.89% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q066.jpg
+98.95% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q067.jpg
+98.78% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q068.jpg
+98.96% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q069.jpg
+98.91% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q070.jpg
+98.73% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q071.jpg
+98.87% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : clog
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q072.jpg
+98.93% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : clog
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q073.jpg
+99.21% : banana
+ 0.02% : orange
+ 0.02% : spaghetti squash
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.00% : pug
+ 0.00% : lakeside
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q074.jpg
+99.05% : banana
+ 0.03% : orange
+ 0.02% : spaghetti squash
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q075.jpg
+99.06% : banana
+ 0.02% : orange
+ 0.02% : spaghetti squash
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q076.jpg
+98.88% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q077.jpg
+98.94% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : butternut squash
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q078.jpg
+98.81% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q079.jpg
+98.78% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q080.jpg
+98.82% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : lakeside
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q081.jpg
+98.61% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q082.jpg
+98.72% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q083.jpg
+98.69% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : clog
+ 0.01% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q084.jpg
+98.89% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q085.jpg
+98.76% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q086.jpg
+98.76% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q087.jpg
+98.67% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q088.jpg
+98.56% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q089.jpg
+98.52% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.02% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q090.jpg
+98.59% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q091.jpg
+98.75% : banana
+ 0.03% : orange
+ 0.03% : spaghetti squash
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : cab
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q092.jpg
+99.09% : banana
+ 0.02% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.00% : pug
+ 0.00% : lakeside
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q093.jpg
+98.92% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : lakeside
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q094.jpg
+98.86% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : whippet
+ 0.01% : bull mastiff
+ 0.01% : pug
+ 0.01% : lakeside
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q095.jpg
+98.79% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : lakeside
+ 0.01% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q096.jpg
+98.81% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.01% : lakeside
+ 0.01% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q097.jpg
+98.92% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : lakeside
+ 0.00% : cab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q098.jpg
+98.91% : banana
+ 0.03% : spaghetti squash
+ 0.03% : orange
+ 0.02% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : cab
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q099.jpg
+98.95% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : clog
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana18Q100.jpg
+99.00% : banana
+ 0.03% : spaghetti squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : lemon
+ 0.01% : bull mastiff
+ 0.01% : whippet
+ 0.01% : pug
+ 0.00% : lakeside
+ 0.00% : clog

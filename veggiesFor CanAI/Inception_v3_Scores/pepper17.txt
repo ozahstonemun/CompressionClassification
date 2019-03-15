@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q001.jpg
+96.96% : bell pepper
+ 0.57% : corn
+ 0.14% : grocery store
+ 0.10% : ear
+ 0.10% : confectionery
+ 0.08% : piggy bank
+ 0.05% : jack-o'-lantern
+ 0.04% : pencil sharpener
+ 0.03% : Pekinese
+ 0.03% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q002.jpg
+96.94% : bell pepper
+ 0.58% : corn
+ 0.14% : grocery store
+ 0.10% : ear
+ 0.10% : confectionery
+ 0.08% : piggy bank
+ 0.05% : jack-o'-lantern
+ 0.04% : pencil sharpener
+ 0.03% : Pekinese
+ 0.03% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q003.jpg
+97.00% : bell pepper
+ 0.68% : corn
+ 0.13% : grocery store
+ 0.10% : ear
+ 0.09% : confectionery
+ 0.06% : piggy bank
+ 0.04% : jack-o'-lantern
+ 0.03% : Pekinese
+ 0.03% : pencil sharpener
+ 0.03% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q004.jpg
+98.82% : bell pepper
+ 0.17% : grocery store
+ 0.04% : corn
+ 0.02% : zucchini
+ 0.02% : ear
+ 0.01% : jackfruit
+ 0.01% : Pekinese
+ 0.01% : confectionery
+ 0.01% : pop bottle
+ 0.01% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q005.jpg
+98.42% : bell pepper
+ 0.24% : corn
+ 0.12% : grocery store
+ 0.08% : ear
+ 0.02% : jackfruit
+ 0.02% : Pekinese
+ 0.02% : stove
+ 0.01% : golden retriever
+ 0.01% : confectionery
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q006.jpg
+98.70% : bell pepper
+ 0.13% : grocery store
+ 0.04% : corn
+ 0.02% : ear
+ 0.02% : stove
+ 0.02% : Pekinese
+ 0.02% : jackfruit
+ 0.01% : Labrador retriever
+ 0.01% : golden retriever
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q007.jpg
+98.48% : bell pepper
+ 0.14% : grocery store
+ 0.07% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : Pekinese
+ 0.02% : jackfruit
+ 0.01% : Labrador retriever
+ 0.01% : golden retriever
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q008.jpg
+98.50% : bell pepper
+ 0.13% : grocery store
+ 0.07% : corn
+ 0.03% : ear
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.01% : Pekinese
+ 0.01% : zucchini
+ 0.01% : Labrador retriever
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q009.jpg
+98.18% : bell pepper
+ 0.14% : grocery store
+ 0.09% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : zucchini
+ 0.02% : Norfolk terrier
+ 0.01% : Pekinese
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q010.jpg
+98.50% : bell pepper
+ 0.11% : grocery store
+ 0.10% : corn
+ 0.04% : ear
+ 0.02% : stove
+ 0.02% : Pekinese
+ 0.01% : jackfruit
+ 0.01% : Norfolk terrier
+ 0.01% : zucchini
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q011.jpg
+98.77% : bell pepper
+ 0.11% : grocery store
+ 0.03% : corn
+ 0.02% : stove
+ 0.02% : ear
+ 0.01% : Pekinese
+ 0.01% : zucchini
+ 0.01% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q012.jpg
+98.68% : bell pepper
+ 0.12% : grocery store
+ 0.04% : corn
+ 0.02% : ear
+ 0.02% : stove
+ 0.01% : zucchini
+ 0.01% : Pekinese
+ 0.01% : Labrador retriever
+ 0.01% : Norfolk terrier
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q013.jpg
+98.28% : bell pepper
+ 0.17% : grocery store
+ 0.05% : corn
+ 0.03% : stove
+ 0.03% : ear
+ 0.02% : zucchini
+ 0.02% : Norfolk terrier
+ 0.01% : Pekinese
+ 0.01% : jackfruit
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q014.jpg
+98.44% : bell pepper
+ 0.13% : grocery store
+ 0.04% : corn
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : zucchini
+ 0.01% : Norfolk terrier
+ 0.01% : Pekinese
+ 0.01% : cucumber
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q015.jpg
+97.78% : bell pepper
+ 0.17% : grocery store
+ 0.07% : corn
+ 0.03% : stove
+ 0.03% : ear
+ 0.02% : zucchini
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.01% : Labrador retriever
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q016.jpg
+98.10% : bell pepper
+ 0.15% : grocery store
+ 0.05% : corn
+ 0.03% : zucchini
+ 0.02% : ear
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q017.jpg
+98.04% : bell pepper
+ 0.16% : grocery store
+ 0.07% : corn
+ 0.03% : ear
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.01% : Labrador retriever
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q018.jpg
+97.97% : bell pepper
+ 0.17% : grocery store
+ 0.05% : corn
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q019.jpg
+97.92% : bell pepper
+ 0.16% : grocery store
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q020.jpg
+98.05% : bell pepper
+ 0.18% : grocery store
+ 0.04% : corn
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.02% : ear
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q021.jpg
+98.03% : bell pepper
+ 0.17% : grocery store
+ 0.06% : corn
+ 0.03% : ear
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q022.jpg
+97.91% : bell pepper
+ 0.16% : grocery store
+ 0.05% : corn
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.02% : ear
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q023.jpg
+97.95% : bell pepper
+ 0.17% : grocery store
+ 0.05% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q024.jpg
+97.64% : bell pepper
+ 0.20% : grocery store
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q025.jpg
+97.84% : bell pepper
+ 0.18% : grocery store
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q026.jpg
+97.63% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q027.jpg
+97.25% : bell pepper
+ 0.21% : grocery store
+ 0.04% : zucchini
+ 0.04% : corn
+ 0.03% : stove
+ 0.03% : cucumber
+ 0.02% : Pekinese
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q028.jpg
+97.75% : bell pepper
+ 0.18% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q029.jpg
+97.82% : bell pepper
+ 0.17% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q030.jpg
+97.51% : bell pepper
+ 0.19% : grocery store
+ 0.04% : corn
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q031.jpg
+97.63% : bell pepper
+ 0.17% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q032.jpg
+97.43% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q033.jpg
+97.52% : bell pepper
+ 0.20% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q034.jpg
+97.62% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q035.jpg
+97.69% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q036.jpg
+97.91% : bell pepper
+ 0.16% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q037.jpg
+97.85% : bell pepper
+ 0.17% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q038.jpg
+97.98% : bell pepper
+ 0.16% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q039.jpg
+97.97% : bell pepper
+ 0.16% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q040.jpg
+97.92% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q041.jpg
+97.60% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q042.jpg
+97.81% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q043.jpg
+97.81% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q044.jpg
+97.84% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q045.jpg
+97.88% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q046.jpg
+97.66% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q047.jpg
+97.66% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q048.jpg
+97.58% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q049.jpg
+97.92% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q050.jpg
+97.92% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q051.jpg
+97.92% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q052.jpg
+97.87% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q053.jpg
+97.77% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q054.jpg
+97.79% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q055.jpg
+97.93% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q056.jpg
+97.90% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q057.jpg
+97.94% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q058.jpg
+97.94% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q059.jpg
+97.94% : bell pepper
+ 0.18% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q060.jpg
+97.83% : bell pepper
+ 0.19% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q061.jpg
+97.66% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q062.jpg
+97.66% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q063.jpg
+97.69% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q064.jpg
+97.80% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q065.jpg
+97.80% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q066.jpg
+97.83% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q067.jpg
+97.70% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q068.jpg
+97.67% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q069.jpg
+97.72% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q070.jpg
+97.77% : bell pepper
+ 0.18% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q071.jpg
+97.73% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q072.jpg
+97.76% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q073.jpg
+97.73% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q074.jpg
+97.68% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q075.jpg
+97.64% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q076.jpg
+97.65% : bell pepper
+ 0.18% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q077.jpg
+97.66% : bell pepper
+ 0.18% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q078.jpg
+97.57% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q079.jpg
+97.60% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : corn
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q080.jpg
+97.55% : bell pepper
+ 0.20% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q081.jpg
+97.45% : bell pepper
+ 0.21% : grocery store
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q082.jpg
+97.48% : bell pepper
+ 0.21% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q083.jpg
+97.45% : bell pepper
+ 0.20% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q084.jpg
+97.68% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q085.jpg
+97.80% : bell pepper
+ 0.18% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q086.jpg
+97.94% : bell pepper
+ 0.16% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q087.jpg
+97.92% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q088.jpg
+97.82% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : corn
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q089.jpg
+97.81% : bell pepper
+ 0.17% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q090.jpg
+97.63% : bell pepper
+ 0.19% : grocery store
+ 0.04% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q091.jpg
+97.77% : bell pepper
+ 0.19% : grocery store
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.03% : stove
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q092.jpg
+97.69% : bell pepper
+ 0.17% : grocery store
+ 0.04% : corn
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q093.jpg
+97.93% : bell pepper
+ 0.15% : grocery store
+ 0.05% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q094.jpg
+98.17% : bell pepper
+ 0.14% : grocery store
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q095.jpg
+97.98% : bell pepper
+ 0.16% : grocery store
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q096.jpg
+97.88% : bell pepper
+ 0.17% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : cucumber
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q097.jpg
+97.89% : bell pepper
+ 0.17% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q098.jpg
+97.90% : bell pepper
+ 0.17% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Pekinese
+ 0.02% : Labrador retriever
+ 0.02% : cucumber
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q099.jpg
+97.89% : bell pepper
+ 0.17% : grocery store
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : ear
+ 0.02% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper17Q100.jpg
+97.94% : bell pepper
+ 0.17% : grocery store
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+ 0.02% : Pekinese
+ 0.02% : ear
+ 0.02% : cucumber

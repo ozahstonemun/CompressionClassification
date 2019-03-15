@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q001.jpg
+99.20% : banana
+ 0.06% : coil
+ 0.03% : orange
+ 0.02% : knot
+ 0.01% : unicycle
+ 0.01% : chain
+ 0.01% : pineapple
+ 0.01% : crane
+ 0.01% : hook
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q002.jpg
+99.20% : banana
+ 0.06% : coil
+ 0.03% : orange
+ 0.02% : knot
+ 0.01% : unicycle
+ 0.01% : chain
+ 0.01% : pineapple
+ 0.01% : crane
+ 0.01% : hook
+ 0.01% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q003.jpg
+99.54% : banana
+ 0.03% : coil
+ 0.02% : orange
+ 0.01% : knot
+ 0.01% : unicycle
+ 0.01% : chain
+ 0.01% : pineapple
+ 0.00% : crane
+ 0.00% : hook
+ 0.00% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q004.jpg
+99.80% : banana
+ 0.01% : coil
+ 0.01% : orange
+ 0.00% : shoe shop
+ 0.00% : shopping basket
+ 0.00% : clog
+ 0.00% : knot
+ 0.00% : pineapple
+ 0.00% : daisy
+ 0.00% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q005.jpg
+99.98% : banana
+ 0.00% : orange
+ 0.00% : coil
+ 0.00% : spaghetti squash
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : grocery store
+ 0.00% : ear
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q006.jpg
+99.99% : banana
+ 0.00% : orange
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : ear
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q007.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : butternut squash
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : bighorn
+ 0.00% : lakeside
+ 0.00% : zucchini
+ 0.00% : grocery store
+ 0.00% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q008.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q009.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q010.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q011.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : spaghetti squash
+ 0.00% : butternut squash
+ 0.00% : zucchini
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q012.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q013.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q014.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q015.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q016.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q017.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : bighorn
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q018.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : spaghetti squash
+ 0.00% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q019.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q020.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : coil
+ 0.00% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q021.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q022.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q023.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q024.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : zucchini
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q025.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : Leonberg
+ 0.00% : zucchini
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q026.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : bighorn
+ 0.00% : bull mastiff
+ 0.00% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q027.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q028.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q029.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q030.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q031.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q032.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q033.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : lakeside
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q034.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q035.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q036.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : bighorn
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q037.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q038.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : shopping basket
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q039.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q040.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q041.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q042.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q043.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q044.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q045.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : coil
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q046.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q047.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q048.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q049.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q050.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q051.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q052.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q053.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q054.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q055.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q056.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : shopping basket
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q057.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : shopping basket
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q058.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q059.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+ 0.00% : coil
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q060.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q061.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q062.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q063.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q064.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q065.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q066.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q067.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q068.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : butternut squash
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q069.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q070.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q071.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q072.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : butternut squash
+ 0.00% : bull mastiff
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q073.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q074.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q075.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q076.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : butternut squash
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q077.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q078.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q079.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q080.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q081.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q082.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q083.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : coil
+ 0.00% : grocery store
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q084.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q085.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q086.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : bighorn
+ 0.00% : Leonberg
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q087.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q088.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q089.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q090.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q091.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q092.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q093.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : rapeseed
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q094.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q095.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : rapeseed
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q096.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q097.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q098.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q099.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana15Q100.jpg
+100.00% : banana
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : Leonberg
+ 0.00% : bighorn
+ 0.00% : grocery store
+ 0.00% : coil
+ 0.00% : bull mastiff
+ 0.00% : butternut squash
+ 0.00% : rapeseed

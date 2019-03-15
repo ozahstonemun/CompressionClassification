@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q001.jpg
+91.19% : pineapple
+ 4.52% : custard apple
+ 0.35% : acorn
+ 0.06% : banana
+ 0.04% : muzzle
+ 0.04% : artichoke
+ 0.04% : cardoon
+ 0.03% : strawberry
+ 0.03% : knot
+ 0.02% : cocker spaniel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q002.jpg
+91.20% : pineapple
+ 4.52% : custard apple
+ 0.35% : acorn
+ 0.06% : banana
+ 0.04% : muzzle
+ 0.04% : artichoke
+ 0.04% : cardoon
+ 0.03% : strawberry
+ 0.03% : knot
+ 0.02% : cocker spaniel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q003.jpg
+92.52% : pineapple
+ 4.10% : custard apple
+ 0.49% : acorn
+ 0.04% : banana
+ 0.04% : muzzle
+ 0.03% : cardoon
+ 0.03% : artichoke
+ 0.02% : mosque
+ 0.02% : strawberry
+ 0.02% : water bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q004.jpg
+97.71% : pineapple
+ 0.16% : custard apple
+ 0.06% : acorn
+ 0.02% : banana
+ 0.02% : window screen
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : orange
+ 0.01% : Egyptian cat
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q005.jpg
+94.70% : pineapple
+ 1.12% : custard apple
+ 0.19% : acorn
+ 0.05% : banana
+ 0.03% : muzzle
+ 0.03% : Egyptian cat
+ 0.03% : ear
+ 0.02% : water bottle
+ 0.02% : cardoon
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q006.jpg
+97.36% : pineapple
+ 0.36% : custard apple
+ 0.11% : acorn
+ 0.05% : banana
+ 0.02% : ear
+ 0.02% : seat belt
+ 0.01% : cardoon
+ 0.01% : muzzle
+ 0.01% : strawberry
+ 0.01% : seashore
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q007.jpg
+97.18% : pineapple
+ 0.34% : custard apple
+ 0.10% : acorn
+ 0.04% : banana
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.01% : binder
+ 0.01% : orange
+ 0.01% : Egyptian cat
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q008.jpg
+95.48% : pineapple
+ 0.69% : custard apple
+ 0.11% : acorn
+ 0.09% : banana
+ 0.03% : cardoon
+ 0.03% : Egyptian cat
+ 0.03% : orange
+ 0.02% : strawberry
+ 0.02% : seashore
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q009.jpg
+97.17% : pineapple
+ 0.31% : custard apple
+ 0.06% : acorn
+ 0.04% : banana
+ 0.02% : cardoon
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : artichoke
+ 0.01% : orange
+ 0.01% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q010.jpg
+96.24% : pineapple
+ 0.29% : custard apple
+ 0.07% : acorn
+ 0.05% : banana
+ 0.03% : cardoon
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : artichoke
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q011.jpg
+96.65% : pineapple
+ 0.32% : custard apple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : binder
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q012.jpg
+96.70% : pineapple
+ 0.30% : custard apple
+ 0.05% : acorn
+ 0.04% : banana
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : Egyptian cat
+ 0.02% : orange
+ 0.02% : binder
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q013.jpg
+96.28% : pineapple
+ 0.33% : custard apple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : binder
+ 0.02% : muzzle
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q014.jpg
+96.69% : pineapple
+ 0.33% : custard apple
+ 0.06% : acorn
+ 0.05% : banana
+ 0.03% : cardoon
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : artichoke
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q015.jpg
+96.71% : pineapple
+ 0.39% : custard apple
+ 0.07% : acorn
+ 0.04% : banana
+ 0.02% : cardoon
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : artichoke
+ 0.02% : binder
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q016.jpg
+96.59% : pineapple
+ 0.29% : custard apple
+ 0.09% : acorn
+ 0.05% : banana
+ 0.03% : cardoon
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : muzzle
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q017.jpg
+97.24% : pineapple
+ 0.19% : custard apple
+ 0.07% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.01% : seashore
+ 0.01% : orange
+ 0.01% : muzzle
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q018.jpg
+96.21% : pineapple
+ 0.29% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : binder
+ 0.02% : window screen
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q019.jpg
+95.63% : pineapple
+ 0.35% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.04% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : agaric
+ 0.02% : artichoke
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q020.jpg
+95.55% : pineapple
+ 0.34% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.04% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : artichoke
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q021.jpg
+96.53% : pineapple
+ 0.24% : custard apple
+ 0.10% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q022.jpg
+95.78% : pineapple
+ 0.25% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.04% : Egyptian cat
+ 0.03% : cardoon
+ 0.03% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q023.jpg
+96.33% : pineapple
+ 0.25% : custard apple
+ 0.10% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : artichoke
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q024.jpg
+96.37% : pineapple
+ 0.23% : custard apple
+ 0.10% : acorn
+ 0.04% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q025.jpg
+95.74% : pineapple
+ 0.30% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : cardoon
+ 0.03% : Egyptian cat
+ 0.03% : seashore
+ 0.02% : muzzle
+ 0.02% : artichoke
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q026.jpg
+95.19% : pineapple
+ 0.38% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.04% : Egyptian cat
+ 0.04% : cardoon
+ 0.03% : artichoke
+ 0.03% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q027.jpg
+96.76% : pineapple
+ 0.19% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : artichoke
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q028.jpg
+96.34% : pineapple
+ 0.21% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q029.jpg
+96.13% : pineapple
+ 0.23% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : window screen
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q030.jpg
+96.09% : pineapple
+ 0.30% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : artichoke
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q031.jpg
+96.10% : pineapple
+ 0.24% : custard apple
+ 0.16% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : strawberry
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q032.jpg
+96.75% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : window screen
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q033.jpg
+96.55% : pineapple
+ 0.25% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.03% : cardoon
+ 0.02% : seashore
+ 0.02% : artichoke
+ 0.02% : muzzle
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q034.jpg
+96.75% : pineapple
+ 0.21% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : strawberry
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q035.jpg
+96.73% : pineapple
+ 0.21% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : artichoke
+ 0.02% : strawberry
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q036.jpg
+96.93% : pineapple
+ 0.15% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : muzzle
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q037.jpg
+97.07% : pineapple
+ 0.14% : custard apple
+ 0.11% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.01% : muzzle
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q038.jpg
+97.26% : pineapple
+ 0.16% : custard apple
+ 0.10% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.01% : orange
+ 0.01% : strawberry
+ 0.01% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q039.jpg
+97.21% : pineapple
+ 0.16% : custard apple
+ 0.09% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.01% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q040.jpg
+97.20% : pineapple
+ 0.17% : custard apple
+ 0.09% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.01% : strawberry
+ 0.01% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q041.jpg
+97.02% : pineapple
+ 0.20% : custard apple
+ 0.11% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.01% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q042.jpg
+96.81% : pineapple
+ 0.23% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q043.jpg
+96.66% : pineapple
+ 0.24% : custard apple
+ 0.15% : acorn
+ 0.06% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : window screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q044.jpg
+97.29% : pineapple
+ 0.17% : custard apple
+ 0.11% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : orange
+ 0.01% : muzzle
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q045.jpg
+97.22% : pineapple
+ 0.17% : custard apple
+ 0.11% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.01% : muzzle
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q046.jpg
+96.88% : pineapple
+ 0.20% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q047.jpg
+96.82% : pineapple
+ 0.21% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q048.jpg
+96.88% : pineapple
+ 0.19% : custard apple
+ 0.11% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q049.jpg
+96.83% : pineapple
+ 0.20% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q050.jpg
+96.83% : pineapple
+ 0.19% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q051.jpg
+96.81% : pineapple
+ 0.20% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q052.jpg
+96.64% : pineapple
+ 0.20% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q053.jpg
+96.83% : pineapple
+ 0.18% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q054.jpg
+96.92% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.01% : strawberry
+ 0.01% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q055.jpg
+97.42% : pineapple
+ 0.15% : custard apple
+ 0.11% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : orange
+ 0.01% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q056.jpg
+97.23% : pineapple
+ 0.16% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : orange
+ 0.01% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q057.jpg
+97.09% : pineapple
+ 0.17% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : orange
+ 0.01% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q058.jpg
+96.87% : pineapple
+ 0.19% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q059.jpg
+96.99% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q060.jpg
+97.01% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q061.jpg
+97.07% : pineapple
+ 0.15% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : orange
+ 0.01% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q062.jpg
+96.91% : pineapple
+ 0.17% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q063.jpg
+97.01% : pineapple
+ 0.17% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q064.jpg
+97.02% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : binder
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q065.jpg
+96.79% : pineapple
+ 0.21% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q066.jpg
+96.72% : pineapple
+ 0.22% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : artichoke
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q067.jpg
+96.71% : pineapple
+ 0.23% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : artichoke
+ 0.02% : strawberry
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q068.jpg
+96.57% : pineapple
+ 0.25% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : artichoke
+ 0.02% : strawberry
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q069.jpg
+96.74% : pineapple
+ 0.22% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : binder
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q070.jpg
+97.05% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.01% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q071.jpg
+97.05% : pineapple
+ 0.18% : custard apple
+ 0.12% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : binder
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q072.jpg
+96.88% : pineapple
+ 0.20% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : muzzle
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q073.jpg
+96.64% : pineapple
+ 0.23% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : binder
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q074.jpg
+96.52% : pineapple
+ 0.22% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q075.jpg
+96.48% : pineapple
+ 0.22% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q076.jpg
+96.52% : pineapple
+ 0.21% : custard apple
+ 0.16% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q077.jpg
+96.84% : pineapple
+ 0.19% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : binder
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q078.jpg
+96.99% : pineapple
+ 0.18% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : binder
+ 0.02% : strawberry
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q079.jpg
+97.03% : pineapple
+ 0.18% : custard apple
+ 0.13% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : binder
+ 0.02% : strawberry
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q080.jpg
+96.96% : pineapple
+ 0.18% : custard apple
+ 0.14% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : orange
+ 0.02% : strawberry
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q081.jpg
+96.78% : pineapple
+ 0.18% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q082.jpg
+96.68% : pineapple
+ 0.19% : custard apple
+ 0.16% : acorn
+ 0.05% : banana
+ 0.03% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q083.jpg
+96.89% : pineapple
+ 0.18% : custard apple
+ 0.16% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : muzzle
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q084.jpg
+96.94% : pineapple
+ 0.19% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q085.jpg
+97.02% : pineapple
+ 0.17% : custard apple
+ 0.14% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : strawberry
+ 0.01% : orange
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q086.jpg
+97.08% : pineapple
+ 0.17% : custard apple
+ 0.13% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.01% : orange
+ 0.01% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q087.jpg
+97.03% : pineapple
+ 0.17% : custard apple
+ 0.15% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q088.jpg
+97.11% : pineapple
+ 0.16% : custard apple
+ 0.14% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.01% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q089.jpg
+96.90% : pineapple
+ 0.18% : custard apple
+ 0.16% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : orange
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q090.jpg
+97.06% : pineapple
+ 0.18% : custard apple
+ 0.13% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.01% : binder
+ 0.01% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q091.jpg
+97.31% : pineapple
+ 0.15% : custard apple
+ 0.12% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : strawberry
+ 0.01% : orange
+ 0.01% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q092.jpg
+97.24% : pineapple
+ 0.16% : custard apple
+ 0.13% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.01% : strawberry
+ 0.01% : muzzle
+ 0.01% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q093.jpg
+96.92% : pineapple
+ 0.18% : custard apple
+ 0.17% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : seashore
+ 0.02% : cardoon
+ 0.02% : strawberry
+ 0.02% : muzzle
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q094.jpg
+96.87% : pineapple
+ 0.18% : custard apple
+ 0.17% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : muzzle
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q095.jpg
+97.04% : pineapple
+ 0.17% : custard apple
+ 0.15% : acorn
+ 0.04% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.01% : binder
+ 0.01% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q096.jpg
+96.89% : pineapple
+ 0.19% : custard apple
+ 0.17% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : muzzle
+ 0.02% : strawberry
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q097.jpg
+96.91% : pineapple
+ 0.18% : custard apple
+ 0.17% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : muzzle
+ 0.02% : binder
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q098.jpg
+96.88% : pineapple
+ 0.18% : custard apple
+ 0.16% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : binder
+ 0.02% : muzzle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q099.jpg
+96.89% : pineapple
+ 0.18% : custard apple
+ 0.17% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : binder
+ 0.02% : muzzle
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/pineapples/pineapple4Q100.jpg
+96.85% : pineapple
+ 0.19% : custard apple
+ 0.17% : acorn
+ 0.05% : banana
+ 0.02% : Egyptian cat
+ 0.02% : cardoon
+ 0.02% : seashore
+ 0.02% : strawberry
+ 0.02% : binder
+ 0.02% : muzzle

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q001.jpg
+96.53% : head cabbage
+ 1.61% : acorn squash
+ 0.18% : custard apple
+ 0.14% : cauliflower
+ 0.07% : spaghetti squash
+ 0.05% : grocery store
+ 0.04% : bell pepper
+ 0.03% : artichoke
+ 0.03% : shower cap
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q002.jpg
+96.56% : head cabbage
+ 1.61% : acorn squash
+ 0.18% : custard apple
+ 0.13% : cauliflower
+ 0.07% : spaghetti squash
+ 0.05% : grocery store
+ 0.04% : bell pepper
+ 0.03% : artichoke
+ 0.03% : shower cap
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q003.jpg
+96.04% : head cabbage
+ 1.53% : acorn squash
+ 0.19% : custard apple
+ 0.16% : cauliflower
+ 0.07% : shower cap
+ 0.07% : spaghetti squash
+ 0.06% : grocery store
+ 0.04% : bell pepper
+ 0.03% : artichoke
+ 0.03% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q004.jpg
+95.90% : head cabbage
+ 0.22% : cauliflower
+ 0.21% : acorn squash
+ 0.13% : cucumber
+ 0.12% : custard apple
+ 0.12% : grocery store
+ 0.10% : spaghetti squash
+ 0.05% : fig
+ 0.05% : artichoke
+ 0.05% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q005.jpg
+99.27% : head cabbage
+ 0.06% : cauliflower
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.02% : cucumber
+ 0.01% : custard apple
+ 0.01% : spaghetti squash
+ 0.01% : butternut squash
+ 0.01% : lemon
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q006.jpg
+99.19% : head cabbage
+ 0.09% : cauliflower
+ 0.02% : custard apple
+ 0.01% : cucumber
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : plastic bag
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q007.jpg
+99.21% : head cabbage
+ 0.07% : cauliflower
+ 0.04% : custard apple
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.02% : cucumber
+ 0.01% : fig
+ 0.01% : spaghetti squash
+ 0.01% : artichoke
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q008.jpg
+99.07% : head cabbage
+ 0.07% : cauliflower
+ 0.04% : custard apple
+ 0.02% : cucumber
+ 0.01% : artichoke
+ 0.01% : fig
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : shield
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q009.jpg
+96.99% : head cabbage
+ 0.16% : cauliflower
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : cucumber
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.02% : bell pepper
+ 0.02% : velvet
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q010.jpg
+97.59% : head cabbage
+ 0.15% : cauliflower
+ 0.06% : custard apple
+ 0.04% : artichoke
+ 0.03% : cucumber
+ 0.03% : grocery store
+ 0.02% : fig
+ 0.02% : bell pepper
+ 0.01% : acorn squash
+ 0.01% : hen-of-the-woods
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q011.jpg
+96.85% : head cabbage
+ 0.21% : cauliflower
+ 0.14% : custard apple
+ 0.04% : artichoke
+ 0.04% : cucumber
+ 0.03% : grocery store
+ 0.03% : shield
+ 0.03% : fig
+ 0.03% : acorn squash
+ 0.02% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q012.jpg
+96.85% : head cabbage
+ 0.17% : cauliflower
+ 0.16% : custard apple
+ 0.05% : artichoke
+ 0.04% : cucumber
+ 0.04% : grocery store
+ 0.03% : fig
+ 0.03% : shield
+ 0.03% : bell pepper
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q013.jpg
+97.27% : head cabbage
+ 0.15% : cauliflower
+ 0.05% : cucumber
+ 0.05% : custard apple
+ 0.04% : artichoke
+ 0.04% : grocery store
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : acorn squash
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q014.jpg
+96.20% : head cabbage
+ 0.25% : cauliflower
+ 0.07% : cucumber
+ 0.05% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.03% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q015.jpg
+97.60% : head cabbage
+ 0.17% : cauliflower
+ 0.04% : grocery store
+ 0.04% : cucumber
+ 0.03% : artichoke
+ 0.02% : custard apple
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.01% : cleaver
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q016.jpg
+97.75% : head cabbage
+ 0.17% : cauliflower
+ 0.05% : cucumber
+ 0.04% : grocery store
+ 0.03% : custard apple
+ 0.02% : artichoke
+ 0.02% : bell pepper
+ 0.01% : fig
+ 0.01% : shield
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q017.jpg
+96.58% : head cabbage
+ 0.22% : cauliflower
+ 0.06% : cucumber
+ 0.05% : custard apple
+ 0.04% : grocery store
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : acorn squash
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q018.jpg
+96.76% : head cabbage
+ 0.20% : cauliflower
+ 0.05% : cucumber
+ 0.05% : custard apple
+ 0.04% : grocery store
+ 0.03% : artichoke
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.02% : fig
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q019.jpg
+97.48% : head cabbage
+ 0.15% : cauliflower
+ 0.04% : custard apple
+ 0.03% : grocery store
+ 0.03% : artichoke
+ 0.03% : cucumber
+ 0.02% : shield
+ 0.02% : bell pepper
+ 0.02% : cleaver
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q020.jpg
+96.34% : head cabbage
+ 0.21% : cauliflower
+ 0.05% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q021.jpg
+96.76% : head cabbage
+ 0.21% : cauliflower
+ 0.05% : cucumber
+ 0.04% : grocery store
+ 0.03% : custard apple
+ 0.03% : artichoke
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q022.jpg
+95.71% : head cabbage
+ 0.28% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.03% : cleaver
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q023.jpg
+96.75% : head cabbage
+ 0.23% : cauliflower
+ 0.04% : cucumber
+ 0.04% : grocery store
+ 0.03% : custard apple
+ 0.03% : artichoke
+ 0.02% : cleaver
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q024.jpg
+96.49% : head cabbage
+ 0.21% : cauliflower
+ 0.06% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q025.jpg
+96.11% : head cabbage
+ 0.26% : cauliflower
+ 0.06% : cucumber
+ 0.05% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q026.jpg
+96.40% : head cabbage
+ 0.24% : cauliflower
+ 0.06% : grocery store
+ 0.05% : cucumber
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : cleaver
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q027.jpg
+96.20% : head cabbage
+ 0.23% : cauliflower
+ 0.06% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : cleaver
+ 0.02% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q028.jpg
+96.40% : head cabbage
+ 0.24% : cauliflower
+ 0.06% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : cleaver
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q029.jpg
+96.11% : head cabbage
+ 0.26% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.02% : custard apple
+ 0.02% : cleaver
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q030.jpg
+95.96% : head cabbage
+ 0.27% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q031.jpg
+95.71% : head cabbage
+ 0.28% : cauliflower
+ 0.12% : cucumber
+ 0.07% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : cleaver
+ 0.02% : broccoli
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q032.jpg
+95.88% : head cabbage
+ 0.28% : cauliflower
+ 0.11% : cucumber
+ 0.07% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : custard apple
+ 0.02% : cleaver
+ 0.02% : broccoli
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q033.jpg
+94.87% : head cabbage
+ 0.33% : cauliflower
+ 0.14% : cucumber
+ 0.08% : grocery store
+ 0.04% : artichoke
+ 0.04% : bell pepper
+ 0.03% : custard apple
+ 0.03% : broccoli
+ 0.03% : shield
+ 0.03% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q034.jpg
+96.41% : head cabbage
+ 0.23% : cauliflower
+ 0.07% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q035.jpg
+96.14% : head cabbage
+ 0.24% : cauliflower
+ 0.07% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q036.jpg
+95.65% : head cabbage
+ 0.30% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.04% : bell pepper
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q037.jpg
+95.52% : head cabbage
+ 0.30% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.04% : bell pepper
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q038.jpg
+95.93% : head cabbage
+ 0.27% : cauliflower
+ 0.08% : cucumber
+ 0.07% : grocery store
+ 0.04% : artichoke
+ 0.04% : bell pepper
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : cleaver
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q039.jpg
+95.51% : head cabbage
+ 0.28% : cauliflower
+ 0.09% : cucumber
+ 0.08% : grocery store
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.04% : custard apple
+ 0.03% : shield
+ 0.03% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q040.jpg
+95.62% : head cabbage
+ 0.29% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.05% : custard apple
+ 0.04% : artichoke
+ 0.04% : bell pepper
+ 0.03% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q041.jpg
+95.46% : head cabbage
+ 0.31% : cauliflower
+ 0.11% : cucumber
+ 0.08% : grocery store
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.04% : custard apple
+ 0.03% : broccoli
+ 0.03% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q042.jpg
+96.16% : head cabbage
+ 0.28% : cauliflower
+ 0.08% : cucumber
+ 0.07% : grocery store
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q043.jpg
+96.10% : head cabbage
+ 0.27% : cauliflower
+ 0.08% : cucumber
+ 0.07% : grocery store
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q044.jpg
+95.35% : head cabbage
+ 0.28% : cauliflower
+ 0.07% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.04% : custard apple
+ 0.04% : bell pepper
+ 0.03% : shield
+ 0.02% : cleaver
+ 0.02% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q045.jpg
+95.42% : head cabbage
+ 0.27% : cauliflower
+ 0.07% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.04% : bell pepper
+ 0.04% : custard apple
+ 0.03% : shield
+ 0.02% : velvet
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q046.jpg
+95.70% : head cabbage
+ 0.29% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.04% : artichoke
+ 0.04% : custard apple
+ 0.04% : bell pepper
+ 0.03% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q047.jpg
+95.71% : head cabbage
+ 0.29% : cauliflower
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.04% : artichoke
+ 0.04% : custard apple
+ 0.04% : bell pepper
+ 0.03% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q048.jpg
+95.70% : head cabbage
+ 0.29% : cauliflower
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.04% : artichoke
+ 0.04% : bell pepper
+ 0.04% : custard apple
+ 0.03% : shield
+ 0.03% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q049.jpg
+95.53% : head cabbage
+ 0.31% : cauliflower
+ 0.11% : cucumber
+ 0.07% : grocery store
+ 0.05% : custard apple
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.03% : broccoli
+ 0.03% : shield
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q050.jpg
+95.53% : head cabbage
+ 0.31% : cauliflower
+ 0.11% : cucumber
+ 0.07% : grocery store
+ 0.05% : custard apple
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.03% : broccoli
+ 0.03% : shield
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q051.jpg
+95.53% : head cabbage
+ 0.31% : cauliflower
+ 0.11% : cucumber
+ 0.07% : grocery store
+ 0.05% : custard apple
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.03% : broccoli
+ 0.02% : shield
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q052.jpg
+95.99% : head cabbage
+ 0.30% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.04% : bell pepper
+ 0.03% : custard apple
+ 0.03% : artichoke
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q053.jpg
+96.20% : head cabbage
+ 0.28% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.03% : artichoke
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q054.jpg
+96.21% : head cabbage
+ 0.28% : cauliflower
+ 0.10% : cucumber
+ 0.06% : grocery store
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q055.jpg
+96.38% : head cabbage
+ 0.24% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q056.jpg
+96.64% : head cabbage
+ 0.22% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q057.jpg
+96.40% : head cabbage
+ 0.23% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : pot
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q058.jpg
+96.24% : head cabbage
+ 0.26% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q059.jpg
+96.28% : head cabbage
+ 0.26% : cauliflower
+ 0.09% : cucumber
+ 0.05% : grocery store
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q060.jpg
+96.20% : head cabbage
+ 0.26% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.04% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q061.jpg
+96.46% : head cabbage
+ 0.24% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q062.jpg
+96.63% : head cabbage
+ 0.23% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q063.jpg
+96.82% : head cabbage
+ 0.22% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q064.jpg
+96.59% : head cabbage
+ 0.24% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q065.jpg
+96.18% : head cabbage
+ 0.25% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q066.jpg
+95.95% : head cabbage
+ 0.27% : cauliflower
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.04% : bell pepper
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q067.jpg
+96.11% : head cabbage
+ 0.26% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q068.jpg
+96.24% : head cabbage
+ 0.26% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q069.jpg
+96.32% : head cabbage
+ 0.25% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q070.jpg
+96.31% : head cabbage
+ 0.24% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q071.jpg
+96.73% : head cabbage
+ 0.23% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.03% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q072.jpg
+96.69% : head cabbage
+ 0.22% : cauliflower
+ 0.08% : cucumber
+ 0.05% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q073.jpg
+96.46% : head cabbage
+ 0.24% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : broccoli
+ 0.02% : cleaver
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q074.jpg
+96.52% : head cabbage
+ 0.23% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : pot
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q075.jpg
+96.56% : head cabbage
+ 0.23% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : pot
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q076.jpg
+96.55% : head cabbage
+ 0.23% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : shield
+ 0.02% : cleaver
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q077.jpg
+96.60% : head cabbage
+ 0.24% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : bell pepper
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.02% : broccoli
+ 0.02% : shield
+ 0.02% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q078.jpg
+96.37% : head cabbage
+ 0.25% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : velvet
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q079.jpg
+96.48% : head cabbage
+ 0.24% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : custard apple
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : velvet
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q080.jpg
+96.42% : head cabbage
+ 0.24% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.03% : custard apple
+ 0.02% : velvet
+ 0.02% : broccoli
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q081.jpg
+96.46% : head cabbage
+ 0.25% : cauliflower
+ 0.08% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : fig
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q082.jpg
+96.54% : head cabbage
+ 0.25% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : broccoli
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q083.jpg
+96.56% : head cabbage
+ 0.25% : cauliflower
+ 0.10% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : broccoli
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q084.jpg
+96.63% : head cabbage
+ 0.23% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q085.jpg
+96.65% : head cabbage
+ 0.23% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : fig
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q086.jpg
+96.79% : head cabbage
+ 0.23% : cauliflower
+ 0.09% : cucumber
+ 0.05% : grocery store
+ 0.03% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q087.jpg
+96.84% : head cabbage
+ 0.24% : cauliflower
+ 0.10% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q088.jpg
+96.42% : head cabbage
+ 0.26% : cauliflower
+ 0.11% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q089.jpg
+96.36% : head cabbage
+ 0.25% : cauliflower
+ 0.11% : cucumber
+ 0.07% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : broccoli
+ 0.02% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q090.jpg
+96.14% : head cabbage
+ 0.26% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : broccoli
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q091.jpg
+96.46% : head cabbage
+ 0.23% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : shield
+ 0.02% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q092.jpg
+96.23% : head cabbage
+ 0.24% : cauliflower
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.07% : custard apple
+ 0.04% : artichoke
+ 0.03% : fig
+ 0.03% : bell pepper
+ 0.02% : shield
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q093.jpg
+96.20% : head cabbage
+ 0.25% : cauliflower
+ 0.10% : cucumber
+ 0.08% : grocery store
+ 0.07% : custard apple
+ 0.04% : artichoke
+ 0.03% : fig
+ 0.03% : bell pepper
+ 0.02% : pot
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q094.jpg
+96.71% : head cabbage
+ 0.22% : cauliflower
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.06% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.03% : fig
+ 0.02% : pot
+ 0.02% : shield
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q095.jpg
+96.81% : head cabbage
+ 0.22% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.05% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.03% : fig
+ 0.02% : shield
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q096.jpg
+96.81% : head cabbage
+ 0.22% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : shield
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q097.jpg
+96.81% : head cabbage
+ 0.22% : cauliflower
+ 0.09% : cucumber
+ 0.06% : grocery store
+ 0.04% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : shield
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q098.jpg
+96.64% : head cabbage
+ 0.23% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.05% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : shield
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q099.jpg
+96.72% : head cabbage
+ 0.22% : cauliflower
+ 0.10% : cucumber
+ 0.07% : grocery store
+ 0.05% : custard apple
+ 0.03% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : shield
+ 0.02% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage41Q100.jpg
+96.65% : head cabbage
+ 0.22% : cauliflower
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.04% : custard apple
+ 0.04% : artichoke
+ 0.03% : bell pepper
+ 0.02% : fig
+ 0.02% : shield
+ 0.02% : pot

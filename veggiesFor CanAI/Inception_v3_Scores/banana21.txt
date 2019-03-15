@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q001.jpg
+96.43% : banana
+ 0.23% : hook
+ 0.20% : spaghetti squash
+ 0.15% : nematode
+ 0.14% : slug
+ 0.12% : butternut squash
+ 0.10% : mouse
+ 0.08% : zucchini
+ 0.05% : king penguin
+ 0.05% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q002.jpg
+96.46% : banana
+ 0.23% : hook
+ 0.20% : spaghetti squash
+ 0.15% : nematode
+ 0.13% : slug
+ 0.12% : butternut squash
+ 0.10% : mouse
+ 0.08% : zucchini
+ 0.05% : king penguin
+ 0.05% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q003.jpg
+95.99% : banana
+ 0.27% : nematode
+ 0.26% : spaghetti squash
+ 0.26% : slug
+ 0.25% : hook
+ 0.12% : butternut squash
+ 0.10% : zucchini
+ 0.07% : eel
+ 0.07% : flatworm
+ 0.04% : corkscrew
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q004.jpg
+96.94% : banana
+ 0.32% : slug
+ 0.27% : butternut squash
+ 0.18% : spaghetti squash
+ 0.15% : hook
+ 0.08% : nematode
+ 0.08% : zucchini
+ 0.05% : corn
+ 0.04% : sax
+ 0.04% : eel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q005.jpg
+95.27% : banana
+ 0.45% : hook
+ 0.16% : spaghetti squash
+ 0.15% : slug
+ 0.08% : zucchini
+ 0.07% : frying pan
+ 0.06% : butternut squash
+ 0.05% : eel
+ 0.05% : nematode
+ 0.05% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q006.jpg
+98.81% : banana
+ 0.11% : butternut squash
+ 0.08% : spaghetti squash
+ 0.07% : slug
+ 0.05% : zucchini
+ 0.02% : corn
+ 0.02% : hook
+ 0.02% : canoe
+ 0.01% : eel
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q007.jpg
+98.72% : banana
+ 0.29% : slug
+ 0.15% : spaghetti squash
+ 0.09% : butternut squash
+ 0.04% : nematode
+ 0.04% : eel
+ 0.03% : zucchini
+ 0.01% : hook
+ 0.01% : flatworm
+ 0.01% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q008.jpg
+98.32% : banana
+ 0.24% : slug
+ 0.17% : spaghetti squash
+ 0.06% : butternut squash
+ 0.05% : zucchini
+ 0.04% : eel
+ 0.02% : nematode
+ 0.02% : paddle
+ 0.02% : lemon
+ 0.02% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q009.jpg
+99.56% : banana
+ 0.08% : slug
+ 0.04% : spaghetti squash
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : eel
+ 0.00% : lemon
+ 0.00% : nematode
+ 0.00% : orange
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q010.jpg
+99.71% : banana
+ 0.03% : spaghetti squash
+ 0.02% : slug
+ 0.01% : butternut squash
+ 0.01% : paddle
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.00% : eel
+ 0.00% : orange
+ 0.00% : can opener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q011.jpg
+98.98% : banana
+ 0.09% : slug
+ 0.09% : spaghetti squash
+ 0.04% : zucchini
+ 0.03% : butternut squash
+ 0.03% : eel
+ 0.02% : paddle
+ 0.01% : lemon
+ 0.01% : orange
+ 0.01% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q012.jpg
+98.83% : banana
+ 0.09% : spaghetti squash
+ 0.08% : slug
+ 0.05% : zucchini
+ 0.05% : butternut squash
+ 0.02% : paddle
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : eel
+ 0.01% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q013.jpg
+99.69% : banana
+ 0.03% : spaghetti squash
+ 0.01% : slug
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : orange
+ 0.00% : eel
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q014.jpg
+99.73% : banana
+ 0.02% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : butternut squash
+ 0.01% : slug
+ 0.00% : orange
+ 0.00% : king penguin
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q015.jpg
+99.38% : banana
+ 0.06% : spaghetti squash
+ 0.02% : butternut squash
+ 0.02% : zucchini
+ 0.02% : slug
+ 0.01% : canoe
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.01% : orange
+ 0.01% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q016.jpg
+99.45% : banana
+ 0.06% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : slug
+ 0.02% : zucchini
+ 0.02% : paddle
+ 0.01% : canoe
+ 0.01% : lemon
+ 0.01% : orange
+ 0.01% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q017.jpg
+99.54% : banana
+ 0.06% : spaghetti squash
+ 0.02% : butternut squash
+ 0.02% : zucchini
+ 0.01% : slug
+ 0.01% : orange
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : king penguin
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q018.jpg
+99.45% : banana
+ 0.05% : spaghetti squash
+ 0.02% : zucchini
+ 0.01% : slug
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.01% : canoe
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q019.jpg
+99.67% : banana
+ 0.03% : spaghetti squash
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : orange
+ 0.01% : lemon
+ 0.00% : paddle
+ 0.00% : canoe
+ 0.00% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q020.jpg
+99.42% : banana
+ 0.05% : spaghetti squash
+ 0.02% : zucchini
+ 0.02% : butternut squash
+ 0.01% : slug
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.00% : ocarina
+ 0.00% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q021.jpg
+99.46% : banana
+ 0.06% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.01% : hook
+ 0.00% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q022.jpg
+99.67% : banana
+ 0.03% : spaghetti squash
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : orange
+ 0.01% : lemon
+ 0.00% : paddle
+ 0.00% : canoe
+ 0.00% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q023.jpg
+99.49% : banana
+ 0.06% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.00% : flatworm
+ 0.00% : acorn squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q024.jpg
+99.38% : banana
+ 0.05% : spaghetti squash
+ 0.02% : zucchini
+ 0.01% : slug
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : flatworm
+ 0.01% : king penguin
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q025.jpg
+99.67% : banana
+ 0.03% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : slug
+ 0.00% : lemon
+ 0.00% : pineapple
+ 0.00% : king penguin
+ 0.00% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q026.jpg
+99.68% : banana
+ 0.03% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : butternut squash
+ 0.00% : lemon
+ 0.00% : pineapple
+ 0.00% : canoe
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q027.jpg
+99.74% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : slug
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q028.jpg
+99.72% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : slug
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q029.jpg
+99.65% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : lemon
+ 0.01% : butternut squash
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q030.jpg
+99.78% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : flatworm
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q031.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : orange
+ 0.01% : slug
+ 0.01% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q032.jpg
+99.69% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : lemon
+ 0.01% : butternut squash
+ 0.00% : flatworm
+ 0.00% : canoe
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q033.jpg
+99.77% : banana
+ 0.02% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : orange
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : king penguin
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q034.jpg
+99.80% : banana
+ 0.02% : spaghetti squash
+ 0.01% : slug
+ 0.01% : zucchini
+ 0.01% : orange
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : flatworm
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q035.jpg
+99.81% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : slug
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : flatworm
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q036.jpg
+99.83% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q037.jpg
+99.84% : banana
+ 0.01% : spaghetti squash
+ 0.00% : orange
+ 0.00% : zucchini
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q038.jpg
+99.76% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : slug
+ 0.01% : zucchini
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q039.jpg
+99.76% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q040.jpg
+99.71% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q041.jpg
+99.77% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q042.jpg
+99.78% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : slug
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q043.jpg
+99.78% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : pineapple
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q044.jpg
+99.73% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : slug
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q045.jpg
+99.74% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : lemon
+ 0.00% : slug
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q046.jpg
+99.68% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q047.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q048.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q049.jpg
+99.78% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q050.jpg
+99.79% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q051.jpg
+99.78% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q052.jpg
+99.62% : banana
+ 0.03% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : butternut squash
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : lemon
+ 0.00% : slug
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q053.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : butternut squash
+ 0.01% : paddle
+ 0.00% : lemon
+ 0.00% : slug
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q054.jpg
+99.64% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : butternut squash
+ 0.01% : paddle
+ 0.00% : lemon
+ 0.00% : slug
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q055.jpg
+99.76% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q056.jpg
+99.76% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q057.jpg
+99.70% : banana
+ 0.02% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : orange
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : paddle
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q058.jpg
+99.68% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q059.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : lemon
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q060.jpg
+99.65% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q061.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : slug
+ 0.00% : paddle
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q062.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : slug
+ 0.01% : paddle
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q063.jpg
+99.66% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : slug
+ 0.01% : paddle
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q064.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q065.jpg
+99.60% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.01% : canoe
+ 0.00% : slug
+ 0.00% : hornbill
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q066.jpg
+99.56% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : slug
+ 0.01% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q067.jpg
+99.58% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q068.jpg
+99.50% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : slug
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : hornbill
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q069.jpg
+99.50% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : slug
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : hornbill
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q070.jpg
+99.58% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : zucchini
+ 0.01% : slug
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.00% : hornbill
+ 0.00% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q071.jpg
+99.66% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : zucchini
+ 0.00% : canoe
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : hornbill
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q072.jpg
+99.69% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : paddle
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q073.jpg
+99.68% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : slug
+ 0.00% : canoe
+ 0.00% : butternut squash
+ 0.00% : hornbill
+ 0.00% : paddle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q074.jpg
+99.70% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q075.jpg
+99.70% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q076.jpg
+99.65% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : slug
+ 0.00% : paddle
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q077.jpg
+99.70% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.00% : slug
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q078.jpg
+99.64% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : slug
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q079.jpg
+99.63% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : canoe
+ 0.01% : zucchini
+ 0.01% : paddle
+ 0.01% : slug
+ 0.01% : lemon
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q080.jpg
+99.52% : banana
+ 0.02% : spaghetti squash
+ 0.01% : canoe
+ 0.01% : orange
+ 0.01% : paddle
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q081.jpg
+99.57% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q082.jpg
+99.57% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : hook
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q083.jpg
+99.68% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : lemon
+ 0.01% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q084.jpg
+99.71% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.00% : lemon
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q085.jpg
+99.66% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : slug
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q086.jpg
+99.68% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : slug
+ 0.01% : paddle
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q087.jpg
+99.68% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q088.jpg
+99.66% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : lemon
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : slug
+ 0.00% : hornbill
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q089.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.00% : slug
+ 0.00% : hornbill
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q090.jpg
+99.65% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q091.jpg
+99.63% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : hornbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q092.jpg
+99.67% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : paddle
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q093.jpg
+99.77% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q094.jpg
+99.77% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q095.jpg
+99.75% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q096.jpg
+99.73% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.00% : lemon
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q097.jpg
+99.72% : banana
+ 0.02% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : lemon
+ 0.01% : slug
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q098.jpg
+99.76% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : canoe
+ 0.00% : lemon
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q099.jpg
+99.74% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : slug
+ 0.00% : paddle
+ 0.00% : butternut squash
+ 0.00% : flatworm
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana21Q100.jpg
+99.77% : banana
+ 0.01% : spaghetti squash
+ 0.01% : orange
+ 0.00% : zucchini
+ 0.00% : lemon
+ 0.00% : canoe
+ 0.00% : paddle
+ 0.00% : slug
+ 0.00% : butternut squash
+ 0.00% : pineapple

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q001.jpg
+75.24% : meat loaf
+ 5.18% : packet
+ 3.71% : tray
+ 1.02% : strawberry
+ 0.79% : shopping basket
+ 0.28% : cucumber
+ 0.27% : hamper
+ 0.27% : pot
+ 0.26% : spaghetti squash
+ 0.26% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q002.jpg
+75.30% : meat loaf
+ 5.18% : packet
+ 3.73% : tray
+ 1.02% : strawberry
+ 0.78% : shopping basket
+ 0.28% : cucumber
+ 0.28% : hamper
+ 0.27% : pot
+ 0.26% : king crab
+ 0.26% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q003.jpg
+75.13% : meat loaf
+ 5.65% : packet
+ 4.25% : tray
+ 1.06% : strawberry
+ 0.49% : shopping basket
+ 0.37% : Dungeness crab
+ 0.27% : cucumber
+ 0.26% : king crab
+ 0.24% : hamper
+ 0.23% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q004.jpg
+35.53% : packet
+11.02% : strawberry
+ 7.09% : hamper
+ 7.00% : meat loaf
+ 6.23% : shopping basket
+ 1.33% : Granny Smith
+ 1.28% : grocery store
+ 1.12% : pineapple
+ 1.06% : jackfruit
+ 0.87% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q005.jpg
+43.56% : strawberry
+ 8.27% : packet
+ 4.96% : tray
+ 4.34% : meat loaf
+ 1.31% : shopping basket
+ 0.89% : hamper
+ 0.88% : pineapple
+ 0.74% : grocery store
+ 0.67% : crayfish
+ 0.65% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q006.jpg
+29.58% : strawberry
+22.88% : packet
+ 8.15% : meat loaf
+ 3.45% : tray
+ 3.04% : jackfruit
+ 1.70% : grocery store
+ 1.30% : shopping basket
+ 1.04% : hamper
+ 0.99% : confectionery
+ 0.85% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q007.jpg
+45.07% : strawberry
+13.61% : packet
+ 4.35% : meat loaf
+ 2.67% : tray
+ 1.53% : jackfruit
+ 1.44% : hamper
+ 1.25% : grocery store
+ 0.86% : confectionery
+ 0.81% : shopping basket
+ 0.66% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q008.jpg
+60.74% : strawberry
+14.00% : packet
+ 1.75% : meat loaf
+ 1.55% : tray
+ 0.94% : Granny Smith
+ 0.91% : hamper
+ 0.61% : grocery store
+ 0.54% : jackfruit
+ 0.52% : rubber eraser
+ 0.47% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q009.jpg
+38.70% : strawberry
+28.73% : packet
+ 3.13% : tray
+ 1.80% : meat loaf
+ 1.07% : shopping basket
+ 0.94% : hamper
+ 0.92% : grocery store
+ 0.91% : Granny Smith
+ 0.71% : rubber eraser
+ 0.68% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q010.jpg
+53.81% : strawberry
+15.64% : packet
+ 2.40% : meat loaf
+ 1.82% : tray
+ 1.26% : hamper
+ 1.09% : shopping basket
+ 1.03% : grocery store
+ 0.68% : Granny Smith
+ 0.58% : rubber eraser
+ 0.56% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q011.jpg
+65.34% : strawberry
+11.91% : packet
+ 2.10% : tray
+ 0.92% : shopping basket
+ 0.91% : grocery store
+ 0.86% : hamper
+ 0.83% : meat loaf
+ 0.54% : chocolate sauce
+ 0.51% : Granny Smith
+ 0.47% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q012.jpg
+78.76% : strawberry
+ 6.78% : packet
+ 1.54% : tray
+ 1.00% : grocery store
+ 0.62% : shopping basket
+ 0.47% : Granny Smith
+ 0.44% : chocolate sauce
+ 0.43% : meat loaf
+ 0.37% : hamper
+ 0.30% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q013.jpg
+46.06% : strawberry
+22.33% : packet
+ 1.88% : tray
+ 1.63% : meat loaf
+ 1.59% : grocery store
+ 1.30% : shopping basket
+ 0.89% : Granny Smith
+ 0.84% : hamper
+ 0.78% : rubber eraser
+ 0.72% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q014.jpg
+56.14% : strawberry
+21.91% : packet
+ 1.23% : shopping basket
+ 1.23% : grocery store
+ 1.05% : tray
+ 0.90% : rubber eraser
+ 0.82% : hamper
+ 0.65% : chocolate sauce
+ 0.63% : meat loaf
+ 0.63% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q015.jpg
+62.85% : strawberry
+16.39% : packet
+ 1.87% : grocery store
+ 1.30% : tray
+ 0.91% : rubber eraser
+ 0.85% : confectionery
+ 0.81% : shopping basket
+ 0.75% : fig
+ 0.59% : Granny Smith
+ 0.50% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q016.jpg
+59.64% : strawberry
+18.62% : packet
+ 1.81% : grocery store
+ 1.50% : tray
+ 1.29% : shopping basket
+ 0.98% : rubber eraser
+ 0.66% : meat loaf
+ 0.64% : Granny Smith
+ 0.61% : hamper
+ 0.59% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q017.jpg
+65.07% : strawberry
+13.08% : packet
+ 1.61% : grocery store
+ 1.34% : rubber eraser
+ 1.22% : shopping basket
+ 1.16% : tray
+ 0.63% : hamper
+ 0.62% : Granny Smith
+ 0.57% : meat loaf
+ 0.57% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q018.jpg
+76.59% : strawberry
+ 9.68% : packet
+ 0.93% : grocery store
+ 0.78% : shopping basket
+ 0.68% : tray
+ 0.45% : Granny Smith
+ 0.43% : rubber eraser
+ 0.40% : hamper
+ 0.34% : meat loaf
+ 0.34% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q019.jpg
+65.88% : strawberry
+13.40% : packet
+ 1.64% : grocery store
+ 0.89% : shopping basket
+ 0.87% : tray
+ 0.60% : meat loaf
+ 0.60% : fig
+ 0.59% : Granny Smith
+ 0.58% : chocolate sauce
+ 0.54% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q020.jpg
+70.73% : strawberry
+12.92% : packet
+ 1.67% : grocery store
+ 0.99% : shopping basket
+ 0.64% : tray
+ 0.57% : confectionery
+ 0.52% : hamper
+ 0.48% : rubber eraser
+ 0.46% : Granny Smith
+ 0.46% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q021.jpg
+65.55% : strawberry
+12.39% : packet
+ 1.46% : grocery store
+ 0.90% : tray
+ 0.78% : rubber eraser
+ 0.72% : meat loaf
+ 0.64% : confectionery
+ 0.59% : shopping basket
+ 0.53% : fig
+ 0.52% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q022.jpg
+63.05% : strawberry
+17.04% : packet
+ 1.78% : grocery store
+ 0.85% : shopping basket
+ 0.84% : tray
+ 0.66% : rubber eraser
+ 0.65% : Granny Smith
+ 0.62% : meat loaf
+ 0.53% : confectionery
+ 0.50% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q023.jpg
+66.99% : strawberry
+16.20% : packet
+ 1.54% : grocery store
+ 0.84% : tray
+ 0.83% : rubber eraser
+ 0.72% : shopping basket
+ 0.59% : confectionery
+ 0.57% : Granny Smith
+ 0.45% : hamper
+ 0.39% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q024.jpg
+63.71% : strawberry
+15.46% : packet
+ 1.62% : grocery store
+ 1.04% : shopping basket
+ 0.96% : rubber eraser
+ 0.84% : tray
+ 0.70% : confectionery
+ 0.69% : Granny Smith
+ 0.57% : hamper
+ 0.44% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q025.jpg
+73.93% : strawberry
+ 9.89% : packet
+ 1.24% : grocery store
+ 0.93% : rubber eraser
+ 0.70% : shopping basket
+ 0.61% : tray
+ 0.49% : Granny Smith
+ 0.47% : confectionery
+ 0.46% : chocolate sauce
+ 0.43% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q026.jpg
+73.37% : strawberry
+11.11% : packet
+ 1.52% : grocery store
+ 1.07% : shopping basket
+ 0.61% : rubber eraser
+ 0.53% : Granny Smith
+ 0.51% : hamper
+ 0.49% : tray
+ 0.43% : chocolate sauce
+ 0.41% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q027.jpg
+68.67% : strawberry
+14.90% : packet
+ 1.32% : grocery store
+ 1.06% : shopping basket
+ 0.90% : rubber eraser
+ 0.76% : tray
+ 0.62% : Granny Smith
+ 0.62% : hamper
+ 0.56% : confectionery
+ 0.41% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q028.jpg
+75.22% : strawberry
+ 8.81% : packet
+ 1.34% : grocery store
+ 1.06% : shopping basket
+ 0.83% : tray
+ 0.61% : rubber eraser
+ 0.58% : hamper
+ 0.54% : confectionery
+ 0.50% : Granny Smith
+ 0.44% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q029.jpg
+69.93% : strawberry
+11.99% : packet
+ 1.52% : grocery store
+ 1.17% : shopping basket
+ 0.83% : tray
+ 0.76% : rubber eraser
+ 0.65% : hamper
+ 0.56% : confectionery
+ 0.55% : Granny Smith
+ 0.50% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q030.jpg
+71.94% : strawberry
+11.49% : packet
+ 1.71% : grocery store
+ 1.12% : shopping basket
+ 0.84% : rubber eraser
+ 0.64% : tray
+ 0.62% : confectionery
+ 0.62% : Granny Smith
+ 0.45% : chocolate sauce
+ 0.45% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q031.jpg
+69.83% : strawberry
+10.83% : packet
+ 1.96% : grocery store
+ 1.15% : shopping basket
+ 0.79% : rubber eraser
+ 0.77% : tray
+ 0.64% : hamper
+ 0.64% : confectionery
+ 0.61% : Granny Smith
+ 0.45% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q032.jpg
+72.14% : strawberry
+11.08% : packet
+ 1.61% : grocery store
+ 1.14% : shopping basket
+ 0.62% : rubber eraser
+ 0.61% : hamper
+ 0.59% : Granny Smith
+ 0.55% : tray
+ 0.49% : confectionery
+ 0.42% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q033.jpg
+71.20% : strawberry
+10.20% : packet
+ 1.72% : grocery store
+ 1.10% : shopping basket
+ 0.84% : tray
+ 0.71% : rubber eraser
+ 0.67% : Granny Smith
+ 0.55% : confectionery
+ 0.54% : hamper
+ 0.50% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q034.jpg
+70.00% : strawberry
+10.52% : packet
+ 1.74% : grocery store
+ 0.99% : tray
+ 0.90% : shopping basket
+ 0.83% : rubber eraser
+ 0.67% : confectionery
+ 0.61% : Granny Smith
+ 0.49% : hamper
+ 0.45% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q035.jpg
+72.34% : strawberry
+11.46% : packet
+ 1.63% : grocery store
+ 0.95% : shopping basket
+ 0.70% : tray
+ 0.65% : rubber eraser
+ 0.56% : Granny Smith
+ 0.53% : confectionery
+ 0.47% : hamper
+ 0.47% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q036.jpg
+72.33% : strawberry
+10.38% : packet
+ 1.94% : grocery store
+ 1.08% : shopping basket
+ 0.69% : rubber eraser
+ 0.67% : Granny Smith
+ 0.61% : tray
+ 0.54% : confectionery
+ 0.46% : hamper
+ 0.41% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q037.jpg
+70.63% : strawberry
+11.00% : packet
+ 1.97% : grocery store
+ 1.22% : shopping basket
+ 0.83% : rubber eraser
+ 0.73% : Granny Smith
+ 0.66% : tray
+ 0.57% : confectionery
+ 0.47% : hamper
+ 0.43% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q038.jpg
+68.66% : strawberry
+11.66% : packet
+ 2.39% : grocery store
+ 1.45% : shopping basket
+ 0.92% : rubber eraser
+ 0.81% : tray
+ 0.73% : Granny Smith
+ 0.70% : confectionery
+ 0.45% : strainer
+ 0.43% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q039.jpg
+68.86% : strawberry
+10.87% : packet
+ 2.21% : grocery store
+ 1.55% : shopping basket
+ 1.09% : rubber eraser
+ 0.78% : Granny Smith
+ 0.74% : confectionery
+ 0.71% : tray
+ 0.47% : strainer
+ 0.45% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q040.jpg
+67.87% : strawberry
+11.82% : packet
+ 2.07% : grocery store
+ 1.42% : shopping basket
+ 1.08% : rubber eraser
+ 0.80% : Granny Smith
+ 0.70% : confectionery
+ 0.63% : tray
+ 0.51% : strainer
+ 0.47% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q041.jpg
+73.64% : strawberry
+10.18% : packet
+ 1.58% : grocery store
+ 1.23% : shopping basket
+ 0.92% : rubber eraser
+ 0.63% : Granny Smith
+ 0.60% : confectionery
+ 0.58% : tray
+ 0.44% : hamper
+ 0.44% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q042.jpg
+70.87% : strawberry
+11.34% : packet
+ 1.83% : grocery store
+ 1.34% : shopping basket
+ 0.86% : rubber eraser
+ 0.70% : confectionery
+ 0.66% : tray
+ 0.58% : Granny Smith
+ 0.50% : hamper
+ 0.47% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q043.jpg
+70.34% : strawberry
+11.14% : packet
+ 1.93% : grocery store
+ 1.41% : shopping basket
+ 1.04% : rubber eraser
+ 0.75% : confectionery
+ 0.72% : tray
+ 0.62% : Granny Smith
+ 0.50% : hamper
+ 0.48% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q044.jpg
+72.48% : strawberry
+ 9.83% : packet
+ 1.72% : grocery store
+ 1.38% : shopping basket
+ 0.79% : rubber eraser
+ 0.75% : tray
+ 0.66% : Granny Smith
+ 0.63% : confectionery
+ 0.47% : hamper
+ 0.44% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q045.jpg
+69.86% : strawberry
+11.11% : packet
+ 1.92% : grocery store
+ 1.49% : shopping basket
+ 0.84% : rubber eraser
+ 0.78% : tray
+ 0.72% : Granny Smith
+ 0.66% : confectionery
+ 0.47% : hamper
+ 0.45% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q046.jpg
+66.60% : strawberry
+13.07% : packet
+ 2.35% : grocery store
+ 1.25% : shopping basket
+ 1.16% : rubber eraser
+ 0.71% : confectionery
+ 0.68% : tray
+ 0.68% : Granny Smith
+ 0.48% : chocolate sauce
+ 0.41% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q047.jpg
+67.06% : strawberry
+12.90% : packet
+ 2.39% : grocery store
+ 1.25% : shopping basket
+ 1.17% : rubber eraser
+ 0.71% : confectionery
+ 0.66% : Granny Smith
+ 0.66% : tray
+ 0.48% : chocolate sauce
+ 0.43% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q048.jpg
+67.82% : strawberry
+12.62% : packet
+ 2.42% : grocery store
+ 1.29% : shopping basket
+ 1.02% : rubber eraser
+ 0.69% : confectionery
+ 0.68% : tray
+ 0.64% : Granny Smith
+ 0.46% : chocolate sauce
+ 0.42% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q049.jpg
+69.52% : strawberry
+12.69% : packet
+ 1.92% : grocery store
+ 1.31% : shopping basket
+ 0.82% : tray
+ 0.69% : rubber eraser
+ 0.63% : confectionery
+ 0.62% : Granny Smith
+ 0.41% : hamper
+ 0.41% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q050.jpg
+69.39% : strawberry
+12.73% : packet
+ 1.95% : grocery store
+ 1.30% : shopping basket
+ 0.82% : tray
+ 0.70% : rubber eraser
+ 0.64% : confectionery
+ 0.62% : Granny Smith
+ 0.41% : hamper
+ 0.40% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q051.jpg
+69.71% : strawberry
+12.50% : packet
+ 1.94% : grocery store
+ 1.29% : shopping basket
+ 0.81% : tray
+ 0.70% : rubber eraser
+ 0.64% : confectionery
+ 0.62% : Granny Smith
+ 0.40% : chocolate sauce
+ 0.40% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q052.jpg
+73.03% : strawberry
+ 9.81% : packet
+ 1.74% : grocery store
+ 1.00% : shopping basket
+ 0.79% : tray
+ 0.72% : rubber eraser
+ 0.67% : confectionery
+ 0.50% : Granny Smith
+ 0.41% : chocolate sauce
+ 0.37% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q053.jpg
+75.00% : strawberry
+ 8.84% : packet
+ 1.61% : grocery store
+ 0.96% : shopping basket
+ 0.72% : tray
+ 0.71% : rubber eraser
+ 0.63% : confectionery
+ 0.47% : Granny Smith
+ 0.39% : chocolate sauce
+ 0.36% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q054.jpg
+73.48% : strawberry
+ 9.48% : packet
+ 1.73% : grocery store
+ 1.00% : shopping basket
+ 0.76% : rubber eraser
+ 0.73% : tray
+ 0.67% : confectionery
+ 0.50% : Granny Smith
+ 0.39% : chocolate sauce
+ 0.38% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q055.jpg
+75.60% : strawberry
+ 8.38% : packet
+ 1.73% : grocery store
+ 1.14% : shopping basket
+ 0.76% : rubber eraser
+ 0.62% : confectionery
+ 0.61% : Granny Smith
+ 0.60% : tray
+ 0.39% : hamper
+ 0.38% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q056.jpg
+76.47% : strawberry
+ 8.14% : packet
+ 1.68% : grocery store
+ 1.09% : shopping basket
+ 0.75% : rubber eraser
+ 0.59% : tray
+ 0.59% : confectionery
+ 0.59% : Granny Smith
+ 0.36% : strainer
+ 0.35% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q057.jpg
+74.66% : strawberry
+ 9.06% : packet
+ 1.63% : grocery store
+ 1.09% : shopping basket
+ 0.70% : rubber eraser
+ 0.61% : Granny Smith
+ 0.60% : confectionery
+ 0.59% : tray
+ 0.42% : hamper
+ 0.40% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q058.jpg
+79.24% : strawberry
+ 7.59% : packet
+ 1.38% : grocery store
+ 0.95% : shopping basket
+ 0.60% : rubber eraser
+ 0.51% : tray
+ 0.47% : confectionery
+ 0.45% : Granny Smith
+ 0.33% : strainer
+ 0.30% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q059.jpg
+78.83% : strawberry
+ 7.85% : packet
+ 1.41% : grocery store
+ 0.98% : shopping basket
+ 0.61% : rubber eraser
+ 0.51% : tray
+ 0.48% : confectionery
+ 0.46% : Granny Smith
+ 0.32% : strainer
+ 0.30% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q060.jpg
+78.82% : strawberry
+ 7.69% : packet
+ 1.38% : grocery store
+ 0.97% : shopping basket
+ 0.62% : rubber eraser
+ 0.51% : tray
+ 0.46% : confectionery
+ 0.46% : Granny Smith
+ 0.32% : strainer
+ 0.31% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q061.jpg
+76.95% : strawberry
+ 8.96% : packet
+ 1.36% : grocery store
+ 0.91% : shopping basket
+ 0.67% : rubber eraser
+ 0.54% : confectionery
+ 0.50% : tray
+ 0.45% : Granny Smith
+ 0.37% : chocolate sauce
+ 0.31% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q062.jpg
+77.51% : strawberry
+ 8.00% : packet
+ 1.45% : grocery store
+ 0.93% : shopping basket
+ 0.66% : rubber eraser
+ 0.56% : confectionery
+ 0.51% : tray
+ 0.47% : Granny Smith
+ 0.37% : chocolate sauce
+ 0.30% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q063.jpg
+77.20% : strawberry
+ 8.22% : packet
+ 1.46% : grocery store
+ 0.94% : shopping basket
+ 0.72% : rubber eraser
+ 0.59% : confectionery
+ 0.52% : tray
+ 0.49% : Granny Smith
+ 0.34% : chocolate sauce
+ 0.32% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q064.jpg
+79.70% : strawberry
+ 7.26% : packet
+ 1.18% : grocery store
+ 0.90% : shopping basket
+ 0.61% : rubber eraser
+ 0.49% : confectionery
+ 0.45% : Granny Smith
+ 0.44% : tray
+ 0.33% : chocolate sauce
+ 0.29% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q065.jpg
+78.84% : strawberry
+ 7.27% : packet
+ 1.19% : grocery store
+ 0.98% : shopping basket
+ 0.72% : rubber eraser
+ 0.51% : confectionery
+ 0.46% : tray
+ 0.46% : Granny Smith
+ 0.34% : chocolate sauce
+ 0.29% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q066.jpg
+78.23% : strawberry
+ 7.87% : packet
+ 1.20% : grocery store
+ 0.94% : shopping basket
+ 0.74% : rubber eraser
+ 0.48% : confectionery
+ 0.48% : tray
+ 0.45% : Granny Smith
+ 0.33% : chocolate sauce
+ 0.31% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q067.jpg
+76.38% : strawberry
+ 8.97% : packet
+ 1.38% : grocery store
+ 1.02% : shopping basket
+ 0.76% : rubber eraser
+ 0.55% : confectionery
+ 0.50% : Granny Smith
+ 0.49% : tray
+ 0.34% : hamper
+ 0.33% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q068.jpg
+73.48% : strawberry
+10.73% : packet
+ 1.51% : grocery store
+ 1.09% : shopping basket
+ 0.77% : rubber eraser
+ 0.59% : confectionery
+ 0.54% : tray
+ 0.52% : Granny Smith
+ 0.40% : hamper
+ 0.40% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q069.jpg
+76.60% : strawberry
+ 9.35% : packet
+ 1.29% : grocery store
+ 0.98% : shopping basket
+ 0.77% : rubber eraser
+ 0.51% : tray
+ 0.49% : confectionery
+ 0.48% : Granny Smith
+ 0.36% : hamper
+ 0.35% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q070.jpg
+76.27% : strawberry
+ 9.07% : packet
+ 1.18% : grocery store
+ 1.01% : shopping basket
+ 0.96% : rubber eraser
+ 0.50% : tray
+ 0.46% : confectionery
+ 0.44% : Granny Smith
+ 0.40% : chocolate sauce
+ 0.37% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q071.jpg
+77.10% : strawberry
+ 8.57% : packet
+ 1.23% : grocery store
+ 1.04% : rubber eraser
+ 0.96% : shopping basket
+ 0.50% : confectionery
+ 0.48% : tray
+ 0.45% : Granny Smith
+ 0.41% : chocolate sauce
+ 0.35% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q072.jpg
+76.43% : strawberry
+ 8.78% : packet
+ 1.30% : grocery store
+ 1.13% : rubber eraser
+ 0.97% : shopping basket
+ 0.52% : confectionery
+ 0.49% : tray
+ 0.45% : Granny Smith
+ 0.41% : chocolate sauce
+ 0.36% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q073.jpg
+75.23% : strawberry
+ 9.22% : packet
+ 1.43% : grocery store
+ 1.01% : rubber eraser
+ 0.95% : shopping basket
+ 0.57% : confectionery
+ 0.51% : tray
+ 0.48% : Granny Smith
+ 0.43% : chocolate sauce
+ 0.41% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q074.jpg
+76.23% : strawberry
+ 8.51% : packet
+ 1.36% : grocery store
+ 0.97% : shopping basket
+ 0.86% : rubber eraser
+ 0.53% : tray
+ 0.53% : confectionery
+ 0.47% : Granny Smith
+ 0.43% : chocolate sauce
+ 0.39% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q075.jpg
+76.23% : strawberry
+ 8.45% : packet
+ 1.39% : grocery store
+ 0.97% : shopping basket
+ 0.85% : rubber eraser
+ 0.54% : tray
+ 0.53% : confectionery
+ 0.47% : Granny Smith
+ 0.43% : chocolate sauce
+ 0.39% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q076.jpg
+76.62% : strawberry
+ 8.14% : packet
+ 1.36% : grocery store
+ 0.91% : shopping basket
+ 0.80% : rubber eraser
+ 0.49% : Granny Smith
+ 0.48% : confectionery
+ 0.48% : tray
+ 0.42% : chocolate sauce
+ 0.35% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q077.jpg
+76.38% : strawberry
+ 8.74% : packet
+ 1.40% : grocery store
+ 0.84% : shopping basket
+ 0.78% : rubber eraser
+ 0.51% : tray
+ 0.47% : confectionery
+ 0.44% : Granny Smith
+ 0.43% : chocolate sauce
+ 0.32% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q078.jpg
+75.11% : strawberry
+ 9.04% : packet
+ 1.57% : grocery store
+ 1.03% : rubber eraser
+ 0.93% : shopping basket
+ 0.52% : confectionery
+ 0.47% : Granny Smith
+ 0.44% : tray
+ 0.38% : chocolate sauce
+ 0.33% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q079.jpg
+76.28% : strawberry
+ 8.51% : packet
+ 1.53% : grocery store
+ 1.00% : rubber eraser
+ 0.92% : shopping basket
+ 0.50% : confectionery
+ 0.47% : Granny Smith
+ 0.43% : tray
+ 0.35% : chocolate sauce
+ 0.31% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q080.jpg
+75.32% : strawberry
+ 8.88% : packet
+ 1.54% : grocery store
+ 0.97% : rubber eraser
+ 0.94% : shopping basket
+ 0.55% : confectionery
+ 0.53% : Granny Smith
+ 0.45% : tray
+ 0.36% : chocolate sauce
+ 0.34% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q081.jpg
+74.15% : strawberry
+ 9.41% : packet
+ 1.60% : grocery store
+ 0.92% : shopping basket
+ 0.86% : rubber eraser
+ 0.58% : tray
+ 0.56% : Granny Smith
+ 0.53% : confectionery
+ 0.40% : chocolate sauce
+ 0.36% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q082.jpg
+74.93% : strawberry
+ 9.30% : packet
+ 1.64% : grocery store
+ 0.96% : shopping basket
+ 0.78% : rubber eraser
+ 0.59% : tray
+ 0.57% : Granny Smith
+ 0.52% : confectionery
+ 0.38% : chocolate sauce
+ 0.35% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q083.jpg
+74.51% : strawberry
+ 9.65% : packet
+ 1.50% : grocery store
+ 1.02% : shopping basket
+ 0.77% : rubber eraser
+ 0.56% : tray
+ 0.54% : Granny Smith
+ 0.49% : confectionery
+ 0.41% : chocolate sauce
+ 0.38% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q084.jpg
+75.96% : strawberry
+ 8.77% : packet
+ 1.39% : grocery store
+ 1.03% : shopping basket
+ 0.72% : rubber eraser
+ 0.55% : tray
+ 0.54% : Granny Smith
+ 0.46% : confectionery
+ 0.37% : chocolate sauce
+ 0.37% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q085.jpg
+75.85% : strawberry
+ 8.89% : packet
+ 1.35% : grocery store
+ 1.05% : shopping basket
+ 0.76% : rubber eraser
+ 0.53% : tray
+ 0.51% : Granny Smith
+ 0.47% : confectionery
+ 0.39% : hamper
+ 0.37% : chocolate sauce
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q086.jpg
+77.52% : strawberry
+ 7.80% : packet
+ 1.20% : grocery store
+ 0.99% : shopping basket
+ 0.78% : rubber eraser
+ 0.52% : tray
+ 0.49% : Granny Smith
+ 0.47% : confectionery
+ 0.38% : chocolate sauce
+ 0.37% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q087.jpg
+76.43% : strawberry
+ 7.89% : packet
+ 1.36% : grocery store
+ 1.00% : shopping basket
+ 0.79% : rubber eraser
+ 0.54% : tray
+ 0.52% : confectionery
+ 0.47% : Granny Smith
+ 0.44% : chocolate sauce
+ 0.39% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q088.jpg
+77.25% : strawberry
+ 7.45% : packet
+ 1.33% : grocery store
+ 0.96% : shopping basket
+ 0.76% : rubber eraser
+ 0.57% : tray
+ 0.52% : confectionery
+ 0.44% : Granny Smith
+ 0.44% : chocolate sauce
+ 0.38% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q089.jpg
+77.72% : strawberry
+ 7.36% : packet
+ 1.32% : grocery store
+ 0.96% : shopping basket
+ 0.75% : rubber eraser
+ 0.53% : tray
+ 0.51% : confectionery
+ 0.46% : chocolate sauce
+ 0.43% : Granny Smith
+ 0.38% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q090.jpg
+78.91% : strawberry
+ 7.14% : packet
+ 1.19% : grocery store
+ 0.94% : shopping basket
+ 0.66% : rubber eraser
+ 0.48% : confectionery
+ 0.46% : tray
+ 0.42% : Granny Smith
+ 0.39% : chocolate sauce
+ 0.37% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q091.jpg
+80.05% : strawberry
+ 6.64% : packet
+ 1.16% : grocery store
+ 0.89% : shopping basket
+ 0.71% : rubber eraser
+ 0.46% : confectionery
+ 0.44% : tray
+ 0.40% : Granny Smith
+ 0.37% : chocolate sauce
+ 0.33% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q092.jpg
+80.02% : strawberry
+ 6.82% : packet
+ 1.14% : grocery store
+ 0.87% : shopping basket
+ 0.71% : rubber eraser
+ 0.45% : tray
+ 0.44% : confectionery
+ 0.41% : Granny Smith
+ 0.36% : chocolate sauce
+ 0.31% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q093.jpg
+76.76% : strawberry
+ 8.49% : packet
+ 1.45% : grocery store
+ 0.94% : shopping basket
+ 0.80% : rubber eraser
+ 0.54% : tray
+ 0.49% : confectionery
+ 0.46% : Granny Smith
+ 0.40% : chocolate sauce
+ 0.30% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q094.jpg
+77.33% : strawberry
+ 7.98% : packet
+ 1.39% : grocery store
+ 0.94% : shopping basket
+ 0.84% : rubber eraser
+ 0.53% : tray
+ 0.51% : Granny Smith
+ 0.49% : confectionery
+ 0.39% : chocolate sauce
+ 0.30% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q095.jpg
+74.81% : strawberry
+ 8.77% : packet
+ 1.48% : grocery store
+ 1.06% : shopping basket
+ 1.00% : rubber eraser
+ 0.56% : confectionery
+ 0.55% : tray
+ 0.53% : Granny Smith
+ 0.41% : chocolate sauce
+ 0.37% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q096.jpg
+76.47% : strawberry
+ 8.04% : packet
+ 1.39% : grocery store
+ 1.01% : shopping basket
+ 0.89% : rubber eraser
+ 0.53% : tray
+ 0.51% : confectionery
+ 0.48% : Granny Smith
+ 0.42% : chocolate sauce
+ 0.33% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q097.jpg
+77.64% : strawberry
+ 7.67% : packet
+ 1.30% : grocery store
+ 0.94% : shopping basket
+ 0.82% : rubber eraser
+ 0.53% : tray
+ 0.49% : confectionery
+ 0.46% : Granny Smith
+ 0.40% : chocolate sauce
+ 0.32% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q098.jpg
+77.40% : strawberry
+ 7.83% : packet
+ 1.41% : grocery store
+ 0.96% : shopping basket
+ 0.76% : rubber eraser
+ 0.50% : confectionery
+ 0.49% : tray
+ 0.49% : Granny Smith
+ 0.39% : chocolate sauce
+ 0.32% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q099.jpg
+77.45% : strawberry
+ 7.85% : packet
+ 1.36% : grocery store
+ 0.98% : shopping basket
+ 0.81% : rubber eraser
+ 0.51% : tray
+ 0.50% : confectionery
+ 0.46% : Granny Smith
+ 0.39% : chocolate sauce
+ 0.32% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry3Q100.jpg
+78.39% : strawberry
+ 7.26% : packet
+ 1.30% : grocery store
+ 0.94% : shopping basket
+ 0.85% : rubber eraser
+ 0.51% : tray
+ 0.49% : confectionery
+ 0.44% : Granny Smith
+ 0.39% : chocolate sauce
+ 0.31% : hamper

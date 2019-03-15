@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q001.jpg
+22.34% : head cabbage
+ 7.91% : tennis ball
+ 7.19% : plastic bag
+ 3.90% : shopping basket
+ 1.79% : cauliflower
+ 1.64% : window screen
+ 1.34% : shower cap
+ 1.03% : prison
+ 0.94% : pot
+ 0.84% : shopping cart
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q002.jpg
+22.79% : head cabbage
+ 7.69% : tennis ball
+ 7.01% : plastic bag
+ 4.10% : shopping basket
+ 1.82% : cauliflower
+ 1.60% : window screen
+ 1.36% : shower cap
+ 1.05% : prison
+ 0.95% : pot
+ 0.85% : shopping cart
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q003.jpg
+16.60% : head cabbage
+ 7.94% : tennis ball
+ 7.34% : shopping basket
+ 6.68% : plastic bag
+ 1.94% : window screen
+ 1.76% : shower cap
+ 1.31% : pot
+ 1.17% : shopping cart
+ 1.13% : cauliflower
+ 1.02% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q004.jpg
+20.75% : plastic bag
+18.59% : head cabbage
+ 4.98% : tennis ball
+ 4.03% : cauliflower
+ 2.78% : window screen
+ 1.83% : shopping basket
+ 1.28% : barn spider
+ 1.13% : umbrella
+ 1.00% : black and gold garden spider
+ 0.82% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q005.jpg
+24.55% : plastic bag
+23.16% : head cabbage
+ 5.20% : cauliflower
+ 2.63% : shopping basket
+ 2.17% : window screen
+ 1.09% : strainer
+ 0.92% : tennis ball
+ 0.80% : ear
+ 0.76% : Granny Smith
+ 0.64% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q006.jpg
+46.54% : head cabbage
+ 8.72% : cauliflower
+ 6.63% : plastic bag
+ 1.83% : window screen
+ 1.18% : zucchini
+ 1.09% : strainer
+ 1.07% : ear
+ 1.03% : shopping basket
+ 0.71% : broccoli
+ 0.58% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q007.jpg
+53.92% : head cabbage
+ 7.26% : cauliflower
+ 2.75% : plastic bag
+ 1.04% : zucchini
+ 0.87% : window screen
+ 0.74% : ear
+ 0.61% : butternut squash
+ 0.54% : jackfruit
+ 0.47% : spaghetti squash
+ 0.46% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q008.jpg
+53.72% : head cabbage
+ 8.15% : cauliflower
+ 3.00% : plastic bag
+ 1.17% : zucchini
+ 1.03% : window screen
+ 0.97% : ear
+ 0.59% : jackfruit
+ 0.59% : fig
+ 0.58% : strainer
+ 0.57% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q009.jpg
+32.60% : head cabbage
+11.21% : cauliflower
+ 4.37% : plastic bag
+ 2.02% : window screen
+ 1.82% : ear
+ 1.57% : zucchini
+ 1.27% : jackfruit
+ 1.09% : broccoli
+ 0.92% : corn
+ 0.85% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q010.jpg
+31.53% : head cabbage
+14.39% : cauliflower
+11.97% : plastic bag
+ 1.49% : window screen
+ 1.35% : ear
+ 0.87% : zucchini
+ 0.83% : jackfruit
+ 0.65% : broccoli
+ 0.61% : corn
+ 0.60% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q011.jpg
+22.93% : head cabbage
+12.65% : cauliflower
+ 4.46% : plastic bag
+ 2.54% : window screen
+ 1.82% : custard apple
+ 1.21% : ear
+ 0.96% : jackfruit
+ 0.71% : broccoli
+ 0.68% : Granny Smith
+ 0.66% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q012.jpg
+32.18% : head cabbage
+13.58% : cauliflower
+ 4.99% : plastic bag
+ 2.03% : window screen
+ 1.57% : ear
+ 1.52% : custard apple
+ 0.91% : broccoli
+ 0.83% : corn
+ 0.74% : jackfruit
+ 0.67% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q013.jpg
+34.19% : head cabbage
+ 9.94% : cauliflower
+ 3.14% : plastic bag
+ 2.34% : custard apple
+ 2.32% : window screen
+ 1.34% : jackfruit
+ 1.03% : ear
+ 0.98% : broccoli
+ 0.95% : strainer
+ 0.80% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q014.jpg
+25.07% : head cabbage
+12.88% : cauliflower
+ 3.04% : custard apple
+ 2.65% : plastic bag
+ 2.46% : window screen
+ 1.84% : ear
+ 1.62% : jackfruit
+ 1.36% : corn
+ 1.07% : broccoli
+ 0.74% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q015.jpg
+31.78% : head cabbage
+12.86% : cauliflower
+ 4.73% : custard apple
+ 1.65% : plastic bag
+ 1.60% : window screen
+ 1.58% : jackfruit
+ 1.55% : ear
+ 1.21% : broccoli
+ 1.14% : corn
+ 0.94% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q016.jpg
+35.09% : head cabbage
+10.10% : cauliflower
+ 3.41% : custard apple
+ 2.38% : window screen
+ 2.01% : jackfruit
+ 1.43% : ear
+ 1.18% : strainer
+ 1.08% : broccoli
+ 1.05% : corn
+ 1.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q017.jpg
+37.31% : head cabbage
+12.67% : cauliflower
+ 3.27% : custard apple
+ 2.02% : jackfruit
+ 1.68% : window screen
+ 1.12% : strainer
+ 1.05% : broccoli
+ 0.98% : ear
+ 0.97% : plastic bag
+ 0.80% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q018.jpg
+34.04% : head cabbage
+10.80% : cauliflower
+ 4.24% : custard apple
+ 2.15% : window screen
+ 2.12% : jackfruit
+ 1.24% : plastic bag
+ 1.17% : ear
+ 1.17% : broccoli
+ 1.15% : strainer
+ 0.92% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q019.jpg
+29.43% : head cabbage
+11.03% : cauliflower
+ 4.20% : custard apple
+ 2.79% : jackfruit
+ 1.87% : window screen
+ 1.58% : plastic bag
+ 1.56% : ear
+ 1.20% : broccoli
+ 1.18% : corn
+ 0.97% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q020.jpg
+31.64% : head cabbage
+ 9.40% : cauliflower
+ 4.59% : custard apple
+ 2.79% : window screen
+ 2.12% : jackfruit
+ 1.62% : strainer
+ 1.24% : plastic bag
+ 1.09% : broccoli
+ 1.01% : ear
+ 0.87% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q021.jpg
+23.74% : head cabbage
+ 8.46% : cauliflower
+ 6.98% : custard apple
+ 2.86% : jackfruit
+ 2.30% : strainer
+ 2.21% : window screen
+ 1.33% : plastic bag
+ 1.24% : broccoli
+ 1.12% : corn
+ 1.12% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q022.jpg
+25.05% : head cabbage
+ 9.22% : cauliflower
+ 5.04% : custard apple
+ 2.67% : window screen
+ 1.95% : jackfruit
+ 1.94% : strainer
+ 1.78% : plastic bag
+ 1.30% : broccoli
+ 1.23% : ear
+ 1.18% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q023.jpg
+28.89% : head cabbage
+10.50% : cauliflower
+ 3.49% : custard apple
+ 2.63% : jackfruit
+ 1.99% : window screen
+ 1.48% : strainer
+ 1.37% : plastic bag
+ 1.27% : broccoli
+ 1.26% : ear
+ 1.01% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q024.jpg
+30.71% : head cabbage
+10.92% : cauliflower
+ 3.89% : custard apple
+ 2.60% : jackfruit
+ 2.28% : window screen
+ 1.38% : ear
+ 1.37% : strainer
+ 1.27% : broccoli
+ 1.15% : corn
+ 1.04% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q025.jpg
+24.18% : head cabbage
+11.75% : cauliflower
+ 4.99% : custard apple
+ 3.20% : window screen
+ 1.92% : jackfruit
+ 1.68% : strainer
+ 1.56% : plastic bag
+ 1.23% : ear
+ 1.12% : broccoli
+ 0.99% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q026.jpg
+22.06% : head cabbage
+11.51% : cauliflower
+ 6.30% : custard apple
+ 2.74% : window screen
+ 2.37% : jackfruit
+ 2.01% : strainer
+ 1.33% : broccoli
+ 1.26% : ear
+ 1.14% : Granny Smith
+ 1.04% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q027.jpg
+17.66% : head cabbage
+ 9.12% : cauliflower
+ 6.02% : custard apple
+ 3.30% : window screen
+ 2.88% : jackfruit
+ 2.86% : strainer
+ 1.42% : broccoli
+ 1.32% : mantis
+ 1.31% : Granny Smith
+ 1.30% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q028.jpg
+18.34% : head cabbage
+ 9.16% : cauliflower
+ 6.32% : custard apple
+ 3.71% : jackfruit
+ 2.98% : window screen
+ 2.52% : strainer
+ 1.42% : broccoli
+ 1.22% : plastic bag
+ 1.13% : Granny Smith
+ 1.13% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q029.jpg
+18.00% : head cabbage
+ 8.75% : cauliflower
+ 7.13% : custard apple
+ 3.66% : jackfruit
+ 2.51% : window screen
+ 2.20% : strainer
+ 1.40% : broccoli
+ 1.26% : plastic bag
+ 1.21% : ear
+ 1.10% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q030.jpg
+21.14% : head cabbage
+10.37% : cauliflower
+ 5.60% : custard apple
+ 3.22% : jackfruit
+ 2.69% : window screen
+ 2.00% : strainer
+ 1.35% : plastic bag
+ 1.27% : broccoli
+ 1.03% : Granny Smith
+ 1.00% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q031.jpg
+19.73% : head cabbage
+ 9.98% : cauliflower
+ 6.25% : custard apple
+ 3.12% : jackfruit
+ 2.84% : window screen
+ 2.67% : strainer
+ 1.46% : broccoli
+ 1.26% : fig
+ 1.10% : Granny Smith
+ 1.06% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q032.jpg
+24.63% : head cabbage
+10.81% : cauliflower
+ 4.92% : custard apple
+ 2.98% : jackfruit
+ 2.37% : strainer
+ 2.29% : window screen
+ 1.38% : fig
+ 1.34% : broccoli
+ 1.12% : ear
+ 0.98% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q033.jpg
+22.83% : head cabbage
+ 9.54% : cauliflower
+ 5.74% : custard apple
+ 3.07% : jackfruit
+ 2.95% : window screen
+ 2.19% : strainer
+ 1.26% : broccoli
+ 1.23% : ear
+ 1.07% : corn
+ 1.06% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q034.jpg
+19.57% : head cabbage
+ 8.62% : cauliflower
+ 6.32% : custard apple
+ 3.35% : jackfruit
+ 3.04% : window screen
+ 2.29% : strainer
+ 1.39% : broccoli
+ 1.34% : fig
+ 1.24% : mantis
+ 1.21% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q035.jpg
+24.43% : head cabbage
+ 9.38% : cauliflower
+ 5.20% : custard apple
+ 3.11% : jackfruit
+ 2.85% : window screen
+ 2.47% : strainer
+ 1.29% : plastic bag
+ 1.24% : broccoli
+ 1.21% : ear
+ 1.14% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q036.jpg
+20.36% : head cabbage
+ 9.12% : cauliflower
+ 6.81% : custard apple
+ 3.40% : window screen
+ 2.86% : jackfruit
+ 2.79% : strainer
+ 1.31% : broccoli
+ 1.14% : Granny Smith
+ 1.09% : mantis
+ 1.00% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q037.jpg
+21.53% : head cabbage
+ 8.88% : cauliflower
+ 6.95% : custard apple
+ 3.60% : window screen
+ 2.90% : strainer
+ 2.60% : jackfruit
+ 1.33% : broccoli
+ 1.09% : Granny Smith
+ 1.04% : corn
+ 1.03% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q038.jpg
+22.09% : head cabbage
+ 8.14% : cauliflower
+ 6.81% : custard apple
+ 3.42% : strainer
+ 3.27% : jackfruit
+ 2.69% : window screen
+ 1.50% : broccoli
+ 1.46% : fig
+ 1.19% : Granny Smith
+ 1.01% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q039.jpg
+21.57% : head cabbage
+ 9.04% : cauliflower
+ 6.69% : custard apple
+ 2.96% : jackfruit
+ 2.66% : window screen
+ 2.41% : strainer
+ 1.36% : broccoli
+ 1.31% : fig
+ 1.20% : Granny Smith
+ 1.04% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q040.jpg
+18.50% : head cabbage
+ 8.10% : cauliflower
+ 6.65% : custard apple
+ 3.24% : window screen
+ 2.77% : jackfruit
+ 2.45% : strainer
+ 1.49% : fig
+ 1.40% : broccoli
+ 1.14% : mantis
+ 1.11% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q041.jpg
+19.10% : head cabbage
+ 8.66% : cauliflower
+ 8.10% : custard apple
+ 3.08% : jackfruit
+ 2.86% : window screen
+ 2.61% : strainer
+ 1.45% : broccoli
+ 1.43% : fig
+ 1.20% : mantis
+ 1.07% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q042.jpg
+21.90% : head cabbage
+ 9.17% : cauliflower
+ 7.59% : custard apple
+ 3.09% : jackfruit
+ 2.64% : strainer
+ 2.52% : window screen
+ 1.41% : broccoli
+ 1.14% : fig
+ 1.09% : ear
+ 1.06% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q043.jpg
+21.75% : head cabbage
+ 8.26% : cauliflower
+ 8.07% : custard apple
+ 3.23% : jackfruit
+ 2.78% : strainer
+ 2.55% : window screen
+ 1.34% : broccoli
+ 1.20% : fig
+ 1.08% : ear
+ 1.05% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q044.jpg
+23.52% : head cabbage
+ 8.64% : cauliflower
+ 6.57% : custard apple
+ 3.11% : jackfruit
+ 2.93% : window screen
+ 2.93% : strainer
+ 1.42% : broccoli
+ 1.30% : plastic bag
+ 1.22% : ear
+ 1.13% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q045.jpg
+23.32% : head cabbage
+ 8.37% : cauliflower
+ 6.53% : custard apple
+ 3.26% : jackfruit
+ 2.86% : window screen
+ 2.85% : strainer
+ 1.35% : broccoli
+ 1.29% : plastic bag
+ 1.18% : ear
+ 1.12% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q046.jpg
+22.26% : head cabbage
+ 9.69% : cauliflower
+ 7.51% : custard apple
+ 3.45% : jackfruit
+ 2.75% : window screen
+ 2.68% : strainer
+ 1.35% : broccoli
+ 1.17% : Granny Smith
+ 1.12% : mantis
+ 1.10% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q047.jpg
+21.29% : head cabbage
+ 9.55% : cauliflower
+ 7.56% : custard apple
+ 3.38% : jackfruit
+ 2.83% : window screen
+ 2.70% : strainer
+ 1.34% : broccoli
+ 1.20% : mantis
+ 1.20% : Granny Smith
+ 1.13% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q048.jpg
+20.58% : head cabbage
+ 9.43% : cauliflower
+ 7.65% : custard apple
+ 3.64% : jackfruit
+ 2.83% : window screen
+ 2.73% : strainer
+ 1.32% : broccoli
+ 1.18% : mantis
+ 1.16% : Granny Smith
+ 1.12% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q049.jpg
+18.83% : head cabbage
+ 8.50% : cauliflower
+ 7.23% : custard apple
+ 3.79% : jackfruit
+ 3.33% : strainer
+ 3.14% : window screen
+ 1.43% : broccoli
+ 1.21% : Granny Smith
+ 1.16% : corn
+ 1.14% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q050.jpg
+18.52% : head cabbage
+ 8.43% : cauliflower
+ 7.36% : custard apple
+ 3.85% : jackfruit
+ 3.39% : strainer
+ 3.14% : window screen
+ 1.40% : broccoli
+ 1.23% : Granny Smith
+ 1.16% : fig
+ 1.14% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q051.jpg
+18.50% : head cabbage
+ 8.44% : cauliflower
+ 7.38% : custard apple
+ 3.89% : jackfruit
+ 3.43% : strainer
+ 3.14% : window screen
+ 1.41% : broccoli
+ 1.23% : Granny Smith
+ 1.19% : fig
+ 1.14% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q052.jpg
+17.08% : head cabbage
+ 8.53% : custard apple
+ 8.31% : cauliflower
+ 3.65% : jackfruit
+ 3.19% : strainer
+ 3.03% : window screen
+ 1.27% : broccoli
+ 1.18% : fig
+ 1.16% : mantis
+ 1.10% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q053.jpg
+17.64% : head cabbage
+ 8.07% : cauliflower
+ 7.83% : custard apple
+ 3.79% : strainer
+ 3.50% : jackfruit
+ 3.16% : window screen
+ 1.29% : broccoli
+ 1.23% : mantis
+ 1.20% : fig
+ 1.16% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q054.jpg
+17.29% : head cabbage
+ 8.03% : cauliflower
+ 7.99% : custard apple
+ 3.84% : strainer
+ 3.53% : jackfruit
+ 3.24% : window screen
+ 1.28% : broccoli
+ 1.22% : mantis
+ 1.17% : fig
+ 1.16% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q055.jpg
+20.42% : head cabbage
+ 7.75% : cauliflower
+ 6.72% : custard apple
+ 3.66% : jackfruit
+ 3.53% : strainer
+ 3.14% : window screen
+ 1.46% : broccoli
+ 1.26% : fig
+ 1.25% : Granny Smith
+ 1.05% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q056.jpg
+22.08% : head cabbage
+ 7.98% : cauliflower
+ 6.16% : custard apple
+ 3.74% : jackfruit
+ 3.64% : strainer
+ 3.16% : window screen
+ 1.51% : broccoli
+ 1.30% : Granny Smith
+ 1.20% : fig
+ 1.18% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q057.jpg
+23.04% : head cabbage
+ 8.26% : cauliflower
+ 5.31% : custard apple
+ 3.48% : jackfruit
+ 3.48% : strainer
+ 3.20% : window screen
+ 1.44% : broccoli
+ 1.24% : plastic bag
+ 1.19% : Granny Smith
+ 1.13% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q058.jpg
+20.08% : head cabbage
+ 8.21% : cauliflower
+ 6.46% : custard apple
+ 3.73% : strainer
+ 3.39% : jackfruit
+ 3.27% : window screen
+ 1.41% : broccoli
+ 1.36% : Granny Smith
+ 1.17% : lemon
+ 1.16% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q059.jpg
+20.85% : head cabbage
+ 8.66% : cauliflower
+ 6.23% : custard apple
+ 3.47% : jackfruit
+ 3.39% : strainer
+ 3.11% : window screen
+ 1.42% : broccoli
+ 1.30% : Granny Smith
+ 1.08% : plastic bag
+ 1.08% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q060.jpg
+21.13% : head cabbage
+ 8.89% : cauliflower
+ 6.25% : custard apple
+ 3.41% : jackfruit
+ 3.35% : strainer
+ 3.07% : window screen
+ 1.44% : broccoli
+ 1.30% : Granny Smith
+ 1.07% : plastic bag
+ 1.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q061.jpg
+22.34% : head cabbage
+ 7.84% : cauliflower
+ 5.01% : custard apple
+ 3.77% : strainer
+ 3.57% : jackfruit
+ 3.13% : window screen
+ 1.41% : fig
+ 1.38% : broccoli
+ 1.32% : Granny Smith
+ 1.17% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q062.jpg
+22.30% : head cabbage
+ 7.60% : cauliflower
+ 4.73% : custard apple
+ 3.85% : strainer
+ 3.35% : jackfruit
+ 3.32% : window screen
+ 1.44% : fig
+ 1.35% : broccoli
+ 1.30% : Granny Smith
+ 1.10% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q063.jpg
+23.18% : head cabbage
+ 7.84% : cauliflower
+ 4.59% : custard apple
+ 3.73% : strainer
+ 3.39% : jackfruit
+ 3.15% : window screen
+ 1.39% : fig
+ 1.35% : broccoli
+ 1.34% : Granny Smith
+ 1.13% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q064.jpg
+21.73% : head cabbage
+ 8.01% : cauliflower
+ 5.36% : custard apple
+ 3.51% : strainer
+ 3.05% : jackfruit
+ 3.00% : window screen
+ 1.43% : fig
+ 1.42% : broccoli
+ 1.42% : Granny Smith
+ 1.13% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q065.jpg
+22.94% : head cabbage
+ 9.11% : cauliflower
+ 4.83% : custard apple
+ 3.73% : strainer
+ 3.13% : window screen
+ 2.83% : jackfruit
+ 1.59% : broccoli
+ 1.29% : Granny Smith
+ 1.21% : ear
+ 1.17% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q066.jpg
+23.58% : head cabbage
+ 9.53% : cauliflower
+ 4.55% : custard apple
+ 3.60% : strainer
+ 3.18% : window screen
+ 2.80% : jackfruit
+ 1.52% : broccoli
+ 1.23% : Granny Smith
+ 1.18% : plastic bag
+ 1.17% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q067.jpg
+23.99% : head cabbage
+ 9.84% : cauliflower
+ 4.44% : custard apple
+ 3.45% : window screen
+ 3.38% : strainer
+ 2.67% : jackfruit
+ 1.48% : broccoli
+ 1.22% : Granny Smith
+ 1.13% : ear
+ 1.11% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q068.jpg
+21.94% : head cabbage
+ 9.30% : cauliflower
+ 5.22% : custard apple
+ 3.63% : window screen
+ 3.37% : strainer
+ 2.60% : jackfruit
+ 1.51% : broccoli
+ 1.22% : Granny Smith
+ 1.09% : fig
+ 1.08% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q069.jpg
+23.49% : head cabbage
+ 9.11% : cauliflower
+ 5.10% : custard apple
+ 3.22% : window screen
+ 3.02% : strainer
+ 2.60% : jackfruit
+ 1.45% : broccoli
+ 1.19% : fig
+ 1.13% : Granny Smith
+ 1.09% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q070.jpg
+22.15% : head cabbage
+ 9.07% : cauliflower
+ 5.95% : custard apple
+ 3.24% : window screen
+ 2.99% : strainer
+ 2.92% : jackfruit
+ 1.56% : broccoli
+ 1.26% : Granny Smith
+ 1.24% : fig
+ 1.09% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q071.jpg
+23.08% : head cabbage
+ 9.29% : cauliflower
+ 5.02% : custard apple
+ 3.42% : jackfruit
+ 3.34% : window screen
+ 3.04% : strainer
+ 1.65% : broccoli
+ 1.23% : fig
+ 1.15% : Granny Smith
+ 1.09% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q072.jpg
+23.44% : head cabbage
+ 9.31% : cauliflower
+ 4.77% : custard apple
+ 3.44% : window screen
+ 3.34% : jackfruit
+ 3.07% : strainer
+ 1.62% : broccoli
+ 1.20% : fig
+ 1.15% : Granny Smith
+ 1.11% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q073.jpg
+23.89% : head cabbage
+ 8.12% : cauliflower
+ 4.09% : custard apple
+ 3.57% : strainer
+ 3.42% : jackfruit
+ 3.22% : window screen
+ 1.62% : broccoli
+ 1.34% : fig
+ 1.30% : corn
+ 1.24% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q074.jpg
+23.83% : head cabbage
+ 8.35% : cauliflower
+ 4.36% : custard apple
+ 3.50% : strainer
+ 3.30% : jackfruit
+ 3.26% : window screen
+ 1.62% : broccoli
+ 1.48% : fig
+ 1.19% : Granny Smith
+ 1.10% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q075.jpg
+23.41% : head cabbage
+ 8.33% : cauliflower
+ 4.36% : custard apple
+ 3.45% : strainer
+ 3.44% : jackfruit
+ 3.28% : window screen
+ 1.62% : broccoli
+ 1.48% : fig
+ 1.21% : Granny Smith
+ 1.10% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q076.jpg
+22.09% : head cabbage
+ 8.46% : cauliflower
+ 4.56% : custard apple
+ 3.62% : jackfruit
+ 3.30% : window screen
+ 3.30% : strainer
+ 1.46% : broccoli
+ 1.24% : fig
+ 1.22% : plastic bag
+ 1.19% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q077.jpg
+23.73% : head cabbage
+ 9.11% : cauliflower
+ 4.54% : custard apple
+ 3.36% : jackfruit
+ 3.35% : strainer
+ 3.21% : window screen
+ 1.51% : broccoli
+ 1.18% : Granny Smith
+ 1.17% : plastic bag
+ 1.07% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q078.jpg
+22.94% : head cabbage
+ 8.82% : cauliflower
+ 5.01% : custard apple
+ 3.42% : jackfruit
+ 3.19% : window screen
+ 3.10% : strainer
+ 1.57% : broccoli
+ 1.25% : fig
+ 1.24% : Granny Smith
+ 1.06% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q079.jpg
+23.37% : head cabbage
+ 8.69% : cauliflower
+ 4.88% : custard apple
+ 3.32% : window screen
+ 3.22% : jackfruit
+ 3.13% : strainer
+ 1.51% : broccoli
+ 1.27% : fig
+ 1.24% : Granny Smith
+ 1.04% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q080.jpg
+23.43% : head cabbage
+ 8.76% : cauliflower
+ 5.37% : custard apple
+ 3.33% : jackfruit
+ 2.87% : window screen
+ 2.72% : strainer
+ 1.56% : broccoli
+ 1.34% : fig
+ 1.18% : Granny Smith
+ 1.06% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q081.jpg
+22.39% : head cabbage
+ 9.27% : cauliflower
+ 5.74% : custard apple
+ 3.34% : strainer
+ 3.30% : window screen
+ 3.14% : jackfruit
+ 1.48% : broccoli
+ 1.25% : Granny Smith
+ 1.10% : plastic bag
+ 1.06% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q082.jpg
+21.86% : head cabbage
+ 8.85% : cauliflower
+ 5.96% : custard apple
+ 3.59% : window screen
+ 3.57% : strainer
+ 3.25% : jackfruit
+ 1.48% : broccoli
+ 1.26% : Granny Smith
+ 1.10% : shopping basket
+ 1.10% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q083.jpg
+21.40% : head cabbage
+ 8.48% : cauliflower
+ 5.75% : custard apple
+ 3.53% : strainer
+ 3.49% : window screen
+ 3.38% : jackfruit
+ 1.55% : broccoli
+ 1.19% : Granny Smith
+ 1.10% : fig
+ 1.06% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q084.jpg
+23.65% : head cabbage
+ 8.85% : cauliflower
+ 5.23% : custard apple
+ 3.51% : strainer
+ 3.16% : jackfruit
+ 3.04% : window screen
+ 1.58% : broccoli
+ 1.17% : Granny Smith
+ 1.16% : fig
+ 1.09% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q085.jpg
+22.22% : head cabbage
+ 8.75% : cauliflower
+ 5.69% : custard apple
+ 3.53% : strainer
+ 3.19% : jackfruit
+ 3.14% : window screen
+ 1.56% : broccoli
+ 1.28% : fig
+ 1.25% : Granny Smith
+ 1.12% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q086.jpg
+22.85% : head cabbage
+ 8.70% : cauliflower
+ 5.30% : custard apple
+ 3.38% : jackfruit
+ 3.35% : strainer
+ 3.11% : window screen
+ 1.50% : broccoli
+ 1.35% : fig
+ 1.22% : Granny Smith
+ 1.14% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q087.jpg
+21.61% : head cabbage
+ 8.15% : cauliflower
+ 5.21% : custard apple
+ 3.56% : strainer
+ 3.47% : jackfruit
+ 3.29% : window screen
+ 1.49% : broccoli
+ 1.32% : fig
+ 1.22% : Granny Smith
+ 1.16% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q088.jpg
+20.00% : head cabbage
+ 8.08% : cauliflower
+ 5.78% : custard apple
+ 3.66% : strainer
+ 3.45% : window screen
+ 3.25% : jackfruit
+ 1.48% : broccoli
+ 1.38% : fig
+ 1.27% : Granny Smith
+ 1.11% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q089.jpg
+20.81% : head cabbage
+ 8.50% : cauliflower
+ 5.37% : custard apple
+ 3.40% : strainer
+ 3.38% : jackfruit
+ 3.21% : window screen
+ 1.45% : broccoli
+ 1.24% : fig
+ 1.19% : Granny Smith
+ 1.13% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q090.jpg
+20.42% : head cabbage
+ 8.85% : cauliflower
+ 6.54% : custard apple
+ 3.36% : strainer
+ 3.19% : jackfruit
+ 2.88% : window screen
+ 1.48% : broccoli
+ 1.36% : fig
+ 1.26% : Granny Smith
+ 1.10% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q091.jpg
+21.78% : head cabbage
+ 8.76% : cauliflower
+ 6.16% : custard apple
+ 3.49% : strainer
+ 3.16% : jackfruit
+ 2.88% : window screen
+ 1.45% : broccoli
+ 1.27% : fig
+ 1.23% : Granny Smith
+ 1.09% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q092.jpg
+21.05% : head cabbage
+ 8.71% : cauliflower
+ 6.25% : custard apple
+ 3.46% : strainer
+ 3.25% : jackfruit
+ 3.06% : window screen
+ 1.47% : broccoli
+ 1.27% : fig
+ 1.24% : Granny Smith
+ 1.15% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q093.jpg
+20.58% : head cabbage
+ 8.51% : cauliflower
+ 5.82% : custard apple
+ 3.62% : strainer
+ 3.28% : jackfruit
+ 3.09% : window screen
+ 1.40% : broccoli
+ 1.37% : Granny Smith
+ 1.21% : lemon
+ 1.20% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q094.jpg
+21.40% : head cabbage
+ 8.37% : cauliflower
+ 5.49% : custard apple
+ 3.47% : strainer
+ 3.26% : window screen
+ 3.09% : jackfruit
+ 1.50% : broccoli
+ 1.41% : Granny Smith
+ 1.17% : plastic bag
+ 1.16% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q095.jpg
+20.27% : head cabbage
+ 7.80% : cauliflower
+ 5.82% : custard apple
+ 3.53% : strainer
+ 3.49% : window screen
+ 3.09% : jackfruit
+ 1.51% : broccoli
+ 1.38% : Granny Smith
+ 1.20% : fig
+ 1.18% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q096.jpg
+19.83% : head cabbage
+ 8.03% : cauliflower
+ 5.91% : custard apple
+ 3.40% : window screen
+ 3.31% : strainer
+ 3.17% : jackfruit
+ 1.50% : broccoli
+ 1.26% : Granny Smith
+ 1.20% : fig
+ 1.17% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q097.jpg
+20.00% : head cabbage
+ 8.18% : cauliflower
+ 5.93% : custard apple
+ 3.47% : window screen
+ 3.43% : strainer
+ 3.12% : jackfruit
+ 1.53% : broccoli
+ 1.27% : Granny Smith
+ 1.22% : plastic bag
+ 1.16% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q098.jpg
+19.40% : head cabbage
+ 8.00% : cauliflower
+ 6.15% : custard apple
+ 3.57% : window screen
+ 3.56% : strainer
+ 3.10% : jackfruit
+ 1.55% : broccoli
+ 1.37% : Granny Smith
+ 1.21% : fig
+ 1.21% : mantis
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q099.jpg
+20.02% : head cabbage
+ 8.26% : cauliflower
+ 5.85% : custard apple
+ 3.53% : window screen
+ 3.53% : strainer
+ 3.21% : jackfruit
+ 1.51% : broccoli
+ 1.37% : Granny Smith
+ 1.16% : mantis
+ 1.13% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage12Q100.jpg
+21.47% : head cabbage
+ 8.54% : cauliflower
+ 5.79% : custard apple
+ 3.54% : strainer
+ 3.47% : window screen
+ 3.11% : jackfruit
+ 1.52% : broccoli
+ 1.32% : Granny Smith
+ 1.15% : fig
+ 1.15% : plastic bag

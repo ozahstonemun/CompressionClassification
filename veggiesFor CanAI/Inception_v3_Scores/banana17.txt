@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q001.jpg
+99.11% : banana
+ 0.08% : tile roof
+ 0.06% : butternut squash
+ 0.05% : orange
+ 0.01% : zucchini
+ 0.01% : pineapple
+ 0.01% : canoe
+ 0.01% : amphibian
+ 0.01% : coil
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q002.jpg
+99.10% : banana
+ 0.08% : tile roof
+ 0.06% : butternut squash
+ 0.05% : orange
+ 0.02% : zucchini
+ 0.01% : pineapple
+ 0.01% : canoe
+ 0.01% : amphibian
+ 0.01% : coil
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q003.jpg
+99.15% : banana
+ 0.06% : orange
+ 0.05% : tile roof
+ 0.05% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : canoe
+ 0.01% : amphibian
+ 0.01% : coil
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q004.jpg
+99.84% : banana
+ 0.01% : butternut squash
+ 0.01% : tile roof
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : wire-haired fox terrier
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q005.jpg
+99.63% : banana
+ 0.02% : butternut squash
+ 0.01% : orange
+ 0.01% : zucchini
+ 0.01% : pineapple
+ 0.00% : tile roof
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : cucumber
+ 0.00% : wire-haired fox terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q006.jpg
+99.91% : banana
+ 0.00% : butternut squash
+ 0.00% : orange
+ 0.00% : pineapple
+ 0.00% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : whippet
+ 0.00% : clog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q007.jpg
+99.71% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.00% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : cucumber
+ 0.00% : coil
+ 0.00% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q008.jpg
+99.84% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.00% : pineapple
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : coil
+ 0.00% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q009.jpg
+99.37% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : pug
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q010.jpg
+99.77% : banana
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : orange
+ 0.00% : spaghetti squash
+ 0.00% : zucchini
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q011.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.00% : grocery store
+ 0.00% : acorn squash
+ 0.00% : lemon
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q012.jpg
+99.18% : banana
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : crate
+ 0.00% : lemon
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q013.jpg
+99.13% : banana
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : orange
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : lemon
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q014.jpg
+99.40% : banana
+ 0.02% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.00% : acorn squash
+ 0.00% : crate
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q015.jpg
+99.14% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : lemon
+ 0.01% : acorn squash
+ 0.01% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q016.jpg
+99.31% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : acorn squash
+ 0.00% : lemon
+ 0.00% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q017.jpg
+99.25% : banana
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.02% : orange
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : crate
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q018.jpg
+99.36% : banana
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : coil
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q019.jpg
+99.48% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q020.jpg
+99.40% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : crate
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q021.jpg
+99.40% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : crate
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q022.jpg
+99.38% : banana
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.00% : crate
+ 0.00% : lemon
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q023.jpg
+99.25% : banana
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.00% : lemon
+ 0.00% : crate
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q024.jpg
+99.31% : banana
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : crate
+ 0.00% : lemon
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q025.jpg
+99.29% : banana
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q026.jpg
+99.06% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : lemon
+ 0.01% : acorn squash
+ 0.00% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q027.jpg
+99.26% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : crate
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q028.jpg
+99.37% : banana
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.02% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q029.jpg
+99.41% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q030.jpg
+99.48% : banana
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q031.jpg
+99.47% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : acorn squash
+ 0.00% : lemon
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q032.jpg
+99.47% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q033.jpg
+99.33% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : coil
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q034.jpg
+99.38% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q035.jpg
+99.48% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q036.jpg
+99.30% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q037.jpg
+99.37% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q038.jpg
+99.48% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q039.jpg
+99.48% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q040.jpg
+99.45% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q041.jpg
+99.49% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q042.jpg
+99.52% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q043.jpg
+99.53% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q044.jpg
+99.53% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q045.jpg
+99.44% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q046.jpg
+99.56% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q047.jpg
+99.54% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q048.jpg
+99.55% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q049.jpg
+99.54% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q050.jpg
+99.54% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q051.jpg
+99.54% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q052.jpg
+99.58% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : tray
+ 0.00% : lemon
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q053.jpg
+99.58% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q054.jpg
+99.56% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q055.jpg
+99.45% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q056.jpg
+99.44% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : tray
+ 0.00% : lemon
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q057.jpg
+99.45% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : tray
+ 0.00% : lemon
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q058.jpg
+99.43% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : tray
+ 0.00% : lemon
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q059.jpg
+99.45% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q060.jpg
+99.48% : banana
+ 0.02% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q061.jpg
+99.53% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q062.jpg
+99.56% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q063.jpg
+99.56% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q064.jpg
+99.53% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q065.jpg
+99.48% : banana
+ 0.02% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q066.jpg
+99.47% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q067.jpg
+99.47% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : tray
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q068.jpg
+99.52% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q069.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q070.jpg
+99.47% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q071.jpg
+99.42% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q072.jpg
+99.46% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q073.jpg
+99.47% : banana
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q074.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q075.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : butternut squash
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q076.jpg
+99.52% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q077.jpg
+99.49% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q078.jpg
+99.47% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q079.jpg
+99.49% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q080.jpg
+99.41% : banana
+ 0.02% : orange
+ 0.02% : butternut squash
+ 0.02% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q081.jpg
+99.54% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q082.jpg
+99.52% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q083.jpg
+99.49% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q084.jpg
+99.46% : banana
+ 0.02% : butternut squash
+ 0.02% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q085.jpg
+99.48% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q086.jpg
+99.50% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q087.jpg
+99.53% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q088.jpg
+99.51% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q089.jpg
+99.49% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : spaghetti squash
+ 0.01% : zucchini
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q090.jpg
+99.54% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q091.jpg
+99.52% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q092.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q093.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q094.jpg
+99.53% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q095.jpg
+99.52% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q096.jpg
+99.47% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q097.jpg
+99.45% : banana
+ 0.02% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q098.jpg
+99.51% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.00% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q099.jpg
+99.48% : banana
+ 0.01% : butternut squash
+ 0.01% : orange
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/bananas/banana17Q100.jpg
+99.49% : banana
+ 0.01% : orange
+ 0.01% : butternut squash
+ 0.01% : pineapple
+ 0.01% : zucchini
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.00% : lemon
+ 0.00% : acorn squash
+ 0.00% : tray

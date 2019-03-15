@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ001.jpg
+17.47% : hen-of-the-woods
+ 4.50% : agaric
+ 4.35% : pot
+ 4.03% : fountain
+ 4.00% : goblet
+ 3.90% : bolo tie
+ 2.98% : conch
+ 2.80% : mushroom
+ 1.73% : stinkhorn
+ 1.68% : vase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ002.jpg
+17.47% : hen-of-the-woods
+ 4.50% : agaric
+ 4.35% : pot
+ 4.02% : fountain
+ 4.01% : goblet
+ 3.90% : bolo tie
+ 2.98% : conch
+ 2.80% : mushroom
+ 1.73% : stinkhorn
+ 1.67% : vase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ003.jpg
+15.66% : hen-of-the-woods
+ 8.87% : fountain
+ 5.63% : goblet
+ 3.50% : pot
+ 3.27% : agaric
+ 3.08% : bolo tie
+ 2.95% : mushroom
+ 2.41% : conch
+ 1.95% : vase
+ 1.77% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ004.jpg
+22.70% : hen-of-the-woods
+11.64% : mushroom
+ 5.70% : stinkhorn
+ 3.89% : gyromitra
+ 3.62% : agaric
+ 3.20% : earthstar
+ 2.31% : pot
+ 1.77% : bolo tie
+ 1.62% : bolete
+ 1.19% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ005.jpg
+48.77% : gyromitra
+15.62% : hen-of-the-woods
+ 6.64% : earthstar
+ 4.23% : mushroom
+ 1.61% : agaric
+ 1.11% : volcano
+ 0.95% : bolo tie
+ 0.78% : coral fungus
+ 0.65% : vase
+ 0.59% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ006.jpg
+29.39% : hen-of-the-woods
+13.34% : mushroom
+11.95% : gyromitra
+ 7.14% : earthstar
+ 2.86% : bolete
+ 2.00% : conch
+ 1.84% : agaric
+ 1.81% : volcano
+ 1.43% : coral fungus
+ 1.19% : basset
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ007.jpg
+27.80% : gyromitra
+17.55% : hen-of-the-woods
+ 6.99% : earthstar
+ 4.83% : mushroom
+ 3.05% : conch
+ 2.55% : agaric
+ 2.53% : stinkhorn
+ 1.73% : bolete
+ 1.10% : volcano
+ 1.05% : bolo tie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ008.jpg
+49.99% : hen-of-the-woods
+ 7.78% : earthstar
+ 5.82% : gyromitra
+ 2.92% : mushroom
+ 2.65% : bolete
+ 1.59% : basset
+ 1.15% : conch
+ 1.03% : agaric
+ 0.89% : stinkhorn
+ 0.70% : ruffed grouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ009.jpg
+54.41% : hen-of-the-woods
+ 5.63% : conch
+ 5.24% : earthstar
+ 3.31% : gyromitra
+ 3.18% : mushroom
+ 2.54% : bolete
+ 0.71% : chiton
+ 0.68% : basset
+ 0.65% : agaric
+ 0.58% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ010.jpg
+20.61% : hen-of-the-woods
+16.49% : conch
+ 4.15% : mushroom
+ 3.75% : basset
+ 2.95% : gyromitra
+ 2.94% : earthstar
+ 1.99% : bolete
+ 1.00% : partridge
+ 0.87% : ruffed grouse
+ 0.81% : chiton
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ011.jpg
+27.35% : hen-of-the-woods
+ 9.30% : mushroom
+ 6.13% : conch
+ 2.58% : basset
+ 2.48% : earthstar
+ 2.32% : warthog
+ 1.63% : agaric
+ 1.37% : gyromitra
+ 1.32% : bolete
+ 0.86% : bolo tie
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ012.jpg
+36.29% : hen-of-the-woods
+24.60% : mushroom
+ 3.11% : earthstar
+ 2.77% : conch
+ 2.22% : agaric
+ 2.02% : gyromitra
+ 1.54% : bolete
+ 1.50% : basset
+ 0.38% : stinkhorn
+ 0.37% : ruffed grouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ013.jpg
+24.77% : mushroom
+24.01% : hen-of-the-woods
+ 3.74% : earthstar
+ 1.54% : agaric
+ 1.52% : ruffed grouse
+ 1.49% : basset
+ 1.17% : gyromitra
+ 0.98% : tray
+ 0.98% : bolete
+ 0.72% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ014.jpg
+33.28% : hen-of-the-woods
+28.22% : mushroom
+ 3.90% : earthstar
+ 1.55% : gyromitra
+ 1.32% : agaric
+ 1.26% : bolete
+ 0.79% : basset
+ 0.65% : conch
+ 0.43% : tray
+ 0.37% : spoonbill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ015.jpg
+42.67% : mushroom
+27.16% : hen-of-the-woods
+ 2.93% : earthstar
+ 2.14% : bolete
+ 2.07% : agaric
+ 1.44% : ruffed grouse
+ 0.96% : gyromitra
+ 0.66% : conch
+ 0.47% : goose
+ 0.42% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ016.jpg
+23.13% : mushroom
+16.24% : hen-of-the-woods
+ 2.54% : earthstar
+ 2.40% : ruffed grouse
+ 2.14% : conch
+ 1.70% : goose
+ 1.63% : agaric
+ 1.30% : bolete
+ 1.10% : warthog
+ 0.93% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ017.jpg
+26.56% : hen-of-the-woods
+22.93% : mushroom
+ 3.50% : earthstar
+ 2.17% : ruffed grouse
+ 1.96% : agaric
+ 1.28% : goose
+ 1.23% : conch
+ 1.22% : bolete
+ 0.98% : prairie chicken
+ 0.93% : partridge
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ018.jpg
+38.64% : hen-of-the-woods
+33.06% : mushroom
+ 3.63% : earthstar
+ 1.61% : bolete
+ 1.32% : agaric
+ 0.85% : conch
+ 0.65% : ruffed grouse
+ 0.51% : gyromitra
+ 0.27% : stinkhorn
+ 0.26% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ019.jpg
+39.19% : hen-of-the-woods
+35.95% : mushroom
+ 2.78% : earthstar
+ 1.78% : bolete
+ 1.42% : agaric
+ 0.57% : gyromitra
+ 0.49% : conch
+ 0.36% : ruffed grouse
+ 0.31% : stinkhorn
+ 0.22% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ020.jpg
+43.21% : mushroom
+33.50% : hen-of-the-woods
+ 3.00% : earthstar
+ 1.97% : bolete
+ 1.59% : agaric
+ 0.56% : conch
+ 0.49% : ruffed grouse
+ 0.33% : gyromitra
+ 0.28% : warthog
+ 0.25% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ021.jpg
+40.64% : hen-of-the-woods
+35.97% : mushroom
+ 2.97% : earthstar
+ 1.84% : bolete
+ 1.51% : agaric
+ 0.90% : conch
+ 0.59% : gyromitra
+ 0.40% : ruffed grouse
+ 0.28% : stinkhorn
+ 0.24% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ022.jpg
+35.07% : hen-of-the-woods
+31.44% : mushroom
+ 2.88% : earthstar
+ 1.55% : bolete
+ 1.31% : agaric
+ 1.25% : conch
+ 1.01% : ruffed grouse
+ 0.50% : gyromitra
+ 0.41% : goose
+ 0.40% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ023.jpg
+37.48% : hen-of-the-woods
+30.52% : mushroom
+ 2.78% : earthstar
+ 1.95% : agaric
+ 1.49% : ruffed grouse
+ 1.10% : bolete
+ 1.04% : conch
+ 0.48% : quail
+ 0.45% : gyromitra
+ 0.45% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ024.jpg
+41.75% : mushroom
+29.02% : hen-of-the-woods
+ 2.38% : earthstar
+ 1.62% : agaric
+ 1.10% : bolete
+ 1.01% : ruffed grouse
+ 0.65% : conch
+ 0.55% : prairie chicken
+ 0.44% : quail
+ 0.43% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ025.jpg
+56.84% : mushroom
+17.58% : hen-of-the-woods
+ 3.03% : agaric
+ 1.59% : earthstar
+ 1.33% : bolete
+ 1.24% : ruffed grouse
+ 0.56% : conch
+ 0.52% : prairie chicken
+ 0.39% : goose
+ 0.31% : quail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ026.jpg
+46.58% : mushroom
+36.59% : hen-of-the-woods
+ 1.83% : earthstar
+ 1.59% : agaric
+ 1.26% : bolete
+ 0.38% : ruffed grouse
+ 0.32% : gyromitra
+ 0.30% : conch
+ 0.24% : pickelhaube
+ 0.21% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ027.jpg
+53.41% : mushroom
+27.33% : hen-of-the-woods
+ 1.89% : earthstar
+ 1.58% : agaric
+ 1.54% : bolete
+ 0.51% : ruffed grouse
+ 0.46% : conch
+ 0.35% : prairie chicken
+ 0.33% : gyromitra
+ 0.27% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ028.jpg
+44.47% : mushroom
+29.06% : hen-of-the-woods
+ 2.65% : earthstar
+ 1.82% : agaric
+ 1.47% : bolete
+ 0.84% : ruffed grouse
+ 0.43% : prairie chicken
+ 0.37% : gyromitra
+ 0.35% : conch
+ 0.34% : black grouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ029.jpg
+48.79% : mushroom
+25.51% : hen-of-the-woods
+ 2.34% : earthstar
+ 1.69% : agaric
+ 1.32% : bolete
+ 1.13% : ruffed grouse
+ 0.51% : prairie chicken
+ 0.38% : quail
+ 0.36% : black grouse
+ 0.36% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ030.jpg
+48.06% : mushroom
+37.12% : hen-of-the-woods
+ 2.03% : earthstar
+ 1.56% : bolete
+ 0.90% : agaric
+ 0.33% : conch
+ 0.30% : ruffed grouse
+ 0.26% : stinkhorn
+ 0.25% : gyromitra
+ 0.21% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ031.jpg
+42.55% : mushroom
+39.43% : hen-of-the-woods
+ 2.17% : earthstar
+ 1.33% : bolete
+ 1.16% : agaric
+ 0.37% : gyromitra
+ 0.37% : conch
+ 0.35% : ruffed grouse
+ 0.31% : goose
+ 0.31% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ032.jpg
+48.21% : mushroom
+36.87% : hen-of-the-woods
+ 1.97% : earthstar
+ 1.35% : bolete
+ 1.28% : agaric
+ 0.41% : conch
+ 0.34% : ruffed grouse
+ 0.31% : gyromitra
+ 0.28% : stinkhorn
+ 0.25% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ033.jpg
+54.94% : mushroom
+29.56% : hen-of-the-woods
+ 1.98% : earthstar
+ 1.20% : bolete
+ 0.98% : agaric
+ 0.43% : ruffed grouse
+ 0.40% : conch
+ 0.27% : gyromitra
+ 0.24% : prairie chicken
+ 0.24% : goose
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ034.jpg
+53.10% : mushroom
+28.84% : hen-of-the-woods
+ 2.16% : bolete
+ 1.59% : earthstar
+ 1.11% : agaric
+ 0.62% : ruffed grouse
+ 0.34% : conch
+ 0.33% : black grouse
+ 0.30% : goose
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ035.jpg
+47.62% : mushroom
+31.09% : hen-of-the-woods
+ 3.01% : earthstar
+ 1.92% : bolete
+ 0.94% : agaric
+ 0.64% : conch
+ 0.46% : ruffed grouse
+ 0.42% : gyromitra
+ 0.41% : stinkhorn
+ 0.26% : goose
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ036.jpg
+52.46% : mushroom
+22.64% : hen-of-the-woods
+ 2.97% : earthstar
+ 1.73% : bolete
+ 1.30% : agaric
+ 0.77% : conch
+ 0.53% : ruffed grouse
+ 0.52% : gyromitra
+ 0.45% : prairie chicken
+ 0.40% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ037.jpg
+51.62% : mushroom
+24.83% : hen-of-the-woods
+ 3.16% : earthstar
+ 1.64% : bolete
+ 1.14% : agaric
+ 0.92% : conch
+ 0.50% : gyromitra
+ 0.42% : ruffed grouse
+ 0.40% : stinkhorn
+ 0.36% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ038.jpg
+52.38% : mushroom
+23.20% : hen-of-the-woods
+ 2.30% : earthstar
+ 1.77% : bolete
+ 1.40% : agaric
+ 0.87% : conch
+ 0.75% : ruffed grouse
+ 0.60% : prairie chicken
+ 0.44% : goose
+ 0.41% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ039.jpg
+46.09% : mushroom
+29.07% : hen-of-the-woods
+ 2.06% : earthstar
+ 1.58% : bolete
+ 1.32% : agaric
+ 0.84% : conch
+ 0.76% : ruffed grouse
+ 0.60% : prairie chicken
+ 0.50% : goose
+ 0.43% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ040.jpg
+44.21% : mushroom
+30.01% : hen-of-the-woods
+ 2.21% : earthstar
+ 1.76% : bolete
+ 1.08% : agaric
+ 0.75% : ruffed grouse
+ 0.63% : black grouse
+ 0.55% : goose
+ 0.50% : prairie chicken
+ 0.50% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ041.jpg
+45.70% : mushroom
+30.27% : hen-of-the-woods
+ 2.61% : bolete
+ 2.36% : earthstar
+ 1.40% : agaric
+ 0.56% : ruffed grouse
+ 0.56% : gyromitra
+ 0.46% : conch
+ 0.44% : black grouse
+ 0.38% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ042.jpg
+45.91% : mushroom
+36.45% : hen-of-the-woods
+ 3.18% : bolete
+ 2.24% : earthstar
+ 1.36% : agaric
+ 0.58% : gyromitra
+ 0.32% : stinkhorn
+ 0.31% : conch
+ 0.24% : ruffed grouse
+ 0.21% : goose
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ043.jpg
+45.58% : mushroom
+35.27% : hen-of-the-woods
+ 3.46% : bolete
+ 2.24% : earthstar
+ 1.37% : agaric
+ 0.63% : gyromitra
+ 0.35% : stinkhorn
+ 0.32% : conch
+ 0.25% : ruffed grouse
+ 0.25% : goose
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ044.jpg
+41.52% : mushroom
+31.42% : hen-of-the-woods
+ 2.39% : earthstar
+ 2.21% : bolete
+ 1.19% : agaric
+ 0.90% : conch
+ 0.82% : gyromitra
+ 0.55% : ruffed grouse
+ 0.45% : stinkhorn
+ 0.35% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ045.jpg
+43.51% : mushroom
+29.13% : hen-of-the-woods
+ 2.60% : bolete
+ 2.41% : earthstar
+ 1.26% : agaric
+ 0.98% : conch
+ 0.86% : gyromitra
+ 0.49% : ruffed grouse
+ 0.45% : stinkhorn
+ 0.32% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ046.jpg
+50.70% : mushroom
+29.78% : hen-of-the-woods
+ 2.48% : earthstar
+ 2.08% : bolete
+ 1.53% : agaric
+ 0.68% : gyromitra
+ 0.52% : conch
+ 0.41% : stinkhorn
+ 0.32% : ruffed grouse
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ047.jpg
+51.15% : mushroom
+28.74% : hen-of-the-woods
+ 2.49% : earthstar
+ 2.17% : bolete
+ 1.54% : agaric
+ 0.67% : gyromitra
+ 0.55% : conch
+ 0.42% : stinkhorn
+ 0.33% : ruffed grouse
+ 0.24% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ048.jpg
+52.38% : mushroom
+27.37% : hen-of-the-woods
+ 2.56% : bolete
+ 2.31% : earthstar
+ 1.45% : agaric
+ 0.68% : conch
+ 0.66% : gyromitra
+ 0.41% : stinkhorn
+ 0.32% : ruffed grouse
+ 0.25% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ049.jpg
+47.46% : mushroom
+27.38% : hen-of-the-woods
+ 2.14% : earthstar
+ 2.05% : bolete
+ 1.75% : agaric
+ 0.85% : conch
+ 0.60% : gyromitra
+ 0.39% : ruffed grouse
+ 0.38% : stinkhorn
+ 0.32% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ050.jpg
+47.22% : mushroom
+27.74% : hen-of-the-woods
+ 2.16% : earthstar
+ 2.04% : bolete
+ 1.76% : agaric
+ 0.84% : conch
+ 0.61% : gyromitra
+ 0.39% : ruffed grouse
+ 0.38% : stinkhorn
+ 0.32% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ051.jpg
+47.35% : mushroom
+28.08% : hen-of-the-woods
+ 2.15% : earthstar
+ 2.04% : bolete
+ 1.77% : agaric
+ 0.82% : conch
+ 0.60% : gyromitra
+ 0.38% : ruffed grouse
+ 0.38% : stinkhorn
+ 0.30% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ052.jpg
+45.53% : mushroom
+32.17% : hen-of-the-woods
+ 2.69% : bolete
+ 2.46% : earthstar
+ 1.19% : agaric
+ 0.96% : gyromitra
+ 0.63% : conch
+ 0.39% : stinkhorn
+ 0.34% : ruffed grouse
+ 0.29% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ053.jpg
+48.04% : mushroom
+31.31% : hen-of-the-woods
+ 2.80% : bolete
+ 2.44% : earthstar
+ 1.32% : agaric
+ 0.77% : gyromitra
+ 0.62% : conch
+ 0.37% : stinkhorn
+ 0.34% : ruffed grouse
+ 0.27% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ054.jpg
+49.23% : mushroom
+30.52% : hen-of-the-woods
+ 2.86% : bolete
+ 2.42% : earthstar
+ 1.39% : agaric
+ 0.77% : gyromitra
+ 0.61% : conch
+ 0.36% : stinkhorn
+ 0.32% : ruffed grouse
+ 0.26% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ055.jpg
+48.99% : mushroom
+28.16% : hen-of-the-woods
+ 3.18% : bolete
+ 2.31% : earthstar
+ 2.01% : agaric
+ 0.84% : gyromitra
+ 0.79% : conch
+ 0.38% : stinkhorn
+ 0.28% : prairie chicken
+ 0.27% : ruffed grouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ056.jpg
+47.73% : mushroom
+28.55% : hen-of-the-woods
+ 3.32% : bolete
+ 2.51% : earthstar
+ 2.11% : agaric
+ 0.93% : gyromitra
+ 0.75% : conch
+ 0.41% : stinkhorn
+ 0.27% : prairie chicken
+ 0.26% : ruffed grouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ057.jpg
+48.95% : mushroom
+26.54% : hen-of-the-woods
+ 3.34% : bolete
+ 2.32% : earthstar
+ 2.26% : agaric
+ 1.05% : gyromitra
+ 0.72% : conch
+ 0.39% : stinkhorn
+ 0.25% : ruffed grouse
+ 0.25% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ058.jpg
+49.52% : mushroom
+28.16% : hen-of-the-woods
+ 2.50% : bolete
+ 2.29% : agaric
+ 2.08% : earthstar
+ 0.75% : conch
+ 0.73% : gyromitra
+ 0.37% : stinkhorn
+ 0.31% : ruffed grouse
+ 0.25% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ059.jpg
+50.08% : mushroom
+28.58% : hen-of-the-woods
+ 2.29% : agaric
+ 2.28% : bolete
+ 2.03% : earthstar
+ 0.78% : conch
+ 0.69% : gyromitra
+ 0.35% : stinkhorn
+ 0.30% : ruffed grouse
+ 0.25% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ060.jpg
+47.36% : mushroom
+33.15% : hen-of-the-woods
+ 2.20% : agaric
+ 2.14% : bolete
+ 1.95% : earthstar
+ 0.71% : conch
+ 0.66% : gyromitra
+ 0.32% : stinkhorn
+ 0.27% : ruffed grouse
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ061.jpg
+47.75% : mushroom
+29.23% : hen-of-the-woods
+ 2.98% : bolete
+ 2.40% : agaric
+ 2.19% : earthstar
+ 0.87% : gyromitra
+ 0.71% : conch
+ 0.36% : stinkhorn
+ 0.24% : ruffed grouse
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ062.jpg
+46.47% : mushroom
+31.97% : hen-of-the-woods
+ 2.72% : bolete
+ 2.24% : earthstar
+ 2.18% : agaric
+ 0.87% : gyromitra
+ 0.59% : conch
+ 0.35% : stinkhorn
+ 0.25% : ruffed grouse
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ063.jpg
+45.69% : mushroom
+33.11% : hen-of-the-woods
+ 2.98% : bolete
+ 2.41% : earthstar
+ 2.05% : agaric
+ 0.95% : gyromitra
+ 0.56% : conch
+ 0.35% : stinkhorn
+ 0.25% : ruffed grouse
+ 0.21% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ064.jpg
+45.93% : mushroom
+33.77% : hen-of-the-woods
+ 2.63% : earthstar
+ 2.55% : bolete
+ 1.99% : agaric
+ 0.94% : gyromitra
+ 0.51% : conch
+ 0.33% : stinkhorn
+ 0.22% : ruffed grouse
+ 0.17% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ065.jpg
+50.95% : mushroom
+29.35% : hen-of-the-woods
+ 2.59% : bolete
+ 2.33% : earthstar
+ 2.21% : agaric
+ 0.78% : gyromitra
+ 0.61% : conch
+ 0.35% : stinkhorn
+ 0.22% : ruffed grouse
+ 0.18% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ066.jpg
+49.79% : mushroom
+30.19% : hen-of-the-woods
+ 2.62% : bolete
+ 2.32% : agaric
+ 2.19% : earthstar
+ 0.73% : gyromitra
+ 0.66% : conch
+ 0.32% : stinkhorn
+ 0.24% : ruffed grouse
+ 0.20% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ067.jpg
+51.00% : mushroom
+30.17% : hen-of-the-woods
+ 2.59% : agaric
+ 2.41% : bolete
+ 2.27% : earthstar
+ 0.69% : gyromitra
+ 0.57% : conch
+ 0.32% : stinkhorn
+ 0.22% : ruffed grouse
+ 0.18% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ068.jpg
+49.57% : mushroom
+32.74% : hen-of-the-woods
+ 2.49% : earthstar
+ 2.17% : bolete
+ 2.17% : agaric
+ 0.77% : gyromitra
+ 0.47% : conch
+ 0.32% : stinkhorn
+ 0.18% : ruffed grouse
+ 0.14% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ069.jpg
+49.16% : mushroom
+33.35% : hen-of-the-woods
+ 2.65% : earthstar
+ 2.31% : bolete
+ 2.14% : agaric
+ 0.81% : gyromitra
+ 0.41% : conch
+ 0.33% : stinkhorn
+ 0.20% : ruffed grouse
+ 0.15% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ070.jpg
+49.33% : mushroom
+26.05% : hen-of-the-woods
+ 3.07% : earthstar
+ 2.85% : bolete
+ 2.45% : agaric
+ 0.99% : gyromitra
+ 0.54% : conch
+ 0.53% : stinkhorn
+ 0.32% : ruffed grouse
+ 0.26% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ071.jpg
+51.36% : mushroom
+27.76% : hen-of-the-woods
+ 2.85% : earthstar
+ 2.85% : bolete
+ 2.29% : agaric
+ 0.75% : gyromitra
+ 0.59% : conch
+ 0.42% : stinkhorn
+ 0.23% : buckeye
+ 0.22% : ruffed grouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ072.jpg
+49.50% : mushroom
+29.22% : hen-of-the-woods
+ 2.78% : bolete
+ 2.63% : earthstar
+ 2.19% : agaric
+ 0.81% : gyromitra
+ 0.68% : conch
+ 0.39% : stinkhorn
+ 0.26% : ruffed grouse
+ 0.25% : buckeye
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ073.jpg
+51.46% : mushroom
+28.06% : hen-of-the-woods
+ 2.50% : bolete
+ 2.37% : earthstar
+ 2.05% : agaric
+ 0.67% : gyromitra
+ 0.66% : conch
+ 0.42% : stinkhorn
+ 0.33% : ruffed grouse
+ 0.22% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ074.jpg
+51.46% : mushroom
+30.65% : hen-of-the-woods
+ 2.38% : earthstar
+ 2.10% : bolete
+ 1.83% : agaric
+ 0.61% : gyromitra
+ 0.47% : conch
+ 0.35% : stinkhorn
+ 0.25% : ruffed grouse
+ 0.17% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ075.jpg
+50.76% : mushroom
+31.35% : hen-of-the-woods
+ 2.41% : earthstar
+ 2.06% : bolete
+ 1.80% : agaric
+ 0.61% : gyromitra
+ 0.47% : conch
+ 0.34% : stinkhorn
+ 0.25% : ruffed grouse
+ 0.18% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ076.jpg
+50.50% : mushroom
+28.85% : hen-of-the-woods
+ 2.50% : earthstar
+ 2.37% : bolete
+ 2.01% : agaric
+ 0.93% : gyromitra
+ 0.45% : conch
+ 0.32% : stinkhorn
+ 0.29% : ruffed grouse
+ 0.21% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ077.jpg
+50.68% : mushroom
+28.87% : hen-of-the-woods
+ 2.54% : earthstar
+ 2.37% : bolete
+ 2.05% : agaric
+ 1.05% : gyromitra
+ 0.56% : conch
+ 0.33% : stinkhorn
+ 0.22% : ruffed grouse
+ 0.18% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ078.jpg
+46.09% : mushroom
+33.37% : hen-of-the-woods
+ 2.21% : earthstar
+ 2.06% : bolete
+ 1.87% : agaric
+ 0.85% : conch
+ 0.76% : gyromitra
+ 0.37% : ruffed grouse
+ 0.31% : stinkhorn
+ 0.22% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ079.jpg
+48.38% : mushroom
+33.26% : hen-of-the-woods
+ 2.07% : earthstar
+ 1.83% : agaric
+ 1.69% : bolete
+ 0.75% : conch
+ 0.66% : gyromitra
+ 0.32% : ruffed grouse
+ 0.28% : stinkhorn
+ 0.20% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ080.jpg
+50.68% : mushroom
+30.33% : hen-of-the-woods
+ 2.06% : agaric
+ 1.91% : earthstar
+ 1.67% : bolete
+ 0.70% : conch
+ 0.67% : gyromitra
+ 0.34% : ruffed grouse
+ 0.29% : stinkhorn
+ 0.21% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ081.jpg
+50.61% : mushroom
+32.18% : hen-of-the-woods
+ 2.07% : earthstar
+ 2.02% : agaric
+ 1.75% : bolete
+ 0.75% : gyromitra
+ 0.58% : conch
+ 0.30% : stinkhorn
+ 0.24% : ruffed grouse
+ 0.14% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ082.jpg
+47.91% : mushroom
+34.77% : hen-of-the-woods
+ 2.40% : earthstar
+ 1.92% : agaric
+ 1.75% : bolete
+ 0.78% : gyromitra
+ 0.53% : conch
+ 0.32% : stinkhorn
+ 0.26% : ruffed grouse
+ 0.15% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ083.jpg
+47.40% : mushroom
+33.97% : hen-of-the-woods
+ 2.23% : agaric
+ 2.14% : earthstar
+ 1.79% : bolete
+ 0.75% : gyromitra
+ 0.63% : conch
+ 0.46% : ruffed grouse
+ 0.32% : stinkhorn
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ084.jpg
+47.82% : mushroom
+34.50% : hen-of-the-woods
+ 1.96% : agaric
+ 1.92% : earthstar
+ 1.86% : bolete
+ 0.67% : gyromitra
+ 0.53% : conch
+ 0.33% : ruffed grouse
+ 0.30% : stinkhorn
+ 0.18% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ085.jpg
+49.90% : mushroom
+31.62% : hen-of-the-woods
+ 1.92% : bolete
+ 1.79% : earthstar
+ 1.79% : agaric
+ 0.66% : conch
+ 0.62% : gyromitra
+ 0.36% : ruffed grouse
+ 0.28% : stinkhorn
+ 0.22% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ086.jpg
+52.56% : mushroom
+27.81% : hen-of-the-woods
+ 2.36% : bolete
+ 2.11% : agaric
+ 1.88% : earthstar
+ 0.75% : gyromitra
+ 0.58% : conch
+ 0.30% : stinkhorn
+ 0.28% : ruffed grouse
+ 0.20% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ087.jpg
+52.90% : mushroom
+29.55% : hen-of-the-woods
+ 2.00% : earthstar
+ 1.91% : bolete
+ 1.90% : agaric
+ 0.68% : gyromitra
+ 0.50% : conch
+ 0.30% : stinkhorn
+ 0.22% : ruffed grouse
+ 0.17% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ088.jpg
+53.83% : mushroom
+28.11% : hen-of-the-woods
+ 2.00% : agaric
+ 1.96% : bolete
+ 1.93% : earthstar
+ 0.64% : gyromitra
+ 0.60% : conch
+ 0.31% : stinkhorn
+ 0.26% : ruffed grouse
+ 0.18% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ089.jpg
+56.29% : mushroom
+25.25% : hen-of-the-woods
+ 2.04% : bolete
+ 1.97% : agaric
+ 1.80% : earthstar
+ 0.69% : conch
+ 0.60% : gyromitra
+ 0.31% : stinkhorn
+ 0.27% : ruffed grouse
+ 0.20% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ090.jpg
+58.01% : mushroom
+23.59% : hen-of-the-woods
+ 2.30% : bolete
+ 2.05% : agaric
+ 1.90% : earthstar
+ 0.63% : conch
+ 0.62% : gyromitra
+ 0.32% : stinkhorn
+ 0.25% : ruffed grouse
+ 0.18% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ091.jpg
+57.03% : mushroom
+23.80% : hen-of-the-woods
+ 2.22% : bolete
+ 2.17% : agaric
+ 1.92% : earthstar
+ 0.66% : conch
+ 0.61% : gyromitra
+ 0.31% : stinkhorn
+ 0.30% : ruffed grouse
+ 0.18% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ092.jpg
+45.35% : mushroom
+33.99% : hen-of-the-woods
+ 2.85% : bolete
+ 2.47% : earthstar
+ 2.13% : agaric
+ 1.33% : gyromitra
+ 0.67% : conch
+ 0.31% : stinkhorn
+ 0.28% : ruffed grouse
+ 0.16% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ093.jpg
+47.35% : mushroom
+30.18% : hen-of-the-woods
+ 2.89% : earthstar
+ 2.66% : bolete
+ 2.56% : agaric
+ 1.30% : gyromitra
+ 0.58% : conch
+ 0.43% : ruffed grouse
+ 0.41% : stinkhorn
+ 0.20% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ094.jpg
+46.35% : mushroom
+30.05% : hen-of-the-woods
+ 2.85% : agaric
+ 2.76% : bolete
+ 2.47% : earthstar
+ 1.28% : gyromitra
+ 0.71% : conch
+ 0.48% : ruffed grouse
+ 0.37% : stinkhorn
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ095.jpg
+47.28% : mushroom
+29.26% : hen-of-the-woods
+ 2.81% : agaric
+ 2.65% : bolete
+ 2.36% : earthstar
+ 1.18% : gyromitra
+ 0.68% : conch
+ 0.45% : ruffed grouse
+ 0.37% : stinkhorn
+ 0.23% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ096.jpg
+48.08% : mushroom
+31.09% : hen-of-the-woods
+ 2.52% : agaric
+ 2.38% : bolete
+ 2.26% : earthstar
+ 1.07% : gyromitra
+ 0.66% : conch
+ 0.33% : stinkhorn
+ 0.32% : ruffed grouse
+ 0.18% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ097.jpg
+49.09% : mushroom
+30.35% : hen-of-the-woods
+ 2.52% : bolete
+ 2.50% : agaric
+ 2.12% : earthstar
+ 1.07% : gyromitra
+ 0.65% : conch
+ 0.36% : ruffed grouse
+ 0.34% : stinkhorn
+ 0.19% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ098.jpg
+46.41% : mushroom
+31.46% : hen-of-the-woods
+ 2.45% : agaric
+ 2.20% : bolete
+ 2.19% : earthstar
+ 1.05% : gyromitra
+ 0.82% : conch
+ 0.42% : ruffed grouse
+ 0.33% : stinkhorn
+ 0.22% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ099.jpg
+47.37% : mushroom
+33.06% : hen-of-the-woods
+ 2.45% : agaric
+ 2.20% : earthstar
+ 2.16% : bolete
+ 0.99% : gyromitra
+ 0.65% : conch
+ 0.35% : ruffed grouse
+ 0.32% : stinkhorn
+ 0.20% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroomQ100.jpg
+49.33% : mushroom
+30.56% : hen-of-the-woods
+ 2.50% : agaric
+ 2.37% : bolete
+ 2.22% : earthstar
+ 0.95% : gyromitra
+ 0.64% : conch
+ 0.37% : ruffed grouse
+ 0.35% : stinkhorn
+ 0.20% : prairie chicken

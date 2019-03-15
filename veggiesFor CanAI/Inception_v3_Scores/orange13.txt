@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q001.jpg
+23.94% : orange
+13.00% : bell pepper
+10.82% : candle
+10.50% : spaghetti squash
+ 6.62% : butternut squash
+ 4.26% : ping-pong ball
+ 3.18% : lemon
+ 1.91% : croquet ball
+ 1.38% : pencil sharpener
+ 1.16% : baseball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q002.jpg
+24.00% : orange
+12.88% : bell pepper
+10.86% : candle
+10.38% : spaghetti squash
+ 6.56% : butternut squash
+ 4.26% : ping-pong ball
+ 3.10% : lemon
+ 1.93% : croquet ball
+ 1.38% : pencil sharpener
+ 1.18% : baseball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q003.jpg
+24.45% : orange
+12.82% : candle
+11.82% : bell pepper
+10.20% : spaghetti squash
+ 6.59% : butternut squash
+ 3.55% : ping-pong ball
+ 3.35% : lemon
+ 1.92% : croquet ball
+ 1.37% : pencil sharpener
+ 0.95% : baseball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q004.jpg
+53.18% : orange
+14.24% : lemon
+12.45% : spaghetti squash
+ 1.60% : candle
+ 1.38% : bell pepper
+ 1.37% : butternut squash
+ 1.34% : croquet ball
+ 1.17% : ping-pong ball
+ 0.40% : acorn squash
+ 0.32% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q005.jpg
+65.81% : orange
+21.04% : lemon
+ 1.80% : spaghetti squash
+ 0.74% : croquet ball
+ 0.24% : tennis ball
+ 0.23% : candle
+ 0.16% : grocery store
+ 0.14% : banana
+ 0.14% : ping-pong ball
+ 0.14% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q006.jpg
+92.07% : orange
+ 3.00% : lemon
+ 0.16% : banana
+ 0.12% : spaghetti squash
+ 0.06% : croquet ball
+ 0.06% : grocery store
+ 0.05% : basketball
+ 0.04% : lifeboat
+ 0.03% : pineapple
+ 0.03% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q007.jpg
+79.13% : orange
+13.94% : lemon
+ 0.22% : spaghetti squash
+ 0.20% : banana
+ 0.07% : grocery store
+ 0.07% : croquet ball
+ 0.05% : pineapple
+ 0.03% : basketball
+ 0.03% : strainer
+ 0.03% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q008.jpg
+91.53% : orange
+ 4.39% : lemon
+ 0.22% : banana
+ 0.06% : spaghetti squash
+ 0.04% : grocery store
+ 0.03% : strawberry
+ 0.03% : pineapple
+ 0.03% : basketball
+ 0.03% : croquet ball
+ 0.02% : lifeboat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q009.jpg
+84.19% : orange
+ 9.90% : lemon
+ 0.25% : banana
+ 0.15% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : croquet ball
+ 0.05% : pineapple
+ 0.04% : basketball
+ 0.03% : oxygen mask
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q010.jpg
+80.47% : orange
+11.58% : lemon
+ 0.33% : banana
+ 0.16% : spaghetti squash
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.05% : croquet ball
+ 0.04% : strawberry
+ 0.04% : oxygen mask
+ 0.04% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q011.jpg
+83.80% : orange
+ 9.83% : lemon
+ 0.27% : banana
+ 0.13% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.04% : croquet ball
+ 0.03% : basketball
+ 0.03% : oxygen mask
+ 0.03% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q012.jpg
+76.45% : orange
+15.71% : lemon
+ 0.30% : banana
+ 0.09% : spaghetti squash
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.04% : croquet ball
+ 0.04% : magnetic compass
+ 0.04% : oxygen mask
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q013.jpg
+80.13% : orange
+13.45% : lemon
+ 0.31% : banana
+ 0.08% : spaghetti squash
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.03% : croquet ball
+ 0.03% : basketball
+ 0.03% : strainer
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q014.jpg
+76.45% : orange
+17.41% : lemon
+ 0.29% : banana
+ 0.08% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : croquet ball
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q015.jpg
+74.19% : orange
+17.31% : lemon
+ 0.37% : banana
+ 0.14% : spaghetti squash
+ 0.07% : grocery store
+ 0.06% : pineapple
+ 0.04% : oxygen mask
+ 0.04% : croquet ball
+ 0.03% : magnetic compass
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q016.jpg
+77.47% : orange
+15.68% : lemon
+ 0.34% : banana
+ 0.09% : spaghetti squash
+ 0.06% : grocery store
+ 0.05% : pineapple
+ 0.03% : croquet ball
+ 0.03% : strainer
+ 0.03% : magnetic compass
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q017.jpg
+76.83% : orange
+16.08% : lemon
+ 0.37% : banana
+ 0.09% : spaghetti squash
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q018.jpg
+76.61% : orange
+17.32% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.04% : pineapple
+ 0.04% : grocery store
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : strainer
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q019.jpg
+76.90% : orange
+16.13% : lemon
+ 0.36% : banana
+ 0.08% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q020.jpg
+69.65% : orange
+22.61% : lemon
+ 0.34% : banana
+ 0.12% : spaghetti squash
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.03% : croquet ball
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q021.jpg
+69.51% : orange
+21.81% : lemon
+ 0.32% : banana
+ 0.11% : spaghetti squash
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.04% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : magnetic compass
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q022.jpg
+70.91% : orange
+20.72% : lemon
+ 0.36% : banana
+ 0.08% : spaghetti squash
+ 0.06% : grocery store
+ 0.06% : pineapple
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q023.jpg
+65.83% : orange
+25.73% : lemon
+ 0.35% : banana
+ 0.10% : spaghetti squash
+ 0.06% : pineapple
+ 0.06% : grocery store
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : king penguin
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q024.jpg
+68.03% : orange
+24.44% : lemon
+ 0.32% : banana
+ 0.10% : spaghetti squash
+ 0.06% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q025.jpg
+68.23% : orange
+24.50% : lemon
+ 0.30% : banana
+ 0.10% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : croquet ball
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q026.jpg
+65.69% : orange
+26.55% : lemon
+ 0.32% : banana
+ 0.09% : spaghetti squash
+ 0.06% : pineapple
+ 0.05% : grocery store
+ 0.04% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : strainer
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q027.jpg
+65.77% : orange
+26.90% : lemon
+ 0.31% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q028.jpg
+71.15% : orange
+21.68% : lemon
+ 0.30% : banana
+ 0.09% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q029.jpg
+71.75% : orange
+21.46% : lemon
+ 0.32% : banana
+ 0.08% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : croquet ball
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q030.jpg
+74.77% : orange
+19.05% : lemon
+ 0.31% : banana
+ 0.08% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q031.jpg
+73.09% : orange
+20.50% : lemon
+ 0.27% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q032.jpg
+72.12% : orange
+20.93% : lemon
+ 0.29% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : combination lock
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q033.jpg
+71.66% : orange
+22.08% : lemon
+ 0.27% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q034.jpg
+75.43% : orange
+18.44% : lemon
+ 0.29% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q035.jpg
+71.89% : orange
+21.41% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q036.jpg
+69.39% : orange
+24.06% : lemon
+ 0.28% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q037.jpg
+71.92% : orange
+21.62% : lemon
+ 0.29% : banana
+ 0.05% : spaghetti squash
+ 0.04% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q038.jpg
+75.66% : orange
+18.61% : lemon
+ 0.28% : banana
+ 0.05% : spaghetti squash
+ 0.04% : grocery store
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.02% : combination lock
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q039.jpg
+76.05% : orange
+18.23% : lemon
+ 0.28% : banana
+ 0.05% : spaghetti squash
+ 0.04% : grocery store
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q040.jpg
+72.91% : orange
+20.96% : lemon
+ 0.28% : banana
+ 0.07% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q041.jpg
+72.77% : orange
+21.11% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.04% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q042.jpg
+74.01% : orange
+19.95% : lemon
+ 0.30% : banana
+ 0.05% : spaghetti squash
+ 0.04% : grocery store
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q043.jpg
+74.06% : orange
+20.00% : lemon
+ 0.29% : banana
+ 0.05% : spaghetti squash
+ 0.04% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q044.jpg
+71.17% : orange
+22.38% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q045.jpg
+71.41% : orange
+22.14% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : strainer
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q046.jpg
+67.21% : orange
+25.75% : lemon
+ 0.29% : banana
+ 0.08% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q047.jpg
+67.73% : orange
+25.26% : lemon
+ 0.29% : banana
+ 0.08% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q048.jpg
+67.99% : orange
+25.42% : lemon
+ 0.28% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q049.jpg
+71.69% : orange
+21.70% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q050.jpg
+71.81% : orange
+21.61% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q051.jpg
+72.06% : orange
+21.39% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q052.jpg
+74.16% : orange
+19.58% : lemon
+ 0.31% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : strawberry
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q053.jpg
+73.56% : orange
+20.05% : lemon
+ 0.30% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : EntleBucher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q054.jpg
+73.31% : orange
+20.24% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : EntleBucher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q055.jpg
+71.97% : orange
+21.20% : lemon
+ 0.34% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : strawberry
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q056.jpg
+72.40% : orange
+20.92% : lemon
+ 0.33% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : EntleBucher
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q057.jpg
+72.61% : orange
+20.64% : lemon
+ 0.34% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q058.jpg
+74.02% : orange
+19.60% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : EntleBucher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q059.jpg
+73.18% : orange
+20.41% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : EntleBucher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q060.jpg
+73.23% : orange
+20.13% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : EntleBucher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q061.jpg
+69.20% : orange
+23.59% : lemon
+ 0.31% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q062.jpg
+67.90% : orange
+24.87% : lemon
+ 0.30% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q063.jpg
+69.64% : orange
+23.34% : lemon
+ 0.31% : banana
+ 0.07% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q064.jpg
+71.39% : orange
+21.81% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q065.jpg
+70.02% : orange
+23.34% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q066.jpg
+69.15% : orange
+24.11% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q067.jpg
+66.03% : orange
+26.92% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : strainer
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q068.jpg
+71.00% : orange
+22.17% : lemon
+ 0.33% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q069.jpg
+71.18% : orange
+22.09% : lemon
+ 0.33% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q070.jpg
+70.60% : orange
+22.58% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q071.jpg
+70.73% : orange
+22.46% : lemon
+ 0.33% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q072.jpg
+71.58% : orange
+21.76% : lemon
+ 0.33% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q073.jpg
+69.78% : orange
+23.47% : lemon
+ 0.32% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.04% : grocery store
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q074.jpg
+68.55% : orange
+24.36% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q075.jpg
+69.21% : orange
+23.73% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q076.jpg
+71.22% : orange
+21.78% : lemon
+ 0.34% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q077.jpg
+71.37% : orange
+21.88% : lemon
+ 0.33% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : oxygen mask
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q078.jpg
+70.25% : orange
+23.13% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q079.jpg
+69.55% : orange
+23.73% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q080.jpg
+70.31% : orange
+23.04% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q081.jpg
+72.43% : orange
+21.29% : lemon
+ 0.31% : banana
+ 0.05% : spaghetti squash
+ 0.04% : grocery store
+ 0.04% : pineapple
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q082.jpg
+69.05% : orange
+24.50% : lemon
+ 0.30% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q083.jpg
+66.11% : orange
+26.89% : lemon
+ 0.32% : banana
+ 0.07% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q084.jpg
+65.82% : orange
+27.07% : lemon
+ 0.33% : banana
+ 0.07% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q085.jpg
+66.83% : orange
+26.34% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q086.jpg
+66.06% : orange
+27.25% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q087.jpg
+67.22% : orange
+26.14% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q088.jpg
+67.85% : orange
+25.59% : lemon
+ 0.31% : banana
+ 0.05% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q089.jpg
+67.40% : orange
+25.96% : lemon
+ 0.31% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+ 0.03% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q090.jpg
+64.49% : orange
+28.47% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q091.jpg
+65.43% : orange
+27.30% : lemon
+ 0.34% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q092.jpg
+69.90% : orange
+23.54% : lemon
+ 0.33% : banana
+ 0.06% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : EntleBucher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q093.jpg
+75.10% : orange
+18.96% : lemon
+ 0.33% : banana
+ 0.05% : pineapple
+ 0.04% : spaghetti squash
+ 0.04% : grocery store
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q094.jpg
+73.94% : orange
+19.85% : lemon
+ 0.33% : banana
+ 0.05% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : strawberry
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q095.jpg
+72.03% : orange
+21.56% : lemon
+ 0.32% : banana
+ 0.05% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q096.jpg
+69.80% : orange
+23.65% : lemon
+ 0.32% : banana
+ 0.06% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q097.jpg
+70.89% : orange
+22.66% : lemon
+ 0.32% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q098.jpg
+71.23% : orange
+22.43% : lemon
+ 0.32% : banana
+ 0.05% : spaghetti squash
+ 0.05% : pineapple
+ 0.05% : grocery store
+ 0.03% : combination lock
+ 0.03% : king penguin
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q099.jpg
+71.27% : orange
+22.35% : lemon
+ 0.32% : banana
+ 0.05% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange13Q100.jpg
+70.17% : orange
+23.46% : lemon
+ 0.31% : banana
+ 0.05% : spaghetti squash
+ 0.05% : grocery store
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : oxygen mask
+ 0.03% : strawberry

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q001.jpg
+25.07% : cucumber
+16.24% : zucchini
+ 1.92% : spaghetti squash
+ 1.72% : clog
+ 1.71% : chain
+ 1.70% : acorn squash
+ 1.70% : rock python
+ 1.32% : boa constrictor
+ 1.15% : hotdog
+ 1.12% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q002.jpg
+25.07% : cucumber
+16.24% : zucchini
+ 1.92% : spaghetti squash
+ 1.72% : clog
+ 1.71% : chain
+ 1.70% : rock python
+ 1.70% : acorn squash
+ 1.32% : boa constrictor
+ 1.15% : hotdog
+ 1.12% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q003.jpg
+22.75% : cucumber
+15.00% : zucchini
+ 2.58% : clog
+ 1.76% : chain
+ 1.59% : rock python
+ 1.58% : spaghetti squash
+ 1.36% : acorn squash
+ 1.32% : boa constrictor
+ 1.17% : butternut squash
+ 1.15% : green snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q004.jpg
+21.17% : cucumber
+14.99% : zucchini
+ 4.51% : chain
+ 2.41% : spaghetti squash
+ 2.09% : rock python
+ 2.01% : clog
+ 1.46% : lemon
+ 0.83% : butternut squash
+ 0.80% : boa constrictor
+ 0.76% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q005.jpg
+30.39% : cucumber
+28.16% : zucchini
+ 1.10% : rock python
+ 0.64% : screwdriver
+ 0.57% : French loaf
+ 0.55% : clog
+ 0.52% : spaghetti squash
+ 0.52% : confectionery
+ 0.46% : chain
+ 0.40% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q006.jpg
+53.30% : cucumber
+31.40% : zucchini
+ 0.19% : screwdriver
+ 0.18% : rock python
+ 0.12% : head cabbage
+ 0.12% : ear
+ 0.12% : spaghetti squash
+ 0.11% : coil
+ 0.11% : French loaf
+ 0.10% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q007.jpg
+70.45% : cucumber
+20.08% : zucchini
+ 0.17% : head cabbage
+ 0.14% : ear
+ 0.09% : grocery store
+ 0.09% : lemon
+ 0.09% : spaghetti squash
+ 0.07% : French loaf
+ 0.06% : Granny Smith
+ 0.05% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q008.jpg
+63.37% : cucumber
+26.61% : zucchini
+ 0.22% : head cabbage
+ 0.15% : ear
+ 0.14% : grocery store
+ 0.09% : cauliflower
+ 0.09% : spaghetti squash
+ 0.08% : bell pepper
+ 0.07% : Granny Smith
+ 0.07% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q009.jpg
+79.36% : cucumber
+13.41% : zucchini
+ 0.14% : head cabbage
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.09% : spaghetti squash
+ 0.07% : bell pepper
+ 0.06% : lemon
+ 0.06% : cauliflower
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q010.jpg
+71.28% : cucumber
+19.79% : zucchini
+ 0.12% : head cabbage
+ 0.12% : ear
+ 0.11% : bell pepper
+ 0.10% : grocery store
+ 0.09% : spaghetti squash
+ 0.08% : cauliflower
+ 0.07% : lemon
+ 0.06% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q011.jpg
+86.12% : cucumber
+ 7.10% : zucchini
+ 0.09% : head cabbage
+ 0.09% : bell pepper
+ 0.08% : grocery store
+ 0.07% : ear
+ 0.06% : cauliflower
+ 0.06% : spaghetti squash
+ 0.05% : coil
+ 0.04% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q012.jpg
+89.56% : cucumber
+ 6.31% : zucchini
+ 0.07% : bell pepper
+ 0.06% : head cabbage
+ 0.06% : grocery store
+ 0.05% : ear
+ 0.04% : spaghetti squash
+ 0.04% : coil
+ 0.04% : cauliflower
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q013.jpg
+88.52% : cucumber
+ 4.53% : zucchini
+ 0.12% : head cabbage
+ 0.11% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cauliflower
+ 0.07% : ear
+ 0.06% : coil
+ 0.05% : modem
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q014.jpg
+87.86% : cucumber
+ 6.40% : zucchini
+ 0.08% : grocery store
+ 0.08% : bell pepper
+ 0.07% : head cabbage
+ 0.07% : coil
+ 0.06% : ear
+ 0.05% : spaghetti squash
+ 0.05% : modem
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q015.jpg
+82.62% : cucumber
+10.05% : zucchini
+ 0.14% : bell pepper
+ 0.09% : head cabbage
+ 0.09% : grocery store
+ 0.09% : ear
+ 0.07% : spaghetti squash
+ 0.07% : cauliflower
+ 0.07% : coil
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q016.jpg
+88.06% : cucumber
+ 6.48% : zucchini
+ 0.09% : bell pepper
+ 0.07% : head cabbage
+ 0.06% : grocery store
+ 0.06% : ear
+ 0.05% : cauliflower
+ 0.05% : coil
+ 0.05% : spaghetti squash
+ 0.04% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q017.jpg
+85.05% : cucumber
+ 6.37% : zucchini
+ 0.15% : bell pepper
+ 0.11% : grocery store
+ 0.10% : head cabbage
+ 0.09% : ear
+ 0.08% : cauliflower
+ 0.08% : spaghetti squash
+ 0.08% : coil
+ 0.06% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q018.jpg
+84.90% : cucumber
+ 6.62% : zucchini
+ 0.14% : bell pepper
+ 0.10% : grocery store
+ 0.09% : head cabbage
+ 0.09% : coil
+ 0.08% : ear
+ 0.07% : cauliflower
+ 0.07% : spaghetti squash
+ 0.05% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q019.jpg
+83.84% : cucumber
+ 7.13% : zucchini
+ 0.24% : bell pepper
+ 0.11% : head cabbage
+ 0.11% : grocery store
+ 0.09% : ear
+ 0.09% : spaghetti squash
+ 0.08% : cauliflower
+ 0.07% : coil
+ 0.06% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q020.jpg
+90.76% : cucumber
+ 4.30% : zucchini
+ 0.13% : bell pepper
+ 0.07% : grocery store
+ 0.06% : coil
+ 0.05% : head cabbage
+ 0.05% : ear
+ 0.04% : cauliflower
+ 0.04% : spaghetti squash
+ 0.04% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q021.jpg
+92.73% : cucumber
+ 2.84% : zucchini
+ 0.11% : bell pepper
+ 0.06% : coil
+ 0.06% : grocery store
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.04% : modem
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q022.jpg
+92.47% : cucumber
+ 3.21% : zucchini
+ 0.09% : bell pepper
+ 0.06% : coil
+ 0.06% : grocery store
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.04% : modem
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q023.jpg
+90.87% : cucumber
+ 3.93% : zucchini
+ 0.12% : bell pepper
+ 0.07% : grocery store
+ 0.07% : coil
+ 0.06% : head cabbage
+ 0.06% : ear
+ 0.05% : modem
+ 0.04% : cauliflower
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q024.jpg
+87.99% : cucumber
+ 5.29% : zucchini
+ 0.15% : bell pepper
+ 0.09% : grocery store
+ 0.08% : coil
+ 0.07% : head cabbage
+ 0.07% : ear
+ 0.06% : cauliflower
+ 0.05% : modem
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q025.jpg
+90.00% : cucumber
+ 3.16% : zucchini
+ 0.16% : bell pepper
+ 0.09% : grocery store
+ 0.08% : coil
+ 0.07% : head cabbage
+ 0.06% : modem
+ 0.06% : ear
+ 0.05% : cauliflower
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q026.jpg
+88.67% : cucumber
+ 4.38% : zucchini
+ 0.19% : bell pepper
+ 0.09% : grocery store
+ 0.08% : coil
+ 0.07% : head cabbage
+ 0.07% : ear
+ 0.06% : cauliflower
+ 0.06% : modem
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q027.jpg
+91.97% : cucumber
+ 2.67% : zucchini
+ 0.19% : bell pepper
+ 0.07% : coil
+ 0.07% : grocery store
+ 0.05% : head cabbage
+ 0.05% : modem
+ 0.05% : ear
+ 0.04% : cauliflower
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q028.jpg
+91.58% : cucumber
+ 2.57% : zucchini
+ 0.19% : bell pepper
+ 0.08% : grocery store
+ 0.07% : coil
+ 0.06% : head cabbage
+ 0.05% : ear
+ 0.05% : modem
+ 0.04% : cauliflower
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q029.jpg
+92.25% : cucumber
+ 2.24% : zucchini
+ 0.22% : bell pepper
+ 0.08% : grocery store
+ 0.07% : coil
+ 0.06% : head cabbage
+ 0.05% : ear
+ 0.05% : modem
+ 0.04% : cauliflower
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q030.jpg
+91.57% : cucumber
+ 3.24% : zucchini
+ 0.19% : bell pepper
+ 0.07% : grocery store
+ 0.07% : coil
+ 0.05% : head cabbage
+ 0.05% : ear
+ 0.05% : modem
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q031.jpg
+92.20% : cucumber
+ 2.16% : zucchini
+ 0.21% : bell pepper
+ 0.08% : coil
+ 0.08% : grocery store
+ 0.06% : head cabbage
+ 0.05% : modem
+ 0.05% : ear
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q032.jpg
+91.78% : cucumber
+ 2.43% : zucchini
+ 0.19% : bell pepper
+ 0.08% : coil
+ 0.08% : grocery store
+ 0.06% : head cabbage
+ 0.05% : modem
+ 0.05% : ear
+ 0.04% : cauliflower
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q033.jpg
+91.95% : cucumber
+ 2.40% : zucchini
+ 0.20% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.05% : modem
+ 0.05% : ear
+ 0.05% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q034.jpg
+91.60% : cucumber
+ 2.53% : zucchini
+ 0.19% : bell pepper
+ 0.08% : grocery store
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : ear
+ 0.05% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q035.jpg
+92.82% : cucumber
+ 2.34% : zucchini
+ 0.11% : bell pepper
+ 0.06% : grocery store
+ 0.06% : coil
+ 0.05% : modem
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q036.jpg
+92.38% : cucumber
+ 2.61% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q037.jpg
+92.63% : cucumber
+ 2.51% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q038.jpg
+92.10% : cucumber
+ 2.57% : zucchini
+ 0.15% : bell pepper
+ 0.07% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.04% : cauliflower
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q039.jpg
+92.36% : cucumber
+ 2.28% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.07% : modem
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.04% : cauliflower
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q040.jpg
+93.74% : cucumber
+ 1.75% : zucchini
+ 0.10% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q041.jpg
+93.70% : cucumber
+ 1.83% : zucchini
+ 0.11% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q042.jpg
+93.36% : cucumber
+ 2.16% : zucchini
+ 0.11% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q043.jpg
+93.37% : cucumber
+ 2.14% : zucchini
+ 0.11% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q044.jpg
+93.06% : cucumber
+ 1.92% : zucchini
+ 0.15% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q045.jpg
+92.79% : cucumber
+ 1.94% : zucchini
+ 0.17% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q046.jpg
+94.50% : cucumber
+ 1.39% : zucchini
+ 0.13% : bell pepper
+ 0.06% : coil
+ 0.05% : grocery store
+ 0.05% : modem
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q047.jpg
+94.49% : cucumber
+ 1.42% : zucchini
+ 0.13% : bell pepper
+ 0.06% : coil
+ 0.05% : grocery store
+ 0.05% : modem
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q048.jpg
+94.76% : cucumber
+ 1.21% : zucchini
+ 0.12% : bell pepper
+ 0.06% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q049.jpg
+93.24% : cucumber
+ 1.50% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.07% : modem
+ 0.06% : grocery store
+ 0.05% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q050.jpg
+93.18% : cucumber
+ 1.51% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.07% : modem
+ 0.06% : grocery store
+ 0.05% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q051.jpg
+93.24% : cucumber
+ 1.50% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.07% : modem
+ 0.06% : grocery store
+ 0.05% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q052.jpg
+94.53% : cucumber
+ 1.29% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.05% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q053.jpg
+94.66% : cucumber
+ 1.26% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q054.jpg
+94.75% : cucumber
+ 1.28% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q055.jpg
+93.22% : cucumber
+ 1.86% : zucchini
+ 0.13% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.03% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q056.jpg
+92.73% : cucumber
+ 2.04% : zucchini
+ 0.13% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q057.jpg
+92.70% : cucumber
+ 2.00% : zucchini
+ 0.15% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q058.jpg
+93.17% : cucumber
+ 1.76% : zucchini
+ 0.13% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q059.jpg
+93.00% : cucumber
+ 1.99% : zucchini
+ 0.14% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q060.jpg
+93.06% : cucumber
+ 1.96% : zucchini
+ 0.14% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q061.jpg
+94.04% : cucumber
+ 1.80% : zucchini
+ 0.12% : bell pepper
+ 0.06% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q062.jpg
+93.16% : cucumber
+ 2.36% : zucchini
+ 0.12% : bell pepper
+ 0.06% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q063.jpg
+93.18% : cucumber
+ 2.28% : zucchini
+ 0.12% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q064.jpg
+92.14% : cucumber
+ 2.66% : zucchini
+ 0.14% : bell pepper
+ 0.08% : coil
+ 0.07% : grocery store
+ 0.06% : modem
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q065.jpg
+92.23% : cucumber
+ 2.74% : zucchini
+ 0.15% : bell pepper
+ 0.08% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q066.jpg
+92.14% : cucumber
+ 3.04% : zucchini
+ 0.13% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q067.jpg
+91.74% : cucumber
+ 3.25% : zucchini
+ 0.13% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.06% : modem
+ 0.04% : ear
+ 0.04% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q068.jpg
+90.96% : cucumber
+ 3.62% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.06% : modem
+ 0.05% : ear
+ 0.05% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q069.jpg
+91.40% : cucumber
+ 3.29% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.06% : modem
+ 0.05% : head cabbage
+ 0.05% : ear
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q070.jpg
+91.39% : cucumber
+ 3.22% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.06% : modem
+ 0.05% : head cabbage
+ 0.04% : ear
+ 0.04% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q071.jpg
+93.10% : cucumber
+ 2.13% : zucchini
+ 0.11% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q072.jpg
+92.96% : cucumber
+ 2.14% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q073.jpg
+93.44% : cucumber
+ 1.87% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q074.jpg
+93.16% : cucumber
+ 2.31% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q075.jpg
+93.11% : cucumber
+ 2.35% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q076.jpg
+92.68% : cucumber
+ 2.54% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.06% : grocery store
+ 0.05% : modem
+ 0.04% : ear
+ 0.04% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q077.jpg
+92.83% : cucumber
+ 2.26% : zucchini
+ 0.14% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q078.jpg
+93.30% : cucumber
+ 1.80% : zucchini
+ 0.13% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q079.jpg
+93.30% : cucumber
+ 1.78% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.07% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q080.jpg
+94.20% : cucumber
+ 1.48% : zucchini
+ 0.12% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q081.jpg
+94.00% : cucumber
+ 1.55% : zucchini
+ 0.13% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q082.jpg
+93.89% : cucumber
+ 1.57% : zucchini
+ 0.13% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q083.jpg
+94.34% : cucumber
+ 1.35% : zucchini
+ 0.11% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q084.jpg
+94.81% : cucumber
+ 1.17% : zucchini
+ 0.09% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q085.jpg
+93.80% : cucumber
+ 1.56% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q086.jpg
+93.90% : cucumber
+ 1.60% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q087.jpg
+93.24% : cucumber
+ 1.72% : zucchini
+ 0.14% : bell pepper
+ 0.08% : coil
+ 0.07% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.03% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q088.jpg
+93.29% : cucumber
+ 1.76% : zucchini
+ 0.13% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q089.jpg
+93.58% : cucumber
+ 1.71% : zucchini
+ 0.13% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q090.jpg
+93.49% : cucumber
+ 1.86% : zucchini
+ 0.12% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.06% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q091.jpg
+93.95% : cucumber
+ 1.57% : zucchini
+ 0.11% : bell pepper
+ 0.08% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q092.jpg
+94.14% : cucumber
+ 1.61% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.06% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q093.jpg
+94.69% : cucumber
+ 1.41% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.05% : modem
+ 0.04% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : iron
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q094.jpg
+94.41% : cucumber
+ 1.78% : zucchini
+ 0.12% : bell pepper
+ 0.06% : coil
+ 0.05% : grocery store
+ 0.05% : modem
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q095.jpg
+93.98% : cucumber
+ 2.05% : zucchini
+ 0.12% : bell pepper
+ 0.06% : coil
+ 0.05% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q096.jpg
+93.91% : cucumber
+ 2.01% : zucchini
+ 0.11% : bell pepper
+ 0.07% : coil
+ 0.05% : modem
+ 0.05% : grocery store
+ 0.03% : head cabbage
+ 0.03% : ear
+ 0.02% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q097.jpg
+93.31% : cucumber
+ 2.22% : zucchini
+ 0.12% : bell pepper
+ 0.07% : coil
+ 0.05% : modem
+ 0.05% : grocery store
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q098.jpg
+93.49% : cucumber
+ 2.17% : zucchini
+ 0.13% : bell pepper
+ 0.07% : coil
+ 0.05% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.03% : ear
+ 0.03% : cauliflower
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q099.jpg
+92.92% : cucumber
+ 2.47% : zucchini
+ 0.14% : bell pepper
+ 0.07% : coil
+ 0.05% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber17Q100.jpg
+92.95% : cucumber
+ 2.49% : zucchini
+ 0.13% : bell pepper
+ 0.07% : coil
+ 0.05% : grocery store
+ 0.05% : modem
+ 0.04% : head cabbage
+ 0.04% : ear
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash

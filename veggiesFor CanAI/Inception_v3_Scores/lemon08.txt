@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q001.jpg
+37.49% : lemon
+22.31% : orange
+ 4.78% : bell pepper
+ 2.45% : acorn squash
+ 1.85% : spaghetti squash
+ 0.92% : jack-o'-lantern
+ 0.85% : butternut squash
+ 0.78% : pot
+ 0.53% : pomegranate
+ 0.45% : ladybug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q002.jpg
+40.47% : lemon
+21.96% : orange
+ 4.37% : bell pepper
+ 2.19% : acorn squash
+ 1.66% : spaghetti squash
+ 0.76% : jack-o'-lantern
+ 0.72% : butternut squash
+ 0.71% : pot
+ 0.48% : pomegranate
+ 0.43% : ladybug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q003.jpg
+40.30% : lemon
+24.89% : orange
+ 4.06% : bell pepper
+ 2.14% : acorn squash
+ 1.51% : spaghetti squash
+ 0.86% : jack-o'-lantern
+ 0.78% : butternut squash
+ 0.74% : pot
+ 0.45% : ladybug
+ 0.43% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q004.jpg
+84.20% : lemon
+ 6.39% : orange
+ 1.60% : bell pepper
+ 0.36% : spaghetti squash
+ 0.16% : corn
+ 0.16% : tennis ball
+ 0.16% : acorn squash
+ 0.12% : ping-pong ball
+ 0.11% : grocery store
+ 0.10% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q005.jpg
+56.51% : lemon
+21.23% : orange
+ 1.75% : bell pepper
+ 0.65% : spaghetti squash
+ 0.36% : tennis ball
+ 0.33% : grocery store
+ 0.27% : butternut squash
+ 0.24% : acorn squash
+ 0.20% : ping-pong ball
+ 0.19% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q006.jpg
+90.43% : lemon
+ 2.60% : orange
+ 0.49% : bell pepper
+ 0.39% : spaghetti squash
+ 0.10% : butternut squash
+ 0.09% : dough
+ 0.09% : acorn squash
+ 0.08% : ping-pong ball
+ 0.07% : jackfruit
+ 0.05% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q007.jpg
+68.95% : lemon
+19.83% : orange
+ 0.50% : bell pepper
+ 0.19% : spaghetti squash
+ 0.14% : grocery store
+ 0.10% : butternut squash
+ 0.09% : banana
+ 0.08% : pineapple
+ 0.07% : ping-pong ball
+ 0.06% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q008.jpg
+95.25% : lemon
+ 0.76% : orange
+ 0.10% : spaghetti squash
+ 0.07% : dough
+ 0.05% : jackfruit
+ 0.05% : bell pepper
+ 0.02% : grocery store
+ 0.02% : tennis ball
+ 0.02% : pineapple
+ 0.02% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q009.jpg
+73.40% : lemon
+11.39% : orange
+ 0.18% : spaghetti squash
+ 0.15% : bell pepper
+ 0.12% : banana
+ 0.11% : jackfruit
+ 0.10% : butternut squash
+ 0.09% : grocery store
+ 0.08% : pineapple
+ 0.06% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q010.jpg
+95.49% : lemon
+ 0.45% : orange
+ 0.09% : dough
+ 0.06% : spaghetti squash
+ 0.06% : jackfruit
+ 0.02% : goldfinch
+ 0.02% : banana
+ 0.02% : pineapple
+ 0.02% : West Highland white terrier
+ 0.02% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q011.jpg
+89.25% : lemon
+ 3.38% : orange
+ 0.14% : spaghetti squash
+ 0.08% : banana
+ 0.05% : dough
+ 0.05% : jackfruit
+ 0.04% : king penguin
+ 0.04% : pineapple
+ 0.04% : oxygen mask
+ 0.03% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q012.jpg
+91.92% : lemon
+ 0.93% : orange
+ 0.14% : dough
+ 0.12% : spaghetti squash
+ 0.07% : jackfruit
+ 0.04% : banana
+ 0.04% : goldfinch
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q013.jpg
+92.06% : lemon
+ 1.39% : orange
+ 0.08% : spaghetti squash
+ 0.07% : dough
+ 0.05% : banana
+ 0.04% : jackfruit
+ 0.03% : oxygen mask
+ 0.03% : pineapple
+ 0.03% : king penguin
+ 0.03% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q014.jpg
+94.75% : lemon
+ 0.61% : orange
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.03% : jackfruit
+ 0.03% : oxygen mask
+ 0.03% : banana
+ 0.02% : prairie chicken
+ 0.02% : pineapple
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q015.jpg
+92.60% : lemon
+ 0.87% : orange
+ 0.17% : dough
+ 0.08% : spaghetti squash
+ 0.05% : jackfruit
+ 0.04% : banana
+ 0.03% : goldfinch
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q016.jpg
+94.85% : lemon
+ 0.31% : orange
+ 0.13% : spaghetti squash
+ 0.11% : dough
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.02% : goldfinch
+ 0.02% : pineapple
+ 0.02% : drumstick
+ 0.02% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q017.jpg
+94.13% : lemon
+ 0.46% : orange
+ 0.11% : dough
+ 0.10% : spaghetti squash
+ 0.05% : jackfruit
+ 0.04% : banana
+ 0.03% : goldfinch
+ 0.02% : king penguin
+ 0.02% : pineapple
+ 0.02% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q018.jpg
+94.94% : lemon
+ 0.30% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : drumstick
+ 0.02% : oxygen mask
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q019.jpg
+94.21% : lemon
+ 0.36% : orange
+ 0.13% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.04% : banana
+ 0.03% : goldfinch
+ 0.02% : pineapple
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q020.jpg
+94.28% : lemon
+ 0.30% : orange
+ 0.13% : dough
+ 0.13% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : pineapple
+ 0.02% : oxygen mask
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q021.jpg
+96.19% : lemon
+ 0.23% : orange
+ 0.11% : spaghetti squash
+ 0.08% : dough
+ 0.04% : jackfruit
+ 0.02% : banana
+ 0.02% : goldfinch
+ 0.02% : pineapple
+ 0.02% : slug
+ 0.02% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q022.jpg
+95.48% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.09% : spaghetti squash
+ 0.05% : jackfruit
+ 0.02% : goldfinch
+ 0.02% : banana
+ 0.02% : drumstick
+ 0.02% : oxygen mask
+ 0.02% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q023.jpg
+95.88% : lemon
+ 0.27% : orange
+ 0.09% : dough
+ 0.06% : spaghetti squash
+ 0.03% : jackfruit
+ 0.02% : goldfinch
+ 0.02% : banana
+ 0.02% : oxygen mask
+ 0.02% : slug
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q024.jpg
+94.94% : lemon
+ 0.29% : orange
+ 0.11% : spaghetti squash
+ 0.10% : dough
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : pineapple
+ 0.02% : yellow lady's slipper
+ 0.02% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q025.jpg
+94.61% : lemon
+ 0.32% : orange
+ 0.11% : dough
+ 0.11% : spaghetti squash
+ 0.06% : jackfruit
+ 0.04% : banana
+ 0.03% : goldfinch
+ 0.03% : pineapple
+ 0.02% : yellow lady's slipper
+ 0.02% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q026.jpg
+94.44% : lemon
+ 0.26% : orange
+ 0.13% : spaghetti squash
+ 0.12% : dough
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.03% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q027.jpg
+94.52% : lemon
+ 0.25% : orange
+ 0.16% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q028.jpg
+93.36% : lemon
+ 0.41% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.06% : jackfruit
+ 0.05% : banana
+ 0.03% : goldfinch
+ 0.03% : slug
+ 0.03% : king penguin
+ 0.03% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q029.jpg
+94.11% : lemon
+ 0.33% : orange
+ 0.13% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.04% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : king penguin
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q030.jpg
+95.00% : lemon
+ 0.34% : orange
+ 0.12% : dough
+ 0.11% : spaghetti squash
+ 0.04% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : pineapple
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q031.jpg
+94.88% : lemon
+ 0.28% : orange
+ 0.13% : dough
+ 0.11% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.02% : goldfinch
+ 0.02% : slug
+ 0.02% : pineapple
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q032.jpg
+95.14% : lemon
+ 0.22% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.02% : goldfinch
+ 0.02% : slug
+ 0.02% : West Highland white terrier
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q033.jpg
+94.43% : lemon
+ 0.25% : orange
+ 0.15% : dough
+ 0.09% : spaghetti squash
+ 0.09% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.03% : slug
+ 0.03% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q034.jpg
+94.60% : lemon
+ 0.27% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.08% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q035.jpg
+94.02% : lemon
+ 0.28% : orange
+ 0.16% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q036.jpg
+94.89% : lemon
+ 0.20% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.08% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : West Highland white terrier
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q037.jpg
+95.26% : lemon
+ 0.19% : orange
+ 0.14% : dough
+ 0.10% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : West Highland white terrier
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q038.jpg
+94.74% : lemon
+ 0.21% : orange
+ 0.17% : dough
+ 0.12% : spaghetti squash
+ 0.08% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : drumstick
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q039.jpg
+94.64% : lemon
+ 0.25% : orange
+ 0.15% : dough
+ 0.11% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q040.jpg
+94.76% : lemon
+ 0.25% : orange
+ 0.14% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q041.jpg
+94.97% : lemon
+ 0.20% : orange
+ 0.17% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : slug
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : drumstick
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q042.jpg
+95.02% : lemon
+ 0.22% : orange
+ 0.16% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q043.jpg
+95.07% : lemon
+ 0.22% : orange
+ 0.16% : dough
+ 0.10% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q044.jpg
+94.78% : lemon
+ 0.26% : orange
+ 0.18% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : drumstick
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q045.jpg
+94.82% : lemon
+ 0.25% : orange
+ 0.18% : dough
+ 0.07% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q046.jpg
+94.69% : lemon
+ 0.27% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : drumstick
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q047.jpg
+94.67% : lemon
+ 0.27% : orange
+ 0.15% : dough
+ 0.09% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : drumstick
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q048.jpg
+94.85% : lemon
+ 0.25% : orange
+ 0.14% : dough
+ 0.08% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q049.jpg
+95.10% : lemon
+ 0.21% : orange
+ 0.16% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : goldfinch
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q050.jpg
+95.10% : lemon
+ 0.20% : orange
+ 0.16% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q051.jpg
+95.11% : lemon
+ 0.20% : orange
+ 0.16% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q052.jpg
+94.80% : lemon
+ 0.26% : orange
+ 0.14% : dough
+ 0.10% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q053.jpg
+94.44% : lemon
+ 0.27% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q054.jpg
+94.50% : lemon
+ 0.27% : orange
+ 0.14% : dough
+ 0.10% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q055.jpg
+94.86% : lemon
+ 0.22% : orange
+ 0.13% : dough
+ 0.10% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q056.jpg
+94.92% : lemon
+ 0.22% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q057.jpg
+94.79% : lemon
+ 0.22% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q058.jpg
+94.55% : lemon
+ 0.25% : orange
+ 0.15% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q059.jpg
+94.58% : lemon
+ 0.24% : orange
+ 0.15% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q060.jpg
+94.52% : lemon
+ 0.24% : orange
+ 0.15% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : corn
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q061.jpg
+94.61% : lemon
+ 0.23% : orange
+ 0.13% : dough
+ 0.10% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.03% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q062.jpg
+94.37% : lemon
+ 0.22% : orange
+ 0.14% : dough
+ 0.10% : spaghetti squash
+ 0.08% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.03% : slug
+ 0.03% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q063.jpg
+94.16% : lemon
+ 0.22% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.08% : jackfruit
+ 0.03% : goldfinch
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : yellow lady's slipper
+ 0.03% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q064.jpg
+93.92% : lemon
+ 0.25% : orange
+ 0.14% : dough
+ 0.10% : spaghetti squash
+ 0.09% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.03% : slug
+ 0.03% : yellow lady's slipper
+ 0.03% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q065.jpg
+94.42% : lemon
+ 0.26% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q066.jpg
+94.78% : lemon
+ 0.24% : orange
+ 0.13% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q067.jpg
+94.62% : lemon
+ 0.27% : orange
+ 0.13% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : goldfinch
+ 0.02% : slug
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q068.jpg
+94.37% : lemon
+ 0.26% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.07% : jackfruit
+ 0.04% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.03% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q069.jpg
+94.17% : lemon
+ 0.29% : orange
+ 0.14% : dough
+ 0.11% : spaghetti squash
+ 0.07% : jackfruit
+ 0.04% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.03% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q070.jpg
+94.22% : lemon
+ 0.25% : orange
+ 0.17% : dough
+ 0.11% : spaghetti squash
+ 0.08% : jackfruit
+ 0.04% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.03% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q071.jpg
+94.55% : lemon
+ 0.29% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q072.jpg
+94.74% : lemon
+ 0.27% : orange
+ 0.13% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q073.jpg
+95.17% : lemon
+ 0.26% : orange
+ 0.12% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q074.jpg
+95.54% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.05% : jackfruit
+ 0.02% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q075.jpg
+95.57% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.05% : jackfruit
+ 0.02% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q076.jpg
+95.16% : lemon
+ 0.22% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q077.jpg
+94.80% : lemon
+ 0.25% : orange
+ 0.15% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q078.jpg
+94.80% : lemon
+ 0.26% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q079.jpg
+94.63% : lemon
+ 0.28% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q080.jpg
+94.50% : lemon
+ 0.31% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q081.jpg
+95.25% : lemon
+ 0.26% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q082.jpg
+95.15% : lemon
+ 0.26% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q083.jpg
+95.31% : lemon
+ 0.26% : orange
+ 0.11% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : goldfinch
+ 0.02% : slug
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q084.jpg
+95.16% : lemon
+ 0.24% : orange
+ 0.11% : dough
+ 0.09% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q085.jpg
+95.28% : lemon
+ 0.24% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q086.jpg
+94.96% : lemon
+ 0.29% : orange
+ 0.11% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q087.jpg
+94.69% : lemon
+ 0.28% : orange
+ 0.12% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q088.jpg
+94.60% : lemon
+ 0.28% : orange
+ 0.14% : dough
+ 0.07% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q089.jpg
+94.73% : lemon
+ 0.28% : orange
+ 0.13% : dough
+ 0.07% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.02% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q090.jpg
+94.88% : lemon
+ 0.27% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q091.jpg
+94.80% : lemon
+ 0.28% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.02% : slug
+ 0.02% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q092.jpg
+94.46% : lemon
+ 0.27% : orange
+ 0.12% : dough
+ 0.09% : spaghetti squash
+ 0.05% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q093.jpg
+94.53% : lemon
+ 0.25% : orange
+ 0.15% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : corn
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q094.jpg
+94.42% : lemon
+ 0.26% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q095.jpg
+94.49% : lemon
+ 0.27% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q096.jpg
+94.38% : lemon
+ 0.28% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q097.jpg
+94.65% : lemon
+ 0.25% : orange
+ 0.14% : dough
+ 0.08% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q098.jpg
+94.49% : lemon
+ 0.29% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q099.jpg
+94.51% : lemon
+ 0.28% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.07% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : yellow lady's slipper
+ 0.02% : West Highland white terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon8Q100.jpg
+94.65% : lemon
+ 0.27% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.06% : jackfruit
+ 0.03% : banana
+ 0.03% : slug
+ 0.03% : goldfinch
+ 0.02% : West Highland white terrier
+ 0.02% : yellow lady's slipper

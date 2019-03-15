@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q001.jpg
+10.98% : orange
+ 8.71% : lemon
+ 3.85% : bell pepper
+ 2.21% : spaghetti squash
+ 1.78% : acorn squash
+ 1.54% : pot
+ 1.50% : grocery store
+ 1.35% : bottlecap
+ 1.32% : butternut squash
+ 0.99% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q002.jpg
+10.92% : orange
+ 8.67% : lemon
+ 3.84% : bell pepper
+ 2.21% : spaghetti squash
+ 1.78% : acorn squash
+ 1.53% : pot
+ 1.50% : grocery store
+ 1.35% : bottlecap
+ 1.31% : butternut squash
+ 0.99% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q003.jpg
+11.04% : orange
+ 8.13% : lemon
+ 3.90% : bell pepper
+ 2.44% : spaghetti squash
+ 2.25% : acorn squash
+ 1.81% : pot
+ 1.70% : bottlecap
+ 1.54% : grocery store
+ 1.34% : butternut squash
+ 0.99% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q004.jpg
+ 8.81% : orange
+ 4.82% : spaghetti squash
+ 3.79% : lemon
+ 2.46% : butternut squash
+ 2.33% : tennis ball
+ 2.18% : bell pepper
+ 1.78% : acorn squash
+ 1.48% : pot
+ 1.15% : grocery store
+ 0.56% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q005.jpg
+23.76% : lemon
+15.43% : orange
+ 9.21% : spaghetti squash
+ 2.97% : butternut squash
+ 1.95% : tennis ball
+ 1.78% : grocery store
+ 1.54% : bell pepper
+ 0.99% : acorn squash
+ 0.42% : pot
+ 0.40% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q006.jpg
+86.84% : orange
+ 1.58% : butternut squash
+ 0.71% : lemon
+ 0.49% : grocery store
+ 0.34% : jack-o'-lantern
+ 0.27% : bell pepper
+ 0.27% : spaghetti squash
+ 0.20% : pot
+ 0.10% : acorn squash
+ 0.10% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q007.jpg
+39.11% : lemon
+30.42% : orange
+ 0.82% : butternut squash
+ 0.67% : spaghetti squash
+ 0.66% : tennis ball
+ 0.56% : grocery store
+ 0.38% : bell pepper
+ 0.19% : space heater
+ 0.16% : pot
+ 0.15% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q008.jpg
+85.82% : orange
+ 3.90% : lemon
+ 0.30% : grocery store
+ 0.28% : butternut squash
+ 0.15% : jack-o'-lantern
+ 0.11% : space heater
+ 0.11% : lifeboat
+ 0.11% : spaghetti squash
+ 0.09% : pot
+ 0.09% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q009.jpg
+53.89% : lemon
+28.59% : orange
+ 0.25% : spaghetti squash
+ 0.15% : king penguin
+ 0.15% : grocery store
+ 0.13% : tennis ball
+ 0.12% : butternut squash
+ 0.10% : strainer
+ 0.07% : bell pepper
+ 0.07% : monarch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q010.jpg
+43.61% : lemon
+40.97% : orange
+ 0.16% : spaghetti squash
+ 0.14% : grocery store
+ 0.10% : strainer
+ 0.08% : king penguin
+ 0.08% : tennis ball
+ 0.08% : basketball
+ 0.07% : banana
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q011.jpg
+69.48% : lemon
+14.87% : orange
+ 0.22% : spaghetti squash
+ 0.11% : strainer
+ 0.10% : king penguin
+ 0.09% : grocery store
+ 0.09% : tennis ball
+ 0.07% : dough
+ 0.06% : king snake
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q012.jpg
+59.41% : lemon
+23.90% : orange
+ 0.18% : spaghetti squash
+ 0.11% : grocery store
+ 0.11% : strainer
+ 0.08% : king penguin
+ 0.07% : king snake
+ 0.07% : dough
+ 0.06% : American black bear
+ 0.06% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q013.jpg
+74.74% : lemon
+10.70% : orange
+ 0.18% : spaghetti squash
+ 0.11% : strainer
+ 0.09% : dough
+ 0.08% : grocery store
+ 0.07% : king penguin
+ 0.07% : king snake
+ 0.07% : tennis ball
+ 0.06% : sea snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q014.jpg
+71.09% : lemon
+14.58% : orange
+ 0.21% : spaghetti squash
+ 0.11% : strainer
+ 0.08% : king penguin
+ 0.08% : grocery store
+ 0.06% : king snake
+ 0.06% : American black bear
+ 0.06% : dough
+ 0.06% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q015.jpg
+77.86% : lemon
+ 7.78% : orange
+ 0.20% : spaghetti squash
+ 0.13% : strainer
+ 0.12% : dough
+ 0.07% : grocery store
+ 0.07% : spatula
+ 0.07% : king penguin
+ 0.05% : marmot
+ 0.05% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q016.jpg
+77.25% : lemon
+ 9.15% : orange
+ 0.17% : spaghetti squash
+ 0.12% : strainer
+ 0.08% : dough
+ 0.08% : king penguin
+ 0.07% : grocery store
+ 0.06% : spatula
+ 0.05% : tennis ball
+ 0.05% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q017.jpg
+85.19% : lemon
+ 5.39% : orange
+ 0.13% : spaghetti squash
+ 0.09% : strainer
+ 0.08% : dough
+ 0.05% : grocery store
+ 0.04% : king penguin
+ 0.04% : tennis ball
+ 0.04% : spatula
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q018.jpg
+83.06% : lemon
+ 4.71% : orange
+ 0.14% : spaghetti squash
+ 0.14% : dough
+ 0.11% : strainer
+ 0.06% : spatula
+ 0.06% : grocery store
+ 0.05% : wok
+ 0.05% : pineapple
+ 0.05% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q019.jpg
+81.36% : lemon
+ 6.18% : orange
+ 0.14% : spaghetti squash
+ 0.09% : strainer
+ 0.09% : dough
+ 0.06% : king penguin
+ 0.05% : grocery store
+ 0.05% : king snake
+ 0.05% : American black bear
+ 0.05% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q020.jpg
+82.03% : lemon
+ 5.58% : orange
+ 0.15% : spaghetti squash
+ 0.10% : strainer
+ 0.09% : dough
+ 0.06% : grocery store
+ 0.06% : king penguin
+ 0.05% : spatula
+ 0.05% : American black bear
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q021.jpg
+78.93% : lemon
+ 8.35% : orange
+ 0.13% : spaghetti squash
+ 0.10% : strainer
+ 0.09% : dough
+ 0.07% : grocery store
+ 0.06% : king penguin
+ 0.05% : spatula
+ 0.05% : tennis ball
+ 0.05% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q022.jpg
+81.46% : lemon
+ 5.73% : orange
+ 0.15% : spaghetti squash
+ 0.09% : strainer
+ 0.09% : dough
+ 0.06% : king penguin
+ 0.05% : spatula
+ 0.05% : American black bear
+ 0.05% : grocery store
+ 0.05% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q023.jpg
+80.51% : lemon
+ 6.98% : orange
+ 0.16% : spaghetti squash
+ 0.09% : strainer
+ 0.08% : dough
+ 0.07% : king penguin
+ 0.05% : grocery store
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.05% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q024.jpg
+80.10% : lemon
+ 6.26% : orange
+ 0.16% : spaghetti squash
+ 0.10% : strainer
+ 0.08% : dough
+ 0.07% : king penguin
+ 0.06% : king snake
+ 0.05% : hognose snake
+ 0.05% : grocery store
+ 0.05% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q025.jpg
+82.62% : lemon
+ 5.01% : orange
+ 0.14% : spaghetti squash
+ 0.08% : strainer
+ 0.08% : dough
+ 0.06% : king penguin
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.05% : hognose snake
+ 0.04% : king snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q026.jpg
+80.31% : lemon
+ 6.72% : orange
+ 0.12% : spaghetti squash
+ 0.10% : dough
+ 0.09% : strainer
+ 0.06% : king penguin
+ 0.05% : spatula
+ 0.05% : American black bear
+ 0.05% : grocery store
+ 0.05% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q027.jpg
+85.51% : lemon
+ 4.36% : orange
+ 0.12% : spaghetti squash
+ 0.08% : dough
+ 0.08% : strainer
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q028.jpg
+82.74% : lemon
+ 5.47% : orange
+ 0.11% : spaghetti squash
+ 0.09% : dough
+ 0.08% : strainer
+ 0.05% : king penguin
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.04% : grocery store
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q029.jpg
+81.25% : lemon
+ 6.16% : orange
+ 0.13% : spaghetti squash
+ 0.09% : strainer
+ 0.08% : dough
+ 0.06% : king penguin
+ 0.05% : spatula
+ 0.05% : American black bear
+ 0.05% : grocery store
+ 0.05% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q030.jpg
+84.89% : lemon
+ 4.40% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : water snake
+ 0.04% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q031.jpg
+79.95% : lemon
+ 7.40% : orange
+ 0.13% : spaghetti squash
+ 0.10% : strainer
+ 0.08% : dough
+ 0.06% : king penguin
+ 0.06% : grocery store
+ 0.06% : American black bear
+ 0.05% : tennis ball
+ 0.05% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q032.jpg
+81.61% : lemon
+ 6.84% : orange
+ 0.12% : spaghetti squash
+ 0.09% : strainer
+ 0.08% : dough
+ 0.06% : king penguin
+ 0.05% : spatula
+ 0.05% : American black bear
+ 0.05% : grocery store
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q033.jpg
+84.06% : lemon
+ 4.55% : orange
+ 0.13% : spaghetti squash
+ 0.12% : dough
+ 0.09% : strainer
+ 0.05% : king penguin
+ 0.05% : spatula
+ 0.05% : tennis ball
+ 0.05% : grocery store
+ 0.05% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q034.jpg
+86.54% : lemon
+ 3.49% : orange
+ 0.11% : spaghetti squash
+ 0.10% : dough
+ 0.08% : strainer
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q035.jpg
+83.10% : lemon
+ 5.14% : orange
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.09% : strainer
+ 0.05% : king penguin
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.04% : hognose snake
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q036.jpg
+84.86% : lemon
+ 4.67% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.08% : dough
+ 0.05% : king penguin
+ 0.05% : spatula
+ 0.05% : American black bear
+ 0.04% : hognose snake
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q037.jpg
+84.14% : lemon
+ 4.98% : orange
+ 0.11% : spaghetti squash
+ 0.08% : strainer
+ 0.08% : dough
+ 0.05% : king penguin
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.04% : grocery store
+ 0.04% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q038.jpg
+85.56% : lemon
+ 3.94% : orange
+ 0.13% : spaghetti squash
+ 0.10% : dough
+ 0.08% : strainer
+ 0.05% : king penguin
+ 0.05% : spatula
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q039.jpg
+84.23% : lemon
+ 5.00% : orange
+ 0.11% : spaghetti squash
+ 0.09% : dough
+ 0.08% : strainer
+ 0.05% : king penguin
+ 0.05% : spatula
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : water snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q040.jpg
+84.65% : lemon
+ 4.84% : orange
+ 0.11% : spaghetti squash
+ 0.09% : dough
+ 0.08% : strainer
+ 0.05% : king penguin
+ 0.05% : spatula
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : water snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q041.jpg
+82.29% : lemon
+ 5.91% : orange
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.09% : strainer
+ 0.06% : king penguin
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.04% : hognose snake
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q042.jpg
+84.14% : lemon
+ 4.83% : orange
+ 0.14% : spaghetti squash
+ 0.08% : dough
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.05% : American black bear
+ 0.04% : spatula
+ 0.04% : hognose snake
+ 0.04% : marmot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q043.jpg
+83.55% : lemon
+ 5.01% : orange
+ 0.14% : spaghetti squash
+ 0.09% : dough
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.05% : American black bear
+ 0.05% : spatula
+ 0.04% : hognose snake
+ 0.04% : marmot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q044.jpg
+83.95% : lemon
+ 5.01% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : hognose snake
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q045.jpg
+83.85% : lemon
+ 4.97% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.05% : American black bear
+ 0.04% : spatula
+ 0.04% : hognose snake
+ 0.04% : water snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q046.jpg
+83.70% : lemon
+ 5.57% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : grocery store
+ 0.04% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q047.jpg
+83.99% : lemon
+ 5.41% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : grocery store
+ 0.04% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q048.jpg
+85.51% : lemon
+ 4.70% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : spatula
+ 0.04% : American black bear
+ 0.04% : grocery store
+ 0.04% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q049.jpg
+86.29% : lemon
+ 4.23% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : spatula
+ 0.03% : hognose snake
+ 0.03% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q050.jpg
+86.20% : lemon
+ 4.29% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : spatula
+ 0.03% : hognose snake
+ 0.03% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q051.jpg
+86.25% : lemon
+ 4.28% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : spatula
+ 0.03% : hognose snake
+ 0.03% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q052.jpg
+85.40% : lemon
+ 4.75% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : Norfolk terrier
+ 0.04% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q053.jpg
+85.12% : lemon
+ 5.18% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : hognose snake
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q054.jpg
+85.04% : lemon
+ 5.20% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : hognose snake
+ 0.03% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q055.jpg
+86.29% : lemon
+ 3.98% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : Norfolk terrier
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q056.jpg
+86.05% : lemon
+ 4.34% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : Norfolk terrier
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q057.jpg
+86.83% : lemon
+ 4.09% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.04% : spatula
+ 0.04% : Norfolk terrier
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q058.jpg
+86.62% : lemon
+ 4.25% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : spatula
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q059.jpg
+86.60% : lemon
+ 4.18% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : tennis ball
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q060.jpg
+86.56% : lemon
+ 4.26% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : tennis ball
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q061.jpg
+85.28% : lemon
+ 4.94% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : grocery store
+ 0.04% : hognose snake
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q062.jpg
+84.80% : lemon
+ 5.44% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : American black bear
+ 0.04% : grocery store
+ 0.04% : hognose snake
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q063.jpg
+85.73% : lemon
+ 5.03% : orange
+ 0.11% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : king penguin
+ 0.05% : dough
+ 0.04% : American black bear
+ 0.04% : grocery store
+ 0.04% : hognose snake
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q064.jpg
+85.59% : lemon
+ 4.86% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : king penguin
+ 0.05% : dough
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : grocery store
+ 0.03% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q065.jpg
+83.40% : lemon
+ 5.95% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : grocery store
+ 0.04% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q066.jpg
+84.51% : lemon
+ 5.42% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : grocery store
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q067.jpg
+83.93% : lemon
+ 5.63% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : daisy
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q068.jpg
+84.15% : lemon
+ 5.55% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : grocery store
+ 0.04% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q069.jpg
+83.85% : lemon
+ 5.83% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : daisy
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q070.jpg
+85.32% : lemon
+ 4.71% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : Norfolk terrier
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q071.jpg
+86.73% : lemon
+ 4.04% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : Norfolk terrier
+ 0.03% : hognose snake
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q072.jpg
+86.68% : lemon
+ 3.98% : orange
+ 0.11% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : Norfolk terrier
+ 0.03% : grocery store
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q073.jpg
+85.97% : lemon
+ 4.38% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : Norfolk terrier
+ 0.03% : hognose snake
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q074.jpg
+85.73% : lemon
+ 4.57% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.03% : tennis ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q075.jpg
+85.84% : lemon
+ 4.51% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.03% : tennis ball
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q076.jpg
+85.37% : lemon
+ 4.71% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : daisy
+ 0.04% : hognose snake
+ 0.04% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q077.jpg
+84.91% : lemon
+ 4.86% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : hognose snake
+ 0.04% : Norfolk terrier
+ 0.04% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q078.jpg
+86.88% : lemon
+ 3.85% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.07% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : hognose snake
+ 0.03% : Norfolk terrier
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q079.jpg
+87.20% : lemon
+ 3.68% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : hognose snake
+ 0.03% : Norfolk terrier
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q080.jpg
+85.51% : lemon
+ 4.74% : orange
+ 0.11% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.03% : hognose snake
+ 0.03% : Norfolk terrier
+ 0.03% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q081.jpg
+84.68% : lemon
+ 5.19% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : grocery store
+ 0.04% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q082.jpg
+84.97% : lemon
+ 5.05% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : grocery store
+ 0.04% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q083.jpg
+85.06% : lemon
+ 5.13% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.05% : dough
+ 0.04% : American black bear
+ 0.04% : daisy
+ 0.04% : hognose snake
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q084.jpg
+85.33% : lemon
+ 5.12% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : king penguin
+ 0.05% : dough
+ 0.04% : American black bear
+ 0.04% : daisy
+ 0.03% : hognose snake
+ 0.03% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q085.jpg
+86.15% : lemon
+ 4.45% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : Norfolk terrier
+ 0.03% : daisy
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q086.jpg
+86.82% : lemon
+ 3.98% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.04% : American black bear
+ 0.03% : Norfolk terrier
+ 0.03% : spatula
+ 0.03% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q087.jpg
+86.08% : lemon
+ 4.45% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.03% : spatula
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q088.jpg
+85.39% : lemon
+ 4.85% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : daisy
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q089.jpg
+85.55% : lemon
+ 4.69% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : daisy
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q090.jpg
+87.30% : lemon
+ 3.91% : orange
+ 0.12% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.03% : American black bear
+ 0.03% : tennis ball
+ 0.03% : Norfolk terrier
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q091.jpg
+86.76% : lemon
+ 4.17% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.03% : tennis ball
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q092.jpg
+86.49% : lemon
+ 4.08% : orange
+ 0.13% : spaghetti squash
+ 0.07% : strainer
+ 0.06% : dough
+ 0.06% : king penguin
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.03% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q093.jpg
+81.78% : lemon
+ 7.11% : orange
+ 0.12% : spaghetti squash
+ 0.09% : strainer
+ 0.07% : king penguin
+ 0.06% : dough
+ 0.05% : Norfolk terrier
+ 0.05% : American black bear
+ 0.04% : grocery store
+ 0.04% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q094.jpg
+83.67% : lemon
+ 6.19% : orange
+ 0.12% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : grocery store
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q095.jpg
+84.25% : lemon
+ 5.49% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q096.jpg
+85.24% : lemon
+ 5.04% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q097.jpg
+85.35% : lemon
+ 4.78% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : tennis ball
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q098.jpg
+85.00% : lemon
+ 4.96% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : daisy
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q099.jpg
+84.56% : lemon
+ 5.54% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : American black bear
+ 0.04% : Norfolk terrier
+ 0.04% : daisy
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon24Q100.jpg
+84.97% : lemon
+ 5.19% : orange
+ 0.13% : spaghetti squash
+ 0.08% : strainer
+ 0.06% : king penguin
+ 0.06% : dough
+ 0.04% : Norfolk terrier
+ 0.04% : American black bear
+ 0.04% : daisy
+ 0.04% : tennis ball

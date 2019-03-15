@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q001.jpg
+95.10% : cucumber
+ 3.37% : zucchini
+ 0.10% : French loaf
+ 0.09% : ear
+ 0.04% : banana
+ 0.04% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : coil
+ 0.02% : corn
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q002.jpg
+95.09% : cucumber
+ 3.38% : zucchini
+ 0.10% : French loaf
+ 0.09% : ear
+ 0.04% : banana
+ 0.04% : grocery store
+ 0.03% : spaghetti squash
+ 0.02% : coil
+ 0.02% : corn
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q003.jpg
+94.73% : cucumber
+ 3.85% : zucchini
+ 0.08% : French loaf
+ 0.07% : ear
+ 0.04% : grocery store
+ 0.03% : banana
+ 0.03% : coil
+ 0.02% : spaghetti squash
+ 0.02% : corn
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q004.jpg
+99.31% : cucumber
+ 0.29% : zucchini
+ 0.02% : coil
+ 0.02% : grocery store
+ 0.01% : French loaf
+ 0.01% : modem
+ 0.00% : canoe
+ 0.00% : ear
+ 0.00% : strawberry
+ 0.00% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q005.jpg
+89.93% : cucumber
+ 7.26% : zucchini
+ 0.07% : spaghetti squash
+ 0.07% : grocery store
+ 0.06% : ear
+ 0.05% : French loaf
+ 0.04% : coil
+ 0.03% : head cabbage
+ 0.03% : strawberry
+ 0.03% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q006.jpg
+95.35% : cucumber
+ 2.73% : zucchini
+ 0.27% : grocery store
+ 0.05% : coil
+ 0.05% : Granny Smith
+ 0.03% : strawberry
+ 0.03% : ear
+ 0.03% : bell pepper
+ 0.03% : French loaf
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q007.jpg
+96.41% : cucumber
+ 1.70% : zucchini
+ 0.16% : grocery store
+ 0.08% : coil
+ 0.04% : ear
+ 0.03% : French loaf
+ 0.03% : Granny Smith
+ 0.03% : head cabbage
+ 0.03% : spaghetti squash
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q008.jpg
+93.01% : cucumber
+ 3.78% : zucchini
+ 0.19% : grocery store
+ 0.09% : coil
+ 0.06% : ear
+ 0.04% : Granny Smith
+ 0.04% : spaghetti squash
+ 0.03% : French loaf
+ 0.03% : head cabbage
+ 0.02% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q009.jpg
+90.19% : cucumber
+ 4.74% : zucchini
+ 0.15% : grocery store
+ 0.10% : coil
+ 0.09% : ear
+ 0.06% : spaghetti squash
+ 0.05% : head cabbage
+ 0.05% : panpipe
+ 0.04% : French loaf
+ 0.04% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q010.jpg
+95.83% : cucumber
+ 2.05% : zucchini
+ 0.12% : grocery store
+ 0.09% : coil
+ 0.05% : ear
+ 0.03% : French loaf
+ 0.02% : modem
+ 0.02% : head cabbage
+ 0.02% : spaghetti squash
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q011.jpg
+95.18% : cucumber
+ 2.73% : zucchini
+ 0.11% : grocery store
+ 0.08% : ear
+ 0.07% : coil
+ 0.03% : French loaf
+ 0.03% : spaghetti squash
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q012.jpg
+97.34% : cucumber
+ 1.45% : zucchini
+ 0.11% : grocery store
+ 0.05% : coil
+ 0.03% : ear
+ 0.01% : French loaf
+ 0.01% : head cabbage
+ 0.01% : spaghetti squash
+ 0.01% : modem
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q013.jpg
+97.68% : cucumber
+ 1.23% : zucchini
+ 0.10% : grocery store
+ 0.05% : coil
+ 0.03% : ear
+ 0.02% : spaghetti squash
+ 0.01% : bell pepper
+ 0.01% : French loaf
+ 0.01% : head cabbage
+ 0.01% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q014.jpg
+98.35% : cucumber
+ 0.76% : zucchini
+ 0.07% : grocery store
+ 0.04% : coil
+ 0.03% : ear
+ 0.01% : head cabbage
+ 0.01% : French loaf
+ 0.01% : modem
+ 0.01% : corn
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q015.jpg
+97.29% : cucumber
+ 1.27% : zucchini
+ 0.11% : grocery store
+ 0.06% : coil
+ 0.06% : ear
+ 0.02% : head cabbage
+ 0.02% : bell pepper
+ 0.02% : corn
+ 0.02% : French loaf
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q016.jpg
+97.68% : cucumber
+ 1.06% : zucchini
+ 0.11% : grocery store
+ 0.06% : coil
+ 0.05% : ear
+ 0.02% : head cabbage
+ 0.01% : French loaf
+ 0.01% : bell pepper
+ 0.01% : modem
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q017.jpg
+97.69% : cucumber
+ 1.04% : zucchini
+ 0.11% : grocery store
+ 0.06% : ear
+ 0.06% : coil
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.01% : French loaf
+ 0.01% : bell pepper
+ 0.01% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q018.jpg
+96.76% : cucumber
+ 1.41% : zucchini
+ 0.12% : grocery store
+ 0.08% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q019.jpg
+97.23% : cucumber
+ 1.12% : zucchini
+ 0.11% : grocery store
+ 0.08% : coil
+ 0.06% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : French loaf
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q020.jpg
+97.42% : cucumber
+ 1.00% : zucchini
+ 0.11% : grocery store
+ 0.08% : coil
+ 0.06% : ear
+ 0.02% : bell pepper
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : corn
+ 0.02% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q021.jpg
+97.37% : cucumber
+ 0.74% : zucchini
+ 0.13% : grocery store
+ 0.10% : coil
+ 0.06% : ear
+ 0.02% : corn
+ 0.02% : bell pepper
+ 0.02% : modem
+ 0.02% : panpipe
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q022.jpg
+97.67% : cucumber
+ 0.69% : zucchini
+ 0.12% : grocery store
+ 0.08% : coil
+ 0.04% : ear
+ 0.02% : bell pepper
+ 0.02% : modem
+ 0.02% : panpipe
+ 0.02% : corn
+ 0.01% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q023.jpg
+97.58% : cucumber
+ 0.90% : zucchini
+ 0.11% : grocery store
+ 0.09% : coil
+ 0.04% : ear
+ 0.02% : bell pepper
+ 0.02% : modem
+ 0.01% : head cabbage
+ 0.01% : corn
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q024.jpg
+97.56% : cucumber
+ 0.93% : zucchini
+ 0.10% : grocery store
+ 0.07% : coil
+ 0.05% : ear
+ 0.02% : bell pepper
+ 0.02% : modem
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.01% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q025.jpg
+96.85% : cucumber
+ 1.25% : zucchini
+ 0.13% : grocery store
+ 0.08% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : modem
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q026.jpg
+96.86% : cucumber
+ 1.23% : zucchini
+ 0.13% : grocery store
+ 0.08% : coil
+ 0.06% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : modem
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q027.jpg
+95.75% : cucumber
+ 1.70% : zucchini
+ 0.16% : grocery store
+ 0.11% : coil
+ 0.08% : ear
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : modem
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q028.jpg
+96.13% : cucumber
+ 1.66% : zucchini
+ 0.17% : grocery store
+ 0.10% : coil
+ 0.08% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q029.jpg
+95.60% : cucumber
+ 1.91% : zucchini
+ 0.17% : grocery store
+ 0.11% : coil
+ 0.10% : ear
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q030.jpg
+95.46% : cucumber
+ 1.95% : zucchini
+ 0.16% : grocery store
+ 0.11% : ear
+ 0.10% : coil
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q031.jpg
+96.92% : cucumber
+ 1.32% : zucchini
+ 0.12% : grocery store
+ 0.08% : coil
+ 0.06% : ear
+ 0.03% : bell pepper
+ 0.02% : modem
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q032.jpg
+96.30% : cucumber
+ 1.69% : zucchini
+ 0.12% : grocery store
+ 0.09% : coil
+ 0.07% : ear
+ 0.03% : bell pepper
+ 0.02% : head cabbage
+ 0.02% : modem
+ 0.02% : corn
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q033.jpg
+96.50% : cucumber
+ 1.59% : zucchini
+ 0.15% : grocery store
+ 0.08% : coil
+ 0.07% : ear
+ 0.04% : bell pepper
+ 0.02% : panpipe
+ 0.02% : cauliflower
+ 0.02% : head cabbage
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q034.jpg
+95.29% : cucumber
+ 2.20% : zucchini
+ 0.16% : grocery store
+ 0.09% : coil
+ 0.09% : ear
+ 0.04% : bell pepper
+ 0.03% : panpipe
+ 0.02% : corn
+ 0.02% : cauliflower
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q035.jpg
+94.56% : cucumber
+ 2.46% : zucchini
+ 0.19% : grocery store
+ 0.14% : ear
+ 0.11% : coil
+ 0.04% : bell pepper
+ 0.04% : corn
+ 0.04% : panpipe
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q036.jpg
+94.66% : cucumber
+ 2.59% : zucchini
+ 0.19% : grocery store
+ 0.11% : ear
+ 0.10% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q037.jpg
+94.76% : cucumber
+ 2.63% : zucchini
+ 0.19% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q038.jpg
+95.90% : cucumber
+ 1.90% : zucchini
+ 0.16% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : cauliflower
+ 0.02% : head cabbage
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q039.jpg
+95.49% : cucumber
+ 2.05% : zucchini
+ 0.19% : grocery store
+ 0.12% : ear
+ 0.10% : coil
+ 0.04% : corn
+ 0.03% : bell pepper
+ 0.03% : cauliflower
+ 0.02% : head cabbage
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q040.jpg
+96.14% : cucumber
+ 1.77% : zucchini
+ 0.15% : grocery store
+ 0.09% : coil
+ 0.09% : ear
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : cauliflower
+ 0.02% : panpipe
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q041.jpg
+95.59% : cucumber
+ 2.17% : zucchini
+ 0.18% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : cauliflower
+ 0.02% : head cabbage
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q042.jpg
+95.00% : cucumber
+ 2.43% : zucchini
+ 0.21% : grocery store
+ 0.12% : ear
+ 0.10% : coil
+ 0.04% : corn
+ 0.03% : bell pepper
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q043.jpg
+95.08% : cucumber
+ 2.39% : zucchini
+ 0.20% : grocery store
+ 0.12% : ear
+ 0.10% : coil
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q044.jpg
+95.73% : cucumber
+ 2.00% : zucchini
+ 0.15% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q045.jpg
+95.54% : cucumber
+ 2.08% : zucchini
+ 0.16% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q046.jpg
+95.43% : cucumber
+ 2.31% : zucchini
+ 0.18% : grocery store
+ 0.10% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q047.jpg
+95.41% : cucumber
+ 2.32% : zucchini
+ 0.18% : grocery store
+ 0.10% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q048.jpg
+95.51% : cucumber
+ 2.17% : zucchini
+ 0.17% : grocery store
+ 0.10% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q049.jpg
+96.58% : cucumber
+ 1.64% : zucchini
+ 0.13% : grocery store
+ 0.08% : coil
+ 0.06% : ear
+ 0.02% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : modem
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q050.jpg
+96.60% : cucumber
+ 1.63% : zucchini
+ 0.13% : grocery store
+ 0.07% : coil
+ 0.06% : ear
+ 0.02% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : modem
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q051.jpg
+96.57% : cucumber
+ 1.62% : zucchini
+ 0.13% : grocery store
+ 0.08% : coil
+ 0.07% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : modem
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q052.jpg
+96.25% : cucumber
+ 1.67% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q053.jpg
+95.89% : cucumber
+ 1.87% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q054.jpg
+96.01% : cucumber
+ 1.77% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q055.jpg
+96.37% : cucumber
+ 1.53% : zucchini
+ 0.13% : grocery store
+ 0.09% : coil
+ 0.07% : ear
+ 0.03% : bell pepper
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : corn
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q056.jpg
+96.37% : cucumber
+ 1.50% : zucchini
+ 0.14% : grocery store
+ 0.09% : coil
+ 0.08% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q057.jpg
+96.75% : cucumber
+ 1.35% : zucchini
+ 0.13% : grocery store
+ 0.09% : coil
+ 0.06% : ear
+ 0.03% : bell pepper
+ 0.02% : head cabbage
+ 0.02% : corn
+ 0.02% : panpipe
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q058.jpg
+96.31% : cucumber
+ 1.59% : zucchini
+ 0.14% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q059.jpg
+95.99% : cucumber
+ 1.75% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q060.jpg
+96.27% : cucumber
+ 1.60% : zucchini
+ 0.15% : grocery store
+ 0.09% : coil
+ 0.09% : ear
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q061.jpg
+96.39% : cucumber
+ 1.54% : zucchini
+ 0.16% : grocery store
+ 0.09% : coil
+ 0.08% : ear
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q062.jpg
+96.43% : cucumber
+ 1.52% : zucchini
+ 0.16% : grocery store
+ 0.09% : coil
+ 0.09% : ear
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q063.jpg
+96.58% : cucumber
+ 1.44% : zucchini
+ 0.17% : grocery store
+ 0.09% : coil
+ 0.08% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : head cabbage
+ 0.02% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q064.jpg
+96.19% : cucumber
+ 1.60% : zucchini
+ 0.18% : grocery store
+ 0.10% : coil
+ 0.09% : ear
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.02% : head cabbage
+ 0.02% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q065.jpg
+96.39% : cucumber
+ 1.48% : zucchini
+ 0.17% : grocery store
+ 0.10% : coil
+ 0.08% : ear
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.02% : head cabbage
+ 0.02% : panpipe
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q066.jpg
+96.34% : cucumber
+ 1.55% : zucchini
+ 0.15% : grocery store
+ 0.09% : coil
+ 0.08% : ear
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q067.jpg
+96.31% : cucumber
+ 1.68% : zucchini
+ 0.15% : grocery store
+ 0.08% : coil
+ 0.08% : ear
+ 0.03% : corn
+ 0.02% : bell pepper
+ 0.02% : head cabbage
+ 0.02% : panpipe
+ 0.02% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q068.jpg
+95.93% : cucumber
+ 1.88% : zucchini
+ 0.17% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q069.jpg
+95.69% : cucumber
+ 2.05% : zucchini
+ 0.19% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q070.jpg
+95.30% : cucumber
+ 2.32% : zucchini
+ 0.18% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q071.jpg
+95.06% : cucumber
+ 2.41% : zucchini
+ 0.18% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q072.jpg
+95.16% : cucumber
+ 2.37% : zucchini
+ 0.18% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q073.jpg
+96.26% : cucumber
+ 1.72% : zucchini
+ 0.14% : grocery store
+ 0.08% : coil
+ 0.08% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q074.jpg
+96.49% : cucumber
+ 1.55% : zucchini
+ 0.13% : grocery store
+ 0.08% : coil
+ 0.07% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : panpipe
+ 0.02% : modem
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q075.jpg
+96.54% : cucumber
+ 1.53% : zucchini
+ 0.13% : grocery store
+ 0.08% : coil
+ 0.07% : ear
+ 0.03% : bell pepper
+ 0.02% : corn
+ 0.02% : panpipe
+ 0.02% : modem
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q076.jpg
+96.13% : cucumber
+ 1.80% : zucchini
+ 0.15% : grocery store
+ 0.08% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q077.jpg
+96.35% : cucumber
+ 1.69% : zucchini
+ 0.16% : grocery store
+ 0.08% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q078.jpg
+96.28% : cucumber
+ 1.82% : zucchini
+ 0.15% : grocery store
+ 0.08% : coil
+ 0.08% : ear
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q079.jpg
+96.25% : cucumber
+ 1.90% : zucchini
+ 0.15% : grocery store
+ 0.08% : ear
+ 0.07% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q080.jpg
+96.16% : cucumber
+ 1.93% : zucchini
+ 0.15% : grocery store
+ 0.08% : ear
+ 0.07% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q081.jpg
+95.79% : cucumber
+ 1.98% : zucchini
+ 0.17% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.02% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q082.jpg
+95.89% : cucumber
+ 1.96% : zucchini
+ 0.15% : grocery store
+ 0.08% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q083.jpg
+95.53% : cucumber
+ 2.18% : zucchini
+ 0.16% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.02% : cauliflower
+ 0.02% : head cabbage
+ 0.02% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q084.jpg
+95.37% : cucumber
+ 2.24% : zucchini
+ 0.16% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q085.jpg
+94.97% : cucumber
+ 2.42% : zucchini
+ 0.18% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.04% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q086.jpg
+95.12% : cucumber
+ 2.31% : zucchini
+ 0.17% : grocery store
+ 0.12% : ear
+ 0.09% : coil
+ 0.03% : panpipe
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q087.jpg
+95.45% : cucumber
+ 2.17% : zucchini
+ 0.16% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q088.jpg
+95.45% : cucumber
+ 2.17% : zucchini
+ 0.17% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q089.jpg
+95.65% : cucumber
+ 2.05% : zucchini
+ 0.15% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.03% : corn
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q090.jpg
+95.74% : cucumber
+ 2.02% : zucchini
+ 0.15% : grocery store
+ 0.10% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q091.jpg
+96.04% : cucumber
+ 1.86% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : panpipe
+ 0.03% : corn
+ 0.02% : head cabbage
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q092.jpg
+94.86% : cucumber
+ 2.58% : zucchini
+ 0.15% : grocery store
+ 0.11% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : panpipe
+ 0.03% : head cabbage
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q093.jpg
+94.27% : cucumber
+ 2.93% : zucchini
+ 0.19% : grocery store
+ 0.12% : ear
+ 0.09% : coil
+ 0.04% : corn
+ 0.04% : bell pepper
+ 0.04% : head cabbage
+ 0.03% : panpipe
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q094.jpg
+94.61% : cucumber
+ 2.83% : zucchini
+ 0.17% : grocery store
+ 0.11% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : panpipe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q095.jpg
+95.39% : cucumber
+ 2.28% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q096.jpg
+95.89% : cucumber
+ 1.92% : zucchini
+ 0.15% : grocery store
+ 0.09% : ear
+ 0.08% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.02% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q097.jpg
+95.76% : cucumber
+ 1.97% : zucchini
+ 0.16% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q098.jpg
+95.51% : cucumber
+ 2.13% : zucchini
+ 0.16% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q099.jpg
+95.48% : cucumber
+ 2.12% : zucchini
+ 0.16% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber3Q100.jpg
+95.60% : cucumber
+ 2.11% : zucchini
+ 0.16% : grocery store
+ 0.09% : ear
+ 0.09% : coil
+ 0.03% : bell pepper
+ 0.03% : corn
+ 0.03% : head cabbage
+ 0.03% : panpipe
+ 0.02% : cauliflower

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q001.jpg
+81.76% : head cabbage
+ 4.11% : brassiere
+ 2.90% : ice cream
+ 2.55% : tennis ball
+ 0.54% : fig
+ 0.32% : custard apple
+ 0.24% : dough
+ 0.21% : bakery
+ 0.21% : curly-coated retriever
+ 0.12% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q002.jpg
+82.20% : head cabbage
+ 3.97% : brassiere
+ 2.80% : ice cream
+ 2.40% : tennis ball
+ 0.53% : fig
+ 0.31% : custard apple
+ 0.25% : dough
+ 0.20% : curly-coated retriever
+ 0.20% : bakery
+ 0.11% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q003.jpg
+71.15% : head cabbage
+ 7.49% : brassiere
+ 6.08% : ice cream
+ 2.94% : tennis ball
+ 0.74% : fig
+ 0.41% : bakery
+ 0.37% : dough
+ 0.28% : custard apple
+ 0.26% : curly-coated retriever
+ 0.18% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q004.jpg
+99.72% : head cabbage
+ 0.04% : acorn squash
+ 0.02% : brassiere
+ 0.02% : custard apple
+ 0.01% : cauliflower
+ 0.01% : ice cream
+ 0.00% : fig
+ 0.00% : curly-coated retriever
+ 0.00% : spaghetti squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q005.jpg
+99.72% : head cabbage
+ 0.02% : acorn squash
+ 0.02% : custard apple
+ 0.01% : cauliflower
+ 0.01% : fig
+ 0.00% : butternut squash
+ 0.00% : pot
+ 0.00% : grocery store
+ 0.00% : cucumber
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q006.jpg
+99.18% : head cabbage
+ 0.07% : custard apple
+ 0.04% : fig
+ 0.03% : cauliflower
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.01% : pot
+ 0.01% : cucumber
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q007.jpg
+98.94% : head cabbage
+ 0.05% : cauliflower
+ 0.04% : fig
+ 0.04% : custard apple
+ 0.03% : grocery store
+ 0.02% : acorn squash
+ 0.02% : cucumber
+ 0.01% : butternut squash
+ 0.01% : pot
+ 0.01% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q008.jpg
+99.31% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : custard apple
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : grocery store
+ 0.01% : artichoke
+ 0.01% : cucumber
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q009.jpg
+99.11% : head cabbage
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : butternut squash
+ 0.01% : cucumber
+ 0.01% : pot
+ 0.01% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q010.jpg
+98.63% : head cabbage
+ 0.05% : cauliflower
+ 0.04% : acorn squash
+ 0.03% : grocery store
+ 0.03% : fig
+ 0.02% : custard apple
+ 0.02% : cucumber
+ 0.02% : butternut squash
+ 0.01% : pot
+ 0.01% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q011.jpg
+99.05% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : acorn squash
+ 0.02% : custard apple
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q012.jpg
+99.05% : head cabbage
+ 0.05% : cauliflower
+ 0.02% : custard apple
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q013.jpg
+98.51% : head cabbage
+ 0.07% : cauliflower
+ 0.03% : custard apple
+ 0.03% : acorn squash
+ 0.02% : grocery store
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : fig
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q014.jpg
+99.15% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : custard apple
+ 0.02% : acorn squash
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q015.jpg
+99.14% : head cabbage
+ 0.05% : cauliflower
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.02% : custard apple
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q016.jpg
+99.29% : head cabbage
+ 0.04% : cauliflower
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : leatherback turtle
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : velvet
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q017.jpg
+99.24% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q018.jpg
+99.15% : head cabbage
+ 0.04% : cauliflower
+ 0.03% : fig
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : butternut squash
+ 0.01% : bell pepper
+ 0.01% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q019.jpg
+99.41% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.00% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q020.jpg
+99.35% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+ 0.01% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q021.jpg
+99.16% : head cabbage
+ 0.05% : cauliflower
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q022.jpg
+99.20% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : leatherback turtle
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q023.jpg
+99.34% : head cabbage
+ 0.04% : cauliflower
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : leatherback turtle
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q024.jpg
+99.36% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q025.jpg
+99.38% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q026.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q027.jpg
+99.38% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q028.jpg
+99.19% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q029.jpg
+99.27% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q030.jpg
+99.07% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q031.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q032.jpg
+99.42% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : grocery store
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q033.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q034.jpg
+99.38% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.01% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q035.jpg
+99.38% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q036.jpg
+99.38% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q037.jpg
+99.32% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q038.jpg
+99.32% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q039.jpg
+99.27% : head cabbage
+ 0.05% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q040.jpg
+99.27% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q041.jpg
+99.38% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q042.jpg
+99.44% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : leatherback turtle
+ 0.00% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q043.jpg
+99.41% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q044.jpg
+99.29% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q045.jpg
+99.29% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q046.jpg
+99.37% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q047.jpg
+99.37% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : acorn squash
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q048.jpg
+99.35% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : acorn squash
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q049.jpg
+99.42% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q050.jpg
+99.42% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q051.jpg
+99.42% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q052.jpg
+99.41% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q053.jpg
+99.36% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q054.jpg
+99.35% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q055.jpg
+99.36% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q056.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q057.jpg
+99.37% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q058.jpg
+99.38% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q059.jpg
+99.36% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q060.jpg
+99.35% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q061.jpg
+99.34% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q062.jpg
+99.29% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q063.jpg
+99.29% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q064.jpg
+99.27% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q065.jpg
+99.29% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q066.jpg
+99.27% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q067.jpg
+99.25% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q068.jpg
+99.20% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q069.jpg
+99.21% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q070.jpg
+99.30% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q071.jpg
+99.32% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q072.jpg
+99.28% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q073.jpg
+99.33% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : grocery store
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q074.jpg
+99.38% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q075.jpg
+99.38% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q076.jpg
+99.38% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q077.jpg
+99.40% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q078.jpg
+99.34% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q079.jpg
+99.36% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q080.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q081.jpg
+99.47% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : grocery store
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q082.jpg
+99.43% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q083.jpg
+99.32% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q084.jpg
+99.21% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q085.jpg
+99.24% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q086.jpg
+99.21% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : acorn squash
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q087.jpg
+99.27% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q088.jpg
+99.32% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q089.jpg
+99.30% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q090.jpg
+99.26% : head cabbage
+ 0.04% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q091.jpg
+99.41% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : acorn squash
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q092.jpg
+99.43% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q093.jpg
+99.40% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q094.jpg
+99.39% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : grocery store
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q095.jpg
+99.37% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q096.jpg
+99.32% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q097.jpg
+99.38% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q098.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q099.jpg
+99.34% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : custard apple
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : butternut squash
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage38Q100.jpg
+99.35% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : grocery store
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : acorn squash
+ 0.01% : artichoke
+ 0.00% : leatherback turtle
+ 0.00% : butternut squash

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q001.jpg
+36.94% : confectionery
+20.10% : packet
+ 4.76% : toyshop
+ 1.95% : plastic bag
+ 1.73% : soccer ball
+ 1.71% : orange
+ 1.54% : lemon
+ 1.43% : vending machine
+ 1.40% : hamper
+ 1.15% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q002.jpg
+36.84% : confectionery
+18.75% : packet
+ 4.92% : toyshop
+ 2.03% : plastic bag
+ 1.90% : soccer ball
+ 1.81% : orange
+ 1.67% : lemon
+ 1.47% : vending machine
+ 1.42% : hamper
+ 1.17% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q003.jpg
+41.59% : confectionery
+18.32% : packet
+ 3.78% : toyshop
+ 2.87% : lemon
+ 2.37% : orange
+ 1.62% : shopping basket
+ 1.44% : plastic bag
+ 1.36% : hamper
+ 1.35% : pinwheel
+ 1.01% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q004.jpg
+81.13% : confectionery
+ 4.91% : packet
+ 3.56% : shopping basket
+ 2.60% : hamper
+ 1.02% : toyshop
+ 0.77% : plastic bag
+ 0.73% : orange
+ 0.59% : lemon
+ 0.45% : Granny Smith
+ 0.36% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q005.jpg
+43.10% : confectionery
+ 7.66% : shopping basket
+ 6.54% : hamper
+ 5.17% : plastic bag
+ 4.79% : packet
+ 3.71% : grocery store
+ 3.37% : lemon
+ 3.33% : cauliflower
+ 2.04% : orange
+ 1.45% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q006.jpg
+36.96% : confectionery
+ 6.31% : shopping basket
+ 5.75% : packet
+ 5.33% : plastic bag
+ 5.22% : hamper
+ 4.27% : lemon
+ 3.44% : grocery store
+ 2.52% : orange
+ 2.44% : cauliflower
+ 2.41% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q007.jpg
+30.30% : confectionery
+ 9.94% : shopping basket
+ 8.88% : plastic bag
+ 6.51% : cauliflower
+ 4.79% : bell pepper
+ 3.93% : packet
+ 3.38% : grocery store
+ 2.49% : lemon
+ 2.43% : orange
+ 1.99% : hamper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q008.jpg
+27.75% : confectionery
+21.61% : plastic bag
+ 8.17% : shopping basket
+ 4.23% : packet
+ 3.54% : grocery store
+ 3.19% : hamper
+ 2.86% : cauliflower
+ 2.06% : pretzel
+ 1.78% : banana
+ 1.64% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q009.jpg
+23.67% : confectionery
+12.36% : plastic bag
+ 5.05% : grocery store
+ 4.22% : cauliflower
+ 4.16% : shopping basket
+ 4.04% : lemon
+ 4.02% : bell pepper
+ 3.84% : packet
+ 2.82% : jackfruit
+ 2.30% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q010.jpg
+17.45% : plastic bag
+15.79% : confectionery
+10.93% : bell pepper
+ 6.86% : grocery store
+ 5.67% : packet
+ 3.02% : jackfruit
+ 2.94% : shopping basket
+ 2.84% : cauliflower
+ 2.66% : lemon
+ 2.56% : toyshop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q011.jpg
+28.81% : plastic bag
+19.69% : confectionery
+ 5.12% : packet
+ 4.74% : grocery store
+ 4.66% : shopping basket
+ 2.65% : bell pepper
+ 2.11% : cauliflower
+ 2.10% : lemon
+ 2.09% : hamper
+ 2.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q012.jpg
+31.01% : plastic bag
+23.93% : confectionery
+ 4.94% : shopping basket
+ 4.07% : packet
+ 4.05% : grocery store
+ 3.69% : cauliflower
+ 3.42% : bell pepper
+ 1.99% : lemon
+ 1.87% : jackfruit
+ 1.40% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q013.jpg
+20.63% : plastic bag
+19.61% : confectionery
+10.20% : bell pepper
+ 5.75% : grocery store
+ 3.85% : cauliflower
+ 3.69% : shopping basket
+ 3.60% : packet
+ 3.09% : jackfruit
+ 2.81% : lemon
+ 2.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q014.jpg
+24.40% : confectionery
+11.24% : bell pepper
+ 9.88% : plastic bag
+ 5.79% : jackfruit
+ 4.38% : grocery store
+ 4.29% : packet
+ 4.27% : shopping basket
+ 3.20% : lemon
+ 2.70% : cauliflower
+ 2.57% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q015.jpg
+23.33% : plastic bag
+19.11% : confectionery
+10.51% : bell pepper
+ 5.86% : grocery store
+ 4.68% : packet
+ 3.28% : jackfruit
+ 2.87% : cauliflower
+ 2.54% : banana
+ 1.89% : shopping basket
+ 1.66% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q016.jpg
+22.52% : confectionery
+16.00% : plastic bag
+11.18% : bell pepper
+ 6.46% : jackfruit
+ 6.03% : grocery store
+ 3.79% : packet
+ 2.90% : cauliflower
+ 2.84% : lemon
+ 2.41% : shopping basket
+ 2.30% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q017.jpg
+26.75% : confectionery
+16.17% : plastic bag
+ 9.84% : bell pepper
+ 5.18% : grocery store
+ 5.09% : jackfruit
+ 3.88% : cauliflower
+ 3.46% : shopping basket
+ 2.83% : packet
+ 2.22% : banana
+ 1.94% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q018.jpg
+34.78% : confectionery
+12.61% : plastic bag
+ 6.03% : grocery store
+ 5.50% : bell pepper
+ 4.64% : jackfruit
+ 3.82% : cauliflower
+ 3.38% : packet
+ 2.51% : shopping basket
+ 2.43% : lemon
+ 2.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q019.jpg
+30.73% : confectionery
+17.26% : plastic bag
+ 5.61% : cauliflower
+ 5.58% : jackfruit
+ 5.31% : bell pepper
+ 4.44% : grocery store
+ 3.55% : shopping basket
+ 3.17% : packet
+ 2.45% : lemon
+ 2.33% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q020.jpg
+32.13% : confectionery
+11.52% : plastic bag
+ 8.70% : bell pepper
+ 6.13% : jackfruit
+ 4.48% : grocery store
+ 4.37% : cauliflower
+ 3.19% : lemon
+ 3.10% : packet
+ 2.92% : banana
+ 2.04% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q021.jpg
+28.43% : confectionery
+14.66% : plastic bag
+ 8.23% : bell pepper
+ 5.24% : shopping basket
+ 5.10% : grocery store
+ 4.74% : jackfruit
+ 4.58% : cauliflower
+ 4.07% : packet
+ 2.39% : banana
+ 2.28% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q022.jpg
+30.54% : confectionery
+11.88% : plastic bag
+ 8.00% : bell pepper
+ 6.86% : jackfruit
+ 5.06% : grocery store
+ 4.04% : shopping basket
+ 3.94% : cauliflower
+ 3.10% : packet
+ 2.78% : lemon
+ 2.41% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q023.jpg
+25.79% : confectionery
+17.73% : plastic bag
+ 7.60% : bell pepper
+ 6.40% : jackfruit
+ 5.80% : grocery store
+ 3.53% : packet
+ 3.50% : cauliflower
+ 3.21% : lemon
+ 3.11% : shopping basket
+ 2.76% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q024.jpg
+34.24% : confectionery
+ 9.16% : plastic bag
+ 7.89% : bell pepper
+ 6.90% : jackfruit
+ 5.65% : grocery store
+ 3.88% : packet
+ 3.46% : cauliflower
+ 3.38% : shopping basket
+ 2.74% : lemon
+ 2.45% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q025.jpg
+31.10% : confectionery
+12.77% : plastic bag
+10.94% : bell pepper
+ 6.05% : grocery store
+ 4.58% : jackfruit
+ 4.08% : cauliflower
+ 3.47% : packet
+ 2.86% : shopping basket
+ 2.33% : lemon
+ 2.16% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q026.jpg
+34.36% : confectionery
+13.08% : plastic bag
+10.18% : bell pepper
+ 5.40% : grocery store
+ 4.76% : jackfruit
+ 3.68% : packet
+ 3.57% : cauliflower
+ 2.43% : shopping basket
+ 2.35% : lemon
+ 2.25% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q027.jpg
+33.78% : confectionery
+10.68% : plastic bag
+10.13% : bell pepper
+ 4.43% : jackfruit
+ 4.39% : cauliflower
+ 4.19% : grocery store
+ 3.56% : packet
+ 2.90% : lemon
+ 2.44% : shopping basket
+ 2.00% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q028.jpg
+33.11% : confectionery
+11.91% : bell pepper
+ 6.94% : jackfruit
+ 6.82% : plastic bag
+ 5.77% : grocery store
+ 3.76% : cauliflower
+ 3.08% : banana
+ 2.80% : lemon
+ 2.76% : packet
+ 2.16% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q029.jpg
+33.37% : confectionery
+12.37% : bell pepper
+ 8.02% : plastic bag
+ 6.07% : jackfruit
+ 5.68% : grocery store
+ 2.94% : banana
+ 2.93% : cauliflower
+ 2.61% : lemon
+ 2.50% : packet
+ 2.11% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q030.jpg
+33.90% : confectionery
+11.50% : bell pepper
+ 7.38% : plastic bag
+ 6.12% : jackfruit
+ 4.57% : grocery store
+ 4.29% : cauliflower
+ 3.44% : shopping basket
+ 2.76% : lemon
+ 2.65% : packet
+ 2.61% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q031.jpg
+26.80% : confectionery
+13.73% : bell pepper
+ 9.63% : plastic bag
+ 6.73% : jackfruit
+ 5.01% : cauliflower
+ 4.66% : grocery store
+ 3.86% : lemon
+ 2.71% : packet
+ 2.45% : banana
+ 2.35% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q032.jpg
+33.73% : confectionery
+12.13% : bell pepper
+ 9.30% : plastic bag
+ 5.26% : jackfruit
+ 3.30% : cauliflower
+ 3.29% : grocery store
+ 3.15% : lemon
+ 3.00% : packet
+ 2.91% : banana
+ 2.12% : toyshop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q033.jpg
+31.18% : confectionery
+12.77% : bell pepper
+ 8.90% : plastic bag
+ 5.70% : jackfruit
+ 4.75% : grocery store
+ 4.00% : packet
+ 3.13% : shopping basket
+ 3.08% : cauliflower
+ 3.01% : lemon
+ 2.58% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q034.jpg
+33.04% : confectionery
+12.48% : bell pepper
+ 7.70% : plastic bag
+ 6.57% : jackfruit
+ 4.39% : grocery store
+ 3.46% : packet
+ 3.40% : cauliflower
+ 3.13% : shopping basket
+ 2.78% : lemon
+ 2.58% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q035.jpg
+29.89% : confectionery
+14.12% : bell pepper
+ 7.25% : plastic bag
+ 6.73% : jackfruit
+ 4.60% : cauliflower
+ 3.87% : grocery store
+ 3.27% : lemon
+ 3.17% : packet
+ 2.72% : shopping basket
+ 2.23% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q036.jpg
+25.55% : confectionery
+16.60% : bell pepper
+ 8.77% : jackfruit
+ 7.75% : plastic bag
+ 4.64% : grocery store
+ 3.30% : corn
+ 3.27% : cauliflower
+ 3.09% : packet
+ 3.03% : lemon
+ 2.43% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q037.jpg
+24.25% : confectionery
+16.91% : bell pepper
+10.29% : jackfruit
+ 7.43% : plastic bag
+ 4.68% : grocery store
+ 3.73% : corn
+ 3.41% : cauliflower
+ 2.95% : lemon
+ 2.84% : packet
+ 2.46% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q038.jpg
+34.48% : confectionery
+11.74% : bell pepper
+ 8.91% : jackfruit
+ 5.30% : plastic bag
+ 3.99% : cauliflower
+ 3.70% : grocery store
+ 3.07% : banana
+ 2.91% : corn
+ 2.63% : lemon
+ 2.44% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q039.jpg
+34.31% : confectionery
+11.72% : bell pepper
+ 7.29% : jackfruit
+ 5.41% : plastic bag
+ 3.85% : grocery store
+ 3.62% : cauliflower
+ 3.34% : lemon
+ 3.04% : banana
+ 2.79% : packet
+ 2.57% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q040.jpg
+29.03% : confectionery
+13.32% : bell pepper
+ 9.55% : jackfruit
+ 6.16% : plastic bag
+ 4.07% : grocery store
+ 3.69% : cauliflower
+ 3.46% : lemon
+ 2.93% : packet
+ 2.86% : corn
+ 2.72% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q041.jpg
+31.98% : confectionery
+10.76% : bell pepper
+ 8.77% : plastic bag
+ 7.37% : jackfruit
+ 4.15% : grocery store
+ 3.28% : cauliflower
+ 3.11% : packet
+ 2.78% : banana
+ 2.71% : lemon
+ 2.49% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q042.jpg
+35.11% : confectionery
+10.41% : plastic bag
+ 8.50% : bell pepper
+ 6.46% : jackfruit
+ 4.11% : grocery store
+ 3.08% : packet
+ 2.93% : cauliflower
+ 2.85% : banana
+ 2.65% : lemon
+ 2.07% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q043.jpg
+37.28% : confectionery
+10.48% : plastic bag
+ 7.10% : bell pepper
+ 6.03% : jackfruit
+ 3.96% : grocery store
+ 3.41% : packet
+ 2.90% : banana
+ 2.85% : cauliflower
+ 2.54% : lemon
+ 2.12% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q044.jpg
+32.79% : confectionery
+10.89% : plastic bag
+ 9.74% : bell pepper
+ 6.01% : jackfruit
+ 5.32% : grocery store
+ 3.57% : packet
+ 3.36% : lemon
+ 2.82% : banana
+ 2.45% : cauliflower
+ 2.05% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q045.jpg
+31.85% : confectionery
+11.08% : plastic bag
+ 9.91% : bell pepper
+ 6.20% : jackfruit
+ 5.30% : grocery store
+ 3.57% : packet
+ 3.36% : lemon
+ 2.84% : banana
+ 2.51% : cauliflower
+ 1.93% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q046.jpg
+29.53% : confectionery
+10.85% : bell pepper
+ 9.45% : plastic bag
+ 7.50% : jackfruit
+ 4.90% : grocery store
+ 3.85% : packet
+ 3.06% : cauliflower
+ 2.89% : lemon
+ 2.74% : banana
+ 2.44% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q047.jpg
+30.01% : confectionery
+10.76% : bell pepper
+ 9.41% : plastic bag
+ 7.54% : jackfruit
+ 5.09% : grocery store
+ 3.72% : packet
+ 2.97% : lemon
+ 2.92% : cauliflower
+ 2.76% : banana
+ 2.48% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q048.jpg
+29.50% : confectionery
+11.20% : plastic bag
+10.99% : bell pepper
+ 7.53% : jackfruit
+ 4.95% : grocery store
+ 3.51% : packet
+ 2.80% : lemon
+ 2.68% : cauliflower
+ 2.59% : banana
+ 2.20% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q049.jpg
+33.68% : confectionery
+ 9.80% : bell pepper
+ 9.33% : plastic bag
+ 6.34% : jackfruit
+ 4.81% : grocery store
+ 3.41% : packet
+ 3.17% : lemon
+ 2.66% : shopping basket
+ 2.43% : corn
+ 2.43% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q050.jpg
+32.54% : confectionery
+10.21% : bell pepper
+ 9.63% : plastic bag
+ 6.50% : jackfruit
+ 4.81% : grocery store
+ 3.46% : packet
+ 3.15% : lemon
+ 2.61% : shopping basket
+ 2.56% : corn
+ 2.44% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q051.jpg
+33.44% : confectionery
+10.04% : bell pepper
+ 9.39% : plastic bag
+ 6.49% : jackfruit
+ 4.87% : grocery store
+ 3.40% : packet
+ 3.18% : lemon
+ 2.51% : banana
+ 2.50% : shopping basket
+ 2.46% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q052.jpg
+34.46% : confectionery
+10.60% : plastic bag
+ 7.85% : bell pepper
+ 6.55% : jackfruit
+ 4.55% : grocery store
+ 3.49% : lemon
+ 3.29% : packet
+ 2.82% : banana
+ 2.45% : shopping basket
+ 2.40% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q053.jpg
+31.55% : confectionery
+10.73% : bell pepper
+ 9.06% : plastic bag
+ 7.36% : jackfruit
+ 5.03% : grocery store
+ 3.47% : lemon
+ 3.32% : packet
+ 2.80% : banana
+ 2.80% : cauliflower
+ 2.56% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q054.jpg
+31.10% : confectionery
+10.80% : bell pepper
+ 9.16% : plastic bag
+ 7.34% : jackfruit
+ 4.60% : grocery store
+ 3.52% : lemon
+ 3.48% : packet
+ 2.81% : banana
+ 2.71% : cauliflower
+ 2.60% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q055.jpg
+31.52% : confectionery
+13.02% : bell pepper
+ 8.91% : plastic bag
+ 6.81% : jackfruit
+ 4.35% : grocery store
+ 3.40% : packet
+ 3.34% : lemon
+ 3.34% : cauliflower
+ 2.41% : banana
+ 2.40% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q056.jpg
+32.88% : confectionery
+11.52% : bell pepper
+ 8.92% : plastic bag
+ 6.30% : jackfruit
+ 4.72% : grocery store
+ 3.69% : packet
+ 3.34% : lemon
+ 2.95% : cauliflower
+ 2.45% : corn
+ 2.36% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q057.jpg
+29.33% : confectionery
+12.49% : bell pepper
+10.96% : plastic bag
+ 7.28% : jackfruit
+ 5.09% : grocery store
+ 4.17% : packet
+ 3.25% : lemon
+ 2.70% : cauliflower
+ 2.36% : corn
+ 2.31% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q058.jpg
+27.17% : confectionery
+12.73% : bell pepper
+11.28% : plastic bag
+ 8.45% : jackfruit
+ 4.30% : grocery store
+ 3.76% : packet
+ 3.66% : lemon
+ 2.72% : cauliflower
+ 2.56% : corn
+ 2.39% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q059.jpg
+27.44% : confectionery
+12.98% : bell pepper
+11.69% : plastic bag
+ 8.32% : jackfruit
+ 4.25% : grocery store
+ 3.82% : packet
+ 3.46% : lemon
+ 2.57% : cauliflower
+ 2.48% : corn
+ 2.45% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q060.jpg
+27.10% : confectionery
+14.20% : bell pepper
+11.97% : plastic bag
+ 8.66% : jackfruit
+ 4.03% : grocery store
+ 3.31% : packet
+ 2.96% : lemon
+ 2.90% : corn
+ 2.66% : cauliflower
+ 2.25% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q061.jpg
+28.37% : confectionery
+11.99% : plastic bag
+11.87% : bell pepper
+ 7.06% : jackfruit
+ 5.51% : grocery store
+ 3.55% : shopping basket
+ 3.32% : packet
+ 2.80% : lemon
+ 2.61% : cauliflower
+ 2.30% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q062.jpg
+28.05% : confectionery
+12.08% : plastic bag
+11.75% : bell pepper
+ 7.21% : jackfruit
+ 5.61% : grocery store
+ 3.45% : shopping basket
+ 3.31% : packet
+ 2.80% : lemon
+ 2.66% : corn
+ 2.57% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q063.jpg
+29.64% : confectionery
+13.56% : plastic bag
+11.40% : bell pepper
+ 5.82% : jackfruit
+ 5.49% : grocery store
+ 3.46% : packet
+ 3.31% : shopping basket
+ 2.72% : lemon
+ 2.43% : cauliflower
+ 2.10% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q064.jpg
+28.83% : confectionery
+13.56% : bell pepper
+12.37% : plastic bag
+ 6.50% : jackfruit
+ 5.63% : grocery store
+ 3.51% : packet
+ 2.74% : shopping basket
+ 2.62% : lemon
+ 2.55% : cauliflower
+ 2.43% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q065.jpg
+29.78% : confectionery
+15.16% : bell pepper
+10.72% : plastic bag
+ 6.42% : jackfruit
+ 5.34% : grocery store
+ 3.54% : packet
+ 2.56% : lemon
+ 2.47% : shopping basket
+ 2.46% : cauliflower
+ 2.29% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q066.jpg
+30.76% : confectionery
+15.31% : bell pepper
+ 9.94% : plastic bag
+ 6.77% : jackfruit
+ 5.01% : grocery store
+ 3.34% : packet
+ 2.80% : lemon
+ 2.55% : cauliflower
+ 2.49% : shopping basket
+ 2.38% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q067.jpg
+30.28% : confectionery
+15.72% : bell pepper
+ 9.12% : plastic bag
+ 7.05% : jackfruit
+ 4.86% : grocery store
+ 3.59% : packet
+ 2.89% : corn
+ 2.59% : shopping basket
+ 2.51% : lemon
+ 2.47% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q068.jpg
+30.70% : confectionery
+13.37% : bell pepper
+10.21% : plastic bag
+ 6.28% : jackfruit
+ 5.67% : grocery store
+ 3.70% : packet
+ 2.90% : lemon
+ 2.83% : shopping basket
+ 2.38% : corn
+ 2.33% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q069.jpg
+32.21% : confectionery
+13.12% : bell pepper
+10.13% : plastic bag
+ 5.66% : jackfruit
+ 5.45% : grocery store
+ 3.87% : packet
+ 2.70% : shopping basket
+ 2.66% : lemon
+ 2.52% : corn
+ 1.97% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q070.jpg
+30.76% : confectionery
+14.50% : bell pepper
+ 9.84% : plastic bag
+ 5.92% : jackfruit
+ 5.72% : grocery store
+ 3.78% : packet
+ 2.67% : lemon
+ 2.45% : shopping basket
+ 2.27% : corn
+ 2.24% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q071.jpg
+30.97% : confectionery
+16.31% : bell pepper
+ 9.13% : plastic bag
+ 5.91% : jackfruit
+ 4.49% : grocery store
+ 3.60% : packet
+ 2.68% : lemon
+ 2.43% : cauliflower
+ 2.33% : corn
+ 2.23% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q072.jpg
+32.02% : confectionery
+15.68% : bell pepper
+ 8.54% : plastic bag
+ 6.06% : jackfruit
+ 4.12% : grocery store
+ 3.65% : packet
+ 2.76% : lemon
+ 2.73% : corn
+ 2.31% : cauliflower
+ 2.16% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q073.jpg
+32.41% : confectionery
+14.25% : bell pepper
+ 7.60% : plastic bag
+ 6.27% : jackfruit
+ 3.96% : grocery store
+ 3.26% : packet
+ 3.19% : lemon
+ 2.72% : cauliflower
+ 2.57% : shopping basket
+ 2.48% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q074.jpg
+29.91% : confectionery
+15.60% : bell pepper
+ 7.21% : jackfruit
+ 6.83% : plastic bag
+ 4.55% : grocery store
+ 3.69% : packet
+ 3.30% : lemon
+ 2.95% : corn
+ 2.52% : banana
+ 2.38% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q075.jpg
+30.69% : confectionery
+14.68% : bell pepper
+ 7.27% : plastic bag
+ 7.23% : jackfruit
+ 4.33% : grocery store
+ 3.77% : packet
+ 3.32% : lemon
+ 2.95% : corn
+ 2.50% : banana
+ 2.48% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q076.jpg
+28.48% : confectionery
+15.00% : bell pepper
+ 8.59% : jackfruit
+ 7.51% : plastic bag
+ 4.65% : grocery store
+ 3.68% : packet
+ 3.39% : lemon
+ 3.18% : corn
+ 2.47% : banana
+ 2.39% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q077.jpg
+28.61% : confectionery
+15.92% : bell pepper
+ 7.52% : jackfruit
+ 7.47% : plastic bag
+ 4.61% : grocery store
+ 4.02% : packet
+ 3.12% : corn
+ 3.12% : lemon
+ 2.57% : shopping basket
+ 2.37% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q078.jpg
+27.52% : confectionery
+16.34% : bell pepper
+ 7.71% : plastic bag
+ 7.31% : jackfruit
+ 4.72% : grocery store
+ 4.09% : packet
+ 3.07% : lemon
+ 2.79% : corn
+ 2.70% : shopping basket
+ 2.55% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q079.jpg
+26.25% : confectionery
+15.98% : bell pepper
+ 7.63% : jackfruit
+ 7.51% : plastic bag
+ 4.74% : grocery store
+ 3.86% : packet
+ 3.21% : corn
+ 3.04% : cauliflower
+ 3.03% : shopping basket
+ 2.82% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q080.jpg
+30.88% : confectionery
+12.22% : bell pepper
+ 8.10% : plastic bag
+ 7.01% : jackfruit
+ 4.71% : grocery store
+ 4.04% : packet
+ 3.27% : lemon
+ 3.14% : shopping basket
+ 2.81% : cauliflower
+ 2.69% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q081.jpg
+33.09% : confectionery
+12.04% : bell pepper
+ 7.79% : plastic bag
+ 6.75% : jackfruit
+ 4.99% : grocery store
+ 3.93% : packet
+ 2.98% : lemon
+ 2.88% : cauliflower
+ 2.77% : shopping basket
+ 2.68% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q082.jpg
+33.36% : confectionery
+12.75% : bell pepper
+ 8.28% : plastic bag
+ 6.01% : jackfruit
+ 4.98% : grocery store
+ 4.15% : packet
+ 3.01% : lemon
+ 2.57% : corn
+ 2.54% : shopping basket
+ 2.43% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q083.jpg
+33.02% : confectionery
+11.55% : bell pepper
+ 7.99% : plastic bag
+ 6.80% : jackfruit
+ 4.78% : grocery store
+ 4.34% : packet
+ 3.09% : lemon
+ 2.92% : shopping basket
+ 2.60% : banana
+ 2.58% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q084.jpg
+31.59% : confectionery
+12.65% : bell pepper
+ 8.67% : plastic bag
+ 6.30% : jackfruit
+ 4.66% : grocery store
+ 4.33% : packet
+ 3.09% : lemon
+ 2.85% : shopping basket
+ 2.68% : corn
+ 2.66% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q085.jpg
+31.27% : confectionery
+12.69% : bell pepper
+ 9.00% : plastic bag
+ 6.20% : jackfruit
+ 4.80% : grocery store
+ 4.55% : packet
+ 3.03% : lemon
+ 2.84% : corn
+ 2.84% : banana
+ 2.62% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q086.jpg
+30.85% : confectionery
+14.25% : bell pepper
+ 8.44% : plastic bag
+ 7.03% : jackfruit
+ 4.65% : grocery store
+ 4.54% : packet
+ 3.34% : corn
+ 2.78% : lemon
+ 2.70% : banana
+ 2.29% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q087.jpg
+29.10% : confectionery
+16.31% : bell pepper
+ 9.21% : plastic bag
+ 7.52% : jackfruit
+ 4.74% : grocery store
+ 3.96% : packet
+ 2.95% : corn
+ 2.85% : lemon
+ 2.52% : banana
+ 2.22% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q088.jpg
+33.11% : confectionery
+14.14% : bell pepper
+ 8.61% : plastic bag
+ 7.23% : jackfruit
+ 5.12% : grocery store
+ 3.90% : packet
+ 3.24% : corn
+ 2.53% : lemon
+ 2.34% : banana
+ 2.11% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q089.jpg
+34.27% : confectionery
+13.68% : bell pepper
+ 8.92% : plastic bag
+ 6.71% : jackfruit
+ 5.05% : grocery store
+ 3.91% : packet
+ 2.72% : corn
+ 2.67% : lemon
+ 2.34% : banana
+ 2.20% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q090.jpg
+31.64% : confectionery
+13.73% : bell pepper
+ 8.32% : plastic bag
+ 7.70% : jackfruit
+ 4.53% : grocery store
+ 3.91% : packet
+ 2.97% : corn
+ 2.97% : lemon
+ 2.51% : banana
+ 2.29% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q091.jpg
+31.26% : confectionery
+13.83% : bell pepper
+ 9.90% : plastic bag
+ 7.89% : jackfruit
+ 4.10% : packet
+ 4.07% : grocery store
+ 2.89% : corn
+ 2.78% : lemon
+ 2.59% : shopping basket
+ 2.32% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q092.jpg
+34.47% : confectionery
+11.84% : bell pepper
+10.68% : plastic bag
+ 5.78% : jackfruit
+ 4.46% : grocery store
+ 4.18% : packet
+ 2.80% : shopping basket
+ 2.44% : corn
+ 2.43% : banana
+ 2.23% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q093.jpg
+35.67% : confectionery
+11.21% : bell pepper
+ 9.01% : plastic bag
+ 5.41% : jackfruit
+ 4.80% : grocery store
+ 4.48% : packet
+ 3.77% : shopping basket
+ 2.68% : cauliflower
+ 2.24% : lemon
+ 2.21% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q094.jpg
+36.93% : confectionery
+10.69% : bell pepper
+ 7.34% : plastic bag
+ 5.54% : jackfruit
+ 5.05% : grocery store
+ 4.27% : packet
+ 3.54% : shopping basket
+ 2.60% : lemon
+ 2.56% : cauliflower
+ 2.31% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q095.jpg
+34.42% : confectionery
+11.53% : bell pepper
+ 8.01% : plastic bag
+ 6.09% : jackfruit
+ 5.07% : grocery store
+ 4.40% : packet
+ 3.27% : shopping basket
+ 2.97% : lemon
+ 2.37% : corn
+ 2.27% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q096.jpg
+36.54% : confectionery
+10.98% : bell pepper
+ 7.35% : plastic bag
+ 6.14% : jackfruit
+ 4.57% : grocery store
+ 4.21% : packet
+ 3.27% : shopping basket
+ 3.15% : lemon
+ 2.47% : corn
+ 2.27% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q097.jpg
+35.36% : confectionery
+12.23% : bell pepper
+ 7.84% : plastic bag
+ 6.72% : jackfruit
+ 4.34% : grocery store
+ 4.15% : packet
+ 3.11% : lemon
+ 2.79% : shopping basket
+ 2.68% : corn
+ 2.23% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q098.jpg
+35.10% : confectionery
+12.06% : bell pepper
+ 7.46% : plastic bag
+ 6.65% : jackfruit
+ 4.38% : grocery store
+ 4.05% : packet
+ 3.28% : shopping basket
+ 3.14% : lemon
+ 2.60% : corn
+ 2.17% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q099.jpg
+36.28% : confectionery
+11.28% : bell pepper
+ 7.29% : plastic bag
+ 6.89% : jackfruit
+ 4.43% : grocery store
+ 3.89% : packet
+ 3.07% : shopping basket
+ 3.00% : lemon
+ 2.47% : corn
+ 2.31% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper27Q100.jpg
+35.28% : confectionery
+11.86% : bell pepper
+ 7.01% : jackfruit
+ 6.78% : plastic bag
+ 4.32% : grocery store
+ 3.91% : packet
+ 3.18% : lemon
+ 2.93% : shopping basket
+ 2.83% : corn
+ 2.36% : cauliflower

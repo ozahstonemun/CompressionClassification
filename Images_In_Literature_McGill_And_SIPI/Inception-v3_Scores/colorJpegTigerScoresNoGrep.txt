@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ001.jpg
+75.54% : tiger
+17.75% : tiger cat
+ 0.96% : lesser panda
+ 0.56% : red wolf
+ 0.41% : cougar
+ 0.20% : jaguar
+ 0.19% : chainlink fence
+ 0.12% : bathing cap
+ 0.07% : lynx
+ 0.05% : cheetah
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ002.jpg
+75.39% : tiger
+18.12% : tiger cat
+ 0.88% : lesser panda
+ 0.52% : red wolf
+ 0.37% : cougar
+ 0.20% : jaguar
+ 0.19% : chainlink fence
+ 0.12% : bathing cap
+ 0.07% : lynx
+ 0.05% : cheetah
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ003.jpg
+78.84% : tiger
+16.18% : tiger cat
+ 0.43% : lesser panda
+ 0.25% : red wolf
+ 0.15% : jaguar
+ 0.09% : cougar
+ 0.09% : chainlink fence
+ 0.08% : bathing cap
+ 0.05% : lynx
+ 0.05% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ004.jpg
+66.41% : tiger
+24.73% : tiger cat
+ 0.16% : lynx
+ 0.16% : jaguar
+ 0.14% : lesser panda
+ 0.13% : cougar
+ 0.13% : bathing cap
+ 0.12% : zebra
+ 0.12% : chainlink fence
+ 0.09% : red wolf
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ005.jpg
+68.56% : tiger
+24.16% : tiger cat
+ 0.24% : zebra
+ 0.17% : chainlink fence
+ 0.11% : lynx
+ 0.06% : boxer
+ 0.06% : worm fence
+ 0.06% : jaguar
+ 0.05% : lesser panda
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ006.jpg
+72.25% : tiger
+20.29% : tiger cat
+ 0.16% : zebra
+ 0.09% : lynx
+ 0.06% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : spiny lobster
+ 0.04% : bathing cap
+ 0.03% : lesser panda
+ 0.03% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ007.jpg
+73.64% : tiger
+20.20% : tiger cat
+ 0.14% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : boxer
+ 0.03% : beach wagon
+ 0.03% : spiny lobster
+ 0.02% : monarch
+ 0.02% : sweatshirt
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ008.jpg
+72.42% : tiger
+20.31% : tiger cat
+ 0.16% : zebra
+ 0.10% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : beach wagon
+ 0.03% : bathing cap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ009.jpg
+78.24% : tiger
+15.35% : tiger cat
+ 0.17% : zebra
+ 0.08% : lynx
+ 0.04% : jaguar
+ 0.04% : lesser panda
+ 0.03% : boxer
+ 0.03% : Leonberg
+ 0.03% : bathing cap
+ 0.03% : chainlink fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ010.jpg
+75.85% : tiger
+17.99% : tiger cat
+ 0.15% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : boxer
+ 0.03% : lesser panda
+ 0.03% : beach wagon
+ 0.03% : monarch
+ 0.03% : bathing cap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ011.jpg
+72.05% : tiger
+20.36% : tiger cat
+ 0.15% : zebra
+ 0.10% : lynx
+ 0.07% : jaguar
+ 0.04% : beach wagon
+ 0.04% : chainlink fence
+ 0.03% : monarch
+ 0.03% : bathing cap
+ 0.03% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ012.jpg
+69.84% : tiger
+23.20% : tiger cat
+ 0.20% : zebra
+ 0.08% : lynx
+ 0.06% : chainlink fence
+ 0.05% : jaguar
+ 0.03% : lesser panda
+ 0.03% : boxer
+ 0.03% : beach wagon
+ 0.03% : bathing cap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ013.jpg
+69.86% : tiger
+23.71% : tiger cat
+ 0.17% : zebra
+ 0.09% : chainlink fence
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : boxer
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ014.jpg
+68.26% : tiger
+24.70% : tiger cat
+ 0.18% : zebra
+ 0.10% : chainlink fence
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : boxer
+ 0.03% : beach wagon
+ 0.03% : sweatshirt
+ 0.03% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ015.jpg
+72.58% : tiger
+19.73% : tiger cat
+ 0.16% : zebra
+ 0.10% : lynx
+ 0.07% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : boxer
+ 0.03% : beach wagon
+ 0.03% : sweatshirt
+ 0.03% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ016.jpg
+70.75% : tiger
+22.29% : tiger cat
+ 0.15% : zebra
+ 0.09% : lynx
+ 0.06% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : beach wagon
+ 0.03% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ017.jpg
+68.51% : tiger
+24.49% : tiger cat
+ 0.13% : zebra
+ 0.08% : lynx
+ 0.05% : jaguar
+ 0.05% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : beach wagon
+ 0.03% : Leonberg
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ018.jpg
+71.41% : tiger
+21.38% : tiger cat
+ 0.12% : zebra
+ 0.08% : lynx
+ 0.05% : jaguar
+ 0.04% : monarch
+ 0.03% : boxer
+ 0.03% : Leonberg
+ 0.03% : beach wagon
+ 0.03% : Bernese mountain dog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ019.jpg
+71.69% : tiger
+22.21% : tiger cat
+ 0.13% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : beach wagon
+ 0.03% : bathing cap
+ 0.03% : monarch
+ 0.03% : sweatshirt
+ 0.03% : Leonberg
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ020.jpg
+67.59% : tiger
+26.49% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : chainlink fence
+ 0.03% : beach wagon
+ 0.03% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ021.jpg
+70.75% : tiger
+24.37% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.03% : bathing cap
+ 0.03% : chainlink fence
+ 0.02% : sweatshirt
+ 0.02% : Leonberg
+ 0.02% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ022.jpg
+70.97% : tiger
+23.58% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.04% : jaguar
+ 0.03% : chainlink fence
+ 0.03% : bathing cap
+ 0.02% : sweatshirt
+ 0.02% : boxer
+ 0.02% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ023.jpg
+69.21% : tiger
+24.45% : tiger cat
+ 0.12% : zebra
+ 0.08% : lynx
+ 0.05% : jaguar
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : beach wagon
+ 0.03% : puck
+ 0.03% : chainlink fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ024.jpg
+70.96% : tiger
+23.32% : tiger cat
+ 0.09% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.02% : beach wagon
+ 0.02% : Leonberg
+ 0.02% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ025.jpg
+67.48% : tiger
+27.04% : tiger cat
+ 0.09% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.02% : Leonberg
+ 0.02% : puck
+ 0.02% : Bernese mountain dog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ026.jpg
+66.70% : tiger
+27.92% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : bathing cap
+ 0.03% : chainlink fence
+ 0.03% : sweatshirt
+ 0.02% : boxer
+ 0.02% : Leonberg
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ027.jpg
+67.69% : tiger
+27.06% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.02% : chainlink fence
+ 0.02% : boxer
+ 0.02% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ028.jpg
+66.10% : tiger
+28.54% : tiger cat
+ 0.13% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : chainlink fence
+ 0.03% : sweatshirt
+ 0.02% : boxer
+ 0.02% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ029.jpg
+59.94% : tiger
+34.06% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.06% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : monarch
+ 0.02% : Leonberg
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ030.jpg
+59.82% : tiger
+33.62% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.06% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : monarch
+ 0.03% : boxer
+ 0.03% : bathing cap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ031.jpg
+58.26% : tiger
+35.41% : tiger cat
+ 0.14% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : monarch
+ 0.03% : bathing cap
+ 0.03% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ032.jpg
+58.23% : tiger
+35.27% : tiger cat
+ 0.15% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : monarch
+ 0.03% : boxer
+ 0.03% : bathing cap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ033.jpg
+57.18% : tiger
+36.90% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ034.jpg
+54.70% : tiger
+39.25% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.06% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ035.jpg
+56.85% : tiger
+37.36% : tiger cat
+ 0.11% : zebra
+ 0.05% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ036.jpg
+57.00% : tiger
+36.49% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.05% : chainlink fence
+ 0.04% : sweatshirt
+ 0.04% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ037.jpg
+56.88% : tiger
+36.85% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.05% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ038.jpg
+59.52% : tiger
+35.05% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.03% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.02% : monarch
+ 0.02% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ039.jpg
+58.03% : tiger
+36.10% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : monarch
+ 0.03% : boxer
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ040.jpg
+56.00% : tiger
+37.92% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ041.jpg
+54.98% : tiger
+38.93% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ042.jpg
+57.94% : tiger
+36.43% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ043.jpg
+57.27% : tiger
+37.02% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ044.jpg
+55.03% : tiger
+39.02% : tiger cat
+ 0.13% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ045.jpg
+55.43% : tiger
+38.76% : tiger cat
+ 0.13% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : beach wagon
+ 0.03% : boxer
+ 0.03% : bathing cap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ046.jpg
+55.79% : tiger
+38.19% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.04% : chainlink fence
+ 0.04% : jaguar
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ047.jpg
+56.19% : tiger
+37.75% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ048.jpg
+54.93% : tiger
+38.95% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.04% : chainlink fence
+ 0.04% : jaguar
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ049.jpg
+54.94% : tiger
+38.94% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : chainlink fence
+ 0.04% : jaguar
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ050.jpg
+55.19% : tiger
+38.65% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ051.jpg
+56.23% : tiger
+37.93% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ052.jpg
+58.04% : tiger
+36.18% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ053.jpg
+58.43% : tiger
+35.73% : tiger cat
+ 0.10% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ054.jpg
+58.68% : tiger
+35.32% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ055.jpg
+57.67% : tiger
+36.30% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.03% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : bathing cap
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ056.jpg
+58.06% : tiger
+35.92% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ057.jpg
+58.26% : tiger
+35.28% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.04% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ058.jpg
+56.07% : tiger
+37.62% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ059.jpg
+55.84% : tiger
+37.91% : tiger cat
+ 0.10% : zebra
+ 0.07% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ060.jpg
+55.97% : tiger
+37.48% : tiger cat
+ 0.10% : zebra
+ 0.08% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ061.jpg
+56.46% : tiger
+36.82% : tiger cat
+ 0.11% : zebra
+ 0.08% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ062.jpg
+57.01% : tiger
+36.49% : tiger cat
+ 0.11% : zebra
+ 0.08% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ063.jpg
+56.74% : tiger
+36.81% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : Leonberg
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ064.jpg
+56.74% : tiger
+36.86% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ065.jpg
+57.11% : tiger
+36.95% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ066.jpg
+56.97% : tiger
+37.08% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : chainlink fence
+ 0.05% : jaguar
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ067.jpg
+57.94% : tiger
+35.90% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ068.jpg
+58.72% : tiger
+35.33% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ069.jpg
+58.24% : tiger
+35.70% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ070.jpg
+56.13% : tiger
+37.71% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ071.jpg
+55.49% : tiger
+38.62% : tiger cat
+ 0.10% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ072.jpg
+55.01% : tiger
+38.64% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ073.jpg
+54.72% : tiger
+38.73% : tiger cat
+ 0.12% : zebra
+ 0.08% : lynx
+ 0.06% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : puck
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ074.jpg
+54.83% : tiger
+39.23% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ075.jpg
+55.05% : tiger
+39.18% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ076.jpg
+54.96% : tiger
+39.16% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ077.jpg
+54.38% : tiger
+39.34% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.05% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ078.jpg
+55.85% : tiger
+37.78% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.05% : chainlink fence
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ079.jpg
+55.89% : tiger
+37.65% : tiger cat
+ 0.12% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.04% : sweatshirt
+ 0.03% : boxer
+ 0.03% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ080.jpg
+56.59% : tiger
+37.29% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ081.jpg
+54.50% : tiger
+39.39% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ082.jpg
+56.16% : tiger
+38.02% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ083.jpg
+56.21% : tiger
+37.96% : tiger cat
+ 0.12% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ084.jpg
+55.28% : tiger
+39.28% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.04% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ085.jpg
+56.54% : tiger
+37.96% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.03% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ086.jpg
+55.97% : tiger
+38.26% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ087.jpg
+54.36% : tiger
+39.23% : tiger cat
+ 0.11% : zebra
+ 0.07% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ088.jpg
+54.31% : tiger
+39.42% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.03% : grille
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ089.jpg
+55.01% : tiger
+39.18% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : beach wagon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ090.jpg
+55.53% : tiger
+38.74% : tiger cat
+ 0.10% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : Bernese mountain dog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ091.jpg
+54.70% : tiger
+39.66% : tiger cat
+ 0.10% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ092.jpg
+55.11% : tiger
+39.16% : tiger cat
+ 0.10% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ093.jpg
+54.67% : tiger
+39.65% : tiger cat
+ 0.10% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ094.jpg
+55.46% : tiger
+38.62% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : monarch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ095.jpg
+55.66% : tiger
+38.94% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ096.jpg
+55.92% : tiger
+38.44% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ097.jpg
+55.90% : tiger
+38.50% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ098.jpg
+55.26% : tiger
+39.06% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ099.jpg
+54.73% : tiger
+39.37% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.04% : sweatshirt
+ 0.03% : bathing cap
+ 0.03% : boxer
+ 0.02% : lesser panda
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorTigerQ100.jpg
+54.85% : tiger
+39.37% : tiger cat
+ 0.11% : zebra
+ 0.06% : lynx
+ 0.05% : jaguar
+ 0.04% : chainlink fence
+ 0.03% : bathing cap
+ 0.03% : sweatshirt
+ 0.03% : boxer
+ 0.02% : lesser panda

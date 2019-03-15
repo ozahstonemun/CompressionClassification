@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q001.jpg
+70.52% : lemon
+11.26% : spaghetti squash
+ 0.91% : corn
+ 0.69% : dough
+ 0.53% : ear
+ 0.44% : bell pepper
+ 0.35% : orange
+ 0.32% : butternut squash
+ 0.30% : jackfruit
+ 0.19% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q002.jpg
+70.63% : lemon
+11.16% : spaghetti squash
+ 0.90% : corn
+ 0.69% : dough
+ 0.53% : ear
+ 0.44% : bell pepper
+ 0.35% : orange
+ 0.32% : butternut squash
+ 0.30% : jackfruit
+ 0.19% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q003.jpg
+72.92% : lemon
+ 8.87% : spaghetti squash
+ 0.84% : dough
+ 0.74% : corn
+ 0.42% : bell pepper
+ 0.38% : orange
+ 0.38% : ear
+ 0.37% : butternut squash
+ 0.25% : jackfruit
+ 0.20% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q004.jpg
+48.13% : orange
+29.54% : lemon
+ 5.72% : spaghetti squash
+ 1.24% : grocery store
+ 1.08% : strawberry
+ 0.89% : butternut squash
+ 0.66% : bell pepper
+ 0.31% : pineapple
+ 0.28% : corn
+ 0.28% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q005.jpg
+86.06% : lemon
+ 4.38% : orange
+ 1.32% : spaghetti squash
+ 0.12% : butternut squash
+ 0.12% : pineapple
+ 0.11% : jackfruit
+ 0.10% : dough
+ 0.09% : strainer
+ 0.08% : grocery store
+ 0.07% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q006.jpg
+88.81% : lemon
+ 2.42% : orange
+ 0.46% : spaghetti squash
+ 0.15% : dough
+ 0.14% : pineapple
+ 0.09% : jackfruit
+ 0.08% : strainer
+ 0.07% : mixing bowl
+ 0.05% : grocery store
+ 0.05% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q007.jpg
+75.70% : lemon
+ 7.01% : orange
+ 0.71% : spaghetti squash
+ 0.30% : jackfruit
+ 0.18% : strainer
+ 0.18% : pineapple
+ 0.17% : grocery store
+ 0.14% : dough
+ 0.09% : mixing bowl
+ 0.09% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q008.jpg
+90.79% : lemon
+ 1.53% : orange
+ 0.33% : spaghetti squash
+ 0.13% : jackfruit
+ 0.08% : strainer
+ 0.08% : dough
+ 0.07% : pineapple
+ 0.05% : cheeseburger
+ 0.04% : mixing bowl
+ 0.04% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q009.jpg
+91.11% : lemon
+ 1.85% : orange
+ 0.25% : spaghetti squash
+ 0.11% : dough
+ 0.10% : jackfruit
+ 0.06% : strainer
+ 0.06% : pineapple
+ 0.05% : mixing bowl
+ 0.04% : cheeseburger
+ 0.03% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q010.jpg
+93.35% : lemon
+ 0.91% : orange
+ 0.24% : spaghetti squash
+ 0.14% : dough
+ 0.11% : jackfruit
+ 0.06% : strainer
+ 0.04% : pineapple
+ 0.04% : cheeseburger
+ 0.03% : mixing bowl
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q011.jpg
+92.54% : lemon
+ 0.87% : orange
+ 0.19% : dough
+ 0.13% : spaghetti squash
+ 0.07% : jackfruit
+ 0.06% : strainer
+ 0.05% : cheeseburger
+ 0.04% : mixing bowl
+ 0.04% : pineapple
+ 0.03% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q012.jpg
+93.00% : lemon
+ 0.71% : orange
+ 0.24% : dough
+ 0.18% : spaghetti squash
+ 0.06% : jackfruit
+ 0.05% : strainer
+ 0.05% : mixing bowl
+ 0.04% : cheeseburger
+ 0.04% : pineapple
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q013.jpg
+94.37% : lemon
+ 0.64% : orange
+ 0.12% : dough
+ 0.10% : spaghetti squash
+ 0.05% : strainer
+ 0.04% : jackfruit
+ 0.04% : cheeseburger
+ 0.03% : mixing bowl
+ 0.03% : pineapple
+ 0.02% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q014.jpg
+95.45% : lemon
+ 0.40% : orange
+ 0.21% : dough
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.04% : jackfruit
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q015.jpg
+96.67% : lemon
+ 0.25% : orange
+ 0.14% : dough
+ 0.13% : spaghetti squash
+ 0.03% : jackfruit
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : mixing bowl
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q016.jpg
+94.89% : lemon
+ 0.36% : orange
+ 0.20% : dough
+ 0.13% : spaghetti squash
+ 0.04% : jackfruit
+ 0.04% : cheeseburger
+ 0.04% : strainer
+ 0.04% : mixing bowl
+ 0.03% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q017.jpg
+96.28% : lemon
+ 0.28% : orange
+ 0.19% : dough
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.03% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q018.jpg
+96.15% : lemon
+ 0.36% : orange
+ 0.22% : dough
+ 0.09% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q019.jpg
+95.46% : lemon
+ 0.37% : orange
+ 0.19% : dough
+ 0.09% : spaghetti squash
+ 0.04% : strainer
+ 0.03% : cheeseburger
+ 0.03% : jackfruit
+ 0.03% : mixing bowl
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q020.jpg
+96.20% : lemon
+ 0.30% : orange
+ 0.21% : dough
+ 0.09% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q021.jpg
+95.76% : lemon
+ 0.33% : orange
+ 0.22% : dough
+ 0.11% : spaghetti squash
+ 0.04% : cheeseburger
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q022.jpg
+96.07% : lemon
+ 0.27% : orange
+ 0.18% : dough
+ 0.08% : spaghetti squash
+ 0.03% : cheeseburger
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q023.jpg
+96.17% : lemon
+ 0.33% : orange
+ 0.14% : dough
+ 0.09% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q024.jpg
+95.93% : lemon
+ 0.30% : orange
+ 0.17% : dough
+ 0.10% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q025.jpg
+96.34% : lemon
+ 0.32% : orange
+ 0.15% : dough
+ 0.09% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.03% : strainer
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q026.jpg
+96.34% : lemon
+ 0.27% : orange
+ 0.16% : dough
+ 0.08% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.03% : strainer
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q027.jpg
+96.31% : lemon
+ 0.27% : orange
+ 0.15% : dough
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q028.jpg
+96.67% : lemon
+ 0.27% : orange
+ 0.13% : dough
+ 0.08% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q029.jpg
+96.71% : lemon
+ 0.24% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q030.jpg
+96.97% : lemon
+ 0.23% : orange
+ 0.16% : dough
+ 0.07% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q031.jpg
+97.15% : lemon
+ 0.18% : orange
+ 0.13% : dough
+ 0.07% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : croquet ball
+ 0.01% : pineapple
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q032.jpg
+96.84% : lemon
+ 0.20% : orange
+ 0.18% : dough
+ 0.07% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : strainer
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q033.jpg
+96.26% : lemon
+ 0.30% : orange
+ 0.16% : dough
+ 0.07% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q034.jpg
+96.75% : lemon
+ 0.18% : orange
+ 0.17% : dough
+ 0.07% : spaghetti squash
+ 0.03% : cheeseburger
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q035.jpg
+96.44% : lemon
+ 0.22% : orange
+ 0.18% : dough
+ 0.08% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q036.jpg
+96.27% : lemon
+ 0.26% : orange
+ 0.19% : dough
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.03% : mixing bowl
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q037.jpg
+96.03% : lemon
+ 0.29% : orange
+ 0.19% : dough
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q038.jpg
+96.35% : lemon
+ 0.23% : orange
+ 0.18% : dough
+ 0.08% : spaghetti squash
+ 0.03% : cheeseburger
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q039.jpg
+96.37% : lemon
+ 0.24% : orange
+ 0.14% : dough
+ 0.08% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q040.jpg
+96.66% : lemon
+ 0.24% : orange
+ 0.15% : dough
+ 0.07% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q041.jpg
+96.55% : lemon
+ 0.24% : orange
+ 0.18% : dough
+ 0.07% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+ 0.02% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q042.jpg
+96.50% : lemon
+ 0.26% : orange
+ 0.20% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q043.jpg
+96.58% : lemon
+ 0.25% : orange
+ 0.20% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.03% : cheeseburger
+ 0.02% : croquet ball
+ 0.02% : pineapple
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q044.jpg
+96.94% : lemon
+ 0.22% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q045.jpg
+97.07% : lemon
+ 0.20% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q046.jpg
+97.27% : lemon
+ 0.18% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : croquet ball
+ 0.01% : pineapple
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q047.jpg
+97.30% : lemon
+ 0.18% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q048.jpg
+97.33% : lemon
+ 0.18% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q049.jpg
+97.03% : lemon
+ 0.24% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q050.jpg
+97.04% : lemon
+ 0.23% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q051.jpg
+97.04% : lemon
+ 0.23% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q052.jpg
+96.96% : lemon
+ 0.20% : orange
+ 0.16% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : croquet ball
+ 0.01% : jackfruit
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q053.jpg
+97.08% : lemon
+ 0.18% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q054.jpg
+97.03% : lemon
+ 0.18% : orange
+ 0.17% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+ 0.01% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q055.jpg
+96.97% : lemon
+ 0.20% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.01% : pineapple
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q056.jpg
+96.98% : lemon
+ 0.21% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q057.jpg
+97.04% : lemon
+ 0.21% : orange
+ 0.13% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : jackfruit
+ 0.02% : pineapple
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q058.jpg
+97.17% : lemon
+ 0.21% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q059.jpg
+97.07% : lemon
+ 0.22% : orange
+ 0.12% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q060.jpg
+97.16% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q061.jpg
+97.03% : lemon
+ 0.22% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q062.jpg
+96.98% : lemon
+ 0.24% : orange
+ 0.12% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q063.jpg
+96.90% : lemon
+ 0.25% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q064.jpg
+97.05% : lemon
+ 0.23% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q065.jpg
+96.91% : lemon
+ 0.24% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q066.jpg
+96.81% : lemon
+ 0.24% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q067.jpg
+96.94% : lemon
+ 0.24% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q068.jpg
+96.74% : lemon
+ 0.28% : orange
+ 0.11% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q069.jpg
+96.82% : lemon
+ 0.27% : orange
+ 0.11% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q070.jpg
+96.86% : lemon
+ 0.25% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q071.jpg
+96.79% : lemon
+ 0.24% : orange
+ 0.14% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : croquet ball
+ 0.01% : pineapple
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q072.jpg
+96.68% : lemon
+ 0.25% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q073.jpg
+96.64% : lemon
+ 0.23% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q074.jpg
+96.77% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q075.jpg
+96.82% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.07% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q076.jpg
+96.83% : lemon
+ 0.20% : orange
+ 0.14% : dough
+ 0.07% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q077.jpg
+97.03% : lemon
+ 0.20% : orange
+ 0.12% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q078.jpg
+96.83% : lemon
+ 0.22% : orange
+ 0.12% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q079.jpg
+96.83% : lemon
+ 0.23% : orange
+ 0.12% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q080.jpg
+96.88% : lemon
+ 0.22% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.02% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q081.jpg
+96.81% : lemon
+ 0.23% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q082.jpg
+96.81% : lemon
+ 0.23% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q083.jpg
+96.96% : lemon
+ 0.22% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q084.jpg
+96.79% : lemon
+ 0.23% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : jackfruit
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q085.jpg
+96.66% : lemon
+ 0.24% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q086.jpg
+96.65% : lemon
+ 0.23% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q087.jpg
+96.83% : lemon
+ 0.22% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : croquet ball
+ 0.02% : pineapple
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q088.jpg
+96.73% : lemon
+ 0.22% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : croquet ball
+ 0.02% : pineapple
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q089.jpg
+96.79% : lemon
+ 0.23% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q090.jpg
+96.61% : lemon
+ 0.24% : orange
+ 0.15% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q091.jpg
+96.64% : lemon
+ 0.26% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.01% : croquet ball
+ 0.01% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q092.jpg
+96.62% : lemon
+ 0.28% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q093.jpg
+96.69% : lemon
+ 0.25% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q094.jpg
+96.69% : lemon
+ 0.26% : orange
+ 0.13% : dough
+ 0.07% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q095.jpg
+96.76% : lemon
+ 0.25% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.03% : mixing bowl
+ 0.02% : cheeseburger
+ 0.02% : pineapple
+ 0.02% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q096.jpg
+96.89% : lemon
+ 0.24% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.02% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q097.jpg
+96.82% : lemon
+ 0.24% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : strainer
+ 0.02% : mixing bowl
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q098.jpg
+96.72% : lemon
+ 0.24% : orange
+ 0.14% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.02% : croquet ball
+ 0.02% : pineapple
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q099.jpg
+96.83% : lemon
+ 0.24% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.03% : strainer
+ 0.02% : cheeseburger
+ 0.01% : pineapple
+ 0.01% : croquet ball
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon2Q100.jpg
+96.83% : lemon
+ 0.23% : orange
+ 0.13% : dough
+ 0.06% : spaghetti squash
+ 0.03% : mixing bowl
+ 0.02% : strainer
+ 0.02% : cheeseburger
+ 0.01% : croquet ball
+ 0.01% : pineapple
+ 0.01% : jackfruit

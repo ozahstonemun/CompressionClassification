@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q001.jpg
+43.10% : orange
+16.44% : lemon
+ 5.79% : bell pepper
+ 4.21% : spaghetti squash
+ 3.32% : grocery store
+ 1.67% : butternut squash
+ 1.21% : acorn squash
+ 1.04% : jack-o'-lantern
+ 0.91% : corn
+ 0.71% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q002.jpg
+43.11% : orange
+16.44% : lemon
+ 5.79% : bell pepper
+ 4.21% : spaghetti squash
+ 3.32% : grocery store
+ 1.67% : butternut squash
+ 1.21% : acorn squash
+ 1.04% : jack-o'-lantern
+ 0.91% : corn
+ 0.71% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q003.jpg
+43.40% : orange
+16.75% : lemon
+ 5.67% : bell pepper
+ 3.92% : spaghetti squash
+ 3.56% : grocery store
+ 1.73% : butternut squash
+ 1.12% : corn
+ 1.06% : acorn squash
+ 1.01% : jack-o'-lantern
+ 0.72% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q004.jpg
+77.81% : lemon
+ 2.83% : orange
+ 2.52% : spaghetti squash
+ 0.80% : bell pepper
+ 0.37% : butternut squash
+ 0.35% : jackfruit
+ 0.27% : grocery store
+ 0.22% : acorn squash
+ 0.20% : corn
+ 0.20% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q005.jpg
+64.35% : lemon
+ 7.30% : orange
+ 5.29% : spaghetti squash
+ 1.69% : bell pepper
+ 0.48% : corn
+ 0.34% : butternut squash
+ 0.33% : ear
+ 0.33% : jackfruit
+ 0.33% : grocery store
+ 0.16% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q006.jpg
+61.22% : lemon
+ 6.86% : orange
+ 5.62% : spaghetti squash
+ 1.29% : bell pepper
+ 0.87% : jackfruit
+ 0.85% : butternut squash
+ 0.68% : corn
+ 0.60% : grocery store
+ 0.53% : ear
+ 0.30% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q007.jpg
+65.47% : lemon
+15.09% : orange
+ 3.35% : spaghetti squash
+ 0.26% : jackfruit
+ 0.22% : bell pepper
+ 0.21% : butternut squash
+ 0.20% : grocery store
+ 0.15% : pineapple
+ 0.15% : banana
+ 0.11% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q008.jpg
+63.75% : lemon
+15.38% : orange
+ 0.70% : spaghetti squash
+ 0.24% : butternut squash
+ 0.22% : grocery store
+ 0.16% : banana
+ 0.16% : pineapple
+ 0.15% : jackfruit
+ 0.11% : bell pepper
+ 0.10% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q009.jpg
+73.83% : lemon
+ 6.23% : orange
+ 1.01% : spaghetti squash
+ 0.14% : jackfruit
+ 0.12% : grocery store
+ 0.11% : pineapple
+ 0.10% : butternut squash
+ 0.09% : dough
+ 0.09% : bell pepper
+ 0.08% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q010.jpg
+80.21% : lemon
+ 7.13% : orange
+ 0.57% : spaghetti squash
+ 0.11% : dough
+ 0.08% : butternut squash
+ 0.08% : jackfruit
+ 0.08% : pineapple
+ 0.07% : mixing bowl
+ 0.07% : grocery store
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q011.jpg
+84.53% : lemon
+ 3.71% : orange
+ 0.31% : spaghetti squash
+ 0.08% : dough
+ 0.07% : banana
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.05% : jackfruit
+ 0.05% : mixing bowl
+ 0.05% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q012.jpg
+84.61% : lemon
+ 4.78% : orange
+ 0.33% : spaghetti squash
+ 0.09% : dough
+ 0.07% : pineapple
+ 0.07% : banana
+ 0.05% : jackfruit
+ 0.05% : strainer
+ 0.05% : mixing bowl
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q013.jpg
+88.24% : lemon
+ 1.75% : orange
+ 0.56% : spaghetti squash
+ 0.10% : dough
+ 0.06% : pineapple
+ 0.06% : strainer
+ 0.05% : banana
+ 0.05% : jackfruit
+ 0.04% : mixing bowl
+ 0.04% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q014.jpg
+92.86% : lemon
+ 1.06% : orange
+ 0.25% : spaghetti squash
+ 0.08% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.03% : mixing bowl
+ 0.03% : prairie chicken
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q015.jpg
+92.72% : lemon
+ 1.32% : orange
+ 0.27% : spaghetti squash
+ 0.06% : dough
+ 0.04% : strainer
+ 0.03% : banana
+ 0.03% : pineapple
+ 0.03% : oxygen mask
+ 0.03% : prairie chicken
+ 0.02% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q016.jpg
+91.32% : lemon
+ 2.32% : orange
+ 0.23% : spaghetti squash
+ 0.07% : dough
+ 0.04% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : prairie chicken
+ 0.03% : oxygen mask
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q017.jpg
+94.17% : lemon
+ 0.86% : orange
+ 0.32% : spaghetti squash
+ 0.07% : dough
+ 0.03% : strainer
+ 0.03% : pineapple
+ 0.02% : prairie chicken
+ 0.02% : banana
+ 0.02% : oxygen mask
+ 0.02% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q018.jpg
+94.97% : lemon
+ 0.83% : orange
+ 0.21% : spaghetti squash
+ 0.07% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : mixing bowl
+ 0.02% : oxygen mask
+ 0.02% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q019.jpg
+94.15% : lemon
+ 0.76% : orange
+ 0.32% : spaghetti squash
+ 0.06% : dough
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.03% : banana
+ 0.02% : prairie chicken
+ 0.02% : oxygen mask
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q020.jpg
+96.21% : lemon
+ 0.53% : orange
+ 0.22% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : magnetic compass
+ 0.01% : oxygen mask
+ 0.01% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q021.jpg
+95.50% : lemon
+ 0.46% : orange
+ 0.42% : spaghetti squash
+ 0.05% : dough
+ 0.02% : pineapple
+ 0.02% : strainer
+ 0.02% : prairie chicken
+ 0.02% : banana
+ 0.02% : croquet ball
+ 0.02% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q022.jpg
+96.11% : lemon
+ 0.50% : orange
+ 0.23% : spaghetti squash
+ 0.05% : dough
+ 0.02% : pineapple
+ 0.02% : strainer
+ 0.02% : banana
+ 0.02% : magnetic compass
+ 0.01% : oxygen mask
+ 0.01% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q023.jpg
+96.57% : lemon
+ 0.30% : orange
+ 0.20% : spaghetti squash
+ 0.07% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : prairie chicken
+ 0.01% : banana
+ 0.01% : mixing bowl
+ 0.01% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q024.jpg
+96.65% : lemon
+ 0.42% : orange
+ 0.13% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : oxygen mask
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q025.jpg
+96.54% : lemon
+ 0.48% : orange
+ 0.15% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : banana
+ 0.02% : pineapple
+ 0.01% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q026.jpg
+96.06% : lemon
+ 0.54% : orange
+ 0.21% : spaghetti squash
+ 0.04% : dough
+ 0.02% : pineapple
+ 0.02% : strainer
+ 0.02% : banana
+ 0.02% : combination lock
+ 0.02% : magnetic compass
+ 0.01% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q027.jpg
+97.01% : lemon
+ 0.37% : orange
+ 0.15% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : prairie chicken
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q028.jpg
+96.60% : lemon
+ 0.39% : orange
+ 0.16% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : banana
+ 0.01% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q029.jpg
+96.00% : lemon
+ 0.47% : orange
+ 0.17% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : magnetic compass
+ 0.02% : prairie chicken
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q030.jpg
+96.96% : lemon
+ 0.38% : orange
+ 0.13% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q031.jpg
+96.27% : lemon
+ 0.48% : orange
+ 0.13% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q032.jpg
+96.53% : lemon
+ 0.36% : orange
+ 0.17% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q033.jpg
+97.05% : lemon
+ 0.39% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q034.jpg
+96.60% : lemon
+ 0.57% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.02% : strainer
+ 0.02% : banana
+ 0.02% : pineapple
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q035.jpg
+96.34% : lemon
+ 0.45% : orange
+ 0.15% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q036.jpg
+97.20% : lemon
+ 0.34% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.01% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : prairie chicken
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q037.jpg
+97.19% : lemon
+ 0.35% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.01% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q038.jpg
+97.18% : lemon
+ 0.32% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q039.jpg
+96.84% : lemon
+ 0.39% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : magnetic compass
+ 0.01% : mixing bowl
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q040.jpg
+96.89% : lemon
+ 0.37% : orange
+ 0.13% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : mixing bowl
+ 0.01% : spatula
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q041.jpg
+97.17% : lemon
+ 0.30% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : mixing bowl
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q042.jpg
+96.94% : lemon
+ 0.31% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q043.jpg
+96.93% : lemon
+ 0.32% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : prairie chicken
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q044.jpg
+96.80% : lemon
+ 0.35% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+ 0.01% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q045.jpg
+96.91% : lemon
+ 0.33% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+ 0.01% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q046.jpg
+96.93% : lemon
+ 0.35% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : mixing bowl
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q047.jpg
+96.93% : lemon
+ 0.35% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q048.jpg
+96.99% : lemon
+ 0.34% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : mixing bowl
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q049.jpg
+97.20% : lemon
+ 0.39% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q050.jpg
+97.23% : lemon
+ 0.39% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q051.jpg
+97.24% : lemon
+ 0.38% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q052.jpg
+97.02% : lemon
+ 0.40% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : magnetic compass
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q053.jpg
+96.93% : lemon
+ 0.40% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q054.jpg
+96.94% : lemon
+ 0.42% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q055.jpg
+97.10% : lemon
+ 0.34% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.01% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q056.jpg
+97.09% : lemon
+ 0.35% : orange
+ 0.09% : spaghetti squash
+ 0.04% : dough
+ 0.01% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q057.jpg
+97.25% : lemon
+ 0.33% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.01% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q058.jpg
+97.18% : lemon
+ 0.31% : orange
+ 0.11% : spaghetti squash
+ 0.04% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : magnetic compass
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q059.jpg
+97.21% : lemon
+ 0.30% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : magnetic compass
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q060.jpg
+97.21% : lemon
+ 0.31% : orange
+ 0.12% : spaghetti squash
+ 0.04% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q061.jpg
+97.01% : lemon
+ 0.37% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q062.jpg
+97.22% : lemon
+ 0.31% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q063.jpg
+97.19% : lemon
+ 0.32% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q064.jpg
+97.09% : lemon
+ 0.32% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q065.jpg
+96.67% : lemon
+ 0.37% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q066.jpg
+96.53% : lemon
+ 0.42% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q067.jpg
+96.29% : lemon
+ 0.48% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q068.jpg
+96.56% : lemon
+ 0.43% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q069.jpg
+96.50% : lemon
+ 0.42% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q070.jpg
+96.61% : lemon
+ 0.40% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q071.jpg
+96.66% : lemon
+ 0.40% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q072.jpg
+96.64% : lemon
+ 0.41% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q073.jpg
+96.56% : lemon
+ 0.43% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.02% : banana
+ 0.02% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q074.jpg
+96.92% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q075.jpg
+96.92% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : prairie chicken
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q076.jpg
+96.85% : lemon
+ 0.39% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : combination lock
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q077.jpg
+96.88% : lemon
+ 0.40% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q078.jpg
+96.87% : lemon
+ 0.39% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q079.jpg
+96.90% : lemon
+ 0.38% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q080.jpg
+96.95% : lemon
+ 0.35% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q081.jpg
+96.79% : lemon
+ 0.39% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q082.jpg
+96.88% : lemon
+ 0.36% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q083.jpg
+96.81% : lemon
+ 0.38% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q084.jpg
+96.87% : lemon
+ 0.35% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q085.jpg
+96.78% : lemon
+ 0.35% : orange
+ 0.12% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.02% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q086.jpg
+96.91% : lemon
+ 0.35% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : combination lock
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q087.jpg
+97.00% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q088.jpg
+96.92% : lemon
+ 0.38% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q089.jpg
+96.93% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q090.jpg
+96.83% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q091.jpg
+96.83% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q092.jpg
+96.96% : lemon
+ 0.35% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q093.jpg
+97.05% : lemon
+ 0.35% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q094.jpg
+97.08% : lemon
+ 0.35% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q095.jpg
+97.01% : lemon
+ 0.36% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : banana
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q096.jpg
+96.93% : lemon
+ 0.36% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : harmonica
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q097.jpg
+96.90% : lemon
+ 0.37% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q098.jpg
+96.83% : lemon
+ 0.38% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q099.jpg
+97.13% : lemon
+ 0.33% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon15Q100.jpg
+97.00% : lemon
+ 0.36% : orange
+ 0.10% : spaghetti squash
+ 0.05% : dough
+ 0.02% : strainer
+ 0.01% : pineapple
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : spatula

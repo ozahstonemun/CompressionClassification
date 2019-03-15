@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ001.jpg
+ 7.06% : kelpie
+ 6.34% : chain saw
+ 4.41% : half track
+ 4.35% : malinois
+ 3.30% : tank
+ 2.29% : Cardigan
+ 2.01% : Siamese cat
+ 1.98% : cannon
+ 1.67% : gyromitra
+ 1.65% : missile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ002.jpg
+ 7.85% : kelpie
+ 6.23% : chain saw
+ 4.89% : malinois
+ 4.14% : half track
+ 2.91% : tank
+ 2.31% : Cardigan
+ 2.08% : Siamese cat
+ 1.81% : miniature pinscher
+ 1.72% : cannon
+ 1.70% : gyromitra
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ003.jpg
+25.74% : vizsla
+ 6.74% : Cardigan
+ 6.42% : Irish terrier
+ 5.17% : malinois
+ 4.75% : kelpie
+ 2.97% : apiary
+ 2.56% : Brabancon griffon
+ 2.47% : basenji
+ 2.02% : redbone
+ 1.81% : Chesapeake Bay retriever
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ004.jpg
+26.49% : vizsla
+11.01% : Sussex spaniel
+ 7.90% : hen
+ 5.54% : Irish setter
+ 2.62% : otterhound
+ 2.38% : Chesapeake Bay retriever
+ 1.94% : bloodhound
+ 1.41% : cocker spaniel
+ 1.09% : jigsaw puzzle
+ 1.09% : soft-coated wheaten terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ005.jpg
+25.15% : hen
+16.57% : macaque
+ 4.02% : Sussex spaniel
+ 3.18% : Chesapeake Bay retriever
+ 2.08% : marmot
+ 2.05% : partridge
+ 1.64% : lumbermill
+ 1.40% : Old English sheepdog
+ 1.40% : Irish water spaniel
+ 1.25% : Arabian camel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ006.jpg
+97.94% : macaque
+ 0.83% : patas
+ 0.20% : baboon
+ 0.10% : lumbermill
+ 0.06% : Bouvier des Flandres
+ 0.05% : proboscis monkey
+ 0.05% : titi
+ 0.05% : guenon
+ 0.05% : wire-haired fox terrier
+ 0.03% : langur
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ007.jpg
+95.44% : macaque
+ 0.39% : wire-haired fox terrier
+ 0.36% : Bouvier des Flandres
+ 0.30% : patas
+ 0.25% : miniature poodle
+ 0.24% : lumbermill
+ 0.22% : Airedale
+ 0.13% : marmot
+ 0.11% : standard poodle
+ 0.10% : Lakeland terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ008.jpg
+80.86% : macaque
+ 6.75% : patas
+ 1.38% : wire-haired fox terrier
+ 0.94% : baboon
+ 0.57% : Bouvier des Flandres
+ 0.55% : titi
+ 0.53% : proboscis monkey
+ 0.42% : standard poodle
+ 0.36% : Old English sheepdog
+ 0.34% : miniature poodle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ009.jpg
+91.71% : macaque
+ 5.53% : patas
+ 0.37% : baboon
+ 0.16% : titi
+ 0.13% : guenon
+ 0.10% : Bouvier des Flandres
+ 0.10% : proboscis monkey
+ 0.06% : Sussex spaniel
+ 0.06% : Norwich terrier
+ 0.04% : Leonberg
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ010.jpg
+98.61% : macaque
+ 0.31% : baboon
+ 0.28% : patas
+ 0.05% : titi
+ 0.03% : guenon
+ 0.03% : Bouvier des Flandres
+ 0.01% : miniature poodle
+ 0.01% : langur
+ 0.01% : Sussex spaniel
+ 0.01% : standard poodle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ011.jpg
+96.28% : macaque
+ 0.80% : baboon
+ 0.63% : patas
+ 0.09% : titi
+ 0.08% : guenon
+ 0.04% : langur
+ 0.03% : Bouvier des Flandres
+ 0.03% : komondor
+ 0.02% : Sussex spaniel
+ 0.02% : proboscis monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ012.jpg
+96.17% : macaque
+ 1.29% : baboon
+ 0.91% : patas
+ 0.14% : guenon
+ 0.09% : titi
+ 0.02% : komondor
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : proboscis monkey
+ 0.02% : Sussex spaniel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ013.jpg
+98.08% : macaque
+ 0.71% : baboon
+ 0.22% : patas
+ 0.06% : titi
+ 0.04% : guenon
+ 0.03% : Sussex spaniel
+ 0.02% : langur
+ 0.01% : squirrel monkey
+ 0.01% : miniature poodle
+ 0.01% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ014.jpg
+98.15% : macaque
+ 0.45% : baboon
+ 0.28% : patas
+ 0.09% : titi
+ 0.05% : guenon
+ 0.01% : langur
+ 0.01% : Sussex spaniel
+ 0.01% : hen
+ 0.01% : Bouvier des Flandres
+ 0.01% : komondor
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ015.jpg
+97.33% : macaque
+ 0.82% : baboon
+ 0.22% : patas
+ 0.07% : titi
+ 0.05% : guenon
+ 0.02% : langur
+ 0.01% : squirrel monkey
+ 0.01% : gibbon
+ 0.01% : marmoset
+ 0.01% : Sussex spaniel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ016.jpg
+97.25% : macaque
+ 1.07% : baboon
+ 0.32% : patas
+ 0.06% : titi
+ 0.04% : guenon
+ 0.02% : langur
+ 0.01% : squirrel monkey
+ 0.01% : gibbon
+ 0.01% : komondor
+ 0.01% : proboscis monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ017.jpg
+98.55% : macaque
+ 0.67% : baboon
+ 0.20% : patas
+ 0.04% : titi
+ 0.02% : guenon
+ 0.01% : Sussex spaniel
+ 0.01% : langur
+ 0.01% : squirrel monkey
+ 0.01% : marmoset
+ 0.01% : miniature poodle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ018.jpg
+97.18% : macaque
+ 1.09% : baboon
+ 0.24% : patas
+ 0.08% : titi
+ 0.05% : guenon
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : miniature poodle
+ 0.02% : Sussex spaniel
+ 0.01% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ019.jpg
+96.32% : macaque
+ 1.97% : baboon
+ 0.24% : patas
+ 0.14% : titi
+ 0.05% : guenon
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : Sussex spaniel
+ 0.02% : gibbon
+ 0.01% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ020.jpg
+94.16% : macaque
+ 2.75% : baboon
+ 0.32% : patas
+ 0.17% : titi
+ 0.08% : guenon
+ 0.03% : squirrel monkey
+ 0.02% : langur
+ 0.02% : gibbon
+ 0.02% : marmoset
+ 0.02% : cash machine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ021.jpg
+98.22% : macaque
+ 0.61% : baboon
+ 0.08% : patas
+ 0.08% : titi
+ 0.04% : guenon
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.01% : squirrel monkey
+ 0.01% : gibbon
+ 0.01% : capuchin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ022.jpg
+97.37% : macaque
+ 1.07% : baboon
+ 0.15% : patas
+ 0.13% : titi
+ 0.08% : guenon
+ 0.04% : marmoset
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.01% : gibbon
+ 0.01% : capuchin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ023.jpg
+98.07% : macaque
+ 0.66% : baboon
+ 0.07% : titi
+ 0.06% : patas
+ 0.06% : guenon
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.01% : squirrel monkey
+ 0.01% : gibbon
+ 0.01% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ024.jpg
+97.38% : macaque
+ 0.99% : baboon
+ 0.11% : patas
+ 0.09% : titi
+ 0.05% : guenon
+ 0.02% : langur
+ 0.02% : gibbon
+ 0.01% : squirrel monkey
+ 0.01% : cash machine
+ 0.01% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ025.jpg
+98.05% : macaque
+ 0.63% : baboon
+ 0.08% : patas
+ 0.06% : titi
+ 0.04% : guenon
+ 0.02% : langur
+ 0.01% : squirrel monkey
+ 0.01% : marmoset
+ 0.01% : lab coat
+ 0.01% : cash machine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ026.jpg
+96.53% : macaque
+ 1.02% : baboon
+ 0.12% : patas
+ 0.07% : titi
+ 0.05% : guenon
+ 0.04% : langur
+ 0.02% : gibbon
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.01% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ027.jpg
+97.34% : macaque
+ 0.92% : baboon
+ 0.09% : patas
+ 0.07% : titi
+ 0.05% : guenon
+ 0.03% : langur
+ 0.02% : gibbon
+ 0.02% : marmoset
+ 0.01% : squirrel monkey
+ 0.01% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ028.jpg
+95.26% : macaque
+ 1.59% : baboon
+ 0.08% : patas
+ 0.07% : titi
+ 0.06% : guenon
+ 0.04% : langur
+ 0.03% : squirrel monkey
+ 0.02% : gibbon
+ 0.02% : marmoset
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ029.jpg
+97.06% : macaque
+ 0.70% : baboon
+ 0.06% : patas
+ 0.04% : titi
+ 0.04% : langur
+ 0.04% : guenon
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : Persian cat
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ030.jpg
+97.51% : macaque
+ 0.91% : baboon
+ 0.06% : patas
+ 0.05% : titi
+ 0.05% : guenon
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.01% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ031.jpg
+96.08% : macaque
+ 1.09% : baboon
+ 0.19% : patas
+ 0.11% : titi
+ 0.10% : guenon
+ 0.04% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : gibbon
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ032.jpg
+97.09% : macaque
+ 0.80% : baboon
+ 0.10% : patas
+ 0.08% : titi
+ 0.07% : guenon
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ033.jpg
+96.93% : macaque
+ 0.93% : baboon
+ 0.11% : patas
+ 0.08% : titi
+ 0.07% : guenon
+ 0.04% : langur
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ034.jpg
+98.04% : macaque
+ 0.54% : baboon
+ 0.07% : patas
+ 0.05% : guenon
+ 0.05% : titi
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.01% : marmoset
+ 0.01% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ035.jpg
+98.29% : macaque
+ 0.58% : baboon
+ 0.06% : patas
+ 0.06% : guenon
+ 0.05% : titi
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.02% : squirrel monkey
+ 0.01% : marmoset
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ036.jpg
+97.64% : macaque
+ 0.71% : baboon
+ 0.06% : patas
+ 0.05% : titi
+ 0.05% : guenon
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ037.jpg
+97.51% : macaque
+ 0.67% : baboon
+ 0.07% : patas
+ 0.07% : titi
+ 0.05% : guenon
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : mousetrap
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ038.jpg
+97.36% : macaque
+ 0.75% : baboon
+ 0.07% : guenon
+ 0.07% : patas
+ 0.07% : titi
+ 0.03% : langur
+ 0.03% : marmoset
+ 0.02% : squirrel monkey
+ 0.01% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ039.jpg
+96.89% : macaque
+ 0.94% : baboon
+ 0.08% : patas
+ 0.07% : titi
+ 0.07% : guenon
+ 0.03% : marmoset
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : mousetrap
+ 0.01% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ040.jpg
+97.00% : macaque
+ 0.88% : baboon
+ 0.08% : patas
+ 0.07% : titi
+ 0.07% : guenon
+ 0.03% : marmoset
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ041.jpg
+97.11% : macaque
+ 0.91% : baboon
+ 0.10% : patas
+ 0.09% : guenon
+ 0.07% : titi
+ 0.03% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ042.jpg
+97.52% : macaque
+ 0.90% : baboon
+ 0.07% : patas
+ 0.06% : titi
+ 0.05% : guenon
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.01% : gibbon
+ 0.01% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ043.jpg
+97.50% : macaque
+ 0.86% : baboon
+ 0.07% : patas
+ 0.06% : titi
+ 0.06% : guenon
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.01% : gibbon
+ 0.01% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ044.jpg
+95.91% : macaque
+ 1.29% : baboon
+ 0.12% : patas
+ 0.11% : guenon
+ 0.07% : titi
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : gibbon
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ045.jpg
+95.92% : macaque
+ 1.48% : baboon
+ 0.12% : patas
+ 0.11% : guenon
+ 0.06% : titi
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : gibbon
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ046.jpg
+96.84% : macaque
+ 1.02% : baboon
+ 0.08% : guenon
+ 0.08% : patas
+ 0.05% : titi
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : spider monkey
+ 0.02% : gibbon
+ 0.02% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ047.jpg
+96.91% : macaque
+ 0.93% : baboon
+ 0.09% : guenon
+ 0.09% : patas
+ 0.05% : titi
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : spider monkey
+ 0.02% : marmoset
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ048.jpg
+97.00% : macaque
+ 0.81% : baboon
+ 0.09% : patas
+ 0.08% : guenon
+ 0.06% : titi
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : spider monkey
+ 0.02% : marmoset
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ049.jpg
+97.02% : macaque
+ 0.76% : baboon
+ 0.08% : guenon
+ 0.08% : patas
+ 0.07% : titi
+ 0.03% : marmoset
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ050.jpg
+96.99% : macaque
+ 0.80% : baboon
+ 0.09% : guenon
+ 0.08% : patas
+ 0.07% : titi
+ 0.03% : marmoset
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ051.jpg
+96.80% : macaque
+ 0.89% : baboon
+ 0.09% : guenon
+ 0.08% : patas
+ 0.07% : titi
+ 0.03% : marmoset
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ052.jpg
+95.44% : macaque
+ 2.09% : baboon
+ 0.09% : patas
+ 0.08% : guenon
+ 0.07% : titi
+ 0.03% : langur
+ 0.03% : marmoset
+ 0.02% : gibbon
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ053.jpg
+95.18% : macaque
+ 2.14% : baboon
+ 0.08% : guenon
+ 0.08% : patas
+ 0.07% : titi
+ 0.03% : langur
+ 0.03% : marmoset
+ 0.03% : squirrel monkey
+ 0.03% : gibbon
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ054.jpg
+95.95% : macaque
+ 1.83% : baboon
+ 0.07% : guenon
+ 0.06% : patas
+ 0.06% : titi
+ 0.03% : langur
+ 0.03% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : gibbon
+ 0.02% : spider monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ055.jpg
+96.71% : macaque
+ 1.11% : baboon
+ 0.07% : guenon
+ 0.05% : patas
+ 0.05% : titi
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ056.jpg
+96.69% : macaque
+ 1.23% : baboon
+ 0.06% : guenon
+ 0.05% : patas
+ 0.05% : titi
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.02% : spider monkey
+ 0.02% : marmoset
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ057.jpg
+96.56% : macaque
+ 1.22% : baboon
+ 0.07% : guenon
+ 0.05% : patas
+ 0.05% : titi
+ 0.03% : langur
+ 0.03% : spider monkey
+ 0.03% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ058.jpg
+96.79% : macaque
+ 1.22% : baboon
+ 0.05% : guenon
+ 0.04% : titi
+ 0.04% : patas
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ059.jpg
+97.18% : macaque
+ 1.09% : baboon
+ 0.04% : guenon
+ 0.04% : titi
+ 0.04% : patas
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ060.jpg
+97.41% : macaque
+ 1.10% : baboon
+ 0.03% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.01% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ061.jpg
+97.44% : macaque
+ 0.97% : baboon
+ 0.04% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ062.jpg
+97.59% : macaque
+ 0.86% : baboon
+ 0.04% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ063.jpg
+97.39% : macaque
+ 0.95% : baboon
+ 0.04% : guenon
+ 0.04% : titi
+ 0.04% : patas
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ064.jpg
+96.24% : macaque
+ 1.42% : baboon
+ 0.05% : guenon
+ 0.05% : patas
+ 0.05% : titi
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ065.jpg
+95.16% : macaque
+ 2.04% : baboon
+ 0.06% : guenon
+ 0.06% : patas
+ 0.05% : titi
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ066.jpg
+94.24% : macaque
+ 2.28% : baboon
+ 0.06% : patas
+ 0.06% : titi
+ 0.05% : guenon
+ 0.04% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.02% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ067.jpg
+95.84% : macaque
+ 1.70% : baboon
+ 0.05% : patas
+ 0.05% : titi
+ 0.04% : guenon
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.01% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ068.jpg
+96.82% : macaque
+ 1.10% : baboon
+ 0.05% : patas
+ 0.05% : titi
+ 0.04% : guenon
+ 0.03% : marmoset
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ069.jpg
+96.16% : macaque
+ 1.36% : baboon
+ 0.05% : patas
+ 0.05% : titi
+ 0.04% : guenon
+ 0.03% : langur
+ 0.03% : marmoset
+ 0.03% : squirrel monkey
+ 0.02% : spider monkey
+ 0.02% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ070.jpg
+95.07% : macaque
+ 1.99% : baboon
+ 0.06% : patas
+ 0.05% : titi
+ 0.04% : guenon
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.02% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ071.jpg
+96.40% : macaque
+ 1.22% : baboon
+ 0.05% : patas
+ 0.04% : titi
+ 0.04% : guenon
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ072.jpg
+96.55% : macaque
+ 1.11% : baboon
+ 0.05% : patas
+ 0.04% : titi
+ 0.04% : guenon
+ 0.03% : langur
+ 0.03% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ073.jpg
+96.91% : macaque
+ 1.11% : baboon
+ 0.03% : patas
+ 0.03% : guenon
+ 0.03% : titi
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ074.jpg
+96.78% : macaque
+ 1.39% : baboon
+ 0.04% : patas
+ 0.03% : guenon
+ 0.03% : titi
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ075.jpg
+96.68% : macaque
+ 1.44% : baboon
+ 0.04% : patas
+ 0.03% : titi
+ 0.03% : guenon
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.01% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ076.jpg
+96.75% : macaque
+ 1.22% : baboon
+ 0.04% : patas
+ 0.03% : guenon
+ 0.03% : titi
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ077.jpg
+97.50% : macaque
+ 0.94% : baboon
+ 0.03% : patas
+ 0.03% : guenon
+ 0.03% : titi
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ078.jpg
+96.82% : macaque
+ 1.14% : baboon
+ 0.05% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.03% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ079.jpg
+96.57% : macaque
+ 1.32% : baboon
+ 0.05% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ080.jpg
+96.71% : macaque
+ 1.14% : baboon
+ 0.04% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ081.jpg
+97.34% : macaque
+ 0.89% : baboon
+ 0.04% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ082.jpg
+97.17% : macaque
+ 1.13% : baboon
+ 0.04% : patas
+ 0.03% : guenon
+ 0.03% : titi
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ083.jpg
+96.78% : macaque
+ 1.22% : baboon
+ 0.04% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ084.jpg
+96.74% : macaque
+ 1.33% : baboon
+ 0.04% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : langur
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.02% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ085.jpg
+96.73% : macaque
+ 1.35% : baboon
+ 0.04% : guenon
+ 0.04% : patas
+ 0.03% : titi
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ086.jpg
+96.81% : macaque
+ 1.39% : baboon
+ 0.04% : guenon
+ 0.04% : titi
+ 0.04% : patas
+ 0.02% : marmoset
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ087.jpg
+96.78% : macaque
+ 1.31% : baboon
+ 0.05% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : squirrel monkey
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ088.jpg
+96.30% : macaque
+ 1.51% : baboon
+ 0.04% : patas
+ 0.04% : guenon
+ 0.04% : titi
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ089.jpg
+96.58% : macaque
+ 1.47% : baboon
+ 0.04% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : langur
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ090.jpg
+96.24% : macaque
+ 1.48% : baboon
+ 0.05% : guenon
+ 0.05% : patas
+ 0.04% : titi
+ 0.03% : squirrel monkey
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.02% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ091.jpg
+96.46% : macaque
+ 1.48% : baboon
+ 0.04% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.02% : marmoset
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ092.jpg
+96.47% : macaque
+ 1.49% : baboon
+ 0.05% : guenon
+ 0.04% : patas
+ 0.04% : titi
+ 0.03% : squirrel monkey
+ 0.03% : langur
+ 0.02% : spider monkey
+ 0.02% : marmoset
+ 0.02% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ093.jpg
+96.70% : macaque
+ 1.38% : baboon
+ 0.04% : guenon
+ 0.04% : titi
+ 0.03% : patas
+ 0.03% : squirrel monkey
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.02% : marmoset
+ 0.01% : gibbon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ094.jpg
+97.07% : macaque
+ 1.32% : baboon
+ 0.03% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.02% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ095.jpg
+96.12% : macaque
+ 1.92% : baboon
+ 0.04% : guenon
+ 0.04% : titi
+ 0.04% : patas
+ 0.03% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.02% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ096.jpg
+97.04% : macaque
+ 1.37% : baboon
+ 0.03% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.01% : spider monkey
+ 0.01% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ097.jpg
+96.90% : macaque
+ 1.39% : baboon
+ 0.04% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.02% : spider monkey
+ 0.01% : lab coat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ098.jpg
+96.73% : macaque
+ 1.71% : baboon
+ 0.03% : patas
+ 0.03% : titi
+ 0.03% : guenon
+ 0.02% : squirrel monkey
+ 0.02% : langur
+ 0.02% : marmoset
+ 0.01% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ099.jpg
+96.92% : macaque
+ 1.55% : baboon
+ 0.03% : guenon
+ 0.03% : titi
+ 0.03% : patas
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.01% : spider monkey
+ 0.01% : mousetrap
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMacaqueQ100.jpg
+96.89% : macaque
+ 1.50% : baboon
+ 0.03% : patas
+ 0.03% : titi
+ 0.03% : guenon
+ 0.02% : squirrel monkey
+ 0.02% : marmoset
+ 0.02% : langur
+ 0.01% : spider monkey
+ 0.01% : mousetrap

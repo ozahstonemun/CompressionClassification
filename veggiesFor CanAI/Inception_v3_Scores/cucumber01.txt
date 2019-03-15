@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q001.jpg
+40.45% : cucumber
+30.24% : zucchini
+ 2.34% : fountain pen
+ 2.11% : slug
+ 1.81% : screwdriver
+ 0.83% : ballpoint
+ 0.63% : lighter
+ 0.53% : ear
+ 0.52% : hair slide
+ 0.44% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q002.jpg
+40.74% : cucumber
+30.80% : zucchini
+ 2.28% : fountain pen
+ 2.03% : slug
+ 1.79% : screwdriver
+ 0.81% : ballpoint
+ 0.60% : lighter
+ 0.51% : ear
+ 0.47% : hair slide
+ 0.43% : drumstick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q003.jpg
+74.65% : cucumber
+10.09% : zucchini
+ 2.50% : slug
+ 0.82% : fountain pen
+ 0.72% : screwdriver
+ 0.41% : ear
+ 0.37% : ballpoint
+ 0.31% : modem
+ 0.28% : tray
+ 0.23% : hair slide
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q004.jpg
+74.34% : cucumber
+12.55% : zucchini
+ 1.01% : slug
+ 0.38% : fountain pen
+ 0.34% : ear
+ 0.17% : pencil box
+ 0.17% : ballpoint
+ 0.13% : screwdriver
+ 0.13% : butternut squash
+ 0.13% : lighter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q005.jpg
+85.22% : cucumber
+10.96% : zucchini
+ 0.42% : slug
+ 0.21% : ear
+ 0.11% : modem
+ 0.10% : fountain pen
+ 0.05% : pencil box
+ 0.05% : lighter
+ 0.04% : hotdog
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q006.jpg
+84.11% : cucumber
+ 8.10% : zucchini
+ 0.97% : slug
+ 0.39% : fountain pen
+ 0.31% : ear
+ 0.25% : modem
+ 0.15% : lighter
+ 0.10% : banana
+ 0.09% : pencil box
+ 0.08% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q007.jpg
+73.84% : cucumber
+17.34% : zucchini
+ 0.95% : slug
+ 0.20% : modem
+ 0.19% : ear
+ 0.16% : fountain pen
+ 0.09% : pencil box
+ 0.07% : ballpoint
+ 0.07% : lighter
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q008.jpg
+50.60% : cucumber
+35.36% : zucchini
+ 0.85% : slug
+ 0.20% : modem
+ 0.16% : ear
+ 0.09% : butternut squash
+ 0.08% : fountain pen
+ 0.07% : cleaver
+ 0.07% : leafhopper
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q009.jpg
+42.86% : cucumber
+38.90% : zucchini
+ 0.55% : slug
+ 0.25% : modem
+ 0.22% : ear
+ 0.11% : leafhopper
+ 0.10% : butternut squash
+ 0.09% : fountain pen
+ 0.09% : orangutan
+ 0.08% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q010.jpg
+73.46% : cucumber
+14.88% : zucchini
+ 0.37% : slug
+ 0.22% : modem
+ 0.12% : ear
+ 0.10% : leafhopper
+ 0.09% : butternut squash
+ 0.06% : orangutan
+ 0.06% : vine snake
+ 0.05% : fountain pen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q011.jpg
+60.56% : cucumber
+24.40% : zucchini
+ 0.33% : slug
+ 0.16% : modem
+ 0.16% : ear
+ 0.15% : leafhopper
+ 0.12% : butternut squash
+ 0.08% : orangutan
+ 0.07% : spaghetti squash
+ 0.07% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q012.jpg
+56.92% : cucumber
+27.05% : zucchini
+ 0.74% : slug
+ 0.22% : leafhopper
+ 0.22% : ear
+ 0.17% : modem
+ 0.11% : butternut squash
+ 0.08% : fountain pen
+ 0.07% : orangutan
+ 0.07% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q013.jpg
+61.06% : cucumber
+24.80% : zucchini
+ 0.46% : slug
+ 0.22% : modem
+ 0.19% : leafhopper
+ 0.17% : ear
+ 0.08% : fountain pen
+ 0.07% : butternut squash
+ 0.07% : vine snake
+ 0.06% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q014.jpg
+65.96% : cucumber
+20.89% : zucchini
+ 0.39% : slug
+ 0.17% : leafhopper
+ 0.15% : ear
+ 0.15% : modem
+ 0.08% : fountain pen
+ 0.07% : vine snake
+ 0.06% : orangutan
+ 0.06% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q015.jpg
+59.47% : cucumber
+23.01% : zucchini
+ 0.44% : slug
+ 0.27% : leafhopper
+ 0.18% : ear
+ 0.14% : modem
+ 0.09% : fountain pen
+ 0.08% : vine snake
+ 0.07% : orangutan
+ 0.07% : wire-haired fox terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q016.jpg
+46.24% : cucumber
+32.18% : zucchini
+ 0.99% : slug
+ 0.35% : leafhopper
+ 0.24% : ear
+ 0.23% : fountain pen
+ 0.13% : modem
+ 0.10% : lighter
+ 0.10% : ballpoint
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q017.jpg
+56.50% : cucumber
+24.42% : zucchini
+ 0.84% : slug
+ 0.34% : leafhopper
+ 0.21% : ear
+ 0.16% : fountain pen
+ 0.14% : modem
+ 0.08% : butternut squash
+ 0.08% : vine snake
+ 0.08% : wire-haired fox terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q018.jpg
+71.39% : cucumber
+14.92% : zucchini
+ 0.72% : slug
+ 0.25% : leafhopper
+ 0.16% : ear
+ 0.15% : modem
+ 0.12% : fountain pen
+ 0.07% : butternut squash
+ 0.07% : snail
+ 0.06% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q019.jpg
+73.41% : cucumber
+12.38% : zucchini
+ 0.88% : slug
+ 0.25% : leafhopper
+ 0.15% : ear
+ 0.15% : modem
+ 0.10% : fountain pen
+ 0.07% : snail
+ 0.07% : orangutan
+ 0.07% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q020.jpg
+63.90% : cucumber
+22.34% : zucchini
+ 0.67% : slug
+ 0.17% : leafhopper
+ 0.16% : ear
+ 0.13% : modem
+ 0.09% : fountain pen
+ 0.06% : snail
+ 0.06% : butternut squash
+ 0.06% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q021.jpg
+69.84% : cucumber
+17.98% : zucchini
+ 0.75% : slug
+ 0.14% : ear
+ 0.14% : modem
+ 0.14% : leafhopper
+ 0.08% : fountain pen
+ 0.07% : snail
+ 0.06% : butternut squash
+ 0.06% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q022.jpg
+68.46% : cucumber
+19.32% : zucchini
+ 0.65% : slug
+ 0.14% : modem
+ 0.14% : ear
+ 0.12% : leafhopper
+ 0.08% : fountain pen
+ 0.06% : snail
+ 0.06% : butternut squash
+ 0.06% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q023.jpg
+63.22% : cucumber
+22.49% : zucchini
+ 0.72% : slug
+ 0.17% : ear
+ 0.15% : modem
+ 0.14% : leafhopper
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : butternut squash
+ 0.06% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q024.jpg
+61.06% : cucumber
+24.63% : zucchini
+ 0.96% : slug
+ 0.19% : ear
+ 0.15% : leafhopper
+ 0.13% : modem
+ 0.09% : snail
+ 0.08% : butternut squash
+ 0.08% : fountain pen
+ 0.07% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q025.jpg
+58.46% : cucumber
+27.34% : zucchini
+ 0.59% : slug
+ 0.18% : ear
+ 0.14% : leafhopper
+ 0.13% : modem
+ 0.08% : butternut squash
+ 0.07% : fountain pen
+ 0.07% : snail
+ 0.07% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q026.jpg
+60.07% : cucumber
+24.12% : zucchini
+ 0.75% : slug
+ 0.19% : leafhopper
+ 0.17% : ear
+ 0.15% : modem
+ 0.10% : fountain pen
+ 0.09% : butternut squash
+ 0.08% : snail
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q027.jpg
+58.93% : cucumber
+26.64% : zucchini
+ 0.82% : slug
+ 0.17% : leafhopper
+ 0.16% : ear
+ 0.14% : modem
+ 0.08% : fountain pen
+ 0.07% : snail
+ 0.06% : butternut squash
+ 0.06% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q028.jpg
+56.39% : cucumber
+28.87% : zucchini
+ 0.79% : slug
+ 0.17% : leafhopper
+ 0.16% : ear
+ 0.14% : modem
+ 0.08% : snail
+ 0.08% : fountain pen
+ 0.07% : butternut squash
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q029.jpg
+63.60% : cucumber
+23.47% : zucchini
+ 0.74% : slug
+ 0.17% : leafhopper
+ 0.14% : ear
+ 0.13% : modem
+ 0.07% : snail
+ 0.07% : fountain pen
+ 0.06% : butternut squash
+ 0.06% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q030.jpg
+66.45% : cucumber
+20.41% : zucchini
+ 0.90% : slug
+ 0.18% : leafhopper
+ 0.15% : modem
+ 0.14% : ear
+ 0.08% : fountain pen
+ 0.08% : snail
+ 0.06% : orangutan
+ 0.06% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q031.jpg
+61.80% : cucumber
+24.37% : zucchini
+ 0.82% : slug
+ 0.16% : leafhopper
+ 0.15% : ear
+ 0.15% : modem
+ 0.08% : fountain pen
+ 0.07% : snail
+ 0.06% : butternut squash
+ 0.06% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q032.jpg
+60.44% : cucumber
+24.10% : zucchini
+ 0.99% : slug
+ 0.19% : leafhopper
+ 0.16% : modem
+ 0.16% : ear
+ 0.09% : fountain pen
+ 0.09% : snail
+ 0.07% : butternut squash
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q033.jpg
+57.85% : cucumber
+26.64% : zucchini
+ 0.75% : slug
+ 0.20% : leafhopper
+ 0.19% : ear
+ 0.13% : modem
+ 0.09% : fountain pen
+ 0.08% : butternut squash
+ 0.07% : snail
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q034.jpg
+60.89% : cucumber
+24.26% : zucchini
+ 0.76% : slug
+ 0.19% : leafhopper
+ 0.17% : ear
+ 0.14% : modem
+ 0.09% : fountain pen
+ 0.07% : butternut squash
+ 0.07% : snail
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q035.jpg
+62.28% : cucumber
+22.16% : zucchini
+ 0.72% : slug
+ 0.21% : leafhopper
+ 0.20% : ear
+ 0.15% : modem
+ 0.09% : fountain pen
+ 0.07% : sea cucumber
+ 0.07% : snail
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q036.jpg
+63.07% : cucumber
+22.57% : zucchini
+ 0.68% : slug
+ 0.20% : ear
+ 0.16% : leafhopper
+ 0.15% : modem
+ 0.08% : fountain pen
+ 0.07% : sea cucumber
+ 0.06% : orangutan
+ 0.06% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q037.jpg
+63.23% : cucumber
+22.88% : zucchini
+ 0.71% : slug
+ 0.20% : ear
+ 0.16% : modem
+ 0.15% : leafhopper
+ 0.08% : fountain pen
+ 0.07% : sea cucumber
+ 0.06% : orangutan
+ 0.06% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q038.jpg
+58.98% : cucumber
+24.68% : zucchini
+ 0.86% : slug
+ 0.22% : ear
+ 0.18% : leafhopper
+ 0.17% : modem
+ 0.10% : fountain pen
+ 0.08% : orangutan
+ 0.07% : sea cucumber
+ 0.07% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q039.jpg
+65.98% : cucumber
+19.81% : zucchini
+ 0.73% : slug
+ 0.18% : leafhopper
+ 0.18% : modem
+ 0.17% : ear
+ 0.10% : fountain pen
+ 0.07% : orangutan
+ 0.06% : sea cucumber
+ 0.06% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q040.jpg
+69.17% : cucumber
+17.82% : zucchini
+ 0.73% : slug
+ 0.19% : leafhopper
+ 0.16% : ear
+ 0.16% : modem
+ 0.09% : fountain pen
+ 0.06% : orangutan
+ 0.06% : sea cucumber
+ 0.06% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q041.jpg
+70.20% : cucumber
+16.46% : zucchini
+ 0.74% : slug
+ 0.20% : leafhopper
+ 0.16% : modem
+ 0.15% : ear
+ 0.08% : fountain pen
+ 0.06% : orangutan
+ 0.06% : sea cucumber
+ 0.06% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q042.jpg
+66.68% : cucumber
+18.39% : zucchini
+ 0.97% : slug
+ 0.19% : leafhopper
+ 0.16% : ear
+ 0.16% : modem
+ 0.09% : fountain pen
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+ 0.07% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q043.jpg
+64.59% : cucumber
+19.37% : zucchini
+ 0.99% : slug
+ 0.21% : leafhopper
+ 0.17% : ear
+ 0.16% : modem
+ 0.11% : fountain pen
+ 0.08% : sea cucumber
+ 0.08% : orangutan
+ 0.07% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q044.jpg
+66.14% : cucumber
+18.63% : zucchini
+ 0.94% : slug
+ 0.22% : leafhopper
+ 0.16% : modem
+ 0.16% : ear
+ 0.10% : fountain pen
+ 0.08% : sea cucumber
+ 0.07% : snail
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q045.jpg
+66.10% : cucumber
+18.37% : zucchini
+ 1.04% : slug
+ 0.24% : leafhopper
+ 0.17% : modem
+ 0.15% : ear
+ 0.10% : fountain pen
+ 0.08% : sea cucumber
+ 0.08% : snail
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q046.jpg
+68.61% : cucumber
+17.63% : zucchini
+ 1.10% : slug
+ 0.24% : leafhopper
+ 0.15% : ear
+ 0.13% : modem
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q047.jpg
+68.58% : cucumber
+17.54% : zucchini
+ 1.16% : slug
+ 0.23% : leafhopper
+ 0.15% : ear
+ 0.14% : modem
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q048.jpg
+64.68% : cucumber
+20.73% : zucchini
+ 1.21% : slug
+ 0.23% : leafhopper
+ 0.14% : modem
+ 0.14% : ear
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q049.jpg
+64.96% : cucumber
+20.45% : zucchini
+ 1.22% : slug
+ 0.17% : leafhopper
+ 0.15% : modem
+ 0.13% : ear
+ 0.11% : fountain pen
+ 0.09% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q050.jpg
+65.16% : cucumber
+20.51% : zucchini
+ 1.20% : slug
+ 0.17% : leafhopper
+ 0.15% : modem
+ 0.13% : ear
+ 0.11% : fountain pen
+ 0.08% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q051.jpg
+65.15% : cucumber
+20.39% : zucchini
+ 1.27% : slug
+ 0.17% : leafhopper
+ 0.16% : modem
+ 0.13% : ear
+ 0.10% : fountain pen
+ 0.09% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q052.jpg
+66.28% : cucumber
+19.94% : zucchini
+ 1.08% : slug
+ 0.17% : leafhopper
+ 0.15% : ear
+ 0.13% : modem
+ 0.10% : fountain pen
+ 0.08% : snail
+ 0.07% : orangutan
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q053.jpg
+66.30% : cucumber
+20.35% : zucchini
+ 1.00% : slug
+ 0.17% : leafhopper
+ 0.15% : ear
+ 0.13% : modem
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : orangutan
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q054.jpg
+65.98% : cucumber
+21.01% : zucchini
+ 1.00% : slug
+ 0.16% : leafhopper
+ 0.15% : ear
+ 0.14% : modem
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : orangutan
+ 0.06% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q055.jpg
+62.25% : cucumber
+23.74% : zucchini
+ 1.19% : slug
+ 0.19% : leafhopper
+ 0.16% : ear
+ 0.15% : modem
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : orangutan
+ 0.07% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q056.jpg
+60.50% : cucumber
+24.85% : zucchini
+ 1.19% : slug
+ 0.17% : leafhopper
+ 0.17% : ear
+ 0.15% : modem
+ 0.09% : fountain pen
+ 0.08% : snail
+ 0.07% : orangutan
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q057.jpg
+58.80% : cucumber
+25.57% : zucchini
+ 1.33% : slug
+ 0.20% : leafhopper
+ 0.19% : ear
+ 0.16% : modem
+ 0.12% : fountain pen
+ 0.10% : snail
+ 0.08% : orangutan
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q058.jpg
+51.99% : cucumber
+32.64% : zucchini
+ 1.05% : slug
+ 0.19% : ear
+ 0.17% : leafhopper
+ 0.15% : modem
+ 0.11% : fountain pen
+ 0.09% : snail
+ 0.07% : orangutan
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q059.jpg
+53.57% : cucumber
+30.91% : zucchini
+ 1.10% : slug
+ 0.19% : ear
+ 0.17% : leafhopper
+ 0.16% : modem
+ 0.11% : fountain pen
+ 0.09% : snail
+ 0.08% : banana
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q060.jpg
+52.04% : cucumber
+31.69% : zucchini
+ 1.18% : slug
+ 0.20% : ear
+ 0.18% : leafhopper
+ 0.16% : modem
+ 0.12% : fountain pen
+ 0.09% : snail
+ 0.08% : banana
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q061.jpg
+56.08% : cucumber
+28.90% : zucchini
+ 1.12% : slug
+ 0.18% : ear
+ 0.15% : leafhopper
+ 0.15% : modem
+ 0.11% : fountain pen
+ 0.09% : snail
+ 0.08% : banana
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q062.jpg
+54.31% : cucumber
+28.77% : zucchini
+ 1.24% : slug
+ 0.20% : ear
+ 0.17% : leafhopper
+ 0.16% : modem
+ 0.13% : fountain pen
+ 0.11% : snail
+ 0.09% : banana
+ 0.08% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q063.jpg
+53.03% : cucumber
+28.62% : zucchini
+ 1.44% : slug
+ 0.20% : ear
+ 0.19% : leafhopper
+ 0.18% : modem
+ 0.14% : fountain pen
+ 0.12% : snail
+ 0.09% : banana
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q064.jpg
+53.16% : cucumber
+27.33% : zucchini
+ 1.67% : slug
+ 0.19% : leafhopper
+ 0.19% : ear
+ 0.19% : modem
+ 0.14% : fountain pen
+ 0.12% : snail
+ 0.10% : sea cucumber
+ 0.10% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q065.jpg
+57.86% : cucumber
+24.50% : zucchini
+ 1.34% : slug
+ 0.19% : leafhopper
+ 0.18% : modem
+ 0.17% : ear
+ 0.12% : fountain pen
+ 0.10% : snail
+ 0.09% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q066.jpg
+61.09% : cucumber
+22.04% : zucchini
+ 1.21% : slug
+ 0.19% : leafhopper
+ 0.18% : modem
+ 0.16% : ear
+ 0.13% : fountain pen
+ 0.09% : sea cucumber
+ 0.09% : snail
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q067.jpg
+61.70% : cucumber
+22.60% : zucchini
+ 0.95% : slug
+ 0.16% : leafhopper
+ 0.16% : modem
+ 0.15% : ear
+ 0.11% : fountain pen
+ 0.08% : snail
+ 0.08% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q068.jpg
+60.96% : cucumber
+22.27% : zucchini
+ 1.02% : slug
+ 0.19% : leafhopper
+ 0.19% : ear
+ 0.15% : modem
+ 0.14% : fountain pen
+ 0.09% : snail
+ 0.09% : sea cucumber
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q069.jpg
+63.54% : cucumber
+20.15% : zucchini
+ 1.02% : slug
+ 0.20% : leafhopper
+ 0.17% : ear
+ 0.15% : modem
+ 0.13% : fountain pen
+ 0.09% : snail
+ 0.08% : sea cucumber
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q070.jpg
+59.30% : cucumber
+23.68% : zucchini
+ 1.06% : slug
+ 0.21% : ear
+ 0.18% : leafhopper
+ 0.15% : modem
+ 0.14% : fountain pen
+ 0.09% : snail
+ 0.09% : sea cucumber
+ 0.08% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q071.jpg
+62.87% : cucumber
+22.11% : zucchini
+ 0.88% : slug
+ 0.19% : ear
+ 0.18% : leafhopper
+ 0.15% : modem
+ 0.11% : fountain pen
+ 0.08% : snail
+ 0.07% : sea cucumber
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q072.jpg
+59.60% : cucumber
+23.60% : zucchini
+ 1.02% : slug
+ 0.21% : ear
+ 0.18% : leafhopper
+ 0.15% : modem
+ 0.13% : fountain pen
+ 0.08% : sea cucumber
+ 0.08% : snail
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q073.jpg
+61.05% : cucumber
+23.64% : zucchini
+ 1.00% : slug
+ 0.17% : ear
+ 0.16% : leafhopper
+ 0.14% : modem
+ 0.12% : fountain pen
+ 0.08% : sea cucumber
+ 0.08% : snail
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q074.jpg
+58.57% : cucumber
+25.33% : zucchini
+ 0.91% : slug
+ 0.21% : ear
+ 0.16% : leafhopper
+ 0.14% : modem
+ 0.13% : fountain pen
+ 0.08% : sea cucumber
+ 0.08% : banana
+ 0.08% : snail
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q075.jpg
+58.45% : cucumber
+25.69% : zucchini
+ 0.89% : slug
+ 0.20% : ear
+ 0.16% : leafhopper
+ 0.14% : modem
+ 0.12% : fountain pen
+ 0.08% : sea cucumber
+ 0.07% : snail
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q076.jpg
+60.74% : cucumber
+23.31% : zucchini
+ 1.00% : slug
+ 0.22% : ear
+ 0.15% : leafhopper
+ 0.15% : modem
+ 0.14% : fountain pen
+ 0.09% : snail
+ 0.08% : sea cucumber
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q077.jpg
+60.71% : cucumber
+23.97% : zucchini
+ 0.92% : slug
+ 0.24% : ear
+ 0.15% : leafhopper
+ 0.14% : modem
+ 0.14% : fountain pen
+ 0.08% : snail
+ 0.08% : sea cucumber
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q078.jpg
+60.58% : cucumber
+24.54% : zucchini
+ 0.91% : slug
+ 0.23% : ear
+ 0.15% : leafhopper
+ 0.14% : modem
+ 0.13% : fountain pen
+ 0.08% : sea cucumber
+ 0.08% : snail
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q079.jpg
+57.70% : cucumber
+26.94% : zucchini
+ 1.01% : slug
+ 0.22% : ear
+ 0.17% : leafhopper
+ 0.13% : modem
+ 0.12% : fountain pen
+ 0.09% : snail
+ 0.08% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q080.jpg
+61.96% : cucumber
+23.45% : zucchini
+ 1.06% : slug
+ 0.21% : ear
+ 0.18% : leafhopper
+ 0.13% : modem
+ 0.13% : fountain pen
+ 0.09% : snail
+ 0.07% : sea cucumber
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q081.jpg
+63.02% : cucumber
+23.16% : zucchini
+ 1.01% : slug
+ 0.21% : ear
+ 0.17% : leafhopper
+ 0.14% : modem
+ 0.12% : fountain pen
+ 0.09% : snail
+ 0.07% : banana
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q082.jpg
+62.72% : cucumber
+23.55% : zucchini
+ 1.11% : slug
+ 0.20% : ear
+ 0.17% : leafhopper
+ 0.14% : modem
+ 0.12% : fountain pen
+ 0.09% : snail
+ 0.07% : banana
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q083.jpg
+59.87% : cucumber
+26.02% : zucchini
+ 1.19% : slug
+ 0.21% : ear
+ 0.17% : leafhopper
+ 0.13% : modem
+ 0.12% : fountain pen
+ 0.10% : snail
+ 0.08% : banana
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q084.jpg
+59.60% : cucumber
+25.69% : zucchini
+ 1.08% : slug
+ 0.24% : ear
+ 0.19% : leafhopper
+ 0.14% : fountain pen
+ 0.12% : modem
+ 0.09% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q085.jpg
+63.24% : cucumber
+22.60% : zucchini
+ 1.14% : slug
+ 0.23% : ear
+ 0.18% : leafhopper
+ 0.12% : fountain pen
+ 0.12% : modem
+ 0.09% : snail
+ 0.07% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q086.jpg
+63.29% : cucumber
+21.96% : zucchini
+ 1.17% : slug
+ 0.25% : ear
+ 0.19% : leafhopper
+ 0.13% : modem
+ 0.12% : fountain pen
+ 0.09% : snail
+ 0.08% : sea cucumber
+ 0.08% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q087.jpg
+62.79% : cucumber
+21.67% : zucchini
+ 1.33% : slug
+ 0.24% : ear
+ 0.21% : leafhopper
+ 0.14% : modem
+ 0.12% : fountain pen
+ 0.10% : snail
+ 0.08% : banana
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q088.jpg
+65.48% : cucumber
+19.80% : zucchini
+ 1.05% : slug
+ 0.21% : ear
+ 0.19% : leafhopper
+ 0.14% : modem
+ 0.11% : fountain pen
+ 0.09% : snail
+ 0.08% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q089.jpg
+65.70% : cucumber
+19.41% : zucchini
+ 1.07% : slug
+ 0.21% : ear
+ 0.20% : leafhopper
+ 0.14% : modem
+ 0.11% : fountain pen
+ 0.09% : snail
+ 0.08% : sea cucumber
+ 0.07% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q090.jpg
+66.62% : cucumber
+19.08% : zucchini
+ 0.89% : slug
+ 0.20% : ear
+ 0.17% : leafhopper
+ 0.15% : modem
+ 0.10% : fountain pen
+ 0.08% : snail
+ 0.08% : sea cucumber
+ 0.07% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q091.jpg
+64.77% : cucumber
+21.36% : zucchini
+ 0.89% : slug
+ 0.21% : ear
+ 0.16% : leafhopper
+ 0.14% : modem
+ 0.10% : fountain pen
+ 0.08% : snail
+ 0.07% : banana
+ 0.07% : sea cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q092.jpg
+58.91% : cucumber
+25.77% : zucchini
+ 1.14% : slug
+ 0.25% : ear
+ 0.16% : leafhopper
+ 0.12% : modem
+ 0.11% : fountain pen
+ 0.10% : snail
+ 0.09% : sea cucumber
+ 0.08% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q093.jpg
+56.19% : cucumber
+27.22% : zucchini
+ 1.19% : slug
+ 0.24% : ear
+ 0.19% : leafhopper
+ 0.12% : fountain pen
+ 0.11% : modem
+ 0.10% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q094.jpg
+55.36% : cucumber
+26.74% : zucchini
+ 1.33% : slug
+ 0.23% : ear
+ 0.22% : leafhopper
+ 0.14% : fountain pen
+ 0.12% : modem
+ 0.12% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q095.jpg
+57.28% : cucumber
+24.58% : zucchini
+ 1.44% : slug
+ 0.24% : leafhopper
+ 0.23% : ear
+ 0.14% : fountain pen
+ 0.13% : modem
+ 0.12% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q096.jpg
+58.78% : cucumber
+23.66% : zucchini
+ 1.36% : slug
+ 0.22% : ear
+ 0.22% : leafhopper
+ 0.14% : modem
+ 0.14% : fountain pen
+ 0.12% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q097.jpg
+58.92% : cucumber
+23.88% : zucchini
+ 1.28% : slug
+ 0.23% : leafhopper
+ 0.22% : ear
+ 0.14% : fountain pen
+ 0.13% : modem
+ 0.11% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q098.jpg
+57.10% : cucumber
+24.72% : zucchini
+ 1.35% : slug
+ 0.24% : leafhopper
+ 0.23% : ear
+ 0.14% : fountain pen
+ 0.13% : modem
+ 0.11% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q099.jpg
+56.57% : cucumber
+24.93% : zucchini
+ 1.45% : slug
+ 0.24% : leafhopper
+ 0.23% : ear
+ 0.14% : fountain pen
+ 0.14% : modem
+ 0.12% : snail
+ 0.10% : sea cucumber
+ 0.10% : orangutan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber1Q100.jpg
+57.01% : cucumber
+25.07% : zucchini
+ 1.21% : slug
+ 0.24% : leafhopper
+ 0.22% : ear
+ 0.13% : fountain pen
+ 0.13% : modem
+ 0.11% : snail
+ 0.10% : sea cucumber
+ 0.09% : orangutan

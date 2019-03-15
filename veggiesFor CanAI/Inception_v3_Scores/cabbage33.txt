@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q001.jpg
+97.93% : head cabbage
+ 0.22% : sleeping bag
+ 0.21% : quilt
+ 0.14% : dough
+ 0.07% : cauliflower
+ 0.05% : tractor
+ 0.05% : diaper
+ 0.03% : mixing bowl
+ 0.03% : volcano
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q002.jpg
+97.93% : head cabbage
+ 0.22% : sleeping bag
+ 0.21% : quilt
+ 0.14% : dough
+ 0.07% : cauliflower
+ 0.05% : tractor
+ 0.05% : diaper
+ 0.03% : mixing bowl
+ 0.03% : volcano
+ 0.03% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q003.jpg
+97.96% : head cabbage
+ 0.25% : quilt
+ 0.22% : sleeping bag
+ 0.14% : dough
+ 0.07% : cauliflower
+ 0.04% : tractor
+ 0.04% : diaper
+ 0.03% : volcano
+ 0.03% : mixing bowl
+ 0.02% : wardrobe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q004.jpg
+97.23% : head cabbage
+ 0.77% : quilt
+ 0.24% : cauliflower
+ 0.17% : sleeping bag
+ 0.12% : pillow
+ 0.03% : Granny Smith
+ 0.03% : spaghetti squash
+ 0.03% : dough
+ 0.03% : planetarium
+ 0.02% : tractor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q005.jpg
+98.65% : head cabbage
+ 0.32% : cauliflower
+ 0.03% : brain coral
+ 0.03% : shower cap
+ 0.03% : quilt
+ 0.03% : pillow
+ 0.02% : Granny Smith
+ 0.02% : artichoke
+ 0.01% : maze
+ 0.01% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q006.jpg
+99.67% : head cabbage
+ 0.07% : cauliflower
+ 0.01% : dough
+ 0.00% : Granny Smith
+ 0.00% : cheeseburger
+ 0.00% : artichoke
+ 0.00% : sleeping bag
+ 0.00% : velvet
+ 0.00% : brain coral
+ 0.00% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q007.jpg
+98.33% : head cabbage
+ 0.57% : cauliflower
+ 0.02% : dough
+ 0.02% : velvet
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+ 0.01% : quilt
+ 0.01% : grocery store
+ 0.01% : artichoke
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q008.jpg
+99.40% : head cabbage
+ 0.24% : cauliflower
+ 0.01% : dough
+ 0.01% : Granny Smith
+ 0.00% : diaper
+ 0.00% : grocery store
+ 0.00% : artichoke
+ 0.00% : cheeseburger
+ 0.00% : mixing bowl
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q009.jpg
+99.60% : head cabbage
+ 0.12% : cauliflower
+ 0.02% : dough
+ 0.00% : Granny Smith
+ 0.00% : grocery store
+ 0.00% : velvet
+ 0.00% : artichoke
+ 0.00% : mixing bowl
+ 0.00% : diaper
+ 0.00% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q010.jpg
+98.62% : head cabbage
+ 0.28% : cauliflower
+ 0.03% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : grocery store
+ 0.01% : velvet
+ 0.01% : planetarium
+ 0.01% : sleeping bag
+ 0.01% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q011.jpg
+99.45% : head cabbage
+ 0.10% : cauliflower
+ 0.01% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.00% : velvet
+ 0.00% : planetarium
+ 0.00% : custard apple
+ 0.00% : sleeping bag
+ 0.00% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q012.jpg
+99.20% : head cabbage
+ 0.10% : cauliflower
+ 0.01% : artichoke
+ 0.01% : Granny Smith
+ 0.01% : leatherback turtle
+ 0.00% : cleaver
+ 0.00% : dough
+ 0.00% : sleeping bag
+ 0.00% : velvet
+ 0.00% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q013.jpg
+98.77% : head cabbage
+ 0.15% : cauliflower
+ 0.01% : artichoke
+ 0.01% : Granny Smith
+ 0.01% : leatherback turtle
+ 0.01% : cleaver
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q014.jpg
+98.47% : head cabbage
+ 0.26% : cauliflower
+ 0.01% : artichoke
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : broccoli
+ 0.01% : leatherback turtle
+ 0.01% : bell pepper
+ 0.01% : velvet
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q015.jpg
+98.39% : head cabbage
+ 0.31% : cauliflower
+ 0.01% : artichoke
+ 0.01% : Granny Smith
+ 0.01% : dough
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q016.jpg
+98.77% : head cabbage
+ 0.35% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q017.jpg
+98.68% : head cabbage
+ 0.26% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : velvet
+ 0.01% : leatherback turtle
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q018.jpg
+98.48% : head cabbage
+ 0.19% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : sleeping bag
+ 0.01% : cleaver
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q019.jpg
+98.61% : head cabbage
+ 0.19% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : planetarium
+ 0.01% : artichoke
+ 0.01% : sleeping bag
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q020.jpg
+98.81% : head cabbage
+ 0.12% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : planetarium
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q021.jpg
+98.85% : head cabbage
+ 0.18% : cauliflower
+ 0.01% : Granny Smith
+ 0.01% : dough
+ 0.01% : leatherback turtle
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q022.jpg
+98.58% : head cabbage
+ 0.19% : cauliflower
+ 0.01% : Granny Smith
+ 0.01% : dough
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : planetarium
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q023.jpg
+98.41% : head cabbage
+ 0.28% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : leatherback turtle
+ 0.01% : planetarium
+ 0.01% : velvet
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q024.jpg
+98.60% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q025.jpg
+98.33% : head cabbage
+ 0.30% : cauliflower
+ 0.03% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q026.jpg
+98.82% : head cabbage
+ 0.25% : cauliflower
+ 0.02% : dough
+ 0.01% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : leatherback turtle
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q027.jpg
+98.49% : head cabbage
+ 0.18% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : broccoli
+ 0.01% : cleaver
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q028.jpg
+98.12% : head cabbage
+ 0.28% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : cleaver
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q029.jpg
+98.26% : head cabbage
+ 0.20% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : planetarium
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q030.jpg
+98.35% : head cabbage
+ 0.20% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : sleeping bag
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q031.jpg
+97.77% : head cabbage
+ 0.36% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q032.jpg
+97.60% : head cabbage
+ 0.42% : cauliflower
+ 0.03% : dough
+ 0.02% : Granny Smith
+ 0.02% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : sleeping bag
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q033.jpg
+98.11% : head cabbage
+ 0.35% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : leatherback turtle
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q034.jpg
+98.43% : head cabbage
+ 0.29% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q035.jpg
+98.72% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : velvet
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q036.jpg
+98.43% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q037.jpg
+98.58% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : leatherback turtle
+ 0.01% : velvet
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q038.jpg
+98.14% : head cabbage
+ 0.34% : cauliflower
+ 0.03% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q039.jpg
+98.17% : head cabbage
+ 0.33% : cauliflower
+ 0.03% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q040.jpg
+98.00% : head cabbage
+ 0.38% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : velvet
+ 0.01% : sleeping bag
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q041.jpg
+97.98% : head cabbage
+ 0.35% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : cleaver
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q042.jpg
+98.24% : head cabbage
+ 0.30% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q043.jpg
+98.25% : head cabbage
+ 0.29% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : sleeping bag
+ 0.01% : cleaver
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q044.jpg
+98.44% : head cabbage
+ 0.27% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q045.jpg
+98.58% : head cabbage
+ 0.24% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q046.jpg
+98.22% : head cabbage
+ 0.30% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : sleeping bag
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q047.jpg
+98.26% : head cabbage
+ 0.30% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : sleeping bag
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q048.jpg
+98.26% : head cabbage
+ 0.29% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q049.jpg
+98.75% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q050.jpg
+98.75% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q051.jpg
+98.74% : head cabbage
+ 0.22% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : grocery store
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q052.jpg
+98.80% : head cabbage
+ 0.20% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : cleaver
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q053.jpg
+98.81% : head cabbage
+ 0.19% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q054.jpg
+98.82% : head cabbage
+ 0.19% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : velvet
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q055.jpg
+98.78% : head cabbage
+ 0.24% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : velvet
+ 0.01% : cleaver
+ 0.01% : leatherback turtle
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q056.jpg
+98.81% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : grocery store
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q057.jpg
+98.76% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q058.jpg
+98.60% : head cabbage
+ 0.25% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : grocery store
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q059.jpg
+98.61% : head cabbage
+ 0.25% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q060.jpg
+98.64% : head cabbage
+ 0.25% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q061.jpg
+98.64% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q062.jpg
+98.64% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q063.jpg
+98.64% : head cabbage
+ 0.20% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q064.jpg
+98.45% : head cabbage
+ 0.28% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : velvet
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q065.jpg
+98.64% : head cabbage
+ 0.24% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q066.jpg
+98.59% : head cabbage
+ 0.26% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q067.jpg
+98.81% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : planetarium
+ 0.01% : grocery store
+ 0.01% : sleeping bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q068.jpg
+98.79% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q069.jpg
+98.83% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q070.jpg
+98.64% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q071.jpg
+98.70% : head cabbage
+ 0.23% : cauliflower
+ 0.03% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : broccoli
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q072.jpg
+98.67% : head cabbage
+ 0.22% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q073.jpg
+98.36% : head cabbage
+ 0.25% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q074.jpg
+98.36% : head cabbage
+ 0.27% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q075.jpg
+98.37% : head cabbage
+ 0.26% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : mixing bowl
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q076.jpg
+98.51% : head cabbage
+ 0.25% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q077.jpg
+98.59% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : planetarium
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q078.jpg
+98.54% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q079.jpg
+98.53% : head cabbage
+ 0.22% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q080.jpg
+98.54% : head cabbage
+ 0.24% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : grocery store
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q081.jpg
+98.74% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q082.jpg
+98.70% : head cabbage
+ 0.22% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q083.jpg
+98.80% : head cabbage
+ 0.19% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : grocery store
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q084.jpg
+98.70% : head cabbage
+ 0.18% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : planetarium
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q085.jpg
+98.54% : head cabbage
+ 0.22% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : velvet
+ 0.01% : leatherback turtle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q086.jpg
+98.63% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : velvet
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q087.jpg
+98.71% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : grocery store
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q088.jpg
+98.74% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q089.jpg
+98.75% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q090.jpg
+98.31% : head cabbage
+ 0.28% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q091.jpg
+98.40% : head cabbage
+ 0.27% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : velvet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q092.jpg
+98.52% : head cabbage
+ 0.27% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : velvet
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q093.jpg
+98.72% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.01% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : cleaver
+ 0.01% : cucumber
+ 0.01% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q094.jpg
+98.76% : head cabbage
+ 0.24% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q095.jpg
+98.73% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : cleaver
+ 0.01% : planetarium
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q096.jpg
+98.73% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : Granny Smith
+ 0.02% : dough
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q097.jpg
+98.78% : head cabbage
+ 0.23% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : mixing bowl
+ 0.01% : grocery store
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q098.jpg
+98.75% : head cabbage
+ 0.24% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q099.jpg
+98.82% : head cabbage
+ 0.22% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : cleaver
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage33Q100.jpg
+98.81% : head cabbage
+ 0.21% : cauliflower
+ 0.02% : dough
+ 0.02% : Granny Smith
+ 0.01% : artichoke
+ 0.01% : broccoli
+ 0.01% : grocery store
+ 0.01% : mixing bowl
+ 0.01% : planetarium
+ 0.01% : cleaver

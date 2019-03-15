@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q001.jpg
+99.76% : bell pepper
+ 0.03% : corn
+ 0.03% : grocery store
+ 0.01% : confectionery
+ 0.01% : orange
+ 0.01% : cucumber
+ 0.01% : ear
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q002.jpg
+99.76% : bell pepper
+ 0.03% : corn
+ 0.03% : grocery store
+ 0.01% : confectionery
+ 0.01% : orange
+ 0.01% : cucumber
+ 0.01% : ear
+ 0.00% : lemon
+ 0.00% : shopping basket
+ 0.00% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q003.jpg
+99.74% : bell pepper
+ 0.04% : grocery store
+ 0.02% : corn
+ 0.02% : confectionery
+ 0.01% : orange
+ 0.01% : cucumber
+ 0.01% : lemon
+ 0.00% : shopping basket
+ 0.00% : strainer
+ 0.00% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q004.jpg
+99.92% : bell pepper
+ 0.01% : corn
+ 0.00% : grocery store
+ 0.00% : ear
+ 0.00% : cucumber
+ 0.00% : jackfruit
+ 0.00% : lemon
+ 0.00% : confectionery
+ 0.00% : orange
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q005.jpg
+99.31% : bell pepper
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.02% : cucumber
+ 0.01% : confectionery
+ 0.01% : jackfruit
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : stove
+ 0.01% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q006.jpg
+99.54% : bell pepper
+ 0.04% : corn
+ 0.03% : grocery store
+ 0.02% : cucumber
+ 0.01% : ear
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : zucchini
+ 0.00% : stove
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q007.jpg
+99.38% : bell pepper
+ 0.05% : grocery store
+ 0.02% : corn
+ 0.02% : cucumber
+ 0.01% : jackfruit
+ 0.01% : zucchini
+ 0.01% : abacus
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : pay-phone
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q008.jpg
+99.50% : bell pepper
+ 0.04% : grocery store
+ 0.03% : cucumber
+ 0.02% : corn
+ 0.01% : zucchini
+ 0.01% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+ 0.00% : pay-phone
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q009.jpg
+98.61% : bell pepper
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : cucumber
+ 0.02% : zucchini
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.01% : stove
+ 0.01% : abacus
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q010.jpg
+99.16% : bell pepper
+ 0.06% : grocery store
+ 0.03% : cucumber
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : zucchini
+ 0.01% : stove
+ 0.01% : ear
+ 0.01% : abacus
+ 0.00% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q011.jpg
+98.41% : bell pepper
+ 0.09% : grocery store
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.02% : acorn squash
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : lemon
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q012.jpg
+99.02% : bell pepper
+ 0.06% : grocery store
+ 0.04% : cucumber
+ 0.02% : zucchini
+ 0.02% : corn
+ 0.01% : jackfruit
+ 0.01% : stove
+ 0.01% : acorn squash
+ 0.01% : lemon
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q013.jpg
+98.35% : bell pepper
+ 0.08% : grocery store
+ 0.06% : cucumber
+ 0.03% : corn
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.01% : jackfruit
+ 0.01% : acorn squash
+ 0.01% : lemon
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q014.jpg
+97.92% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.03% : zucchini
+ 0.03% : corn
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q015.jpg
+97.70% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : acorn squash
+ 0.01% : jackfruit
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q016.jpg
+97.59% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : lemon
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q017.jpg
+97.83% : bell pepper
+ 0.09% : grocery store
+ 0.06% : cucumber
+ 0.04% : corn
+ 0.03% : zucchini
+ 0.02% : lemon
+ 0.02% : stove
+ 0.01% : jackfruit
+ 0.01% : acorn squash
+ 0.01% : abacus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q018.jpg
+97.07% : bell pepper
+ 0.10% : grocery store
+ 0.08% : cucumber
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : jackfruit
+ 0.02% : abacus
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q019.jpg
+97.38% : bell pepper
+ 0.10% : grocery store
+ 0.06% : cucumber
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : Norfolk terrier
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q020.jpg
+97.24% : bell pepper
+ 0.11% : grocery store
+ 0.08% : cucumber
+ 0.05% : zucchini
+ 0.04% : corn
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : acorn squash
+ 0.02% : lemon
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q021.jpg
+96.68% : bell pepper
+ 0.11% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.05% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.02% : lemon
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q022.jpg
+97.08% : bell pepper
+ 0.11% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q023.jpg
+96.96% : bell pepper
+ 0.10% : grocery store
+ 0.07% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q024.jpg
+96.91% : bell pepper
+ 0.10% : grocery store
+ 0.08% : corn
+ 0.07% : cucumber
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q025.jpg
+97.26% : bell pepper
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q026.jpg
+97.28% : bell pepper
+ 0.10% : grocery store
+ 0.07% : cucumber
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q027.jpg
+97.30% : bell pepper
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q028.jpg
+97.35% : bell pepper
+ 0.09% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : ear
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q029.jpg
+97.16% : bell pepper
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q030.jpg
+97.32% : bell pepper
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.06% : cucumber
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q031.jpg
+97.41% : bell pepper
+ 0.09% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q032.jpg
+97.03% : bell pepper
+ 0.10% : grocery store
+ 0.07% : corn
+ 0.06% : cucumber
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q033.jpg
+96.92% : bell pepper
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.07% : cucumber
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q034.jpg
+96.91% : bell pepper
+ 0.10% : grocery store
+ 0.07% : corn
+ 0.07% : cucumber
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q035.jpg
+97.22% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : pickup
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q036.jpg
+96.77% : bell pepper
+ 0.11% : grocery store
+ 0.07% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q037.jpg
+96.80% : bell pepper
+ 0.10% : grocery store
+ 0.07% : corn
+ 0.07% : cucumber
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q038.jpg
+97.56% : bell pepper
+ 0.09% : grocery store
+ 0.06% : corn
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : ear
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q039.jpg
+97.34% : bell pepper
+ 0.09% : grocery store
+ 0.06% : corn
+ 0.06% : cucumber
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : ear
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q040.jpg
+97.35% : bell pepper
+ 0.09% : grocery store
+ 0.06% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q041.jpg
+97.52% : bell pepper
+ 0.09% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q042.jpg
+97.42% : bell pepper
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q043.jpg
+97.35% : bell pepper
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q044.jpg
+97.05% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q045.jpg
+97.14% : bell pepper
+ 0.09% : grocery store
+ 0.06% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q046.jpg
+97.51% : bell pepper
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q047.jpg
+97.53% : bell pepper
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q048.jpg
+97.58% : bell pepper
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.05% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q049.jpg
+97.47% : bell pepper
+ 0.08% : grocery store
+ 0.07% : corn
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.01% : jackfruit
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q050.jpg
+97.45% : bell pepper
+ 0.08% : grocery store
+ 0.07% : corn
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.01% : jackfruit
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q051.jpg
+97.41% : bell pepper
+ 0.08% : grocery store
+ 0.07% : corn
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q052.jpg
+96.96% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q053.jpg
+97.16% : bell pepper
+ 0.08% : grocery store
+ 0.07% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q054.jpg
+97.24% : bell pepper
+ 0.08% : grocery store
+ 0.07% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q055.jpg
+97.18% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q056.jpg
+97.05% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q057.jpg
+96.96% : bell pepper
+ 0.09% : grocery store
+ 0.08% : corn
+ 0.07% : cucumber
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q058.jpg
+96.34% : bell pepper
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.08% : corn
+ 0.05% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q059.jpg
+96.34% : bell pepper
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.08% : corn
+ 0.06% : zucchini
+ 0.03% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q060.jpg
+96.46% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.08% : corn
+ 0.05% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q061.jpg
+96.47% : bell pepper
+ 0.10% : cucumber
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.05% : zucchini
+ 0.03% : abacus
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q062.jpg
+96.20% : bell pepper
+ 0.10% : cucumber
+ 0.10% : grocery store
+ 0.08% : corn
+ 0.05% : zucchini
+ 0.03% : abacus
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q063.jpg
+96.40% : bell pepper
+ 0.10% : cucumber
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.05% : zucchini
+ 0.03% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q064.jpg
+96.27% : bell pepper
+ 0.10% : cucumber
+ 0.10% : grocery store
+ 0.07% : corn
+ 0.06% : zucchini
+ 0.03% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q065.jpg
+96.79% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.05% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q066.jpg
+97.01% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q067.jpg
+97.07% : bell pepper
+ 0.08% : cucumber
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q068.jpg
+97.04% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q069.jpg
+96.93% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q070.jpg
+97.24% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q071.jpg
+97.14% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q072.jpg
+97.12% : bell pepper
+ 0.09% : cucumber
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q073.jpg
+96.88% : bell pepper
+ 0.09% : cucumber
+ 0.09% : grocery store
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q074.jpg
+97.04% : bell pepper
+ 0.09% : cucumber
+ 0.09% : grocery store
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q075.jpg
+97.04% : bell pepper
+ 0.09% : cucumber
+ 0.09% : grocery store
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q076.jpg
+97.30% : bell pepper
+ 0.09% : cucumber
+ 0.08% : grocery store
+ 0.05% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : lemon
+ 0.01% : jackfruit
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q077.jpg
+97.17% : bell pepper
+ 0.09% : cucumber
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q078.jpg
+97.01% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q079.jpg
+96.96% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q080.jpg
+97.16% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q081.jpg
+97.02% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q082.jpg
+97.13% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q083.jpg
+97.15% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q084.jpg
+96.80% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q085.jpg
+96.85% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.08% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q086.jpg
+96.41% : bell pepper
+ 0.10% : grocery store
+ 0.10% : corn
+ 0.09% : cucumber
+ 0.05% : zucchini
+ 0.03% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q087.jpg
+96.55% : bell pepper
+ 0.09% : corn
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.04% : zucchini
+ 0.03% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q088.jpg
+96.74% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.08% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q089.jpg
+96.77% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q090.jpg
+96.84% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : lemon
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q091.jpg
+97.07% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.06% : corn
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : abacus
+ 0.02% : lemon
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q092.jpg
+97.26% : bell pepper
+ 0.09% : corn
+ 0.07% : grocery store
+ 0.07% : cucumber
+ 0.03% : zucchini
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : lemon
+ 0.02% : jackfruit
+ 0.02% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q093.jpg
+97.11% : bell pepper
+ 0.10% : corn
+ 0.08% : cucumber
+ 0.08% : grocery store
+ 0.04% : zucchini
+ 0.02% : ear
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q094.jpg
+96.95% : bell pepper
+ 0.10% : corn
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q095.jpg
+96.69% : bell pepper
+ 0.10% : corn
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q096.jpg
+97.10% : bell pepper
+ 0.08% : grocery store
+ 0.08% : corn
+ 0.08% : cucumber
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q097.jpg
+97.20% : bell pepper
+ 0.08% : grocery store
+ 0.07% : cucumber
+ 0.07% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q098.jpg
+97.21% : bell pepper
+ 0.08% : grocery store
+ 0.08% : corn
+ 0.07% : cucumber
+ 0.03% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q099.jpg
+97.09% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.08% : corn
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper15Q100.jpg
+97.01% : bell pepper
+ 0.09% : grocery store
+ 0.08% : corn
+ 0.08% : cucumber
+ 0.04% : zucchini
+ 0.02% : abacus
+ 0.02% : stove
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : lemon

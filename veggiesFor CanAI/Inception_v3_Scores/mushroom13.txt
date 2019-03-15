@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q001.jpg
+ 9.47% : acorn
+ 7.57% : grocery store
+ 5.32% : fig
+ 5.10% : spaghetti squash
+ 3.02% : acorn squash
+ 1.78% : head cabbage
+ 1.71% : zucchini
+ 1.60% : earthstar
+ 1.52% : strawberry
+ 1.48% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q002.jpg
+ 9.45% : acorn
+ 7.58% : grocery store
+ 5.35% : fig
+ 5.13% : spaghetti squash
+ 3.04% : acorn squash
+ 1.78% : head cabbage
+ 1.71% : zucchini
+ 1.61% : earthstar
+ 1.53% : strawberry
+ 1.48% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q003.jpg
+10.39% : acorn
+ 8.18% : grocery store
+ 7.71% : fig
+ 3.49% : spaghetti squash
+ 2.53% : acorn squash
+ 1.89% : head cabbage
+ 1.78% : buckeye
+ 1.77% : zucchini
+ 1.38% : lumbermill
+ 1.32% : earthstar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q004.jpg
+11.46% : buckeye
+ 6.08% : mushroom
+ 5.35% : grocery store
+ 4.99% : conch
+ 3.28% : earthstar
+ 2.60% : fig
+ 2.38% : hen-of-the-woods
+ 2.20% : sea urchin
+ 2.10% : acorn
+ 1.79% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q005.jpg
+31.21% : earthstar
+15.01% : mushroom
+14.01% : hen-of-the-woods
+ 7.21% : bolete
+ 2.77% : stinkhorn
+ 1.47% : French loaf
+ 1.28% : fig
+ 1.22% : grocery store
+ 0.97% : acorn
+ 0.95% : gyromitra
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q006.jpg
+12.61% : earthstar
+ 8.20% : mushroom
+ 7.90% : grocery store
+ 5.07% : hen-of-the-woods
+ 4.06% : stinkhorn
+ 3.42% : fig
+ 3.40% : bolete
+ 1.75% : acorn
+ 1.31% : cucumber
+ 1.25% : sea urchin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q007.jpg
+35.52% : earthstar
+ 9.23% : stinkhorn
+ 8.00% : mushroom
+ 5.17% : hen-of-the-woods
+ 4.54% : bolete
+ 2.05% : fig
+ 1.35% : grocery store
+ 1.21% : gyromitra
+ 0.88% : acorn
+ 0.69% : sea urchin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q008.jpg
+82.35% : earthstar
+ 3.69% : mushroom
+ 3.07% : hen-of-the-woods
+ 2.23% : bolete
+ 1.14% : stinkhorn
+ 0.45% : fig
+ 0.32% : acorn
+ 0.27% : rock crab
+ 0.26% : gyromitra
+ 0.24% : sea urchin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q009.jpg
+71.59% : earthstar
+ 9.98% : hen-of-the-woods
+ 5.82% : mushroom
+ 1.30% : bolete
+ 0.86% : fig
+ 0.53% : stinkhorn
+ 0.47% : grocery store
+ 0.46% : acorn
+ 0.44% : gyromitra
+ 0.25% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q010.jpg
+73.26% : earthstar
+10.72% : hen-of-the-woods
+ 4.62% : mushroom
+ 1.72% : bolete
+ 0.82% : gyromitra
+ 0.55% : stinkhorn
+ 0.28% : fig
+ 0.24% : rock crab
+ 0.19% : French loaf
+ 0.15% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q011.jpg
+48.15% : earthstar
+20.78% : hen-of-the-woods
+12.23% : mushroom
+ 3.53% : bolete
+ 0.88% : gyromitra
+ 0.86% : fig
+ 0.74% : stinkhorn
+ 0.55% : grocery store
+ 0.35% : acorn
+ 0.26% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q012.jpg
+48.05% : earthstar
+24.46% : hen-of-the-woods
+12.65% : mushroom
+ 2.80% : bolete
+ 0.71% : gyromitra
+ 0.36% : fig
+ 0.34% : stinkhorn
+ 0.24% : rock crab
+ 0.22% : grocery store
+ 0.20% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q013.jpg
+53.58% : earthstar
+14.13% : hen-of-the-woods
+13.69% : mushroom
+ 2.61% : bolete
+ 0.60% : fig
+ 0.57% : gyromitra
+ 0.40% : stinkhorn
+ 0.40% : acorn
+ 0.39% : grocery store
+ 0.33% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q014.jpg
+60.96% : earthstar
+13.30% : mushroom
+11.32% : hen-of-the-woods
+ 1.28% : bolete
+ 0.44% : grocery store
+ 0.35% : acorn
+ 0.30% : gyromitra
+ 0.29% : fig
+ 0.26% : sea urchin
+ 0.25% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q015.jpg
+43.57% : earthstar
+23.04% : mushroom
+21.54% : hen-of-the-woods
+ 1.27% : bolete
+ 0.62% : gyromitra
+ 0.25% : mashed potato
+ 0.23% : grocery store
+ 0.21% : acorn
+ 0.21% : spatula
+ 0.21% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q016.jpg
+32.01% : mushroom
+31.53% : hen-of-the-woods
+24.75% : earthstar
+ 1.60% : bolete
+ 0.59% : gyromitra
+ 0.31% : dough
+ 0.29% : mashed potato
+ 0.20% : spatula
+ 0.19% : French loaf
+ 0.18% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q017.jpg
+33.41% : hen-of-the-woods
+29.69% : mushroom
+21.53% : earthstar
+ 1.80% : bolete
+ 0.63% : gyromitra
+ 0.34% : mashed potato
+ 0.32% : dough
+ 0.21% : pickelhaube
+ 0.21% : spatula
+ 0.20% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q018.jpg
+30.15% : hen-of-the-woods
+27.44% : mushroom
+25.65% : earthstar
+ 1.92% : bolete
+ 0.68% : gyromitra
+ 0.29% : pickelhaube
+ 0.28% : mashed potato
+ 0.28% : stinkhorn
+ 0.22% : bakery
+ 0.21% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q019.jpg
+27.04% : earthstar
+26.53% : mushroom
+25.18% : hen-of-the-woods
+ 1.88% : bolete
+ 0.64% : gyromitra
+ 0.45% : pickelhaube
+ 0.42% : spatula
+ 0.37% : mashed potato
+ 0.33% : rock crab
+ 0.30% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q020.jpg
+33.70% : mushroom
+25.71% : hen-of-the-woods
+16.94% : earthstar
+ 1.68% : bolete
+ 0.62% : gyromitra
+ 0.57% : spatula
+ 0.47% : mashed potato
+ 0.40% : dough
+ 0.39% : bakery
+ 0.39% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q021.jpg
+33.26% : mushroom
+30.04% : hen-of-the-woods
+19.47% : earthstar
+ 1.37% : bolete
+ 0.75% : gyromitra
+ 0.50% : dough
+ 0.36% : mashed potato
+ 0.34% : pickelhaube
+ 0.31% : bakery
+ 0.28% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q022.jpg
+36.85% : earthstar
+26.63% : mushroom
+21.20% : hen-of-the-woods
+ 1.57% : bolete
+ 0.85% : gyromitra
+ 0.40% : dough
+ 0.38% : mashed potato
+ 0.36% : spatula
+ 0.24% : stinkhorn
+ 0.20% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q023.jpg
+29.02% : earthstar
+28.97% : hen-of-the-woods
+27.75% : mushroom
+ 1.53% : bolete
+ 0.59% : gyromitra
+ 0.30% : pickelhaube
+ 0.25% : dough
+ 0.22% : stinkhorn
+ 0.21% : mashed potato
+ 0.20% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q024.jpg
+33.92% : earthstar
+25.97% : mushroom
+22.80% : hen-of-the-woods
+ 1.50% : bolete
+ 0.53% : gyromitra
+ 0.36% : dough
+ 0.34% : pickelhaube
+ 0.31% : bakery
+ 0.31% : mashed potato
+ 0.26% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q025.jpg
+32.41% : mushroom
+25.19% : earthstar
+23.80% : hen-of-the-woods
+ 2.41% : bolete
+ 0.60% : gyromitra
+ 0.43% : bakery
+ 0.36% : dough
+ 0.33% : pickelhaube
+ 0.29% : stinkhorn
+ 0.26% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q026.jpg
+37.89% : earthstar
+21.08% : hen-of-the-woods
+19.07% : mushroom
+ 1.43% : bolete
+ 0.63% : gyromitra
+ 0.41% : spatula
+ 0.38% : pickelhaube
+ 0.32% : dough
+ 0.30% : bakery
+ 0.30% : rock crab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q027.jpg
+30.80% : earthstar
+26.74% : mushroom
+26.49% : hen-of-the-woods
+ 1.17% : bolete
+ 0.66% : gyromitra
+ 0.37% : dough
+ 0.34% : bakery
+ 0.29% : pickelhaube
+ 0.28% : mashed potato
+ 0.24% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q028.jpg
+29.97% : earthstar
+27.36% : mushroom
+23.97% : hen-of-the-woods
+ 1.92% : bolete
+ 0.79% : gyromitra
+ 0.39% : dough
+ 0.32% : bakery
+ 0.31% : pickelhaube
+ 0.30% : mashed potato
+ 0.27% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q029.jpg
+34.10% : earthstar
+24.50% : mushroom
+23.98% : hen-of-the-woods
+ 1.92% : bolete
+ 0.81% : gyromitra
+ 0.38% : dough
+ 0.30% : mashed potato
+ 0.30% : bakery
+ 0.26% : stinkhorn
+ 0.25% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q030.jpg
+32.19% : earthstar
+24.31% : hen-of-the-woods
+23.78% : mushroom
+ 1.74% : bolete
+ 0.76% : gyromitra
+ 0.41% : bakery
+ 0.41% : dough
+ 0.33% : mashed potato
+ 0.28% : French loaf
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q031.jpg
+38.55% : earthstar
+24.24% : hen-of-the-woods
+22.28% : mushroom
+ 1.20% : bolete
+ 0.49% : gyromitra
+ 0.26% : pickelhaube
+ 0.23% : mashed potato
+ 0.23% : dough
+ 0.22% : rock crab
+ 0.21% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q032.jpg
+37.94% : earthstar
+22.87% : hen-of-the-woods
+22.87% : mushroom
+ 1.24% : bolete
+ 0.55% : gyromitra
+ 0.27% : spatula
+ 0.26% : dough
+ 0.25% : pickelhaube
+ 0.24% : rock crab
+ 0.23% : mashed potato
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q033.jpg
+29.07% : earthstar
+27.60% : mushroom
+26.85% : hen-of-the-woods
+ 1.75% : bolete
+ 0.74% : gyromitra
+ 0.28% : stinkhorn
+ 0.28% : mashed potato
+ 0.27% : dough
+ 0.23% : bakery
+ 0.22% : coral fungus
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q034.jpg
+29.45% : earthstar
+26.80% : mushroom
+25.60% : hen-of-the-woods
+ 1.79% : bolete
+ 0.69% : gyromitra
+ 0.34% : stinkhorn
+ 0.33% : mashed potato
+ 0.30% : dough
+ 0.26% : spatula
+ 0.24% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q035.jpg
+30.98% : earthstar
+27.39% : mushroom
+25.90% : hen-of-the-woods
+ 1.90% : bolete
+ 0.74% : gyromitra
+ 0.27% : dough
+ 0.26% : stinkhorn
+ 0.26% : pickelhaube
+ 0.24% : bakery
+ 0.24% : mashed potato
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q036.jpg
+34.76% : earthstar
+28.50% : hen-of-the-woods
+21.30% : mushroom
+ 1.49% : bolete
+ 0.75% : gyromitra
+ 0.26% : stinkhorn
+ 0.26% : dough
+ 0.25% : pickelhaube
+ 0.25% : mashed potato
+ 0.24% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q037.jpg
+36.36% : earthstar
+27.70% : hen-of-the-woods
+20.52% : mushroom
+ 1.40% : bolete
+ 0.76% : gyromitra
+ 0.28% : dough
+ 0.25% : pickelhaube
+ 0.25% : mashed potato
+ 0.24% : bakery
+ 0.23% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q038.jpg
+31.59% : earthstar
+29.35% : hen-of-the-woods
+25.66% : mushroom
+ 1.30% : bolete
+ 0.61% : gyromitra
+ 0.28% : dough
+ 0.24% : pickelhaube
+ 0.24% : mashed potato
+ 0.22% : bakery
+ 0.20% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q039.jpg
+33.62% : earthstar
+29.45% : hen-of-the-woods
+23.44% : mushroom
+ 1.63% : bolete
+ 0.65% : gyromitra
+ 0.25% : pickelhaube
+ 0.22% : dough
+ 0.21% : stinkhorn
+ 0.21% : mashed potato
+ 0.18% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q040.jpg
+32.73% : earthstar
+28.01% : hen-of-the-woods
+23.46% : mushroom
+ 1.49% : bolete
+ 0.66% : gyromitra
+ 0.26% : dough
+ 0.26% : stinkhorn
+ 0.24% : mashed potato
+ 0.24% : pickelhaube
+ 0.23% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q041.jpg
+37.42% : earthstar
+23.28% : hen-of-the-woods
+20.71% : mushroom
+ 1.66% : bolete
+ 0.72% : gyromitra
+ 0.31% : bakery
+ 0.30% : dough
+ 0.29% : spatula
+ 0.28% : pickelhaube
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q042.jpg
+34.52% : earthstar
+23.61% : hen-of-the-woods
+23.01% : mushroom
+ 1.88% : bolete
+ 0.79% : gyromitra
+ 0.33% : bakery
+ 0.32% : dough
+ 0.30% : spatula
+ 0.29% : French loaf
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q043.jpg
+35.66% : earthstar
+22.55% : hen-of-the-woods
+20.99% : mushroom
+ 1.95% : bolete
+ 0.83% : gyromitra
+ 0.37% : bakery
+ 0.35% : dough
+ 0.33% : spatula
+ 0.33% : French loaf
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q044.jpg
+33.72% : earthstar
+26.47% : hen-of-the-woods
+22.80% : mushroom
+ 1.70% : bolete
+ 0.76% : gyromitra
+ 0.31% : bakery
+ 0.30% : dough
+ 0.29% : pickelhaube
+ 0.28% : stinkhorn
+ 0.24% : mashed potato
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q045.jpg
+34.05% : earthstar
+26.71% : hen-of-the-woods
+21.74% : mushroom
+ 1.69% : bolete
+ 0.78% : gyromitra
+ 0.31% : stinkhorn
+ 0.31% : bakery
+ 0.30% : dough
+ 0.27% : pickelhaube
+ 0.24% : mashed potato
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q046.jpg
+35.12% : earthstar
+23.39% : mushroom
+22.89% : hen-of-the-woods
+ 1.90% : bolete
+ 0.89% : gyromitra
+ 0.33% : bakery
+ 0.33% : dough
+ 0.33% : stinkhorn
+ 0.27% : spatula
+ 0.26% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q047.jpg
+36.64% : earthstar
+22.75% : mushroom
+22.06% : hen-of-the-woods
+ 1.94% : bolete
+ 0.91% : gyromitra
+ 0.35% : stinkhorn
+ 0.32% : dough
+ 0.32% : bakery
+ 0.26% : spatula
+ 0.26% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q048.jpg
+31.20% : earthstar
+25.46% : mushroom
+24.57% : hen-of-the-woods
+ 2.19% : bolete
+ 0.90% : gyromitra
+ 0.39% : stinkhorn
+ 0.32% : bakery
+ 0.29% : dough
+ 0.27% : agaric
+ 0.26% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q049.jpg
+29.57% : hen-of-the-woods
+26.85% : mushroom
+24.84% : earthstar
+ 1.91% : bolete
+ 0.76% : gyromitra
+ 0.41% : bakery
+ 0.39% : pickelhaube
+ 0.35% : dough
+ 0.32% : bagel
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q050.jpg
+29.58% : hen-of-the-woods
+26.81% : mushroom
+24.97% : earthstar
+ 1.92% : bolete
+ 0.76% : gyromitra
+ 0.40% : bakery
+ 0.40% : pickelhaube
+ 0.34% : dough
+ 0.31% : bagel
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q051.jpg
+29.76% : hen-of-the-woods
+26.43% : mushroom
+25.09% : earthstar
+ 1.98% : bolete
+ 0.76% : gyromitra
+ 0.41% : pickelhaube
+ 0.39% : bakery
+ 0.33% : dough
+ 0.31% : bagel
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q052.jpg
+28.70% : earthstar
+28.10% : mushroom
+24.02% : hen-of-the-woods
+ 2.39% : bolete
+ 0.82% : gyromitra
+ 0.39% : bakery
+ 0.34% : stinkhorn
+ 0.32% : dough
+ 0.29% : bagel
+ 0.29% : agaric
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q053.jpg
+29.80% : earthstar
+26.92% : mushroom
+23.79% : hen-of-the-woods
+ 2.32% : bolete
+ 0.80% : gyromitra
+ 0.37% : bakery
+ 0.36% : stinkhorn
+ 0.34% : dough
+ 0.31% : bagel
+ 0.30% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q054.jpg
+29.42% : earthstar
+26.38% : mushroom
+24.34% : hen-of-the-woods
+ 2.17% : bolete
+ 0.81% : gyromitra
+ 0.39% : bakery
+ 0.36% : stinkhorn
+ 0.35% : dough
+ 0.32% : bagel
+ 0.30% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q055.jpg
+28.90% : mushroom
+25.93% : earthstar
+23.81% : hen-of-the-woods
+ 1.87% : bolete
+ 0.75% : gyromitra
+ 0.50% : bakery
+ 0.47% : dough
+ 0.42% : bagel
+ 0.32% : stinkhorn
+ 0.31% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q056.jpg
+27.84% : mushroom
+25.33% : earthstar
+24.58% : hen-of-the-woods
+ 1.83% : bolete
+ 0.81% : gyromitra
+ 0.54% : bakery
+ 0.53% : dough
+ 0.44% : bagel
+ 0.33% : stinkhorn
+ 0.32% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q057.jpg
+29.01% : mushroom
+26.38% : hen-of-the-woods
+25.22% : earthstar
+ 1.94% : bolete
+ 0.84% : gyromitra
+ 0.45% : dough
+ 0.43% : bakery
+ 0.34% : bagel
+ 0.30% : stinkhorn
+ 0.30% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q058.jpg
+27.38% : earthstar
+26.00% : hen-of-the-woods
+25.26% : mushroom
+ 1.82% : bolete
+ 0.87% : gyromitra
+ 0.54% : dough
+ 0.49% : bakery
+ 0.43% : bagel
+ 0.35% : stinkhorn
+ 0.33% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q059.jpg
+28.89% : earthstar
+25.84% : hen-of-the-woods
+24.48% : mushroom
+ 1.62% : bolete
+ 0.81% : gyromitra
+ 0.51% : dough
+ 0.46% : bakery
+ 0.42% : bagel
+ 0.32% : stinkhorn
+ 0.31% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q060.jpg
+30.07% : earthstar
+26.02% : hen-of-the-woods
+23.04% : mushroom
+ 1.63% : bolete
+ 0.85% : gyromitra
+ 0.52% : dough
+ 0.49% : bakery
+ 0.41% : bagel
+ 0.32% : stinkhorn
+ 0.32% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q061.jpg
+32.99% : earthstar
+24.85% : hen-of-the-woods
+22.02% : mushroom
+ 1.56% : bolete
+ 0.82% : gyromitra
+ 0.42% : dough
+ 0.41% : bakery
+ 0.37% : bagel
+ 0.34% : stinkhorn
+ 0.30% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q062.jpg
+29.67% : earthstar
+25.44% : hen-of-the-woods
+23.65% : mushroom
+ 1.69% : bolete
+ 0.86% : gyromitra
+ 0.49% : bakery
+ 0.48% : dough
+ 0.41% : bagel
+ 0.33% : stinkhorn
+ 0.33% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q063.jpg
+33.05% : earthstar
+25.20% : hen-of-the-woods
+20.62% : mushroom
+ 1.64% : bolete
+ 0.89% : gyromitra
+ 0.48% : dough
+ 0.48% : bakery
+ 0.37% : bagel
+ 0.33% : French loaf
+ 0.31% : mashed potato
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q064.jpg
+34.99% : earthstar
+24.87% : hen-of-the-woods
+19.58% : mushroom
+ 1.61% : bolete
+ 0.86% : gyromitra
+ 0.47% : dough
+ 0.45% : bakery
+ 0.34% : bagel
+ 0.32% : pickelhaube
+ 0.31% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q065.jpg
+36.90% : earthstar
+25.31% : hen-of-the-woods
+19.29% : mushroom
+ 1.37% : bolete
+ 0.77% : gyromitra
+ 0.40% : bakery
+ 0.39% : dough
+ 0.32% : pickelhaube
+ 0.31% : bagel
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q066.jpg
+37.55% : earthstar
+24.80% : hen-of-the-woods
+18.46% : mushroom
+ 1.39% : bolete
+ 0.78% : gyromitra
+ 0.42% : dough
+ 0.41% : bakery
+ 0.31% : bagel
+ 0.30% : pickelhaube
+ 0.30% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q067.jpg
+36.63% : earthstar
+26.75% : hen-of-the-woods
+17.60% : mushroom
+ 1.47% : bolete
+ 0.86% : gyromitra
+ 0.35% : pickelhaube
+ 0.34% : bakery
+ 0.34% : stinkhorn
+ 0.32% : dough
+ 0.27% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q068.jpg
+34.18% : earthstar
+26.96% : hen-of-the-woods
+18.09% : mushroom
+ 1.71% : bolete
+ 0.91% : gyromitra
+ 0.38% : stinkhorn
+ 0.37% : bakery
+ 0.35% : pickelhaube
+ 0.34% : dough
+ 0.29% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q069.jpg
+31.63% : earthstar
+26.89% : hen-of-the-woods
+19.25% : mushroom
+ 1.75% : bolete
+ 0.83% : gyromitra
+ 0.43% : bakery
+ 0.41% : stinkhorn
+ 0.37% : pickelhaube
+ 0.36% : dough
+ 0.33% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q070.jpg
+33.38% : earthstar
+27.47% : hen-of-the-woods
+19.28% : mushroom
+ 1.53% : bolete
+ 0.84% : gyromitra
+ 0.39% : bakery
+ 0.38% : stinkhorn
+ 0.37% : dough
+ 0.32% : pickelhaube
+ 0.29% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q071.jpg
+32.50% : earthstar
+27.95% : hen-of-the-woods
+20.19% : mushroom
+ 1.47% : bolete
+ 0.85% : gyromitra
+ 0.34% : stinkhorn
+ 0.34% : bakery
+ 0.34% : dough
+ 0.32% : pickelhaube
+ 0.27% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q072.jpg
+32.90% : earthstar
+28.04% : hen-of-the-woods
+19.73% : mushroom
+ 1.35% : bolete
+ 0.83% : gyromitra
+ 0.36% : bakery
+ 0.35% : dough
+ 0.34% : stinkhorn
+ 0.32% : pickelhaube
+ 0.27% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q073.jpg
+30.71% : earthstar
+26.28% : hen-of-the-woods
+21.95% : mushroom
+ 1.45% : bolete
+ 0.81% : gyromitra
+ 0.40% : bakery
+ 0.39% : dough
+ 0.36% : pickelhaube
+ 0.33% : stinkhorn
+ 0.31% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q074.jpg
+34.53% : earthstar
+24.93% : hen-of-the-woods
+18.66% : mushroom
+ 1.29% : bolete
+ 0.81% : gyromitra
+ 0.39% : dough
+ 0.37% : bakery
+ 0.37% : pickelhaube
+ 0.34% : stinkhorn
+ 0.30% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q075.jpg
+35.31% : earthstar
+24.67% : hen-of-the-woods
+18.44% : mushroom
+ 1.26% : bolete
+ 0.80% : gyromitra
+ 0.38% : dough
+ 0.36% : pickelhaube
+ 0.35% : bakery
+ 0.33% : stinkhorn
+ 0.29% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q076.jpg
+30.69% : earthstar
+28.17% : hen-of-the-woods
+19.46% : mushroom
+ 1.50% : bolete
+ 1.00% : gyromitra
+ 0.45% : dough
+ 0.42% : bakery
+ 0.36% : stinkhorn
+ 0.32% : pickelhaube
+ 0.32% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q077.jpg
+29.02% : earthstar
+26.15% : hen-of-the-woods
+23.15% : mushroom
+ 1.89% : bolete
+ 1.02% : gyromitra
+ 0.46% : dough
+ 0.41% : bakery
+ 0.36% : stinkhorn
+ 0.34% : bagel
+ 0.31% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q078.jpg
+33.02% : earthstar
+24.88% : hen-of-the-woods
+20.81% : mushroom
+ 1.50% : bolete
+ 0.87% : gyromitra
+ 0.42% : dough
+ 0.39% : bakery
+ 0.33% : stinkhorn
+ 0.31% : pickelhaube
+ 0.31% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q079.jpg
+31.88% : earthstar
+25.71% : hen-of-the-woods
+21.99% : mushroom
+ 1.53% : bolete
+ 0.87% : gyromitra
+ 0.41% : dough
+ 0.38% : bakery
+ 0.31% : stinkhorn
+ 0.30% : bagel
+ 0.30% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q080.jpg
+32.04% : earthstar
+24.58% : hen-of-the-woods
+21.78% : mushroom
+ 1.53% : bolete
+ 0.85% : gyromitra
+ 0.46% : bakery
+ 0.43% : dough
+ 0.33% : pickelhaube
+ 0.32% : spatula
+ 0.32% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q081.jpg
+31.14% : earthstar
+25.40% : hen-of-the-woods
+22.60% : mushroom
+ 1.92% : bolete
+ 0.90% : gyromitra
+ 0.40% : bakery
+ 0.35% : dough
+ 0.33% : pickelhaube
+ 0.32% : stinkhorn
+ 0.28% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q082.jpg
+32.63% : earthstar
+25.32% : hen-of-the-woods
+22.23% : mushroom
+ 1.71% : bolete
+ 0.84% : gyromitra
+ 0.37% : bakery
+ 0.34% : dough
+ 0.33% : pickelhaube
+ 0.31% : stinkhorn
+ 0.26% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q083.jpg
+31.40% : earthstar
+25.87% : hen-of-the-woods
+22.20% : mushroom
+ 1.88% : bolete
+ 0.92% : gyromitra
+ 0.43% : bakery
+ 0.37% : dough
+ 0.33% : stinkhorn
+ 0.33% : pickelhaube
+ 0.28% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q084.jpg
+33.38% : earthstar
+22.87% : mushroom
+22.66% : hen-of-the-woods
+ 1.83% : bolete
+ 0.82% : gyromitra
+ 0.50% : bakery
+ 0.44% : dough
+ 0.35% : bagel
+ 0.33% : pickelhaube
+ 0.31% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q085.jpg
+35.45% : earthstar
+23.39% : hen-of-the-woods
+21.87% : mushroom
+ 1.81% : bolete
+ 0.79% : gyromitra
+ 0.46% : bakery
+ 0.41% : dough
+ 0.30% : bagel
+ 0.30% : pickelhaube
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q086.jpg
+34.09% : earthstar
+23.60% : hen-of-the-woods
+20.25% : mushroom
+ 1.61% : bolete
+ 0.79% : gyromitra
+ 0.58% : bakery
+ 0.48% : dough
+ 0.41% : bagel
+ 0.35% : pickelhaube
+ 0.34% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q087.jpg
+34.59% : earthstar
+23.35% : hen-of-the-woods
+20.44% : mushroom
+ 1.65% : bolete
+ 0.84% : gyromitra
+ 0.53% : bakery
+ 0.47% : dough
+ 0.36% : bagel
+ 0.32% : stinkhorn
+ 0.32% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q088.jpg
+32.60% : earthstar
+25.38% : hen-of-the-woods
+21.83% : mushroom
+ 1.61% : bolete
+ 0.81% : gyromitra
+ 0.49% : bakery
+ 0.45% : dough
+ 0.33% : bagel
+ 0.31% : pickelhaube
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q089.jpg
+31.84% : earthstar
+25.87% : hen-of-the-woods
+21.44% : mushroom
+ 1.62% : bolete
+ 0.81% : gyromitra
+ 0.46% : bakery
+ 0.42% : dough
+ 0.33% : pickelhaube
+ 0.32% : bagel
+ 0.31% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q090.jpg
+31.30% : earthstar
+26.22% : hen-of-the-woods
+21.62% : mushroom
+ 1.62% : bolete
+ 0.78% : gyromitra
+ 0.46% : bakery
+ 0.38% : pickelhaube
+ 0.38% : dough
+ 0.31% : bagel
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q091.jpg
+31.74% : earthstar
+26.36% : hen-of-the-woods
+21.73% : mushroom
+ 1.73% : bolete
+ 0.86% : gyromitra
+ 0.39% : bakery
+ 0.35% : pickelhaube
+ 0.34% : stinkhorn
+ 0.33% : dough
+ 0.28% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q092.jpg
+29.84% : earthstar
+27.31% : hen-of-the-woods
+20.67% : mushroom
+ 2.16% : bolete
+ 0.95% : gyromitra
+ 0.43% : pickelhaube
+ 0.42% : stinkhorn
+ 0.36% : bakery
+ 0.31% : French loaf
+ 0.30% : bagel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q093.jpg
+34.73% : earthstar
+26.20% : hen-of-the-woods
+18.38% : mushroom
+ 2.13% : bolete
+ 1.05% : gyromitra
+ 0.44% : bakery
+ 0.41% : stinkhorn
+ 0.34% : pickelhaube
+ 0.31% : dough
+ 0.31% : agaric
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q094.jpg
+36.14% : earthstar
+27.02% : hen-of-the-woods
+19.08% : mushroom
+ 2.01% : bolete
+ 0.93% : gyromitra
+ 0.36% : stinkhorn
+ 0.34% : bakery
+ 0.33% : pickelhaube
+ 0.28% : agaric
+ 0.26% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q095.jpg
+35.49% : earthstar
+26.81% : hen-of-the-woods
+19.44% : mushroom
+ 2.02% : bolete
+ 0.88% : gyromitra
+ 0.36% : bakery
+ 0.34% : pickelhaube
+ 0.34% : stinkhorn
+ 0.28% : agaric
+ 0.28% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q096.jpg
+32.13% : earthstar
+27.55% : hen-of-the-woods
+21.19% : mushroom
+ 2.14% : bolete
+ 0.90% : gyromitra
+ 0.38% : bakery
+ 0.35% : pickelhaube
+ 0.34% : stinkhorn
+ 0.30% : agaric
+ 0.29% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q097.jpg
+32.52% : earthstar
+27.59% : hen-of-the-woods
+20.40% : mushroom
+ 2.13% : bolete
+ 0.89% : gyromitra
+ 0.38% : bakery
+ 0.37% : pickelhaube
+ 0.34% : stinkhorn
+ 0.31% : agaric
+ 0.30% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q098.jpg
+33.49% : earthstar
+26.80% : hen-of-the-woods
+20.14% : mushroom
+ 2.19% : bolete
+ 0.91% : gyromitra
+ 0.38% : bakery
+ 0.37% : pickelhaube
+ 0.34% : stinkhorn
+ 0.32% : agaric
+ 0.30% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q099.jpg
+31.27% : earthstar
+27.27% : hen-of-the-woods
+21.41% : mushroom
+ 2.21% : bolete
+ 0.91% : gyromitra
+ 0.40% : bakery
+ 0.36% : stinkhorn
+ 0.36% : pickelhaube
+ 0.32% : agaric
+ 0.31% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom13Q100.jpg
+33.64% : earthstar
+27.31% : hen-of-the-woods
+19.70% : mushroom
+ 2.19% : bolete
+ 0.95% : gyromitra
+ 0.37% : bakery
+ 0.35% : pickelhaube
+ 0.35% : stinkhorn
+ 0.30% : dough
+ 0.30% : agaric

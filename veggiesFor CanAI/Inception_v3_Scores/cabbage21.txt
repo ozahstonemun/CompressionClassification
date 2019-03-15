@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q001.jpg
+75.96% : tennis ball
+18.76% : head cabbage
+ 0.92% : lemon
+ 0.19% : custard apple
+ 0.14% : racket
+ 0.09% : spaghetti squash
+ 0.08% : guacamole
+ 0.08% : ice cream
+ 0.07% : golf ball
+ 0.06% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q002.jpg
+75.98% : tennis ball
+18.75% : head cabbage
+ 0.92% : lemon
+ 0.19% : custard apple
+ 0.14% : racket
+ 0.09% : spaghetti squash
+ 0.08% : guacamole
+ 0.08% : ice cream
+ 0.07% : golf ball
+ 0.06% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q003.jpg
+73.92% : tennis ball
+21.88% : head cabbage
+ 0.71% : lemon
+ 0.18% : custard apple
+ 0.14% : racket
+ 0.09% : guacamole
+ 0.07% : cucumber
+ 0.07% : jackfruit
+ 0.06% : golf ball
+ 0.06% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q004.jpg
+97.04% : head cabbage
+ 0.29% : tennis ball
+ 0.12% : guacamole
+ 0.11% : ice cream
+ 0.09% : custard apple
+ 0.06% : cucumber
+ 0.05% : zucchini
+ 0.05% : pot
+ 0.04% : fig
+ 0.03% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q005.jpg
+98.28% : head cabbage
+ 0.30% : tennis ball
+ 0.12% : custard apple
+ 0.05% : fig
+ 0.04% : guacamole
+ 0.03% : lemon
+ 0.03% : cauliflower
+ 0.02% : cucumber
+ 0.01% : ice cream
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q006.jpg
+99.81% : head cabbage
+ 0.02% : tennis ball
+ 0.01% : guacamole
+ 0.01% : cauliflower
+ 0.00% : custard apple
+ 0.00% : fig
+ 0.00% : ice cream
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q007.jpg
+99.49% : head cabbage
+ 0.12% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cauliflower
+ 0.01% : guacamole
+ 0.01% : ice cream
+ 0.01% : fig
+ 0.00% : cucumber
+ 0.00% : racket
+ 0.00% : sulphur butterfly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q008.jpg
+99.29% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : tennis ball
+ 0.01% : custard apple
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.01% : guacamole
+ 0.01% : artichoke
+ 0.00% : sulphur butterfly
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q009.jpg
+98.27% : head cabbage
+ 0.11% : tennis ball
+ 0.09% : custard apple
+ 0.06% : fig
+ 0.04% : cauliflower
+ 0.03% : cucumber
+ 0.02% : artichoke
+ 0.02% : guacamole
+ 0.01% : butternut squash
+ 0.01% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q010.jpg
+99.31% : head cabbage
+ 0.05% : tennis ball
+ 0.04% : custard apple
+ 0.02% : fig
+ 0.02% : cauliflower
+ 0.01% : ice cream
+ 0.01% : cucumber
+ 0.01% : guacamole
+ 0.00% : artichoke
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q011.jpg
+99.52% : head cabbage
+ 0.02% : custard apple
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : ice cream
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q012.jpg
+99.20% : head cabbage
+ 0.04% : fig
+ 0.04% : cauliflower
+ 0.03% : custard apple
+ 0.02% : cucumber
+ 0.01% : tennis ball
+ 0.01% : ice cream
+ 0.01% : butternut squash
+ 0.01% : artichoke
+ 0.01% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q013.jpg
+99.29% : head cabbage
+ 0.04% : custard apple
+ 0.03% : tennis ball
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : butternut squash
+ 0.01% : African chameleon
+ 0.00% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q014.jpg
+99.25% : head cabbage
+ 0.04% : tennis ball
+ 0.04% : custard apple
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.01% : cucumber
+ 0.01% : artichoke
+ 0.01% : guacamole
+ 0.01% : butternut squash
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q015.jpg
+99.48% : head cabbage
+ 0.03% : cauliflower
+ 0.03% : fig
+ 0.02% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : zucchini
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q016.jpg
+99.78% : head cabbage
+ 0.01% : fig
+ 0.01% : cauliflower
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : ice cream
+ 0.00% : guacamole
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q017.jpg
+99.76% : head cabbage
+ 0.02% : fig
+ 0.01% : cauliflower
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : ice cream
+ 0.00% : butternut squash
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q018.jpg
+99.83% : head cabbage
+ 0.01% : cauliflower
+ 0.01% : fig
+ 0.00% : custard apple
+ 0.00% : cucumber
+ 0.00% : tennis ball
+ 0.00% : ice cream
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q019.jpg
+99.75% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.01% : tennis ball
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : ice cream
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q020.jpg
+99.80% : head cabbage
+ 0.01% : fig
+ 0.01% : cauliflower
+ 0.01% : custard apple
+ 0.00% : tennis ball
+ 0.00% : cucumber
+ 0.00% : ice cream
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q021.jpg
+99.77% : head cabbage
+ 0.02% : fig
+ 0.02% : cauliflower
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q022.jpg
+99.77% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : tennis ball
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q023.jpg
+99.80% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.00% : custard apple
+ 0.00% : cucumber
+ 0.00% : tennis ball
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q024.jpg
+99.81% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.00% : custard apple
+ 0.00% : tennis ball
+ 0.00% : cucumber
+ 0.00% : butternut squash
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q025.jpg
+99.76% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q026.jpg
+99.75% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : tennis ball
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q027.jpg
+99.79% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : tennis ball
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q028.jpg
+99.79% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q029.jpg
+99.66% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q030.jpg
+99.70% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : tennis ball
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q031.jpg
+99.81% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q032.jpg
+99.76% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q033.jpg
+99.71% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q034.jpg
+99.78% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q035.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q036.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q037.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : African chameleon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q038.jpg
+99.73% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : ice cream
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q039.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : ice cream
+ 0.00% : butternut squash
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q040.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q041.jpg
+99.69% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q042.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q043.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q044.jpg
+99.72% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q045.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q046.jpg
+99.79% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q047.jpg
+99.78% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q048.jpg
+99.80% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q049.jpg
+99.76% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q050.jpg
+99.76% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q051.jpg
+99.76% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.00% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q052.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q053.jpg
+99.69% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q054.jpg
+99.69% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q055.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q056.jpg
+99.75% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q057.jpg
+99.75% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q058.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q059.jpg
+99.68% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.02% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q060.jpg
+99.68% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.02% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q061.jpg
+99.74% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q062.jpg
+99.72% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q063.jpg
+99.72% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q064.jpg
+99.73% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q065.jpg
+99.72% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q066.jpg
+99.70% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q067.jpg
+99.68% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.02% : custard apple
+ 0.02% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : lemon
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q068.jpg
+99.71% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q069.jpg
+99.71% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q070.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : custard apple
+ 0.02% : tennis ball
+ 0.02% : fig
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q071.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : tennis ball
+ 0.01% : custard apple
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q072.jpg
+99.66% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : tennis ball
+ 0.02% : custard apple
+ 0.01% : fig
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q073.jpg
+99.71% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q074.jpg
+99.69% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : tennis ball
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q075.jpg
+99.70% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : tennis ball
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q076.jpg
+99.65% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q077.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q078.jpg
+99.62% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q079.jpg
+99.62% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q080.jpg
+99.65% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : bell pepper
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q081.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q082.jpg
+99.69% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q083.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q084.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.02% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q085.jpg
+99.69% : head cabbage
+ 0.02% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q086.jpg
+99.69% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : lemon
+ 0.00% : guacamole
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q087.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : lemon
+ 0.00% : guacamole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q088.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q089.jpg
+99.65% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q090.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q091.jpg
+99.66% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q092.jpg
+99.66% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q093.jpg
+99.65% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q094.jpg
+99.67% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : lemon
+ 0.00% : guacamole
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q095.jpg
+99.68% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : lemon
+ 0.00% : guacamole
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q096.jpg
+99.66% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : lemon
+ 0.00% : guacamole
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q097.jpg
+99.65% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : butternut squash
+ 0.00% : guacamole
+ 0.00% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q098.jpg
+99.65% : head cabbage
+ 0.03% : cauliflower
+ 0.02% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : lemon
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q099.jpg
+99.70% : head cabbage
+ 0.03% : cauliflower
+ 0.01% : fig
+ 0.01% : custard apple
+ 0.01% : tennis ball
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : lemon
+ 0.00% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage21Q100.jpg
+99.70% : head cabbage
+ 0.02% : cauliflower
+ 0.01% : fig
+ 0.01% : tennis ball
+ 0.01% : custard apple
+ 0.01% : cucumber
+ 0.00% : artichoke
+ 0.00% : guacamole
+ 0.00% : butternut squash
+ 0.00% : lemon

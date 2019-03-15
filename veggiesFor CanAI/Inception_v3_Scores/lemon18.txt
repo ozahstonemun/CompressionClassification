@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q001.jpg
+80.13% : lemon
+ 2.97% : mousetrap
+ 1.38% : window screen
+ 1.08% : orange
+ 0.84% : spaghetti squash
+ 0.73% : goldfinch
+ 0.57% : tennis ball
+ 0.57% : prison
+ 0.30% : jackfruit
+ 0.25% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q002.jpg
+80.12% : lemon
+ 2.97% : mousetrap
+ 1.38% : window screen
+ 1.08% : orange
+ 0.84% : spaghetti squash
+ 0.74% : goldfinch
+ 0.58% : tennis ball
+ 0.57% : prison
+ 0.30% : jackfruit
+ 0.25% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q003.jpg
+76.30% : lemon
+ 3.32% : mousetrap
+ 1.52% : window screen
+ 1.18% : goldfinch
+ 0.93% : spaghetti squash
+ 0.89% : prison
+ 0.87% : orange
+ 0.46% : tennis ball
+ 0.45% : jackfruit
+ 0.29% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q004.jpg
+81.30% : lemon
+ 4.50% : tennis ball
+ 1.10% : spaghetti squash
+ 0.81% : orange
+ 0.68% : window screen
+ 0.29% : jackfruit
+ 0.27% : racket
+ 0.26% : strainer
+ 0.16% : squirrel monkey
+ 0.15% : mousetrap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q005.jpg
+39.90% : tennis ball
+39.35% : lemon
+ 0.96% : spaghetti squash
+ 0.82% : racket
+ 0.53% : mousetrap
+ 0.37% : window screen
+ 0.36% : goldfinch
+ 0.29% : prison
+ 0.26% : robin
+ 0.24% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q006.jpg
+89.61% : lemon
+ 3.50% : tennis ball
+ 0.69% : orange
+ 0.43% : mousetrap
+ 0.15% : jackfruit
+ 0.14% : window screen
+ 0.13% : spaghetti squash
+ 0.09% : strainer
+ 0.09% : robin
+ 0.08% : racket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q007.jpg
+88.02% : lemon
+ 1.41% : mousetrap
+ 0.60% : window screen
+ 0.32% : orange
+ 0.20% : prison
+ 0.20% : spaghetti squash
+ 0.20% : tennis ball
+ 0.16% : goldfinch
+ 0.12% : chickadee
+ 0.11% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q008.jpg
+78.14% : lemon
+ 4.39% : mousetrap
+ 0.96% : orange
+ 0.78% : window screen
+ 0.62% : tennis ball
+ 0.40% : prison
+ 0.29% : spaghetti squash
+ 0.22% : goldfinch
+ 0.21% : bath towel
+ 0.18% : chickadee
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q009.jpg
+93.65% : lemon
+ 0.43% : mousetrap
+ 0.25% : spaghetti squash
+ 0.22% : tennis ball
+ 0.19% : orange
+ 0.14% : window screen
+ 0.08% : strainer
+ 0.08% : dough
+ 0.07% : goldfinch
+ 0.07% : bath towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q010.jpg
+83.03% : lemon
+ 1.73% : mousetrap
+ 0.38% : window screen
+ 0.33% : orange
+ 0.31% : spaghetti squash
+ 0.22% : tennis ball
+ 0.17% : strainer
+ 0.17% : bath towel
+ 0.16% : goldfinch
+ 0.14% : toilet tissue
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q011.jpg
+83.26% : lemon
+ 0.96% : mousetrap
+ 0.48% : window screen
+ 0.31% : spaghetti squash
+ 0.30% : orange
+ 0.18% : strainer
+ 0.17% : goldfinch
+ 0.16% : tennis ball
+ 0.14% : king penguin
+ 0.14% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q012.jpg
+77.85% : lemon
+ 1.41% : mousetrap
+ 0.74% : window screen
+ 0.53% : spaghetti squash
+ 0.38% : orange
+ 0.23% : goldfinch
+ 0.22% : strainer
+ 0.19% : tennis ball
+ 0.19% : king penguin
+ 0.18% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q013.jpg
+80.67% : lemon
+ 0.93% : mousetrap
+ 0.41% : window screen
+ 0.40% : orange
+ 0.39% : spaghetti squash
+ 0.29% : strainer
+ 0.23% : tennis ball
+ 0.19% : king penguin
+ 0.18% : goldfinch
+ 0.14% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q014.jpg
+75.29% : lemon
+ 1.67% : mousetrap
+ 0.56% : spaghetti squash
+ 0.53% : window screen
+ 0.43% : orange
+ 0.34% : strainer
+ 0.26% : tennis ball
+ 0.26% : king penguin
+ 0.23% : goldfinch
+ 0.21% : bath towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q015.jpg
+80.73% : lemon
+ 1.80% : mousetrap
+ 0.47% : spaghetti squash
+ 0.44% : window screen
+ 0.39% : orange
+ 0.27% : strainer
+ 0.24% : king penguin
+ 0.24% : goldfinch
+ 0.20% : tennis ball
+ 0.17% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q016.jpg
+78.94% : lemon
+ 1.77% : mousetrap
+ 0.43% : spaghetti squash
+ 0.33% : orange
+ 0.33% : window screen
+ 0.25% : king penguin
+ 0.23% : goldfinch
+ 0.21% : strainer
+ 0.19% : toucan
+ 0.16% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q017.jpg
+79.33% : lemon
+ 1.06% : mousetrap
+ 0.47% : orange
+ 0.33% : window screen
+ 0.30% : spaghetti squash
+ 0.21% : king penguin
+ 0.20% : strainer
+ 0.18% : toucan
+ 0.18% : toilet tissue
+ 0.18% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q018.jpg
+79.19% : lemon
+ 0.78% : mousetrap
+ 0.61% : orange
+ 0.32% : spaghetti squash
+ 0.26% : window screen
+ 0.20% : king penguin
+ 0.17% : strainer
+ 0.16% : toucan
+ 0.15% : goldfinch
+ 0.15% : toilet tissue
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q019.jpg
+79.40% : lemon
+ 0.86% : mousetrap
+ 0.58% : orange
+ 0.34% : spaghetti squash
+ 0.28% : window screen
+ 0.24% : king penguin
+ 0.18% : toucan
+ 0.17% : strainer
+ 0.15% : goldfinch
+ 0.14% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q020.jpg
+78.88% : lemon
+ 0.65% : mousetrap
+ 0.59% : orange
+ 0.40% : window screen
+ 0.30% : spaghetti squash
+ 0.21% : strainer
+ 0.19% : king penguin
+ 0.15% : toucan
+ 0.14% : tennis ball
+ 0.14% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q021.jpg
+82.27% : lemon
+ 0.91% : mousetrap
+ 0.47% : orange
+ 0.33% : spaghetti squash
+ 0.29% : window screen
+ 0.17% : strainer
+ 0.15% : king penguin
+ 0.15% : lampshade
+ 0.14% : goldfinch
+ 0.13% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q022.jpg
+78.32% : lemon
+ 1.17% : mousetrap
+ 0.53% : orange
+ 0.32% : window screen
+ 0.32% : spaghetti squash
+ 0.21% : strainer
+ 0.18% : king penguin
+ 0.16% : toilet tissue
+ 0.15% : goldfinch
+ 0.14% : squirrel monkey
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q023.jpg
+80.71% : lemon
+ 1.05% : mousetrap
+ 0.41% : orange
+ 0.40% : spaghetti squash
+ 0.31% : window screen
+ 0.25% : strainer
+ 0.19% : king penguin
+ 0.17% : goldfinch
+ 0.16% : lampshade
+ 0.16% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q024.jpg
+79.55% : lemon
+ 1.03% : mousetrap
+ 0.44% : orange
+ 0.39% : spaghetti squash
+ 0.37% : window screen
+ 0.24% : strainer
+ 0.21% : king penguin
+ 0.17% : goldfinch
+ 0.16% : tennis ball
+ 0.16% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q025.jpg
+81.29% : lemon
+ 0.76% : mousetrap
+ 0.49% : orange
+ 0.32% : spaghetti squash
+ 0.31% : window screen
+ 0.23% : strainer
+ 0.19% : king penguin
+ 0.15% : toilet tissue
+ 0.14% : goldfinch
+ 0.14% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q026.jpg
+80.49% : lemon
+ 0.73% : mousetrap
+ 0.54% : orange
+ 0.34% : spaghetti squash
+ 0.29% : window screen
+ 0.26% : strainer
+ 0.21% : king penguin
+ 0.15% : toilet tissue
+ 0.15% : toucan
+ 0.15% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q027.jpg
+81.77% : lemon
+ 0.80% : mousetrap
+ 0.38% : spaghetti squash
+ 0.34% : orange
+ 0.27% : window screen
+ 0.24% : strainer
+ 0.18% : king penguin
+ 0.15% : goldfinch
+ 0.15% : toilet tissue
+ 0.14% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q028.jpg
+80.86% : lemon
+ 0.94% : mousetrap
+ 0.45% : orange
+ 0.38% : spaghetti squash
+ 0.30% : window screen
+ 0.27% : strainer
+ 0.18% : king penguin
+ 0.14% : goldfinch
+ 0.14% : tennis ball
+ 0.14% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q029.jpg
+81.52% : lemon
+ 0.85% : mousetrap
+ 0.48% : orange
+ 0.37% : spaghetti squash
+ 0.29% : window screen
+ 0.25% : strainer
+ 0.17% : king penguin
+ 0.14% : tennis ball
+ 0.13% : toucan
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q030.jpg
+79.11% : lemon
+ 0.77% : mousetrap
+ 0.47% : orange
+ 0.44% : spaghetti squash
+ 0.29% : window screen
+ 0.26% : strainer
+ 0.22% : king penguin
+ 0.16% : goldfinch
+ 0.15% : lampshade
+ 0.15% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q031.jpg
+78.95% : lemon
+ 1.12% : mousetrap
+ 0.48% : orange
+ 0.42% : spaghetti squash
+ 0.27% : window screen
+ 0.24% : strainer
+ 0.22% : king penguin
+ 0.15% : goldfinch
+ 0.15% : toilet tissue
+ 0.15% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q032.jpg
+81.83% : lemon
+ 0.92% : mousetrap
+ 0.44% : orange
+ 0.37% : spaghetti squash
+ 0.26% : window screen
+ 0.23% : strainer
+ 0.18% : king penguin
+ 0.13% : goldfinch
+ 0.13% : toucan
+ 0.13% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q033.jpg
+81.03% : lemon
+ 0.71% : mousetrap
+ 0.46% : orange
+ 0.33% : spaghetti squash
+ 0.27% : window screen
+ 0.22% : strainer
+ 0.20% : lampshade
+ 0.17% : king penguin
+ 0.15% : goldfinch
+ 0.14% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q034.jpg
+81.25% : lemon
+ 0.61% : mousetrap
+ 0.53% : orange
+ 0.30% : spaghetti squash
+ 0.27% : window screen
+ 0.21% : strainer
+ 0.17% : lampshade
+ 0.16% : king penguin
+ 0.13% : goldfinch
+ 0.13% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q035.jpg
+80.80% : lemon
+ 0.83% : mousetrap
+ 0.39% : orange
+ 0.35% : spaghetti squash
+ 0.30% : window screen
+ 0.23% : strainer
+ 0.19% : king penguin
+ 0.16% : lampshade
+ 0.15% : goldfinch
+ 0.15% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q036.jpg
+81.85% : lemon
+ 0.70% : mousetrap
+ 0.45% : orange
+ 0.31% : spaghetti squash
+ 0.28% : window screen
+ 0.22% : strainer
+ 0.17% : king penguin
+ 0.16% : lampshade
+ 0.14% : tennis ball
+ 0.14% : toilet tissue
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q037.jpg
+81.87% : lemon
+ 0.76% : mousetrap
+ 0.41% : orange
+ 0.30% : spaghetti squash
+ 0.27% : window screen
+ 0.22% : strainer
+ 0.17% : king penguin
+ 0.15% : toilet tissue
+ 0.15% : lampshade
+ 0.13% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q038.jpg
+81.34% : lemon
+ 0.67% : mousetrap
+ 0.51% : orange
+ 0.31% : spaghetti squash
+ 0.28% : window screen
+ 0.24% : strainer
+ 0.18% : king penguin
+ 0.14% : fire screen
+ 0.14% : lampshade
+ 0.13% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q039.jpg
+84.25% : lemon
+ 0.72% : mousetrap
+ 0.39% : orange
+ 0.28% : spaghetti squash
+ 0.24% : window screen
+ 0.20% : strainer
+ 0.14% : king penguin
+ 0.14% : lampshade
+ 0.13% : goldfinch
+ 0.11% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q040.jpg
+84.61% : lemon
+ 0.51% : mousetrap
+ 0.46% : orange
+ 0.26% : window screen
+ 0.25% : spaghetti squash
+ 0.21% : strainer
+ 0.14% : king penguin
+ 0.13% : lampshade
+ 0.11% : goldfinch
+ 0.11% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q041.jpg
+82.83% : lemon
+ 0.50% : mousetrap
+ 0.50% : orange
+ 0.28% : window screen
+ 0.26% : spaghetti squash
+ 0.23% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.12% : toucan
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q042.jpg
+82.81% : lemon
+ 0.57% : mousetrap
+ 0.48% : orange
+ 0.29% : spaghetti squash
+ 0.28% : window screen
+ 0.25% : strainer
+ 0.15% : king penguin
+ 0.15% : lampshade
+ 0.13% : fire screen
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q043.jpg
+83.06% : lemon
+ 0.61% : mousetrap
+ 0.48% : orange
+ 0.29% : spaghetti squash
+ 0.28% : window screen
+ 0.25% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.13% : fire screen
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q044.jpg
+83.85% : lemon
+ 0.66% : mousetrap
+ 0.42% : orange
+ 0.30% : spaghetti squash
+ 0.26% : window screen
+ 0.24% : strainer
+ 0.16% : king penguin
+ 0.13% : tennis ball
+ 0.13% : lampshade
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q045.jpg
+83.34% : lemon
+ 0.73% : mousetrap
+ 0.45% : orange
+ 0.29% : spaghetti squash
+ 0.27% : window screen
+ 0.25% : strainer
+ 0.17% : king penguin
+ 0.13% : tennis ball
+ 0.13% : lampshade
+ 0.12% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q046.jpg
+81.57% : lemon
+ 0.95% : mousetrap
+ 0.47% : orange
+ 0.33% : spaghetti squash
+ 0.29% : window screen
+ 0.28% : strainer
+ 0.16% : king penguin
+ 0.14% : tennis ball
+ 0.13% : toucan
+ 0.13% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q047.jpg
+81.65% : lemon
+ 0.94% : mousetrap
+ 0.47% : orange
+ 0.33% : spaghetti squash
+ 0.28% : window screen
+ 0.27% : strainer
+ 0.16% : king penguin
+ 0.14% : tennis ball
+ 0.13% : toucan
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q048.jpg
+81.78% : lemon
+ 0.90% : mousetrap
+ 0.45% : orange
+ 0.35% : spaghetti squash
+ 0.27% : window screen
+ 0.26% : strainer
+ 0.16% : king penguin
+ 0.13% : lampshade
+ 0.13% : tennis ball
+ 0.13% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q049.jpg
+83.06% : lemon
+ 0.77% : mousetrap
+ 0.44% : orange
+ 0.30% : spaghetti squash
+ 0.27% : window screen
+ 0.25% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q050.jpg
+83.07% : lemon
+ 0.78% : mousetrap
+ 0.44% : orange
+ 0.30% : spaghetti squash
+ 0.27% : window screen
+ 0.25% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q051.jpg
+83.05% : lemon
+ 0.78% : mousetrap
+ 0.45% : orange
+ 0.30% : spaghetti squash
+ 0.27% : window screen
+ 0.25% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q052.jpg
+83.47% : lemon
+ 0.67% : mousetrap
+ 0.45% : orange
+ 0.29% : spaghetti squash
+ 0.25% : window screen
+ 0.22% : strainer
+ 0.15% : king penguin
+ 0.13% : lampshade
+ 0.12% : tennis ball
+ 0.11% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q053.jpg
+82.98% : lemon
+ 0.75% : mousetrap
+ 0.41% : orange
+ 0.30% : spaghetti squash
+ 0.25% : window screen
+ 0.23% : strainer
+ 0.16% : king penguin
+ 0.14% : lampshade
+ 0.13% : tennis ball
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q054.jpg
+83.17% : lemon
+ 0.74% : mousetrap
+ 0.41% : orange
+ 0.30% : spaghetti squash
+ 0.25% : window screen
+ 0.22% : strainer
+ 0.16% : king penguin
+ 0.13% : lampshade
+ 0.12% : tennis ball
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q055.jpg
+82.43% : lemon
+ 0.67% : mousetrap
+ 0.51% : orange
+ 0.29% : spaghetti squash
+ 0.24% : window screen
+ 0.23% : strainer
+ 0.17% : king penguin
+ 0.12% : fire screen
+ 0.12% : lampshade
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q056.jpg
+82.34% : lemon
+ 0.70% : mousetrap
+ 0.49% : orange
+ 0.30% : spaghetti squash
+ 0.24% : window screen
+ 0.23% : strainer
+ 0.17% : king penguin
+ 0.13% : fire screen
+ 0.12% : tennis ball
+ 0.12% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q057.jpg
+82.43% : lemon
+ 0.75% : mousetrap
+ 0.50% : orange
+ 0.29% : spaghetti squash
+ 0.26% : window screen
+ 0.23% : strainer
+ 0.16% : king penguin
+ 0.12% : fire screen
+ 0.12% : goldfinch
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q058.jpg
+84.52% : lemon
+ 0.73% : mousetrap
+ 0.43% : orange
+ 0.27% : spaghetti squash
+ 0.25% : window screen
+ 0.22% : strainer
+ 0.14% : king penguin
+ 0.13% : lampshade
+ 0.12% : goldfinch
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q059.jpg
+84.40% : lemon
+ 0.71% : mousetrap
+ 0.45% : orange
+ 0.27% : spaghetti squash
+ 0.24% : window screen
+ 0.23% : strainer
+ 0.14% : king penguin
+ 0.13% : lampshade
+ 0.12% : goldfinch
+ 0.11% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q060.jpg
+84.52% : lemon
+ 0.71% : mousetrap
+ 0.45% : orange
+ 0.27% : spaghetti squash
+ 0.24% : window screen
+ 0.23% : strainer
+ 0.13% : lampshade
+ 0.13% : king penguin
+ 0.12% : goldfinch
+ 0.11% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q061.jpg
+83.10% : lemon
+ 0.84% : mousetrap
+ 0.45% : orange
+ 0.29% : spaghetti squash
+ 0.27% : window screen
+ 0.25% : strainer
+ 0.14% : king penguin
+ 0.13% : lampshade
+ 0.13% : fire screen
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q062.jpg
+82.87% : lemon
+ 0.75% : mousetrap
+ 0.47% : orange
+ 0.28% : window screen
+ 0.27% : spaghetti squash
+ 0.24% : strainer
+ 0.14% : king penguin
+ 0.13% : fire screen
+ 0.13% : lampshade
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q063.jpg
+83.38% : lemon
+ 0.79% : mousetrap
+ 0.45% : orange
+ 0.29% : window screen
+ 0.27% : spaghetti squash
+ 0.26% : strainer
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.13% : fire screen
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q064.jpg
+83.62% : lemon
+ 0.64% : mousetrap
+ 0.47% : orange
+ 0.28% : spaghetti squash
+ 0.24% : window screen
+ 0.23% : strainer
+ 0.15% : king penguin
+ 0.12% : lampshade
+ 0.12% : goldfinch
+ 0.11% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q065.jpg
+83.20% : lemon
+ 0.70% : mousetrap
+ 0.46% : orange
+ 0.30% : spaghetti squash
+ 0.24% : strainer
+ 0.24% : window screen
+ 0.15% : king penguin
+ 0.12% : lampshade
+ 0.12% : goldfinch
+ 0.11% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q066.jpg
+82.55% : lemon
+ 0.80% : mousetrap
+ 0.49% : orange
+ 0.31% : spaghetti squash
+ 0.27% : strainer
+ 0.26% : window screen
+ 0.16% : king penguin
+ 0.13% : lampshade
+ 0.12% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q067.jpg
+82.08% : lemon
+ 0.96% : mousetrap
+ 0.49% : orange
+ 0.32% : spaghetti squash
+ 0.28% : window screen
+ 0.28% : strainer
+ 0.16% : king penguin
+ 0.13% : lampshade
+ 0.13% : fire screen
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q068.jpg
+82.78% : lemon
+ 0.83% : mousetrap
+ 0.45% : orange
+ 0.31% : spaghetti squash
+ 0.26% : window screen
+ 0.26% : strainer
+ 0.16% : king penguin
+ 0.12% : tennis ball
+ 0.12% : lampshade
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q069.jpg
+83.47% : lemon
+ 0.74% : mousetrap
+ 0.47% : orange
+ 0.29% : spaghetti squash
+ 0.25% : strainer
+ 0.25% : window screen
+ 0.15% : king penguin
+ 0.12% : fire screen
+ 0.12% : lampshade
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q070.jpg
+83.74% : lemon
+ 0.94% : mousetrap
+ 0.42% : orange
+ 0.30% : spaghetti squash
+ 0.27% : strainer
+ 0.25% : window screen
+ 0.15% : king penguin
+ 0.12% : goldfinch
+ 0.12% : fire screen
+ 0.12% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q071.jpg
+82.97% : lemon
+ 1.05% : mousetrap
+ 0.44% : orange
+ 0.30% : spaghetti squash
+ 0.26% : strainer
+ 0.26% : window screen
+ 0.16% : king penguin
+ 0.14% : lampshade
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q072.jpg
+82.73% : lemon
+ 1.03% : mousetrap
+ 0.46% : orange
+ 0.31% : spaghetti squash
+ 0.27% : strainer
+ 0.26% : window screen
+ 0.16% : king penguin
+ 0.14% : lampshade
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q073.jpg
+82.18% : lemon
+ 0.90% : mousetrap
+ 0.47% : orange
+ 0.30% : spaghetti squash
+ 0.26% : window screen
+ 0.25% : strainer
+ 0.16% : king penguin
+ 0.14% : lampshade
+ 0.13% : toucan
+ 0.12% : toilet tissue
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q074.jpg
+82.45% : lemon
+ 0.87% : mousetrap
+ 0.44% : orange
+ 0.29% : spaghetti squash
+ 0.27% : window screen
+ 0.26% : strainer
+ 0.15% : king penguin
+ 0.15% : lampshade
+ 0.13% : goldfinch
+ 0.13% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q075.jpg
+82.42% : lemon
+ 0.85% : mousetrap
+ 0.45% : orange
+ 0.29% : spaghetti squash
+ 0.27% : window screen
+ 0.25% : strainer
+ 0.15% : king penguin
+ 0.15% : lampshade
+ 0.13% : goldfinch
+ 0.13% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q076.jpg
+82.13% : lemon
+ 0.80% : mousetrap
+ 0.47% : orange
+ 0.30% : spaghetti squash
+ 0.28% : strainer
+ 0.27% : window screen
+ 0.17% : lampshade
+ 0.15% : king penguin
+ 0.14% : fire screen
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q077.jpg
+82.73% : lemon
+ 0.84% : mousetrap
+ 0.44% : orange
+ 0.31% : spaghetti squash
+ 0.27% : strainer
+ 0.25% : window screen
+ 0.16% : lampshade
+ 0.15% : king penguin
+ 0.13% : fire screen
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q078.jpg
+83.30% : lemon
+ 0.86% : mousetrap
+ 0.44% : orange
+ 0.28% : spaghetti squash
+ 0.28% : window screen
+ 0.26% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.12% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q079.jpg
+83.17% : lemon
+ 0.87% : mousetrap
+ 0.46% : orange
+ 0.28% : spaghetti squash
+ 0.27% : window screen
+ 0.26% : strainer
+ 0.15% : king penguin
+ 0.14% : lampshade
+ 0.12% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q080.jpg
+83.17% : lemon
+ 0.76% : mousetrap
+ 0.52% : orange
+ 0.26% : window screen
+ 0.26% : spaghetti squash
+ 0.23% : strainer
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.12% : toucan
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q081.jpg
+82.95% : lemon
+ 0.86% : mousetrap
+ 0.48% : orange
+ 0.28% : spaghetti squash
+ 0.26% : window screen
+ 0.22% : strainer
+ 0.15% : lampshade
+ 0.15% : king penguin
+ 0.13% : toucan
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q082.jpg
+83.30% : lemon
+ 0.89% : mousetrap
+ 0.44% : orange
+ 0.29% : spaghetti squash
+ 0.27% : window screen
+ 0.24% : strainer
+ 0.16% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.12% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q083.jpg
+83.22% : lemon
+ 0.89% : mousetrap
+ 0.47% : orange
+ 0.28% : spaghetti squash
+ 0.27% : window screen
+ 0.24% : strainer
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.12% : goldfinch
+ 0.12% : toucan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q084.jpg
+84.31% : lemon
+ 0.79% : mousetrap
+ 0.47% : orange
+ 0.26% : spaghetti squash
+ 0.24% : window screen
+ 0.23% : strainer
+ 0.14% : lampshade
+ 0.14% : king penguin
+ 0.11% : goldfinch
+ 0.11% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q085.jpg
+84.58% : lemon
+ 0.78% : mousetrap
+ 0.44% : orange
+ 0.26% : spaghetti squash
+ 0.24% : window screen
+ 0.22% : strainer
+ 0.14% : lampshade
+ 0.14% : king penguin
+ 0.11% : goldfinch
+ 0.11% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q086.jpg
+84.68% : lemon
+ 0.81% : mousetrap
+ 0.43% : orange
+ 0.26% : spaghetti squash
+ 0.26% : window screen
+ 0.23% : strainer
+ 0.14% : lampshade
+ 0.13% : king penguin
+ 0.11% : goldfinch
+ 0.11% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q087.jpg
+83.80% : lemon
+ 0.87% : mousetrap
+ 0.47% : orange
+ 0.27% : spaghetti squash
+ 0.27% : window screen
+ 0.26% : strainer
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.12% : fire screen
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q088.jpg
+83.42% : lemon
+ 0.93% : mousetrap
+ 0.45% : orange
+ 0.29% : spaghetti squash
+ 0.28% : strainer
+ 0.28% : window screen
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.13% : fire screen
+ 0.12% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q089.jpg
+83.30% : lemon
+ 0.94% : mousetrap
+ 0.46% : orange
+ 0.29% : spaghetti squash
+ 0.28% : strainer
+ 0.27% : window screen
+ 0.14% : lampshade
+ 0.14% : king penguin
+ 0.13% : fire screen
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q090.jpg
+82.33% : lemon
+ 0.93% : mousetrap
+ 0.50% : orange
+ 0.30% : spaghetti squash
+ 0.27% : strainer
+ 0.26% : window screen
+ 0.16% : king penguin
+ 0.15% : lampshade
+ 0.13% : fire screen
+ 0.13% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q091.jpg
+82.63% : lemon
+ 0.98% : mousetrap
+ 0.46% : orange
+ 0.30% : spaghetti squash
+ 0.26% : strainer
+ 0.26% : window screen
+ 0.15% : king penguin
+ 0.15% : lampshade
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q092.jpg
+82.59% : lemon
+ 1.00% : mousetrap
+ 0.45% : orange
+ 0.30% : spaghetti squash
+ 0.27% : strainer
+ 0.26% : window screen
+ 0.16% : king penguin
+ 0.15% : lampshade
+ 0.13% : goldfinch
+ 0.13% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q093.jpg
+83.55% : lemon
+ 1.00% : mousetrap
+ 0.42% : orange
+ 0.30% : spaghetti squash
+ 0.26% : strainer
+ 0.25% : window screen
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q094.jpg
+84.13% : lemon
+ 0.94% : mousetrap
+ 0.42% : orange
+ 0.29% : spaghetti squash
+ 0.25% : strainer
+ 0.25% : window screen
+ 0.15% : lampshade
+ 0.13% : king penguin
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q095.jpg
+83.23% : lemon
+ 1.03% : mousetrap
+ 0.44% : orange
+ 0.31% : spaghetti squash
+ 0.27% : strainer
+ 0.26% : window screen
+ 0.16% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.13% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q096.jpg
+83.45% : lemon
+ 1.03% : mousetrap
+ 0.42% : orange
+ 0.31% : spaghetti squash
+ 0.26% : strainer
+ 0.26% : window screen
+ 0.16% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.12% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q097.jpg
+83.82% : lemon
+ 1.03% : mousetrap
+ 0.40% : orange
+ 0.31% : spaghetti squash
+ 0.26% : strainer
+ 0.26% : window screen
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q098.jpg
+83.37% : lemon
+ 1.06% : mousetrap
+ 0.43% : orange
+ 0.31% : spaghetti squash
+ 0.27% : strainer
+ 0.27% : window screen
+ 0.16% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.13% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q099.jpg
+84.12% : lemon
+ 1.05% : mousetrap
+ 0.41% : orange
+ 0.29% : spaghetti squash
+ 0.26% : strainer
+ 0.25% : window screen
+ 0.14% : lampshade
+ 0.13% : king penguin
+ 0.13% : goldfinch
+ 0.12% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon18Q100.jpg
+83.11% : lemon
+ 1.14% : mousetrap
+ 0.43% : orange
+ 0.31% : spaghetti squash
+ 0.28% : strainer
+ 0.27% : window screen
+ 0.15% : lampshade
+ 0.14% : king penguin
+ 0.13% : goldfinch
+ 0.13% : fire screen

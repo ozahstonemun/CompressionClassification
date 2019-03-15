@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q001.jpg
+59.31% : lemon
+16.41% : tennis ball
+16.10% : orange
+ 1.51% : spaghetti squash
+ 0.88% : ping-pong ball
+ 0.73% : croquet ball
+ 0.12% : butternut squash
+ 0.11% : acorn squash
+ 0.11% : golf ball
+ 0.09% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q002.jpg
+59.31% : lemon
+16.41% : tennis ball
+16.10% : orange
+ 1.51% : spaghetti squash
+ 0.88% : ping-pong ball
+ 0.73% : croquet ball
+ 0.12% : butternut squash
+ 0.11% : acorn squash
+ 0.11% : golf ball
+ 0.09% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q003.jpg
+58.39% : lemon
+17.94% : tennis ball
+15.55% : orange
+ 1.39% : spaghetti squash
+ 0.81% : ping-pong ball
+ 0.67% : croquet ball
+ 0.11% : golf ball
+ 0.11% : butternut squash
+ 0.11% : acorn squash
+ 0.09% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q004.jpg
+67.94% : lemon
+17.81% : orange
+ 3.98% : spaghetti squash
+ 1.44% : croquet ball
+ 1.09% : butternut squash
+ 0.47% : acorn squash
+ 0.27% : ping-pong ball
+ 0.20% : stove
+ 0.19% : bakery
+ 0.19% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q005.jpg
+93.13% : lemon
+ 2.90% : orange
+ 1.74% : spaghetti squash
+ 0.24% : croquet ball
+ 0.11% : tennis ball
+ 0.07% : ping-pong ball
+ 0.05% : butternut squash
+ 0.03% : acorn squash
+ 0.03% : dough
+ 0.02% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q006.jpg
+61.70% : lemon
+24.29% : orange
+ 3.21% : butternut squash
+ 1.39% : spaghetti squash
+ 0.23% : croquet ball
+ 0.22% : stove
+ 0.21% : acorn squash
+ 0.21% : bell pepper
+ 0.18% : ping-pong ball
+ 0.14% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q007.jpg
+79.27% : lemon
+11.59% : orange
+ 0.60% : spaghetti squash
+ 0.26% : butternut squash
+ 0.15% : croquet ball
+ 0.14% : stove
+ 0.11% : tennis ball
+ 0.07% : carpenter's kit
+ 0.06% : dough
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q008.jpg
+79.26% : lemon
+ 6.65% : orange
+ 1.47% : spaghetti squash
+ 0.79% : butternut squash
+ 0.21% : croquet ball
+ 0.18% : acorn squash
+ 0.17% : stove
+ 0.11% : frying pan
+ 0.09% : bell pepper
+ 0.09% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q009.jpg
+60.81% : lemon
+27.44% : orange
+ 0.45% : butternut squash
+ 0.38% : spaghetti squash
+ 0.10% : croquet ball
+ 0.10% : waffle iron
+ 0.08% : stove
+ 0.08% : frying pan
+ 0.08% : pineapple
+ 0.07% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q010.jpg
+87.04% : lemon
+ 5.27% : orange
+ 0.28% : spaghetti squash
+ 0.23% : butternut squash
+ 0.11% : dough
+ 0.08% : croquet ball
+ 0.08% : stove
+ 0.07% : frying pan
+ 0.07% : spatula
+ 0.06% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q011.jpg
+79.02% : lemon
+ 9.72% : orange
+ 0.34% : spaghetti squash
+ 0.30% : butternut squash
+ 0.18% : dough
+ 0.12% : stove
+ 0.11% : frying pan
+ 0.10% : waffle iron
+ 0.10% : spatula
+ 0.09% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q012.jpg
+91.33% : lemon
+ 2.27% : orange
+ 0.35% : spaghetti squash
+ 0.11% : dough
+ 0.11% : butternut squash
+ 0.08% : waffle iron
+ 0.08% : croquet ball
+ 0.06% : stove
+ 0.06% : frying pan
+ 0.05% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q013.jpg
+90.28% : lemon
+ 2.96% : orange
+ 0.16% : spaghetti squash
+ 0.14% : dough
+ 0.09% : stove
+ 0.08% : tray
+ 0.07% : frying pan
+ 0.07% : butternut squash
+ 0.06% : spatula
+ 0.06% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q014.jpg
+94.45% : lemon
+ 1.40% : orange
+ 0.09% : spaghetti squash
+ 0.08% : dough
+ 0.04% : croquet ball
+ 0.04% : waffle iron
+ 0.04% : frying pan
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q015.jpg
+94.39% : lemon
+ 1.43% : orange
+ 0.13% : spaghetti squash
+ 0.12% : dough
+ 0.04% : butternut squash
+ 0.04% : frying pan
+ 0.04% : waffle iron
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q016.jpg
+94.64% : lemon
+ 1.44% : orange
+ 0.08% : dough
+ 0.08% : spaghetti squash
+ 0.04% : waffle iron
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : carpenter's kit
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q017.jpg
+96.10% : lemon
+ 0.78% : orange
+ 0.09% : dough
+ 0.06% : spaghetti squash
+ 0.03% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : tray
+ 0.02% : waffle iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q018.jpg
+94.64% : lemon
+ 1.25% : orange
+ 0.08% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : magnetic compass
+ 0.03% : waffle iron
+ 0.03% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q019.jpg
+94.58% : lemon
+ 1.51% : orange
+ 0.08% : dough
+ 0.04% : spaghetti squash
+ 0.03% : waffle iron
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : magnetic compass
+ 0.03% : tray
+ 0.03% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q020.jpg
+95.45% : lemon
+ 0.84% : orange
+ 0.07% : spaghetti squash
+ 0.07% : dough
+ 0.03% : tray
+ 0.03% : waffle iron
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q021.jpg
+96.07% : lemon
+ 0.83% : orange
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.02% : croquet ball
+ 0.02% : spatula
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : whistle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q022.jpg
+96.86% : lemon
+ 0.51% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : waffle iron
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q023.jpg
+96.67% : lemon
+ 0.54% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.02% : croquet ball
+ 0.02% : tray
+ 0.02% : frying pan
+ 0.02% : spatula
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q024.jpg
+95.72% : lemon
+ 0.69% : orange
+ 0.07% : dough
+ 0.05% : spaghetti squash
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q025.jpg
+95.57% : lemon
+ 0.80% : orange
+ 0.08% : dough
+ 0.07% : spaghetti squash
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : frying pan
+ 0.03% : stove
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q026.jpg
+96.89% : lemon
+ 0.48% : orange
+ 0.06% : dough
+ 0.04% : spaghetti squash
+ 0.03% : stove
+ 0.02% : spatula
+ 0.02% : tray
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q027.jpg
+96.14% : lemon
+ 0.69% : orange
+ 0.06% : dough
+ 0.05% : spaghetti squash
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : waffle iron
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q028.jpg
+96.49% : lemon
+ 0.49% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : tray
+ 0.02% : carpenter's kit
+ 0.02% : waffle iron
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q029.jpg
+96.38% : lemon
+ 0.59% : orange
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.02% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : tray
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q030.jpg
+95.23% : lemon
+ 0.86% : orange
+ 0.06% : spaghetti squash
+ 0.06% : dough
+ 0.04% : tray
+ 0.03% : croquet ball
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : carpenter's kit
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q031.jpg
+95.60% : lemon
+ 0.84% : orange
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.03% : tray
+ 0.02% : spatula
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q032.jpg
+95.38% : lemon
+ 0.69% : orange
+ 0.07% : spaghetti squash
+ 0.06% : dough
+ 0.04% : stove
+ 0.04% : tray
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : frying pan
+ 0.03% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q033.jpg
+95.17% : lemon
+ 0.89% : orange
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : waffle iron
+ 0.03% : carpenter's kit
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q034.jpg
+94.25% : lemon
+ 1.33% : orange
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.04% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : magnetic compass
+ 0.03% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q035.jpg
+95.84% : lemon
+ 0.84% : orange
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : tray
+ 0.02% : stove
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q036.jpg
+96.26% : lemon
+ 0.54% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : tray
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q037.jpg
+96.35% : lemon
+ 0.50% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q038.jpg
+95.43% : lemon
+ 0.76% : orange
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.02% : frying pan
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q039.jpg
+95.37% : lemon
+ 0.92% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : croquet ball
+ 0.02% : magnetic compass
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q040.jpg
+95.94% : lemon
+ 0.74% : orange
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q041.jpg
+96.10% : lemon
+ 0.73% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.02% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q042.jpg
+96.10% : lemon
+ 0.66% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q043.jpg
+96.06% : lemon
+ 0.67% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q044.jpg
+95.74% : lemon
+ 0.67% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q045.jpg
+95.75% : lemon
+ 0.67% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q046.jpg
+95.36% : lemon
+ 0.79% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q047.jpg
+95.36% : lemon
+ 0.78% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q048.jpg
+95.52% : lemon
+ 0.76% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q049.jpg
+95.07% : lemon
+ 0.92% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q050.jpg
+95.09% : lemon
+ 0.92% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q051.jpg
+95.08% : lemon
+ 0.92% : orange
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q052.jpg
+95.25% : lemon
+ 0.90% : orange
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q053.jpg
+95.36% : lemon
+ 0.88% : orange
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q054.jpg
+95.39% : lemon
+ 0.88% : orange
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q055.jpg
+95.99% : lemon
+ 0.67% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q056.jpg
+96.12% : lemon
+ 0.62% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.02% : stove
+ 0.02% : spatula
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q057.jpg
+95.90% : lemon
+ 0.70% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q058.jpg
+95.65% : lemon
+ 0.71% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : stove
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.03% : tray
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q059.jpg
+95.67% : lemon
+ 0.70% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.03% : tray
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q060.jpg
+95.61% : lemon
+ 0.71% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.03% : tray
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q061.jpg
+96.19% : lemon
+ 0.61% : orange
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.02% : spatula
+ 0.02% : stove
+ 0.02% : tray
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q062.jpg
+96.13% : lemon
+ 0.59% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.02% : tray
+ 0.02% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q063.jpg
+96.13% : lemon
+ 0.59% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.02% : tray
+ 0.02% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q064.jpg
+96.10% : lemon
+ 0.62% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.02% : frying pan
+ 0.02% : stove
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q065.jpg
+95.92% : lemon
+ 0.65% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q066.jpg
+95.87% : lemon
+ 0.70% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q067.jpg
+95.79% : lemon
+ 0.74% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q068.jpg
+96.07% : lemon
+ 0.66% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : tray
+ 0.02% : stove
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q069.jpg
+96.09% : lemon
+ 0.64% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.02% : tray
+ 0.02% : frying pan
+ 0.02% : stove
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q070.jpg
+95.79% : lemon
+ 0.71% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q071.jpg
+95.27% : lemon
+ 0.77% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q072.jpg
+95.30% : lemon
+ 0.76% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q073.jpg
+95.00% : lemon
+ 0.83% : orange
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.04% : stove
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q074.jpg
+95.14% : lemon
+ 0.84% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q075.jpg
+95.15% : lemon
+ 0.83% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q076.jpg
+95.14% : lemon
+ 0.88% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q077.jpg
+95.08% : lemon
+ 0.97% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q078.jpg
+95.39% : lemon
+ 0.79% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q079.jpg
+95.34% : lemon
+ 0.81% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q080.jpg
+95.53% : lemon
+ 0.74% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q081.jpg
+95.32% : lemon
+ 0.87% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.02% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q082.jpg
+95.40% : lemon
+ 0.83% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.02% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q083.jpg
+95.15% : lemon
+ 0.94% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q084.jpg
+94.98% : lemon
+ 0.93% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q085.jpg
+95.08% : lemon
+ 0.94% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q086.jpg
+95.09% : lemon
+ 0.98% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.03% : frying pan
+ 0.02% : carpenter's kit
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q087.jpg
+94.98% : lemon
+ 1.09% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q088.jpg
+95.04% : lemon
+ 1.07% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q089.jpg
+95.19% : lemon
+ 1.05% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q090.jpg
+95.47% : lemon
+ 0.92% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : tray
+ 0.03% : spatula
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q091.jpg
+95.57% : lemon
+ 0.83% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : croquet ball
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q092.jpg
+95.70% : lemon
+ 0.79% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.02% : stove
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q093.jpg
+95.07% : lemon
+ 1.00% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q094.jpg
+95.28% : lemon
+ 0.96% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q095.jpg
+95.04% : lemon
+ 1.04% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q096.jpg
+95.25% : lemon
+ 0.99% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q097.jpg
+95.23% : lemon
+ 0.99% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q098.jpg
+95.26% : lemon
+ 1.02% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q099.jpg
+95.08% : lemon
+ 1.00% : orange
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : tray
+ 0.03% : stove
+ 0.03% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon16Q100.jpg
+95.20% : lemon
+ 1.00% : orange
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : stove
+ 0.03% : tray
+ 0.02% : frying pan
+ 0.02% : magnetic compass
+ 0.02% : carpenter's kit

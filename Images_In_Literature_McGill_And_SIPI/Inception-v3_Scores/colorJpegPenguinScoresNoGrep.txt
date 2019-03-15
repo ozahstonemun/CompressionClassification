@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ001.jpg
+ 6.96% : prairie chicken
+ 5.68% : king penguin
+ 1.69% : book jacket
+ 1.39% : toucan
+ 1.29% : rock beauty
+ 1.06% : comic book
+ 1.06% : gyromitra
+ 1.03% : rifle
+ 0.83% : backpack
+ 0.75% : earthstar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ002.jpg
+ 6.93% : prairie chicken
+ 6.01% : king penguin
+ 1.68% : book jacket
+ 1.44% : toucan
+ 1.33% : rock beauty
+ 1.06% : comic book
+ 1.03% : gyromitra
+ 1.00% : rifle
+ 0.83% : backpack
+ 0.71% : earthstar
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ003.jpg
+ 5.56% : king penguin
+ 3.87% : prairie chicken
+ 2.54% : book jacket
+ 2.52% : rifle
+ 2.04% : earthstar
+ 1.44% : comic book
+ 1.40% : gyromitra
+ 1.08% : lemon
+ 0.79% : toucan
+ 0.71% : three-toed sloth
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ004.jpg
+88.03% : king penguin
+ 1.63% : prairie chicken
+ 0.46% : spaghetti squash
+ 0.19% : lemon
+ 0.16% : backpack
+ 0.09% : gyromitra
+ 0.08% : Arabian camel
+ 0.08% : swimming trunks
+ 0.08% : rifle
+ 0.07% : rock beauty
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ005.jpg
+97.31% : king penguin
+ 0.57% : spaghetti squash
+ 0.09% : backpack
+ 0.07% : prairie chicken
+ 0.05% : lemon
+ 0.04% : butternut squash
+ 0.02% : mosque
+ 0.02% : banana
+ 0.02% : jack-o'-lantern
+ 0.02% : joystick
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ006.jpg
+97.63% : king penguin
+ 0.12% : backpack
+ 0.11% : prairie chicken
+ 0.05% : spaghetti squash
+ 0.04% : swimming trunks
+ 0.02% : brassiere
+ 0.02% : potter's wheel
+ 0.02% : stole
+ 0.02% : motor scooter
+ 0.02% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ007.jpg
+88.38% : king penguin
+ 4.80% : spaghetti squash
+ 0.59% : butternut squash
+ 0.23% : banana
+ 0.19% : mosque
+ 0.19% : prairie chicken
+ 0.13% : backpack
+ 0.08% : lemon
+ 0.07% : stupa
+ 0.06% : eggnog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ008.jpg
+96.48% : king penguin
+ 2.10% : spaghetti squash
+ 0.14% : butternut squash
+ 0.04% : backpack
+ 0.04% : eggnog
+ 0.03% : mosque
+ 0.03% : banana
+ 0.03% : stupa
+ 0.02% : lemon
+ 0.02% : prairie chicken
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ009.jpg
+92.94% : king penguin
+ 4.04% : spaghetti squash
+ 0.16% : butternut squash
+ 0.05% : backpack
+ 0.05% : eggnog
+ 0.05% : mosque
+ 0.04% : banana
+ 0.04% : prairie chicken
+ 0.04% : lemon
+ 0.04% : potter's wheel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ010.jpg
+99.57% : king penguin
+ 0.05% : spaghetti squash
+ 0.03% : backpack
+ 0.01% : eggnog
+ 0.00% : prairie chicken
+ 0.00% : butternut squash
+ 0.00% : mosque
+ 0.00% : banana
+ 0.00% : stupa
+ 0.00% : toucan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ011.jpg
+99.80% : king penguin
+ 0.06% : spaghetti squash
+ 0.01% : backpack
+ 0.00% : prairie chicken
+ 0.00% : eggnog
+ 0.00% : butternut squash
+ 0.00% : stupa
+ 0.00% : mosque
+ 0.00% : lemon
+ 0.00% : pay-phone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ012.jpg
+99.69% : king penguin
+ 0.07% : spaghetti squash
+ 0.02% : backpack
+ 0.00% : prairie chicken
+ 0.00% : butternut squash
+ 0.00% : eggnog
+ 0.00% : lemon
+ 0.00% : mosque
+ 0.00% : banana
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ013.jpg
+99.74% : king penguin
+ 0.06% : spaghetti squash
+ 0.02% : backpack
+ 0.00% : butternut squash
+ 0.00% : eggnog
+ 0.00% : prairie chicken
+ 0.00% : stupa
+ 0.00% : mosque
+ 0.00% : banana
+ 0.00% : lemon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ014.jpg
+99.30% : king penguin
+ 0.15% : spaghetti squash
+ 0.04% : backpack
+ 0.01% : butternut squash
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.01% : stupa
+ 0.00% : mosque
+ 0.00% : banana
+ 0.00% : dining table
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ015.jpg
+99.67% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : backpack
+ 0.00% : prairie chicken
+ 0.00% : eggnog
+ 0.00% : butternut squash
+ 0.00% : stupa
+ 0.00% : sandal
+ 0.00% : mosque
+ 0.00% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ016.jpg
+99.69% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.00% : eggnog
+ 0.00% : prairie chicken
+ 0.00% : butternut squash
+ 0.00% : mosque
+ 0.00% : stupa
+ 0.00% : sandal
+ 0.00% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ017.jpg
+99.61% : king penguin
+ 0.02% : backpack
+ 0.02% : spaghetti squash
+ 0.01% : eggnog
+ 0.00% : prairie chicken
+ 0.00% : stupa
+ 0.00% : bee eater
+ 0.00% : sandal
+ 0.00% : mosque
+ 0.00% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ018.jpg
+99.62% : king penguin
+ 0.02% : spaghetti squash
+ 0.02% : backpack
+ 0.01% : prairie chicken
+ 0.00% : eggnog
+ 0.00% : dining table
+ 0.00% : bee eater
+ 0.00% : stupa
+ 0.00% : mosque
+ 0.00% : albatross
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ019.jpg
+99.92% : king penguin
+ 0.01% : spaghetti squash
+ 0.00% : backpack
+ 0.00% : eggnog
+ 0.00% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : mosque
+ 0.00% : stupa
+ 0.00% : dining table
+ 0.00% : toucan
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ020.jpg
+99.68% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : backpack
+ 0.00% : prairie chicken
+ 0.00% : eggnog
+ 0.00% : bee eater
+ 0.00% : mosque
+ 0.00% : toucan
+ 0.00% : stupa
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ021.jpg
+99.80% : king penguin
+ 0.01% : spaghetti squash
+ 0.01% : backpack
+ 0.00% : toucan
+ 0.00% : prairie chicken
+ 0.00% : eggnog
+ 0.00% : bee eater
+ 0.00% : mosque
+ 0.00% : dining table
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ022.jpg
+99.54% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : toucan
+ 0.00% : bee eater
+ 0.00% : stupa
+ 0.00% : mosque
+ 0.00% : dining table
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ023.jpg
+99.29% : king penguin
+ 0.02% : spaghetti squash
+ 0.02% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : toucan
+ 0.00% : albatross
+ 0.00% : bee eater
+ 0.00% : stupa
+ 0.00% : mosque
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ024.jpg
+99.64% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : backpack
+ 0.00% : eggnog
+ 0.00% : toucan
+ 0.00% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : stupa
+ 0.00% : lemon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ025.jpg
+99.46% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.01% : toucan
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : stupa
+ 0.00% : mosque
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ026.jpg
+99.40% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : backpack
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : albatross
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : mosque
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ027.jpg
+99.33% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ028.jpg
+99.03% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : backpack
+ 0.01% : toucan
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : lemon
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ029.jpg
+99.38% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : albatross
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ030.jpg
+99.33% : king penguin
+ 0.04% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ031.jpg
+99.14% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : backpack
+ 0.01% : toucan
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : bee eater
+ 0.00% : lemon
+ 0.00% : packet
+ 0.00% : albatross
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ032.jpg
+99.11% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ033.jpg
+99.37% : king penguin
+ 0.04% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.00% : lemon
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ034.jpg
+99.33% : king penguin
+ 0.04% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : toucan
+ 0.00% : lemon
+ 0.00% : butternut squash
+ 0.00% : bee eater
+ 0.00% : albatross
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ035.jpg
+99.25% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : bee eater
+ 0.00% : lemon
+ 0.00% : albatross
+ 0.00% : mosque
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ036.jpg
+99.35% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : albatross
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ037.jpg
+99.39% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : albatross
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ038.jpg
+99.50% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : stupa
+ 0.00% : mosque
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ039.jpg
+99.57% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : mosque
+ 0.00% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ040.jpg
+99.56% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.00% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : mosque
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ041.jpg
+99.32% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ042.jpg
+99.28% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ043.jpg
+99.34% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : toucan
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stupa
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ044.jpg
+99.39% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ045.jpg
+99.44% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ046.jpg
+99.46% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+ 0.00% : lemon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ047.jpg
+99.46% : king penguin
+ 0.03% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : prairie chicken
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+ 0.00% : lemon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ048.jpg
+99.53% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ049.jpg
+99.27% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ050.jpg
+99.27% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ051.jpg
+99.26% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ052.jpg
+99.22% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ053.jpg
+99.17% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ054.jpg
+99.25% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.00% : lemon
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ055.jpg
+99.46% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : albatross
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ056.jpg
+99.45% : king penguin
+ 0.02% : spaghetti squash
+ 0.01% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ057.jpg
+99.41% : king penguin
+ 0.02% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : lemon
+ 0.00% : stole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ058.jpg
+99.26% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : lemon
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ059.jpg
+99.22% : king penguin
+ 0.02% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.00% : lemon
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ060.jpg
+99.24% : king penguin
+ 0.02% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.00% : lemon
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ061.jpg
+99.15% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : lemon
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ062.jpg
+99.06% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ063.jpg
+99.11% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ064.jpg
+99.00% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ065.jpg
+98.98% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ066.jpg
+98.96% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.02% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ067.jpg
+99.06% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ068.jpg
+99.21% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.00% : lemon
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ069.jpg
+99.24% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.00% : lemon
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ070.jpg
+99.23% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.00% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ071.jpg
+99.15% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ072.jpg
+99.11% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.01% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ073.jpg
+99.03% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ074.jpg
+99.09% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ075.jpg
+99.05% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : lemon
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ076.jpg
+98.96% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ077.jpg
+98.92% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ078.jpg
+99.02% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.01% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ079.jpg
+99.05% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : packet
+ 0.00% : bee eater
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ080.jpg
+98.97% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : toilet tissue
+ 0.01% : bee eater
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ081.jpg
+98.94% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : toilet tissue
+ 0.01% : bee eater
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ082.jpg
+98.99% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ083.jpg
+98.97% : king penguin
+ 0.03% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : albatross
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : packet
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ084.jpg
+98.87% : king penguin
+ 0.04% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : packet
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ085.jpg
+98.86% : king penguin
+ 0.04% : spaghetti squash
+ 0.03% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : packet
+ 0.01% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ086.jpg
+99.00% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : packet
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ087.jpg
+98.97% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : packet
+ 0.00% : toilet tissue
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ088.jpg
+99.06% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ089.jpg
+99.19% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.00% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ090.jpg
+99.12% : king penguin
+ 0.04% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ091.jpg
+99.20% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ092.jpg
+99.27% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.00% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ093.jpg
+99.15% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ094.jpg
+99.18% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : albatross
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ095.jpg
+99.19% : king penguin
+ 0.03% : spaghetti squash
+ 0.02% : toucan
+ 0.01% : prairie chicken
+ 0.01% : backpack
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ096.jpg
+99.22% : king penguin
+ 0.03% : toucan
+ 0.02% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.00% : albatross
+ 0.00% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ097.jpg
+99.06% : king penguin
+ 0.03% : toucan
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : lemon
+ 0.01% : albatross
+ 0.01% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ098.jpg
+99.14% : king penguin
+ 0.03% : toucan
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.00% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ099.jpg
+99.01% : king penguin
+ 0.03% : toucan
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.01% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPenguinQ100.jpg
+99.02% : king penguin
+ 0.03% : toucan
+ 0.03% : spaghetti squash
+ 0.01% : backpack
+ 0.01% : prairie chicken
+ 0.01% : eggnog
+ 0.01% : albatross
+ 0.01% : lemon
+ 0.01% : bee eater
+ 0.01% : packet

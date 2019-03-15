@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q001.jpg
+65.06% : zucchini
+17.67% : cucumber
+ 4.10% : ear
+ 2.17% : spaghetti squash
+ 0.99% : French loaf
+ 0.74% : hotdog
+ 0.72% : banana
+ 0.58% : corn
+ 0.57% : grocery store
+ 0.34% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q002.jpg
+65.83% : zucchini
+17.14% : cucumber
+ 4.04% : ear
+ 2.05% : spaghetti squash
+ 0.98% : French loaf
+ 0.75% : hotdog
+ 0.69% : banana
+ 0.57% : corn
+ 0.56% : grocery store
+ 0.34% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q003.jpg
+68.09% : zucchini
+14.63% : cucumber
+ 3.96% : ear
+ 2.43% : spaghetti squash
+ 1.02% : French loaf
+ 1.01% : banana
+ 0.90% : hotdog
+ 0.49% : corn
+ 0.43% : grocery store
+ 0.35% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q004.jpg
+46.90% : zucchini
+19.64% : cucumber
+14.28% : ear
+ 3.14% : corn
+ 1.52% : French loaf
+ 1.15% : spaghetti squash
+ 1.15% : hotdog
+ 0.35% : grocery store
+ 0.27% : butternut squash
+ 0.15% : American lobster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q005.jpg
+45.81% : zucchini
+45.76% : cucumber
+ 2.01% : ear
+ 0.90% : spaghetti squash
+ 0.76% : French loaf
+ 0.30% : corn
+ 0.26% : grocery store
+ 0.12% : tench
+ 0.09% : hotdog
+ 0.07% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q006.jpg
+46.17% : cucumber
+40.81% : zucchini
+ 3.66% : ear
+ 2.32% : spaghetti squash
+ 1.50% : French loaf
+ 0.56% : hotdog
+ 0.47% : corn
+ 0.15% : grocery store
+ 0.15% : jackfruit
+ 0.11% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q007.jpg
+81.44% : cucumber
+12.29% : zucchini
+ 2.48% : ear
+ 0.73% : spaghetti squash
+ 0.60% : French loaf
+ 0.43% : corn
+ 0.08% : grocery store
+ 0.08% : hotdog
+ 0.06% : jackfruit
+ 0.04% : tench
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q008.jpg
+85.90% : cucumber
+ 9.97% : zucchini
+ 0.73% : French loaf
+ 0.72% : ear
+ 0.63% : spaghetti squash
+ 0.15% : grocery store
+ 0.10% : corn
+ 0.06% : jackfruit
+ 0.04% : tench
+ 0.04% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q009.jpg
+84.79% : cucumber
+11.10% : zucchini
+ 0.83% : spaghetti squash
+ 0.58% : French loaf
+ 0.55% : ear
+ 0.11% : hotdog
+ 0.09% : corn
+ 0.08% : grocery store
+ 0.05% : jackfruit
+ 0.05% : tench
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q010.jpg
+95.84% : cucumber
+ 2.47% : zucchini
+ 0.29% : spaghetti squash
+ 0.26% : ear
+ 0.13% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.02% : head cabbage
+ 0.02% : jackfruit
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q011.jpg
+92.03% : cucumber
+ 4.82% : zucchini
+ 0.53% : French loaf
+ 0.45% : ear
+ 0.37% : spaghetti squash
+ 0.08% : corn
+ 0.07% : grocery store
+ 0.05% : hotdog
+ 0.03% : jackfruit
+ 0.03% : tench
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q012.jpg
+93.17% : cucumber
+ 4.62% : zucchini
+ 0.27% : spaghetti squash
+ 0.24% : ear
+ 0.23% : French loaf
+ 0.06% : grocery store
+ 0.05% : hotdog
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q013.jpg
+91.98% : cucumber
+ 5.73% : zucchini
+ 0.53% : ear
+ 0.28% : spaghetti squash
+ 0.22% : French loaf
+ 0.08% : corn
+ 0.06% : grocery store
+ 0.03% : hotdog
+ 0.03% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q014.jpg
+95.43% : cucumber
+ 2.89% : zucchini
+ 0.24% : spaghetti squash
+ 0.23% : ear
+ 0.19% : French loaf
+ 0.04% : grocery store
+ 0.03% : corn
+ 0.02% : modem
+ 0.02% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q015.jpg
+94.72% : cucumber
+ 3.50% : zucchini
+ 0.28% : French loaf
+ 0.22% : spaghetti squash
+ 0.21% : ear
+ 0.05% : grocery store
+ 0.04% : hotdog
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q016.jpg
+90.49% : cucumber
+ 7.38% : zucchini
+ 0.33% : spaghetti squash
+ 0.33% : ear
+ 0.18% : French loaf
+ 0.08% : grocery store
+ 0.04% : hotdog
+ 0.04% : corn
+ 0.03% : head cabbage
+ 0.03% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q017.jpg
+93.44% : cucumber
+ 4.85% : zucchini
+ 0.28% : spaghetti squash
+ 0.19% : French loaf
+ 0.19% : ear
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.03% : hotdog
+ 0.03% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q018.jpg
+91.70% : cucumber
+ 5.42% : zucchini
+ 0.57% : ear
+ 0.35% : spaghetti squash
+ 0.27% : French loaf
+ 0.09% : corn
+ 0.07% : grocery store
+ 0.05% : jackfruit
+ 0.05% : hotdog
+ 0.03% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q019.jpg
+94.31% : cucumber
+ 3.80% : zucchini
+ 0.31% : ear
+ 0.20% : spaghetti squash
+ 0.18% : French loaf
+ 0.06% : corn
+ 0.06% : grocery store
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q020.jpg
+92.42% : cucumber
+ 4.66% : zucchini
+ 0.39% : spaghetti squash
+ 0.34% : ear
+ 0.23% : French loaf
+ 0.08% : grocery store
+ 0.08% : corn
+ 0.05% : hotdog
+ 0.05% : jackfruit
+ 0.03% : tench
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q021.jpg
+95.11% : cucumber
+ 2.73% : zucchini
+ 0.35% : spaghetti squash
+ 0.25% : ear
+ 0.24% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q022.jpg
+94.68% : cucumber
+ 3.14% : zucchini
+ 0.32% : spaghetti squash
+ 0.28% : ear
+ 0.26% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.04% : hotdog
+ 0.04% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q023.jpg
+95.46% : cucumber
+ 2.54% : zucchini
+ 0.29% : spaghetti squash
+ 0.24% : French loaf
+ 0.19% : ear
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q024.jpg
+94.88% : cucumber
+ 3.02% : zucchini
+ 0.29% : spaghetti squash
+ 0.28% : ear
+ 0.21% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q025.jpg
+94.23% : cucumber
+ 3.42% : zucchini
+ 0.25% : spaghetti squash
+ 0.23% : ear
+ 0.20% : French loaf
+ 0.09% : grocery store
+ 0.05% : hotdog
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q026.jpg
+96.44% : cucumber
+ 1.85% : zucchini
+ 0.20% : spaghetti squash
+ 0.16% : ear
+ 0.15% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q027.jpg
+92.09% : cucumber
+ 5.10% : zucchini
+ 0.49% : spaghetti squash
+ 0.39% : ear
+ 0.24% : French loaf
+ 0.10% : grocery store
+ 0.07% : corn
+ 0.06% : jackfruit
+ 0.06% : hotdog
+ 0.03% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q028.jpg
+93.16% : cucumber
+ 4.62% : zucchini
+ 0.30% : ear
+ 0.28% : spaghetti squash
+ 0.22% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.05% : hotdog
+ 0.04% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q029.jpg
+93.78% : cucumber
+ 3.96% : zucchini
+ 0.32% : spaghetti squash
+ 0.28% : French loaf
+ 0.27% : ear
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.05% : hotdog
+ 0.04% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q030.jpg
+93.26% : cucumber
+ 4.39% : zucchini
+ 0.37% : spaghetti squash
+ 0.29% : ear
+ 0.25% : French loaf
+ 0.08% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q031.jpg
+94.05% : cucumber
+ 3.96% : zucchini
+ 0.31% : spaghetti squash
+ 0.24% : ear
+ 0.21% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q032.jpg
+94.16% : cucumber
+ 3.99% : zucchini
+ 0.26% : spaghetti squash
+ 0.22% : ear
+ 0.19% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q033.jpg
+92.37% : cucumber
+ 5.37% : zucchini
+ 0.37% : spaghetti squash
+ 0.31% : ear
+ 0.18% : French loaf
+ 0.08% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q034.jpg
+93.40% : cucumber
+ 4.64% : zucchini
+ 0.32% : spaghetti squash
+ 0.29% : ear
+ 0.20% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q035.jpg
+94.34% : cucumber
+ 3.98% : zucchini
+ 0.25% : spaghetti squash
+ 0.24% : ear
+ 0.22% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : butcher shop
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q036.jpg
+94.19% : cucumber
+ 4.11% : zucchini
+ 0.29% : spaghetti squash
+ 0.24% : ear
+ 0.18% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q037.jpg
+94.76% : cucumber
+ 3.68% : zucchini
+ 0.29% : spaghetti squash
+ 0.20% : ear
+ 0.17% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q038.jpg
+94.44% : cucumber
+ 3.64% : zucchini
+ 0.31% : spaghetti squash
+ 0.28% : ear
+ 0.20% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q039.jpg
+94.55% : cucumber
+ 3.68% : zucchini
+ 0.29% : spaghetti squash
+ 0.28% : ear
+ 0.21% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q040.jpg
+93.09% : cucumber
+ 4.88% : zucchini
+ 0.37% : spaghetti squash
+ 0.35% : ear
+ 0.22% : French loaf
+ 0.07% : grocery store
+ 0.06% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q041.jpg
+95.14% : cucumber
+ 3.19% : zucchini
+ 0.29% : spaghetti squash
+ 0.23% : ear
+ 0.18% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q042.jpg
+94.28% : cucumber
+ 3.60% : zucchini
+ 0.35% : spaghetti squash
+ 0.28% : French loaf
+ 0.27% : ear
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q043.jpg
+93.77% : cucumber
+ 4.01% : zucchini
+ 0.39% : spaghetti squash
+ 0.30% : French loaf
+ 0.29% : ear
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q044.jpg
+92.48% : cucumber
+ 5.21% : zucchini
+ 0.40% : spaghetti squash
+ 0.38% : ear
+ 0.24% : French loaf
+ 0.07% : corn
+ 0.06% : grocery store
+ 0.05% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q045.jpg
+93.34% : cucumber
+ 4.58% : zucchini
+ 0.37% : spaghetti squash
+ 0.32% : ear
+ 0.24% : French loaf
+ 0.06% : grocery store
+ 0.06% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q046.jpg
+94.33% : cucumber
+ 3.92% : zucchini
+ 0.28% : spaghetti squash
+ 0.24% : ear
+ 0.21% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q047.jpg
+93.79% : cucumber
+ 4.39% : zucchini
+ 0.30% : spaghetti squash
+ 0.25% : ear
+ 0.22% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q048.jpg
+94.89% : cucumber
+ 3.50% : zucchini
+ 0.25% : spaghetti squash
+ 0.21% : ear
+ 0.19% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q049.jpg
+94.78% : cucumber
+ 3.53% : zucchini
+ 0.26% : spaghetti squash
+ 0.23% : ear
+ 0.19% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q050.jpg
+94.91% : cucumber
+ 3.42% : zucchini
+ 0.26% : spaghetti squash
+ 0.23% : ear
+ 0.19% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q051.jpg
+94.82% : cucumber
+ 3.52% : zucchini
+ 0.26% : spaghetti squash
+ 0.23% : ear
+ 0.19% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q052.jpg
+93.42% : cucumber
+ 4.65% : zucchini
+ 0.36% : spaghetti squash
+ 0.25% : French loaf
+ 0.25% : ear
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.04% : hotdog
+ 0.04% : jackfruit
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q053.jpg
+92.82% : cucumber
+ 5.12% : zucchini
+ 0.39% : spaghetti squash
+ 0.28% : ear
+ 0.23% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.05% : jackfruit
+ 0.04% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q054.jpg
+92.70% : cucumber
+ 5.20% : zucchini
+ 0.39% : spaghetti squash
+ 0.29% : ear
+ 0.24% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.05% : jackfruit
+ 0.05% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q055.jpg
+94.11% : cucumber
+ 4.10% : zucchini
+ 0.29% : spaghetti squash
+ 0.26% : ear
+ 0.18% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q056.jpg
+94.00% : cucumber
+ 4.24% : zucchini
+ 0.28% : spaghetti squash
+ 0.25% : ear
+ 0.17% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q057.jpg
+94.12% : cucumber
+ 4.15% : zucchini
+ 0.29% : spaghetti squash
+ 0.24% : ear
+ 0.18% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q058.jpg
+93.22% : cucumber
+ 4.83% : zucchini
+ 0.34% : spaghetti squash
+ 0.29% : ear
+ 0.20% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q059.jpg
+92.89% : cucumber
+ 5.11% : zucchini
+ 0.37% : spaghetti squash
+ 0.32% : ear
+ 0.21% : French loaf
+ 0.07% : grocery store
+ 0.06% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q060.jpg
+92.73% : cucumber
+ 5.18% : zucchini
+ 0.35% : spaghetti squash
+ 0.32% : ear
+ 0.20% : French loaf
+ 0.08% : grocery store
+ 0.06% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q061.jpg
+93.26% : cucumber
+ 4.87% : zucchini
+ 0.32% : spaghetti squash
+ 0.28% : ear
+ 0.21% : French loaf
+ 0.07% : grocery store
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q062.jpg
+93.64% : cucumber
+ 4.56% : zucchini
+ 0.31% : spaghetti squash
+ 0.27% : ear
+ 0.19% : French loaf
+ 0.06% : grocery store
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q063.jpg
+94.20% : cucumber
+ 4.09% : zucchini
+ 0.30% : spaghetti squash
+ 0.23% : ear
+ 0.20% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q064.jpg
+94.30% : cucumber
+ 4.04% : zucchini
+ 0.29% : spaghetti squash
+ 0.21% : ear
+ 0.18% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q065.jpg
+94.15% : cucumber
+ 4.13% : zucchini
+ 0.33% : spaghetti squash
+ 0.22% : ear
+ 0.17% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q066.jpg
+94.41% : cucumber
+ 3.88% : zucchini
+ 0.32% : spaghetti squash
+ 0.22% : ear
+ 0.17% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q067.jpg
+94.45% : cucumber
+ 3.96% : zucchini
+ 0.30% : spaghetti squash
+ 0.21% : ear
+ 0.15% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q068.jpg
+95.23% : cucumber
+ 3.35% : zucchini
+ 0.26% : spaghetti squash
+ 0.17% : ear
+ 0.13% : French loaf
+ 0.06% : grocery store
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q069.jpg
+94.58% : cucumber
+ 3.79% : zucchini
+ 0.31% : spaghetti squash
+ 0.23% : ear
+ 0.15% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q070.jpg
+94.67% : cucumber
+ 3.69% : zucchini
+ 0.29% : spaghetti squash
+ 0.23% : ear
+ 0.14% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q071.jpg
+94.63% : cucumber
+ 3.67% : zucchini
+ 0.29% : spaghetti squash
+ 0.25% : ear
+ 0.15% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q072.jpg
+94.51% : cucumber
+ 3.83% : zucchini
+ 0.28% : spaghetti squash
+ 0.25% : ear
+ 0.14% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q073.jpg
+94.40% : cucumber
+ 3.90% : zucchini
+ 0.29% : spaghetti squash
+ 0.24% : ear
+ 0.16% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q074.jpg
+93.64% : cucumber
+ 4.35% : zucchini
+ 0.38% : spaghetti squash
+ 0.26% : ear
+ 0.17% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q075.jpg
+93.67% : cucumber
+ 4.32% : zucchini
+ 0.38% : spaghetti squash
+ 0.26% : ear
+ 0.17% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q076.jpg
+93.49% : cucumber
+ 4.46% : zucchini
+ 0.38% : spaghetti squash
+ 0.27% : ear
+ 0.19% : French loaf
+ 0.08% : grocery store
+ 0.05% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q077.jpg
+93.67% : cucumber
+ 4.25% : zucchini
+ 0.40% : spaghetti squash
+ 0.28% : ear
+ 0.19% : French loaf
+ 0.08% : grocery store
+ 0.05% : corn
+ 0.05% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q078.jpg
+94.54% : cucumber
+ 3.61% : zucchini
+ 0.36% : spaghetti squash
+ 0.23% : ear
+ 0.15% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q079.jpg
+94.41% : cucumber
+ 3.71% : zucchini
+ 0.36% : spaghetti squash
+ 0.25% : ear
+ 0.16% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q080.jpg
+94.30% : cucumber
+ 3.81% : zucchini
+ 0.36% : spaghetti squash
+ 0.24% : ear
+ 0.17% : French loaf
+ 0.07% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q081.jpg
+94.07% : cucumber
+ 4.06% : zucchini
+ 0.38% : spaghetti squash
+ 0.24% : ear
+ 0.17% : French loaf
+ 0.06% : grocery store
+ 0.04% : jackfruit
+ 0.04% : corn
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q082.jpg
+94.30% : cucumber
+ 3.91% : zucchini
+ 0.37% : spaghetti squash
+ 0.22% : ear
+ 0.16% : French loaf
+ 0.06% : grocery store
+ 0.04% : jackfruit
+ 0.04% : corn
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q083.jpg
+93.78% : cucumber
+ 4.34% : zucchini
+ 0.40% : spaghetti squash
+ 0.24% : ear
+ 0.18% : French loaf
+ 0.06% : grocery store
+ 0.04% : jackfruit
+ 0.04% : corn
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q084.jpg
+94.01% : cucumber
+ 4.10% : zucchini
+ 0.42% : spaghetti squash
+ 0.24% : ear
+ 0.17% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.04% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q085.jpg
+94.15% : cucumber
+ 3.93% : zucchini
+ 0.43% : spaghetti squash
+ 0.23% : ear
+ 0.18% : French loaf
+ 0.06% : grocery store
+ 0.04% : jackfruit
+ 0.04% : corn
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q086.jpg
+94.53% : cucumber
+ 3.67% : zucchini
+ 0.37% : spaghetti squash
+ 0.21% : ear
+ 0.17% : French loaf
+ 0.06% : grocery store
+ 0.04% : jackfruit
+ 0.04% : corn
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q087.jpg
+94.66% : cucumber
+ 3.57% : zucchini
+ 0.36% : spaghetti squash
+ 0.22% : ear
+ 0.17% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q088.jpg
+94.77% : cucumber
+ 3.50% : zucchini
+ 0.34% : spaghetti squash
+ 0.21% : ear
+ 0.17% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q089.jpg
+94.89% : cucumber
+ 3.40% : zucchini
+ 0.35% : spaghetti squash
+ 0.21% : ear
+ 0.16% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q090.jpg
+94.82% : cucumber
+ 3.38% : zucchini
+ 0.37% : spaghetti squash
+ 0.22% : ear
+ 0.16% : French loaf
+ 0.06% : grocery store
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q091.jpg
+95.10% : cucumber
+ 3.21% : zucchini
+ 0.34% : spaghetti squash
+ 0.19% : ear
+ 0.15% : French loaf
+ 0.06% : grocery store
+ 0.03% : jackfruit
+ 0.03% : corn
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q092.jpg
+95.48% : cucumber
+ 3.03% : zucchini
+ 0.29% : spaghetti squash
+ 0.17% : ear
+ 0.14% : French loaf
+ 0.05% : grocery store
+ 0.03% : jackfruit
+ 0.03% : corn
+ 0.02% : hotdog
+ 0.02% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q093.jpg
+95.67% : cucumber
+ 2.98% : zucchini
+ 0.28% : spaghetti squash
+ 0.15% : ear
+ 0.12% : French loaf
+ 0.05% : grocery store
+ 0.03% : jackfruit
+ 0.02% : corn
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q094.jpg
+95.81% : cucumber
+ 2.94% : zucchini
+ 0.26% : spaghetti squash
+ 0.14% : ear
+ 0.12% : French loaf
+ 0.05% : grocery store
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q095.jpg
+95.91% : cucumber
+ 2.80% : zucchini
+ 0.27% : spaghetti squash
+ 0.15% : ear
+ 0.12% : French loaf
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q096.jpg
+95.96% : cucumber
+ 2.75% : zucchini
+ 0.26% : spaghetti squash
+ 0.15% : ear
+ 0.12% : French loaf
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q097.jpg
+95.55% : cucumber
+ 3.08% : zucchini
+ 0.28% : spaghetti squash
+ 0.17% : ear
+ 0.13% : French loaf
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q098.jpg
+95.95% : cucumber
+ 2.73% : zucchini
+ 0.26% : spaghetti squash
+ 0.16% : ear
+ 0.12% : French loaf
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q099.jpg
+95.46% : cucumber
+ 3.15% : zucchini
+ 0.28% : spaghetti squash
+ 0.17% : ear
+ 0.13% : French loaf
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber12Q100.jpg
+95.49% : cucumber
+ 3.14% : zucchini
+ 0.28% : spaghetti squash
+ 0.17% : ear
+ 0.12% : French loaf
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : hotdog
+ 0.01% : head cabbage

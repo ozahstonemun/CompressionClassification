@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q001.jpg
+35.88% : strawberry
+ 6.33% : packet
+ 4.33% : book jacket
+ 3.97% : tray
+ 2.21% : Dungeness crab
+ 1.55% : comic book
+ 1.36% : spiny lobster
+ 1.25% : meat loaf
+ 1.04% : chocolate sauce
+ 0.89% : mousetrap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q002.jpg
+36.11% : strawberry
+ 6.27% : packet
+ 4.35% : book jacket
+ 3.92% : tray
+ 2.16% : Dungeness crab
+ 1.53% : comic book
+ 1.37% : spiny lobster
+ 1.25% : meat loaf
+ 1.05% : chocolate sauce
+ 0.90% : mousetrap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q003.jpg
+31.72% : strawberry
+ 5.42% : packet
+ 4.62% : tray
+ 3.97% : book jacket
+ 2.24% : meat loaf
+ 2.15% : Dungeness crab
+ 1.51% : chocolate sauce
+ 1.29% : consomme
+ 1.23% : rock crab
+ 1.18% : comic book
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q004.jpg
+74.27% : strawberry
+ 4.36% : consomme
+ 1.99% : meat loaf
+ 1.72% : packet
+ 0.64% : hot pot
+ 0.48% : tray
+ 0.42% : chocolate sauce
+ 0.27% : plate
+ 0.26% : book jacket
+ 0.25% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q005.jpg
+55.36% : strawberry
+ 5.49% : meat loaf
+ 2.39% : tray
+ 1.75% : packet
+ 1.71% : Dungeness crab
+ 1.46% : consomme
+ 1.03% : chocolate sauce
+ 0.77% : hamper
+ 0.73% : king crab
+ 0.51% : plate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q006.jpg
+92.93% : strawberry
+ 0.80% : packet
+ 0.32% : meat loaf
+ 0.26% : chocolate sauce
+ 0.10% : book jacket
+ 0.10% : trifle
+ 0.10% : tray
+ 0.09% : consomme
+ 0.08% : mousetrap
+ 0.08% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q007.jpg
+80.39% : strawberry
+ 1.24% : meat loaf
+ 1.15% : packet
+ 0.89% : consomme
+ 0.41% : tray
+ 0.37% : chocolate sauce
+ 0.22% : hot pot
+ 0.18% : plate
+ 0.17% : strainer
+ 0.16% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q008.jpg
+75.49% : strawberry
+ 2.43% : packet
+ 1.61% : meat loaf
+ 0.64% : consomme
+ 0.51% : chocolate sauce
+ 0.50% : Crock Pot
+ 0.46% : crayfish
+ 0.41% : tray
+ 0.31% : ice cream
+ 0.25% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q009.jpg
+88.53% : strawberry
+ 2.34% : packet
+ 0.49% : consomme
+ 0.33% : tray
+ 0.32% : meat loaf
+ 0.29% : chocolate sauce
+ 0.17% : book jacket
+ 0.11% : banana
+ 0.11% : ice cream
+ 0.10% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q010.jpg
+85.83% : strawberry
+ 2.33% : packet
+ 0.47% : meat loaf
+ 0.44% : consomme
+ 0.41% : tray
+ 0.30% : chocolate sauce
+ 0.18% : trifle
+ 0.17% : hot pot
+ 0.16% : book jacket
+ 0.14% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q011.jpg
+85.06% : strawberry
+ 3.16% : packet
+ 0.44% : meat loaf
+ 0.43% : chocolate sauce
+ 0.38% : consomme
+ 0.34% : book jacket
+ 0.24% : tray
+ 0.19% : banana
+ 0.14% : trifle
+ 0.13% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q012.jpg
+84.57% : strawberry
+ 2.61% : packet
+ 0.68% : consomme
+ 0.54% : meat loaf
+ 0.38% : chocolate sauce
+ 0.35% : tray
+ 0.25% : book jacket
+ 0.17% : banana
+ 0.17% : ice cream
+ 0.14% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q013.jpg
+86.97% : strawberry
+ 3.72% : packet
+ 0.52% : tray
+ 0.34% : meat loaf
+ 0.34% : chocolate sauce
+ 0.20% : book jacket
+ 0.19% : banana
+ 0.17% : consomme
+ 0.15% : trifle
+ 0.13% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q014.jpg
+89.20% : strawberry
+ 1.74% : packet
+ 0.44% : meat loaf
+ 0.36% : consomme
+ 0.26% : chocolate sauce
+ 0.18% : book jacket
+ 0.16% : tray
+ 0.15% : banana
+ 0.12% : crayfish
+ 0.12% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q015.jpg
+76.81% : strawberry
+ 3.46% : packet
+ 0.96% : meat loaf
+ 0.80% : consomme
+ 0.53% : book jacket
+ 0.49% : chocolate sauce
+ 0.46% : tray
+ 0.30% : menu
+ 0.25% : crayfish
+ 0.24% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q016.jpg
+84.75% : strawberry
+ 3.63% : packet
+ 0.58% : consomme
+ 0.57% : tray
+ 0.37% : meat loaf
+ 0.35% : chocolate sauce
+ 0.25% : book jacket
+ 0.20% : banana
+ 0.17% : ice cream
+ 0.14% : crayfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q017.jpg
+75.38% : strawberry
+ 5.72% : packet
+ 0.96% : meat loaf
+ 0.88% : consomme
+ 0.54% : book jacket
+ 0.50% : chocolate sauce
+ 0.34% : tray
+ 0.30% : crayfish
+ 0.27% : menu
+ 0.25% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q018.jpg
+78.15% : strawberry
+ 4.34% : packet
+ 0.76% : consomme
+ 0.70% : meat loaf
+ 0.57% : chocolate sauce
+ 0.40% : tray
+ 0.39% : book jacket
+ 0.23% : banana
+ 0.22% : trifle
+ 0.20% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q019.jpg
+80.99% : strawberry
+ 3.52% : packet
+ 0.58% : meat loaf
+ 0.54% : tray
+ 0.53% : consomme
+ 0.40% : chocolate sauce
+ 0.32% : book jacket
+ 0.22% : menu
+ 0.22% : crayfish
+ 0.22% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q020.jpg
+80.80% : strawberry
+ 3.97% : packet
+ 0.63% : consomme
+ 0.57% : meat loaf
+ 0.42% : book jacket
+ 0.36% : chocolate sauce
+ 0.30% : tray
+ 0.22% : banana
+ 0.21% : trifle
+ 0.18% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q021.jpg
+75.82% : strawberry
+ 3.34% : packet
+ 0.89% : consomme
+ 0.84% : meat loaf
+ 0.57% : chocolate sauce
+ 0.50% : tray
+ 0.40% : book jacket
+ 0.28% : banana
+ 0.25% : hot pot
+ 0.23% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q022.jpg
+85.10% : strawberry
+ 2.82% : packet
+ 0.43% : consomme
+ 0.38% : meat loaf
+ 0.30% : chocolate sauce
+ 0.27% : tray
+ 0.26% : book jacket
+ 0.23% : banana
+ 0.18% : trifle
+ 0.15% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q023.jpg
+85.92% : strawberry
+ 3.04% : packet
+ 0.52% : consomme
+ 0.44% : meat loaf
+ 0.35% : book jacket
+ 0.31% : chocolate sauce
+ 0.23% : tray
+ 0.16% : banana
+ 0.14% : menu
+ 0.14% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q024.jpg
+80.27% : strawberry
+ 3.83% : packet
+ 0.62% : consomme
+ 0.57% : meat loaf
+ 0.37% : tray
+ 0.35% : book jacket
+ 0.33% : chocolate sauce
+ 0.24% : banana
+ 0.20% : menu
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q025.jpg
+79.90% : strawberry
+ 4.44% : packet
+ 0.89% : consomme
+ 0.68% : meat loaf
+ 0.37% : tray
+ 0.35% : book jacket
+ 0.33% : chocolate sauce
+ 0.22% : banana
+ 0.18% : hot pot
+ 0.17% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q026.jpg
+80.51% : strawberry
+ 4.63% : packet
+ 0.80% : meat loaf
+ 0.79% : consomme
+ 0.42% : chocolate sauce
+ 0.41% : tray
+ 0.37% : book jacket
+ 0.19% : banana
+ 0.17% : menu
+ 0.16% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q027.jpg
+76.71% : strawberry
+ 4.92% : packet
+ 0.97% : consomme
+ 0.92% : meat loaf
+ 0.60% : tray
+ 0.49% : book jacket
+ 0.43% : chocolate sauce
+ 0.22% : menu
+ 0.21% : ice cream
+ 0.20% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q028.jpg
+85.23% : strawberry
+ 2.68% : packet
+ 0.59% : consomme
+ 0.43% : tray
+ 0.39% : meat loaf
+ 0.35% : chocolate sauce
+ 0.25% : book jacket
+ 0.20% : banana
+ 0.15% : menu
+ 0.14% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q029.jpg
+83.98% : strawberry
+ 3.10% : packet
+ 0.64% : meat loaf
+ 0.54% : consomme
+ 0.44% : tray
+ 0.40% : chocolate sauce
+ 0.30% : book jacket
+ 0.19% : banana
+ 0.17% : ice cream
+ 0.16% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q030.jpg
+76.76% : strawberry
+ 5.60% : packet
+ 0.92% : meat loaf
+ 0.84% : consomme
+ 0.55% : tray
+ 0.51% : chocolate sauce
+ 0.42% : book jacket
+ 0.25% : menu
+ 0.21% : ice cream
+ 0.20% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q031.jpg
+77.48% : strawberry
+ 4.62% : packet
+ 0.73% : consomme
+ 0.67% : meat loaf
+ 0.55% : tray
+ 0.43% : chocolate sauce
+ 0.39% : book jacket
+ 0.27% : menu
+ 0.24% : banana
+ 0.20% : hot pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q032.jpg
+78.46% : strawberry
+ 4.06% : packet
+ 0.84% : consomme
+ 0.70% : meat loaf
+ 0.46% : chocolate sauce
+ 0.45% : tray
+ 0.39% : book jacket
+ 0.22% : banana
+ 0.21% : menu
+ 0.21% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q033.jpg
+76.08% : strawberry
+ 4.69% : packet
+ 1.26% : consomme
+ 0.78% : meat loaf
+ 0.49% : tray
+ 0.42% : chocolate sauce
+ 0.41% : book jacket
+ 0.27% : menu
+ 0.26% : hot pot
+ 0.22% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q034.jpg
+79.13% : strawberry
+ 4.25% : packet
+ 0.99% : consomme
+ 0.82% : meat loaf
+ 0.48% : tray
+ 0.43% : book jacket
+ 0.38% : chocolate sauce
+ 0.22% : menu
+ 0.20% : hot pot
+ 0.19% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q035.jpg
+79.44% : strawberry
+ 4.01% : packet
+ 0.86% : consomme
+ 0.63% : meat loaf
+ 0.49% : chocolate sauce
+ 0.40% : book jacket
+ 0.35% : tray
+ 0.22% : menu
+ 0.22% : banana
+ 0.20% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q036.jpg
+83.71% : strawberry
+ 3.12% : packet
+ 0.63% : consomme
+ 0.53% : meat loaf
+ 0.40% : chocolate sauce
+ 0.40% : tray
+ 0.33% : book jacket
+ 0.19% : banana
+ 0.18% : menu
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q037.jpg
+82.75% : strawberry
+ 3.38% : packet
+ 0.71% : consomme
+ 0.53% : meat loaf
+ 0.44% : chocolate sauce
+ 0.41% : tray
+ 0.32% : book jacket
+ 0.20% : banana
+ 0.19% : menu
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q038.jpg
+81.28% : strawberry
+ 4.00% : packet
+ 0.73% : consomme
+ 0.55% : meat loaf
+ 0.45% : chocolate sauce
+ 0.40% : tray
+ 0.29% : book jacket
+ 0.23% : banana
+ 0.18% : menu
+ 0.17% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q039.jpg
+82.93% : strawberry
+ 3.65% : packet
+ 0.61% : consomme
+ 0.53% : meat loaf
+ 0.41% : chocolate sauce
+ 0.40% : tray
+ 0.32% : book jacket
+ 0.22% : banana
+ 0.16% : trifle
+ 0.16% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q040.jpg
+85.03% : strawberry
+ 3.24% : packet
+ 0.49% : meat loaf
+ 0.44% : consomme
+ 0.42% : chocolate sauce
+ 0.34% : tray
+ 0.30% : book jacket
+ 0.20% : banana
+ 0.14% : trifle
+ 0.14% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q041.jpg
+78.70% : strawberry
+ 4.50% : packet
+ 0.67% : meat loaf
+ 0.64% : consomme
+ 0.58% : chocolate sauce
+ 0.45% : tray
+ 0.42% : book jacket
+ 0.22% : banana
+ 0.20% : menu
+ 0.19% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q042.jpg
+80.40% : strawberry
+ 3.81% : packet
+ 0.68% : consomme
+ 0.61% : meat loaf
+ 0.55% : chocolate sauce
+ 0.45% : tray
+ 0.39% : book jacket
+ 0.22% : banana
+ 0.21% : menu
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q043.jpg
+80.20% : strawberry
+ 4.49% : packet
+ 0.64% : consomme
+ 0.60% : meat loaf
+ 0.52% : chocolate sauce
+ 0.39% : tray
+ 0.37% : book jacket
+ 0.22% : banana
+ 0.21% : menu
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q044.jpg
+81.77% : strawberry
+ 4.43% : packet
+ 0.61% : consomme
+ 0.57% : chocolate sauce
+ 0.48% : meat loaf
+ 0.46% : tray
+ 0.30% : book jacket
+ 0.24% : banana
+ 0.19% : menu
+ 0.15% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q045.jpg
+80.80% : strawberry
+ 4.93% : packet
+ 0.64% : chocolate sauce
+ 0.60% : meat loaf
+ 0.56% : consomme
+ 0.41% : tray
+ 0.31% : book jacket
+ 0.25% : banana
+ 0.19% : menu
+ 0.16% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q046.jpg
+82.22% : strawberry
+ 4.28% : packet
+ 0.55% : chocolate sauce
+ 0.52% : consomme
+ 0.51% : meat loaf
+ 0.39% : tray
+ 0.30% : book jacket
+ 0.26% : banana
+ 0.17% : ice cream
+ 0.17% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q047.jpg
+82.46% : strawberry
+ 4.21% : packet
+ 0.56% : chocolate sauce
+ 0.54% : consomme
+ 0.53% : meat loaf
+ 0.37% : tray
+ 0.30% : book jacket
+ 0.25% : banana
+ 0.17% : ice cream
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q048.jpg
+81.72% : strawberry
+ 3.78% : packet
+ 0.66% : consomme
+ 0.54% : meat loaf
+ 0.51% : chocolate sauce
+ 0.34% : tray
+ 0.34% : book jacket
+ 0.24% : banana
+ 0.19% : menu
+ 0.17% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q049.jpg
+75.02% : strawberry
+ 5.34% : packet
+ 1.11% : meat loaf
+ 0.98% : consomme
+ 0.75% : chocolate sauce
+ 0.44% : book jacket
+ 0.43% : tray
+ 0.25% : Crock Pot
+ 0.25% : banana
+ 0.23% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q050.jpg
+75.16% : strawberry
+ 5.30% : packet
+ 1.11% : meat loaf
+ 0.97% : consomme
+ 0.75% : chocolate sauce
+ 0.44% : book jacket
+ 0.43% : tray
+ 0.25% : banana
+ 0.25% : Crock Pot
+ 0.23% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q051.jpg
+75.34% : strawberry
+ 5.21% : packet
+ 1.11% : meat loaf
+ 0.96% : consomme
+ 0.74% : chocolate sauce
+ 0.44% : book jacket
+ 0.43% : tray
+ 0.25% : banana
+ 0.25% : Crock Pot
+ 0.23% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q052.jpg
+79.54% : strawberry
+ 3.75% : packet
+ 0.69% : consomme
+ 0.66% : meat loaf
+ 0.62% : chocolate sauce
+ 0.39% : tray
+ 0.35% : book jacket
+ 0.27% : banana
+ 0.22% : Crock Pot
+ 0.19% : crayfish
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q053.jpg
+79.54% : strawberry
+ 3.96% : packet
+ 0.65% : meat loaf
+ 0.64% : chocolate sauce
+ 0.64% : consomme
+ 0.41% : tray
+ 0.33% : book jacket
+ 0.27% : banana
+ 0.21% : Crock Pot
+ 0.21% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q054.jpg
+79.56% : strawberry
+ 3.99% : packet
+ 0.67% : meat loaf
+ 0.66% : consomme
+ 0.64% : chocolate sauce
+ 0.41% : tray
+ 0.32% : book jacket
+ 0.26% : banana
+ 0.22% : trifle
+ 0.21% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q055.jpg
+80.94% : strawberry
+ 4.42% : packet
+ 0.58% : chocolate sauce
+ 0.57% : meat loaf
+ 0.56% : consomme
+ 0.47% : tray
+ 0.31% : book jacket
+ 0.25% : banana
+ 0.20% : trifle
+ 0.19% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q056.jpg
+82.66% : strawberry
+ 3.98% : packet
+ 0.54% : meat loaf
+ 0.54% : chocolate sauce
+ 0.50% : consomme
+ 0.47% : tray
+ 0.29% : book jacket
+ 0.24% : banana
+ 0.17% : trifle
+ 0.17% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q057.jpg
+83.84% : strawberry
+ 3.64% : packet
+ 0.47% : meat loaf
+ 0.46% : chocolate sauce
+ 0.44% : consomme
+ 0.40% : tray
+ 0.28% : book jacket
+ 0.25% : banana
+ 0.16% : trifle
+ 0.16% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q058.jpg
+81.59% : strawberry
+ 3.76% : packet
+ 0.63% : meat loaf
+ 0.54% : chocolate sauce
+ 0.49% : consomme
+ 0.37% : tray
+ 0.36% : book jacket
+ 0.25% : banana
+ 0.19% : trifle
+ 0.18% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q059.jpg
+81.35% : strawberry
+ 4.00% : packet
+ 0.69% : meat loaf
+ 0.55% : chocolate sauce
+ 0.50% : consomme
+ 0.37% : book jacket
+ 0.33% : tray
+ 0.25% : banana
+ 0.18% : trifle
+ 0.18% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q060.jpg
+80.41% : strawberry
+ 4.01% : packet
+ 0.83% : meat loaf
+ 0.57% : chocolate sauce
+ 0.51% : consomme
+ 0.40% : book jacket
+ 0.33% : tray
+ 0.25% : banana
+ 0.19% : trifle
+ 0.19% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q061.jpg
+83.11% : strawberry
+ 3.60% : packet
+ 0.54% : chocolate sauce
+ 0.51% : meat loaf
+ 0.50% : consomme
+ 0.33% : book jacket
+ 0.28% : tray
+ 0.25% : banana
+ 0.16% : Crock Pot
+ 0.15% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q062.jpg
+83.00% : strawberry
+ 3.56% : packet
+ 0.57% : chocolate sauce
+ 0.53% : meat loaf
+ 0.48% : consomme
+ 0.32% : book jacket
+ 0.30% : tray
+ 0.26% : banana
+ 0.15% : Crock Pot
+ 0.15% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q063.jpg
+83.01% : strawberry
+ 3.90% : packet
+ 0.51% : chocolate sauce
+ 0.49% : meat loaf
+ 0.46% : consomme
+ 0.34% : book jacket
+ 0.30% : tray
+ 0.25% : banana
+ 0.16% : menu
+ 0.15% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q064.jpg
+81.10% : strawberry
+ 4.33% : packet
+ 0.71% : meat loaf
+ 0.60% : chocolate sauce
+ 0.56% : consomme
+ 0.41% : book jacket
+ 0.32% : tray
+ 0.24% : banana
+ 0.19% : menu
+ 0.16% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q065.jpg
+76.80% : strawberry
+ 5.41% : packet
+ 0.87% : meat loaf
+ 0.72% : consomme
+ 0.64% : chocolate sauce
+ 0.50% : book jacket
+ 0.34% : tray
+ 0.27% : banana
+ 0.23% : menu
+ 0.20% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q066.jpg
+78.69% : strawberry
+ 5.04% : packet
+ 0.84% : meat loaf
+ 0.69% : consomme
+ 0.57% : chocolate sauce
+ 0.44% : book jacket
+ 0.35% : tray
+ 0.25% : banana
+ 0.22% : menu
+ 0.18% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q067.jpg
+76.65% : strawberry
+ 5.22% : packet
+ 0.90% : meat loaf
+ 0.76% : consomme
+ 0.67% : chocolate sauce
+ 0.48% : book jacket
+ 0.40% : tray
+ 0.26% : banana
+ 0.25% : menu
+ 0.21% : Crock Pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q068.jpg
+78.99% : strawberry
+ 4.55% : packet
+ 0.87% : meat loaf
+ 0.62% : chocolate sauce
+ 0.61% : consomme
+ 0.43% : book jacket
+ 0.38% : tray
+ 0.25% : banana
+ 0.20% : menu
+ 0.19% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q069.jpg
+79.35% : strawberry
+ 4.54% : packet
+ 0.77% : meat loaf
+ 0.65% : consomme
+ 0.61% : chocolate sauce
+ 0.41% : tray
+ 0.40% : book jacket
+ 0.25% : banana
+ 0.21% : menu
+ 0.20% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q070.jpg
+80.35% : strawberry
+ 4.42% : packet
+ 0.86% : meat loaf
+ 0.58% : consomme
+ 0.53% : chocolate sauce
+ 0.41% : tray
+ 0.34% : book jacket
+ 0.23% : banana
+ 0.22% : trifle
+ 0.21% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q071.jpg
+80.52% : strawberry
+ 4.19% : packet
+ 0.73% : meat loaf
+ 0.60% : consomme
+ 0.56% : chocolate sauce
+ 0.46% : tray
+ 0.34% : book jacket
+ 0.23% : banana
+ 0.22% : trifle
+ 0.21% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q072.jpg
+79.09% : strawberry
+ 4.76% : packet
+ 0.72% : meat loaf
+ 0.64% : consomme
+ 0.56% : chocolate sauce
+ 0.53% : tray
+ 0.36% : book jacket
+ 0.24% : banana
+ 0.23% : trifle
+ 0.22% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q073.jpg
+76.61% : strawberry
+ 5.31% : packet
+ 0.81% : meat loaf
+ 0.71% : consomme
+ 0.58% : chocolate sauce
+ 0.53% : tray
+ 0.41% : book jacket
+ 0.27% : banana
+ 0.26% : menu
+ 0.23% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q074.jpg
+81.31% : strawberry
+ 4.40% : packet
+ 0.64% : consomme
+ 0.56% : meat loaf
+ 0.47% : chocolate sauce
+ 0.41% : tray
+ 0.37% : book jacket
+ 0.24% : menu
+ 0.23% : banana
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q075.jpg
+81.08% : strawberry
+ 4.44% : packet
+ 0.66% : consomme
+ 0.57% : meat loaf
+ 0.47% : chocolate sauce
+ 0.43% : tray
+ 0.38% : book jacket
+ 0.24% : menu
+ 0.23% : banana
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q076.jpg
+81.04% : strawberry
+ 4.33% : packet
+ 0.72% : consomme
+ 0.63% : meat loaf
+ 0.47% : chocolate sauce
+ 0.38% : tray
+ 0.37% : book jacket
+ 0.23% : menu
+ 0.21% : banana
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q077.jpg
+80.12% : strawberry
+ 4.55% : packet
+ 0.72% : meat loaf
+ 0.64% : consomme
+ 0.53% : chocolate sauce
+ 0.37% : tray
+ 0.33% : book jacket
+ 0.24% : banana
+ 0.22% : menu
+ 0.20% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q078.jpg
+81.94% : strawberry
+ 4.36% : packet
+ 0.65% : meat loaf
+ 0.55% : consomme
+ 0.49% : chocolate sauce
+ 0.35% : tray
+ 0.31% : book jacket
+ 0.23% : banana
+ 0.19% : menu
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q079.jpg
+81.68% : strawberry
+ 4.52% : packet
+ 0.70% : meat loaf
+ 0.56% : consomme
+ 0.50% : chocolate sauce
+ 0.34% : book jacket
+ 0.33% : tray
+ 0.23% : banana
+ 0.19% : menu
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q080.jpg
+82.51% : strawberry
+ 4.17% : packet
+ 0.69% : meat loaf
+ 0.48% : chocolate sauce
+ 0.47% : consomme
+ 0.36% : tray
+ 0.33% : book jacket
+ 0.22% : banana
+ 0.19% : menu
+ 0.18% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q081.jpg
+82.19% : strawberry
+ 4.30% : packet
+ 0.70% : meat loaf
+ 0.50% : consomme
+ 0.48% : chocolate sauce
+ 0.36% : tray
+ 0.32% : book jacket
+ 0.23% : banana
+ 0.19% : trifle
+ 0.19% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q082.jpg
+81.72% : strawberry
+ 4.49% : packet
+ 0.76% : meat loaf
+ 0.52% : consomme
+ 0.48% : chocolate sauce
+ 0.38% : tray
+ 0.28% : book jacket
+ 0.23% : banana
+ 0.21% : trifle
+ 0.19% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q083.jpg
+81.21% : strawberry
+ 4.43% : packet
+ 0.79% : meat loaf
+ 0.55% : consomme
+ 0.51% : chocolate sauce
+ 0.40% : tray
+ 0.28% : book jacket
+ 0.23% : banana
+ 0.21% : trifle
+ 0.19% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q084.jpg
+81.71% : strawberry
+ 4.15% : packet
+ 0.72% : meat loaf
+ 0.56% : consomme
+ 0.49% : chocolate sauce
+ 0.37% : tray
+ 0.29% : book jacket
+ 0.24% : banana
+ 0.21% : trifle
+ 0.19% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q085.jpg
+80.90% : strawberry
+ 4.74% : packet
+ 0.71% : meat loaf
+ 0.57% : consomme
+ 0.52% : chocolate sauce
+ 0.38% : tray
+ 0.32% : book jacket
+ 0.24% : banana
+ 0.22% : menu
+ 0.21% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q086.jpg
+81.67% : strawberry
+ 4.31% : packet
+ 0.67% : meat loaf
+ 0.57% : consomme
+ 0.54% : chocolate sauce
+ 0.35% : tray
+ 0.33% : book jacket
+ 0.25% : banana
+ 0.21% : menu
+ 0.19% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q087.jpg
+81.01% : strawberry
+ 4.45% : packet
+ 0.71% : meat loaf
+ 0.58% : consomme
+ 0.56% : chocolate sauce
+ 0.35% : tray
+ 0.34% : book jacket
+ 0.24% : banana
+ 0.22% : menu
+ 0.21% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q088.jpg
+80.68% : strawberry
+ 4.26% : packet
+ 0.78% : meat loaf
+ 0.58% : chocolate sauce
+ 0.56% : consomme
+ 0.36% : tray
+ 0.31% : book jacket
+ 0.25% : banana
+ 0.22% : trifle
+ 0.21% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q089.jpg
+83.49% : strawberry
+ 3.51% : packet
+ 0.66% : meat loaf
+ 0.52% : chocolate sauce
+ 0.46% : consomme
+ 0.31% : tray
+ 0.26% : book jacket
+ 0.23% : banana
+ 0.20% : trifle
+ 0.18% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q090.jpg
+83.92% : strawberry
+ 3.69% : packet
+ 0.61% : meat loaf
+ 0.49% : chocolate sauce
+ 0.42% : consomme
+ 0.34% : tray
+ 0.26% : book jacket
+ 0.23% : banana
+ 0.21% : trifle
+ 0.17% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q091.jpg
+85.81% : strawberry
+ 3.16% : packet
+ 0.51% : meat loaf
+ 0.45% : chocolate sauce
+ 0.39% : consomme
+ 0.26% : tray
+ 0.23% : banana
+ 0.21% : book jacket
+ 0.17% : trifle
+ 0.13% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q092.jpg
+87.48% : strawberry
+ 3.30% : packet
+ 0.44% : meat loaf
+ 0.38% : chocolate sauce
+ 0.29% : consomme
+ 0.26% : tray
+ 0.22% : banana
+ 0.20% : book jacket
+ 0.14% : trifle
+ 0.11% : ice cream
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q093.jpg
+83.75% : strawberry
+ 4.30% : packet
+ 0.54% : meat loaf
+ 0.44% : chocolate sauce
+ 0.42% : consomme
+ 0.32% : tray
+ 0.27% : book jacket
+ 0.21% : banana
+ 0.17% : trifle
+ 0.14% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q094.jpg
+82.32% : strawberry
+ 5.05% : packet
+ 0.51% : meat loaf
+ 0.49% : chocolate sauce
+ 0.45% : consomme
+ 0.35% : book jacket
+ 0.34% : tray
+ 0.24% : banana
+ 0.16% : trifle
+ 0.16% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q095.jpg
+82.56% : strawberry
+ 4.48% : packet
+ 0.56% : meat loaf
+ 0.49% : chocolate sauce
+ 0.47% : consomme
+ 0.34% : book jacket
+ 0.33% : tray
+ 0.23% : banana
+ 0.16% : trifle
+ 0.16% : menu
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q096.jpg
+82.40% : strawberry
+ 4.23% : packet
+ 0.59% : meat loaf
+ 0.51% : chocolate sauce
+ 0.46% : consomme
+ 0.35% : book jacket
+ 0.35% : tray
+ 0.23% : banana
+ 0.17% : menu
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q097.jpg
+81.94% : strawberry
+ 4.71% : packet
+ 0.63% : meat loaf
+ 0.51% : chocolate sauce
+ 0.49% : consomme
+ 0.35% : book jacket
+ 0.33% : tray
+ 0.24% : banana
+ 0.17% : menu
+ 0.16% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q098.jpg
+82.14% : strawberry
+ 4.31% : packet
+ 0.63% : meat loaf
+ 0.49% : chocolate sauce
+ 0.49% : consomme
+ 0.35% : book jacket
+ 0.34% : tray
+ 0.24% : banana
+ 0.17% : menu
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q099.jpg
+82.09% : strawberry
+ 4.54% : packet
+ 0.61% : meat loaf
+ 0.51% : chocolate sauce
+ 0.46% : consomme
+ 0.35% : book jacket
+ 0.35% : tray
+ 0.24% : banana
+ 0.17% : menu
+ 0.17% : trifle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry2Q100.jpg
+82.80% : strawberry
+ 4.50% : packet
+ 0.56% : meat loaf
+ 0.46% : chocolate sauce
+ 0.46% : consomme
+ 0.34% : tray
+ 0.32% : book jacket
+ 0.23% : banana
+ 0.17% : menu
+ 0.16% : trifle

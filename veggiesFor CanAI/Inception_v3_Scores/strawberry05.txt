@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q001.jpg
+78.92% : strawberry
+ 3.22% : packet
+ 1.91% : pineapple
+ 1.06% : grocery store
+ 0.86% : confectionery
+ 0.74% : pomegranate
+ 0.71% : meat loaf
+ 0.68% : tray
+ 0.59% : hamper
+ 0.59% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q002.jpg
+76.68% : strawberry
+ 3.57% : packet
+ 2.19% : pineapple
+ 1.26% : grocery store
+ 0.99% : confectionery
+ 0.80% : pomegranate
+ 0.74% : meat loaf
+ 0.72% : tray
+ 0.64% : hamper
+ 0.61% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q003.jpg
+87.10% : strawberry
+ 1.82% : pineapple
+ 1.54% : packet
+ 0.74% : confectionery
+ 0.72% : grocery store
+ 0.52% : meat loaf
+ 0.40% : pomegranate
+ 0.39% : tray
+ 0.34% : hamper
+ 0.31% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q004.jpg
+94.00% : strawberry
+ 1.15% : packet
+ 0.47% : meat loaf
+ 0.45% : pineapple
+ 0.32% : tray
+ 0.29% : hamper
+ 0.19% : Granny Smith
+ 0.18% : grocery store
+ 0.16% : shopping basket
+ 0.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q005.jpg
+92.61% : strawberry
+ 1.54% : pineapple
+ 1.11% : packet
+ 0.74% : meat loaf
+ 0.28% : hamper
+ 0.18% : shopping basket
+ 0.16% : Granny Smith
+ 0.13% : tray
+ 0.13% : grocery store
+ 0.12% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q006.jpg
+92.99% : strawberry
+ 1.78% : packet
+ 0.52% : grocery store
+ 0.49% : pineapple
+ 0.42% : hamper
+ 0.35% : shopping basket
+ 0.20% : Granny Smith
+ 0.20% : meat loaf
+ 0.19% : confectionery
+ 0.19% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q007.jpg
+93.33% : strawberry
+ 1.24% : packet
+ 0.75% : grocery store
+ 0.47% : meat loaf
+ 0.35% : pineapple
+ 0.31% : shopping basket
+ 0.29% : hamper
+ 0.27% : Granny Smith
+ 0.16% : tray
+ 0.13% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q008.jpg
+82.05% : strawberry
+ 5.90% : packet
+ 2.23% : grocery store
+ 0.73% : meat loaf
+ 0.63% : confectionery
+ 0.62% : Granny Smith
+ 0.50% : shopping basket
+ 0.49% : hamper
+ 0.40% : pineapple
+ 0.21% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q009.jpg
+81.57% : strawberry
+ 4.29% : packet
+ 2.71% : grocery store
+ 0.98% : confectionery
+ 0.91% : hamper
+ 0.81% : pineapple
+ 0.76% : shopping basket
+ 0.67% : Granny Smith
+ 0.30% : banana
+ 0.29% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q010.jpg
+84.27% : strawberry
+ 3.25% : packet
+ 1.64% : grocery store
+ 1.00% : shopping basket
+ 0.95% : hamper
+ 0.62% : pineapple
+ 0.51% : meat loaf
+ 0.47% : confectionery
+ 0.46% : Granny Smith
+ 0.30% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q011.jpg
+80.61% : strawberry
+ 4.28% : packet
+ 1.74% : grocery store
+ 1.03% : hamper
+ 1.02% : confectionery
+ 0.91% : Granny Smith
+ 0.90% : shopping basket
+ 0.67% : pineapple
+ 0.41% : tray
+ 0.40% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q012.jpg
+74.26% : strawberry
+ 7.72% : packet
+ 1.85% : grocery store
+ 1.48% : Granny Smith
+ 1.38% : hamper
+ 1.10% : shopping basket
+ 0.83% : confectionery
+ 0.71% : pineapple
+ 0.49% : meat loaf
+ 0.26% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q013.jpg
+68.91% : strawberry
+ 8.60% : packet
+ 3.44% : grocery store
+ 1.80% : hamper
+ 1.56% : Granny Smith
+ 1.49% : shopping basket
+ 0.93% : confectionery
+ 0.88% : pineapple
+ 0.59% : meat loaf
+ 0.36% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q014.jpg
+74.56% : strawberry
+ 6.32% : packet
+ 2.38% : grocery store
+ 1.45% : confectionery
+ 1.17% : shopping basket
+ 1.13% : Granny Smith
+ 1.09% : hamper
+ 0.55% : pineapple
+ 0.51% : meat loaf
+ 0.35% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q015.jpg
+70.73% : strawberry
+ 8.87% : packet
+ 3.19% : grocery store
+ 1.45% : confectionery
+ 1.06% : shopping basket
+ 1.01% : hamper
+ 0.97% : Granny Smith
+ 0.50% : meat loaf
+ 0.48% : pineapple
+ 0.38% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q016.jpg
+61.86% : strawberry
+12.38% : packet
+ 4.43% : grocery store
+ 1.93% : Granny Smith
+ 1.84% : shopping basket
+ 1.62% : confectionery
+ 1.26% : hamper
+ 0.76% : meat loaf
+ 0.51% : vending machine
+ 0.48% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q017.jpg
+71.22% : strawberry
+ 8.31% : packet
+ 2.94% : grocery store
+ 1.37% : hamper
+ 1.27% : shopping basket
+ 1.25% : Granny Smith
+ 1.00% : confectionery
+ 0.54% : meat loaf
+ 0.46% : pineapple
+ 0.30% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q018.jpg
+75.73% : strawberry
+ 7.71% : packet
+ 2.26% : grocery store
+ 1.06% : hamper
+ 0.99% : Granny Smith
+ 0.97% : shopping basket
+ 0.64% : confectionery
+ 0.59% : meat loaf
+ 0.49% : pineapple
+ 0.36% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q019.jpg
+75.35% : strawberry
+ 6.66% : packet
+ 3.23% : grocery store
+ 1.18% : shopping basket
+ 1.13% : Granny Smith
+ 1.11% : hamper
+ 1.03% : confectionery
+ 0.42% : pineapple
+ 0.35% : vending machine
+ 0.34% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q020.jpg
+76.28% : strawberry
+ 6.84% : packet
+ 2.75% : grocery store
+ 1.08% : shopping basket
+ 1.04% : confectionery
+ 0.96% : Granny Smith
+ 0.86% : hamper
+ 0.43% : pineapple
+ 0.38% : meat loaf
+ 0.36% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q021.jpg
+83.80% : strawberry
+ 4.43% : packet
+ 1.80% : grocery store
+ 0.73% : shopping basket
+ 0.61% : Granny Smith
+ 0.59% : hamper
+ 0.54% : confectionery
+ 0.35% : meat loaf
+ 0.31% : pineapple
+ 0.22% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q022.jpg
+85.54% : strawberry
+ 4.26% : packet
+ 1.57% : grocery store
+ 0.58% : Granny Smith
+ 0.48% : confectionery
+ 0.45% : shopping basket
+ 0.42% : hamper
+ 0.30% : meat loaf
+ 0.21% : pineapple
+ 0.20% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q023.jpg
+73.72% : strawberry
+ 7.10% : packet
+ 3.03% : grocery store
+ 1.23% : Granny Smith
+ 1.08% : hamper
+ 1.02% : confectionery
+ 1.01% : shopping basket
+ 0.63% : meat loaf
+ 0.40% : vending machine
+ 0.32% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q024.jpg
+73.61% : strawberry
+ 8.51% : packet
+ 2.89% : grocery store
+ 1.26% : Granny Smith
+ 1.16% : shopping basket
+ 1.02% : hamper
+ 0.79% : confectionery
+ 0.59% : meat loaf
+ 0.30% : fig
+ 0.30% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q025.jpg
+73.30% : strawberry
+ 8.15% : packet
+ 3.20% : grocery store
+ 1.30% : shopping basket
+ 1.21% : Granny Smith
+ 1.18% : hamper
+ 0.66% : confectionery
+ 0.57% : meat loaf
+ 0.33% : pineapple
+ 0.32% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q026.jpg
+71.50% : strawberry
+ 8.61% : packet
+ 3.48% : grocery store
+ 1.63% : shopping basket
+ 1.44% : Granny Smith
+ 1.24% : hamper
+ 0.89% : confectionery
+ 0.67% : meat loaf
+ 0.32% : vending machine
+ 0.31% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q027.jpg
+72.41% : strawberry
+ 8.26% : packet
+ 3.62% : grocery store
+ 1.38% : shopping basket
+ 1.17% : Granny Smith
+ 1.08% : hamper
+ 0.77% : confectionery
+ 0.74% : meat loaf
+ 0.33% : bell pepper
+ 0.32% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q028.jpg
+70.67% : strawberry
+ 8.24% : packet
+ 3.17% : grocery store
+ 1.64% : shopping basket
+ 1.51% : Granny Smith
+ 1.45% : hamper
+ 0.96% : meat loaf
+ 0.95% : confectionery
+ 0.43% : pineapple
+ 0.31% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q029.jpg
+72.10% : strawberry
+ 8.20% : packet
+ 2.84% : grocery store
+ 1.61% : shopping basket
+ 1.45% : Granny Smith
+ 1.44% : hamper
+ 1.09% : meat loaf
+ 0.66% : confectionery
+ 0.36% : pineapple
+ 0.25% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q030.jpg
+72.62% : strawberry
+ 7.70% : packet
+ 2.79% : grocery store
+ 1.36% : Granny Smith
+ 1.20% : shopping basket
+ 1.00% : hamper
+ 1.00% : meat loaf
+ 0.92% : confectionery
+ 0.37% : pineapple
+ 0.34% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q031.jpg
+74.04% : strawberry
+ 7.22% : packet
+ 2.24% : grocery store
+ 1.18% : Granny Smith
+ 1.07% : shopping basket
+ 0.99% : hamper
+ 0.97% : meat loaf
+ 0.96% : confectionery
+ 0.39% : pineapple
+ 0.31% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q032.jpg
+77.13% : strawberry
+ 6.11% : packet
+ 2.25% : grocery store
+ 1.07% : Granny Smith
+ 0.97% : hamper
+ 0.96% : shopping basket
+ 0.79% : meat loaf
+ 0.72% : confectionery
+ 0.35% : pineapple
+ 0.30% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q033.jpg
+78.90% : strawberry
+ 6.11% : packet
+ 2.05% : grocery store
+ 0.92% : shopping basket
+ 0.90% : Granny Smith
+ 0.78% : hamper
+ 0.71% : meat loaf
+ 0.64% : confectionery
+ 0.31% : pineapple
+ 0.27% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q034.jpg
+82.06% : strawberry
+ 5.17% : packet
+ 1.76% : grocery store
+ 0.86% : Granny Smith
+ 0.70% : shopping basket
+ 0.61% : hamper
+ 0.56% : meat loaf
+ 0.48% : confectionery
+ 0.21% : vending machine
+ 0.21% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q035.jpg
+83.48% : strawberry
+ 4.35% : packet
+ 1.69% : grocery store
+ 0.79% : Granny Smith
+ 0.65% : shopping basket
+ 0.59% : hamper
+ 0.56% : meat loaf
+ 0.39% : confectionery
+ 0.25% : pineapple
+ 0.20% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q036.jpg
+84.77% : strawberry
+ 4.00% : packet
+ 1.64% : grocery store
+ 0.65% : Granny Smith
+ 0.58% : shopping basket
+ 0.53% : hamper
+ 0.43% : meat loaf
+ 0.33% : confectionery
+ 0.24% : pineapple
+ 0.18% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q037.jpg
+85.24% : strawberry
+ 3.95% : packet
+ 1.56% : grocery store
+ 0.65% : Granny Smith
+ 0.57% : shopping basket
+ 0.52% : hamper
+ 0.43% : meat loaf
+ 0.30% : confectionery
+ 0.23% : pineapple
+ 0.20% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q038.jpg
+78.58% : strawberry
+ 5.60% : packet
+ 2.14% : grocery store
+ 1.09% : Granny Smith
+ 0.84% : meat loaf
+ 0.80% : shopping basket
+ 0.67% : hamper
+ 0.47% : confectionery
+ 0.31% : pineapple
+ 0.29% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q039.jpg
+79.58% : strawberry
+ 5.88% : packet
+ 1.94% : grocery store
+ 0.90% : Granny Smith
+ 0.75% : shopping basket
+ 0.68% : hamper
+ 0.61% : meat loaf
+ 0.54% : confectionery
+ 0.27% : vending machine
+ 0.26% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q040.jpg
+80.62% : strawberry
+ 5.62% : packet
+ 1.81% : grocery store
+ 0.83% : Granny Smith
+ 0.73% : hamper
+ 0.68% : shopping basket
+ 0.58% : confectionery
+ 0.51% : meat loaf
+ 0.27% : pineapple
+ 0.24% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q041.jpg
+79.50% : strawberry
+ 5.85% : packet
+ 1.96% : grocery store
+ 0.87% : Granny Smith
+ 0.81% : hamper
+ 0.69% : shopping basket
+ 0.58% : confectionery
+ 0.48% : meat loaf
+ 0.28% : vending machine
+ 0.27% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q042.jpg
+77.85% : strawberry
+ 6.49% : packet
+ 2.05% : grocery store
+ 1.05% : Granny Smith
+ 0.74% : hamper
+ 0.72% : shopping basket
+ 0.61% : meat loaf
+ 0.59% : confectionery
+ 0.29% : pineapple
+ 0.29% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q043.jpg
+76.29% : strawberry
+ 7.06% : packet
+ 2.11% : grocery store
+ 1.11% : Granny Smith
+ 0.84% : hamper
+ 0.84% : shopping basket
+ 0.62% : confectionery
+ 0.56% : meat loaf
+ 0.32% : bell pepper
+ 0.31% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q044.jpg
+78.64% : strawberry
+ 6.01% : packet
+ 2.02% : grocery store
+ 0.99% : Granny Smith
+ 0.75% : hamper
+ 0.75% : shopping basket
+ 0.64% : confectionery
+ 0.51% : meat loaf
+ 0.31% : bell pepper
+ 0.27% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q045.jpg
+81.36% : strawberry
+ 5.46% : packet
+ 1.70% : grocery store
+ 0.85% : Granny Smith
+ 0.69% : shopping basket
+ 0.63% : hamper
+ 0.56% : confectionery
+ 0.42% : meat loaf
+ 0.26% : pineapple
+ 0.25% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q046.jpg
+81.88% : strawberry
+ 5.36% : packet
+ 1.76% : grocery store
+ 0.72% : Granny Smith
+ 0.65% : shopping basket
+ 0.59% : hamper
+ 0.46% : meat loaf
+ 0.45% : confectionery
+ 0.26% : bell pepper
+ 0.25% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q047.jpg
+82.13% : strawberry
+ 5.29% : packet
+ 1.73% : grocery store
+ 0.73% : Granny Smith
+ 0.65% : shopping basket
+ 0.59% : hamper
+ 0.47% : meat loaf
+ 0.42% : confectionery
+ 0.24% : pineapple
+ 0.23% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q048.jpg
+82.08% : strawberry
+ 5.30% : packet
+ 1.68% : grocery store
+ 0.74% : Granny Smith
+ 0.68% : shopping basket
+ 0.64% : hamper
+ 0.46% : confectionery
+ 0.42% : meat loaf
+ 0.26% : pineapple
+ 0.25% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q049.jpg
+80.51% : strawberry
+ 5.82% : packet
+ 1.82% : grocery store
+ 0.78% : Granny Smith
+ 0.73% : confectionery
+ 0.70% : shopping basket
+ 0.65% : hamper
+ 0.43% : meat loaf
+ 0.27% : pineapple
+ 0.26% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q050.jpg
+80.29% : strawberry
+ 5.84% : packet
+ 1.82% : grocery store
+ 0.80% : Granny Smith
+ 0.72% : confectionery
+ 0.69% : shopping basket
+ 0.64% : hamper
+ 0.43% : meat loaf
+ 0.27% : pineapple
+ 0.27% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q051.jpg
+80.44% : strawberry
+ 5.55% : packet
+ 1.82% : grocery store
+ 0.82% : Granny Smith
+ 0.70% : shopping basket
+ 0.70% : confectionery
+ 0.64% : hamper
+ 0.45% : meat loaf
+ 0.27% : pineapple
+ 0.26% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q052.jpg
+81.91% : strawberry
+ 4.71% : packet
+ 1.78% : grocery store
+ 0.72% : shopping basket
+ 0.71% : Granny Smith
+ 0.68% : hamper
+ 0.52% : confectionery
+ 0.45% : meat loaf
+ 0.27% : vending machine
+ 0.26% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q053.jpg
+83.90% : strawberry
+ 4.15% : packet
+ 1.56% : grocery store
+ 0.65% : shopping basket
+ 0.65% : Granny Smith
+ 0.58% : hamper
+ 0.44% : confectionery
+ 0.40% : meat loaf
+ 0.23% : pineapple
+ 0.21% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q054.jpg
+82.38% : strawberry
+ 4.48% : packet
+ 1.70% : grocery store
+ 0.76% : Granny Smith
+ 0.70% : shopping basket
+ 0.60% : hamper
+ 0.53% : meat loaf
+ 0.47% : confectionery
+ 0.25% : pineapple
+ 0.22% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q055.jpg
+82.43% : strawberry
+ 4.20% : packet
+ 1.79% : grocery store
+ 0.81% : Granny Smith
+ 0.71% : shopping basket
+ 0.62% : hamper
+ 0.52% : meat loaf
+ 0.51% : confectionery
+ 0.26% : pineapple
+ 0.24% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q056.jpg
+83.05% : strawberry
+ 4.08% : packet
+ 1.57% : grocery store
+ 0.81% : Granny Smith
+ 0.66% : shopping basket
+ 0.60% : hamper
+ 0.54% : meat loaf
+ 0.48% : confectionery
+ 0.23% : pineapple
+ 0.21% : tray
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q057.jpg
+80.50% : strawberry
+ 5.29% : packet
+ 1.78% : grocery store
+ 0.93% : Granny Smith
+ 0.70% : shopping basket
+ 0.68% : hamper
+ 0.61% : meat loaf
+ 0.54% : confectionery
+ 0.24% : pineapple
+ 0.24% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q058.jpg
+80.72% : strawberry
+ 5.11% : packet
+ 1.90% : grocery store
+ 0.98% : Granny Smith
+ 0.72% : shopping basket
+ 0.63% : hamper
+ 0.56% : meat loaf
+ 0.49% : confectionery
+ 0.27% : vending machine
+ 0.25% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q059.jpg
+81.75% : strawberry
+ 5.12% : packet
+ 1.85% : grocery store
+ 0.87% : Granny Smith
+ 0.68% : shopping basket
+ 0.53% : hamper
+ 0.51% : confectionery
+ 0.50% : meat loaf
+ 0.25% : vending machine
+ 0.23% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q060.jpg
+82.85% : strawberry
+ 4.87% : packet
+ 1.85% : grocery store
+ 0.77% : Granny Smith
+ 0.62% : shopping basket
+ 0.47% : hamper
+ 0.45% : confectionery
+ 0.45% : meat loaf
+ 0.23% : vending machine
+ 0.22% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q061.jpg
+80.08% : strawberry
+ 6.20% : packet
+ 1.90% : grocery store
+ 0.97% : Granny Smith
+ 0.70% : shopping basket
+ 0.59% : hamper
+ 0.53% : confectionery
+ 0.46% : meat loaf
+ 0.24% : bell pepper
+ 0.24% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q062.jpg
+80.96% : strawberry
+ 5.48% : packet
+ 1.73% : grocery store
+ 0.89% : Granny Smith
+ 0.68% : shopping basket
+ 0.57% : hamper
+ 0.51% : meat loaf
+ 0.47% : confectionery
+ 0.24% : pineapple
+ 0.22% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q063.jpg
+78.15% : strawberry
+ 6.54% : packet
+ 1.93% : grocery store
+ 1.04% : Granny Smith
+ 0.74% : shopping basket
+ 0.68% : hamper
+ 0.65% : meat loaf
+ 0.56% : confectionery
+ 0.28% : vending machine
+ 0.27% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q064.jpg
+76.62% : strawberry
+ 7.00% : packet
+ 2.03% : grocery store
+ 1.10% : Granny Smith
+ 0.79% : shopping basket
+ 0.76% : meat loaf
+ 0.71% : hamper
+ 0.67% : confectionery
+ 0.36% : vending machine
+ 0.29% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q065.jpg
+78.55% : strawberry
+ 5.90% : packet
+ 1.80% : grocery store
+ 1.10% : Granny Smith
+ 0.77% : shopping basket
+ 0.72% : meat loaf
+ 0.65% : hamper
+ 0.53% : confectionery
+ 0.32% : vending machine
+ 0.26% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q066.jpg
+78.43% : strawberry
+ 5.57% : packet
+ 1.81% : grocery store
+ 1.12% : Granny Smith
+ 0.74% : shopping basket
+ 0.69% : meat loaf
+ 0.63% : confectionery
+ 0.62% : hamper
+ 0.34% : vending machine
+ 0.27% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q067.jpg
+80.78% : strawberry
+ 4.85% : packet
+ 1.68% : grocery store
+ 1.02% : Granny Smith
+ 0.70% : shopping basket
+ 0.61% : confectionery
+ 0.59% : meat loaf
+ 0.57% : hamper
+ 0.26% : vending machine
+ 0.25% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q068.jpg
+82.87% : strawberry
+ 4.77% : packet
+ 1.38% : grocery store
+ 0.87% : Granny Smith
+ 0.56% : meat loaf
+ 0.56% : shopping basket
+ 0.46% : confectionery
+ 0.45% : hamper
+ 0.23% : vending machine
+ 0.20% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q069.jpg
+82.00% : strawberry
+ 5.01% : packet
+ 1.58% : grocery store
+ 0.89% : Granny Smith
+ 0.58% : shopping basket
+ 0.54% : meat loaf
+ 0.51% : confectionery
+ 0.47% : hamper
+ 0.25% : vending machine
+ 0.21% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q070.jpg
+83.07% : strawberry
+ 4.63% : packet
+ 1.60% : grocery store
+ 0.80% : Granny Smith
+ 0.61% : shopping basket
+ 0.51% : hamper
+ 0.50% : meat loaf
+ 0.49% : confectionery
+ 0.23% : vending machine
+ 0.20% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q071.jpg
+79.78% : strawberry
+ 5.72% : packet
+ 1.92% : grocery store
+ 0.93% : Granny Smith
+ 0.72% : shopping basket
+ 0.67% : hamper
+ 0.58% : meat loaf
+ 0.54% : confectionery
+ 0.27% : vending machine
+ 0.25% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q072.jpg
+76.92% : strawberry
+ 6.15% : packet
+ 2.31% : grocery store
+ 1.07% : Granny Smith
+ 0.84% : shopping basket
+ 0.77% : hamper
+ 0.68% : meat loaf
+ 0.65% : confectionery
+ 0.31% : vending machine
+ 0.28% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q073.jpg
+78.30% : strawberry
+ 5.82% : packet
+ 2.14% : grocery store
+ 0.99% : Granny Smith
+ 0.75% : shopping basket
+ 0.68% : hamper
+ 0.60% : meat loaf
+ 0.60% : confectionery
+ 0.31% : vending machine
+ 0.27% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q074.jpg
+79.92% : strawberry
+ 5.53% : packet
+ 1.96% : grocery store
+ 0.90% : Granny Smith
+ 0.72% : shopping basket
+ 0.61% : hamper
+ 0.50% : confectionery
+ 0.45% : meat loaf
+ 0.27% : vending machine
+ 0.26% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q075.jpg
+80.93% : strawberry
+ 5.37% : packet
+ 1.84% : grocery store
+ 0.83% : Granny Smith
+ 0.67% : shopping basket
+ 0.59% : hamper
+ 0.49% : confectionery
+ 0.41% : meat loaf
+ 0.25% : vending machine
+ 0.25% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q076.jpg
+83.42% : strawberry
+ 4.55% : packet
+ 1.59% : grocery store
+ 0.69% : Granny Smith
+ 0.61% : shopping basket
+ 0.49% : hamper
+ 0.44% : confectionery
+ 0.37% : meat loaf
+ 0.23% : pineapple
+ 0.22% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q077.jpg
+83.83% : strawberry
+ 4.51% : packet
+ 1.48% : grocery store
+ 0.73% : Granny Smith
+ 0.62% : shopping basket
+ 0.54% : hamper
+ 0.41% : confectionery
+ 0.35% : meat loaf
+ 0.23% : pineapple
+ 0.21% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q078.jpg
+82.02% : strawberry
+ 5.66% : packet
+ 1.56% : grocery store
+ 0.83% : Granny Smith
+ 0.64% : shopping basket
+ 0.60% : hamper
+ 0.48% : confectionery
+ 0.36% : meat loaf
+ 0.24% : pineapple
+ 0.21% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q079.jpg
+81.93% : strawberry
+ 5.74% : packet
+ 1.67% : grocery store
+ 0.83% : Granny Smith
+ 0.62% : shopping basket
+ 0.56% : hamper
+ 0.54% : confectionery
+ 0.34% : meat loaf
+ 0.22% : pineapple
+ 0.21% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q080.jpg
+80.93% : strawberry
+ 5.91% : packet
+ 1.77% : grocery store
+ 0.84% : Granny Smith
+ 0.68% : shopping basket
+ 0.62% : hamper
+ 0.59% : confectionery
+ 0.37% : meat loaf
+ 0.22% : pineapple
+ 0.21% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q081.jpg
+85.26% : strawberry
+ 4.32% : packet
+ 1.41% : grocery store
+ 0.65% : Granny Smith
+ 0.59% : shopping basket
+ 0.46% : hamper
+ 0.43% : confectionery
+ 0.25% : meat loaf
+ 0.18% : pineapple
+ 0.18% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q082.jpg
+84.19% : strawberry
+ 4.80% : packet
+ 1.43% : grocery store
+ 0.68% : Granny Smith
+ 0.64% : shopping basket
+ 0.54% : hamper
+ 0.46% : confectionery
+ 0.26% : meat loaf
+ 0.20% : pineapple
+ 0.18% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q083.jpg
+83.44% : strawberry
+ 4.83% : packet
+ 1.44% : grocery store
+ 0.74% : Granny Smith
+ 0.66% : shopping basket
+ 0.59% : hamper
+ 0.44% : confectionery
+ 0.31% : meat loaf
+ 0.22% : pineapple
+ 0.21% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q084.jpg
+80.00% : strawberry
+ 5.59% : packet
+ 1.85% : grocery store
+ 0.87% : Granny Smith
+ 0.83% : shopping basket
+ 0.74% : hamper
+ 0.57% : confectionery
+ 0.35% : meat loaf
+ 0.26% : pineapple
+ 0.25% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q085.jpg
+80.59% : strawberry
+ 5.49% : packet
+ 1.69% : grocery store
+ 0.79% : Granny Smith
+ 0.71% : shopping basket
+ 0.65% : hamper
+ 0.49% : confectionery
+ 0.38% : meat loaf
+ 0.27% : vending machine
+ 0.26% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q086.jpg
+77.55% : strawberry
+ 6.16% : packet
+ 2.13% : grocery store
+ 0.90% : Granny Smith
+ 0.82% : shopping basket
+ 0.69% : hamper
+ 0.62% : confectionery
+ 0.47% : meat loaf
+ 0.31% : vending machine
+ 0.28% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q087.jpg
+79.34% : strawberry
+ 5.50% : packet
+ 1.95% : grocery store
+ 0.86% : shopping basket
+ 0.86% : Granny Smith
+ 0.67% : hamper
+ 0.62% : confectionery
+ 0.42% : meat loaf
+ 0.27% : vending machine
+ 0.25% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q088.jpg
+79.48% : strawberry
+ 5.64% : packet
+ 1.97% : grocery store
+ 0.90% : Granny Smith
+ 0.88% : shopping basket
+ 0.65% : hamper
+ 0.65% : confectionery
+ 0.42% : meat loaf
+ 0.28% : vending machine
+ 0.25% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q089.jpg
+79.73% : strawberry
+ 5.66% : packet
+ 2.00% : grocery store
+ 0.89% : Granny Smith
+ 0.81% : shopping basket
+ 0.61% : confectionery
+ 0.59% : hamper
+ 0.42% : meat loaf
+ 0.26% : vending machine
+ 0.25% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q090.jpg
+80.00% : strawberry
+ 5.31% : packet
+ 1.97% : grocery store
+ 0.89% : Granny Smith
+ 0.81% : shopping basket
+ 0.60% : hamper
+ 0.56% : confectionery
+ 0.42% : meat loaf
+ 0.27% : pineapple
+ 0.27% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q091.jpg
+78.42% : strawberry
+ 5.81% : packet
+ 2.10% : grocery store
+ 0.98% : Granny Smith
+ 0.88% : shopping basket
+ 0.73% : hamper
+ 0.54% : confectionery
+ 0.48% : meat loaf
+ 0.28% : pineapple
+ 0.27% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q092.jpg
+80.08% : strawberry
+ 5.63% : packet
+ 1.87% : grocery store
+ 0.84% : Granny Smith
+ 0.83% : shopping basket
+ 0.69% : hamper
+ 0.55% : confectionery
+ 0.43% : meat loaf
+ 0.28% : pineapple
+ 0.23% : fig
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q093.jpg
+84.73% : strawberry
+ 4.30% : packet
+ 1.25% : grocery store
+ 0.63% : Granny Smith
+ 0.51% : shopping basket
+ 0.48% : hamper
+ 0.42% : confectionery
+ 0.32% : meat loaf
+ 0.23% : fig
+ 0.19% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q094.jpg
+81.71% : strawberry
+ 5.47% : packet
+ 1.49% : grocery store
+ 0.72% : Granny Smith
+ 0.63% : shopping basket
+ 0.56% : hamper
+ 0.55% : confectionery
+ 0.40% : meat loaf
+ 0.25% : fig
+ 0.23% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q095.jpg
+80.64% : strawberry
+ 5.83% : packet
+ 1.55% : grocery store
+ 0.76% : Granny Smith
+ 0.66% : shopping basket
+ 0.59% : hamper
+ 0.56% : confectionery
+ 0.39% : meat loaf
+ 0.27% : fig
+ 0.24% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q096.jpg
+82.22% : strawberry
+ 5.06% : packet
+ 1.50% : grocery store
+ 0.75% : Granny Smith
+ 0.63% : shopping basket
+ 0.54% : hamper
+ 0.50% : confectionery
+ 0.36% : meat loaf
+ 0.23% : fig
+ 0.22% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q097.jpg
+82.15% : strawberry
+ 5.01% : packet
+ 1.50% : grocery store
+ 0.73% : Granny Smith
+ 0.65% : shopping basket
+ 0.54% : hamper
+ 0.49% : confectionery
+ 0.38% : meat loaf
+ 0.22% : pineapple
+ 0.22% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q098.jpg
+80.92% : strawberry
+ 5.23% : packet
+ 1.67% : grocery store
+ 0.78% : Granny Smith
+ 0.67% : shopping basket
+ 0.56% : confectionery
+ 0.55% : hamper
+ 0.41% : meat loaf
+ 0.23% : fig
+ 0.23% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q099.jpg
+81.31% : strawberry
+ 5.22% : packet
+ 1.66% : grocery store
+ 0.80% : Granny Smith
+ 0.69% : shopping basket
+ 0.56% : hamper
+ 0.53% : confectionery
+ 0.35% : meat loaf
+ 0.23% : fig
+ 0.23% : vending machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/strawberries/strawberry5Q100.jpg
+80.52% : strawberry
+ 5.75% : packet
+ 1.71% : grocery store
+ 0.79% : Granny Smith
+ 0.71% : shopping basket
+ 0.58% : hamper
+ 0.58% : confectionery
+ 0.40% : meat loaf
+ 0.24% : fig
+ 0.23% : pineapple

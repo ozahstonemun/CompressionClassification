@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q001.jpg
+79.81% : bell pepper
+ 2.51% : head cabbage
+ 1.06% : candle
+ 0.70% : toyshop
+ 0.65% : green snake
+ 0.55% : acorn squash
+ 0.53% : tailed frog
+ 0.47% : confectionery
+ 0.38% : tree frog
+ 0.37% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q002.jpg
+79.81% : bell pepper
+ 2.51% : head cabbage
+ 1.06% : candle
+ 0.70% : toyshop
+ 0.65% : green snake
+ 0.55% : acorn squash
+ 0.53% : tailed frog
+ 0.47% : confectionery
+ 0.38% : tree frog
+ 0.37% : piggy bank
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q003.jpg
+81.64% : bell pepper
+ 2.65% : head cabbage
+ 0.89% : candle
+ 0.68% : acorn squash
+ 0.63% : green snake
+ 0.52% : tailed frog
+ 0.43% : confectionery
+ 0.34% : honeycomb
+ 0.34% : toyshop
+ 0.33% : tree frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q004.jpg
+98.57% : bell pepper
+ 0.19% : acorn squash
+ 0.11% : head cabbage
+ 0.07% : tailed frog
+ 0.04% : grocery store
+ 0.04% : tree frog
+ 0.03% : pot
+ 0.01% : artichoke
+ 0.01% : Granny Smith
+ 0.01% : green snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q005.jpg
+98.81% : bell pepper
+ 0.08% : acorn squash
+ 0.04% : grocery store
+ 0.02% : tailed frog
+ 0.02% : head cabbage
+ 0.01% : Granny Smith
+ 0.01% : tree frog
+ 0.01% : artichoke
+ 0.01% : cucumber
+ 0.01% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q006.jpg
+95.32% : bell pepper
+ 0.22% : acorn squash
+ 0.21% : grocery store
+ 0.10% : tailed frog
+ 0.08% : tree frog
+ 0.07% : head cabbage
+ 0.05% : artichoke
+ 0.05% : cucumber
+ 0.03% : Granny Smith
+ 0.03% : green mamba
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q007.jpg
+98.30% : bell pepper
+ 0.11% : grocery store
+ 0.05% : acorn squash
+ 0.03% : tree frog
+ 0.03% : tailed frog
+ 0.02% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : head cabbage
+ 0.02% : artichoke
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q008.jpg
+95.27% : bell pepper
+ 0.21% : grocery store
+ 0.14% : acorn squash
+ 0.05% : cucumber
+ 0.04% : head cabbage
+ 0.04% : Granny Smith
+ 0.03% : tree frog
+ 0.03% : tailed frog
+ 0.03% : artichoke
+ 0.02% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q009.jpg
+96.38% : bell pepper
+ 0.19% : grocery store
+ 0.09% : acorn squash
+ 0.03% : cucumber
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : artichoke
+ 0.02% : tree frog
+ 0.02% : tailed frog
+ 0.02% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q010.jpg
+94.17% : bell pepper
+ 0.25% : grocery store
+ 0.12% : acorn squash
+ 0.06% : cucumber
+ 0.03% : Granny Smith
+ 0.03% : tree frog
+ 0.03% : artichoke
+ 0.03% : stove
+ 0.03% : head cabbage
+ 0.03% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q011.jpg
+96.08% : bell pepper
+ 0.24% : grocery store
+ 0.06% : acorn squash
+ 0.04% : cucumber
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : artichoke
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q012.jpg
+97.24% : bell pepper
+ 0.18% : grocery store
+ 0.04% : acorn squash
+ 0.03% : cucumber
+ 0.02% : stove
+ 0.02% : tree frog
+ 0.02% : zucchini
+ 0.01% : mailbag
+ 0.01% : artichoke
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q013.jpg
+95.54% : bell pepper
+ 0.21% : grocery store
+ 0.06% : acorn squash
+ 0.06% : cucumber
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : artichoke
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q014.jpg
+97.13% : bell pepper
+ 0.16% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.02% : tree frog
+ 0.02% : stove
+ 0.02% : zucchini
+ 0.02% : Granny Smith
+ 0.01% : tailed frog
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q015.jpg
+96.70% : bell pepper
+ 0.19% : grocery store
+ 0.04% : acorn squash
+ 0.04% : cucumber
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.02% : tree frog
+ 0.02% : mailbag
+ 0.02% : artichoke
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q016.jpg
+96.11% : bell pepper
+ 0.22% : grocery store
+ 0.05% : acorn squash
+ 0.05% : cucumber
+ 0.03% : stove
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q017.jpg
+95.25% : bell pepper
+ 0.26% : grocery store
+ 0.06% : cucumber
+ 0.05% : acorn squash
+ 0.03% : stove
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.02% : mailbag
+ 0.02% : Norfolk terrier
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q018.jpg
+95.94% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : Norfolk terrier
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q019.jpg
+96.79% : bell pepper
+ 0.19% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : Norfolk terrier
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q020.jpg
+96.98% : bell pepper
+ 0.16% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.03% : tree frog
+ 0.02% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q021.jpg
+96.47% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.02% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q022.jpg
+96.26% : bell pepper
+ 0.26% : grocery store
+ 0.05% : cucumber
+ 0.03% : acorn squash
+ 0.02% : tree frog
+ 0.02% : stove
+ 0.02% : zucchini
+ 0.02% : mailbag
+ 0.02% : tailed frog
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q023.jpg
+96.42% : bell pepper
+ 0.23% : grocery store
+ 0.06% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.02% : mailbag
+ 0.02% : tailed frog
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q024.jpg
+96.52% : bell pepper
+ 0.20% : grocery store
+ 0.05% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : tree frog
+ 0.02% : mailbag
+ 0.02% : Norfolk terrier
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q025.jpg
+96.67% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tree frog
+ 0.02% : mailbag
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q026.jpg
+96.24% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : tree frog
+ 0.02% : mailbag
+ 0.02% : Norfolk terrier
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q027.jpg
+96.24% : bell pepper
+ 0.23% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q028.jpg
+95.49% : bell pepper
+ 0.27% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : tailed frog
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q029.jpg
+95.98% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : tailed frog
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q030.jpg
+96.33% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q031.jpg
+95.76% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : tailed frog
+ 0.02% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q032.jpg
+96.34% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : tree frog
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q033.jpg
+95.88% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.03% : stove
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : Labrador retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q034.jpg
+95.36% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.03% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q035.jpg
+96.47% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.02% : stove
+ 0.02% : zucchini
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q036.jpg
+96.39% : bell pepper
+ 0.20% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.02% : zucchini
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q037.jpg
+96.26% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.02% : zucchini
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q038.jpg
+95.76% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q039.jpg
+95.71% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.03% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q040.jpg
+95.59% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : acorn squash
+ 0.03% : mailbag
+ 0.02% : tailed frog
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q041.jpg
+95.56% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.03% : stove
+ 0.03% : mailbag
+ 0.02% : tailed frog
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q042.jpg
+95.61% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : mailbag
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q043.jpg
+95.68% : bell pepper
+ 0.24% : grocery store
+ 0.06% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q044.jpg
+95.40% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.03% : stove
+ 0.03% : tailed frog
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q045.jpg
+95.68% : bell pepper
+ 0.23% : grocery store
+ 0.04% : cucumber
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : mailbag
+ 0.02% : tailed frog
+ 0.02% : pencil sharpener
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q046.jpg
+95.09% : bell pepper
+ 0.25% : grocery store
+ 0.06% : cucumber
+ 0.04% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.03% : acorn squash
+ 0.03% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q047.jpg
+95.53% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.03% : tree frog
+ 0.03% : acorn squash
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q048.jpg
+95.55% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.03% : stove
+ 0.03% : tree frog
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q049.jpg
+95.87% : bell pepper
+ 0.23% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q050.jpg
+95.93% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tree frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q051.jpg
+95.95% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q052.jpg
+95.30% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.03% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q053.jpg
+95.54% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q054.jpg
+95.56% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q055.jpg
+96.05% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q056.jpg
+95.88% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q057.jpg
+96.05% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q058.jpg
+95.79% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q059.jpg
+95.72% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q060.jpg
+95.64% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q061.jpg
+95.50% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q062.jpg
+95.73% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q063.jpg
+95.63% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q064.jpg
+95.84% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+ 0.02% : tailed frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q065.jpg
+96.34% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q066.jpg
+96.25% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.03% : stove
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q067.jpg
+96.46% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q068.jpg
+96.32% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.03% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : Granny Smith
+ 0.02% : tailed frog
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q069.jpg
+95.67% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.04% : zucchini
+ 0.03% : stove
+ 0.03% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q070.jpg
+96.31% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.03% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q071.jpg
+96.37% : bell pepper
+ 0.20% : grocery store
+ 0.04% : cucumber
+ 0.04% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q072.jpg
+96.07% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q073.jpg
+95.84% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : tailed frog
+ 0.03% : Granny Smith
+ 0.02% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q074.jpg
+95.86% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.05% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.02% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q075.jpg
+95.84% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.02% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q076.jpg
+96.48% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q077.jpg
+96.33% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.02% : tailed frog
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q078.jpg
+96.22% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.02% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q079.jpg
+96.27% : bell pepper
+ 0.22% : grocery store
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.02% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q080.jpg
+96.51% : bell pepper
+ 0.20% : grocery store
+ 0.04% : cucumber
+ 0.03% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : tailed frog
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q081.jpg
+96.34% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.03% : tree frog
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q082.jpg
+96.27% : bell pepper
+ 0.21% : grocery store
+ 0.04% : cucumber
+ 0.03% : acorn squash
+ 0.03% : tree frog
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q083.jpg
+96.27% : bell pepper
+ 0.20% : grocery store
+ 0.04% : cucumber
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : tailed frog
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q084.jpg
+95.93% : bell pepper
+ 0.21% : grocery store
+ 0.04% : acorn squash
+ 0.04% : cucumber
+ 0.04% : tree frog
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : mailbag
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q085.jpg
+95.11% : bell pepper
+ 0.25% : grocery store
+ 0.05% : tree frog
+ 0.05% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.03% : mailbag
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q086.jpg
+94.90% : bell pepper
+ 0.26% : grocery store
+ 0.05% : tree frog
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : tailed frog
+ 0.03% : stove
+ 0.03% : mailbag
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q087.jpg
+95.37% : bell pepper
+ 0.24% : grocery store
+ 0.05% : tree frog
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q088.jpg
+95.36% : bell pepper
+ 0.23% : grocery store
+ 0.05% : tree frog
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : tailed frog
+ 0.03% : Granny Smith
+ 0.03% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q089.jpg
+95.13% : bell pepper
+ 0.24% : grocery store
+ 0.05% : tree frog
+ 0.05% : acorn squash
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.04% : tailed frog
+ 0.03% : Granny Smith
+ 0.03% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q090.jpg
+95.36% : bell pepper
+ 0.24% : grocery store
+ 0.05% : tree frog
+ 0.04% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q091.jpg
+95.33% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.05% : tree frog
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q092.jpg
+95.54% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : Granny Smith
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q093.jpg
+95.26% : bell pepper
+ 0.23% : grocery store
+ 0.05% : tree frog
+ 0.04% : cucumber
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : Granny Smith
+ 0.03% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q094.jpg
+95.28% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.05% : zucchini
+ 0.05% : tree frog
+ 0.04% : acorn squash
+ 0.03% : Granny Smith
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q095.jpg
+95.22% : bell pepper
+ 0.25% : grocery store
+ 0.05% : cucumber
+ 0.05% : zucchini
+ 0.05% : tree frog
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : Granny Smith
+ 0.03% : stove
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q096.jpg
+95.59% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.05% : zucchini
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.03% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q097.jpg
+95.74% : bell pepper
+ 0.22% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q098.jpg
+95.59% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q099.jpg
+95.59% : bell pepper
+ 0.23% : grocery store
+ 0.05% : cucumber
+ 0.04% : tree frog
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper14Q100.jpg
+95.50% : bell pepper
+ 0.24% : grocery store
+ 0.05% : cucumber
+ 0.04% : zucchini
+ 0.04% : tree frog
+ 0.04% : acorn squash
+ 0.03% : tailed frog
+ 0.03% : stove
+ 0.02% : Granny Smith
+ 0.02% : mailbag

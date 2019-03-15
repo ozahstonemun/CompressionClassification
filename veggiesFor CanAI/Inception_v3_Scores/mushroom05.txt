@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q001.jpg
+31.27% : coral fungus
+11.41% : gyromitra
+ 6.55% : earthstar
+ 5.92% : mushroom
+ 4.52% : bolete
+ 4.41% : coral reef
+ 4.39% : lumbermill
+ 3.46% : hen-of-the-woods
+ 2.05% : stinkhorn
+ 1.94% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q002.jpg
+31.24% : coral fungus
+11.53% : gyromitra
+ 6.54% : earthstar
+ 5.85% : mushroom
+ 4.55% : bolete
+ 4.44% : coral reef
+ 4.39% : lumbermill
+ 3.47% : hen-of-the-woods
+ 2.01% : stinkhorn
+ 1.99% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q003.jpg
+30.49% : coral fungus
+13.63% : gyromitra
+ 7.59% : lumbermill
+ 5.61% : coral reef
+ 5.03% : bolete
+ 4.33% : mushroom
+ 4.14% : earthstar
+ 3.47% : hen-of-the-woods
+ 2.57% : brain coral
+ 0.85% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q004.jpg
+49.89% : hen-of-the-woods
+12.92% : mushroom
+11.12% : coral fungus
+ 6.25% : earthstar
+ 6.16% : bolete
+ 5.76% : gyromitra
+ 0.74% : agaric
+ 0.49% : coral reef
+ 0.33% : brain coral
+ 0.28% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q005.jpg
+46.36% : bolete
+24.18% : mushroom
+ 9.41% : hen-of-the-woods
+ 5.26% : coral fungus
+ 2.42% : agaric
+ 2.36% : earthstar
+ 1.46% : brain coral
+ 0.62% : gyromitra
+ 0.35% : stinkhorn
+ 0.33% : coral reef
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q006.jpg
+32.56% : bolete
+23.11% : hen-of-the-woods
+ 9.94% : mushroom
+ 6.32% : earthstar
+ 4.16% : coral fungus
+ 3.24% : gyromitra
+ 2.77% : agaric
+ 1.50% : brain coral
+ 1.43% : stinkhorn
+ 0.64% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q007.jpg
+22.28% : mushroom
+21.69% : hen-of-the-woods
+21.67% : bolete
+ 3.49% : earthstar
+ 3.17% : coral fungus
+ 3.06% : gyromitra
+ 2.76% : agaric
+ 2.33% : bighorn
+ 1.70% : ram
+ 0.44% : brain coral
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q008.jpg
+23.06% : hen-of-the-woods
+17.72% : bolete
+17.00% : mushroom
+10.86% : earthstar
+ 6.90% : gyromitra
+ 3.90% : agaric
+ 2.97% : coral fungus
+ 0.80% : bighorn
+ 0.51% : stinkhorn
+ 0.41% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q009.jpg
+41.92% : hen-of-the-woods
+11.51% : earthstar
+ 9.63% : mushroom
+ 4.75% : bolete
+ 4.39% : gyromitra
+ 2.95% : agaric
+ 2.73% : coral fungus
+ 1.07% : bighorn
+ 0.75% : ram
+ 0.54% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q010.jpg
+34.28% : hen-of-the-woods
+17.75% : earthstar
+10.39% : mushroom
+ 8.69% : bolete
+ 3.92% : gyromitra
+ 2.90% : agaric
+ 2.38% : coral fungus
+ 0.79% : pickelhaube
+ 0.70% : stinkhorn
+ 0.40% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q011.jpg
+37.16% : hen-of-the-woods
+17.35% : mushroom
+ 9.83% : earthstar
+ 8.45% : bolete
+ 3.37% : coral fungus
+ 3.13% : gyromitra
+ 2.01% : agaric
+ 0.80% : pickelhaube
+ 0.58% : stinkhorn
+ 0.31% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q012.jpg
+40.72% : hen-of-the-woods
+25.78% : mushroom
+11.90% : bolete
+ 5.51% : earthstar
+ 2.20% : gyromitra
+ 1.98% : agaric
+ 1.64% : coral fungus
+ 0.35% : pickelhaube
+ 0.25% : stinkhorn
+ 0.23% : swab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q013.jpg
+36.62% : hen-of-the-woods
+17.35% : mushroom
+10.51% : earthstar
+ 8.96% : bolete
+ 3.16% : gyromitra
+ 2.59% : coral fungus
+ 2.04% : agaric
+ 0.53% : stinkhorn
+ 0.53% : bighorn
+ 0.51% : ram
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q014.jpg
+29.13% : hen-of-the-woods
+19.90% : mushroom
+17.32% : bolete
+13.66% : earthstar
+ 2.65% : gyromitra
+ 2.27% : coral fungus
+ 1.52% : agaric
+ 0.48% : stinkhorn
+ 0.48% : pickelhaube
+ 0.26% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q015.jpg
+33.05% : hen-of-the-woods
+19.29% : mushroom
+12.92% : earthstar
+12.06% : bolete
+ 2.44% : gyromitra
+ 2.41% : coral fungus
+ 1.65% : agaric
+ 0.63% : bighorn
+ 0.48% : ram
+ 0.41% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q016.jpg
+38.32% : hen-of-the-woods
+20.33% : mushroom
+10.58% : earthstar
+10.33% : bolete
+ 2.41% : coral fungus
+ 1.72% : gyromitra
+ 1.69% : agaric
+ 0.42% : pickelhaube
+ 0.38% : ram
+ 0.35% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q017.jpg
+30.47% : hen-of-the-woods
+20.95% : earthstar
+13.87% : mushroom
+12.62% : bolete
+ 3.41% : gyromitra
+ 2.02% : coral fungus
+ 1.63% : agaric
+ 0.51% : pickelhaube
+ 0.42% : bighorn
+ 0.37% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q018.jpg
+29.81% : hen-of-the-woods
+20.93% : mushroom
+15.68% : bolete
+13.66% : earthstar
+ 2.73% : gyromitra
+ 1.99% : agaric
+ 1.83% : coral fungus
+ 0.43% : pickelhaube
+ 0.31% : bighorn
+ 0.25% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q019.jpg
+28.51% : hen-of-the-woods
+16.84% : bolete
+16.84% : earthstar
+16.77% : mushroom
+ 3.88% : gyromitra
+ 1.68% : agaric
+ 1.67% : coral fungus
+ 0.37% : pickelhaube
+ 0.33% : dough
+ 0.27% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q020.jpg
+34.53% : hen-of-the-woods
+17.93% : mushroom
+14.06% : bolete
+13.06% : earthstar
+ 3.26% : gyromitra
+ 1.90% : coral fungus
+ 1.80% : agaric
+ 0.49% : bighorn
+ 0.34% : ram
+ 0.32% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q021.jpg
+31.74% : hen-of-the-woods
+18.24% : mushroom
+14.78% : bolete
+10.52% : earthstar
+ 3.12% : gyromitra
+ 1.95% : agaric
+ 1.90% : coral fungus
+ 0.52% : pickelhaube
+ 0.48% : bighorn
+ 0.42% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q022.jpg
+34.46% : hen-of-the-woods
+17.85% : mushroom
+12.15% : earthstar
+11.94% : bolete
+ 2.81% : gyromitra
+ 2.02% : coral fungus
+ 1.74% : agaric
+ 0.73% : bighorn
+ 0.66% : pickelhaube
+ 0.59% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q023.jpg
+27.21% : hen-of-the-woods
+21.70% : mushroom
+17.93% : bolete
+12.15% : earthstar
+ 3.35% : gyromitra
+ 1.81% : coral fungus
+ 1.65% : agaric
+ 0.45% : sewing machine
+ 0.34% : bighorn
+ 0.32% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q024.jpg
+26.58% : hen-of-the-woods
+22.45% : mushroom
+18.13% : bolete
+12.54% : earthstar
+ 3.43% : gyromitra
+ 1.99% : agaric
+ 1.63% : coral fungus
+ 0.50% : sewing machine
+ 0.34% : dough
+ 0.29% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q025.jpg
+32.31% : hen-of-the-woods
+21.64% : mushroom
+15.53% : bolete
+12.97% : earthstar
+ 3.05% : gyromitra
+ 2.05% : coral fungus
+ 1.12% : agaric
+ 0.37% : dough
+ 0.33% : bighorn
+ 0.31% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q026.jpg
+29.70% : hen-of-the-woods
+20.09% : bolete
+19.87% : mushroom
+11.10% : earthstar
+ 3.27% : gyromitra
+ 2.00% : coral fungus
+ 1.74% : agaric
+ 0.39% : sewing machine
+ 0.34% : pickelhaube
+ 0.30% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q027.jpg
+29.69% : hen-of-the-woods
+26.15% : mushroom
+15.36% : bolete
+ 9.97% : earthstar
+ 3.40% : gyromitra
+ 1.63% : coral fungus
+ 1.51% : agaric
+ 0.35% : acorn
+ 0.35% : sewing machine
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q028.jpg
+33.38% : hen-of-the-woods
+19.73% : mushroom
+14.66% : bolete
+11.80% : earthstar
+ 3.75% : gyromitra
+ 2.16% : coral fungus
+ 1.19% : agaric
+ 0.42% : sewing machine
+ 0.36% : acorn
+ 0.30% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q029.jpg
+33.00% : hen-of-the-woods
+20.91% : mushroom
+13.90% : bolete
+10.93% : earthstar
+ 3.86% : gyromitra
+ 2.20% : coral fungus
+ 1.47% : agaric
+ 0.40% : sewing machine
+ 0.35% : pickelhaube
+ 0.30% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q030.jpg
+24.67% : hen-of-the-woods
+22.36% : mushroom
+20.54% : bolete
+10.37% : earthstar
+ 3.96% : gyromitra
+ 2.00% : agaric
+ 1.75% : coral fungus
+ 0.31% : stinkhorn
+ 0.31% : sewing machine
+ 0.27% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q031.jpg
+27.89% : mushroom
+25.90% : hen-of-the-woods
+19.01% : bolete
+ 9.51% : earthstar
+ 3.41% : gyromitra
+ 1.92% : agaric
+ 1.36% : coral fungus
+ 0.27% : sewing machine
+ 0.26% : stinkhorn
+ 0.23% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q032.jpg
+29.78% : hen-of-the-woods
+24.31% : mushroom
+17.36% : bolete
+ 9.21% : earthstar
+ 3.52% : gyromitra
+ 1.87% : agaric
+ 1.68% : coral fungus
+ 0.31% : pickelhaube
+ 0.27% : stinkhorn
+ 0.25% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q033.jpg
+26.84% : mushroom
+24.61% : hen-of-the-woods
+20.44% : bolete
+10.06% : earthstar
+ 3.30% : gyromitra
+ 1.84% : agaric
+ 1.56% : coral fungus
+ 0.29% : stinkhorn
+ 0.27% : sewing machine
+ 0.25% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q034.jpg
+27.63% : mushroom
+25.36% : hen-of-the-woods
+22.08% : bolete
+ 7.62% : earthstar
+ 2.88% : gyromitra
+ 1.76% : agaric
+ 1.63% : coral fungus
+ 0.34% : sewing machine
+ 0.25% : stinkhorn
+ 0.24% : pickelhaube
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q035.jpg
+30.05% : mushroom
+22.17% : hen-of-the-woods
+19.70% : bolete
+ 9.12% : earthstar
+ 2.76% : gyromitra
+ 2.16% : agaric
+ 1.44% : coral fungus
+ 0.30% : bighorn
+ 0.27% : ram
+ 0.26% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q036.jpg
+27.48% : mushroom
+27.47% : hen-of-the-woods
+15.95% : bolete
+10.17% : earthstar
+ 3.41% : gyromitra
+ 2.02% : coral fungus
+ 1.58% : agaric
+ 0.32% : bighorn
+ 0.31% : stinkhorn
+ 0.28% : ram
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q037.jpg
+27.66% : mushroom
+26.38% : hen-of-the-woods
+16.43% : bolete
+10.78% : earthstar
+ 3.33% : gyromitra
+ 1.98% : coral fungus
+ 1.52% : agaric
+ 0.35% : bighorn
+ 0.32% : stinkhorn
+ 0.31% : ram
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q038.jpg
+32.82% : mushroom
+22.60% : hen-of-the-woods
+15.51% : bolete
+ 9.88% : earthstar
+ 3.05% : gyromitra
+ 1.95% : agaric
+ 1.73% : coral fungus
+ 0.31% : sewing machine
+ 0.29% : stinkhorn
+ 0.28% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q039.jpg
+33.53% : mushroom
+23.61% : hen-of-the-woods
+14.83% : bolete
+ 8.89% : earthstar
+ 3.15% : gyromitra
+ 1.99% : agaric
+ 1.65% : coral fungus
+ 0.31% : sewing machine
+ 0.26% : stinkhorn
+ 0.26% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q040.jpg
+38.09% : mushroom
+21.09% : hen-of-the-woods
+16.93% : bolete
+ 7.23% : earthstar
+ 2.92% : gyromitra
+ 1.95% : agaric
+ 1.46% : coral fungus
+ 0.26% : stinkhorn
+ 0.24% : acorn
+ 0.22% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q041.jpg
+38.20% : mushroom
+20.28% : hen-of-the-woods
+17.93% : bolete
+ 6.50% : earthstar
+ 2.91% : gyromitra
+ 1.98% : agaric
+ 1.44% : coral fungus
+ 0.26% : stinkhorn
+ 0.23% : acorn
+ 0.20% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q042.jpg
+38.77% : mushroom
+18.52% : hen-of-the-woods
+16.84% : bolete
+ 7.96% : earthstar
+ 2.90% : gyromitra
+ 1.90% : agaric
+ 1.25% : coral fungus
+ 0.26% : stinkhorn
+ 0.24% : acorn
+ 0.23% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q043.jpg
+40.02% : mushroom
+18.72% : hen-of-the-woods
+16.60% : bolete
+ 7.30% : earthstar
+ 2.73% : gyromitra
+ 1.81% : agaric
+ 1.24% : coral fungus
+ 0.25% : stinkhorn
+ 0.24% : acorn
+ 0.24% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q044.jpg
+39.93% : mushroom
+20.72% : bolete
+17.39% : hen-of-the-woods
+ 6.87% : earthstar
+ 3.31% : gyromitra
+ 1.49% : agaric
+ 1.23% : coral fungus
+ 0.26% : acorn
+ 0.24% : stinkhorn
+ 0.17% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q045.jpg
+38.23% : mushroom
+20.35% : bolete
+19.06% : hen-of-the-woods
+ 7.17% : earthstar
+ 3.23% : gyromitra
+ 1.56% : agaric
+ 1.20% : coral fungus
+ 0.24% : acorn
+ 0.23% : stinkhorn
+ 0.18% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q046.jpg
+40.11% : mushroom
+20.43% : hen-of-the-woods
+18.83% : bolete
+ 6.73% : earthstar
+ 2.51% : gyromitra
+ 1.49% : agaric
+ 1.16% : coral fungus
+ 0.21% : acorn
+ 0.19% : sewing machine
+ 0.19% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q047.jpg
+38.95% : mushroom
+21.65% : hen-of-the-woods
+18.42% : bolete
+ 6.90% : earthstar
+ 2.57% : gyromitra
+ 1.48% : agaric
+ 1.17% : coral fungus
+ 0.22% : acorn
+ 0.20% : stinkhorn
+ 0.19% : bighorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q048.jpg
+38.09% : mushroom
+24.34% : hen-of-the-woods
+13.82% : bolete
+ 7.93% : earthstar
+ 2.76% : gyromitra
+ 1.53% : agaric
+ 1.40% : coral fungus
+ 0.27% : bighorn
+ 0.24% : ram
+ 0.23% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q049.jpg
+42.76% : mushroom
+22.82% : hen-of-the-woods
+14.11% : bolete
+ 7.62% : earthstar
+ 2.26% : gyromitra
+ 1.30% : coral fungus
+ 1.14% : agaric
+ 0.31% : acorn
+ 0.22% : stinkhorn
+ 0.19% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q050.jpg
+42.59% : mushroom
+22.68% : hen-of-the-woods
+14.20% : bolete
+ 7.59% : earthstar
+ 2.28% : gyromitra
+ 1.31% : coral fungus
+ 1.17% : agaric
+ 0.31% : acorn
+ 0.22% : stinkhorn
+ 0.19% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q051.jpg
+42.85% : mushroom
+22.43% : hen-of-the-woods
+14.32% : bolete
+ 7.47% : earthstar
+ 2.26% : gyromitra
+ 1.29% : coral fungus
+ 1.19% : agaric
+ 0.31% : acorn
+ 0.22% : stinkhorn
+ 0.19% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q052.jpg
+38.24% : mushroom
+25.81% : hen-of-the-woods
+13.23% : bolete
+ 8.04% : earthstar
+ 2.72% : gyromitra
+ 1.50% : coral fungus
+ 1.09% : agaric
+ 0.27% : acorn
+ 0.21% : dough
+ 0.21% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q053.jpg
+39.29% : mushroom
+24.20% : hen-of-the-woods
+14.07% : bolete
+ 7.89% : earthstar
+ 2.62% : gyromitra
+ 1.42% : coral fungus
+ 1.13% : agaric
+ 0.27% : acorn
+ 0.21% : stinkhorn
+ 0.20% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q054.jpg
+38.44% : mushroom
+24.85% : hen-of-the-woods
+13.75% : bolete
+ 8.09% : earthstar
+ 2.62% : gyromitra
+ 1.47% : coral fungus
+ 1.10% : agaric
+ 0.28% : acorn
+ 0.21% : dough
+ 0.21% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q055.jpg
+34.79% : mushroom
+24.33% : bolete
+17.29% : hen-of-the-woods
+ 5.90% : earthstar
+ 3.16% : gyromitra
+ 2.16% : agaric
+ 1.42% : coral fungus
+ 0.28% : acorn
+ 0.25% : stinkhorn
+ 0.23% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q056.jpg
+33.01% : mushroom
+23.09% : bolete
+18.33% : hen-of-the-woods
+ 6.20% : earthstar
+ 3.37% : gyromitra
+ 2.36% : agaric
+ 1.54% : coral fungus
+ 0.29% : sewing machine
+ 0.28% : acorn
+ 0.27% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q057.jpg
+34.07% : mushroom
+25.05% : bolete
+16.58% : hen-of-the-woods
+ 5.47% : earthstar
+ 3.35% : gyromitra
+ 2.47% : agaric
+ 1.37% : coral fungus
+ 0.26% : sewing machine
+ 0.25% : stinkhorn
+ 0.24% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q058.jpg
+35.71% : mushroom
+20.66% : bolete
+17.78% : hen-of-the-woods
+ 6.52% : earthstar
+ 3.46% : gyromitra
+ 1.89% : agaric
+ 1.53% : coral fungus
+ 0.36% : acorn
+ 0.26% : sewing machine
+ 0.24% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q059.jpg
+36.96% : mushroom
+19.76% : bolete
+18.20% : hen-of-the-woods
+ 6.48% : earthstar
+ 3.54% : gyromitra
+ 1.94% : agaric
+ 1.52% : coral fungus
+ 0.29% : acorn
+ 0.24% : sewing machine
+ 0.23% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q060.jpg
+39.07% : mushroom
+18.95% : bolete
+17.46% : hen-of-the-woods
+ 6.37% : earthstar
+ 3.19% : gyromitra
+ 1.99% : agaric
+ 1.44% : coral fungus
+ 0.27% : acorn
+ 0.26% : sewing machine
+ 0.24% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q061.jpg
+38.31% : mushroom
+18.65% : bolete
+17.84% : hen-of-the-woods
+ 6.32% : earthstar
+ 3.14% : gyromitra
+ 2.30% : agaric
+ 1.25% : coral fungus
+ 0.28% : sewing machine
+ 0.24% : acorn
+ 0.23% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q062.jpg
+37.49% : mushroom
+19.73% : bolete
+17.01% : hen-of-the-woods
+ 6.65% : earthstar
+ 3.16% : gyromitra
+ 2.42% : agaric
+ 1.21% : coral fungus
+ 0.30% : sewing machine
+ 0.24% : acorn
+ 0.22% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q063.jpg
+34.81% : mushroom
+19.56% : bolete
+17.67% : hen-of-the-woods
+ 7.36% : earthstar
+ 3.44% : gyromitra
+ 2.28% : agaric
+ 1.38% : coral fungus
+ 0.35% : sewing machine
+ 0.30% : acorn
+ 0.23% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q064.jpg
+35.78% : mushroom
+18.02% : hen-of-the-woods
+16.01% : bolete
+ 8.39% : earthstar
+ 3.62% : gyromitra
+ 2.22% : agaric
+ 1.50% : coral fungus
+ 0.37% : acorn
+ 0.30% : sewing machine
+ 0.26% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q065.jpg
+37.78% : mushroom
+18.32% : bolete
+15.87% : hen-of-the-woods
+ 7.71% : earthstar
+ 3.44% : gyromitra
+ 2.42% : agaric
+ 1.33% : coral fungus
+ 0.34% : acorn
+ 0.31% : sewing machine
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q066.jpg
+39.61% : mushroom
+18.70% : bolete
+14.48% : hen-of-the-woods
+ 8.04% : earthstar
+ 3.21% : gyromitra
+ 2.39% : agaric
+ 1.27% : coral fungus
+ 0.32% : acorn
+ 0.28% : sewing machine
+ 0.26% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q067.jpg
+37.33% : mushroom
+18.68% : bolete
+15.19% : hen-of-the-woods
+ 9.09% : earthstar
+ 3.20% : gyromitra
+ 2.12% : agaric
+ 1.38% : coral fungus
+ 0.41% : acorn
+ 0.31% : sewing machine
+ 0.26% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q068.jpg
+36.21% : mushroom
+19.48% : bolete
+16.13% : hen-of-the-woods
+ 8.80% : earthstar
+ 3.21% : gyromitra
+ 2.00% : agaric
+ 1.53% : coral fungus
+ 0.41% : acorn
+ 0.39% : sewing machine
+ 0.27% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q069.jpg
+36.63% : mushroom
+19.45% : bolete
+15.92% : hen-of-the-woods
+ 9.14% : earthstar
+ 2.96% : gyromitra
+ 1.98% : agaric
+ 1.54% : coral fungus
+ 0.44% : acorn
+ 0.36% : sewing machine
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q070.jpg
+34.61% : mushroom
+19.10% : bolete
+16.65% : hen-of-the-woods
+ 9.57% : earthstar
+ 3.58% : gyromitra
+ 1.93% : agaric
+ 1.55% : coral fungus
+ 0.41% : acorn
+ 0.37% : sewing machine
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q071.jpg
+35.27% : mushroom
+19.94% : bolete
+15.96% : hen-of-the-woods
+ 8.93% : earthstar
+ 3.95% : gyromitra
+ 1.93% : agaric
+ 1.66% : coral fungus
+ 0.40% : acorn
+ 0.32% : sewing machine
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q072.jpg
+33.00% : mushroom
+20.47% : bolete
+17.36% : hen-of-the-woods
+ 9.64% : earthstar
+ 3.97% : gyromitra
+ 1.86% : agaric
+ 1.71% : coral fungus
+ 0.36% : acorn
+ 0.30% : sewing machine
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q073.jpg
+37.73% : mushroom
+19.26% : bolete
+15.99% : hen-of-the-woods
+ 9.20% : earthstar
+ 3.57% : gyromitra
+ 1.83% : agaric
+ 1.45% : coral fungus
+ 0.42% : acorn
+ 0.28% : stinkhorn
+ 0.24% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q074.jpg
+34.99% : mushroom
+22.21% : bolete
+15.39% : hen-of-the-woods
+ 8.81% : earthstar
+ 3.97% : gyromitra
+ 2.02% : agaric
+ 1.50% : coral fungus
+ 0.32% : acorn
+ 0.26% : stinkhorn
+ 0.20% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q075.jpg
+34.72% : mushroom
+22.20% : bolete
+15.53% : hen-of-the-woods
+ 8.88% : earthstar
+ 4.03% : gyromitra
+ 2.02% : agaric
+ 1.51% : coral fungus
+ 0.31% : acorn
+ 0.26% : stinkhorn
+ 0.21% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q076.jpg
+34.00% : mushroom
+18.93% : bolete
+17.44% : hen-of-the-woods
+10.02% : earthstar
+ 4.27% : gyromitra
+ 1.96% : agaric
+ 1.67% : coral fungus
+ 0.28% : acorn
+ 0.27% : stinkhorn
+ 0.21% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q077.jpg
+33.98% : mushroom
+18.26% : bolete
+16.27% : hen-of-the-woods
+10.90% : earthstar
+ 4.35% : gyromitra
+ 2.05% : agaric
+ 1.56% : coral fungus
+ 0.30% : stinkhorn
+ 0.29% : acorn
+ 0.20% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q078.jpg
+30.61% : mushroom
+22.70% : bolete
+14.08% : hen-of-the-woods
+ 9.49% : earthstar
+ 4.47% : gyromitra
+ 2.92% : agaric
+ 1.58% : coral fungus
+ 0.34% : stinkhorn
+ 0.24% : sewing machine
+ 0.24% : acorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q079.jpg
+31.07% : mushroom
+22.20% : bolete
+14.39% : hen-of-the-woods
+ 9.19% : earthstar
+ 4.62% : gyromitra
+ 2.84% : agaric
+ 1.47% : coral fungus
+ 0.32% : stinkhorn
+ 0.26% : acorn
+ 0.26% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q080.jpg
+31.22% : mushroom
+21.31% : bolete
+13.99% : hen-of-the-woods
+10.41% : earthstar
+ 4.46% : gyromitra
+ 2.46% : agaric
+ 1.52% : coral fungus
+ 0.34% : stinkhorn
+ 0.32% : acorn
+ 0.32% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q081.jpg
+35.67% : mushroom
+17.02% : bolete
+16.96% : hen-of-the-woods
+10.25% : earthstar
+ 3.99% : gyromitra
+ 1.71% : agaric
+ 1.48% : coral fungus
+ 0.32% : acorn
+ 0.27% : stinkhorn
+ 0.26% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q082.jpg
+34.29% : mushroom
+18.17% : hen-of-the-woods
+15.70% : bolete
+11.25% : earthstar
+ 4.18% : gyromitra
+ 1.60% : agaric
+ 1.60% : coral fungus
+ 0.33% : acorn
+ 0.29% : stinkhorn
+ 0.27% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q083.jpg
+34.07% : mushroom
+18.99% : hen-of-the-woods
+14.99% : bolete
+11.04% : earthstar
+ 4.12% : gyromitra
+ 1.73% : coral fungus
+ 1.56% : agaric
+ 0.35% : acorn
+ 0.31% : dough
+ 0.27% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q084.jpg
+28.42% : mushroom
+19.61% : hen-of-the-woods
+16.01% : bolete
+10.34% : earthstar
+ 4.84% : gyromitra
+ 2.09% : agaric
+ 1.81% : coral fungus
+ 0.37% : sewing machine
+ 0.36% : acorn
+ 0.31% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q085.jpg
+28.11% : mushroom
+18.38% : hen-of-the-woods
+16.34% : bolete
+11.06% : earthstar
+ 4.63% : gyromitra
+ 1.87% : agaric
+ 1.81% : coral fungus
+ 0.43% : acorn
+ 0.40% : sewing machine
+ 0.30% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q086.jpg
+29.38% : mushroom
+17.32% : hen-of-the-woods
+16.43% : bolete
+11.24% : earthstar
+ 4.69% : gyromitra
+ 1.93% : agaric
+ 1.76% : coral fungus
+ 0.44% : acorn
+ 0.38% : sewing machine
+ 0.30% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q087.jpg
+33.10% : mushroom
+17.51% : hen-of-the-woods
+15.10% : bolete
+12.66% : earthstar
+ 4.29% : gyromitra
+ 1.64% : coral fungus
+ 1.53% : agaric
+ 0.46% : acorn
+ 0.29% : stinkhorn
+ 0.29% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q088.jpg
+34.40% : mushroom
+16.72% : bolete
+15.58% : hen-of-the-woods
+11.52% : earthstar
+ 4.53% : gyromitra
+ 1.65% : agaric
+ 1.59% : coral fungus
+ 0.46% : acorn
+ 0.31% : sewing machine
+ 0.28% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q089.jpg
+34.21% : mushroom
+17.33% : bolete
+15.71% : hen-of-the-woods
+10.52% : earthstar
+ 4.62% : gyromitra
+ 1.76% : agaric
+ 1.60% : coral fungus
+ 0.42% : acorn
+ 0.31% : sewing machine
+ 0.27% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q090.jpg
+33.29% : mushroom
+18.59% : bolete
+15.80% : hen-of-the-woods
+ 9.57% : earthstar
+ 4.60% : gyromitra
+ 1.91% : agaric
+ 1.66% : coral fungus
+ 0.37% : acorn
+ 0.33% : sewing machine
+ 0.29% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q091.jpg
+36.09% : mushroom
+19.57% : bolete
+15.72% : hen-of-the-woods
+ 7.55% : earthstar
+ 4.39% : gyromitra
+ 2.18% : agaric
+ 1.47% : coral fungus
+ 0.31% : sewing machine
+ 0.30% : acorn
+ 0.26% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q092.jpg
+34.10% : mushroom
+19.00% : bolete
+17.03% : hen-of-the-woods
+ 8.67% : earthstar
+ 4.26% : gyromitra
+ 2.20% : agaric
+ 1.38% : coral fungus
+ 0.31% : acorn
+ 0.28% : stinkhorn
+ 0.27% : sewing machine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q093.jpg
+33.06% : mushroom
+19.89% : bolete
+17.68% : hen-of-the-woods
+ 9.72% : earthstar
+ 3.79% : gyromitra
+ 2.08% : agaric
+ 1.33% : coral fungus
+ 0.27% : sewing machine
+ 0.27% : acorn
+ 0.24% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q094.jpg
+33.21% : mushroom
+19.51% : bolete
+18.47% : hen-of-the-woods
+10.06% : earthstar
+ 3.83% : gyromitra
+ 1.96% : agaric
+ 1.38% : coral fungus
+ 0.29% : sewing machine
+ 0.29% : acorn
+ 0.22% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q095.jpg
+31.29% : mushroom
+19.37% : hen-of-the-woods
+18.55% : bolete
+10.79% : earthstar
+ 4.08% : gyromitra
+ 1.86% : agaric
+ 1.50% : coral fungus
+ 0.33% : sewing machine
+ 0.30% : acorn
+ 0.24% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q096.jpg
+35.13% : mushroom
+18.20% : bolete
+17.70% : hen-of-the-woods
+ 9.80% : earthstar
+ 3.90% : gyromitra
+ 1.86% : agaric
+ 1.42% : coral fungus
+ 0.34% : acorn
+ 0.32% : sewing machine
+ 0.25% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q097.jpg
+35.42% : mushroom
+18.62% : bolete
+17.17% : hen-of-the-woods
+ 9.80% : earthstar
+ 4.06% : gyromitra
+ 1.82% : agaric
+ 1.42% : coral fungus
+ 0.35% : acorn
+ 0.31% : sewing machine
+ 0.25% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q098.jpg
+33.68% : mushroom
+18.66% : hen-of-the-woods
+17.43% : bolete
+ 9.71% : earthstar
+ 4.13% : gyromitra
+ 1.90% : agaric
+ 1.50% : coral fungus
+ 0.36% : acorn
+ 0.35% : sewing machine
+ 0.26% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q099.jpg
+36.01% : mushroom
+18.22% : bolete
+17.61% : hen-of-the-woods
+ 8.96% : earthstar
+ 3.89% : gyromitra
+ 1.93% : agaric
+ 1.38% : coral fungus
+ 0.33% : sewing machine
+ 0.31% : acorn
+ 0.24% : stinkhorn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/mushrooms/mushroom5Q100.jpg
+34.25% : mushroom
+18.57% : bolete
+17.77% : hen-of-the-woods
+ 9.45% : earthstar
+ 3.96% : gyromitra
+ 1.93% : agaric
+ 1.49% : coral fungus
+ 0.33% : sewing machine
+ 0.31% : acorn
+ 0.25% : stinkhorn

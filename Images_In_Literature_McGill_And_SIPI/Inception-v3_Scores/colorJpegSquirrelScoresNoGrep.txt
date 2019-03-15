@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ001.jpg
+ 9.05% : polecat
+ 7.45% : black-footed ferret
+ 7.28% : mongoose
+ 2.86% : wombat
+ 2.63% : badger
+ 2.37% : maze
+ 2.36% : weasel
+ 1.89% : banded gecko
+ 1.71% : hog
+ 1.30% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ002.jpg
+ 8.99% : polecat
+ 7.32% : mongoose
+ 7.32% : black-footed ferret
+ 2.80% : wombat
+ 2.67% : badger
+ 2.33% : maze
+ 2.21% : weasel
+ 1.76% : banded gecko
+ 1.70% : hog
+ 1.31% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ003.jpg
+18.02% : mongoose
+13.69% : weasel
+ 9.08% : mink
+ 6.79% : fox squirrel
+ 2.75% : polecat
+ 2.43% : Bouvier des Flandres
+ 2.16% : black-footed ferret
+ 1.76% : marmot
+ 1.65% : beaver
+ 1.15% : otter
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ004.jpg
+90.20% : fox squirrel
+ 0.89% : marmot
+ 0.83% : hare
+ 0.49% : wood rabbit
+ 0.48% : beaver
+ 0.44% : mongoose
+ 0.29% : wombat
+ 0.24% : weasel
+ 0.15% : mink
+ 0.13% : wallaby
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ005.jpg
+88.11% : fox squirrel
+ 2.24% : beaver
+ 0.85% : wombat
+ 0.59% : marmot
+ 0.33% : hare
+ 0.33% : mongoose
+ 0.15% : wood rabbit
+ 0.11% : mink
+ 0.11% : wallaby
+ 0.08% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ006.jpg
+97.64% : fox squirrel
+ 0.17% : marmot
+ 0.15% : mongoose
+ 0.09% : hare
+ 0.09% : mink
+ 0.07% : grey fox
+ 0.04% : weasel
+ 0.03% : throne
+ 0.03% : wood rabbit
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ007.jpg
+92.74% : fox squirrel
+ 0.46% : mongoose
+ 0.32% : grey fox
+ 0.18% : marmot
+ 0.11% : throne
+ 0.10% : studio couch
+ 0.07% : weasel
+ 0.05% : Komodo dragon
+ 0.05% : sidewinder
+ 0.05% : horned viper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ008.jpg
+95.73% : fox squirrel
+ 0.35% : mongoose
+ 0.19% : grey fox
+ 0.15% : marmot
+ 0.06% : throne
+ 0.05% : studio couch
+ 0.04% : wombat
+ 0.03% : beaver
+ 0.03% : mink
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ009.jpg
+85.79% : fox squirrel
+ 7.75% : mongoose
+ 0.51% : grey fox
+ 0.47% : marmot
+ 0.15% : weasel
+ 0.15% : mink
+ 0.12% : hare
+ 0.12% : wood rabbit
+ 0.10% : beaver
+ 0.07% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ010.jpg
+97.02% : fox squirrel
+ 0.22% : mongoose
+ 0.15% : marmot
+ 0.14% : grey fox
+ 0.08% : wood rabbit
+ 0.08% : hare
+ 0.06% : mink
+ 0.05% : throne
+ 0.05% : weasel
+ 0.03% : studio couch
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ011.jpg
+96.33% : fox squirrel
+ 0.43% : mongoose
+ 0.16% : marmot
+ 0.16% : grey fox
+ 0.08% : throne
+ 0.05% : studio couch
+ 0.05% : wood rabbit
+ 0.04% : weasel
+ 0.04% : hare
+ 0.03% : mink
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ012.jpg
+95.93% : fox squirrel
+ 0.31% : mongoose
+ 0.18% : marmot
+ 0.16% : grey fox
+ 0.07% : throne
+ 0.06% : studio couch
+ 0.04% : weasel
+ 0.03% : wood rabbit
+ 0.03% : hare
+ 0.03% : limousine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ013.jpg
+94.45% : fox squirrel
+ 0.27% : mongoose
+ 0.20% : grey fox
+ 0.16% : marmot
+ 0.08% : studio couch
+ 0.08% : throne
+ 0.06% : hare
+ 0.05% : weasel
+ 0.05% : horned viper
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ014.jpg
+95.15% : fox squirrel
+ 0.59% : mongoose
+ 0.17% : marmot
+ 0.09% : grey fox
+ 0.08% : throne
+ 0.06% : studio couch
+ 0.03% : weasel
+ 0.03% : ear
+ 0.03% : horned viper
+ 0.03% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ015.jpg
+95.16% : fox squirrel
+ 0.47% : mongoose
+ 0.17% : marmot
+ 0.10% : grey fox
+ 0.09% : throne
+ 0.08% : studio couch
+ 0.04% : weasel
+ 0.04% : hare
+ 0.03% : ear
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ016.jpg
+94.14% : fox squirrel
+ 0.37% : mongoose
+ 0.20% : marmot
+ 0.12% : throne
+ 0.11% : grey fox
+ 0.09% : studio couch
+ 0.05% : weasel
+ 0.04% : ear
+ 0.04% : Komodo dragon
+ 0.04% : mink
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ017.jpg
+94.74% : fox squirrel
+ 0.47% : mongoose
+ 0.15% : marmot
+ 0.12% : grey fox
+ 0.09% : studio couch
+ 0.08% : throne
+ 0.05% : weasel
+ 0.04% : Komodo dragon
+ 0.04% : hare
+ 0.03% : horned viper
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ018.jpg
+95.84% : fox squirrel
+ 0.32% : mongoose
+ 0.18% : marmot
+ 0.08% : grey fox
+ 0.08% : hare
+ 0.08% : throne
+ 0.06% : studio couch
+ 0.05% : wood rabbit
+ 0.05% : weasel
+ 0.03% : Komodo dragon
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ019.jpg
+95.92% : fox squirrel
+ 0.40% : mongoose
+ 0.18% : marmot
+ 0.08% : grey fox
+ 0.06% : throne
+ 0.05% : studio couch
+ 0.04% : weasel
+ 0.03% : hare
+ 0.03% : mink
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ020.jpg
+95.08% : fox squirrel
+ 0.69% : mongoose
+ 0.24% : marmot
+ 0.07% : grey fox
+ 0.07% : throne
+ 0.06% : studio couch
+ 0.05% : weasel
+ 0.04% : hare
+ 0.03% : squirrel monkey
+ 0.03% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ021.jpg
+95.83% : fox squirrel
+ 0.54% : mongoose
+ 0.23% : marmot
+ 0.08% : throne
+ 0.07% : grey fox
+ 0.05% : studio couch
+ 0.04% : hare
+ 0.04% : weasel
+ 0.03% : Komodo dragon
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ022.jpg
+93.53% : fox squirrel
+ 0.85% : mongoose
+ 0.24% : marmot
+ 0.11% : throne
+ 0.09% : grey fox
+ 0.09% : studio couch
+ 0.05% : hare
+ 0.04% : squirrel monkey
+ 0.04% : Komodo dragon
+ 0.04% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ023.jpg
+94.76% : fox squirrel
+ 0.47% : mongoose
+ 0.22% : marmot
+ 0.11% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.04% : squirrel monkey
+ 0.04% : weasel
+ 0.03% : Komodo dragon
+ 0.03% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ024.jpg
+94.64% : fox squirrel
+ 0.73% : mongoose
+ 0.22% : marmot
+ 0.09% : throne
+ 0.09% : grey fox
+ 0.07% : studio couch
+ 0.03% : squirrel monkey
+ 0.03% : ear
+ 0.03% : weasel
+ 0.03% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ025.jpg
+95.55% : fox squirrel
+ 0.70% : mongoose
+ 0.25% : marmot
+ 0.08% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.03% : meerkat
+ 0.03% : weasel
+ 0.03% : squirrel monkey
+ 0.02% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ026.jpg
+95.38% : fox squirrel
+ 0.56% : mongoose
+ 0.23% : marmot
+ 0.10% : grey fox
+ 0.09% : throne
+ 0.07% : studio couch
+ 0.03% : acorn
+ 0.03% : squirrel monkey
+ 0.03% : weasel
+ 0.02% : meerkat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ027.jpg
+95.67% : fox squirrel
+ 0.45% : mongoose
+ 0.20% : marmot
+ 0.10% : grey fox
+ 0.09% : throne
+ 0.07% : studio couch
+ 0.03% : squirrel monkey
+ 0.03% : acorn
+ 0.02% : ear
+ 0.02% : weasel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ028.jpg
+96.38% : fox squirrel
+ 0.33% : mongoose
+ 0.14% : marmot
+ 0.10% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.03% : squirrel monkey
+ 0.03% : acorn
+ 0.02% : weasel
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ029.jpg
+95.74% : fox squirrel
+ 0.51% : mongoose
+ 0.15% : marmot
+ 0.10% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.03% : hare
+ 0.03% : squirrel monkey
+ 0.03% : wood rabbit
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ030.jpg
+95.87% : fox squirrel
+ 0.66% : mongoose
+ 0.18% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.03% : ear
+ 0.03% : weasel
+ 0.02% : wood rabbit
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ031.jpg
+95.55% : fox squirrel
+ 0.60% : mongoose
+ 0.19% : marmot
+ 0.10% : throne
+ 0.08% : grey fox
+ 0.08% : studio couch
+ 0.03% : weasel
+ 0.03% : ear
+ 0.03% : squirrel monkey
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ032.jpg
+95.71% : fox squirrel
+ 0.54% : mongoose
+ 0.16% : marmot
+ 0.10% : throne
+ 0.09% : grey fox
+ 0.07% : studio couch
+ 0.03% : ear
+ 0.03% : acorn
+ 0.03% : hare
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ033.jpg
+95.41% : fox squirrel
+ 0.38% : mongoose
+ 0.20% : marmot
+ 0.12% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.04% : acorn
+ 0.03% : wood rabbit
+ 0.03% : hare
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ034.jpg
+96.71% : fox squirrel
+ 0.26% : mongoose
+ 0.17% : marmot
+ 0.08% : throne
+ 0.07% : grey fox
+ 0.06% : studio couch
+ 0.03% : acorn
+ 0.02% : ear
+ 0.02% : squirrel monkey
+ 0.02% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ035.jpg
+95.21% : fox squirrel
+ 0.53% : mongoose
+ 0.31% : marmot
+ 0.10% : throne
+ 0.09% : grey fox
+ 0.06% : studio couch
+ 0.04% : hare
+ 0.03% : acorn
+ 0.03% : ear
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ036.jpg
+96.63% : fox squirrel
+ 0.33% : mongoose
+ 0.16% : marmot
+ 0.09% : throne
+ 0.07% : grey fox
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.02% : ear
+ 0.02% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ037.jpg
+96.10% : fox squirrel
+ 0.39% : mongoose
+ 0.17% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.04% : hare
+ 0.03% : acorn
+ 0.03% : ear
+ 0.02% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ038.jpg
+97.05% : fox squirrel
+ 0.31% : mongoose
+ 0.15% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.02% : acorn
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ039.jpg
+96.78% : fox squirrel
+ 0.34% : mongoose
+ 0.14% : marmot
+ 0.09% : throne
+ 0.07% : grey fox
+ 0.06% : studio couch
+ 0.04% : hare
+ 0.03% : wood rabbit
+ 0.02% : acorn
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ040.jpg
+96.69% : fox squirrel
+ 0.27% : mongoose
+ 0.16% : marmot
+ 0.10% : throne
+ 0.07% : grey fox
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.02% : ear
+ 0.02% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ041.jpg
+96.90% : fox squirrel
+ 0.27% : mongoose
+ 0.15% : marmot
+ 0.09% : throne
+ 0.06% : grey fox
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.02% : acorn
+ 0.02% : wood rabbit
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ042.jpg
+97.04% : fox squirrel
+ 0.26% : mongoose
+ 0.17% : marmot
+ 0.08% : throne
+ 0.06% : grey fox
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.03% : wood rabbit
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ043.jpg
+97.05% : fox squirrel
+ 0.26% : mongoose
+ 0.19% : marmot
+ 0.07% : throne
+ 0.06% : grey fox
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.02% : wood rabbit
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ044.jpg
+97.31% : fox squirrel
+ 0.25% : mongoose
+ 0.12% : marmot
+ 0.07% : throne
+ 0.06% : grey fox
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.02% : acorn
+ 0.02% : wood rabbit
+ 0.02% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ045.jpg
+97.17% : fox squirrel
+ 0.23% : mongoose
+ 0.12% : marmot
+ 0.07% : grey fox
+ 0.07% : throne
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.03% : wood rabbit
+ 0.02% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ046.jpg
+96.68% : fox squirrel
+ 0.28% : mongoose
+ 0.16% : marmot
+ 0.08% : grey fox
+ 0.07% : throne
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.03% : ear
+ 0.02% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ047.jpg
+97.27% : fox squirrel
+ 0.25% : mongoose
+ 0.13% : marmot
+ 0.07% : grey fox
+ 0.06% : throne
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.02% : wood rabbit
+ 0.02% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ048.jpg
+97.13% : fox squirrel
+ 0.26% : mongoose
+ 0.13% : marmot
+ 0.07% : grey fox
+ 0.06% : throne
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.02% : acorn
+ 0.02% : ear
+ 0.02% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ049.jpg
+96.33% : fox squirrel
+ 0.32% : mongoose
+ 0.16% : marmot
+ 0.08% : grey fox
+ 0.08% : throne
+ 0.07% : studio couch
+ 0.03% : acorn
+ 0.03% : hare
+ 0.03% : ear
+ 0.03% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ050.jpg
+96.29% : fox squirrel
+ 0.32% : mongoose
+ 0.15% : marmot
+ 0.08% : grey fox
+ 0.08% : throne
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.03% : ear
+ 0.03% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ051.jpg
+96.18% : fox squirrel
+ 0.32% : mongoose
+ 0.16% : marmot
+ 0.08% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.04% : hare
+ 0.03% : acorn
+ 0.03% : wood rabbit
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ052.jpg
+95.88% : fox squirrel
+ 0.43% : mongoose
+ 0.16% : marmot
+ 0.10% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.03% : squirrel monkey
+ 0.03% : wood rabbit
+ 0.03% : acorn
+ 0.03% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ053.jpg
+96.11% : fox squirrel
+ 0.43% : mongoose
+ 0.15% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.04% : wood rabbit
+ 0.03% : hare
+ 0.03% : squirrel monkey
+ 0.03% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ054.jpg
+96.29% : fox squirrel
+ 0.37% : mongoose
+ 0.13% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.04% : hare
+ 0.04% : wood rabbit
+ 0.03% : squirrel monkey
+ 0.03% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ055.jpg
+96.68% : fox squirrel
+ 0.34% : mongoose
+ 0.13% : marmot
+ 0.08% : throne
+ 0.07% : grey fox
+ 0.05% : studio couch
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.03% : squirrel monkey
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ056.jpg
+96.91% : fox squirrel
+ 0.30% : mongoose
+ 0.13% : marmot
+ 0.08% : throne
+ 0.07% : grey fox
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.02% : squirrel monkey
+ 0.02% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ057.jpg
+97.05% : fox squirrel
+ 0.27% : mongoose
+ 0.12% : marmot
+ 0.08% : throne
+ 0.07% : grey fox
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.02% : acorn
+ 0.02% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ058.jpg
+96.73% : fox squirrel
+ 0.43% : mongoose
+ 0.15% : marmot
+ 0.09% : throne
+ 0.07% : grey fox
+ 0.07% : studio couch
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.03% : acorn
+ 0.02% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ059.jpg
+96.77% : fox squirrel
+ 0.39% : mongoose
+ 0.12% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : acorn
+ 0.03% : wood rabbit
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ060.jpg
+96.74% : fox squirrel
+ 0.36% : mongoose
+ 0.12% : marmot
+ 0.09% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.03% : acorn
+ 0.02% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ061.jpg
+96.81% : fox squirrel
+ 0.30% : mongoose
+ 0.12% : marmot
+ 0.08% : throne
+ 0.08% : grey fox
+ 0.06% : studio couch
+ 0.03% : acorn
+ 0.03% : hare
+ 0.03% : squirrel monkey
+ 0.03% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ062.jpg
+96.20% : fox squirrel
+ 0.37% : mongoose
+ 0.14% : marmot
+ 0.09% : grey fox
+ 0.09% : throne
+ 0.06% : studio couch
+ 0.04% : hare
+ 0.04% : acorn
+ 0.04% : wood rabbit
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ063.jpg
+96.32% : fox squirrel
+ 0.30% : mongoose
+ 0.12% : marmot
+ 0.10% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.03% : acorn
+ 0.03% : hare
+ 0.03% : wood rabbit
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ064.jpg
+95.33% : fox squirrel
+ 0.43% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.04% : wood rabbit
+ 0.04% : acorn
+ 0.04% : squirrel monkey
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ065.jpg
+95.66% : fox squirrel
+ 0.38% : mongoose
+ 0.15% : marmot
+ 0.13% : throne
+ 0.08% : studio couch
+ 0.07% : grey fox
+ 0.04% : acorn
+ 0.04% : wood rabbit
+ 0.03% : squirrel monkey
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ066.jpg
+95.50% : fox squirrel
+ 0.37% : mongoose
+ 0.14% : marmot
+ 0.13% : throne
+ 0.09% : studio couch
+ 0.07% : grey fox
+ 0.04% : wood rabbit
+ 0.04% : acorn
+ 0.04% : ear
+ 0.03% : squirrel monkey
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ067.jpg
+94.94% : fox squirrel
+ 0.46% : mongoose
+ 0.16% : marmot
+ 0.13% : throne
+ 0.09% : studio couch
+ 0.09% : grey fox
+ 0.04% : wood rabbit
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+ 0.04% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ068.jpg
+95.20% : fox squirrel
+ 0.49% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.08% : studio couch
+ 0.08% : grey fox
+ 0.04% : acorn
+ 0.04% : squirrel monkey
+ 0.04% : marmoset
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ069.jpg
+95.41% : fox squirrel
+ 0.47% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+ 0.04% : marmoset
+ 0.03% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ070.jpg
+95.28% : fox squirrel
+ 0.44% : mongoose
+ 0.17% : marmot
+ 0.11% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.04% : squirrel monkey
+ 0.04% : marmoset
+ 0.03% : ear
+ 0.03% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ071.jpg
+95.14% : fox squirrel
+ 0.39% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.08% : studio couch
+ 0.08% : grey fox
+ 0.04% : squirrel monkey
+ 0.04% : hare
+ 0.04% : marmoset
+ 0.04% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ072.jpg
+94.90% : fox squirrel
+ 0.40% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.09% : grey fox
+ 0.09% : studio couch
+ 0.04% : squirrel monkey
+ 0.04% : hare
+ 0.04% : acorn
+ 0.04% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ073.jpg
+94.07% : fox squirrel
+ 0.48% : mongoose
+ 0.18% : marmot
+ 0.14% : throne
+ 0.10% : studio couch
+ 0.10% : grey fox
+ 0.05% : acorn
+ 0.05% : squirrel monkey
+ 0.04% : wood rabbit
+ 0.04% : hare
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ074.jpg
+94.26% : fox squirrel
+ 0.41% : mongoose
+ 0.15% : marmot
+ 0.14% : throne
+ 0.10% : grey fox
+ 0.09% : studio couch
+ 0.05% : squirrel monkey
+ 0.04% : acorn
+ 0.04% : hare
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ075.jpg
+94.20% : fox squirrel
+ 0.46% : mongoose
+ 0.17% : marmot
+ 0.14% : throne
+ 0.10% : grey fox
+ 0.09% : studio couch
+ 0.04% : hare
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ076.jpg
+94.58% : fox squirrel
+ 0.38% : mongoose
+ 0.17% : marmot
+ 0.13% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.04% : ear
+ 0.04% : hare
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ077.jpg
+94.71% : fox squirrel
+ 0.36% : mongoose
+ 0.19% : marmot
+ 0.11% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.05% : hare
+ 0.04% : ear
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ078.jpg
+94.62% : fox squirrel
+ 0.40% : mongoose
+ 0.19% : marmot
+ 0.12% : throne
+ 0.10% : grey fox
+ 0.08% : studio couch
+ 0.05% : hare
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ079.jpg
+94.25% : fox squirrel
+ 0.45% : mongoose
+ 0.18% : marmot
+ 0.13% : throne
+ 0.10% : grey fox
+ 0.08% : studio couch
+ 0.05% : hare
+ 0.05% : squirrel monkey
+ 0.04% : acorn
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ080.jpg
+93.90% : fox squirrel
+ 0.43% : mongoose
+ 0.21% : marmot
+ 0.13% : throne
+ 0.10% : grey fox
+ 0.09% : studio couch
+ 0.05% : squirrel monkey
+ 0.05% : hare
+ 0.05% : acorn
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ081.jpg
+95.16% : fox squirrel
+ 0.34% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.05% : squirrel monkey
+ 0.05% : hare
+ 0.04% : acorn
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ082.jpg
+95.26% : fox squirrel
+ 0.34% : mongoose
+ 0.15% : marmot
+ 0.12% : throne
+ 0.08% : grey fox
+ 0.08% : studio couch
+ 0.04% : squirrel monkey
+ 0.04% : hare
+ 0.04% : acorn
+ 0.03% : wood rabbit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ083.jpg
+94.98% : fox squirrel
+ 0.36% : mongoose
+ 0.16% : marmot
+ 0.13% : throne
+ 0.08% : grey fox
+ 0.08% : studio couch
+ 0.05% : squirrel monkey
+ 0.05% : hare
+ 0.04% : acorn
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ084.jpg
+95.29% : fox squirrel
+ 0.32% : mongoose
+ 0.16% : marmot
+ 0.12% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.05% : hare
+ 0.05% : squirrel monkey
+ 0.04% : marmoset
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ085.jpg
+95.14% : fox squirrel
+ 0.35% : mongoose
+ 0.15% : marmot
+ 0.12% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.05% : hare
+ 0.04% : acorn
+ 0.04% : squirrel monkey
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ086.jpg
+95.77% : fox squirrel
+ 0.27% : mongoose
+ 0.14% : marmot
+ 0.10% : throne
+ 0.08% : grey fox
+ 0.07% : studio couch
+ 0.05% : hare
+ 0.04% : squirrel monkey
+ 0.04% : acorn
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ087.jpg
+95.23% : fox squirrel
+ 0.30% : mongoose
+ 0.12% : marmot
+ 0.11% : throne
+ 0.08% : grey fox
+ 0.08% : studio couch
+ 0.05% : hare
+ 0.04% : squirrel monkey
+ 0.04% : marmoset
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ088.jpg
+94.94% : fox squirrel
+ 0.34% : mongoose
+ 0.13% : marmot
+ 0.12% : throne
+ 0.09% : studio couch
+ 0.08% : grey fox
+ 0.05% : squirrel monkey
+ 0.04% : hare
+ 0.04% : ear
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ089.jpg
+95.11% : fox squirrel
+ 0.33% : mongoose
+ 0.14% : marmot
+ 0.13% : throne
+ 0.08% : studio couch
+ 0.07% : grey fox
+ 0.05% : squirrel monkey
+ 0.04% : hare
+ 0.04% : ear
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ090.jpg
+94.34% : fox squirrel
+ 0.38% : mongoose
+ 0.16% : marmot
+ 0.14% : throne
+ 0.09% : grey fox
+ 0.09% : studio couch
+ 0.06% : squirrel monkey
+ 0.05% : hare
+ 0.05% : ear
+ 0.04% : marmoset
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ091.jpg
+93.99% : fox squirrel
+ 0.38% : mongoose
+ 0.19% : marmot
+ 0.14% : throne
+ 0.11% : studio couch
+ 0.09% : grey fox
+ 0.06% : squirrel monkey
+ 0.05% : hare
+ 0.05% : ear
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ092.jpg
+93.76% : fox squirrel
+ 0.37% : mongoose
+ 0.18% : marmot
+ 0.15% : throne
+ 0.11% : studio couch
+ 0.09% : grey fox
+ 0.06% : squirrel monkey
+ 0.05% : hare
+ 0.05% : ear
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ093.jpg
+93.44% : fox squirrel
+ 0.42% : mongoose
+ 0.20% : marmot
+ 0.14% : throne
+ 0.10% : grey fox
+ 0.10% : studio couch
+ 0.06% : squirrel monkey
+ 0.05% : marmoset
+ 0.05% : hare
+ 0.05% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ094.jpg
+94.23% : fox squirrel
+ 0.37% : mongoose
+ 0.18% : marmot
+ 0.13% : throne
+ 0.09% : grey fox
+ 0.09% : studio couch
+ 0.05% : squirrel monkey
+ 0.05% : hare
+ 0.05% : marmoset
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ095.jpg
+94.41% : fox squirrel
+ 0.39% : mongoose
+ 0.17% : marmot
+ 0.12% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.05% : squirrel monkey
+ 0.05% : hare
+ 0.05% : acorn
+ 0.05% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ096.jpg
+94.34% : fox squirrel
+ 0.40% : mongoose
+ 0.19% : marmot
+ 0.12% : throne
+ 0.09% : grey fox
+ 0.08% : studio couch
+ 0.05% : hare
+ 0.05% : squirrel monkey
+ 0.05% : ear
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ097.jpg
+94.08% : fox squirrel
+ 0.39% : mongoose
+ 0.19% : marmot
+ 0.13% : throne
+ 0.09% : grey fox
+ 0.09% : studio couch
+ 0.05% : squirrel monkey
+ 0.05% : hare
+ 0.05% : ear
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ098.jpg
+94.51% : fox squirrel
+ 0.37% : mongoose
+ 0.18% : marmot
+ 0.12% : throne
+ 0.09% : studio couch
+ 0.09% : grey fox
+ 0.05% : hare
+ 0.05% : squirrel monkey
+ 0.05% : ear
+ 0.04% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ099.jpg
+93.87% : fox squirrel
+ 0.39% : mongoose
+ 0.18% : marmot
+ 0.14% : throne
+ 0.10% : studio couch
+ 0.10% : grey fox
+ 0.06% : squirrel monkey
+ 0.05% : hare
+ 0.05% : ear
+ 0.05% : acorn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorSquirrelQ100.jpg
+93.96% : fox squirrel
+ 0.41% : mongoose
+ 0.18% : marmot
+ 0.13% : throne
+ 0.09% : grey fox
+ 0.09% : studio couch
+ 0.06% : hare
+ 0.05% : squirrel monkey
+ 0.05% : ear
+ 0.05% : acorn

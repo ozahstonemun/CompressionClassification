@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q001.jpg
+14.48% : orange
+ 8.44% : lemon
+ 3.77% : harvester
+ 3.03% : wok
+ 1.73% : tennis ball
+ 1.37% : pot
+ 1.32% : bottlecap
+ 1.30% : golf ball
+ 1.25% : grocery store
+ 0.97% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q002.jpg
+14.51% : orange
+ 8.41% : lemon
+ 3.75% : harvester
+ 3.02% : wok
+ 1.73% : tennis ball
+ 1.37% : pot
+ 1.31% : bottlecap
+ 1.30% : golf ball
+ 1.24% : grocery store
+ 0.97% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q003.jpg
+15.28% : orange
+ 9.67% : lemon
+ 4.34% : harvester
+ 2.62% : wok
+ 1.76% : bottlecap
+ 1.29% : tennis ball
+ 1.07% : pot
+ 0.94% : grocery store
+ 0.76% : confectionery
+ 0.76% : golf ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q004.jpg
+62.70% : orange
+ 5.63% : lemon
+ 1.57% : wok
+ 1.11% : grocery store
+ 1.00% : butternut squash
+ 0.77% : spaghetti squash
+ 0.68% : bottlecap
+ 0.59% : pot
+ 0.51% : mixing bowl
+ 0.38% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q005.jpg
+35.70% : orange
+ 7.61% : lemon
+ 2.70% : bottlecap
+ 2.67% : spaghetti squash
+ 1.79% : wok
+ 1.59% : butternut squash
+ 1.03% : grocery store
+ 0.69% : honeycomb
+ 0.57% : acorn squash
+ 0.54% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q006.jpg
+41.34% : orange
+21.44% : lemon
+ 1.67% : spaghetti squash
+ 0.88% : wok
+ 0.61% : butternut squash
+ 0.59% : grocery store
+ 0.52% : frying pan
+ 0.50% : harvester
+ 0.40% : bottlecap
+ 0.35% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q007.jpg
+58.62% : orange
+14.25% : lemon
+ 1.44% : spaghetti squash
+ 0.65% : wok
+ 0.35% : grocery store
+ 0.34% : butternut squash
+ 0.24% : honeycomb
+ 0.24% : harvester
+ 0.21% : frying pan
+ 0.19% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q008.jpg
+50.58% : orange
+25.91% : lemon
+ 1.52% : spaghetti squash
+ 0.29% : wok
+ 0.21% : grocery store
+ 0.21% : harvester
+ 0.20% : frying pan
+ 0.19% : honeycomb
+ 0.16% : butternut squash
+ 0.15% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q009.jpg
+49.41% : lemon
+26.31% : orange
+ 2.18% : spaghetti squash
+ 0.25% : wok
+ 0.19% : harvester
+ 0.17% : frying pan
+ 0.16% : strainer
+ 0.14% : spatula
+ 0.13% : grocery store
+ 0.13% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q010.jpg
+51.81% : lemon
+23.54% : orange
+ 1.05% : spaghetti squash
+ 0.21% : wok
+ 0.19% : harvester
+ 0.17% : strainer
+ 0.14% : frying pan
+ 0.14% : grocery store
+ 0.14% : daisy
+ 0.12% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q011.jpg
+50.70% : lemon
+24.06% : orange
+ 1.47% : spaghetti squash
+ 0.23% : wok
+ 0.20% : frying pan
+ 0.20% : strainer
+ 0.15% : grocery store
+ 0.15% : harvester
+ 0.14% : pineapple
+ 0.14% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q012.jpg
+60.58% : lemon
+16.30% : orange
+ 1.31% : spaghetti squash
+ 0.27% : wok
+ 0.17% : frying pan
+ 0.15% : strainer
+ 0.14% : harvester
+ 0.13% : spatula
+ 0.12% : cheeseburger
+ 0.12% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q013.jpg
+64.60% : lemon
+14.43% : orange
+ 0.98% : spaghetti squash
+ 0.17% : strainer
+ 0.17% : wok
+ 0.12% : croquet ball
+ 0.12% : frying pan
+ 0.12% : pineapple
+ 0.09% : American black bear
+ 0.09% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q014.jpg
+62.56% : lemon
+14.43% : orange
+ 0.92% : spaghetti squash
+ 0.17% : wok
+ 0.15% : strainer
+ 0.14% : pineapple
+ 0.14% : frying pan
+ 0.12% : harvester
+ 0.11% : croquet ball
+ 0.11% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q015.jpg
+58.34% : lemon
+19.84% : orange
+ 0.91% : spaghetti squash
+ 0.17% : strainer
+ 0.16% : wok
+ 0.13% : pineapple
+ 0.12% : croquet ball
+ 0.11% : American black bear
+ 0.11% : frying pan
+ 0.10% : harvester
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q016.jpg
+63.41% : lemon
+16.49% : orange
+ 0.68% : spaghetti squash
+ 0.18% : wok
+ 0.15% : strainer
+ 0.13% : pineapple
+ 0.12% : frying pan
+ 0.11% : cheeseburger
+ 0.11% : croquet ball
+ 0.11% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q017.jpg
+67.81% : lemon
+11.54% : orange
+ 0.76% : spaghetti squash
+ 0.19% : wok
+ 0.16% : strainer
+ 0.15% : frying pan
+ 0.11% : spatula
+ 0.10% : pineapple
+ 0.10% : croquet ball
+ 0.10% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q018.jpg
+67.88% : lemon
+14.66% : orange
+ 0.55% : spaghetti squash
+ 0.15% : strainer
+ 0.13% : wok
+ 0.11% : frying pan
+ 0.10% : croquet ball
+ 0.10% : pineapple
+ 0.09% : American black bear
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q019.jpg
+68.65% : lemon
+15.07% : orange
+ 0.50% : spaghetti squash
+ 0.12% : strainer
+ 0.11% : wok
+ 0.10% : pineapple
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.08% : frying pan
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q020.jpg
+64.47% : lemon
+15.76% : orange
+ 0.53% : spaghetti squash
+ 0.16% : wok
+ 0.15% : frying pan
+ 0.14% : strainer
+ 0.11% : spatula
+ 0.11% : pineapple
+ 0.10% : American black bear
+ 0.09% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q021.jpg
+69.59% : lemon
+10.96% : orange
+ 0.73% : spaghetti squash
+ 0.16% : wok
+ 0.13% : frying pan
+ 0.13% : strainer
+ 0.13% : croquet ball
+ 0.11% : cheeseburger
+ 0.11% : American black bear
+ 0.10% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q022.jpg
+70.95% : lemon
+14.02% : orange
+ 0.33% : spaghetti squash
+ 0.10% : strainer
+ 0.10% : wok
+ 0.09% : frying pan
+ 0.08% : American black bear
+ 0.08% : croquet ball
+ 0.07% : pineapple
+ 0.07% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q023.jpg
+70.02% : lemon
+12.54% : orange
+ 0.42% : spaghetti squash
+ 0.12% : wok
+ 0.12% : strainer
+ 0.11% : frying pan
+ 0.10% : American black bear
+ 0.09% : croquet ball
+ 0.09% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q024.jpg
+69.37% : lemon
+11.51% : orange
+ 0.41% : spaghetti squash
+ 0.12% : wok
+ 0.12% : frying pan
+ 0.12% : strainer
+ 0.12% : croquet ball
+ 0.10% : American black bear
+ 0.09% : spatula
+ 0.09% : cheeseburger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q025.jpg
+73.98% : lemon
+ 9.13% : orange
+ 0.39% : spaghetti squash
+ 0.13% : wok
+ 0.10% : frying pan
+ 0.10% : strainer
+ 0.10% : croquet ball
+ 0.09% : American black bear
+ 0.09% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q026.jpg
+71.51% : lemon
+11.18% : orange
+ 0.36% : spaghetti squash
+ 0.11% : strainer
+ 0.11% : wok
+ 0.10% : American black bear
+ 0.10% : croquet ball
+ 0.09% : frying pan
+ 0.08% : pineapple
+ 0.08% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q027.jpg
+69.98% : lemon
+12.04% : orange
+ 0.46% : spaghetti squash
+ 0.11% : wok
+ 0.11% : strainer
+ 0.10% : croquet ball
+ 0.10% : American black bear
+ 0.09% : frying pan
+ 0.09% : pineapple
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q028.jpg
+69.41% : lemon
+10.56% : orange
+ 0.45% : spaghetti squash
+ 0.13% : wok
+ 0.11% : croquet ball
+ 0.11% : frying pan
+ 0.11% : strainer
+ 0.11% : American black bear
+ 0.09% : spatula
+ 0.09% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q029.jpg
+68.99% : lemon
+11.32% : orange
+ 0.47% : spaghetti squash
+ 0.13% : wok
+ 0.12% : croquet ball
+ 0.11% : strainer
+ 0.11% : frying pan
+ 0.11% : American black bear
+ 0.09% : spatula
+ 0.09% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q030.jpg
+67.71% : lemon
+13.31% : orange
+ 0.37% : spaghetti squash
+ 0.13% : wok
+ 0.12% : strainer
+ 0.11% : frying pan
+ 0.10% : American black bear
+ 0.10% : croquet ball
+ 0.09% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q031.jpg
+67.75% : lemon
+12.65% : orange
+ 0.38% : spaghetti squash
+ 0.12% : strainer
+ 0.10% : American black bear
+ 0.10% : wok
+ 0.10% : croquet ball
+ 0.10% : frying pan
+ 0.09% : pineapple
+ 0.09% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q032.jpg
+71.19% : lemon
+11.29% : orange
+ 0.34% : spaghetti squash
+ 0.11% : strainer
+ 0.10% : wok
+ 0.10% : croquet ball
+ 0.09% : frying pan
+ 0.09% : American black bear
+ 0.08% : pineapple
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q033.jpg
+69.90% : lemon
+11.34% : orange
+ 0.42% : spaghetti squash
+ 0.11% : strainer
+ 0.10% : croquet ball
+ 0.10% : wok
+ 0.10% : American black bear
+ 0.09% : pineapple
+ 0.08% : frying pan
+ 0.08% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q034.jpg
+69.99% : lemon
+10.37% : orange
+ 0.47% : spaghetti squash
+ 0.11% : strainer
+ 0.11% : wok
+ 0.11% : croquet ball
+ 0.10% : American black bear
+ 0.09% : frying pan
+ 0.09% : pineapple
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q035.jpg
+70.59% : lemon
+11.44% : orange
+ 0.46% : spaghetti squash
+ 0.11% : croquet ball
+ 0.11% : strainer
+ 0.10% : wok
+ 0.10% : American black bear
+ 0.09% : frying pan
+ 0.08% : pineapple
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q036.jpg
+67.69% : lemon
+13.00% : orange
+ 0.48% : spaghetti squash
+ 0.12% : strainer
+ 0.11% : croquet ball
+ 0.11% : wok
+ 0.11% : American black bear
+ 0.10% : frying pan
+ 0.09% : pineapple
+ 0.09% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q037.jpg
+65.88% : lemon
+13.99% : orange
+ 0.49% : spaghetti squash
+ 0.12% : strainer
+ 0.11% : croquet ball
+ 0.11% : American black bear
+ 0.11% : wok
+ 0.09% : pineapple
+ 0.09% : daisy
+ 0.09% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q038.jpg
+67.23% : lemon
+12.95% : orange
+ 0.51% : spaghetti squash
+ 0.12% : wok
+ 0.12% : strainer
+ 0.11% : croquet ball
+ 0.11% : American black bear
+ 0.10% : pineapple
+ 0.09% : frying pan
+ 0.09% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q039.jpg
+68.77% : lemon
+11.01% : orange
+ 0.51% : spaghetti squash
+ 0.12% : strainer
+ 0.12% : wok
+ 0.11% : croquet ball
+ 0.10% : American black bear
+ 0.09% : pineapple
+ 0.09% : frying pan
+ 0.09% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q040.jpg
+69.97% : lemon
+10.91% : orange
+ 0.50% : spaghetti squash
+ 0.12% : wok
+ 0.12% : strainer
+ 0.10% : croquet ball
+ 0.09% : American black bear
+ 0.09% : pineapple
+ 0.09% : frying pan
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q041.jpg
+74.18% : lemon
+ 9.15% : orange
+ 0.44% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.08% : American black bear
+ 0.08% : pineapple
+ 0.08% : frying pan
+ 0.07% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q042.jpg
+72.28% : lemon
+10.23% : orange
+ 0.42% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.09% : frying pan
+ 0.08% : pineapple
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q043.jpg
+72.84% : lemon
+10.09% : orange
+ 0.41% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.08% : frying pan
+ 0.08% : pineapple
+ 0.07% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q044.jpg
+71.34% : lemon
+ 9.65% : orange
+ 0.53% : spaghetti squash
+ 0.13% : wok
+ 0.12% : strainer
+ 0.10% : frying pan
+ 0.10% : croquet ball
+ 0.09% : daisy
+ 0.09% : pineapple
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q045.jpg
+71.19% : lemon
+10.15% : orange
+ 0.57% : spaghetti squash
+ 0.14% : wok
+ 0.12% : strainer
+ 0.10% : frying pan
+ 0.10% : daisy
+ 0.09% : croquet ball
+ 0.09% : pineapple
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q046.jpg
+71.32% : lemon
+10.11% : orange
+ 0.53% : spaghetti squash
+ 0.14% : wok
+ 0.12% : strainer
+ 0.10% : croquet ball
+ 0.09% : frying pan
+ 0.09% : pineapple
+ 0.09% : daisy
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q047.jpg
+71.25% : lemon
+10.03% : orange
+ 0.54% : spaghetti squash
+ 0.14% : wok
+ 0.12% : strainer
+ 0.10% : croquet ball
+ 0.09% : frying pan
+ 0.09% : pineapple
+ 0.09% : daisy
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q048.jpg
+72.22% : lemon
+ 8.90% : orange
+ 0.49% : spaghetti squash
+ 0.15% : wok
+ 0.12% : strainer
+ 0.10% : frying pan
+ 0.10% : croquet ball
+ 0.09% : pineapple
+ 0.09% : American black bear
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q049.jpg
+71.79% : lemon
+ 8.82% : orange
+ 0.53% : spaghetti squash
+ 0.14% : wok
+ 0.12% : strainer
+ 0.10% : croquet ball
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : pineapple
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q050.jpg
+72.02% : lemon
+ 8.67% : orange
+ 0.53% : spaghetti squash
+ 0.14% : wok
+ 0.12% : strainer
+ 0.10% : croquet ball
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : pineapple
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q051.jpg
+72.12% : lemon
+ 8.53% : orange
+ 0.54% : spaghetti squash
+ 0.14% : wok
+ 0.12% : strainer
+ 0.10% : croquet ball
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : pineapple
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q052.jpg
+73.47% : lemon
+ 9.04% : orange
+ 0.40% : spaghetti squash
+ 0.12% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.08% : pineapple
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q053.jpg
+73.85% : lemon
+ 8.66% : orange
+ 0.41% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.08% : pineapple
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q054.jpg
+74.05% : lemon
+ 8.39% : orange
+ 0.42% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.08% : daisy
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q055.jpg
+72.43% : lemon
+ 9.31% : orange
+ 0.42% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.08% : pineapple
+ 0.08% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q056.jpg
+71.64% : lemon
+ 9.25% : orange
+ 0.42% : spaghetti squash
+ 0.12% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.09% : pineapple
+ 0.09% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q057.jpg
+71.45% : lemon
+ 8.80% : orange
+ 0.43% : spaghetti squash
+ 0.13% : wok
+ 0.11% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.09% : pineapple
+ 0.09% : American black bear
+ 0.09% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q058.jpg
+74.39% : lemon
+ 7.60% : orange
+ 0.41% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.08% : American black bear
+ 0.08% : pineapple
+ 0.08% : daisy
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q059.jpg
+75.32% : lemon
+ 7.14% : orange
+ 0.41% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.08% : American black bear
+ 0.08% : daisy
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q060.jpg
+75.85% : lemon
+ 6.87% : orange
+ 0.40% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.08% : American black bear
+ 0.08% : pineapple
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q061.jpg
+74.92% : lemon
+ 7.81% : orange
+ 0.35% : spaghetti squash
+ 0.11% : wok
+ 0.10% : frying pan
+ 0.09% : strainer
+ 0.08% : croquet ball
+ 0.08% : American black bear
+ 0.08% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q062.jpg
+74.34% : lemon
+ 8.32% : orange
+ 0.35% : spaghetti squash
+ 0.11% : wok
+ 0.10% : frying pan
+ 0.09% : strainer
+ 0.09% : croquet ball
+ 0.08% : American black bear
+ 0.08% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q063.jpg
+74.87% : lemon
+ 7.98% : orange
+ 0.35% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.08% : croquet ball
+ 0.08% : American black bear
+ 0.08% : pineapple
+ 0.07% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q064.jpg
+75.82% : lemon
+ 7.20% : orange
+ 0.35% : spaghetti squash
+ 0.11% : wok
+ 0.09% : strainer
+ 0.09% : frying pan
+ 0.08% : croquet ball
+ 0.08% : American black bear
+ 0.07% : spatula
+ 0.07% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q065.jpg
+74.56% : lemon
+ 7.50% : orange
+ 0.42% : spaghetti squash
+ 0.11% : wok
+ 0.10% : frying pan
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.08% : spatula
+ 0.08% : daisy
+ 0.08% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q066.jpg
+74.41% : lemon
+ 7.31% : orange
+ 0.42% : spaghetti squash
+ 0.12% : wok
+ 0.11% : frying pan
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.09% : spatula
+ 0.08% : daisy
+ 0.08% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q067.jpg
+75.31% : lemon
+ 6.56% : orange
+ 0.42% : spaghetti squash
+ 0.11% : wok
+ 0.11% : frying pan
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.08% : spatula
+ 0.08% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q068.jpg
+75.26% : lemon
+ 6.73% : orange
+ 0.42% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : croquet ball
+ 0.09% : frying pan
+ 0.08% : daisy
+ 0.08% : spatula
+ 0.08% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q069.jpg
+75.13% : lemon
+ 6.24% : orange
+ 0.47% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.10% : croquet ball
+ 0.08% : daisy
+ 0.08% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q070.jpg
+75.07% : lemon
+ 6.85% : orange
+ 0.42% : spaghetti squash
+ 0.10% : strainer
+ 0.10% : wok
+ 0.09% : croquet ball
+ 0.09% : frying pan
+ 0.08% : daisy
+ 0.08% : American black bear
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q071.jpg
+73.31% : lemon
+ 7.28% : orange
+ 0.46% : spaghetti squash
+ 0.11% : wok
+ 0.11% : strainer
+ 0.10% : croquet ball
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q072.jpg
+73.67% : lemon
+ 7.30% : orange
+ 0.44% : spaghetti squash
+ 0.11% : wok
+ 0.11% : strainer
+ 0.10% : croquet ball
+ 0.10% : frying pan
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q073.jpg
+74.06% : lemon
+ 7.18% : orange
+ 0.43% : spaghetti squash
+ 0.12% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.09% : spatula
+ 0.08% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q074.jpg
+72.63% : lemon
+ 7.75% : orange
+ 0.43% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.11% : frying pan
+ 0.09% : croquet ball
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.09% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q075.jpg
+72.61% : lemon
+ 7.84% : orange
+ 0.43% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.11% : frying pan
+ 0.09% : croquet ball
+ 0.09% : daisy
+ 0.09% : spatula
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q076.jpg
+74.50% : lemon
+ 7.45% : orange
+ 0.39% : spaghetti squash
+ 0.10% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : croquet ball
+ 0.09% : daisy
+ 0.08% : spatula
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q077.jpg
+74.83% : lemon
+ 7.73% : orange
+ 0.38% : spaghetti squash
+ 0.10% : strainer
+ 0.09% : wok
+ 0.08% : daisy
+ 0.08% : croquet ball
+ 0.08% : frying pan
+ 0.08% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q078.jpg
+73.51% : lemon
+ 8.62% : orange
+ 0.40% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q079.jpg
+73.43% : lemon
+ 8.83% : orange
+ 0.40% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.08% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q080.jpg
+73.82% : lemon
+ 8.39% : orange
+ 0.40% : spaghetti squash
+ 0.11% : wok
+ 0.10% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.08% : American black bear
+ 0.08% : daisy
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q081.jpg
+74.20% : lemon
+ 8.04% : orange
+ 0.40% : spaghetti squash
+ 0.10% : wok
+ 0.10% : strainer
+ 0.09% : frying pan
+ 0.09% : daisy
+ 0.08% : croquet ball
+ 0.08% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q082.jpg
+74.00% : lemon
+ 7.83% : orange
+ 0.41% : spaghetti squash
+ 0.10% : strainer
+ 0.10% : wok
+ 0.09% : croquet ball
+ 0.09% : daisy
+ 0.09% : frying pan
+ 0.09% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q083.jpg
+73.78% : lemon
+ 7.79% : orange
+ 0.41% : spaghetti squash
+ 0.11% : wok
+ 0.11% : strainer
+ 0.09% : daisy
+ 0.09% : frying pan
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q084.jpg
+73.51% : lemon
+ 7.71% : orange
+ 0.44% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.09% : daisy
+ 0.09% : American black bear
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q085.jpg
+73.20% : lemon
+ 8.00% : orange
+ 0.40% : spaghetti squash
+ 0.13% : wok
+ 0.11% : frying pan
+ 0.11% : strainer
+ 0.09% : American black bear
+ 0.09% : daisy
+ 0.09% : spatula
+ 0.09% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q086.jpg
+71.58% : lemon
+ 8.57% : orange
+ 0.45% : spaghetti squash
+ 0.13% : wok
+ 0.12% : strainer
+ 0.11% : frying pan
+ 0.10% : daisy
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.09% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q087.jpg
+71.97% : lemon
+ 8.72% : orange
+ 0.44% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.11% : daisy
+ 0.10% : frying pan
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.09% : water snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q088.jpg
+72.85% : lemon
+ 8.15% : orange
+ 0.44% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : frying pan
+ 0.10% : daisy
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.09% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q089.jpg
+72.05% : lemon
+ 8.55% : orange
+ 0.43% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : daisy
+ 0.10% : frying pan
+ 0.09% : croquet ball
+ 0.09% : spatula
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q090.jpg
+73.37% : lemon
+ 7.52% : orange
+ 0.44% : spaghetti squash
+ 0.13% : wok
+ 0.11% : strainer
+ 0.11% : frying pan
+ 0.10% : daisy
+ 0.09% : croquet ball
+ 0.09% : spatula
+ 0.09% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q091.jpg
+72.69% : lemon
+ 8.35% : orange
+ 0.39% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : frying pan
+ 0.10% : daisy
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q092.jpg
+70.95% : lemon
+ 9.23% : orange
+ 0.40% : spaghetti squash
+ 0.11% : daisy
+ 0.11% : strainer
+ 0.10% : wok
+ 0.10% : American black bear
+ 0.09% : frying pan
+ 0.09% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q093.jpg
+72.71% : lemon
+ 8.65% : orange
+ 0.39% : spaghetti squash
+ 0.12% : strainer
+ 0.11% : wok
+ 0.10% : daisy
+ 0.10% : frying pan
+ 0.09% : American black bear
+ 0.08% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q094.jpg
+71.36% : lemon
+ 8.88% : orange
+ 0.50% : spaghetti squash
+ 0.12% : strainer
+ 0.12% : wok
+ 0.11% : daisy
+ 0.10% : frying pan
+ 0.09% : American black bear
+ 0.09% : pineapple
+ 0.08% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q095.jpg
+73.00% : lemon
+ 8.19% : orange
+ 0.48% : spaghetti squash
+ 0.12% : strainer
+ 0.12% : wok
+ 0.10% : daisy
+ 0.10% : frying pan
+ 0.09% : American black bear
+ 0.08% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q096.jpg
+73.56% : lemon
+ 7.96% : orange
+ 0.47% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : frying pan
+ 0.10% : daisy
+ 0.09% : croquet ball
+ 0.09% : American black bear
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q097.jpg
+73.89% : lemon
+ 7.68% : orange
+ 0.45% : spaghetti squash
+ 0.11% : strainer
+ 0.11% : wok
+ 0.10% : frying pan
+ 0.10% : daisy
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q098.jpg
+72.94% : lemon
+ 8.19% : orange
+ 0.46% : spaghetti squash
+ 0.12% : wok
+ 0.11% : strainer
+ 0.10% : daisy
+ 0.10% : frying pan
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q099.jpg
+72.93% : lemon
+ 8.02% : orange
+ 0.45% : spaghetti squash
+ 0.12% : wok
+ 0.12% : strainer
+ 0.11% : frying pan
+ 0.11% : daisy
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon27Q100.jpg
+72.34% : lemon
+ 8.21% : orange
+ 0.47% : spaghetti squash
+ 0.13% : wok
+ 0.12% : strainer
+ 0.11% : frying pan
+ 0.11% : daisy
+ 0.09% : American black bear
+ 0.09% : croquet ball
+ 0.08% : pineapple

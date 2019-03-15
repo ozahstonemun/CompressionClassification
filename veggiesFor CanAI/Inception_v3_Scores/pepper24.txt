@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q001.jpg
+86.30% : bell pepper
+ 3.62% : confectionery
+ 1.37% : candle
+ 0.34% : orange
+ 0.29% : pomegranate
+ 0.24% : strawberry
+ 0.24% : ice lolly
+ 0.23% : bakery
+ 0.18% : rubber eraser
+ 0.18% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q002.jpg
+86.30% : bell pepper
+ 3.62% : confectionery
+ 1.37% : candle
+ 0.34% : orange
+ 0.29% : pomegranate
+ 0.24% : strawberry
+ 0.24% : ice lolly
+ 0.23% : bakery
+ 0.18% : rubber eraser
+ 0.18% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q003.jpg
+85.48% : bell pepper
+ 4.05% : confectionery
+ 1.35% : candle
+ 0.38% : orange
+ 0.31% : pomegranate
+ 0.26% : strawberry
+ 0.25% : ice lolly
+ 0.23% : bakery
+ 0.19% : packet
+ 0.19% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q004.jpg
+99.50% : bell pepper
+ 0.06% : pomegranate
+ 0.03% : Granny Smith
+ 0.02% : cucumber
+ 0.02% : grocery store
+ 0.02% : buckeye
+ 0.01% : strawberry
+ 0.01% : candle
+ 0.01% : confectionery
+ 0.01% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q005.jpg
+99.53% : bell pepper
+ 0.04% : pomegranate
+ 0.02% : corn
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : cucumber
+ 0.01% : confectionery
+ 0.01% : ear
+ 0.00% : cauliflower
+ 0.00% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q006.jpg
+99.49% : bell pepper
+ 0.03% : pomegranate
+ 0.02% : grocery store
+ 0.02% : corn
+ 0.02% : cucumber
+ 0.01% : buckeye
+ 0.01% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : gas pump
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q007.jpg
+99.22% : bell pepper
+ 0.08% : corn
+ 0.04% : pomegranate
+ 0.03% : grocery store
+ 0.02% : Granny Smith
+ 0.01% : ear
+ 0.01% : cucumber
+ 0.01% : confectionery
+ 0.01% : jackfruit
+ 0.01% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q008.jpg
+99.13% : bell pepper
+ 0.06% : grocery store
+ 0.04% : pomegranate
+ 0.04% : corn
+ 0.03% : Granny Smith
+ 0.02% : cucumber
+ 0.01% : ear
+ 0.01% : dumbbell
+ 0.01% : candle
+ 0.01% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q009.jpg
+99.01% : bell pepper
+ 0.05% : corn
+ 0.04% : grocery store
+ 0.02% : ear
+ 0.01% : cucumber
+ 0.01% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : abacus
+ 0.01% : pomegranate
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q010.jpg
+99.21% : bell pepper
+ 0.05% : grocery store
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.01% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : ear
+ 0.01% : pomegranate
+ 0.01% : abacus
+ 0.01% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q011.jpg
+97.66% : bell pepper
+ 0.12% : grocery store
+ 0.09% : corn
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : abacus
+ 0.02% : pomegranate
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q012.jpg
+98.07% : bell pepper
+ 0.11% : grocery store
+ 0.04% : corn
+ 0.02% : Granny Smith
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.01% : ear
+ 0.01% : jackfruit
+ 0.01% : pomegranate
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q013.jpg
+98.59% : bell pepper
+ 0.07% : grocery store
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : ear
+ 0.01% : abacus
+ 0.01% : dumbbell
+ 0.01% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q014.jpg
+98.62% : bell pepper
+ 0.07% : grocery store
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.01% : Granny Smith
+ 0.01% : abacus
+ 0.01% : jackfruit
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q015.jpg
+97.39% : bell pepper
+ 0.12% : grocery store
+ 0.04% : corn
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.01% : zucchini
+ 0.01% : pomegranate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q016.jpg
+98.11% : bell pepper
+ 0.10% : grocery store
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : abacus
+ 0.01% : ear
+ 0.01% : jackfruit
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q017.jpg
+98.25% : bell pepper
+ 0.11% : grocery store
+ 0.03% : corn
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.01% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : ear
+ 0.01% : Norfolk terrier
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q018.jpg
+97.65% : bell pepper
+ 0.12% : grocery store
+ 0.04% : corn
+ 0.02% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : abacus
+ 0.01% : ear
+ 0.01% : Norfolk terrier
+ 0.01% : stove
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q019.jpg
+98.04% : bell pepper
+ 0.12% : grocery store
+ 0.06% : corn
+ 0.02% : cucumber
+ 0.02% : ear
+ 0.02% : abacus
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q020.jpg
+96.84% : bell pepper
+ 0.18% : grocery store
+ 0.07% : corn
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.03% : Granny Smith
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : saltshaker
+ 0.02% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q021.jpg
+97.21% : bell pepper
+ 0.18% : grocery store
+ 0.07% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.01% : gas pump
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q022.jpg
+97.30% : bell pepper
+ 0.12% : grocery store
+ 0.04% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.01% : ear
+ 0.01% : gas pump
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q023.jpg
+97.83% : bell pepper
+ 0.13% : grocery store
+ 0.05% : corn
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q024.jpg
+97.36% : bell pepper
+ 0.14% : grocery store
+ 0.05% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.01% : stove
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q025.jpg
+97.36% : bell pepper
+ 0.16% : grocery store
+ 0.04% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q026.jpg
+96.97% : bell pepper
+ 0.17% : grocery store
+ 0.07% : corn
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q027.jpg
+97.68% : bell pepper
+ 0.13% : grocery store
+ 0.06% : corn
+ 0.02% : cucumber
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : abacus
+ 0.01% : Granny Smith
+ 0.01% : stove
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q028.jpg
+97.24% : bell pepper
+ 0.14% : grocery store
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q029.jpg
+96.84% : bell pepper
+ 0.16% : grocery store
+ 0.13% : corn
+ 0.04% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q030.jpg
+97.63% : bell pepper
+ 0.12% : grocery store
+ 0.10% : corn
+ 0.03% : ear
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q031.jpg
+98.06% : bell pepper
+ 0.12% : grocery store
+ 0.05% : corn
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q032.jpg
+97.50% : bell pepper
+ 0.14% : grocery store
+ 0.06% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q033.jpg
+97.87% : bell pepper
+ 0.13% : grocery store
+ 0.06% : corn
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : Norfolk terrier
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q034.jpg
+97.73% : bell pepper
+ 0.13% : grocery store
+ 0.06% : corn
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q035.jpg
+97.28% : bell pepper
+ 0.15% : grocery store
+ 0.09% : corn
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q036.jpg
+96.85% : bell pepper
+ 0.16% : grocery store
+ 0.11% : corn
+ 0.04% : ear
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q037.jpg
+96.67% : bell pepper
+ 0.17% : grocery store
+ 0.10% : corn
+ 0.04% : ear
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q038.jpg
+97.44% : bell pepper
+ 0.13% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q039.jpg
+96.92% : bell pepper
+ 0.16% : grocery store
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.02% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q040.jpg
+97.23% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q041.jpg
+97.31% : bell pepper
+ 0.15% : grocery store
+ 0.06% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : Norfolk terrier
+ 0.02% : ear
+ 0.02% : jackfruit
+ 0.02% : stove
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q042.jpg
+97.70% : bell pepper
+ 0.13% : grocery store
+ 0.05% : corn
+ 0.02% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.01% : dumbbell
+ 0.01% : jackfruit
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q043.jpg
+97.52% : bell pepper
+ 0.13% : grocery store
+ 0.06% : corn
+ 0.03% : cucumber
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q044.jpg
+97.27% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : gas pump
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q045.jpg
+97.23% : bell pepper
+ 0.14% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : gas pump
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q046.jpg
+97.11% : bell pepper
+ 0.13% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q047.jpg
+97.10% : bell pepper
+ 0.13% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q048.jpg
+97.00% : bell pepper
+ 0.13% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q049.jpg
+96.98% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : dumbbell
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q050.jpg
+96.99% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : dumbbell
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q051.jpg
+96.97% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : dumbbell
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q052.jpg
+96.67% : bell pepper
+ 0.15% : grocery store
+ 0.09% : corn
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : dumbbell
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q053.jpg
+96.47% : bell pepper
+ 0.16% : grocery store
+ 0.10% : corn
+ 0.04% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.03% : dumbbell
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q054.jpg
+96.52% : bell pepper
+ 0.16% : grocery store
+ 0.10% : corn
+ 0.04% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : dumbbell
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q055.jpg
+96.62% : bell pepper
+ 0.14% : grocery store
+ 0.10% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q056.jpg
+96.83% : bell pepper
+ 0.15% : grocery store
+ 0.10% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q057.jpg
+96.27% : bell pepper
+ 0.17% : grocery store
+ 0.12% : corn
+ 0.04% : abacus
+ 0.04% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q058.jpg
+96.83% : bell pepper
+ 0.16% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q059.jpg
+97.03% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q060.jpg
+97.17% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q061.jpg
+97.44% : bell pepper
+ 0.12% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q062.jpg
+97.45% : bell pepper
+ 0.13% : grocery store
+ 0.09% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.01% : jackfruit
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q063.jpg
+97.54% : bell pepper
+ 0.12% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : Granny Smith
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q064.jpg
+97.51% : bell pepper
+ 0.12% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : Granny Smith
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q065.jpg
+97.48% : bell pepper
+ 0.14% : grocery store
+ 0.07% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.01% : dumbbell
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q066.jpg
+97.30% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q067.jpg
+97.39% : bell pepper
+ 0.14% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q068.jpg
+97.73% : bell pepper
+ 0.12% : grocery store
+ 0.07% : corn
+ 0.02% : abacus
+ 0.02% : ear
+ 0.02% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q069.jpg
+97.73% : bell pepper
+ 0.12% : grocery store
+ 0.09% : corn
+ 0.03% : ear
+ 0.02% : abacus
+ 0.02% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.01% : jackfruit
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q070.jpg
+97.30% : bell pepper
+ 0.14% : grocery store
+ 0.10% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q071.jpg
+96.87% : bell pepper
+ 0.15% : grocery store
+ 0.11% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q072.jpg
+97.06% : bell pepper
+ 0.14% : grocery store
+ 0.10% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q073.jpg
+97.05% : bell pepper
+ 0.15% : grocery store
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q074.jpg
+97.01% : bell pepper
+ 0.14% : grocery store
+ 0.12% : corn
+ 0.04% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q075.jpg
+96.95% : bell pepper
+ 0.14% : grocery store
+ 0.12% : corn
+ 0.04% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q076.jpg
+96.59% : bell pepper
+ 0.16% : corn
+ 0.15% : grocery store
+ 0.04% : ear
+ 0.04% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q077.jpg
+97.25% : bell pepper
+ 0.13% : corn
+ 0.13% : grocery store
+ 0.04% : ear
+ 0.03% : abacus
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q078.jpg
+97.25% : bell pepper
+ 0.13% : grocery store
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q079.jpg
+97.02% : bell pepper
+ 0.13% : grocery store
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q080.jpg
+97.14% : bell pepper
+ 0.13% : grocery store
+ 0.10% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q081.jpg
+97.17% : bell pepper
+ 0.12% : grocery store
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.02% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q082.jpg
+97.22% : bell pepper
+ 0.12% : grocery store
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q083.jpg
+96.86% : bell pepper
+ 0.13% : grocery store
+ 0.12% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q084.jpg
+97.18% : bell pepper
+ 0.13% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : ear
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q085.jpg
+97.05% : bell pepper
+ 0.15% : grocery store
+ 0.09% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q086.jpg
+97.17% : bell pepper
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q087.jpg
+96.89% : bell pepper
+ 0.15% : grocery store
+ 0.09% : corn
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q088.jpg
+97.25% : bell pepper
+ 0.14% : grocery store
+ 0.08% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q089.jpg
+97.18% : bell pepper
+ 0.15% : grocery store
+ 0.09% : corn
+ 0.03% : cucumber
+ 0.03% : abacus
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q090.jpg
+97.08% : bell pepper
+ 0.15% : grocery store
+ 0.09% : corn
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q091.jpg
+96.73% : bell pepper
+ 0.15% : grocery store
+ 0.13% : corn
+ 0.04% : ear
+ 0.04% : abacus
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q092.jpg
+96.47% : bell pepper
+ 0.21% : corn
+ 0.17% : grocery store
+ 0.06% : ear
+ 0.04% : abacus
+ 0.03% : cucumber
+ 0.03% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q093.jpg
+97.08% : bell pepper
+ 0.15% : corn
+ 0.12% : grocery store
+ 0.04% : ear
+ 0.04% : abacus
+ 0.03% : cucumber
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q094.jpg
+97.19% : bell pepper
+ 0.14% : corn
+ 0.12% : grocery store
+ 0.04% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.01% : gas pump
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q095.jpg
+97.31% : bell pepper
+ 0.12% : corn
+ 0.12% : grocery store
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q096.jpg
+97.13% : bell pepper
+ 0.13% : grocery store
+ 0.12% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q097.jpg
+97.17% : bell pepper
+ 0.13% : grocery store
+ 0.11% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Granny Smith
+ 0.02% : Norfolk terrier
+ 0.02% : jackfruit
+ 0.01% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q098.jpg
+97.27% : bell pepper
+ 0.13% : corn
+ 0.12% : grocery store
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q099.jpg
+97.24% : bell pepper
+ 0.13% : grocery store
+ 0.12% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper24Q100.jpg
+97.21% : bell pepper
+ 0.13% : grocery store
+ 0.12% : corn
+ 0.03% : ear
+ 0.03% : abacus
+ 0.03% : cucumber
+ 0.02% : Norfolk terrier
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+ 0.02% : dumbbell

@@ -1,0 +1,1401 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ001.jpg
+14.06% : lacewing
+ 6.02% : lycaenid
+ 5.67% : sombrero
+ 4.11% : admiral
+ 2.99% : monarch
+ 2.95% : lionfish
+ 2.69% : ringlet
+ 1.91% : maraca
+ 1.85% : dragonfly
+ 1.24% : chambered nautilus
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ002.jpg
+14.34% : lacewing
+ 5.90% : lycaenid
+ 5.62% : sombrero
+ 4.11% : admiral
+ 3.02% : monarch
+ 2.95% : ringlet
+ 2.55% : lionfish
+ 1.98% : maraca
+ 1.69% : dragonfly
+ 1.10% : chambered nautilus
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ003.jpg
+ 9.71% : monarch
+ 7.51% : lacewing
+ 2.93% : lycaenid
+ 2.63% : ringlet
+ 2.59% : flatworm
+ 2.00% : dragonfly
+ 1.88% : sombrero
+ 1.64% : porcupine
+ 1.56% : admiral
+ 1.29% : zebra
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ004.jpg
+27.73% : monarch
+ 7.86% : flatworm
+ 4.12% : lacewing
+ 3.84% : ringlet
+ 3.11% : lycaenid
+ 2.21% : sea slug
+ 1.62% : skunk
+ 1.17% : hair slide
+ 1.14% : terrapin
+ 1.13% : sulphur butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ005.jpg
+21.33% : monarch
+14.08% : ringlet
+11.30% : lacewing
+ 4.84% : flatworm
+ 2.87% : lycaenid
+ 1.59% : admiral
+ 1.52% : sulphur butterfly
+ 0.96% : porcupine
+ 0.87% : dragonfly
+ 0.83% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ006.jpg
+45.00% : ringlet
+15.76% : monarch
+ 8.72% : lacewing
+ 2.25% : sulphur butterfly
+ 1.69% : admiral
+ 1.44% : lycaenid
+ 0.57% : flatworm
+ 0.53% : cabbage butterfly
+ 0.52% : sombrero
+ 0.50% : porcupine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ007.jpg
+27.28% : ringlet
+23.25% : monarch
+11.09% : lacewing
+ 4.25% : lycaenid
+ 2.47% : admiral
+ 1.85% : sulphur butterfly
+ 0.65% : cabbage butterfly
+ 0.54% : flatworm
+ 0.46% : hair slide
+ 0.40% : zebra
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ008.jpg
+34.08% : monarch
+28.53% : ringlet
+ 7.24% : lacewing
+ 3.51% : lycaenid
+ 2.61% : admiral
+ 1.54% : sulphur butterfly
+ 0.51% : cabbage butterfly
+ 0.44% : hair slide
+ 0.26% : porcupine
+ 0.24% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ009.jpg
+44.72% : monarch
+17.78% : ringlet
+ 4.47% : lacewing
+ 1.30% : lycaenid
+ 1.20% : sulphur butterfly
+ 1.02% : admiral
+ 0.52% : hair slide
+ 0.45% : potter's wheel
+ 0.43% : porcupine
+ 0.40% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ010.jpg
+51.98% : monarch
+ 9.02% : ringlet
+ 3.85% : lacewing
+ 2.42% : lycaenid
+ 1.75% : sulphur butterfly
+ 1.28% : admiral
+ 0.44% : cabbage butterfly
+ 0.44% : hair slide
+ 0.34% : porcupine
+ 0.33% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ011.jpg
+48.94% : monarch
+14.42% : ringlet
+ 2.43% : lycaenid
+ 2.01% : lacewing
+ 1.81% : sulphur butterfly
+ 1.58% : admiral
+ 0.57% : hair slide
+ 0.57% : cabbage butterfly
+ 0.33% : porcupine
+ 0.31% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ012.jpg
+47.51% : monarch
+10.61% : ringlet
+ 2.51% : lycaenid
+ 2.11% : sulphur butterfly
+ 1.41% : lacewing
+ 1.14% : admiral
+ 0.64% : hair slide
+ 0.64% : cabbage butterfly
+ 0.45% : porcupine
+ 0.39% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ013.jpg
+40.27% : monarch
+12.36% : ringlet
+ 2.34% : sulphur butterfly
+ 2.30% : lycaenid
+ 1.25% : lacewing
+ 1.11% : admiral
+ 0.57% : hair slide
+ 0.56% : cabbage butterfly
+ 0.46% : worm fence
+ 0.41% : skunk
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ014.jpg
+45.78% : monarch
+ 9.99% : ringlet
+ 2.35% : sulphur butterfly
+ 1.76% : lycaenid
+ 1.45% : lacewing
+ 0.96% : admiral
+ 0.51% : worm fence
+ 0.46% : hair slide
+ 0.44% : table lamp
+ 0.43% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ015.jpg
+45.16% : monarch
+14.94% : ringlet
+ 2.37% : lycaenid
+ 2.03% : sulphur butterfly
+ 1.50% : lacewing
+ 1.11% : admiral
+ 0.64% : cabbage butterfly
+ 0.42% : hair slide
+ 0.35% : table lamp
+ 0.33% : porcupine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ016.jpg
+39.98% : monarch
+17.79% : ringlet
+ 2.78% : lycaenid
+ 2.51% : lacewing
+ 2.43% : sulphur butterfly
+ 1.05% : admiral
+ 0.66% : cabbage butterfly
+ 0.46% : hair slide
+ 0.31% : skunk
+ 0.31% : porcupine
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ017.jpg
+45.04% : monarch
+10.49% : ringlet
+ 3.33% : lacewing
+ 2.75% : lycaenid
+ 2.32% : sulphur butterfly
+ 1.39% : admiral
+ 0.51% : cabbage butterfly
+ 0.39% : orange
+ 0.35% : table lamp
+ 0.34% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ018.jpg
+40.57% : monarch
+13.94% : ringlet
+ 2.88% : lacewing
+ 2.88% : lycaenid
+ 2.37% : sulphur butterfly
+ 1.32% : admiral
+ 0.55% : cabbage butterfly
+ 0.54% : orange
+ 0.41% : hair slide
+ 0.36% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ019.jpg
+42.81% : monarch
+12.49% : ringlet
+ 2.28% : lycaenid
+ 2.13% : lacewing
+ 2.07% : sulphur butterfly
+ 1.11% : admiral
+ 0.45% : cabbage butterfly
+ 0.44% : orange
+ 0.42% : hair slide
+ 0.32% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ020.jpg
+54.74% : monarch
+ 7.06% : ringlet
+ 2.54% : sulphur butterfly
+ 2.03% : lycaenid
+ 1.41% : lacewing
+ 0.71% : admiral
+ 0.48% : hair slide
+ 0.42% : orange
+ 0.34% : cabbage butterfly
+ 0.32% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ021.jpg
+44.40% : monarch
+ 8.43% : ringlet
+ 2.67% : sulphur butterfly
+ 2.55% : lacewing
+ 2.40% : lycaenid
+ 0.81% : admiral
+ 0.55% : hair slide
+ 0.44% : orange
+ 0.42% : worm fence
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ022.jpg
+44.80% : monarch
+ 8.66% : ringlet
+ 2.88% : sulphur butterfly
+ 2.46% : lycaenid
+ 1.61% : lacewing
+ 0.65% : admiral
+ 0.49% : hair slide
+ 0.43% : worm fence
+ 0.41% : orange
+ 0.38% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ023.jpg
+41.17% : monarch
+ 9.33% : ringlet
+ 2.88% : sulphur butterfly
+ 2.43% : lycaenid
+ 2.34% : lacewing
+ 0.75% : admiral
+ 0.55% : hair slide
+ 0.43% : worm fence
+ 0.43% : orange
+ 0.40% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ024.jpg
+48.96% : monarch
+ 5.61% : ringlet
+ 2.28% : lacewing
+ 2.13% : sulphur butterfly
+ 2.11% : lycaenid
+ 0.55% : admiral
+ 0.51% : hair slide
+ 0.46% : orange
+ 0.41% : worm fence
+ 0.40% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ025.jpg
+47.81% : monarch
+ 7.47% : ringlet
+ 2.50% : sulphur butterfly
+ 2.32% : lycaenid
+ 1.95% : lacewing
+ 0.72% : admiral
+ 0.51% : orange
+ 0.45% : hair slide
+ 0.43% : cabbage butterfly
+ 0.34% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ026.jpg
+48.15% : monarch
+ 7.92% : ringlet
+ 2.32% : lacewing
+ 2.16% : lycaenid
+ 2.15% : sulphur butterfly
+ 0.58% : admiral
+ 0.54% : orange
+ 0.51% : hair slide
+ 0.40% : cabbage butterfly
+ 0.32% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ027.jpg
+43.63% : monarch
+ 6.61% : ringlet
+ 2.59% : lacewing
+ 2.35% : sulphur butterfly
+ 2.20% : lycaenid
+ 0.67% : admiral
+ 0.55% : orange
+ 0.43% : table lamp
+ 0.43% : hair slide
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ028.jpg
+43.55% : monarch
+ 6.76% : ringlet
+ 2.20% : lacewing
+ 2.05% : sulphur butterfly
+ 1.92% : lycaenid
+ 0.67% : hair slide
+ 0.67% : admiral
+ 0.48% : orange
+ 0.47% : table lamp
+ 0.42% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ029.jpg
+41.32% : monarch
+ 8.47% : ringlet
+ 2.27% : lacewing
+ 2.23% : lycaenid
+ 2.09% : sulphur butterfly
+ 0.74% : admiral
+ 0.61% : hair slide
+ 0.50% : worm fence
+ 0.45% : orange
+ 0.40% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ030.jpg
+38.19% : monarch
+ 7.63% : ringlet
+ 2.60% : sulphur butterfly
+ 2.38% : lycaenid
+ 2.16% : lacewing
+ 0.82% : admiral
+ 0.62% : hair slide
+ 0.51% : worm fence
+ 0.47% : cabbage butterfly
+ 0.47% : orange
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ031.jpg
+41.21% : monarch
+ 9.03% : ringlet
+ 2.91% : lycaenid
+ 2.42% : lacewing
+ 2.41% : sulphur butterfly
+ 0.83% : admiral
+ 0.59% : hair slide
+ 0.43% : worm fence
+ 0.43% : cabbage butterfly
+ 0.32% : orange
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ032.jpg
+41.17% : monarch
+ 8.93% : ringlet
+ 2.87% : lycaenid
+ 2.28% : sulphur butterfly
+ 2.13% : lacewing
+ 0.83% : admiral
+ 0.53% : hair slide
+ 0.47% : cabbage butterfly
+ 0.44% : worm fence
+ 0.43% : orange
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ033.jpg
+40.82% : monarch
+ 8.64% : ringlet
+ 2.91% : lycaenid
+ 2.22% : sulphur butterfly
+ 2.18% : lacewing
+ 0.95% : admiral
+ 0.65% : hair slide
+ 0.45% : orange
+ 0.44% : cabbage butterfly
+ 0.40% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ034.jpg
+39.59% : monarch
+ 9.74% : ringlet
+ 2.92% : lycaenid
+ 2.47% : lacewing
+ 2.38% : sulphur butterfly
+ 0.91% : admiral
+ 0.60% : hair slide
+ 0.49% : cabbage butterfly
+ 0.47% : orange
+ 0.35% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ035.jpg
+34.71% : monarch
+ 9.85% : ringlet
+ 3.79% : lycaenid
+ 2.93% : lacewing
+ 2.64% : sulphur butterfly
+ 0.97% : admiral
+ 0.82% : hair slide
+ 0.60% : cabbage butterfly
+ 0.43% : orange
+ 0.42% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ036.jpg
+38.40% : monarch
+ 9.06% : ringlet
+ 2.75% : lycaenid
+ 2.51% : sulphur butterfly
+ 2.37% : lacewing
+ 0.83% : admiral
+ 0.73% : hair slide
+ 0.56% : orange
+ 0.52% : cabbage butterfly
+ 0.44% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ037.jpg
+37.79% : monarch
+ 8.30% : ringlet
+ 2.58% : lycaenid
+ 2.36% : sulphur butterfly
+ 2.28% : lacewing
+ 0.82% : admiral
+ 0.69% : hair slide
+ 0.66% : orange
+ 0.51% : cabbage butterfly
+ 0.47% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ038.jpg
+34.56% : monarch
+ 8.37% : ringlet
+ 2.79% : lycaenid
+ 2.67% : lacewing
+ 2.37% : sulphur butterfly
+ 0.95% : admiral
+ 0.62% : orange
+ 0.60% : cabbage butterfly
+ 0.51% : hair slide
+ 0.46% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ039.jpg
+34.89% : monarch
+ 8.32% : ringlet
+ 2.80% : lycaenid
+ 2.56% : lacewing
+ 2.36% : sulphur butterfly
+ 1.01% : admiral
+ 0.67% : orange
+ 0.52% : hair slide
+ 0.52% : cabbage butterfly
+ 0.45% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ040.jpg
+35.02% : monarch
+ 8.68% : ringlet
+ 2.33% : lacewing
+ 2.31% : lycaenid
+ 2.30% : sulphur butterfly
+ 0.91% : admiral
+ 0.80% : orange
+ 0.53% : cabbage butterfly
+ 0.50% : hair slide
+ 0.45% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ041.jpg
+34.72% : monarch
+ 7.43% : ringlet
+ 2.37% : sulphur butterfly
+ 2.24% : lycaenid
+ 1.71% : lacewing
+ 0.81% : admiral
+ 0.71% : orange
+ 0.54% : hair slide
+ 0.47% : cabbage butterfly
+ 0.40% : worm fence
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ042.jpg
+37.24% : monarch
+ 7.93% : ringlet
+ 2.24% : lycaenid
+ 2.21% : sulphur butterfly
+ 1.51% : lacewing
+ 0.80% : admiral
+ 0.69% : orange
+ 0.47% : cabbage butterfly
+ 0.45% : table lamp
+ 0.43% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ043.jpg
+38.34% : monarch
+ 7.05% : ringlet
+ 2.25% : sulphur butterfly
+ 2.06% : lycaenid
+ 1.46% : lacewing
+ 0.77% : admiral
+ 0.75% : orange
+ 0.47% : table lamp
+ 0.44% : cabbage butterfly
+ 0.37% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ044.jpg
+40.19% : monarch
+ 8.09% : ringlet
+ 2.81% : lycaenid
+ 2.44% : sulphur butterfly
+ 1.88% : lacewing
+ 0.81% : admiral
+ 0.66% : orange
+ 0.48% : hair slide
+ 0.46% : cabbage butterfly
+ 0.45% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ045.jpg
+40.68% : monarch
+ 7.58% : ringlet
+ 3.01% : lycaenid
+ 2.58% : sulphur butterfly
+ 1.84% : lacewing
+ 0.82% : admiral
+ 0.69% : orange
+ 0.49% : hair slide
+ 0.47% : cabbage butterfly
+ 0.43% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ046.jpg
+39.04% : monarch
+ 6.95% : ringlet
+ 2.65% : sulphur butterfly
+ 2.27% : lycaenid
+ 2.02% : lacewing
+ 0.89% : admiral
+ 0.65% : orange
+ 0.45% : hair slide
+ 0.45% : cabbage butterfly
+ 0.43% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ047.jpg
+37.93% : monarch
+ 6.85% : ringlet
+ 2.66% : sulphur butterfly
+ 2.31% : lycaenid
+ 2.16% : lacewing
+ 0.91% : admiral
+ 0.67% : orange
+ 0.45% : table lamp
+ 0.43% : cabbage butterfly
+ 0.40% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ048.jpg
+37.85% : monarch
+ 6.78% : ringlet
+ 2.56% : sulphur butterfly
+ 2.22% : lacewing
+ 2.09% : lycaenid
+ 0.85% : admiral
+ 0.79% : orange
+ 0.47% : table lamp
+ 0.42% : cabbage butterfly
+ 0.40% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ049.jpg
+32.79% : monarch
+ 7.22% : ringlet
+ 2.76% : sulphur butterfly
+ 2.52% : lycaenid
+ 1.95% : lacewing
+ 0.86% : admiral
+ 0.80% : orange
+ 0.54% : table lamp
+ 0.43% : cabbage butterfly
+ 0.41% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ050.jpg
+34.03% : monarch
+ 7.02% : ringlet
+ 2.73% : sulphur butterfly
+ 2.52% : lycaenid
+ 1.88% : lacewing
+ 0.82% : admiral
+ 0.82% : orange
+ 0.53% : table lamp
+ 0.42% : hair slide
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ051.jpg
+33.90% : monarch
+ 7.73% : ringlet
+ 2.66% : lycaenid
+ 2.55% : sulphur butterfly
+ 1.94% : lacewing
+ 0.86% : admiral
+ 0.78% : orange
+ 0.50% : table lamp
+ 0.44% : hair slide
+ 0.43% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ052.jpg
+40.22% : monarch
+ 7.65% : ringlet
+ 2.36% : lycaenid
+ 2.31% : lacewing
+ 2.27% : sulphur butterfly
+ 0.98% : admiral
+ 0.72% : orange
+ 0.47% : hair slide
+ 0.43% : cabbage butterfly
+ 0.39% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ053.jpg
+41.63% : monarch
+ 6.61% : ringlet
+ 2.31% : lacewing
+ 2.21% : sulphur butterfly
+ 2.11% : lycaenid
+ 0.97% : admiral
+ 0.72% : orange
+ 0.41% : cabbage butterfly
+ 0.40% : hair slide
+ 0.39% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ054.jpg
+40.23% : monarch
+ 7.01% : ringlet
+ 2.33% : lacewing
+ 2.19% : sulphur butterfly
+ 2.13% : lycaenid
+ 0.94% : admiral
+ 0.73% : orange
+ 0.42% : cabbage butterfly
+ 0.40% : table lamp
+ 0.39% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ055.jpg
+38.82% : monarch
+ 6.76% : ringlet
+ 2.22% : lacewing
+ 2.07% : sulphur butterfly
+ 1.96% : lycaenid
+ 0.92% : admiral
+ 0.70% : orange
+ 0.46% : hair slide
+ 0.41% : table lamp
+ 0.39% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ056.jpg
+41.68% : monarch
+ 6.50% : ringlet
+ 2.20% : lacewing
+ 1.93% : sulphur butterfly
+ 1.72% : lycaenid
+ 0.81% : admiral
+ 0.65% : orange
+ 0.46% : hair slide
+ 0.41% : table lamp
+ 0.36% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ057.jpg
+40.39% : monarch
+ 6.73% : ringlet
+ 2.27% : lacewing
+ 2.01% : sulphur butterfly
+ 1.97% : lycaenid
+ 0.85% : admiral
+ 0.62% : orange
+ 0.53% : hair slide
+ 0.41% : table lamp
+ 0.40% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ058.jpg
+44.06% : monarch
+ 7.02% : ringlet
+ 2.39% : lacewing
+ 2.10% : sulphur butterfly
+ 1.93% : lycaenid
+ 0.80% : admiral
+ 0.58% : orange
+ 0.45% : hair slide
+ 0.37% : cabbage butterfly
+ 0.37% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ059.jpg
+43.32% : monarch
+ 7.08% : ringlet
+ 2.63% : lacewing
+ 2.09% : sulphur butterfly
+ 1.95% : lycaenid
+ 0.84% : admiral
+ 0.59% : orange
+ 0.41% : hair slide
+ 0.37% : cabbage butterfly
+ 0.37% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ060.jpg
+43.06% : monarch
+ 7.00% : ringlet
+ 2.11% : sulphur butterfly
+ 2.03% : lacewing
+ 1.85% : lycaenid
+ 0.76% : admiral
+ 0.62% : orange
+ 0.46% : hair slide
+ 0.40% : cabbage butterfly
+ 0.37% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ061.jpg
+43.40% : monarch
+ 6.69% : ringlet
+ 2.01% : sulphur butterfly
+ 1.69% : lycaenid
+ 1.67% : lacewing
+ 0.71% : admiral
+ 0.65% : orange
+ 0.43% : table lamp
+ 0.43% : hair slide
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ062.jpg
+41.96% : monarch
+ 7.31% : ringlet
+ 2.02% : sulphur butterfly
+ 1.90% : lycaenid
+ 1.87% : lacewing
+ 0.75% : admiral
+ 0.69% : orange
+ 0.42% : table lamp
+ 0.41% : hair slide
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ063.jpg
+43.52% : monarch
+ 7.18% : ringlet
+ 2.02% : sulphur butterfly
+ 1.83% : lacewing
+ 1.68% : lycaenid
+ 0.78% : orange
+ 0.68% : admiral
+ 0.44% : table lamp
+ 0.39% : cabbage butterfly
+ 0.38% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ064.jpg
+42.66% : monarch
+ 7.16% : ringlet
+ 2.05% : sulphur butterfly
+ 1.97% : lacewing
+ 1.79% : lycaenid
+ 0.72% : admiral
+ 0.69% : orange
+ 0.45% : table lamp
+ 0.42% : cabbage butterfly
+ 0.38% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ065.jpg
+43.72% : monarch
+ 6.66% : ringlet
+ 2.15% : sulphur butterfly
+ 1.86% : lacewing
+ 1.81% : lycaenid
+ 0.70% : admiral
+ 0.55% : orange
+ 0.47% : table lamp
+ 0.41% : hair slide
+ 0.40% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ066.jpg
+44.31% : monarch
+ 5.88% : ringlet
+ 2.09% : sulphur butterfly
+ 1.80% : lycaenid
+ 1.66% : lacewing
+ 0.67% : admiral
+ 0.51% : orange
+ 0.48% : hair slide
+ 0.48% : table lamp
+ 0.39% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ067.jpg
+42.71% : monarch
+ 6.42% : ringlet
+ 2.04% : lacewing
+ 1.94% : sulphur butterfly
+ 1.77% : lycaenid
+ 0.77% : admiral
+ 0.51% : orange
+ 0.49% : hair slide
+ 0.48% : table lamp
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ068.jpg
+41.88% : monarch
+ 7.50% : ringlet
+ 2.28% : sulphur butterfly
+ 1.99% : lycaenid
+ 1.89% : lacewing
+ 0.77% : admiral
+ 0.53% : hair slide
+ 0.53% : orange
+ 0.44% : cabbage butterfly
+ 0.42% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ069.jpg
+42.15% : monarch
+ 7.51% : ringlet
+ 2.15% : sulphur butterfly
+ 1.95% : lacewing
+ 1.91% : lycaenid
+ 0.78% : admiral
+ 0.60% : orange
+ 0.44% : table lamp
+ 0.44% : cabbage butterfly
+ 0.43% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ070.jpg
+41.95% : monarch
+ 7.69% : ringlet
+ 2.27% : sulphur butterfly
+ 1.89% : lycaenid
+ 1.69% : lacewing
+ 0.78% : admiral
+ 0.58% : orange
+ 0.52% : hair slide
+ 0.45% : cabbage butterfly
+ 0.41% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ071.jpg
+44.74% : monarch
+ 7.06% : ringlet
+ 2.08% : sulphur butterfly
+ 1.62% : lacewing
+ 1.61% : lycaenid
+ 0.68% : admiral
+ 0.60% : orange
+ 0.44% : table lamp
+ 0.44% : hair slide
+ 0.40% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ072.jpg
+44.54% : monarch
+ 6.82% : ringlet
+ 2.11% : sulphur butterfly
+ 1.63% : lycaenid
+ 1.48% : lacewing
+ 0.65% : admiral
+ 0.57% : orange
+ 0.45% : hair slide
+ 0.42% : table lamp
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ073.jpg
+43.13% : monarch
+ 7.54% : ringlet
+ 2.15% : sulphur butterfly
+ 1.85% : lycaenid
+ 1.80% : lacewing
+ 0.70% : admiral
+ 0.59% : orange
+ 0.46% : cabbage butterfly
+ 0.44% : table lamp
+ 0.42% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ074.jpg
+40.25% : monarch
+ 8.64% : ringlet
+ 2.37% : sulphur butterfly
+ 2.23% : lacewing
+ 2.21% : lycaenid
+ 0.79% : admiral
+ 0.54% : orange
+ 0.51% : cabbage butterfly
+ 0.46% : hair slide
+ 0.44% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ075.jpg
+41.34% : monarch
+ 8.47% : ringlet
+ 2.43% : sulphur butterfly
+ 2.38% : lacewing
+ 2.31% : lycaenid
+ 0.83% : admiral
+ 0.51% : orange
+ 0.50% : cabbage butterfly
+ 0.43% : hair slide
+ 0.41% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ076.jpg
+40.08% : monarch
+ 9.57% : ringlet
+ 2.63% : lycaenid
+ 2.58% : sulphur butterfly
+ 2.35% : lacewing
+ 0.83% : admiral
+ 0.56% : orange
+ 0.51% : cabbage butterfly
+ 0.50% : hair slide
+ 0.38% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ077.jpg
+38.20% : monarch
+ 8.04% : ringlet
+ 2.57% : lycaenid
+ 2.37% : sulphur butterfly
+ 1.86% : lacewing
+ 0.78% : admiral
+ 0.61% : orange
+ 0.57% : hair slide
+ 0.50% : cabbage butterfly
+ 0.44% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ078.jpg
+40.91% : monarch
+ 8.16% : ringlet
+ 2.45% : sulphur butterfly
+ 2.43% : lycaenid
+ 1.94% : lacewing
+ 0.77% : admiral
+ 0.55% : orange
+ 0.49% : hair slide
+ 0.48% : cabbage butterfly
+ 0.39% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ079.jpg
+40.90% : monarch
+ 7.80% : ringlet
+ 2.41% : sulphur butterfly
+ 2.28% : lycaenid
+ 1.95% : lacewing
+ 0.77% : admiral
+ 0.68% : orange
+ 0.45% : cabbage butterfly
+ 0.42% : hair slide
+ 0.39% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ080.jpg
+39.49% : monarch
+ 7.39% : ringlet
+ 2.52% : sulphur butterfly
+ 2.43% : lycaenid
+ 1.78% : lacewing
+ 0.81% : admiral
+ 0.72% : orange
+ 0.46% : cabbage butterfly
+ 0.44% : table lamp
+ 0.40% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ081.jpg
+41.44% : monarch
+ 6.70% : ringlet
+ 2.38% : sulphur butterfly
+ 2.26% : lycaenid
+ 1.76% : lacewing
+ 0.82% : admiral
+ 0.75% : orange
+ 0.45% : table lamp
+ 0.44% : cabbage butterfly
+ 0.40% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ082.jpg
+38.50% : monarch
+ 6.85% : ringlet
+ 2.60% : lycaenid
+ 2.42% : sulphur butterfly
+ 1.77% : lacewing
+ 0.84% : admiral
+ 0.72% : orange
+ 0.48% : table lamp
+ 0.47% : cabbage butterfly
+ 0.46% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ083.jpg
+39.14% : monarch
+ 6.95% : ringlet
+ 2.41% : lycaenid
+ 2.38% : sulphur butterfly
+ 1.90% : lacewing
+ 0.88% : admiral
+ 0.66% : orange
+ 0.46% : table lamp
+ 0.45% : cabbage butterfly
+ 0.44% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ084.jpg
+39.31% : monarch
+ 7.22% : ringlet
+ 2.59% : lycaenid
+ 2.40% : sulphur butterfly
+ 1.73% : lacewing
+ 0.83% : admiral
+ 0.66% : orange
+ 0.49% : table lamp
+ 0.46% : hair slide
+ 0.45% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ085.jpg
+40.03% : monarch
+ 7.66% : ringlet
+ 2.60% : lycaenid
+ 2.52% : sulphur butterfly
+ 1.77% : lacewing
+ 0.88% : admiral
+ 0.65% : orange
+ 0.50% : hair slide
+ 0.48% : cabbage butterfly
+ 0.45% : table lamp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ086.jpg
+37.63% : monarch
+ 7.74% : ringlet
+ 2.61% : lycaenid
+ 2.53% : sulphur butterfly
+ 1.92% : lacewing
+ 0.93% : admiral
+ 0.64% : orange
+ 0.50% : hair slide
+ 0.48% : table lamp
+ 0.48% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ087.jpg
+39.79% : monarch
+ 7.77% : ringlet
+ 2.55% : sulphur butterfly
+ 2.38% : lycaenid
+ 2.07% : lacewing
+ 0.93% : admiral
+ 0.61% : orange
+ 0.49% : table lamp
+ 0.45% : cabbage butterfly
+ 0.44% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ088.jpg
+40.18% : monarch
+ 7.92% : ringlet
+ 2.40% : sulphur butterfly
+ 2.29% : lycaenid
+ 1.96% : lacewing
+ 0.88% : admiral
+ 0.61% : orange
+ 0.50% : table lamp
+ 0.48% : cabbage butterfly
+ 0.47% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ089.jpg
+40.63% : monarch
+ 6.89% : ringlet
+ 2.54% : sulphur butterfly
+ 2.34% : lycaenid
+ 2.05% : lacewing
+ 0.89% : admiral
+ 0.56% : orange
+ 0.52% : table lamp
+ 0.44% : hair slide
+ 0.41% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ090.jpg
+38.78% : monarch
+ 7.19% : ringlet
+ 2.63% : sulphur butterfly
+ 2.62% : lycaenid
+ 2.18% : lacewing
+ 0.92% : admiral
+ 0.61% : orange
+ 0.53% : table lamp
+ 0.49% : hair slide
+ 0.43% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ091.jpg
+39.26% : monarch
+ 7.17% : ringlet
+ 2.55% : lacewing
+ 2.52% : lycaenid
+ 2.35% : sulphur butterfly
+ 0.96% : admiral
+ 0.54% : orange
+ 0.48% : table lamp
+ 0.48% : hair slide
+ 0.43% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ092.jpg
+39.82% : monarch
+ 7.15% : ringlet
+ 2.49% : lacewing
+ 2.44% : lycaenid
+ 2.25% : sulphur butterfly
+ 0.98% : admiral
+ 0.53% : orange
+ 0.52% : hair slide
+ 0.48% : table lamp
+ 0.44% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ093.jpg
+38.46% : monarch
+ 7.10% : ringlet
+ 2.71% : lycaenid
+ 2.55% : lacewing
+ 2.19% : sulphur butterfly
+ 0.97% : admiral
+ 0.52% : orange
+ 0.52% : hair slide
+ 0.48% : table lamp
+ 0.44% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ094.jpg
+35.83% : monarch
+ 7.48% : ringlet
+ 3.18% : lycaenid
+ 2.46% : sulphur butterfly
+ 2.23% : lacewing
+ 0.99% : admiral
+ 0.58% : orange
+ 0.55% : hair slide
+ 0.51% : table lamp
+ 0.48% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ095.jpg
+36.79% : monarch
+ 7.42% : ringlet
+ 2.87% : lycaenid
+ 2.22% : sulphur butterfly
+ 1.85% : lacewing
+ 0.89% : admiral
+ 0.68% : hair slide
+ 0.59% : orange
+ 0.56% : table lamp
+ 0.45% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ096.jpg
+38.60% : monarch
+ 7.20% : ringlet
+ 2.70% : lycaenid
+ 2.29% : sulphur butterfly
+ 1.68% : lacewing
+ 0.93% : admiral
+ 0.64% : hair slide
+ 0.54% : orange
+ 0.54% : table lamp
+ 0.46% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ097.jpg
+39.29% : monarch
+ 6.97% : ringlet
+ 2.61% : lycaenid
+ 2.24% : sulphur butterfly
+ 1.78% : lacewing
+ 0.95% : admiral
+ 0.57% : hair slide
+ 0.52% : table lamp
+ 0.51% : orange
+ 0.47% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ098.jpg
+40.52% : monarch
+ 6.68% : ringlet
+ 2.68% : lycaenid
+ 2.29% : sulphur butterfly
+ 1.76% : lacewing
+ 0.96% : admiral
+ 0.51% : hair slide
+ 0.51% : table lamp
+ 0.49% : orange
+ 0.47% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMonarchQ099.jpg
+40.64% : monarch
+ 6.43% : ringlet
+ 2.64% : lycaenid
+ 2.32% : sulphur butterfly
+ 1.71% : lacewing
+ 0.91% : admiral
+ 0.53% : hair slide
+ 0.53% : table lamp
+ 0.49% : orange
+ 0.46% : cabbage butterfly
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorMornachQ100.jpg
+39.83% : monarch
+ 6.99% : ringlet
+ 2.61% : lycaenid
+ 2.36% : sulphur butterfly
+ 1.75% : lacewing
+ 0.95% : admiral
+ 0.54% : hair slide
+ 0.50% : orange
+ 0.47% : table lamp
+ 0.47% : cabbage butterfly
+

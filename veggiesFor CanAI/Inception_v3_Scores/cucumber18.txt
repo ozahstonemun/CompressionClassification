@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q001.jpg
+10.35% : bobsled
+ 6.62% : racer
+ 6.23% : canoe
+ 4.52% : beer bottle
+ 4.09% : toaster
+ 3.75% : bucket
+ 2.68% : cucumber
+ 2.29% : neck brace
+ 1.96% : sports car
+ 1.73% : crash helmet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q002.jpg
+10.41% : bobsled
+ 6.56% : racer
+ 6.33% : canoe
+ 4.50% : beer bottle
+ 4.25% : toaster
+ 3.83% : bucket
+ 2.74% : cucumber
+ 2.32% : neck brace
+ 1.95% : sports car
+ 1.70% : crash helmet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q003.jpg
+11.30% : bobsled
+ 7.11% : canoe
+ 6.14% : racer
+ 4.26% : toaster
+ 4.06% : beer bottle
+ 4.06% : bucket
+ 3.40% : cucumber
+ 2.03% : sports car
+ 1.97% : neck brace
+ 1.64% : measuring cup
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q004.jpg
+ 8.54% : cucumber
+ 8.33% : hotdog
+ 6.17% : toaster
+ 5.06% : canoe
+ 3.44% : racer
+ 3.34% : packet
+ 3.09% : bucket
+ 3.03% : hair slide
+ 2.48% : bobsled
+ 1.64% : coil
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q005.jpg
+38.34% : hair slide
+25.76% : cucumber
+ 4.16% : zucchini
+ 1.35% : tray
+ 1.32% : toilet seat
+ 1.15% : bucket
+ 0.97% : bathtub
+ 0.90% : canoe
+ 0.85% : buckle
+ 0.81% : hotdog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q006.jpg
+32.78% : hair slide
+25.90% : cucumber
+ 4.54% : zucchini
+ 2.70% : hotdog
+ 2.38% : bucket
+ 1.26% : buckle
+ 1.21% : nipple
+ 1.00% : packet
+ 1.00% : shower curtain
+ 0.83% : bath towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q007.jpg
+93.46% : cucumber
+ 1.75% : zucchini
+ 0.49% : bucket
+ 0.23% : beer glass
+ 0.17% : Petri dish
+ 0.14% : hair slide
+ 0.14% : pitcher
+ 0.13% : vase
+ 0.12% : beer bottle
+ 0.12% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q008.jpg
+78.34% : cucumber
+ 9.05% : zucchini
+ 0.75% : bucket
+ 0.63% : lighter
+ 0.42% : beer glass
+ 0.38% : Petri dish
+ 0.35% : beer bottle
+ 0.33% : wine bottle
+ 0.28% : packet
+ 0.24% : water bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q009.jpg
+48.88% : zucchini
+44.83% : cucumber
+ 0.24% : bucket
+ 0.20% : pitcher
+ 0.18% : Petri dish
+ 0.15% : measuring cup
+ 0.08% : wine bottle
+ 0.07% : vase
+ 0.07% : beaker
+ 0.07% : water jug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q010.jpg
+71.07% : cucumber
+19.09% : zucchini
+ 0.59% : bucket
+ 0.47% : Petri dish
+ 0.29% : pitcher
+ 0.15% : vase
+ 0.13% : beer glass
+ 0.13% : measuring cup
+ 0.13% : thimble
+ 0.12% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q011.jpg
+78.57% : cucumber
+ 9.19% : zucchini
+ 0.55% : Petri dish
+ 0.46% : beer bottle
+ 0.38% : bucket
+ 0.30% : beer glass
+ 0.25% : wine bottle
+ 0.22% : water bottle
+ 0.17% : slug
+ 0.16% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q012.jpg
+64.01% : cucumber
+26.08% : zucchini
+ 0.62% : Petri dish
+ 0.34% : wine bottle
+ 0.25% : beer bottle
+ 0.19% : beer glass
+ 0.16% : water bottle
+ 0.15% : bucket
+ 0.09% : vase
+ 0.09% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q013.jpg
+57.54% : cucumber
+28.80% : zucchini
+ 1.56% : Petri dish
+ 0.25% : beer glass
+ 0.19% : wine bottle
+ 0.18% : bucket
+ 0.18% : vase
+ 0.17% : pitcher
+ 0.15% : lemon
+ 0.15% : beer bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q014.jpg
+56.34% : cucumber
+33.19% : zucchini
+ 0.68% : Petri dish
+ 0.25% : beer glass
+ 0.24% : wine bottle
+ 0.12% : water bottle
+ 0.12% : beer bottle
+ 0.11% : bucket
+ 0.09% : vase
+ 0.09% : consomme
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q015.jpg
+49.76% : cucumber
+36.82% : zucchini
+ 1.51% : Petri dish
+ 0.30% : beer glass
+ 0.23% : frying pan
+ 0.18% : consomme
+ 0.17% : wine bottle
+ 0.15% : water bottle
+ 0.15% : beer bottle
+ 0.12% : vase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q016.jpg
+48.50% : cucumber
+40.21% : zucchini
+ 0.49% : Petri dish
+ 0.26% : frying pan
+ 0.12% : modem
+ 0.10% : wine bottle
+ 0.09% : lemon
+ 0.08% : consomme
+ 0.08% : beer glass
+ 0.08% : mortar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q017.jpg
+57.88% : cucumber
+31.68% : zucchini
+ 0.41% : Petri dish
+ 0.21% : frying pan
+ 0.09% : modem
+ 0.09% : lemon
+ 0.07% : consomme
+ 0.07% : wine bottle
+ 0.07% : beer glass
+ 0.07% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q018.jpg
+54.27% : cucumber
+28.87% : zucchini
+ 0.96% : Petri dish
+ 0.27% : frying pan
+ 0.22% : beer glass
+ 0.18% : consomme
+ 0.16% : mortar
+ 0.14% : lemon
+ 0.13% : modem
+ 0.13% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q019.jpg
+70.37% : cucumber
+20.74% : zucchini
+ 0.46% : Petri dish
+ 0.23% : frying pan
+ 0.10% : modem
+ 0.10% : beer glass
+ 0.09% : fountain
+ 0.09% : lemon
+ 0.08% : wine bottle
+ 0.07% : mortar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q020.jpg
+52.68% : cucumber
+39.31% : zucchini
+ 0.39% : Petri dish
+ 0.12% : frying pan
+ 0.11% : fountain
+ 0.11% : beer glass
+ 0.09% : wine bottle
+ 0.07% : modem
+ 0.07% : lemon
+ 0.06% : mortar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q021.jpg
+49.50% : zucchini
+37.99% : cucumber
+ 0.31% : Petri dish
+ 0.23% : frying pan
+ 0.13% : fountain
+ 0.11% : modem
+ 0.10% : mortar
+ 0.09% : consomme
+ 0.09% : acorn squash
+ 0.08% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q022.jpg
+52.32% : cucumber
+29.16% : zucchini
+ 0.56% : Petri dish
+ 0.34% : frying pan
+ 0.22% : beer glass
+ 0.20% : wine bottle
+ 0.19% : fountain
+ 0.16% : modem
+ 0.13% : lemon
+ 0.12% : beer bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q023.jpg
+61.48% : cucumber
+25.55% : zucchini
+ 0.56% : Petri dish
+ 0.17% : wine bottle
+ 0.16% : frying pan
+ 0.15% : modem
+ 0.11% : rubber eraser
+ 0.11% : fountain
+ 0.11% : beer glass
+ 0.09% : vase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q024.jpg
+54.81% : cucumber
+34.40% : zucchini
+ 0.37% : Petri dish
+ 0.17% : frying pan
+ 0.12% : wine bottle
+ 0.11% : modem
+ 0.08% : beer glass
+ 0.07% : fountain
+ 0.07% : mortar
+ 0.06% : consomme
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q025.jpg
+49.50% : cucumber
+36.49% : zucchini
+ 0.25% : Petri dish
+ 0.14% : frying pan
+ 0.12% : modem
+ 0.12% : wine bottle
+ 0.08% : fountain
+ 0.08% : acorn squash
+ 0.07% : sea cucumber
+ 0.07% : beer glass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q026.jpg
+65.64% : cucumber
+17.39% : zucchini
+ 0.52% : Petri dish
+ 0.17% : modem
+ 0.13% : wine bottle
+ 0.13% : fountain
+ 0.13% : frying pan
+ 0.12% : beer glass
+ 0.10% : ice lolly
+ 0.10% : water bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q027.jpg
+45.24% : cucumber
+31.98% : zucchini
+ 0.61% : Petri dish
+ 0.27% : frying pan
+ 0.18% : wine bottle
+ 0.16% : fountain
+ 0.14% : beer glass
+ 0.13% : broccoli
+ 0.13% : modem
+ 0.13% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q028.jpg
+37.18% : cucumber
+37.01% : zucchini
+ 0.62% : Petri dish
+ 0.33% : wine bottle
+ 0.29% : frying pan
+ 0.18% : beer bottle
+ 0.17% : beer glass
+ 0.15% : modem
+ 0.14% : water bottle
+ 0.13% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q029.jpg
+40.22% : cucumber
+27.96% : zucchini
+ 0.71% : Petri dish
+ 0.45% : wine bottle
+ 0.31% : frying pan
+ 0.29% : beer bottle
+ 0.25% : beer glass
+ 0.21% : fountain
+ 0.18% : water bottle
+ 0.18% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q030.jpg
+55.24% : cucumber
+25.02% : zucchini
+ 0.79% : Petri dish
+ 0.32% : wine bottle
+ 0.26% : frying pan
+ 0.20% : beer bottle
+ 0.18% : beer glass
+ 0.14% : fountain
+ 0.14% : water bottle
+ 0.12% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q031.jpg
+48.27% : cucumber
+28.73% : zucchini
+ 0.48% : Petri dish
+ 0.30% : frying pan
+ 0.25% : wine bottle
+ 0.19% : modem
+ 0.17% : beer glass
+ 0.15% : fountain
+ 0.15% : beer bottle
+ 0.14% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q032.jpg
+53.72% : cucumber
+24.41% : zucchini
+ 0.51% : Petri dish
+ 0.29% : wine bottle
+ 0.24% : frying pan
+ 0.18% : modem
+ 0.18% : beer glass
+ 0.17% : beer bottle
+ 0.16% : fountain
+ 0.14% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q033.jpg
+65.19% : cucumber
+16.84% : zucchini
+ 0.54% : Petri dish
+ 0.33% : wine bottle
+ 0.22% : frying pan
+ 0.22% : beer bottle
+ 0.19% : beer glass
+ 0.15% : modem
+ 0.15% : fountain
+ 0.13% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q034.jpg
+54.80% : cucumber
+20.82% : zucchini
+ 0.78% : Petri dish
+ 0.59% : wine bottle
+ 0.38% : beer bottle
+ 0.32% : beer glass
+ 0.29% : frying pan
+ 0.21% : water bottle
+ 0.20% : fountain
+ 0.18% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q035.jpg
+39.95% : cucumber
+38.19% : zucchini
+ 0.61% : Petri dish
+ 0.35% : wine bottle
+ 0.32% : frying pan
+ 0.17% : beer glass
+ 0.14% : water bottle
+ 0.14% : beer bottle
+ 0.13% : ice lolly
+ 0.13% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q036.jpg
+40.67% : cucumber
+30.94% : zucchini
+ 0.87% : Petri dish
+ 0.49% : wine bottle
+ 0.37% : frying pan
+ 0.24% : beer bottle
+ 0.22% : beer glass
+ 0.20% : water bottle
+ 0.19% : mouse
+ 0.17% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q037.jpg
+50.78% : cucumber
+25.50% : zucchini
+ 0.80% : Petri dish
+ 0.47% : wine bottle
+ 0.26% : frying pan
+ 0.24% : beer bottle
+ 0.19% : beer glass
+ 0.19% : water bottle
+ 0.15% : mouse
+ 0.15% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q038.jpg
+39.40% : cucumber
+34.37% : zucchini
+ 0.87% : Petri dish
+ 0.66% : wine bottle
+ 0.37% : frying pan
+ 0.37% : beer bottle
+ 0.26% : beer glass
+ 0.22% : pop bottle
+ 0.19% : water bottle
+ 0.18% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q039.jpg
+45.03% : cucumber
+28.75% : zucchini
+ 0.95% : Petri dish
+ 0.85% : wine bottle
+ 0.49% : beer bottle
+ 0.43% : frying pan
+ 0.26% : beer glass
+ 0.23% : pop bottle
+ 0.21% : ice lolly
+ 0.18% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q040.jpg
+54.84% : cucumber
+23.49% : zucchini
+ 0.78% : Petri dish
+ 0.63% : wine bottle
+ 0.35% : beer bottle
+ 0.29% : frying pan
+ 0.23% : beer glass
+ 0.18% : fountain
+ 0.17% : pop bottle
+ 0.15% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q041.jpg
+46.02% : cucumber
+30.36% : zucchini
+ 0.93% : wine bottle
+ 0.82% : Petri dish
+ 0.40% : beer bottle
+ 0.37% : frying pan
+ 0.25% : beer glass
+ 0.18% : fountain
+ 0.18% : red wine
+ 0.17% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q042.jpg
+52.05% : cucumber
+26.06% : zucchini
+ 0.71% : wine bottle
+ 0.66% : Petri dish
+ 0.42% : frying pan
+ 0.35% : beer bottle
+ 0.23% : beer glass
+ 0.19% : fountain
+ 0.17% : ice lolly
+ 0.15% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q043.jpg
+52.65% : cucumber
+25.16% : zucchini
+ 0.72% : wine bottle
+ 0.68% : Petri dish
+ 0.44% : frying pan
+ 0.36% : beer bottle
+ 0.24% : beer glass
+ 0.19% : fountain
+ 0.16% : ice lolly
+ 0.16% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q044.jpg
+47.04% : cucumber
+29.78% : zucchini
+ 0.87% : wine bottle
+ 0.51% : Petri dish
+ 0.47% : beer bottle
+ 0.26% : frying pan
+ 0.23% : beer glass
+ 0.22% : pop bottle
+ 0.18% : water bottle
+ 0.18% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q045.jpg
+50.30% : cucumber
+28.83% : zucchini
+ 0.70% : wine bottle
+ 0.49% : Petri dish
+ 0.40% : beer bottle
+ 0.23% : frying pan
+ 0.21% : beer glass
+ 0.19% : pop bottle
+ 0.15% : fountain
+ 0.15% : water bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q046.jpg
+50.07% : cucumber
+27.58% : zucchini
+ 0.69% : wine bottle
+ 0.65% : Petri dish
+ 0.29% : beer bottle
+ 0.26% : frying pan
+ 0.21% : beer glass
+ 0.18% : fountain
+ 0.17% : pop bottle
+ 0.16% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q047.jpg
+49.68% : cucumber
+28.01% : zucchini
+ 0.67% : wine bottle
+ 0.63% : Petri dish
+ 0.29% : beer bottle
+ 0.25% : frying pan
+ 0.21% : beer glass
+ 0.18% : fountain
+ 0.17% : pop bottle
+ 0.16% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q048.jpg
+49.17% : cucumber
+28.25% : zucchini
+ 0.64% : Petri dish
+ 0.64% : wine bottle
+ 0.27% : beer bottle
+ 0.26% : frying pan
+ 0.20% : beer glass
+ 0.18% : fountain
+ 0.16% : mouse
+ 0.16% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q049.jpg
+49.93% : cucumber
+28.91% : zucchini
+ 0.68% : Petri dish
+ 0.59% : wine bottle
+ 0.32% : beer bottle
+ 0.31% : frying pan
+ 0.22% : beer glass
+ 0.18% : fountain
+ 0.16% : mouse
+ 0.15% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q050.jpg
+49.58% : cucumber
+29.10% : zucchini
+ 0.70% : Petri dish
+ 0.60% : wine bottle
+ 0.32% : beer bottle
+ 0.31% : frying pan
+ 0.22% : beer glass
+ 0.18% : fountain
+ 0.17% : mouse
+ 0.15% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q051.jpg
+49.47% : cucumber
+29.19% : zucchini
+ 0.69% : Petri dish
+ 0.60% : wine bottle
+ 0.31% : beer bottle
+ 0.31% : frying pan
+ 0.22% : beer glass
+ 0.18% : fountain
+ 0.17% : mouse
+ 0.15% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q052.jpg
+41.02% : cucumber
+29.34% : zucchini
+ 1.21% : wine bottle
+ 0.93% : Petri dish
+ 0.66% : beer bottle
+ 0.52% : frying pan
+ 0.35% : beer glass
+ 0.26% : pop bottle
+ 0.26% : ice lolly
+ 0.24% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q053.jpg
+40.22% : cucumber
+30.02% : zucchini
+ 1.36% : wine bottle
+ 1.09% : Petri dish
+ 0.70% : beer bottle
+ 0.58% : frying pan
+ 0.35% : beer glass
+ 0.27% : red wine
+ 0.26% : pop bottle
+ 0.24% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q054.jpg
+39.35% : cucumber
+31.06% : zucchini
+ 1.34% : wine bottle
+ 1.06% : Petri dish
+ 0.68% : beer bottle
+ 0.59% : frying pan
+ 0.34% : beer glass
+ 0.27% : red wine
+ 0.25% : pop bottle
+ 0.24% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q055.jpg
+52.36% : cucumber
+25.22% : zucchini
+ 0.87% : wine bottle
+ 0.71% : Petri dish
+ 0.45% : beer bottle
+ 0.36% : frying pan
+ 0.25% : beer glass
+ 0.20% : pop bottle
+ 0.19% : fountain
+ 0.18% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q056.jpg
+51.57% : cucumber
+26.40% : zucchini
+ 0.85% : wine bottle
+ 0.73% : Petri dish
+ 0.45% : beer bottle
+ 0.38% : frying pan
+ 0.25% : beer glass
+ 0.20% : pop bottle
+ 0.18% : ice lolly
+ 0.18% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q057.jpg
+48.86% : cucumber
+26.25% : zucchini
+ 0.84% : wine bottle
+ 0.68% : Petri dish
+ 0.44% : beer bottle
+ 0.38% : frying pan
+ 0.26% : beer glass
+ 0.22% : pop bottle
+ 0.22% : ice lolly
+ 0.20% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q058.jpg
+40.27% : cucumber
+32.90% : zucchini
+ 0.97% : wine bottle
+ 0.74% : Petri dish
+ 0.45% : beer bottle
+ 0.41% : frying pan
+ 0.28% : beer glass
+ 0.23% : pop bottle
+ 0.22% : fountain
+ 0.20% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q059.jpg
+38.68% : cucumber
+32.70% : zucchini
+ 1.15% : wine bottle
+ 0.83% : Petri dish
+ 0.54% : beer bottle
+ 0.45% : frying pan
+ 0.31% : beer glass
+ 0.26% : pop bottle
+ 0.24% : fountain
+ 0.23% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q060.jpg
+40.46% : cucumber
+31.58% : zucchini
+ 1.09% : wine bottle
+ 0.85% : Petri dish
+ 0.51% : beer bottle
+ 0.45% : frying pan
+ 0.30% : beer glass
+ 0.25% : pop bottle
+ 0.23% : fountain
+ 0.22% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q061.jpg
+38.58% : cucumber
+35.08% : zucchini
+ 0.89% : wine bottle
+ 0.60% : Petri dish
+ 0.49% : frying pan
+ 0.44% : beer bottle
+ 0.25% : beer glass
+ 0.24% : pop bottle
+ 0.20% : mouse
+ 0.20% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q062.jpg
+38.24% : zucchini
+35.78% : cucumber
+ 0.73% : wine bottle
+ 0.50% : frying pan
+ 0.49% : Petri dish
+ 0.36% : beer bottle
+ 0.22% : pop bottle
+ 0.21% : beer glass
+ 0.19% : mouse
+ 0.19% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q063.jpg
+37.62% : zucchini
+36.18% : cucumber
+ 0.71% : wine bottle
+ 0.49% : frying pan
+ 0.48% : Petri dish
+ 0.35% : beer bottle
+ 0.21% : pop bottle
+ 0.20% : beer glass
+ 0.19% : mouse
+ 0.18% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q064.jpg
+37.13% : cucumber
+34.39% : zucchini
+ 0.84% : wine bottle
+ 0.61% : Petri dish
+ 0.45% : frying pan
+ 0.38% : beer bottle
+ 0.23% : beer glass
+ 0.22% : pop bottle
+ 0.19% : modem
+ 0.19% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q065.jpg
+41.82% : zucchini
+29.14% : cucumber
+ 0.79% : wine bottle
+ 0.50% : Petri dish
+ 0.43% : frying pan
+ 0.33% : beer bottle
+ 0.21% : mouse
+ 0.19% : pop bottle
+ 0.18% : beer glass
+ 0.18% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q066.jpg
+48.86% : zucchini
+24.65% : cucumber
+ 0.72% : wine bottle
+ 0.40% : frying pan
+ 0.39% : Petri dish
+ 0.26% : beer bottle
+ 0.19% : mouse
+ 0.17% : pop bottle
+ 0.15% : modem
+ 0.15% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q067.jpg
+45.27% : zucchini
+27.21% : cucumber
+ 0.74% : wine bottle
+ 0.51% : frying pan
+ 0.47% : Petri dish
+ 0.29% : beer bottle
+ 0.22% : mouse
+ 0.18% : fountain
+ 0.18% : pop bottle
+ 0.18% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q068.jpg
+45.61% : zucchini
+29.35% : cucumber
+ 0.68% : wine bottle
+ 0.48% : frying pan
+ 0.44% : Petri dish
+ 0.28% : beer bottle
+ 0.20% : mouse
+ 0.17% : beer glass
+ 0.16% : fountain
+ 0.16% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q069.jpg
+43.11% : zucchini
+27.76% : cucumber
+ 0.80% : wine bottle
+ 0.53% : frying pan
+ 0.51% : Petri dish
+ 0.34% : beer bottle
+ 0.23% : mouse
+ 0.20% : beer glass
+ 0.19% : fountain
+ 0.19% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q070.jpg
+38.02% : zucchini
+30.16% : cucumber
+ 0.98% : wine bottle
+ 0.71% : Petri dish
+ 0.54% : frying pan
+ 0.47% : beer bottle
+ 0.26% : beer glass
+ 0.24% : pop bottle
+ 0.22% : mouse
+ 0.21% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q071.jpg
+35.67% : cucumber
+31.24% : zucchini
+ 1.00% : wine bottle
+ 0.82% : Petri dish
+ 0.49% : beer bottle
+ 0.44% : frying pan
+ 0.27% : beer glass
+ 0.24% : pop bottle
+ 0.23% : fountain
+ 0.23% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q072.jpg
+37.04% : cucumber
+29.29% : zucchini
+ 1.00% : wine bottle
+ 0.85% : Petri dish
+ 0.50% : beer bottle
+ 0.44% : frying pan
+ 0.27% : beer glass
+ 0.25% : pop bottle
+ 0.24% : fountain
+ 0.23% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q073.jpg
+36.62% : cucumber
+31.76% : zucchini
+ 1.06% : wine bottle
+ 0.70% : Petri dish
+ 0.48% : frying pan
+ 0.46% : beer bottle
+ 0.25% : fountain
+ 0.23% : pop bottle
+ 0.22% : beer glass
+ 0.22% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q074.jpg
+36.02% : cucumber
+33.76% : zucchini
+ 1.02% : wine bottle
+ 0.54% : Petri dish
+ 0.48% : frying pan
+ 0.44% : beer bottle
+ 0.25% : fountain
+ 0.24% : mouse
+ 0.22% : pop bottle
+ 0.21% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q075.jpg
+36.63% : cucumber
+32.78% : zucchini
+ 1.03% : wine bottle
+ 0.55% : Petri dish
+ 0.48% : frying pan
+ 0.45% : beer bottle
+ 0.26% : fountain
+ 0.24% : mouse
+ 0.22% : pop bottle
+ 0.21% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q076.jpg
+37.18% : cucumber
+29.17% : zucchini
+ 1.25% : wine bottle
+ 0.70% : Petri dish
+ 0.56% : beer bottle
+ 0.55% : frying pan
+ 0.28% : fountain
+ 0.28% : beer glass
+ 0.27% : mouse
+ 0.27% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q077.jpg
+33.86% : cucumber
+29.46% : zucchini
+ 1.34% : wine bottle
+ 0.83% : Petri dish
+ 0.60% : beer bottle
+ 0.56% : frying pan
+ 0.32% : beer glass
+ 0.30% : pop bottle
+ 0.28% : fountain
+ 0.27% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q078.jpg
+38.46% : cucumber
+31.29% : zucchini
+ 1.05% : wine bottle
+ 0.90% : Petri dish
+ 0.56% : frying pan
+ 0.49% : beer bottle
+ 0.25% : beer glass
+ 0.25% : fountain
+ 0.24% : pop bottle
+ 0.22% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q079.jpg
+40.39% : cucumber
+29.07% : zucchini
+ 1.07% : wine bottle
+ 0.99% : Petri dish
+ 0.58% : frying pan
+ 0.51% : beer bottle
+ 0.27% : beer glass
+ 0.26% : fountain
+ 0.24% : pop bottle
+ 0.23% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q080.jpg
+38.65% : cucumber
+29.28% : zucchini
+ 1.22% : wine bottle
+ 0.89% : Petri dish
+ 0.57% : frying pan
+ 0.51% : beer bottle
+ 0.27% : fountain
+ 0.25% : red wine
+ 0.25% : beer glass
+ 0.23% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q081.jpg
+38.57% : cucumber
+29.56% : zucchini
+ 1.29% : wine bottle
+ 0.89% : Petri dish
+ 0.57% : frying pan
+ 0.52% : beer bottle
+ 0.29% : beer glass
+ 0.25% : pop bottle
+ 0.25% : fountain
+ 0.24% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q082.jpg
+35.63% : zucchini
+35.45% : cucumber
+ 1.08% : wine bottle
+ 0.65% : Petri dish
+ 0.56% : frying pan
+ 0.42% : beer bottle
+ 0.23% : beer glass
+ 0.22% : pop bottle
+ 0.22% : mouse
+ 0.20% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q083.jpg
+45.68% : cucumber
+28.01% : zucchini
+ 0.84% : wine bottle
+ 0.67% : Petri dish
+ 0.49% : frying pan
+ 0.36% : beer bottle
+ 0.21% : beer glass
+ 0.21% : mouse
+ 0.20% : pop bottle
+ 0.19% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q084.jpg
+42.24% : cucumber
+29.44% : zucchini
+ 1.07% : wine bottle
+ 0.80% : Petri dish
+ 0.46% : frying pan
+ 0.44% : beer bottle
+ 0.26% : beer glass
+ 0.22% : mouse
+ 0.22% : pop bottle
+ 0.22% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q085.jpg
+44.00% : cucumber
+28.33% : zucchini
+ 0.88% : wine bottle
+ 0.81% : Petri dish
+ 0.47% : frying pan
+ 0.39% : beer bottle
+ 0.25% : beer glass
+ 0.22% : mouse
+ 0.20% : fountain
+ 0.20% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q086.jpg
+41.15% : cucumber
+30.41% : zucchini
+ 1.03% : Petri dish
+ 1.02% : wine bottle
+ 0.58% : frying pan
+ 0.46% : beer bottle
+ 0.27% : beer glass
+ 0.22% : red wine
+ 0.22% : pop bottle
+ 0.21% : fountain
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q087.jpg
+36.87% : cucumber
+31.44% : zucchini
+ 1.04% : wine bottle
+ 0.77% : Petri dish
+ 0.60% : frying pan
+ 0.45% : beer bottle
+ 0.25% : fountain
+ 0.23% : beer glass
+ 0.22% : mouse
+ 0.22% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q088.jpg
+40.07% : cucumber
+28.45% : zucchini
+ 1.17% : wine bottle
+ 0.99% : Petri dish
+ 0.62% : frying pan
+ 0.53% : beer bottle
+ 0.28% : beer glass
+ 0.28% : fountain
+ 0.25% : red wine
+ 0.24% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q089.jpg
+40.51% : cucumber
+30.69% : zucchini
+ 1.14% : wine bottle
+ 0.94% : Petri dish
+ 0.58% : frying pan
+ 0.49% : beer bottle
+ 0.25% : beer glass
+ 0.24% : fountain
+ 0.24% : red wine
+ 0.22% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q090.jpg
+38.29% : cucumber
+35.34% : zucchini
+ 1.11% : wine bottle
+ 0.95% : Petri dish
+ 0.53% : frying pan
+ 0.44% : beer bottle
+ 0.23% : beer glass
+ 0.22% : red wine
+ 0.21% : fountain
+ 0.20% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q091.jpg
+37.93% : zucchini
+34.61% : cucumber
+ 1.09% : wine bottle
+ 0.83% : Petri dish
+ 0.55% : frying pan
+ 0.42% : beer bottle
+ 0.22% : red wine
+ 0.21% : fountain
+ 0.21% : beer glass
+ 0.21% : pop bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q092.jpg
+40.54% : zucchini
+33.65% : cucumber
+ 0.97% : wine bottle
+ 0.78% : Petri dish
+ 0.56% : frying pan
+ 0.38% : beer bottle
+ 0.20% : fountain
+ 0.20% : pop bottle
+ 0.20% : beer glass
+ 0.19% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q093.jpg
+44.72% : zucchini
+27.42% : cucumber
+ 0.95% : wine bottle
+ 0.63% : frying pan
+ 0.57% : Petri dish
+ 0.31% : beer bottle
+ 0.22% : fountain
+ 0.20% : mouse
+ 0.20% : red wine
+ 0.20% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q094.jpg
+39.59% : zucchini
+30.69% : cucumber
+ 0.96% : wine bottle
+ 0.67% : Petri dish
+ 0.62% : frying pan
+ 0.38% : beer bottle
+ 0.26% : fountain
+ 0.21% : pop bottle
+ 0.20% : red wine
+ 0.20% : beer glass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q095.jpg
+39.80% : zucchini
+30.07% : cucumber
+ 1.04% : wine bottle
+ 0.71% : Petri dish
+ 0.56% : frying pan
+ 0.44% : beer bottle
+ 0.25% : fountain
+ 0.23% : pop bottle
+ 0.21% : beer glass
+ 0.21% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q096.jpg
+35.42% : zucchini
+33.70% : cucumber
+ 1.07% : wine bottle
+ 0.65% : Petri dish
+ 0.53% : frying pan
+ 0.46% : beer bottle
+ 0.26% : fountain
+ 0.24% : pop bottle
+ 0.21% : beer glass
+ 0.21% : mouse
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q097.jpg
+38.10% : zucchini
+32.14% : cucumber
+ 1.03% : wine bottle
+ 0.58% : Petri dish
+ 0.53% : frying pan
+ 0.42% : beer bottle
+ 0.23% : fountain
+ 0.23% : pop bottle
+ 0.21% : mouse
+ 0.20% : red wine
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q098.jpg
+38.88% : zucchini
+31.94% : cucumber
+ 1.01% : wine bottle
+ 0.57% : Petri dish
+ 0.53% : frying pan
+ 0.43% : beer bottle
+ 0.24% : pop bottle
+ 0.22% : fountain
+ 0.21% : mouse
+ 0.20% : beer glass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q099.jpg
+37.69% : zucchini
+32.48% : cucumber
+ 0.92% : wine bottle
+ 0.57% : Petri dish
+ 0.55% : frying pan
+ 0.39% : beer bottle
+ 0.23% : fountain
+ 0.22% : pop bottle
+ 0.21% : mouse
+ 0.19% : modem
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber18Q100.jpg
+36.15% : zucchini
+33.15% : cucumber
+ 1.00% : wine bottle
+ 0.68% : Petri dish
+ 0.54% : frying pan
+ 0.44% : beer bottle
+ 0.25% : fountain
+ 0.23% : pop bottle
+ 0.22% : beer glass
+ 0.21% : mouse

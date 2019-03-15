@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q001.jpg
+48.56% : head cabbage
+38.11% : bell pepper
+ 1.37% : grocery store
+ 0.85% : dumbbell
+ 0.57% : confectionery
+ 0.47% : artichoke
+ 0.42% : cucumber
+ 0.40% : tree frog
+ 0.38% : green snake
+ 0.36% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q002.jpg
+48.69% : head cabbage
+37.98% : bell pepper
+ 1.37% : grocery store
+ 0.86% : dumbbell
+ 0.57% : confectionery
+ 0.47% : artichoke
+ 0.42% : cucumber
+ 0.40% : tree frog
+ 0.38% : green snake
+ 0.36% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q003.jpg
+48.32% : head cabbage
+35.62% : bell pepper
+ 1.70% : grocery store
+ 1.50% : dumbbell
+ 0.79% : confectionery
+ 0.60% : artichoke
+ 0.51% : cucumber
+ 0.45% : tree frog
+ 0.37% : green snake
+ 0.36% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q004.jpg
+91.25% : bell pepper
+ 2.96% : head cabbage
+ 0.98% : grocery store
+ 0.28% : cucumber
+ 0.25% : acorn squash
+ 0.25% : cauliflower
+ 0.12% : artichoke
+ 0.05% : zucchini
+ 0.05% : custard apple
+ 0.04% : green snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q005.jpg
+89.23% : bell pepper
+ 2.08% : head cabbage
+ 1.06% : cucumber
+ 0.93% : grocery store
+ 0.36% : acorn squash
+ 0.12% : cauliflower
+ 0.12% : custard apple
+ 0.11% : zucchini
+ 0.07% : artichoke
+ 0.07% : tree frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q006.jpg
+92.54% : bell pepper
+ 0.50% : cucumber
+ 0.35% : grocery store
+ 0.34% : head cabbage
+ 0.26% : acorn squash
+ 0.07% : custard apple
+ 0.06% : cauliflower
+ 0.06% : zucchini
+ 0.05% : artichoke
+ 0.04% : tree frog
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q007.jpg
+94.35% : bell pepper
+ 0.31% : cucumber
+ 0.28% : acorn squash
+ 0.23% : grocery store
+ 0.12% : head cabbage
+ 0.11% : zucchini
+ 0.04% : cauliflower
+ 0.03% : custard apple
+ 0.03% : stove
+ 0.03% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q008.jpg
+96.67% : bell pepper
+ 0.28% : cucumber
+ 0.14% : grocery store
+ 0.09% : acorn squash
+ 0.04% : zucchini
+ 0.04% : head cabbage
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : cauliflower
+ 0.01% : mailbag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q009.jpg
+97.50% : bell pepper
+ 0.16% : cucumber
+ 0.11% : grocery store
+ 0.07% : acorn squash
+ 0.05% : zucchini
+ 0.02% : head cabbage
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.01% : cauliflower
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q010.jpg
+96.89% : bell pepper
+ 0.30% : cucumber
+ 0.14% : grocery store
+ 0.06% : acorn squash
+ 0.04% : zucchini
+ 0.02% : head cabbage
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q011.jpg
+97.77% : bell pepper
+ 0.15% : cucumber
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.01% : stove
+ 0.01% : mailbag
+ 0.01% : pencil sharpener
+ 0.01% : head cabbage
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q012.jpg
+97.38% : bell pepper
+ 0.17% : cucumber
+ 0.10% : grocery store
+ 0.06% : acorn squash
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : head cabbage
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q013.jpg
+97.81% : bell pepper
+ 0.12% : cucumber
+ 0.10% : grocery store
+ 0.03% : acorn squash
+ 0.02% : zucchini
+ 0.02% : stove
+ 0.01% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q014.jpg
+96.99% : bell pepper
+ 0.26% : cucumber
+ 0.16% : grocery store
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : head cabbage
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q015.jpg
+97.53% : bell pepper
+ 0.18% : cucumber
+ 0.11% : grocery store
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q016.jpg
+97.75% : bell pepper
+ 0.13% : cucumber
+ 0.09% : grocery store
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.01% : stove
+ 0.01% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : head cabbage
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q017.jpg
+97.40% : bell pepper
+ 0.13% : cucumber
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q018.jpg
+97.58% : bell pepper
+ 0.13% : cucumber
+ 0.11% : grocery store
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q019.jpg
+98.01% : bell pepper
+ 0.12% : cucumber
+ 0.09% : grocery store
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q020.jpg
+98.35% : bell pepper
+ 0.09% : cucumber
+ 0.07% : grocery store
+ 0.02% : acorn squash
+ 0.02% : zucchini
+ 0.02% : stove
+ 0.01% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q021.jpg
+98.16% : bell pepper
+ 0.12% : cucumber
+ 0.08% : grocery store
+ 0.03% : acorn squash
+ 0.02% : zucchini
+ 0.01% : pencil sharpener
+ 0.01% : stove
+ 0.01% : mailbag
+ 0.01% : head cabbage
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q022.jpg
+98.24% : bell pepper
+ 0.09% : cucumber
+ 0.08% : grocery store
+ 0.02% : acorn squash
+ 0.02% : zucchini
+ 0.02% : stove
+ 0.01% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q023.jpg
+97.98% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.02% : zucchini
+ 0.02% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q024.jpg
+97.83% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.02% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Pekinese
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q025.jpg
+98.14% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.02% : acorn squash
+ 0.02% : zucchini
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q026.jpg
+97.80% : bell pepper
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.03% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q027.jpg
+97.94% : bell pepper
+ 0.09% : cucumber
+ 0.08% : grocery store
+ 0.02% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q028.jpg
+97.73% : bell pepper
+ 0.09% : cucumber
+ 0.09% : grocery store
+ 0.03% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q029.jpg
+97.61% : bell pepper
+ 0.10% : grocery store
+ 0.08% : cucumber
+ 0.03% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q030.jpg
+97.68% : bell pepper
+ 0.10% : grocery store
+ 0.08% : cucumber
+ 0.03% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q031.jpg
+97.57% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q032.jpg
+97.83% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q033.jpg
+97.42% : bell pepper
+ 0.14% : cucumber
+ 0.09% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : broccoli
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q034.jpg
+97.41% : bell pepper
+ 0.10% : cucumber
+ 0.09% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q035.jpg
+97.61% : bell pepper
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q036.jpg
+98.10% : bell pepper
+ 0.08% : grocery store
+ 0.08% : cucumber
+ 0.02% : zucchini
+ 0.02% : acorn squash
+ 0.01% : pencil sharpener
+ 0.01% : stove
+ 0.01% : mailbag
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q037.jpg
+98.08% : bell pepper
+ 0.08% : grocery store
+ 0.07% : cucumber
+ 0.02% : zucchini
+ 0.02% : acorn squash
+ 0.02% : stove
+ 0.01% : pencil sharpener
+ 0.01% : mailbag
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q038.jpg
+97.82% : bell pepper
+ 0.09% : grocery store
+ 0.07% : cucumber
+ 0.03% : zucchini
+ 0.02% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Granny Smith
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q039.jpg
+97.63% : bell pepper
+ 0.09% : grocery store
+ 0.08% : cucumber
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q040.jpg
+97.66% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q041.jpg
+97.38% : bell pepper
+ 0.11% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q042.jpg
+97.58% : bell pepper
+ 0.10% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q043.jpg
+97.52% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q044.jpg
+97.23% : bell pepper
+ 0.11% : cucumber
+ 0.10% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q045.jpg
+97.18% : bell pepper
+ 0.11% : cucumber
+ 0.10% : grocery store
+ 0.05% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q046.jpg
+97.27% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q047.jpg
+97.21% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q048.jpg
+97.45% : bell pepper
+ 0.10% : grocery store
+ 0.08% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q049.jpg
+97.17% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q050.jpg
+97.18% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q051.jpg
+97.24% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q052.jpg
+97.22% : bell pepper
+ 0.13% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q053.jpg
+97.14% : bell pepper
+ 0.13% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q054.jpg
+97.14% : bell pepper
+ 0.14% : cucumber
+ 0.10% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q055.jpg
+97.30% : bell pepper
+ 0.12% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : flat-coated retriever
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q056.jpg
+97.33% : bell pepper
+ 0.11% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : broccoli
+ 0.01% : flat-coated retriever
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q057.jpg
+97.44% : bell pepper
+ 0.13% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : broccoli
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q058.jpg
+97.45% : bell pepper
+ 0.12% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : broccoli
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q059.jpg
+97.55% : bell pepper
+ 0.12% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : broccoli
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q060.jpg
+97.55% : bell pepper
+ 0.13% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q061.jpg
+97.40% : bell pepper
+ 0.12% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q062.jpg
+97.23% : bell pepper
+ 0.13% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q063.jpg
+97.37% : bell pepper
+ 0.14% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q064.jpg
+97.34% : bell pepper
+ 0.13% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : broccoli
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q065.jpg
+97.48% : bell pepper
+ 0.12% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q066.jpg
+97.59% : bell pepper
+ 0.12% : cucumber
+ 0.10% : grocery store
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q067.jpg
+97.50% : bell pepper
+ 0.11% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : broccoli
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q068.jpg
+97.15% : bell pepper
+ 0.11% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q069.jpg
+97.22% : bell pepper
+ 0.11% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : broccoli
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q070.jpg
+96.84% : bell pepper
+ 0.13% : cucumber
+ 0.12% : grocery store
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q071.jpg
+96.83% : bell pepper
+ 0.14% : cucumber
+ 0.12% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q072.jpg
+97.00% : bell pepper
+ 0.15% : cucumber
+ 0.12% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q073.jpg
+96.96% : bell pepper
+ 0.15% : cucumber
+ 0.12% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q074.jpg
+97.01% : bell pepper
+ 0.14% : cucumber
+ 0.12% : grocery store
+ 0.05% : zucchini
+ 0.05% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q075.jpg
+97.07% : bell pepper
+ 0.14% : cucumber
+ 0.12% : grocery store
+ 0.05% : zucchini
+ 0.05% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q076.jpg
+96.87% : bell pepper
+ 0.15% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.05% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q077.jpg
+97.10% : bell pepper
+ 0.13% : cucumber
+ 0.11% : grocery store
+ 0.06% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q078.jpg
+97.02% : bell pepper
+ 0.12% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Granny Smith
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q079.jpg
+97.24% : bell pepper
+ 0.12% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q080.jpg
+97.27% : bell pepper
+ 0.12% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : broccoli
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q081.jpg
+97.29% : bell pepper
+ 0.11% : cucumber
+ 0.11% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q082.jpg
+97.20% : bell pepper
+ 0.11% : grocery store
+ 0.11% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q083.jpg
+97.13% : bell pepper
+ 0.11% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q084.jpg
+97.25% : bell pepper
+ 0.10% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q085.jpg
+97.33% : bell pepper
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q086.jpg
+97.44% : bell pepper
+ 0.10% : grocery store
+ 0.09% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q087.jpg
+97.49% : bell pepper
+ 0.09% : grocery store
+ 0.09% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q088.jpg
+97.42% : bell pepper
+ 0.11% : cucumber
+ 0.10% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q089.jpg
+97.40% : bell pepper
+ 0.10% : cucumber
+ 0.09% : grocery store
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q090.jpg
+97.29% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q091.jpg
+97.48% : bell pepper
+ 0.10% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q092.jpg
+97.15% : bell pepper
+ 0.11% : grocery store
+ 0.10% : cucumber
+ 0.06% : zucchini
+ 0.04% : acorn squash
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q093.jpg
+96.85% : bell pepper
+ 0.13% : cucumber
+ 0.12% : grocery store
+ 0.08% : zucchini
+ 0.06% : acorn squash
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : Granny Smith
+ 0.01% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q094.jpg
+97.01% : bell pepper
+ 0.12% : grocery store
+ 0.12% : cucumber
+ 0.06% : zucchini
+ 0.04% : acorn squash
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q095.jpg
+97.11% : bell pepper
+ 0.12% : cucumber
+ 0.11% : grocery store
+ 0.06% : zucchini
+ 0.04% : acorn squash
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.02% : stove
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q096.jpg
+97.27% : bell pepper
+ 0.11% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q097.jpg
+97.37% : bell pepper
+ 0.10% : cucumber
+ 0.10% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : mailbag
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q098.jpg
+97.22% : bell pepper
+ 0.11% : cucumber
+ 0.11% : grocery store
+ 0.05% : zucchini
+ 0.04% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q099.jpg
+97.31% : bell pepper
+ 0.11% : grocery store
+ 0.10% : cucumber
+ 0.05% : zucchini
+ 0.03% : acorn squash
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.02% : mailbag
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper13Q100.jpg
+97.32% : bell pepper
+ 0.11% : grocery store
+ 0.10% : cucumber
+ 0.04% : zucchini
+ 0.03% : acorn squash
+ 0.02% : mailbag
+ 0.02% : stove
+ 0.02% : pencil sharpener
+ 0.01% : Norfolk terrier
+ 0.01% : Great Dane

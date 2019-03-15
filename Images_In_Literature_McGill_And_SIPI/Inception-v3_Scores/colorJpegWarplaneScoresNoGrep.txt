@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ001.jpg
+83.60% : ski
+ 3.42% : paintbrush
+ 1.56% : quill
+ 1.45% : bow
+ 0.82% : rifle
+ 0.54% : shovel
+ 0.38% : chain saw
+ 0.36% : gar
+ 0.29% : warplane
+ 0.23% : hair slide
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ002.jpg
+82.96% : ski
+ 3.85% : paintbrush
+ 1.58% : quill
+ 1.44% : bow
+ 0.73% : rifle
+ 0.51% : shovel
+ 0.39% : chain saw
+ 0.32% : gar
+ 0.32% : warplane
+ 0.24% : envelope
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ003.jpg
+96.29% : ski
+ 0.41% : bow
+ 0.35% : paintbrush
+ 0.22% : shovel
+ 0.21% : quill
+ 0.14% : rifle
+ 0.14% : warplane
+ 0.11% : chain saw
+ 0.11% : trimaran
+ 0.09% : aircraft carrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ004.jpg
+80.90% : ski
+ 7.40% : warplane
+ 3.65% : envelope
+ 0.64% : projectile
+ 0.44% : missile
+ 0.44% : web site
+ 0.36% : shovel
+ 0.25% : aircraft carrier
+ 0.25% : paintbrush
+ 0.21% : packet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ005.jpg
+49.24% : warplane
+27.58% : ski
+ 5.70% : airliner
+ 2.14% : wing
+ 2.06% : missile
+ 1.72% : projectile
+ 0.64% : alp
+ 0.52% : aircraft carrier
+ 0.47% : airship
+ 0.43% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ006.jpg
+63.26% : warplane
+10.32% : ski
+ 3.37% : projectile
+ 3.34% : aircraft carrier
+ 2.99% : missile
+ 2.64% : airliner
+ 1.76% : speedboat
+ 1.27% : trimaran
+ 1.15% : wing
+ 0.55% : airship
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ007.jpg
+31.63% : ski
+20.65% : warplane
+12.31% : speedboat
+ 7.08% : trimaran
+ 2.31% : aircraft carrier
+ 1.98% : wing
+ 1.43% : airliner
+ 1.00% : missile
+ 0.64% : projectile
+ 0.49% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ008.jpg
+48.55% : warplane
+18.85% : ski
+ 6.14% : trimaran
+ 5.84% : aircraft carrier
+ 2.49% : speedboat
+ 2.05% : wing
+ 1.94% : airliner
+ 1.72% : projectile
+ 1.64% : missile
+ 0.75% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ009.jpg
+77.02% : warplane
+ 4.39% : aircraft carrier
+ 3.79% : projectile
+ 3.77% : missile
+ 1.82% : ski
+ 1.23% : trimaran
+ 0.80% : wing
+ 0.46% : airliner
+ 0.29% : speedboat
+ 0.17% : alp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ010.jpg
+68.38% : warplane
+ 4.20% : projectile
+ 3.66% : aircraft carrier
+ 3.15% : missile
+ 2.64% : ski
+ 1.68% : wing
+ 1.44% : trimaran
+ 1.18% : airliner
+ 1.17% : speedboat
+ 0.28% : alp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ011.jpg
+62.74% : warplane
+ 3.29% : speedboat
+ 3.26% : wing
+ 3.06% : airliner
+ 2.81% : aircraft carrier
+ 2.16% : projectile
+ 1.82% : ski
+ 1.56% : trimaran
+ 1.43% : missile
+ 0.30% : alp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ012.jpg
+75.07% : warplane
+ 5.18% : projectile
+ 3.67% : airliner
+ 2.54% : missile
+ 2.52% : wing
+ 1.68% : aircraft carrier
+ 0.54% : speedboat
+ 0.24% : trimaran
+ 0.09% : ski
+ 0.09% : alp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ013.jpg
+72.27% : warplane
+ 4.05% : projectile
+ 3.18% : wing
+ 2.59% : missile
+ 2.43% : aircraft carrier
+ 1.83% : airliner
+ 1.23% : speedboat
+ 0.62% : ski
+ 0.50% : alp
+ 0.28% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ014.jpg
+64.84% : warplane
+ 4.31% : wing
+ 3.97% : projectile
+ 3.75% : airliner
+ 3.22% : aircraft carrier
+ 2.60% : missile
+ 2.07% : speedboat
+ 0.57% : ski
+ 0.50% : alp
+ 0.46% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ015.jpg
+70.26% : warplane
+ 4.73% : airliner
+ 4.70% : wing
+ 4.29% : projectile
+ 2.61% : missile
+ 2.37% : aircraft carrier
+ 0.63% : speedboat
+ 0.36% : trimaran
+ 0.21% : alp
+ 0.20% : ski
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ016.jpg
+66.52% : warplane
+ 7.64% : airliner
+ 6.13% : wing
+ 1.92% : aircraft carrier
+ 1.67% : projectile
+ 1.05% : speedboat
+ 1.05% : missile
+ 0.58% : ski
+ 0.40% : alp
+ 0.39% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ017.jpg
+59.21% : warplane
+ 7.10% : airliner
+ 5.42% : projectile
+ 5.33% : wing
+ 3.88% : missile
+ 2.47% : aircraft carrier
+ 1.13% : speedboat
+ 0.55% : ski
+ 0.44% : alp
+ 0.33% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ018.jpg
+58.96% : warplane
+11.35% : projectile
+ 7.01% : missile
+ 5.14% : wing
+ 3.98% : airliner
+ 1.92% : aircraft carrier
+ 0.62% : alp
+ 0.54% : ski
+ 0.29% : speedboat
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ019.jpg
+71.21% : warplane
+ 8.86% : projectile
+ 5.57% : missile
+ 1.76% : aircraft carrier
+ 1.71% : wing
+ 1.69% : airliner
+ 0.33% : alp
+ 0.21% : speedboat
+ 0.19% : ski
+ 0.09% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ020.jpg
+75.49% : warplane
+ 7.59% : projectile
+ 4.97% : missile
+ 2.04% : wing
+ 1.63% : airliner
+ 1.44% : aircraft carrier
+ 0.17% : ski
+ 0.16% : alp
+ 0.12% : speedboat
+ 0.08% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ021.jpg
+69.44% : warplane
+ 7.99% : projectile
+ 6.25% : missile
+ 2.77% : aircraft carrier
+ 2.02% : airliner
+ 1.91% : wing
+ 0.35% : alp
+ 0.31% : speedboat
+ 0.25% : ski
+ 0.13% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ022.jpg
+68.71% : warplane
+11.87% : projectile
+ 8.13% : missile
+ 2.32% : aircraft carrier
+ 1.39% : wing
+ 0.87% : airliner
+ 0.19% : speedboat
+ 0.16% : alp
+ 0.11% : ski
+ 0.09% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ023.jpg
+71.92% : warplane
+ 7.18% : projectile
+ 4.01% : missile
+ 2.82% : airliner
+ 2.33% : wing
+ 1.51% : aircraft carrier
+ 0.27% : speedboat
+ 0.21% : alp
+ 0.13% : trimaran
+ 0.12% : ski
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ024.jpg
+71.94% : warplane
+ 8.08% : projectile
+ 4.90% : missile
+ 1.95% : wing
+ 1.83% : aircraft carrier
+ 1.63% : airliner
+ 0.36% : ski
+ 0.34% : alp
+ 0.20% : speedboat
+ 0.11% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ025.jpg
+68.56% : warplane
+11.09% : projectile
+ 7.15% : missile
+ 2.65% : wing
+ 2.32% : airliner
+ 1.24% : aircraft carrier
+ 0.34% : alp
+ 0.26% : ski
+ 0.12% : speedboat
+ 0.08% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ026.jpg
+59.82% : warplane
+16.90% : projectile
+10.92% : missile
+ 1.73% : aircraft carrier
+ 1.63% : wing
+ 1.29% : airliner
+ 0.32% : alp
+ 0.17% : ski
+ 0.12% : speedboat
+ 0.10% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ027.jpg
+66.21% : warplane
+11.00% : projectile
+ 6.87% : missile
+ 3.38% : wing
+ 2.01% : airliner
+ 1.45% : aircraft carrier
+ 0.29% : alp
+ 0.29% : ski
+ 0.24% : speedboat
+ 0.16% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ028.jpg
+66.38% : warplane
+ 6.54% : projectile
+ 4.79% : missile
+ 4.03% : wing
+ 3.35% : airliner
+ 2.02% : aircraft carrier
+ 0.56% : ski
+ 0.45% : speedboat
+ 0.38% : alp
+ 0.22% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ029.jpg
+69.05% : warplane
+ 5.96% : projectile
+ 4.15% : missile
+ 3.59% : wing
+ 2.88% : airliner
+ 1.78% : aircraft carrier
+ 0.68% : ski
+ 0.45% : speedboat
+ 0.39% : alp
+ 0.21% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ030.jpg
+67.85% : warplane
+ 6.38% : projectile
+ 4.96% : wing
+ 4.47% : missile
+ 4.11% : airliner
+ 1.26% : aircraft carrier
+ 0.67% : ski
+ 0.49% : alp
+ 0.39% : speedboat
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ031.jpg
+71.83% : warplane
+ 5.51% : projectile
+ 3.68% : missile
+ 3.55% : wing
+ 2.40% : airliner
+ 1.49% : aircraft carrier
+ 0.51% : ski
+ 0.41% : alp
+ 0.38% : speedboat
+ 0.24% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ032.jpg
+69.92% : warplane
+ 8.02% : projectile
+ 5.07% : missile
+ 2.87% : wing
+ 1.88% : airliner
+ 1.58% : aircraft carrier
+ 0.42% : speedboat
+ 0.34% : ski
+ 0.28% : alp
+ 0.24% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ033.jpg
+68.13% : warplane
+ 8.30% : projectile
+ 5.65% : missile
+ 3.19% : wing
+ 1.95% : airliner
+ 1.57% : aircraft carrier
+ 0.65% : ski
+ 0.38% : alp
+ 0.35% : speedboat
+ 0.25% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ034.jpg
+66.24% : warplane
+10.15% : projectile
+ 6.29% : missile
+ 3.15% : wing
+ 2.01% : airliner
+ 1.76% : aircraft carrier
+ 0.40% : ski
+ 0.35% : speedboat
+ 0.29% : alp
+ 0.22% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ035.jpg
+63.20% : warplane
+11.04% : projectile
+ 6.44% : missile
+ 4.16% : wing
+ 1.90% : aircraft carrier
+ 1.80% : airliner
+ 0.75% : ski
+ 0.49% : speedboat
+ 0.35% : alp
+ 0.26% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ036.jpg
+65.56% : warplane
+ 8.52% : projectile
+ 5.44% : wing
+ 5.09% : missile
+ 3.34% : airliner
+ 1.34% : aircraft carrier
+ 0.62% : ski
+ 0.43% : speedboat
+ 0.27% : trimaran
+ 0.26% : alp
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ037.jpg
+71.75% : warplane
+ 6.63% : projectile
+ 5.19% : wing
+ 4.18% : missile
+ 2.71% : airliner
+ 1.01% : aircraft carrier
+ 0.46% : ski
+ 0.30% : speedboat
+ 0.26% : alp
+ 0.17% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ038.jpg
+74.56% : warplane
+ 5.02% : projectile
+ 4.63% : wing
+ 3.44% : missile
+ 3.26% : airliner
+ 1.23% : aircraft carrier
+ 0.27% : ski
+ 0.24% : speedboat
+ 0.23% : alp
+ 0.10% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ039.jpg
+73.51% : warplane
+ 6.02% : projectile
+ 4.25% : wing
+ 4.01% : missile
+ 1.72% : airliner
+ 1.45% : aircraft carrier
+ 0.66% : ski
+ 0.41% : speedboat
+ 0.32% : alp
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ040.jpg
+72.19% : warplane
+ 6.84% : projectile
+ 4.75% : missile
+ 3.89% : wing
+ 1.37% : airliner
+ 1.35% : aircraft carrier
+ 0.88% : ski
+ 0.43% : alp
+ 0.39% : speedboat
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ041.jpg
+69.98% : warplane
+ 6.10% : projectile
+ 4.63% : missile
+ 4.63% : wing
+ 2.68% : airliner
+ 1.34% : aircraft carrier
+ 0.85% : ski
+ 0.50% : alp
+ 0.31% : speedboat
+ 0.15% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ042.jpg
+68.34% : warplane
+ 6.19% : projectile
+ 4.75% : wing
+ 4.52% : missile
+ 3.29% : airliner
+ 1.61% : aircraft carrier
+ 0.74% : ski
+ 0.45% : speedboat
+ 0.43% : alp
+ 0.18% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ043.jpg
+66.99% : warplane
+ 6.68% : projectile
+ 5.01% : missile
+ 4.39% : wing
+ 2.70% : airliner
+ 1.52% : aircraft carrier
+ 0.95% : ski
+ 0.52% : alp
+ 0.46% : speedboat
+ 0.19% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ044.jpg
+73.02% : warplane
+ 6.08% : projectile
+ 4.23% : missile
+ 3.72% : wing
+ 2.21% : airliner
+ 1.21% : aircraft carrier
+ 0.50% : ski
+ 0.42% : alp
+ 0.27% : speedboat
+ 0.12% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ045.jpg
+70.37% : warplane
+ 8.10% : projectile
+ 5.54% : missile
+ 3.25% : wing
+ 1.60% : airliner
+ 1.17% : aircraft carrier
+ 0.56% : ski
+ 0.47% : alp
+ 0.25% : speedboat
+ 0.13% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ046.jpg
+75.22% : warplane
+ 5.00% : projectile
+ 3.95% : wing
+ 3.64% : missile
+ 2.02% : airliner
+ 1.31% : aircraft carrier
+ 0.44% : ski
+ 0.38% : alp
+ 0.23% : speedboat
+ 0.13% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ047.jpg
+75.28% : warplane
+ 4.53% : projectile
+ 4.37% : wing
+ 3.19% : missile
+ 2.30% : airliner
+ 1.42% : aircraft carrier
+ 0.44% : ski
+ 0.35% : alp
+ 0.26% : speedboat
+ 0.12% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ048.jpg
+74.74% : warplane
+ 5.09% : wing
+ 4.17% : projectile
+ 2.74% : missile
+ 2.31% : airliner
+ 1.35% : aircraft carrier
+ 0.41% : ski
+ 0.37% : speedboat
+ 0.34% : alp
+ 0.16% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ049.jpg
+70.64% : warplane
+ 5.74% : wing
+ 5.70% : projectile
+ 3.54% : missile
+ 3.20% : airliner
+ 1.28% : aircraft carrier
+ 0.39% : speedboat
+ 0.36% : ski
+ 0.29% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ050.jpg
+71.29% : warplane
+ 5.90% : projectile
+ 5.77% : wing
+ 3.50% : missile
+ 2.83% : airliner
+ 1.20% : aircraft carrier
+ 0.41% : speedboat
+ 0.33% : ski
+ 0.28% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ051.jpg
+72.62% : warplane
+ 6.33% : projectile
+ 4.66% : wing
+ 3.73% : missile
+ 2.17% : airliner
+ 1.26% : aircraft carrier
+ 0.42% : speedboat
+ 0.35% : ski
+ 0.28% : alp
+ 0.13% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ052.jpg
+71.00% : warplane
+ 6.35% : projectile
+ 4.93% : wing
+ 3.76% : missile
+ 2.72% : airliner
+ 1.28% : aircraft carrier
+ 0.35% : ski
+ 0.34% : speedboat
+ 0.31% : alp
+ 0.12% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ053.jpg
+71.99% : warplane
+ 5.88% : projectile
+ 4.73% : wing
+ 3.35% : missile
+ 2.55% : airliner
+ 1.12% : aircraft carrier
+ 0.37% : speedboat
+ 0.36% : ski
+ 0.29% : alp
+ 0.12% : snowmobile
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ054.jpg
+69.35% : warplane
+ 6.17% : projectile
+ 5.54% : wing
+ 3.58% : missile
+ 3.08% : airliner
+ 1.27% : aircraft carrier
+ 0.40% : ski
+ 0.38% : speedboat
+ 0.32% : alp
+ 0.13% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ055.jpg
+72.33% : warplane
+ 7.73% : projectile
+ 4.56% : missile
+ 3.60% : wing
+ 1.61% : airliner
+ 1.20% : aircraft carrier
+ 0.32% : ski
+ 0.27% : alp
+ 0.27% : speedboat
+ 0.10% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ056.jpg
+69.46% : warplane
+ 9.34% : projectile
+ 5.49% : missile
+ 3.65% : wing
+ 1.66% : airliner
+ 1.17% : aircraft carrier
+ 0.32% : ski
+ 0.28% : speedboat
+ 0.25% : alp
+ 0.11% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ057.jpg
+67.84% : warplane
+10.40% : projectile
+ 6.15% : missile
+ 3.52% : wing
+ 1.51% : airliner
+ 1.43% : aircraft carrier
+ 0.33% : ski
+ 0.29% : speedboat
+ 0.27% : alp
+ 0.11% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ058.jpg
+72.23% : warplane
+ 7.53% : projectile
+ 4.15% : missile
+ 3.97% : wing
+ 1.70% : airliner
+ 1.61% : aircraft carrier
+ 0.29% : speedboat
+ 0.23% : alp
+ 0.22% : ski
+ 0.13% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ059.jpg
+74.03% : warplane
+ 6.39% : projectile
+ 4.12% : wing
+ 3.55% : missile
+ 1.77% : airliner
+ 1.67% : aircraft carrier
+ 0.30% : speedboat
+ 0.23% : ski
+ 0.22% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ060.jpg
+77.13% : warplane
+ 4.52% : wing
+ 4.29% : projectile
+ 2.30% : missile
+ 1.99% : airliner
+ 1.40% : aircraft carrier
+ 0.38% : speedboat
+ 0.24% : ski
+ 0.19% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ061.jpg
+74.09% : warplane
+ 5.71% : projectile
+ 4.63% : wing
+ 2.96% : missile
+ 2.68% : airliner
+ 1.26% : aircraft carrier
+ 0.36% : speedboat
+ 0.24% : ski
+ 0.20% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ062.jpg
+75.30% : warplane
+ 5.30% : projectile
+ 4.89% : wing
+ 2.75% : missile
+ 2.62% : airliner
+ 1.22% : aircraft carrier
+ 0.34% : speedboat
+ 0.24% : ski
+ 0.19% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ063.jpg
+73.23% : warplane
+ 6.21% : wing
+ 4.67% : projectile
+ 3.33% : airliner
+ 2.65% : missile
+ 1.19% : aircraft carrier
+ 0.31% : speedboat
+ 0.26% : ski
+ 0.26% : alp
+ 0.12% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ064.jpg
+69.93% : warplane
+ 8.54% : wing
+ 5.12% : airliner
+ 4.00% : projectile
+ 2.12% : missile
+ 1.16% : aircraft carrier
+ 0.35% : speedboat
+ 0.31% : ski
+ 0.23% : alp
+ 0.16% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ065.jpg
+69.35% : warplane
+ 9.73% : wing
+ 5.08% : airliner
+ 3.52% : projectile
+ 1.73% : missile
+ 1.18% : aircraft carrier
+ 0.35% : speedboat
+ 0.32% : ski
+ 0.23% : alp
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ066.jpg
+68.48% : warplane
+ 9.72% : wing
+ 5.78% : airliner
+ 3.23% : projectile
+ 1.69% : missile
+ 1.35% : aircraft carrier
+ 0.37% : ski
+ 0.34% : speedboat
+ 0.27% : alp
+ 0.14% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ067.jpg
+68.82% : warplane
+10.20% : wing
+ 4.92% : airliner
+ 3.39% : projectile
+ 1.77% : missile
+ 1.37% : aircraft carrier
+ 0.40% : speedboat
+ 0.37% : ski
+ 0.29% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ068.jpg
+73.49% : warplane
+ 8.25% : wing
+ 4.21% : projectile
+ 3.04% : airliner
+ 2.03% : missile
+ 1.17% : aircraft carrier
+ 0.30% : speedboat
+ 0.21% : ski
+ 0.20% : alp
+ 0.13% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ069.jpg
+66.43% : warplane
+11.46% : wing
+ 5.33% : airliner
+ 3.78% : projectile
+ 1.88% : missile
+ 1.17% : aircraft carrier
+ 0.48% : speedboat
+ 0.36% : ski
+ 0.24% : alp
+ 0.17% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ070.jpg
+70.68% : warplane
+10.37% : wing
+ 4.04% : airliner
+ 2.94% : projectile
+ 1.47% : missile
+ 1.19% : aircraft carrier
+ 0.54% : speedboat
+ 0.39% : ski
+ 0.26% : alp
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ071.jpg
+68.13% : warplane
+11.13% : wing
+ 4.77% : airliner
+ 3.19% : projectile
+ 1.62% : missile
+ 1.19% : aircraft carrier
+ 0.52% : ski
+ 0.52% : speedboat
+ 0.31% : alp
+ 0.19% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ072.jpg
+68.95% : warplane
+10.31% : wing
+ 4.75% : airliner
+ 3.43% : projectile
+ 1.65% : missile
+ 1.22% : aircraft carrier
+ 0.47% : speedboat
+ 0.41% : ski
+ 0.28% : alp
+ 0.17% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ073.jpg
+68.40% : warplane
+11.71% : wing
+ 5.04% : airliner
+ 2.68% : projectile
+ 1.32% : missile
+ 1.13% : aircraft carrier
+ 0.45% : speedboat
+ 0.42% : ski
+ 0.26% : alp
+ 0.17% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ074.jpg
+67.03% : warplane
+13.54% : wing
+ 4.22% : airliner
+ 3.15% : projectile
+ 1.62% : missile
+ 0.99% : aircraft carrier
+ 0.43% : speedboat
+ 0.42% : ski
+ 0.25% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ075.jpg
+66.20% : warplane
+13.49% : wing
+ 3.94% : airliner
+ 3.52% : projectile
+ 1.83% : missile
+ 1.08% : aircraft carrier
+ 0.49% : ski
+ 0.44% : speedboat
+ 0.27% : alp
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ076.jpg
+64.33% : warplane
+13.98% : wing
+ 5.42% : airliner
+ 3.20% : projectile
+ 1.76% : missile
+ 1.19% : aircraft carrier
+ 0.53% : ski
+ 0.45% : speedboat
+ 0.28% : alp
+ 0.17% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ077.jpg
+65.46% : warplane
+12.94% : wing
+ 5.38% : airliner
+ 3.16% : projectile
+ 1.62% : missile
+ 1.06% : aircraft carrier
+ 0.42% : ski
+ 0.38% : speedboat
+ 0.25% : alp
+ 0.16% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ078.jpg
+69.46% : warplane
+12.25% : wing
+ 3.82% : airliner
+ 3.10% : projectile
+ 1.61% : missile
+ 1.03% : aircraft carrier
+ 0.28% : ski
+ 0.25% : speedboat
+ 0.23% : alp
+ 0.09% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ079.jpg
+67.01% : warplane
+13.91% : wing
+ 4.43% : airliner
+ 2.91% : projectile
+ 1.53% : missile
+ 0.94% : aircraft carrier
+ 0.36% : ski
+ 0.29% : speedboat
+ 0.25% : alp
+ 0.10% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ080.jpg
+66.74% : warplane
+13.13% : wing
+ 4.39% : airliner
+ 3.02% : projectile
+ 1.61% : missile
+ 1.01% : aircraft carrier
+ 0.47% : ski
+ 0.34% : alp
+ 0.25% : speedboat
+ 0.11% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ081.jpg
+68.60% : warplane
+11.53% : wing
+ 4.11% : projectile
+ 3.48% : airliner
+ 2.23% : missile
+ 0.94% : aircraft carrier
+ 0.39% : ski
+ 0.28% : alp
+ 0.22% : speedboat
+ 0.10% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ082.jpg
+67.96% : warplane
+12.42% : wing
+ 3.85% : projectile
+ 3.47% : airliner
+ 2.01% : missile
+ 0.93% : aircraft carrier
+ 0.43% : ski
+ 0.29% : alp
+ 0.23% : speedboat
+ 0.10% : snowplow
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ083.jpg
+68.87% : warplane
+11.69% : wing
+ 3.75% : projectile
+ 3.34% : airliner
+ 1.95% : missile
+ 0.92% : aircraft carrier
+ 0.36% : ski
+ 0.27% : alp
+ 0.25% : speedboat
+ 0.10% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ084.jpg
+65.40% : warplane
+13.58% : wing
+ 4.55% : airliner
+ 3.52% : projectile
+ 1.83% : missile
+ 0.92% : aircraft carrier
+ 0.35% : ski
+ 0.30% : speedboat
+ 0.23% : alp
+ 0.12% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ085.jpg
+66.52% : warplane
+12.21% : wing
+ 4.25% : projectile
+ 3.82% : airliner
+ 2.13% : missile
+ 0.86% : aircraft carrier
+ 0.36% : ski
+ 0.26% : speedboat
+ 0.26% : alp
+ 0.11% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ086.jpg
+64.53% : warplane
+14.02% : wing
+ 4.45% : airliner
+ 3.41% : projectile
+ 1.93% : missile
+ 0.90% : aircraft carrier
+ 0.45% : ski
+ 0.35% : alp
+ 0.27% : speedboat
+ 0.11% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ087.jpg
+65.69% : warplane
+13.48% : wing
+ 3.58% : projectile
+ 3.24% : airliner
+ 1.97% : missile
+ 0.99% : aircraft carrier
+ 0.49% : ski
+ 0.41% : alp
+ 0.28% : speedboat
+ 0.12% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ088.jpg
+64.52% : warplane
+14.74% : wing
+ 3.82% : airliner
+ 3.20% : projectile
+ 1.67% : missile
+ 0.93% : aircraft carrier
+ 0.49% : ski
+ 0.35% : speedboat
+ 0.34% : alp
+ 0.13% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ089.jpg
+59.42% : warplane
+16.84% : wing
+ 4.54% : projectile
+ 4.13% : airliner
+ 2.39% : missile
+ 0.86% : aircraft carrier
+ 0.60% : ski
+ 0.35% : speedboat
+ 0.34% : alp
+ 0.15% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ090.jpg
+61.32% : warplane
+17.52% : wing
+ 3.89% : airliner
+ 3.85% : projectile
+ 1.95% : missile
+ 0.76% : aircraft carrier
+ 0.63% : ski
+ 0.31% : speedboat
+ 0.30% : alp
+ 0.14% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ091.jpg
+57.35% : warplane
+22.37% : wing
+ 4.34% : airliner
+ 3.32% : projectile
+ 1.81% : missile
+ 0.68% : aircraft carrier
+ 0.64% : ski
+ 0.33% : speedboat
+ 0.31% : alp
+ 0.12% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ092.jpg
+60.14% : warplane
+19.04% : wing
+ 4.11% : airliner
+ 3.67% : projectile
+ 1.84% : missile
+ 0.80% : aircraft carrier
+ 0.59% : ski
+ 0.33% : speedboat
+ 0.29% : alp
+ 0.13% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ093.jpg
+59.67% : warplane
+19.96% : wing
+ 4.58% : airliner
+ 3.22% : projectile
+ 1.56% : missile
+ 0.79% : aircraft carrier
+ 0.53% : ski
+ 0.31% : speedboat
+ 0.29% : alp
+ 0.12% : trimaran
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ094.jpg
+59.59% : warplane
+18.54% : wing
+ 5.81% : airliner
+ 3.14% : projectile
+ 1.53% : missile
+ 0.92% : aircraft carrier
+ 0.44% : ski
+ 0.32% : speedboat
+ 0.23% : alp
+ 0.13% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ095.jpg
+61.89% : warplane
+15.77% : wing
+ 5.95% : airliner
+ 3.53% : projectile
+ 1.66% : missile
+ 0.90% : aircraft carrier
+ 0.34% : ski
+ 0.31% : speedboat
+ 0.22% : alp
+ 0.12% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ096.jpg
+55.28% : warplane
+20.96% : wing
+ 7.49% : airliner
+ 3.31% : projectile
+ 1.72% : missile
+ 0.72% : aircraft carrier
+ 0.36% : speedboat
+ 0.36% : ski
+ 0.23% : alp
+ 0.12% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ097.jpg
+57.20% : warplane
+19.89% : wing
+ 6.82% : airliner
+ 3.16% : projectile
+ 1.62% : missile
+ 0.85% : aircraft carrier
+ 0.38% : ski
+ 0.30% : speedboat
+ 0.24% : alp
+ 0.12% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ098.jpg
+58.28% : warplane
+19.52% : wing
+ 6.62% : airliner
+ 3.13% : projectile
+ 1.57% : missile
+ 0.77% : aircraft carrier
+ 0.38% : ski
+ 0.35% : speedboat
+ 0.21% : alp
+ 0.11% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ099.jpg
+53.56% : warplane
+23.42% : wing
+ 7.53% : airliner
+ 2.81% : projectile
+ 1.43% : missile
+ 0.68% : aircraft carrier
+ 0.42% : ski
+ 0.35% : speedboat
+ 0.24% : alp
+ 0.12% : space shuttle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorWarplaneQ100.jpg
+54.61% : warplane
+22.67% : wing
+ 7.38% : airliner
+ 2.69% : projectile
+ 1.39% : missile
+ 0.74% : aircraft carrier
+ 0.39% : ski
+ 0.34% : speedboat
+ 0.24% : alp
+ 0.12% : space shuttle

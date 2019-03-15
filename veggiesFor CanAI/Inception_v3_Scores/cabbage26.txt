@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q001.jpg
+28.55% : spaghetti squash
+21.48% : lemon
+10.10% : acorn squash
+ 8.76% : tennis ball
+ 4.14% : orange
+ 2.34% : jack-o'-lantern
+ 1.22% : sulphur butterfly
+ 0.75% : traffic light
+ 0.58% : barrel
+ 0.35% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q002.jpg
+28.55% : spaghetti squash
+21.48% : lemon
+10.10% : acorn squash
+ 8.76% : tennis ball
+ 4.14% : orange
+ 2.34% : jack-o'-lantern
+ 1.22% : sulphur butterfly
+ 0.75% : traffic light
+ 0.58% : barrel
+ 0.35% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q003.jpg
+27.51% : spaghetti squash
+21.16% : lemon
+10.07% : tennis ball
+10.06% : acorn squash
+ 3.90% : orange
+ 2.38% : jack-o'-lantern
+ 1.26% : sulphur butterfly
+ 0.77% : traffic light
+ 0.51% : barrel
+ 0.35% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q004.jpg
+19.89% : lemon
+10.38% : orange
+ 6.48% : acorn squash
+ 5.26% : spaghetti squash
+ 3.66% : barrel
+ 2.79% : tennis ball
+ 2.64% : sulphur butterfly
+ 2.06% : thresher
+ 2.01% : lumbermill
+ 1.11% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q005.jpg
+24.24% : spaghetti squash
+16.23% : lemon
+ 4.20% : lumbermill
+ 3.99% : barrel
+ 3.96% : orange
+ 1.91% : jack-o'-lantern
+ 1.64% : crate
+ 1.43% : sulphur butterfly
+ 1.19% : acorn squash
+ 0.77% : chain saw
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q006.jpg
+52.74% : spaghetti squash
+15.19% : orange
+ 9.26% : lemon
+ 4.77% : acorn squash
+ 3.52% : jack-o'-lantern
+ 0.38% : head cabbage
+ 0.32% : butternut squash
+ 0.32% : pineapple
+ 0.28% : sulphur butterfly
+ 0.26% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q007.jpg
+53.00% : lemon
+16.13% : spaghetti squash
+14.21% : orange
+ 1.96% : acorn squash
+ 0.50% : jack-o'-lantern
+ 0.47% : butternut squash
+ 0.36% : pineapple
+ 0.33% : head cabbage
+ 0.20% : crate
+ 0.20% : barrow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q008.jpg
+28.28% : lemon
+23.08% : spaghetti squash
+11.58% : orange
+ 2.30% : acorn squash
+ 2.18% : jack-o'-lantern
+ 1.07% : head cabbage
+ 0.85% : butternut squash
+ 0.58% : jackfruit
+ 0.42% : barrow
+ 0.35% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q009.jpg
+25.20% : head cabbage
+17.79% : spaghetti squash
+ 8.91% : lemon
+ 7.88% : acorn squash
+ 3.97% : orange
+ 2.10% : jack-o'-lantern
+ 1.43% : pineapple
+ 0.97% : butternut squash
+ 0.60% : cauliflower
+ 0.60% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q010.jpg
+67.18% : lemon
+11.50% : orange
+ 2.84% : spaghetti squash
+ 1.45% : head cabbage
+ 0.58% : jack-o'-lantern
+ 0.56% : acorn squash
+ 0.41% : butternut squash
+ 0.28% : pineapple
+ 0.20% : jackfruit
+ 0.19% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q011.jpg
+36.44% : head cabbage
+12.49% : spaghetti squash
+10.93% : lemon
+ 4.60% : orange
+ 2.66% : acorn squash
+ 2.30% : jack-o'-lantern
+ 1.50% : butternut squash
+ 1.20% : cauliflower
+ 1.07% : jackfruit
+ 0.85% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q012.jpg
+21.37% : lemon
+12.33% : orange
+ 7.31% : head cabbage
+ 3.49% : spaghetti squash
+ 3.00% : jack-o'-lantern
+ 2.20% : butternut squash
+ 1.26% : acorn squash
+ 1.03% : crate
+ 1.00% : pineapple
+ 1.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q013.jpg
+20.02% : lemon
+19.10% : spaghetti squash
+ 7.24% : orange
+ 3.93% : head cabbage
+ 3.59% : acorn squash
+ 2.34% : banana
+ 2.14% : jack-o'-lantern
+ 1.97% : pineapple
+ 1.85% : butternut squash
+ 0.91% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q014.jpg
+41.29% : head cabbage
+ 4.21% : lemon
+ 4.03% : spaghetti squash
+ 2.92% : acorn squash
+ 2.77% : orange
+ 1.45% : butternut squash
+ 1.30% : pineapple
+ 1.12% : jack-o'-lantern
+ 1.03% : cauliflower
+ 0.99% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q015.jpg
+15.05% : head cabbage
+13.18% : lemon
+12.43% : spaghetti squash
+ 3.54% : acorn squash
+ 3.48% : orange
+ 2.25% : pineapple
+ 1.96% : butternut squash
+ 1.86% : banana
+ 1.67% : custard apple
+ 1.55% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q016.jpg
+34.34% : head cabbage
+ 8.60% : spaghetti squash
+ 7.93% : lemon
+ 4.89% : orange
+ 3.97% : acorn squash
+ 2.46% : butternut squash
+ 2.09% : pineapple
+ 1.81% : jack-o'-lantern
+ 1.34% : cauliflower
+ 1.14% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q017.jpg
+29.65% : head cabbage
+11.74% : spaghetti squash
+ 4.01% : lemon
+ 3.97% : acorn squash
+ 2.95% : jack-o'-lantern
+ 2.32% : butternut squash
+ 1.14% : orange
+ 0.83% : cauliflower
+ 0.77% : custard apple
+ 0.75% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q018.jpg
+33.40% : head cabbage
+ 6.69% : spaghetti squash
+ 6.65% : lemon
+ 3.78% : acorn squash
+ 3.37% : orange
+ 2.55% : jack-o'-lantern
+ 2.55% : butternut squash
+ 0.95% : cauliflower
+ 0.95% : pineapple
+ 0.89% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q019.jpg
+37.02% : head cabbage
+ 5.63% : spaghetti squash
+ 3.91% : lemon
+ 3.09% : acorn squash
+ 1.98% : butternut squash
+ 1.79% : pineapple
+ 1.72% : orange
+ 1.68% : cauliflower
+ 1.68% : jack-o'-lantern
+ 1.52% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q020.jpg
+31.54% : head cabbage
+11.28% : spaghetti squash
+ 5.69% : acorn squash
+ 3.46% : lemon
+ 2.33% : butternut squash
+ 1.99% : jack-o'-lantern
+ 0.97% : cauliflower
+ 0.90% : pineapple
+ 0.83% : jackfruit
+ 0.82% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q021.jpg
+22.33% : head cabbage
+11.32% : spaghetti squash
+ 7.84% : acorn squash
+ 5.61% : lemon
+ 3.63% : butternut squash
+ 2.35% : orange
+ 1.76% : pineapple
+ 1.60% : jack-o'-lantern
+ 1.05% : cauliflower
+ 1.02% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q022.jpg
+20.94% : spaghetti squash
+13.26% : lemon
+12.07% : head cabbage
+ 7.21% : acorn squash
+ 2.84% : butternut squash
+ 2.72% : orange
+ 2.29% : pineapple
+ 1.33% : jack-o'-lantern
+ 1.21% : custard apple
+ 1.17% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q023.jpg
+16.68% : spaghetti squash
+14.10% : acorn squash
+11.07% : lemon
+10.18% : head cabbage
+ 3.58% : orange
+ 3.54% : butternut squash
+ 2.43% : pineapple
+ 1.68% : jack-o'-lantern
+ 1.53% : banana
+ 1.36% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q024.jpg
+22.39% : head cabbage
+17.78% : spaghetti squash
+ 7.20% : acorn squash
+ 4.77% : lemon
+ 3.42% : butternut squash
+ 1.31% : jack-o'-lantern
+ 1.25% : pineapple
+ 0.87% : orange
+ 0.85% : conch
+ 0.81% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q025.jpg
+22.98% : spaghetti squash
+11.70% : acorn squash
+10.00% : head cabbage
+ 5.96% : lemon
+ 3.54% : butternut squash
+ 1.78% : pineapple
+ 1.52% : jack-o'-lantern
+ 1.36% : orange
+ 1.19% : banana
+ 1.16% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q026.jpg
+26.11% : head cabbage
+12.78% : acorn squash
+12.27% : spaghetti squash
+ 5.79% : lemon
+ 2.69% : butternut squash
+ 1.71% : orange
+ 1.67% : pineapple
+ 1.14% : custard apple
+ 1.03% : banana
+ 1.00% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q027.jpg
+22.90% : head cabbage
+11.97% : spaghetti squash
+10.67% : acorn squash
+ 5.78% : lemon
+ 2.99% : butternut squash
+ 2.02% : jack-o'-lantern
+ 1.89% : pineapple
+ 1.34% : orange
+ 1.15% : custard apple
+ 1.08% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q028.jpg
+16.95% : acorn squash
+14.21% : spaghetti squash
+13.57% : head cabbage
+ 4.06% : lemon
+ 3.89% : butternut squash
+ 2.58% : jack-o'-lantern
+ 1.93% : pineapple
+ 1.44% : orange
+ 1.01% : custard apple
+ 0.94% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q029.jpg
+16.33% : spaghetti squash
+15.16% : acorn squash
+14.34% : head cabbage
+ 4.54% : lemon
+ 3.88% : butternut squash
+ 2.30% : jack-o'-lantern
+ 2.03% : pineapple
+ 1.04% : orange
+ 0.93% : custard apple
+ 0.79% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q030.jpg
+16.56% : spaghetti squash
+14.90% : head cabbage
+11.99% : acorn squash
+10.41% : lemon
+ 3.90% : butternut squash
+ 2.43% : orange
+ 1.40% : jack-o'-lantern
+ 1.26% : pineapple
+ 0.94% : custard apple
+ 0.75% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q031.jpg
+16.96% : head cabbage
+15.82% : lemon
+12.77% : acorn squash
+10.64% : spaghetti squash
+ 2.99% : butternut squash
+ 2.85% : orange
+ 1.58% : pineapple
+ 1.30% : custard apple
+ 1.08% : banana
+ 1.01% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q032.jpg
+17.01% : head cabbage
+14.84% : spaghetti squash
+10.82% : acorn squash
+ 9.03% : lemon
+ 3.94% : butternut squash
+ 1.62% : orange
+ 1.09% : jack-o'-lantern
+ 1.07% : custard apple
+ 1.00% : pineapple
+ 0.78% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q033.jpg
+21.27% : head cabbage
+14.25% : spaghetti squash
+12.27% : acorn squash
+ 7.05% : lemon
+ 3.33% : butternut squash
+ 1.16% : jack-o'-lantern
+ 1.15% : orange
+ 1.03% : banana
+ 0.91% : custard apple
+ 0.75% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q034.jpg
+19.83% : head cabbage
+15.85% : spaghetti squash
+14.25% : acorn squash
+ 8.63% : lemon
+ 3.02% : butternut squash
+ 1.40% : orange
+ 1.28% : jack-o'-lantern
+ 1.05% : pineapple
+ 1.04% : banana
+ 0.85% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q035.jpg
+18.12% : acorn squash
+16.03% : head cabbage
+13.48% : spaghetti squash
+ 5.96% : lemon
+ 3.30% : butternut squash
+ 1.43% : jack-o'-lantern
+ 1.18% : orange
+ 0.81% : pineapple
+ 0.77% : custard apple
+ 0.58% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q036.jpg
+26.27% : head cabbage
+10.94% : lemon
+10.66% : spaghetti squash
+ 9.85% : acorn squash
+ 2.79% : butternut squash
+ 1.71% : orange
+ 0.98% : jack-o'-lantern
+ 0.97% : pineapple
+ 0.87% : conch
+ 0.77% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q037.jpg
+24.16% : head cabbage
+12.90% : lemon
+10.65% : spaghetti squash
+ 9.37% : acorn squash
+ 2.79% : butternut squash
+ 1.89% : orange
+ 1.10% : pineapple
+ 1.01% : jack-o'-lantern
+ 0.84% : banana
+ 0.81% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q038.jpg
+22.24% : head cabbage
+15.21% : acorn squash
+10.71% : spaghetti squash
+ 6.90% : lemon
+ 2.95% : butternut squash
+ 1.66% : orange
+ 1.48% : pineapple
+ 1.23% : jack-o'-lantern
+ 1.22% : banana
+ 0.83% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q039.jpg
+28.60% : head cabbage
+13.36% : acorn squash
+11.56% : spaghetti squash
+ 5.13% : lemon
+ 2.82% : butternut squash
+ 1.26% : jack-o'-lantern
+ 1.12% : pineapple
+ 1.00% : orange
+ 0.99% : banana
+ 0.81% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q040.jpg
+27.35% : head cabbage
+11.64% : spaghetti squash
+11.23% : acorn squash
+ 4.71% : lemon
+ 3.08% : butternut squash
+ 1.37% : jack-o'-lantern
+ 0.95% : banana
+ 0.88% : conch
+ 0.80% : pineapple
+ 0.76% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q041.jpg
+33.18% : head cabbage
+11.28% : acorn squash
+ 8.74% : spaghetti squash
+ 7.29% : lemon
+ 2.50% : butternut squash
+ 1.18% : orange
+ 1.06% : custard apple
+ 0.91% : jack-o'-lantern
+ 0.88% : pineapple
+ 0.72% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q042.jpg
+26.28% : head cabbage
+14.79% : lemon
+10.15% : acorn squash
+ 8.65% : spaghetti squash
+ 2.28% : orange
+ 2.23% : butternut squash
+ 1.57% : pineapple
+ 1.22% : custard apple
+ 0.91% : banana
+ 0.79% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q043.jpg
+27.87% : head cabbage
+13.42% : lemon
+11.44% : acorn squash
+ 8.49% : spaghetti squash
+ 2.32% : butternut squash
+ 2.12% : orange
+ 1.41% : pineapple
+ 1.16% : custard apple
+ 0.82% : banana
+ 0.75% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q044.jpg
+28.17% : head cabbage
+12.78% : acorn squash
+11.99% : lemon
+10.32% : spaghetti squash
+ 2.74% : butternut squash
+ 1.66% : orange
+ 1.50% : pineapple
+ 1.19% : jack-o'-lantern
+ 0.98% : custard apple
+ 0.79% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q045.jpg
+26.24% : head cabbage
+12.89% : acorn squash
+11.47% : lemon
+11.20% : spaghetti squash
+ 2.83% : butternut squash
+ 1.84% : pineapple
+ 1.80% : orange
+ 1.38% : jack-o'-lantern
+ 0.90% : custard apple
+ 0.77% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q046.jpg
+25.98% : head cabbage
+13.05% : spaghetti squash
+11.08% : acorn squash
+ 8.86% : lemon
+ 3.02% : butternut squash
+ 1.61% : jack-o'-lantern
+ 1.40% : orange
+ 1.11% : pineapple
+ 0.82% : custard apple
+ 0.79% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q047.jpg
+26.37% : head cabbage
+13.17% : spaghetti squash
+11.03% : acorn squash
+ 8.57% : lemon
+ 2.86% : butternut squash
+ 1.71% : jack-o'-lantern
+ 1.37% : orange
+ 1.09% : pineapple
+ 0.81% : banana
+ 0.80% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q048.jpg
+24.20% : head cabbage
+13.32% : spaghetti squash
+11.67% : acorn squash
+ 8.14% : lemon
+ 3.22% : butternut squash
+ 1.67% : jack-o'-lantern
+ 1.43% : orange
+ 1.02% : pineapple
+ 0.81% : custard apple
+ 0.70% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q049.jpg
+27.17% : head cabbage
+13.64% : spaghetti squash
+10.37% : acorn squash
+10.08% : lemon
+ 2.59% : butternut squash
+ 1.62% : orange
+ 1.37% : jack-o'-lantern
+ 1.13% : pineapple
+ 0.88% : custard apple
+ 0.73% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q050.jpg
+26.99% : head cabbage
+13.65% : spaghetti squash
+10.38% : acorn squash
+10.04% : lemon
+ 2.61% : butternut squash
+ 1.62% : orange
+ 1.38% : jack-o'-lantern
+ 1.13% : pineapple
+ 0.88% : custard apple
+ 0.72% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q051.jpg
+26.89% : head cabbage
+13.71% : spaghetti squash
+10.46% : acorn squash
+10.04% : lemon
+ 2.61% : butternut squash
+ 1.62% : orange
+ 1.39% : jack-o'-lantern
+ 1.12% : pineapple
+ 0.88% : custard apple
+ 0.72% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q052.jpg
+20.89% : head cabbage
+15.24% : spaghetti squash
+12.74% : acorn squash
+ 9.63% : lemon
+ 2.75% : butternut squash
+ 1.89% : pineapple
+ 1.38% : banana
+ 1.30% : custard apple
+ 1.26% : orange
+ 0.97% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q053.jpg
+23.25% : head cabbage
+13.48% : spaghetti squash
+10.92% : acorn squash
+ 8.91% : lemon
+ 2.56% : butternut squash
+ 1.84% : pineapple
+ 1.51% : banana
+ 1.33% : custard apple
+ 1.22% : orange
+ 1.17% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q054.jpg
+23.23% : head cabbage
+13.47% : spaghetti squash
+11.15% : acorn squash
+ 8.65% : lemon
+ 2.63% : butternut squash
+ 1.84% : pineapple
+ 1.48% : banana
+ 1.29% : custard apple
+ 1.20% : orange
+ 1.18% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q055.jpg
+22.62% : head cabbage
+15.92% : acorn squash
+15.43% : spaghetti squash
+ 8.47% : lemon
+ 3.11% : butternut squash
+ 1.29% : pineapple
+ 1.23% : custard apple
+ 1.09% : orange
+ 0.99% : jack-o'-lantern
+ 0.88% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q056.jpg
+24.67% : head cabbage
+16.21% : acorn squash
+15.66% : spaghetti squash
+ 8.25% : lemon
+ 2.99% : butternut squash
+ 1.16% : pineapple
+ 1.15% : custard apple
+ 0.90% : orange
+ 0.90% : jack-o'-lantern
+ 0.76% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q057.jpg
+28.07% : head cabbage
+15.67% : acorn squash
+12.72% : spaghetti squash
+ 8.19% : lemon
+ 2.90% : butternut squash
+ 0.96% : pineapple
+ 0.94% : orange
+ 0.92% : jack-o'-lantern
+ 0.92% : custard apple
+ 0.66% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q058.jpg
+23.01% : head cabbage
+19.38% : acorn squash
+13.25% : spaghetti squash
+ 8.74% : lemon
+ 3.18% : butternut squash
+ 1.24% : pineapple
+ 1.10% : jack-o'-lantern
+ 1.00% : orange
+ 0.92% : custard apple
+ 0.68% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q059.jpg
+20.82% : head cabbage
+19.41% : acorn squash
+13.87% : spaghetti squash
+ 9.35% : lemon
+ 3.22% : butternut squash
+ 1.18% : pineapple
+ 1.12% : jack-o'-lantern
+ 1.04% : orange
+ 0.92% : custard apple
+ 0.63% : conch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q060.jpg
+19.94% : acorn squash
+19.16% : head cabbage
+14.90% : spaghetti squash
+ 8.95% : lemon
+ 3.27% : butternut squash
+ 1.18% : jack-o'-lantern
+ 1.14% : pineapple
+ 1.00% : orange
+ 0.95% : custard apple
+ 0.62% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q061.jpg
+23.68% : head cabbage
+15.24% : spaghetti squash
+14.61% : acorn squash
+10.29% : lemon
+ 3.34% : butternut squash
+ 1.13% : pineapple
+ 1.12% : orange
+ 0.96% : jack-o'-lantern
+ 0.94% : custard apple
+ 0.71% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q062.jpg
+23.67% : head cabbage
+15.65% : acorn squash
+15.51% : spaghetti squash
+ 9.56% : lemon
+ 3.48% : butternut squash
+ 1.10% : pineapple
+ 1.06% : orange
+ 0.94% : custard apple
+ 0.92% : jack-o'-lantern
+ 0.70% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q063.jpg
+20.80% : head cabbage
+17.19% : acorn squash
+16.70% : spaghetti squash
+ 9.10% : lemon
+ 3.47% : butternut squash
+ 1.10% : pineapple
+ 0.99% : custard apple
+ 0.98% : orange
+ 0.88% : jack-o'-lantern
+ 0.65% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q064.jpg
+17.54% : head cabbage
+17.33% : spaghetti squash
+16.13% : acorn squash
+ 9.18% : lemon
+ 3.57% : butternut squash
+ 1.11% : pineapple
+ 1.10% : orange
+ 1.08% : jack-o'-lantern
+ 0.96% : custard apple
+ 0.71% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q065.jpg
+16.27% : head cabbage
+15.36% : spaghetti squash
+12.81% : acorn squash
+ 9.00% : lemon
+ 3.89% : butternut squash
+ 1.45% : jack-o'-lantern
+ 1.30% : orange
+ 1.19% : pineapple
+ 0.97% : banana
+ 0.83% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q066.jpg
+16.58% : head cabbage
+15.02% : spaghetti squash
+11.67% : acorn squash
+10.56% : lemon
+ 3.97% : butternut squash
+ 1.34% : jack-o'-lantern
+ 1.33% : orange
+ 1.22% : pineapple
+ 0.91% : banana
+ 0.81% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q067.jpg
+19.91% : head cabbage
+16.90% : spaghetti squash
+12.80% : acorn squash
+ 8.04% : lemon
+ 3.82% : butternut squash
+ 1.12% : jack-o'-lantern
+ 1.06% : pineapple
+ 1.04% : orange
+ 0.93% : custard apple
+ 0.76% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q068.jpg
+19.73% : head cabbage
+15.40% : spaghetti squash
+13.33% : acorn squash
+ 9.71% : lemon
+ 3.87% : butternut squash
+ 1.24% : pineapple
+ 1.21% : orange
+ 1.08% : custard apple
+ 1.05% : jack-o'-lantern
+ 0.78% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q069.jpg
+18.57% : head cabbage
+15.57% : spaghetti squash
+13.24% : acorn squash
+ 9.66% : lemon
+ 3.97% : butternut squash
+ 1.29% : orange
+ 1.23% : pineapple
+ 1.19% : jack-o'-lantern
+ 1.00% : custard apple
+ 0.75% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q070.jpg
+16.97% : spaghetti squash
+16.49% : head cabbage
+13.78% : acorn squash
+10.12% : lemon
+ 4.32% : butternut squash
+ 1.41% : orange
+ 1.39% : jack-o'-lantern
+ 1.08% : pineapple
+ 0.97% : banana
+ 0.92% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q071.jpg
+16.90% : spaghetti squash
+14.06% : lemon
+13.83% : head cabbage
+12.15% : acorn squash
+ 3.84% : butternut squash
+ 2.00% : orange
+ 1.33% : jack-o'-lantern
+ 1.13% : pineapple
+ 0.98% : banana
+ 0.88% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q072.jpg
+18.15% : spaghetti squash
+13.18% : head cabbage
+13.17% : acorn squash
+13.02% : lemon
+ 4.03% : butternut squash
+ 1.83% : orange
+ 1.29% : jack-o'-lantern
+ 1.10% : pineapple
+ 1.09% : banana
+ 0.92% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q073.jpg
+19.57% : spaghetti squash
+16.26% : acorn squash
+11.91% : head cabbage
+11.45% : lemon
+ 4.12% : butternut squash
+ 1.63% : orange
+ 1.32% : jack-o'-lantern
+ 1.27% : banana
+ 1.26% : pineapple
+ 0.74% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q074.jpg
+20.86% : spaghetti squash
+14.22% : acorn squash
+11.66% : lemon
+11.51% : head cabbage
+ 4.26% : butternut squash
+ 1.45% : jack-o'-lantern
+ 1.41% : orange
+ 1.11% : pineapple
+ 1.01% : banana
+ 0.77% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q075.jpg
+20.81% : spaghetti squash
+14.17% : acorn squash
+11.79% : lemon
+11.68% : head cabbage
+ 4.26% : butternut squash
+ 1.45% : jack-o'-lantern
+ 1.43% : orange
+ 1.12% : pineapple
+ 1.03% : banana
+ 0.76% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q076.jpg
+19.37% : spaghetti squash
+14.76% : head cabbage
+13.33% : lemon
+12.45% : acorn squash
+ 3.50% : butternut squash
+ 1.70% : orange
+ 1.33% : pineapple
+ 1.24% : jack-o'-lantern
+ 0.95% : banana
+ 0.80% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q077.jpg
+17.88% : spaghetti squash
+17.65% : head cabbage
+13.26% : acorn squash
+12.06% : lemon
+ 3.78% : butternut squash
+ 1.40% : orange
+ 1.07% : pineapple
+ 0.99% : jack-o'-lantern
+ 0.82% : banana
+ 0.75% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q078.jpg
+19.16% : spaghetti squash
+18.17% : head cabbage
+14.68% : acorn squash
+12.88% : lemon
+ 3.24% : butternut squash
+ 1.16% : orange
+ 1.05% : pineapple
+ 0.83% : jack-o'-lantern
+ 0.76% : banana
+ 0.68% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q079.jpg
+20.20% : head cabbage
+18.32% : spaghetti squash
+13.11% : lemon
+12.69% : acorn squash
+ 3.31% : butternut squash
+ 1.17% : orange
+ 1.16% : pineapple
+ 0.84% : jack-o'-lantern
+ 0.75% : banana
+ 0.70% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q080.jpg
+22.60% : head cabbage
+19.17% : spaghetti squash
+11.88% : lemon
+10.86% : acorn squash
+ 2.94% : butternut squash
+ 1.08% : orange
+ 1.04% : pineapple
+ 0.91% : jack-o'-lantern
+ 0.78% : banana
+ 0.64% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q081.jpg
+25.63% : head cabbage
+19.39% : spaghetti squash
+11.22% : lemon
+ 9.63% : acorn squash
+ 2.47% : butternut squash
+ 1.09% : orange
+ 1.06% : pineapple
+ 0.84% : jack-o'-lantern
+ 0.83% : banana
+ 0.78% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q082.jpg
+23.89% : head cabbage
+19.21% : spaghetti squash
+13.81% : lemon
+10.31% : acorn squash
+ 2.32% : butternut squash
+ 1.25% : orange
+ 1.24% : pineapple
+ 0.87% : custard apple
+ 0.83% : banana
+ 0.77% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q083.jpg
+24.45% : head cabbage
+23.29% : spaghetti squash
+12.30% : acorn squash
+ 9.33% : lemon
+ 2.56% : butternut squash
+ 1.20% : pineapple
+ 0.96% : jack-o'-lantern
+ 0.82% : orange
+ 0.74% : custard apple
+ 0.69% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q084.jpg
+26.19% : head cabbage
+22.82% : spaghetti squash
+13.32% : acorn squash
+ 8.84% : lemon
+ 2.21% : butternut squash
+ 1.09% : pineapple
+ 0.95% : jack-o'-lantern
+ 0.75% : custard apple
+ 0.74% : orange
+ 0.60% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q085.jpg
+32.20% : head cabbage
+18.42% : spaghetti squash
+12.94% : acorn squash
+ 8.23% : lemon
+ 2.33% : butternut squash
+ 0.96% : pineapple
+ 0.82% : jack-o'-lantern
+ 0.72% : custard apple
+ 0.71% : orange
+ 0.68% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q086.jpg
+30.83% : head cabbage
+16.31% : spaghetti squash
+12.97% : acorn squash
+ 9.29% : lemon
+ 2.38% : butternut squash
+ 1.04% : pineapple
+ 0.98% : orange
+ 0.89% : jack-o'-lantern
+ 0.74% : custard apple
+ 0.68% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q087.jpg
+25.09% : head cabbage
+18.05% : spaghetti squash
+13.72% : acorn squash
+10.00% : lemon
+ 2.84% : butternut squash
+ 1.12% : pineapple
+ 1.07% : jack-o'-lantern
+ 1.06% : orange
+ 0.71% : custard apple
+ 0.68% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q088.jpg
+22.57% : head cabbage
+17.00% : spaghetti squash
+11.45% : acorn squash
+10.82% : lemon
+ 3.05% : butternut squash
+ 1.35% : orange
+ 1.27% : pineapple
+ 1.18% : jack-o'-lantern
+ 0.71% : custard apple
+ 0.68% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q089.jpg
+22.80% : head cabbage
+17.21% : spaghetti squash
+12.31% : lemon
+11.13% : acorn squash
+ 2.74% : butternut squash
+ 1.38% : orange
+ 1.34% : pineapple
+ 1.06% : jack-o'-lantern
+ 0.78% : custard apple
+ 0.70% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q090.jpg
+22.06% : head cabbage
+17.10% : spaghetti squash
+14.58% : lemon
+10.40% : acorn squash
+ 2.88% : butternut squash
+ 1.47% : orange
+ 1.29% : pineapple
+ 0.89% : jack-o'-lantern
+ 0.79% : banana
+ 0.79% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q091.jpg
+20.31% : lemon
+17.45% : spaghetti squash
+16.10% : head cabbage
+10.86% : acorn squash
+ 2.94% : butternut squash
+ 1.82% : orange
+ 1.63% : pineapple
+ 1.00% : custard apple
+ 0.84% : banana
+ 0.74% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q092.jpg
+17.57% : lemon
+17.12% : head cabbage
+13.80% : spaghetti squash
+10.11% : acorn squash
+ 3.06% : butternut squash
+ 1.90% : orange
+ 1.38% : pineapple
+ 1.11% : jack-o'-lantern
+ 1.07% : custard apple
+ 0.72% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q093.jpg
+16.72% : head cabbage
+16.27% : lemon
+15.25% : spaghetti squash
+11.50% : acorn squash
+ 3.03% : butternut squash
+ 2.00% : pineapple
+ 1.95% : orange
+ 1.47% : jack-o'-lantern
+ 1.16% : custard apple
+ 0.79% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q094.jpg
+17.66% : head cabbage
+16.27% : lemon
+13.99% : spaghetti squash
+ 9.86% : acorn squash
+ 2.83% : butternut squash
+ 1.73% : orange
+ 1.51% : pineapple
+ 1.33% : jack-o'-lantern
+ 1.10% : custard apple
+ 0.76% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q095.jpg
+17.46% : lemon
+15.96% : spaghetti squash
+15.77% : head cabbage
+11.21% : acorn squash
+ 2.58% : butternut squash
+ 1.75% : orange
+ 1.51% : pineapple
+ 1.19% : jack-o'-lantern
+ 1.05% : custard apple
+ 0.73% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q096.jpg
+19.26% : head cabbage
+16.37% : spaghetti squash
+16.20% : lemon
+11.05% : acorn squash
+ 2.69% : butternut squash
+ 1.45% : orange
+ 1.43% : pineapple
+ 1.08% : jack-o'-lantern
+ 0.91% : custard apple
+ 0.71% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q097.jpg
+19.32% : head cabbage
+16.90% : lemon
+15.71% : spaghetti squash
+10.09% : acorn squash
+ 2.59% : butternut squash
+ 1.65% : orange
+ 1.50% : pineapple
+ 0.99% : jack-o'-lantern
+ 0.94% : custard apple
+ 0.79% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q098.jpg
+18.31% : head cabbage
+16.05% : lemon
+15.93% : spaghetti squash
+11.94% : acorn squash
+ 3.01% : butternut squash
+ 1.58% : orange
+ 1.41% : pineapple
+ 1.01% : custard apple
+ 0.98% : jack-o'-lantern
+ 0.77% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q099.jpg
+19.67% : head cabbage
+17.23% : lemon
+14.95% : spaghetti squash
+10.66% : acorn squash
+ 2.54% : butternut squash
+ 1.70% : orange
+ 1.52% : pineapple
+ 0.98% : jack-o'-lantern
+ 0.98% : custard apple
+ 0.79% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage26Q100.jpg
+18.10% : lemon
+17.24% : spaghetti squash
+15.39% : head cabbage
+12.33% : acorn squash
+ 2.83% : butternut squash
+ 1.83% : orange
+ 1.53% : pineapple
+ 1.04% : jack-o'-lantern
+ 0.92% : custard apple
+ 0.86% : banana

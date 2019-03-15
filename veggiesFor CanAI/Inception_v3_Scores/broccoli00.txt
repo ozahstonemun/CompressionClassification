@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ001.jpg
+99.67% : broccoli
+ 0.08% : cauliflower
+ 0.03% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : mortar
+ 0.00% : harvester
+ 0.00% : coral reef
+ 0.00% : cliff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ002.jpg
+99.69% : broccoli
+ 0.08% : cauliflower
+ 0.03% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : zucchini
+ 0.00% : mortar
+ 0.00% : coral reef
+ 0.00% : harvester
+ 0.00% : cliff
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ003.jpg
+99.24% : broccoli
+ 0.19% : cauliflower
+ 0.06% : head cabbage
+ 0.01% : grocery store
+ 0.01% : zucchini
+ 0.01% : analog clock
+ 0.01% : coral reef
+ 0.01% : jackfruit
+ 0.00% : harvester
+ 0.00% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ004.jpg
+99.83% : broccoli
+ 0.06% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : odometer
+ 0.00% : mortar
+ 0.00% : zucchini
+ 0.00% : cliff
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ005.jpg
+99.45% : broccoli
+ 0.23% : cauliflower
+ 0.03% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : jackfruit
+ 0.00% : wok
+ 0.00% : custard apple
+ 0.00% : shopping basket
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ006.jpg
+99.64% : broccoli
+ 0.20% : cauliflower
+ 0.03% : head cabbage
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : analog clock
+ 0.00% : jackfruit
+ 0.00% : zucchini
+ 0.00% : meat loaf
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ007.jpg
+99.56% : broccoli
+ 0.23% : cauliflower
+ 0.02% : head cabbage
+ 0.01% : grocery store
+ 0.00% : analog clock
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ008.jpg
+99.70% : broccoli
+ 0.12% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : odometer
+ 0.00% : shopping basket
+ 0.00% : jackfruit
+ 0.00% : wok
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ009.jpg
+99.52% : broccoli
+ 0.19% : cauliflower
+ 0.02% : head cabbage
+ 0.01% : grocery store
+ 0.01% : analog clock
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : wok
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ010.jpg
+99.83% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : odometer
+ 0.00% : shopping basket
+ 0.00% : meat loaf
+ 0.00% : zucchini
+ 0.00% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ011.jpg
+99.72% : broccoli
+ 0.17% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ012.jpg
+99.70% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : grocery store
+ 0.00% : analog clock
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ013.jpg
+99.52% : broccoli
+ 0.22% : cauliflower
+ 0.02% : head cabbage
+ 0.01% : grocery store
+ 0.01% : analog clock
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : meat loaf
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ014.jpg
+99.64% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : meat loaf
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ015.jpg
+99.79% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ016.jpg
+99.85% : broccoli
+ 0.06% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ017.jpg
+99.77% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ018.jpg
+99.82% : broccoli
+ 0.08% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : grocery store
+ 0.00% : analog clock
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ019.jpg
+99.80% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : grocery store
+ 0.00% : analog clock
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ020.jpg
+99.82% : broccoli
+ 0.08% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ021.jpg
+99.79% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : grocery store
+ 0.00% : analog clock
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ022.jpg
+99.69% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : grocery store
+ 0.00% : analog clock
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ023.jpg
+99.82% : broccoli
+ 0.07% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ024.jpg
+99.87% : broccoli
+ 0.05% : cauliflower
+ 0.00% : analog clock
+ 0.00% : head cabbage
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ025.jpg
+99.81% : broccoli
+ 0.08% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : jackfruit
+ 0.00% : odometer
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ026.jpg
+99.83% : broccoli
+ 0.07% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : wall clock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ027.jpg
+99.68% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ028.jpg
+99.66% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ029.jpg
+99.63% : broccoli
+ 0.13% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ030.jpg
+99.65% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ031.jpg
+99.75% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : meat loaf
+ 0.00% : zucchini
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ032.jpg
+99.74% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ033.jpg
+99.75% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ034.jpg
+99.72% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ035.jpg
+99.77% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ036.jpg
+99.78% : broccoli
+ 0.08% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ037.jpg
+99.79% : broccoli
+ 0.08% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ038.jpg
+99.80% : broccoli
+ 0.09% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ039.jpg
+99.81% : broccoli
+ 0.08% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ040.jpg
+99.76% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ041.jpg
+99.75% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ042.jpg
+99.76% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ043.jpg
+99.73% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : meat loaf
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ044.jpg
+99.76% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ045.jpg
+99.80% : broccoli
+ 0.07% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ046.jpg
+99.78% : broccoli
+ 0.08% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ047.jpg
+99.77% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ048.jpg
+99.77% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ049.jpg
+99.81% : broccoli
+ 0.07% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ050.jpg
+99.81% : broccoli
+ 0.07% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ051.jpg
+99.81% : broccoli
+ 0.07% : cauliflower
+ 0.00% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ052.jpg
+99.74% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ053.jpg
+99.73% : broccoli
+ 0.09% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ054.jpg
+99.72% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ055.jpg
+99.74% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ056.jpg
+99.71% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ057.jpg
+99.70% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ058.jpg
+99.71% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ059.jpg
+99.69% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ060.jpg
+99.67% : broccoli
+ 0.12% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ061.jpg
+99.63% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ062.jpg
+99.60% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ063.jpg
+99.58% : broccoli
+ 0.17% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : grocery store
+ 0.01% : analog clock
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ064.jpg
+99.60% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ065.jpg
+99.61% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : jackfruit
+ 0.00% : odometer
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ066.jpg
+99.60% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ067.jpg
+99.59% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ068.jpg
+99.60% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ069.jpg
+99.59% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : zucchini
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ070.jpg
+99.58% : broccoli
+ 0.18% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : jackfruit
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ071.jpg
+99.59% : broccoli
+ 0.19% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : jackfruit
+ 0.00% : zucchini
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ072.jpg
+99.57% : broccoli
+ 0.20% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : shopping basket
+ 0.00% : wok
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ073.jpg
+99.57% : broccoli
+ 0.19% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : grocery store
+ 0.01% : analog clock
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ074.jpg
+99.65% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ075.jpg
+99.66% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : meat loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ076.jpg
+99.67% : broccoli
+ 0.13% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ077.jpg
+99.61% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.01% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ078.jpg
+99.66% : broccoli
+ 0.12% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ079.jpg
+99.69% : broccoli
+ 0.12% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ080.jpg
+99.71% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ081.jpg
+99.73% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ082.jpg
+99.71% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ083.jpg
+99.71% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ084.jpg
+99.75% : broccoli
+ 0.10% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ085.jpg
+99.73% : broccoli
+ 0.11% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ086.jpg
+99.67% : broccoli
+ 0.13% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ087.jpg
+99.58% : broccoli
+ 0.17% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ088.jpg
+99.55% : broccoli
+ 0.19% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : meat loaf
+ 0.00% : odometer
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ089.jpg
+99.57% : broccoli
+ 0.18% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ090.jpg
+99.58% : broccoli
+ 0.18% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ091.jpg
+99.62% : broccoli
+ 0.18% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ092.jpg
+99.63% : broccoli
+ 0.20% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : jackfruit
+ 0.00% : zucchini
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ093.jpg
+99.68% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : jackfruit
+ 0.00% : zucchini
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ094.jpg
+99.72% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : jackfruit
+ 0.00% : odometer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ095.jpg
+99.68% : broccoli
+ 0.15% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : zucchini
+ 0.00% : odometer
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ096.jpg
+99.70% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ097.jpg
+99.65% : broccoli
+ 0.16% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ098.jpg
+99.70% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ099.jpg
+99.69% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.01% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/broccolis/broccoliQ100.jpg
+99.70% : broccoli
+ 0.14% : cauliflower
+ 0.01% : head cabbage
+ 0.00% : analog clock
+ 0.00% : grocery store
+ 0.00% : wok
+ 0.00% : shopping basket
+ 0.00% : odometer
+ 0.00% : meat loaf
+ 0.00% : jackfruit

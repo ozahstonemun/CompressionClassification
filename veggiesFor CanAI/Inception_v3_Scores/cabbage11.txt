@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q001.jpg
+58.96% : lemon
+35.03% : orange
+ 1.94% : spaghetti squash
+ 0.19% : pineapple
+ 0.12% : honeycomb
+ 0.07% : jackfruit
+ 0.06% : alp
+ 0.06% : French loaf
+ 0.06% : banana
+ 0.06% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q002.jpg
+58.79% : lemon
+35.24% : orange
+ 1.91% : spaghetti squash
+ 0.19% : pineapple
+ 0.12% : honeycomb
+ 0.07% : jackfruit
+ 0.06% : alp
+ 0.06% : French loaf
+ 0.06% : banana
+ 0.05% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q003.jpg
+58.05% : lemon
+35.74% : orange
+ 2.19% : spaghetti squash
+ 0.23% : pineapple
+ 0.10% : honeycomb
+ 0.06% : jackfruit
+ 0.06% : alp
+ 0.06% : banana
+ 0.05% : French loaf
+ 0.04% : crate
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q004.jpg
+83.98% : orange
+ 6.85% : lemon
+ 1.09% : jack-o'-lantern
+ 0.53% : spaghetti squash
+ 0.41% : crate
+ 0.31% : grocery store
+ 0.19% : head cabbage
+ 0.19% : pineapple
+ 0.17% : bakery
+ 0.17% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q005.jpg
+45.22% : orange
+36.59% : lemon
+ 5.63% : spaghetti squash
+ 1.11% : head cabbage
+ 0.61% : cauliflower
+ 0.61% : grocery store
+ 0.55% : pineapple
+ 0.36% : French loaf
+ 0.36% : dough
+ 0.33% : bakery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q006.jpg
+30.15% : lemon
+19.52% : spaghetti squash
+ 9.02% : head cabbage
+ 8.21% : orange
+ 5.22% : dough
+ 2.76% : cauliflower
+ 1.20% : plastic bag
+ 1.19% : jackfruit
+ 1.05% : pineapple
+ 0.74% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q007.jpg
+42.35% : lemon
+16.29% : head cabbage
+12.53% : spaghetti squash
+ 6.61% : orange
+ 4.50% : dough
+ 4.30% : cauliflower
+ 0.97% : soccer ball
+ 0.84% : jackfruit
+ 0.58% : plastic bag
+ 0.53% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q008.jpg
+51.98% : lemon
+14.26% : dough
+12.83% : spaghetti squash
+ 4.20% : head cabbage
+ 2.44% : cauliflower
+ 2.33% : jackfruit
+ 2.27% : orange
+ 0.77% : pineapple
+ 0.26% : French loaf
+ 0.26% : Norfolk terrier
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q009.jpg
+37.10% : lemon
+16.48% : dough
+ 8.81% : orange
+ 4.66% : head cabbage
+ 3.96% : spaghetti squash
+ 3.73% : jackfruit
+ 3.67% : cauliflower
+ 1.98% : pineapple
+ 1.53% : French loaf
+ 0.77% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q010.jpg
+26.98% : lemon
+23.35% : head cabbage
+14.63% : spaghetti squash
+ 8.41% : cauliflower
+ 6.38% : jackfruit
+ 5.36% : dough
+ 1.95% : orange
+ 1.09% : pineapple
+ 0.74% : soccer ball
+ 0.71% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q011.jpg
+42.99% : lemon
+11.95% : dough
+11.17% : jackfruit
+ 9.40% : spaghetti squash
+ 3.85% : head cabbage
+ 2.29% : orange
+ 2.19% : pineapple
+ 1.73% : cauliflower
+ 0.61% : plastic bag
+ 0.48% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q012.jpg
+27.81% : lemon
+15.19% : head cabbage
+11.59% : spaghetti squash
+ 8.08% : dough
+ 6.08% : jackfruit
+ 4.64% : cauliflower
+ 4.50% : pineapple
+ 3.42% : orange
+ 1.46% : custard apple
+ 0.74% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q013.jpg
+34.21% : lemon
+12.99% : spaghetti squash
+11.84% : dough
+11.39% : head cabbage
+ 9.95% : jackfruit
+ 3.47% : cauliflower
+ 1.27% : pineapple
+ 1.23% : orange
+ 1.14% : plastic bag
+ 0.67% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q014.jpg
+33.08% : lemon
+24.33% : spaghetti squash
+ 9.22% : jackfruit
+ 6.72% : dough
+ 6.60% : head cabbage
+ 2.82% : cauliflower
+ 2.53% : pineapple
+ 1.99% : orange
+ 0.62% : plastic bag
+ 0.58% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q015.jpg
+32.77% : lemon
+16.93% : dough
+12.97% : spaghetti squash
+ 8.41% : head cabbage
+ 6.23% : jackfruit
+ 5.77% : cauliflower
+ 1.65% : pineapple
+ 1.32% : orange
+ 0.62% : plastic bag
+ 0.59% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q016.jpg
+25.20% : dough
+22.45% : lemon
+15.49% : spaghetti squash
+ 8.64% : jackfruit
+ 8.03% : head cabbage
+ 3.55% : cauliflower
+ 2.35% : pineapple
+ 1.58% : orange
+ 0.67% : custard apple
+ 0.54% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q017.jpg
+23.38% : dough
+18.11% : lemon
+16.46% : head cabbage
+11.19% : spaghetti squash
+10.76% : jackfruit
+ 3.40% : cauliflower
+ 2.02% : pineapple
+ 0.93% : plastic bag
+ 0.73% : orange
+ 0.53% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q018.jpg
+35.08% : lemon
+17.82% : head cabbage
+17.29% : spaghetti squash
+ 9.81% : jackfruit
+ 5.62% : dough
+ 4.29% : cauliflower
+ 1.68% : pineapple
+ 1.15% : orange
+ 0.64% : plastic bag
+ 0.38% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q019.jpg
+31.19% : lemon
+24.97% : spaghetti squash
+13.17% : jackfruit
+ 9.52% : head cabbage
+ 6.09% : dough
+ 2.48% : cauliflower
+ 1.99% : pineapple
+ 1.80% : orange
+ 0.57% : plastic bag
+ 0.49% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q020.jpg
+29.37% : lemon
+17.89% : spaghetti squash
+13.94% : jackfruit
+10.46% : head cabbage
+ 7.54% : dough
+ 4.66% : pineapple
+ 3.20% : cauliflower
+ 2.84% : orange
+ 0.75% : custard apple
+ 0.63% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q021.jpg
+21.85% : spaghetti squash
+20.06% : lemon
+17.04% : dough
+12.77% : head cabbage
+ 8.53% : jackfruit
+ 5.06% : cauliflower
+ 2.69% : pineapple
+ 1.24% : orange
+ 1.08% : custard apple
+ 0.64% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q022.jpg
+27.19% : spaghetti squash
+19.49% : lemon
+15.88% : head cabbage
+10.62% : dough
+10.20% : jackfruit
+ 3.05% : pineapple
+ 3.02% : cauliflower
+ 1.15% : orange
+ 0.73% : plastic bag
+ 0.48% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q023.jpg
+26.11% : lemon
+22.79% : spaghetti squash
+12.82% : head cabbage
+11.77% : dough
+ 9.50% : jackfruit
+ 2.52% : cauliflower
+ 2.41% : pineapple
+ 1.20% : orange
+ 0.58% : custard apple
+ 0.50% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q024.jpg
+30.44% : spaghetti squash
+19.67% : lemon
+12.23% : head cabbage
+10.59% : dough
+10.42% : jackfruit
+ 2.65% : cauliflower
+ 2.57% : pineapple
+ 1.15% : orange
+ 0.62% : custard apple
+ 0.50% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q025.jpg
+26.15% : spaghetti squash
+15.83% : lemon
+13.93% : dough
+13.83% : head cabbage
+10.87% : jackfruit
+ 3.05% : cauliflower
+ 2.68% : pineapple
+ 1.20% : orange
+ 0.98% : custard apple
+ 0.61% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q026.jpg
+25.04% : spaghetti squash
+23.54% : lemon
+12.28% : dough
+11.79% : jackfruit
+ 9.29% : head cabbage
+ 2.98% : pineapple
+ 2.78% : cauliflower
+ 1.67% : orange
+ 0.67% : custard apple
+ 0.57% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q027.jpg
+23.94% : lemon
+17.05% : spaghetti squash
+13.74% : jackfruit
+12.99% : head cabbage
+12.91% : dough
+ 4.11% : cauliflower
+ 2.21% : pineapple
+ 1.38% : orange
+ 0.75% : custard apple
+ 0.55% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q028.jpg
+24.33% : lemon
+16.88% : spaghetti squash
+16.28% : jackfruit
+14.92% : head cabbage
+ 9.32% : dough
+ 3.24% : cauliflower
+ 2.43% : pineapple
+ 1.19% : orange
+ 0.63% : custard apple
+ 0.36% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q029.jpg
+29.01% : lemon
+15.13% : jackfruit
+14.91% : head cabbage
+12.51% : spaghetti squash
+10.23% : dough
+ 3.15% : cauliflower
+ 2.61% : pineapple
+ 1.45% : orange
+ 0.65% : custard apple
+ 0.42% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q030.jpg
+22.10% : dough
+17.11% : lemon
+14.46% : head cabbage
+14.39% : jackfruit
+11.39% : spaghetti squash
+ 5.64% : cauliflower
+ 1.82% : pineapple
+ 1.06% : orange
+ 0.67% : custard apple
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q031.jpg
+17.50% : lemon
+17.03% : dough
+17.02% : jackfruit
+16.40% : head cabbage
+15.79% : spaghetti squash
+ 3.63% : cauliflower
+ 2.01% : pineapple
+ 0.56% : custard apple
+ 0.53% : orange
+ 0.51% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q032.jpg
+23.74% : lemon
+17.86% : head cabbage
+16.09% : spaghetti squash
+13.08% : dough
+12.99% : jackfruit
+ 2.34% : pineapple
+ 2.28% : cauliflower
+ 0.89% : orange
+ 0.56% : custard apple
+ 0.43% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q033.jpg
+21.40% : lemon
+18.72% : head cabbage
+17.74% : dough
+12.56% : spaghetti squash
+11.16% : jackfruit
+ 3.39% : cauliflower
+ 2.06% : pineapple
+ 1.09% : orange
+ 0.61% : custard apple
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q034.jpg
+34.04% : lemon
+15.14% : dough
+12.75% : jackfruit
+11.53% : spaghetti squash
+ 9.69% : head cabbage
+ 2.75% : cauliflower
+ 2.07% : pineapple
+ 1.23% : orange
+ 0.54% : custard apple
+ 0.48% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q035.jpg
+24.48% : lemon
+17.79% : dough
+14.51% : jackfruit
+14.43% : spaghetti squash
+ 9.26% : head cabbage
+ 3.43% : cauliflower
+ 2.79% : pineapple
+ 1.33% : orange
+ 0.61% : custard apple
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q036.jpg
+30.24% : lemon
+15.46% : spaghetti squash
+14.61% : jackfruit
+12.43% : dough
+ 9.88% : head cabbage
+ 3.26% : cauliflower
+ 2.65% : pineapple
+ 1.12% : orange
+ 0.82% : custard apple
+ 0.43% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q037.jpg
+28.19% : lemon
+16.26% : jackfruit
+15.41% : spaghetti squash
+11.94% : dough
+10.79% : head cabbage
+ 3.88% : cauliflower
+ 2.48% : pineapple
+ 1.02% : orange
+ 0.77% : custard apple
+ 0.44% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q038.jpg
+18.19% : lemon
+17.06% : spaghetti squash
+16.29% : jackfruit
+15.19% : dough
+13.23% : head cabbage
+ 5.26% : cauliflower
+ 3.18% : pineapple
+ 0.84% : orange
+ 0.80% : custard apple
+ 0.62% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q039.jpg
+22.59% : lemon
+15.84% : spaghetti squash
+15.19% : dough
+14.29% : jackfruit
+11.54% : head cabbage
+ 4.81% : cauliflower
+ 3.42% : pineapple
+ 1.20% : custard apple
+ 1.02% : orange
+ 0.47% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q040.jpg
+26.63% : lemon
+14.84% : jackfruit
+13.15% : spaghetti squash
+12.71% : dough
+12.19% : head cabbage
+ 4.15% : pineapple
+ 3.59% : cauliflower
+ 1.38% : orange
+ 1.18% : custard apple
+ 0.46% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q041.jpg
+21.82% : lemon
+17.31% : jackfruit
+14.74% : spaghetti squash
+13.74% : head cabbage
+10.98% : dough
+ 4.55% : pineapple
+ 4.11% : cauliflower
+ 1.19% : orange
+ 0.94% : custard apple
+ 0.54% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q042.jpg
+21.68% : jackfruit
+19.53% : lemon
+19.43% : spaghetti squash
+10.41% : dough
+10.18% : head cabbage
+ 4.13% : cauliflower
+ 3.94% : pineapple
+ 0.91% : orange
+ 0.82% : custard apple
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q043.jpg
+20.37% : jackfruit
+20.30% : lemon
+19.51% : spaghetti squash
+10.97% : dough
+ 9.76% : head cabbage
+ 4.62% : pineapple
+ 3.79% : cauliflower
+ 1.03% : orange
+ 0.87% : custard apple
+ 0.55% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q044.jpg
+21.72% : lemon
+17.76% : dough
+16.36% : spaghetti squash
+13.35% : jackfruit
+11.88% : head cabbage
+ 4.29% : cauliflower
+ 3.02% : pineapple
+ 1.09% : orange
+ 0.93% : custard apple
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q045.jpg
+20.73% : lemon
+20.30% : dough
+16.94% : spaghetti squash
+12.50% : jackfruit
+10.44% : head cabbage
+ 3.91% : cauliflower
+ 3.07% : pineapple
+ 1.03% : orange
+ 0.90% : custard apple
+ 0.59% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q046.jpg
+21.45% : lemon
+18.62% : spaghetti squash
+17.73% : dough
+14.84% : jackfruit
+10.81% : head cabbage
+ 3.06% : cauliflower
+ 2.96% : pineapple
+ 0.91% : orange
+ 0.86% : custard apple
+ 0.49% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q047.jpg
+21.91% : lemon
+18.21% : dough
+17.56% : spaghetti squash
+14.90% : jackfruit
+10.98% : head cabbage
+ 3.17% : cauliflower
+ 2.95% : pineapple
+ 0.90% : orange
+ 0.86% : custard apple
+ 0.49% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q048.jpg
+22.93% : lemon
+20.66% : dough
+15.37% : spaghetti squash
+13.57% : jackfruit
+11.05% : head cabbage
+ 2.99% : cauliflower
+ 2.31% : pineapple
+ 0.87% : orange
+ 0.77% : custard apple
+ 0.55% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q049.jpg
+26.57% : dough
+21.94% : lemon
+12.34% : jackfruit
+11.44% : head cabbage
+11.17% : spaghetti squash
+ 3.18% : cauliflower
+ 1.92% : pineapple
+ 0.96% : orange
+ 0.73% : custard apple
+ 0.60% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q050.jpg
+27.01% : dough
+21.63% : lemon
+12.08% : jackfruit
+11.57% : head cabbage
+11.30% : spaghetti squash
+ 3.10% : cauliflower
+ 1.89% : pineapple
+ 0.95% : orange
+ 0.72% : custard apple
+ 0.60% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q051.jpg
+26.66% : dough
+22.01% : lemon
+12.21% : jackfruit
+11.48% : spaghetti squash
+11.35% : head cabbage
+ 3.07% : cauliflower
+ 1.90% : pineapple
+ 0.96% : orange
+ 0.70% : custard apple
+ 0.60% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q052.jpg
+22.37% : dough
+22.36% : lemon
+15.51% : jackfruit
+14.22% : spaghetti squash
+ 9.03% : head cabbage
+ 2.47% : cauliflower
+ 1.75% : pineapple
+ 1.01% : orange
+ 0.76% : custard apple
+ 0.66% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q053.jpg
+23.70% : lemon
+19.60% : dough
+16.87% : spaghetti squash
+16.51% : jackfruit
+ 7.94% : head cabbage
+ 2.39% : cauliflower
+ 1.68% : pineapple
+ 0.96% : orange
+ 0.66% : custard apple
+ 0.60% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q054.jpg
+24.53% : lemon
+19.53% : dough
+16.26% : jackfruit
+15.99% : spaghetti squash
+ 8.16% : head cabbage
+ 2.54% : cauliflower
+ 1.69% : pineapple
+ 0.97% : orange
+ 0.66% : custard apple
+ 0.58% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q055.jpg
+24.36% : dough
+18.78% : lemon
+15.24% : spaghetti squash
+14.59% : jackfruit
+10.51% : head cabbage
+ 3.40% : cauliflower
+ 2.23% : pineapple
+ 0.81% : orange
+ 0.70% : custard apple
+ 0.59% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q056.jpg
+24.13% : dough
+16.43% : lemon
+15.63% : spaghetti squash
+13.40% : jackfruit
+12.82% : head cabbage
+ 3.86% : cauliflower
+ 2.39% : pineapple
+ 0.82% : custard apple
+ 0.77% : orange
+ 0.56% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q057.jpg
+26.24% : dough
+16.43% : lemon
+13.27% : spaghetti squash
+13.03% : jackfruit
+12.91% : head cabbage
+ 4.50% : cauliflower
+ 2.13% : pineapple
+ 0.84% : custard apple
+ 0.74% : orange
+ 0.69% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q058.jpg
+28.43% : dough
+19.42% : lemon
+13.23% : head cabbage
+12.04% : jackfruit
+ 9.57% : spaghetti squash
+ 4.22% : cauliflower
+ 1.65% : pineapple
+ 0.86% : custard apple
+ 0.75% : plastic bag
+ 0.71% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q059.jpg
+22.64% : dough
+21.53% : lemon
+13.31% : jackfruit
+13.13% : head cabbage
+11.99% : spaghetti squash
+ 4.45% : cauliflower
+ 1.87% : pineapple
+ 0.91% : plastic bag
+ 0.81% : orange
+ 0.79% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q060.jpg
+22.68% : dough
+22.35% : lemon
+13.22% : jackfruit
+12.17% : spaghetti squash
+12.06% : head cabbage
+ 4.32% : cauliflower
+ 2.03% : pineapple
+ 0.93% : plastic bag
+ 0.84% : orange
+ 0.75% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q061.jpg
+21.33% : lemon
+19.44% : jackfruit
+15.18% : dough
+13.40% : spaghetti squash
+13.32% : head cabbage
+ 4.19% : cauliflower
+ 2.26% : pineapple
+ 0.96% : plastic bag
+ 0.80% : orange
+ 0.69% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q062.jpg
+20.86% : jackfruit
+20.67% : lemon
+16.09% : spaghetti squash
+13.18% : head cabbage
+12.84% : dough
+ 3.65% : cauliflower
+ 2.42% : pineapple
+ 0.94% : plastic bag
+ 0.79% : orange
+ 0.64% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q063.jpg
+23.49% : lemon
+17.98% : jackfruit
+15.39% : dough
+14.09% : spaghetti squash
+12.35% : head cabbage
+ 3.65% : cauliflower
+ 2.21% : pineapple
+ 0.89% : orange
+ 0.83% : plastic bag
+ 0.64% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q064.jpg
+20.99% : lemon
+19.09% : jackfruit
+17.76% : dough
+13.93% : spaghetti squash
+10.36% : head cabbage
+ 4.32% : cauliflower
+ 2.59% : pineapple
+ 0.94% : plastic bag
+ 0.83% : orange
+ 0.67% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q065.jpg
+18.97% : lemon
+17.83% : jackfruit
+17.62% : dough
+16.90% : spaghetti squash
+11.28% : head cabbage
+ 4.31% : cauliflower
+ 2.85% : pineapple
+ 0.88% : orange
+ 0.81% : plastic bag
+ 0.72% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q066.jpg
+21.77% : dough
+18.16% : lemon
+16.76% : jackfruit
+15.69% : spaghetti squash
+10.21% : head cabbage
+ 3.98% : cauliflower
+ 2.87% : pineapple
+ 0.87% : orange
+ 0.78% : plastic bag
+ 0.74% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q067.jpg
+23.24% : dough
+15.95% : jackfruit
+15.83% : lemon
+15.06% : spaghetti squash
+11.49% : head cabbage
+ 4.66% : cauliflower
+ 2.33% : pineapple
+ 0.85% : orange
+ 0.77% : plastic bag
+ 0.73% : custard apple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q068.jpg
+21.13% : jackfruit
+20.00% : dough
+17.01% : lemon
+14.63% : spaghetti squash
+10.91% : head cabbage
+ 4.41% : cauliflower
+ 1.82% : pineapple
+ 0.74% : custard apple
+ 0.71% : plastic bag
+ 0.67% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q069.jpg
+20.01% : dough
+19.93% : jackfruit
+16.57% : lemon
+15.31% : spaghetti squash
+11.85% : head cabbage
+ 4.36% : cauliflower
+ 1.87% : pineapple
+ 0.71% : plastic bag
+ 0.71% : custard apple
+ 0.68% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q070.jpg
+20.42% : lemon
+20.23% : dough
+18.66% : jackfruit
+14.26% : spaghetti squash
+10.53% : head cabbage
+ 3.93% : cauliflower
+ 1.72% : pineapple
+ 0.82% : orange
+ 0.75% : custard apple
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q071.jpg
+20.99% : dough
+17.98% : lemon
+16.83% : jackfruit
+14.13% : spaghetti squash
+12.74% : head cabbage
+ 4.69% : cauliflower
+ 1.70% : pineapple
+ 0.84% : custard apple
+ 0.74% : orange
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q072.jpg
+20.23% : dough
+17.82% : lemon
+16.43% : jackfruit
+13.64% : head cabbage
+13.37% : spaghetti squash
+ 4.86% : cauliflower
+ 1.94% : pineapple
+ 0.92% : custard apple
+ 0.79% : orange
+ 0.57% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q073.jpg
+20.09% : lemon
+19.16% : dough
+16.00% : jackfruit
+14.80% : spaghetti squash
+12.63% : head cabbage
+ 4.21% : cauliflower
+ 2.13% : pineapple
+ 0.83% : custard apple
+ 0.80% : orange
+ 0.54% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q074.jpg
+24.69% : lemon
+17.08% : dough
+15.16% : jackfruit
+14.54% : spaghetti squash
+10.88% : head cabbage
+ 3.91% : cauliflower
+ 2.33% : pineapple
+ 1.12% : orange
+ 0.85% : custard apple
+ 0.45% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q075.jpg
+25.02% : lemon
+16.90% : dough
+15.07% : jackfruit
+14.53% : spaghetti squash
+10.70% : head cabbage
+ 3.87% : cauliflower
+ 2.39% : pineapple
+ 1.13% : orange
+ 0.88% : custard apple
+ 0.45% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q076.jpg
+24.48% : lemon
+19.12% : dough
+13.71% : jackfruit
+12.87% : spaghetti squash
+10.24% : head cabbage
+ 4.28% : cauliflower
+ 2.44% : pineapple
+ 1.26% : orange
+ 1.02% : custard apple
+ 0.48% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q077.jpg
+26.63% : lemon
+16.92% : jackfruit
+15.30% : dough
+12.39% : spaghetti squash
+ 9.94% : head cabbage
+ 4.00% : cauliflower
+ 2.38% : pineapple
+ 1.36% : orange
+ 0.82% : custard apple
+ 0.52% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q078.jpg
+28.69% : lemon
+16.22% : jackfruit
+13.48% : spaghetti squash
+11.97% : head cabbage
+10.88% : dough
+ 3.65% : cauliflower
+ 2.70% : pineapple
+ 1.44% : orange
+ 0.92% : custard apple
+ 0.54% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q079.jpg
+29.51% : lemon
+17.11% : jackfruit
+13.59% : spaghetti squash
+12.01% : dough
+ 9.87% : head cabbage
+ 3.47% : cauliflower
+ 2.59% : pineapple
+ 1.33% : orange
+ 0.89% : custard apple
+ 0.55% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q080.jpg
+26.53% : lemon
+15.62% : dough
+14.72% : jackfruit
+13.19% : spaghetti squash
+11.37% : head cabbage
+ 3.73% : cauliflower
+ 2.51% : pineapple
+ 1.20% : orange
+ 1.00% : custard apple
+ 0.49% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q081.jpg
+22.15% : lemon
+19.96% : dough
+15.83% : spaghetti squash
+13.97% : jackfruit
+10.71% : head cabbage
+ 3.18% : cauliflower
+ 2.50% : pineapple
+ 0.94% : orange
+ 0.92% : custard apple
+ 0.47% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q082.jpg
+22.22% : lemon
+19.18% : dough
+14.45% : jackfruit
+13.93% : spaghetti squash
+12.30% : head cabbage
+ 4.06% : cauliflower
+ 2.41% : pineapple
+ 0.96% : orange
+ 0.84% : custard apple
+ 0.49% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q083.jpg
+22.80% : lemon
+18.25% : dough
+15.08% : jackfruit
+14.31% : spaghetti squash
+12.37% : head cabbage
+ 3.34% : cauliflower
+ 2.10% : pineapple
+ 0.89% : orange
+ 0.72% : custard apple
+ 0.43% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q084.jpg
+23.40% : lemon
+18.32% : dough
+15.74% : spaghetti squash
+13.44% : jackfruit
+12.73% : head cabbage
+ 2.89% : cauliflower
+ 2.04% : pineapple
+ 0.85% : orange
+ 0.65% : custard apple
+ 0.41% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q085.jpg
+21.84% : lemon
+21.37% : dough
+15.19% : spaghetti squash
+13.65% : jackfruit
+11.55% : head cabbage
+ 3.31% : cauliflower
+ 1.89% : pineapple
+ 0.83% : orange
+ 0.70% : custard apple
+ 0.48% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q086.jpg
+23.80% : dough
+19.86% : lemon
+15.18% : spaghetti squash
+12.56% : jackfruit
+11.98% : head cabbage
+ 3.40% : cauliflower
+ 1.97% : pineapple
+ 0.78% : custard apple
+ 0.75% : orange
+ 0.53% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q087.jpg
+24.74% : dough
+19.33% : lemon
+15.03% : spaghetti squash
+13.53% : jackfruit
+11.03% : head cabbage
+ 3.28% : cauliflower
+ 1.87% : pineapple
+ 0.82% : custard apple
+ 0.75% : orange
+ 0.48% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q088.jpg
+22.47% : dough
+20.48% : lemon
+15.17% : spaghetti squash
+13.41% : jackfruit
+11.98% : head cabbage
+ 3.53% : cauliflower
+ 2.06% : pineapple
+ 0.82% : orange
+ 0.77% : custard apple
+ 0.55% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q089.jpg
+20.75% : dough
+20.61% : lemon
+16.34% : spaghetti squash
+13.23% : head cabbage
+12.63% : jackfruit
+ 3.58% : cauliflower
+ 2.22% : pineapple
+ 0.81% : custard apple
+ 0.78% : orange
+ 0.54% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q090.jpg
+23.42% : lemon
+17.98% : dough
+14.65% : spaghetti squash
+13.63% : head cabbage
+13.59% : jackfruit
+ 3.85% : cauliflower
+ 2.03% : pineapple
+ 0.84% : custard apple
+ 0.82% : orange
+ 0.50% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q091.jpg
+25.04% : lemon
+18.42% : dough
+13.60% : head cabbage
+12.68% : spaghetti squash
+12.36% : jackfruit
+ 4.75% : cauliflower
+ 2.38% : pineapple
+ 1.01% : orange
+ 0.86% : custard apple
+ 0.49% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q092.jpg
+30.29% : lemon
+18.14% : dough
+13.49% : jackfruit
+11.41% : spaghetti squash
+10.54% : head cabbage
+ 2.89% : cauliflower
+ 2.40% : pineapple
+ 1.16% : orange
+ 0.82% : custard apple
+ 0.50% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q093.jpg
+26.05% : lemon
+17.06% : jackfruit
+15.42% : dough
+13.82% : spaghetti squash
+11.93% : head cabbage
+ 2.95% : cauliflower
+ 2.34% : pineapple
+ 1.17% : orange
+ 0.73% : custard apple
+ 0.47% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q094.jpg
+22.71% : lemon
+19.50% : jackfruit
+17.84% : dough
+12.54% : spaghetti squash
+12.03% : head cabbage
+ 2.85% : cauliflower
+ 2.07% : pineapple
+ 0.94% : orange
+ 0.71% : custard apple
+ 0.48% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q095.jpg
+21.03% : lemon
+19.27% : jackfruit
+17.88% : dough
+13.86% : spaghetti squash
+11.74% : head cabbage
+ 3.30% : cauliflower
+ 2.13% : pineapple
+ 0.88% : orange
+ 0.71% : custard apple
+ 0.49% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q096.jpg
+23.65% : lemon
+17.80% : dough
+16.58% : jackfruit
+13.05% : head cabbage
+12.94% : spaghetti squash
+ 3.26% : cauliflower
+ 2.02% : pineapple
+ 0.94% : orange
+ 0.72% : custard apple
+ 0.48% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q097.jpg
+22.97% : lemon
+17.22% : dough
+15.94% : jackfruit
+14.66% : head cabbage
+12.63% : spaghetti squash
+ 3.87% : cauliflower
+ 2.04% : pineapple
+ 0.94% : orange
+ 0.75% : custard apple
+ 0.49% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q098.jpg
+22.71% : lemon
+18.22% : dough
+16.25% : jackfruit
+13.56% : head cabbage
+12.61% : spaghetti squash
+ 3.85% : cauliflower
+ 2.15% : pineapple
+ 0.94% : orange
+ 0.79% : custard apple
+ 0.48% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q099.jpg
+22.02% : lemon
+19.14% : dough
+16.30% : jackfruit
+13.24% : head cabbage
+12.81% : spaghetti squash
+ 3.55% : cauliflower
+ 2.16% : pineapple
+ 0.89% : orange
+ 0.81% : custard apple
+ 0.50% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage11Q100.jpg
+22.35% : lemon
+18.66% : dough
+16.99% : jackfruit
+13.60% : spaghetti squash
+12.32% : head cabbage
+ 3.24% : cauliflower
+ 2.22% : pineapple
+ 0.87% : orange
+ 0.76% : custard apple
+ 0.48% : banana

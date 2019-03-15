@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q001.jpg
+19.78% : plastic bag
+ 8.31% : head cabbage
+ 7.21% : toilet tissue
+ 5.51% : shower cap
+ 3.59% : Granny Smith
+ 2.88% : paper towel
+ 2.46% : lemon
+ 1.99% : tennis ball
+ 1.58% : dough
+ 1.35% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q002.jpg
+18.85% : plastic bag
+ 8.26% : head cabbage
+ 7.17% : toilet tissue
+ 5.54% : shower cap
+ 3.69% : Granny Smith
+ 2.82% : paper towel
+ 2.64% : lemon
+ 2.19% : tennis ball
+ 1.60% : dough
+ 1.44% : toilet seat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q003.jpg
+17.01% : plastic bag
+10.44% : toilet tissue
+ 6.95% : head cabbage
+ 5.22% : shower cap
+ 4.16% : tennis ball
+ 3.91% : paper towel
+ 2.98% : Granny Smith
+ 2.18% : toilet seat
+ 2.03% : lemon
+ 1.22% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q004.jpg
+46.00% : plastic bag
+13.55% : toilet tissue
+ 7.36% : shower cap
+ 5.16% : paper towel
+ 4.90% : head cabbage
+ 1.22% : water bottle
+ 1.17% : ashcan
+ 1.14% : cauliflower
+ 0.93% : Granny Smith
+ 0.86% : diaper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q005.jpg
+72.55% : plastic bag
+ 5.48% : head cabbage
+ 4.76% : shower cap
+ 2.33% : toilet tissue
+ 1.26% : cauliflower
+ 1.23% : paper towel
+ 0.81% : Granny Smith
+ 0.64% : packet
+ 0.37% : lemon
+ 0.33% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q006.jpg
+70.61% : plastic bag
+ 7.89% : shower cap
+ 5.97% : toilet tissue
+ 3.46% : head cabbage
+ 1.94% : paper towel
+ 0.99% : cauliflower
+ 0.79% : Granny Smith
+ 0.49% : packet
+ 0.40% : shopping basket
+ 0.30% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q007.jpg
+54.06% : plastic bag
+10.98% : head cabbage
+ 9.59% : shower cap
+ 3.11% : cauliflower
+ 3.05% : toilet tissue
+ 1.59% : paper towel
+ 0.87% : shopping basket
+ 0.87% : Granny Smith
+ 0.54% : packet
+ 0.52% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q008.jpg
+24.31% : plastic bag
+22.69% : head cabbage
+17.85% : shower cap
+ 4.49% : toilet tissue
+ 3.86% : cauliflower
+ 3.24% : Granny Smith
+ 2.13% : paper towel
+ 1.51% : packet
+ 1.02% : shopping basket
+ 0.86% : swab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q009.jpg
+51.44% : plastic bag
+15.69% : head cabbage
+ 8.14% : shower cap
+ 3.04% : toilet tissue
+ 2.31% : cauliflower
+ 2.22% : Granny Smith
+ 1.63% : paper towel
+ 1.03% : packet
+ 0.57% : shopping basket
+ 0.51% : ashcan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q010.jpg
+29.44% : head cabbage
+21.77% : plastic bag
+ 7.44% : shower cap
+ 4.83% : Granny Smith
+ 3.60% : cauliflower
+ 3.31% : toilet tissue
+ 1.97% : packet
+ 1.70% : paper towel
+ 1.46% : lemon
+ 0.98% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q011.jpg
+37.42% : plastic bag
+14.85% : head cabbage
+ 7.50% : shower cap
+ 6.66% : cauliflower
+ 5.47% : toilet tissue
+ 4.32% : paper towel
+ 3.32% : Granny Smith
+ 1.17% : packet
+ 0.81% : lemon
+ 0.79% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q012.jpg
+21.08% : plastic bag
+19.29% : head cabbage
+ 8.83% : toilet tissue
+ 8.14% : shower cap
+ 5.84% : cauliflower
+ 5.44% : Granny Smith
+ 4.41% : paper towel
+ 1.96% : lemon
+ 1.28% : packet
+ 1.14% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q013.jpg
+23.10% : head cabbage
+20.32% : plastic bag
+11.08% : shower cap
+ 7.97% : cauliflower
+ 5.21% : toilet tissue
+ 4.44% : paper towel
+ 4.07% : Granny Smith
+ 1.48% : lemon
+ 0.99% : swab
+ 0.88% : diaper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q014.jpg
+28.00% : head cabbage
+13.15% : plastic bag
+ 9.64% : shower cap
+ 5.90% : cauliflower
+ 4.98% : Granny Smith
+ 4.50% : toilet tissue
+ 3.02% : paper towel
+ 1.42% : lemon
+ 1.10% : diaper
+ 0.95% : swab
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q015.jpg
+27.52% : head cabbage
+15.02% : shower cap
+10.63% : plastic bag
+ 8.50% : cauliflower
+ 4.03% : toilet tissue
+ 3.33% : Granny Smith
+ 1.95% : paper towel
+ 1.02% : lemon
+ 0.91% : dough
+ 0.80% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q016.jpg
+28.85% : plastic bag
+19.48% : shower cap
+10.24% : head cabbage
+ 5.35% : cauliflower
+ 4.13% : toilet tissue
+ 3.14% : Granny Smith
+ 2.96% : paper towel
+ 1.23% : lemon
+ 0.81% : dough
+ 0.72% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q017.jpg
+26.43% : head cabbage
+15.32% : shower cap
+14.37% : plastic bag
+ 5.68% : cauliflower
+ 3.94% : toilet tissue
+ 3.25% : Granny Smith
+ 2.38% : paper towel
+ 1.46% : lemon
+ 1.04% : packet
+ 0.79% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q018.jpg
+19.78% : head cabbage
+16.08% : plastic bag
+11.38% : shower cap
+ 5.88% : toilet tissue
+ 5.76% : cauliflower
+ 5.19% : Granny Smith
+ 3.34% : paper towel
+ 2.87% : lemon
+ 1.34% : dough
+ 1.05% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q019.jpg
+23.26% : head cabbage
+10.43% : plastic bag
+ 8.37% : shower cap
+ 8.18% : toilet tissue
+ 6.55% : Granny Smith
+ 5.46% : cauliflower
+ 3.57% : lemon
+ 3.20% : paper towel
+ 1.36% : dough
+ 1.00% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q020.jpg
+18.82% : head cabbage
+15.61% : plastic bag
+10.34% : shower cap
+ 5.84% : Granny Smith
+ 4.94% : cauliflower
+ 4.62% : toilet tissue
+ 3.89% : lemon
+ 2.31% : paper towel
+ 1.23% : dough
+ 1.20% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q021.jpg
+22.06% : head cabbage
+14.54% : plastic bag
+13.08% : shower cap
+ 7.42% : Granny Smith
+ 4.40% : cauliflower
+ 3.94% : toilet tissue
+ 2.55% : lemon
+ 2.38% : paper towel
+ 1.13% : dough
+ 1.00% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q022.jpg
+21.21% : head cabbage
+16.08% : plastic bag
+10.16% : shower cap
+ 7.69% : Granny Smith
+ 4.20% : toilet tissue
+ 3.89% : cauliflower
+ 3.41% : lemon
+ 2.95% : paper towel
+ 1.18% : packet
+ 1.13% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q023.jpg
+23.47% : head cabbage
+10.73% : shower cap
+ 9.97% : Granny Smith
+ 8.50% : plastic bag
+ 4.78% : cauliflower
+ 3.61% : lemon
+ 2.91% : toilet tissue
+ 2.43% : paper towel
+ 1.25% : packet
+ 1.23% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q024.jpg
+22.00% : head cabbage
+13.22% : shower cap
+10.80% : Granny Smith
+10.19% : plastic bag
+ 5.43% : cauliflower
+ 3.16% : toilet tissue
+ 3.14% : lemon
+ 2.31% : paper towel
+ 1.33% : dough
+ 1.11% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q025.jpg
+20.76% : head cabbage
+12.29% : shower cap
+11.33% : Granny Smith
+ 8.07% : plastic bag
+ 6.24% : cauliflower
+ 4.13% : lemon
+ 4.02% : toilet tissue
+ 2.89% : paper towel
+ 1.50% : dough
+ 0.81% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q026.jpg
+19.63% : head cabbage
+11.49% : Granny Smith
+10.23% : plastic bag
+ 9.22% : shower cap
+ 5.24% : cauliflower
+ 4.75% : toilet tissue
+ 4.35% : lemon
+ 3.36% : paper towel
+ 1.66% : dough
+ 1.15% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q027.jpg
+21.10% : plastic bag
+11.79% : head cabbage
+10.62% : shower cap
+ 9.94% : Granny Smith
+ 5.76% : toilet tissue
+ 3.55% : lemon
+ 3.23% : cauliflower
+ 3.14% : paper towel
+ 1.65% : dough
+ 1.24% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q028.jpg
+17.55% : plastic bag
+13.14% : head cabbage
+11.45% : Granny Smith
+ 9.84% : shower cap
+ 4.87% : toilet tissue
+ 3.69% : cauliflower
+ 3.65% : lemon
+ 3.57% : paper towel
+ 1.44% : dough
+ 1.19% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q029.jpg
+20.40% : plastic bag
+12.91% : head cabbage
+ 9.61% : Granny Smith
+ 9.25% : shower cap
+ 4.73% : toilet tissue
+ 3.72% : cauliflower
+ 3.71% : lemon
+ 3.32% : paper towel
+ 1.46% : dough
+ 1.22% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q030.jpg
+24.31% : plastic bag
+13.14% : head cabbage
+10.12% : Granny Smith
+ 8.85% : shower cap
+ 5.08% : toilet tissue
+ 3.58% : cauliflower
+ 3.50% : paper towel
+ 2.81% : lemon
+ 1.45% : dough
+ 1.10% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q031.jpg
+17.01% : head cabbage
+14.80% : plastic bag
+13.75% : Granny Smith
+ 7.15% : shower cap
+ 4.65% : toilet tissue
+ 4.12% : lemon
+ 3.64% : cauliflower
+ 3.34% : paper towel
+ 1.69% : dough
+ 1.18% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q032.jpg
+16.36% : plastic bag
+13.95% : head cabbage
+12.32% : Granny Smith
+ 7.61% : shower cap
+ 6.02% : toilet tissue
+ 4.57% : lemon
+ 4.29% : paper towel
+ 2.82% : cauliflower
+ 1.73% : dough
+ 1.36% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q033.jpg
+14.26% : plastic bag
+13.40% : Granny Smith
+13.06% : head cabbage
+ 6.32% : shower cap
+ 5.74% : toilet tissue
+ 5.23% : lemon
+ 5.15% : paper towel
+ 3.14% : cauliflower
+ 1.76% : dough
+ 1.54% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q034.jpg
+16.20% : plastic bag
+13.49% : Granny Smith
+10.06% : head cabbage
+ 7.48% : shower cap
+ 5.98% : toilet tissue
+ 4.82% : lemon
+ 4.52% : paper towel
+ 3.57% : cauliflower
+ 1.94% : dough
+ 1.44% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q035.jpg
+13.84% : head cabbage
+13.06% : plastic bag
+11.23% : Granny Smith
+11.13% : shower cap
+ 4.35% : toilet tissue
+ 4.24% : lemon
+ 3.55% : cauliflower
+ 3.47% : paper towel
+ 2.03% : dough
+ 1.41% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q036.jpg
+19.03% : head cabbage
+13.10% : plastic bag
+11.59% : Granny Smith
+ 7.59% : shower cap
+ 4.87% : cauliflower
+ 4.37% : toilet tissue
+ 3.35% : lemon
+ 3.24% : paper towel
+ 1.71% : dough
+ 1.45% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q037.jpg
+16.63% : head cabbage
+14.42% : plastic bag
+11.22% : Granny Smith
+ 8.59% : shower cap
+ 4.79% : toilet tissue
+ 3.87% : cauliflower
+ 3.49% : lemon
+ 3.34% : paper towel
+ 1.63% : dough
+ 1.56% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q038.jpg
+16.51% : head cabbage
+11.65% : Granny Smith
+10.91% : plastic bag
+10.58% : shower cap
+ 4.23% : lemon
+ 3.98% : toilet tissue
+ 3.82% : cauliflower
+ 3.59% : paper towel
+ 1.66% : dough
+ 1.53% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q039.jpg
+17.59% : head cabbage
+14.02% : Granny Smith
+10.78% : plastic bag
+ 8.43% : shower cap
+ 4.16% : lemon
+ 4.08% : cauliflower
+ 4.05% : toilet tissue
+ 3.33% : paper towel
+ 1.84% : dough
+ 1.46% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q040.jpg
+16.10% : head cabbage
+15.26% : plastic bag
+12.45% : Granny Smith
+ 7.99% : shower cap
+ 4.23% : cauliflower
+ 3.99% : toilet tissue
+ 3.72% : paper towel
+ 3.47% : lemon
+ 1.69% : dough
+ 1.37% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q041.jpg
+16.69% : head cabbage
+15.63% : plastic bag
+11.04% : Granny Smith
+ 8.50% : shower cap
+ 4.66% : toilet tissue
+ 4.08% : cauliflower
+ 3.82% : lemon
+ 3.62% : paper towel
+ 1.84% : dough
+ 1.30% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q042.jpg
+19.83% : head cabbage
+12.63% : plastic bag
+11.48% : Granny Smith
+ 8.08% : shower cap
+ 4.76% : cauliflower
+ 4.20% : toilet tissue
+ 3.85% : lemon
+ 3.14% : paper towel
+ 1.64% : dough
+ 1.45% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q043.jpg
+22.54% : head cabbage
+13.89% : plastic bag
+12.05% : Granny Smith
+ 7.26% : shower cap
+ 4.70% : cauliflower
+ 3.75% : toilet tissue
+ 3.21% : lemon
+ 3.06% : paper towel
+ 1.46% : dough
+ 1.41% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q044.jpg
+18.01% : plastic bag
+12.70% : head cabbage
+11.61% : Granny Smith
+ 7.60% : shower cap
+ 5.99% : toilet tissue
+ 5.18% : paper towel
+ 3.58% : lemon
+ 3.19% : cauliflower
+ 1.89% : dough
+ 1.65% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q045.jpg
+19.41% : plastic bag
+12.89% : head cabbage
+12.35% : Granny Smith
+ 6.93% : shower cap
+ 5.64% : toilet tissue
+ 5.18% : paper towel
+ 3.60% : lemon
+ 3.43% : cauliflower
+ 1.74% : dough
+ 1.51% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q046.jpg
+20.42% : plastic bag
+14.10% : head cabbage
+ 9.48% : Granny Smith
+ 9.48% : shower cap
+ 5.48% : paper towel
+ 5.40% : toilet tissue
+ 3.70% : cauliflower
+ 2.93% : lemon
+ 1.55% : dough
+ 1.29% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q047.jpg
+22.36% : plastic bag
+13.44% : head cabbage
+ 9.15% : shower cap
+ 8.74% : Granny Smith
+ 5.57% : paper towel
+ 5.54% : toilet tissue
+ 3.85% : cauliflower
+ 2.86% : lemon
+ 1.51% : dough
+ 1.33% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q048.jpg
+22.76% : plastic bag
+13.89% : head cabbage
+ 9.86% : shower cap
+ 7.59% : Granny Smith
+ 5.79% : toilet tissue
+ 4.93% : paper towel
+ 3.86% : cauliflower
+ 2.63% : lemon
+ 1.52% : dough
+ 1.26% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q049.jpg
+22.23% : plastic bag
+13.19% : head cabbage
+ 9.72% : Granny Smith
+ 7.90% : shower cap
+ 5.44% : toilet tissue
+ 5.32% : paper towel
+ 3.80% : cauliflower
+ 3.26% : lemon
+ 1.68% : dough
+ 1.47% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q050.jpg
+21.98% : plastic bag
+12.58% : head cabbage
+ 9.56% : Granny Smith
+ 8.11% : shower cap
+ 5.60% : toilet tissue
+ 5.43% : paper towel
+ 3.63% : cauliflower
+ 3.31% : lemon
+ 1.77% : dough
+ 1.48% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q051.jpg
+21.75% : plastic bag
+12.66% : head cabbage
+ 9.31% : Granny Smith
+ 8.43% : shower cap
+ 5.72% : toilet tissue
+ 5.46% : paper towel
+ 3.63% : cauliflower
+ 3.38% : lemon
+ 1.72% : dough
+ 1.48% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q052.jpg
+22.83% : plastic bag
+12.24% : head cabbage
+11.51% : Granny Smith
+ 6.15% : shower cap
+ 5.01% : paper towel
+ 4.77% : toilet tissue
+ 4.02% : lemon
+ 3.36% : cauliflower
+ 1.67% : dough
+ 1.57% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q053.jpg
+19.33% : plastic bag
+12.94% : head cabbage
+12.08% : Granny Smith
+ 6.15% : shower cap
+ 5.08% : paper towel
+ 5.00% : toilet tissue
+ 4.52% : lemon
+ 3.54% : cauliflower
+ 1.72% : dough
+ 1.60% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q054.jpg
+18.88% : plastic bag
+13.01% : head cabbage
+11.94% : Granny Smith
+ 6.17% : shower cap
+ 5.00% : paper towel
+ 4.79% : toilet tissue
+ 4.52% : lemon
+ 3.51% : cauliflower
+ 1.70% : dough
+ 1.67% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q055.jpg
+16.52% : head cabbage
+13.54% : Granny Smith
+11.43% : plastic bag
+ 5.91% : lemon
+ 5.54% : shower cap
+ 4.24% : toilet tissue
+ 3.86% : paper towel
+ 3.84% : cauliflower
+ 1.72% : shopping basket
+ 1.70% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q056.jpg
+15.60% : head cabbage
+13.97% : Granny Smith
+11.72% : plastic bag
+ 5.78% : lemon
+ 5.35% : shower cap
+ 4.12% : toilet tissue
+ 3.92% : cauliflower
+ 3.78% : paper towel
+ 1.72% : shopping basket
+ 1.63% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q057.jpg
+15.45% : head cabbage
+14.09% : Granny Smith
+10.72% : plastic bag
+ 6.17% : lemon
+ 5.35% : shower cap
+ 4.43% : toilet tissue
+ 3.93% : paper towel
+ 3.79% : cauliflower
+ 1.78% : shopping basket
+ 1.76% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q058.jpg
+16.46% : head cabbage
+13.05% : Granny Smith
+10.95% : plastic bag
+ 6.18% : shower cap
+ 5.36% : lemon
+ 5.24% : toilet tissue
+ 4.49% : paper towel
+ 3.82% : cauliflower
+ 1.87% : shopping basket
+ 1.80% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q059.jpg
+17.90% : head cabbage
+13.11% : Granny Smith
+11.00% : plastic bag
+ 5.82% : shower cap
+ 5.55% : toilet tissue
+ 5.02% : lemon
+ 4.75% : paper towel
+ 3.92% : cauliflower
+ 1.74% : shopping basket
+ 1.71% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q060.jpg
+17.26% : head cabbage
+12.93% : Granny Smith
+11.44% : plastic bag
+ 6.28% : shower cap
+ 5.37% : toilet tissue
+ 5.26% : lemon
+ 4.71% : paper towel
+ 3.68% : cauliflower
+ 1.72% : shopping basket
+ 1.65% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q061.jpg
+16.53% : head cabbage
+15.03% : plastic bag
+12.88% : Granny Smith
+ 6.37% : shower cap
+ 4.56% : lemon
+ 4.23% : paper towel
+ 4.22% : toilet tissue
+ 3.98% : cauliflower
+ 1.61% : dough
+ 1.60% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q062.jpg
+17.55% : head cabbage
+14.58% : plastic bag
+12.14% : Granny Smith
+ 6.43% : shower cap
+ 4.40% : lemon
+ 4.17% : cauliflower
+ 4.14% : paper towel
+ 4.07% : toilet tissue
+ 1.59% : shopping basket
+ 1.55% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q063.jpg
+15.97% : plastic bag
+15.40% : head cabbage
+13.49% : Granny Smith
+ 6.62% : shower cap
+ 4.85% : lemon
+ 4.04% : toilet tissue
+ 3.91% : paper towel
+ 3.56% : cauliflower
+ 1.67% : shopping basket
+ 1.64% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q064.jpg
+14.75% : Granny Smith
+14.27% : head cabbage
+13.76% : plastic bag
+ 7.39% : shower cap
+ 4.50% : lemon
+ 4.20% : paper towel
+ 4.20% : toilet tissue
+ 3.60% : cauliflower
+ 1.73% : dough
+ 1.72% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q065.jpg
+15.42% : Granny Smith
+14.90% : head cabbage
+14.34% : plastic bag
+ 7.37% : shower cap
+ 4.18% : lemon
+ 3.92% : paper towel
+ 3.70% : toilet tissue
+ 3.61% : cauliflower
+ 1.63% : shopping basket
+ 1.60% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q066.jpg
+15.40% : Granny Smith
+14.45% : plastic bag
+13.27% : head cabbage
+ 7.08% : shower cap
+ 4.36% : paper towel
+ 4.34% : lemon
+ 4.10% : toilet tissue
+ 3.72% : cauliflower
+ 1.74% : dough
+ 1.73% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q067.jpg
+17.94% : plastic bag
+13.26% : head cabbage
+12.02% : Granny Smith
+ 8.38% : shower cap
+ 4.93% : paper towel
+ 4.36% : toilet tissue
+ 3.82% : cauliflower
+ 3.54% : lemon
+ 1.65% : shopping basket
+ 1.56% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q068.jpg
+15.62% : plastic bag
+12.18% : head cabbage
+11.75% : Granny Smith
+ 8.68% : shower cap
+ 5.06% : paper towel
+ 4.70% : toilet tissue
+ 4.64% : lemon
+ 3.47% : cauliflower
+ 1.79% : shopping basket
+ 1.77% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q069.jpg
+15.50% : plastic bag
+12.93% : head cabbage
+11.02% : Granny Smith
+ 9.74% : shower cap
+ 4.71% : lemon
+ 4.62% : paper towel
+ 4.20% : toilet tissue
+ 3.44% : cauliflower
+ 1.73% : shopping basket
+ 1.67% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q070.jpg
+13.54% : head cabbage
+13.43% : plastic bag
+13.36% : Granny Smith
+ 7.33% : shower cap
+ 6.22% : lemon
+ 4.48% : paper towel
+ 4.28% : toilet tissue
+ 3.14% : cauliflower
+ 1.82% : dough
+ 1.81% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q071.jpg
+14.48% : plastic bag
+14.36% : Granny Smith
+13.80% : head cabbage
+ 6.34% : shower cap
+ 5.42% : lemon
+ 5.04% : paper towel
+ 4.99% : toilet tissue
+ 3.04% : cauliflower
+ 1.85% : dough
+ 1.63% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q072.jpg
+14.94% : Granny Smith
+14.07% : head cabbage
+13.69% : plastic bag
+ 5.82% : shower cap
+ 5.56% : lemon
+ 4.85% : paper towel
+ 4.77% : toilet tissue
+ 3.13% : cauliflower
+ 1.79% : dough
+ 1.62% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q073.jpg
+14.79% : plastic bag
+14.61% : Granny Smith
+14.21% : head cabbage
+ 5.33% : shower cap
+ 5.03% : paper towel
+ 4.82% : toilet tissue
+ 4.73% : lemon
+ 3.32% : cauliflower
+ 1.76% : dough
+ 1.72% : packet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q074.jpg
+16.90% : plastic bag
+13.53% : Granny Smith
+13.47% : head cabbage
+ 6.26% : shower cap
+ 5.00% : toilet tissue
+ 4.71% : paper towel
+ 4.04% : lemon
+ 3.05% : cauliflower
+ 1.82% : packet
+ 1.66% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q075.jpg
+17.63% : plastic bag
+13.63% : Granny Smith
+13.07% : head cabbage
+ 6.59% : shower cap
+ 4.74% : toilet tissue
+ 4.57% : paper towel
+ 3.89% : lemon
+ 3.01% : cauliflower
+ 1.83% : packet
+ 1.68% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q076.jpg
+16.40% : plastic bag
+15.38% : head cabbage
+13.79% : Granny Smith
+ 7.55% : shower cap
+ 4.51% : paper towel
+ 4.47% : toilet tissue
+ 3.71% : lemon
+ 2.65% : cauliflower
+ 1.83% : packet
+ 1.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q077.jpg
+16.80% : plastic bag
+15.71% : head cabbage
+12.15% : Granny Smith
+ 9.03% : shower cap
+ 4.74% : toilet tissue
+ 4.68% : paper towel
+ 3.41% : lemon
+ 2.67% : cauliflower
+ 1.67% : packet
+ 1.56% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q078.jpg
+16.15% : plastic bag
+15.99% : head cabbage
+10.32% : Granny Smith
+ 9.43% : shower cap
+ 5.02% : toilet tissue
+ 4.97% : paper towel
+ 3.22% : lemon
+ 2.98% : cauliflower
+ 1.86% : packet
+ 1.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q079.jpg
+16.48% : plastic bag
+15.67% : head cabbage
+10.74% : Granny Smith
+ 9.07% : shower cap
+ 5.15% : toilet tissue
+ 5.10% : paper towel
+ 3.15% : lemon
+ 3.11% : cauliflower
+ 1.82% : packet
+ 1.60% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q080.jpg
+16.15% : plastic bag
+15.30% : head cabbage
+10.39% : Granny Smith
+10.05% : shower cap
+ 5.34% : toilet tissue
+ 4.78% : paper towel
+ 3.33% : cauliflower
+ 3.23% : lemon
+ 1.77% : packet
+ 1.56% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q081.jpg
+17.78% : plastic bag
+13.18% : head cabbage
+12.25% : Granny Smith
+ 8.86% : shower cap
+ 5.32% : toilet tissue
+ 4.89% : paper towel
+ 3.24% : lemon
+ 3.16% : cauliflower
+ 1.73% : packet
+ 1.70% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q082.jpg
+18.01% : plastic bag
+13.38% : head cabbage
+11.91% : Granny Smith
+ 9.42% : shower cap
+ 5.35% : toilet tissue
+ 4.91% : paper towel
+ 3.26% : cauliflower
+ 2.96% : lemon
+ 1.72% : packet
+ 1.66% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q083.jpg
+15.72% : plastic bag
+13.29% : head cabbage
+13.23% : Granny Smith
+ 8.50% : shower cap
+ 5.29% : toilet tissue
+ 4.94% : paper towel
+ 3.42% : lemon
+ 3.29% : cauliflower
+ 1.77% : packet
+ 1.69% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q084.jpg
+14.32% : head cabbage
+13.29% : plastic bag
+12.89% : Granny Smith
+ 7.73% : shower cap
+ 5.35% : toilet tissue
+ 4.41% : paper towel
+ 4.03% : lemon
+ 3.16% : cauliflower
+ 1.91% : packet
+ 1.76% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q085.jpg
+14.14% : head cabbage
+13.38% : Granny Smith
+13.29% : plastic bag
+ 7.54% : shower cap
+ 5.72% : toilet tissue
+ 4.96% : paper towel
+ 4.24% : lemon
+ 3.16% : cauliflower
+ 1.95% : packet
+ 1.62% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q086.jpg
+15.58% : head cabbage
+14.12% : plastic bag
+13.84% : Granny Smith
+ 6.99% : shower cap
+ 5.15% : toilet tissue
+ 4.18% : paper towel
+ 4.00% : lemon
+ 3.53% : cauliflower
+ 2.01% : packet
+ 1.54% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q087.jpg
+15.75% : plastic bag
+13.83% : head cabbage
+13.24% : Granny Smith
+ 7.59% : shower cap
+ 5.49% : toilet tissue
+ 5.11% : paper towel
+ 3.67% : lemon
+ 3.31% : cauliflower
+ 2.12% : packet
+ 1.42% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q088.jpg
+16.00% : plastic bag
+12.72% : Granny Smith
+12.44% : head cabbage
+ 8.16% : shower cap
+ 5.88% : toilet tissue
+ 5.79% : paper towel
+ 3.87% : lemon
+ 3.28% : cauliflower
+ 2.06% : packet
+ 1.52% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q089.jpg
+15.65% : plastic bag
+12.99% : Granny Smith
+12.50% : head cabbage
+ 7.88% : shower cap
+ 5.47% : toilet tissue
+ 5.34% : paper towel
+ 3.85% : lemon
+ 3.41% : cauliflower
+ 2.07% : packet
+ 1.53% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q090.jpg
+15.00% : plastic bag
+13.64% : head cabbage
+13.63% : Granny Smith
+ 7.87% : shower cap
+ 5.20% : toilet tissue
+ 4.57% : paper towel
+ 4.29% : lemon
+ 3.15% : cauliflower
+ 1.89% : packet
+ 1.52% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q091.jpg
+15.70% : plastic bag
+14.09% : head cabbage
+11.91% : Granny Smith
+ 8.50% : shower cap
+ 5.05% : toilet tissue
+ 4.27% : paper towel
+ 4.22% : lemon
+ 3.37% : cauliflower
+ 1.78% : packet
+ 1.53% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q092.jpg
+17.49% : head cabbage
+14.48% : Granny Smith
+11.20% : plastic bag
+ 9.47% : shower cap
+ 4.76% : lemon
+ 4.00% : toilet tissue
+ 3.40% : paper towel
+ 3.06% : cauliflower
+ 1.68% : packet
+ 1.40% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q093.jpg
+17.61% : head cabbage
+14.75% : Granny Smith
+10.70% : plastic bag
+ 8.17% : shower cap
+ 4.99% : toilet tissue
+ 4.55% : lemon
+ 3.50% : paper towel
+ 3.35% : cauliflower
+ 1.99% : packet
+ 1.45% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q094.jpg
+15.85% : head cabbage
+13.58% : Granny Smith
+11.13% : plastic bag
+ 8.60% : shower cap
+ 5.64% : toilet tissue
+ 4.71% : lemon
+ 4.12% : paper towel
+ 3.31% : cauliflower
+ 2.06% : packet
+ 1.61% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q095.jpg
+14.81% : head cabbage
+13.90% : Granny Smith
+13.16% : plastic bag
+ 7.66% : shower cap
+ 5.70% : toilet tissue
+ 4.70% : lemon
+ 4.37% : paper towel
+ 3.13% : cauliflower
+ 2.14% : packet
+ 1.58% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q096.jpg
+15.15% : head cabbage
+14.16% : Granny Smith
+13.36% : plastic bag
+ 7.68% : shower cap
+ 5.32% : toilet tissue
+ 4.58% : lemon
+ 4.15% : paper towel
+ 3.15% : cauliflower
+ 1.88% : packet
+ 1.67% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q097.jpg
+14.84% : head cabbage
+13.88% : Granny Smith
+13.65% : plastic bag
+ 7.61% : shower cap
+ 5.36% : toilet tissue
+ 4.65% : lemon
+ 4.32% : paper towel
+ 2.98% : cauliflower
+ 1.90% : packet
+ 1.71% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q098.jpg
+14.52% : head cabbage
+13.97% : Granny Smith
+13.40% : plastic bag
+ 8.05% : shower cap
+ 5.09% : toilet tissue
+ 4.75% : lemon
+ 4.24% : paper towel
+ 3.10% : cauliflower
+ 1.98% : packet
+ 1.66% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q099.jpg
+14.71% : head cabbage
+14.02% : Granny Smith
+12.47% : plastic bag
+ 7.91% : shower cap
+ 5.58% : toilet tissue
+ 4.64% : lemon
+ 4.47% : paper towel
+ 3.24% : cauliflower
+ 1.93% : packet
+ 1.61% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cabbages/cabbage4Q100.jpg
+14.40% : head cabbage
+13.97% : Granny Smith
+13.19% : plastic bag
+ 8.01% : shower cap
+ 5.64% : toilet tissue
+ 4.55% : lemon
+ 4.45% : paper towel
+ 3.06% : cauliflower
+ 1.91% : packet
+ 1.60% : dough

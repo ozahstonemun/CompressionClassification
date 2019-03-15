@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q001.jpg
+45.39% : orange
+40.78% : lemon
+ 3.66% : ping-pong ball
+ 2.59% : tennis ball
+ 1.03% : croquet ball
+ 0.46% : candle
+ 0.44% : spaghetti squash
+ 0.18% : plunger
+ 0.17% : basketball
+ 0.14% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q002.jpg
+45.39% : orange
+40.78% : lemon
+ 3.66% : ping-pong ball
+ 2.59% : tennis ball
+ 1.03% : croquet ball
+ 0.46% : candle
+ 0.44% : spaghetti squash
+ 0.18% : plunger
+ 0.17% : basketball
+ 0.14% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q003.jpg
+43.01% : lemon
+42.86% : orange
+ 4.02% : ping-pong ball
+ 2.06% : tennis ball
+ 1.01% : croquet ball
+ 0.63% : candle
+ 0.56% : spaghetti squash
+ 0.21% : plunger
+ 0.18% : jack-o'-lantern
+ 0.13% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q004.jpg
+80.85% : orange
+ 5.59% : lemon
+ 2.70% : jack-o'-lantern
+ 2.12% : ping-pong ball
+ 1.61% : candle
+ 0.38% : goldfish
+ 0.28% : piggy bank
+ 0.25% : bell pepper
+ 0.18% : spaghetti squash
+ 0.16% : plunger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q005.jpg
+92.95% : orange
+ 1.49% : lemon
+ 0.90% : candle
+ 0.53% : croquet ball
+ 0.32% : jack-o'-lantern
+ 0.31% : ping-pong ball
+ 0.11% : magnetic compass
+ 0.09% : buckle
+ 0.08% : spaghetti squash
+ 0.08% : barrow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q006.jpg
+98.44% : orange
+ 1.07% : lemon
+ 0.04% : candle
+ 0.03% : ping-pong ball
+ 0.03% : croquet ball
+ 0.01% : jack-o'-lantern
+ 0.01% : spaghetti squash
+ 0.01% : buckle
+ 0.01% : barrow
+ 0.01% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q007.jpg
+98.10% : orange
+ 0.97% : lemon
+ 0.05% : croquet ball
+ 0.05% : ping-pong ball
+ 0.03% : candle
+ 0.01% : jack-o'-lantern
+ 0.01% : basketball
+ 0.01% : spaghetti squash
+ 0.01% : oil filter
+ 0.01% : power drill
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q008.jpg
+99.08% : orange
+ 0.33% : lemon
+ 0.06% : croquet ball
+ 0.04% : ping-pong ball
+ 0.01% : basketball
+ 0.01% : jack-o'-lantern
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.00% : spaghetti squash
+ 0.00% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q009.jpg
+98.79% : orange
+ 0.76% : lemon
+ 0.02% : ping-pong ball
+ 0.02% : croquet ball
+ 0.01% : basketball
+ 0.01% : spaghetti squash
+ 0.01% : banana
+ 0.00% : combination lock
+ 0.00% : ocarina
+ 0.00% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q010.jpg
+98.03% : orange
+ 0.68% : lemon
+ 0.04% : basketball
+ 0.02% : ping-pong ball
+ 0.02% : croquet ball
+ 0.02% : spaghetti squash
+ 0.02% : combination lock
+ 0.02% : banana
+ 0.01% : space bar
+ 0.01% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q011.jpg
+98.00% : orange
+ 0.77% : lemon
+ 0.04% : basketball
+ 0.02% : combination lock
+ 0.02% : ping-pong ball
+ 0.01% : spaghetti squash
+ 0.01% : banana
+ 0.01% : magnetic compass
+ 0.01% : croquet ball
+ 0.01% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q012.jpg
+98.39% : orange
+ 0.76% : lemon
+ 0.02% : basketball
+ 0.02% : ping-pong ball
+ 0.01% : ocarina
+ 0.01% : combination lock
+ 0.01% : space bar
+ 0.01% : croquet ball
+ 0.01% : banana
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q013.jpg
+97.95% : orange
+ 0.97% : lemon
+ 0.04% : ping-pong ball
+ 0.03% : ocarina
+ 0.03% : basketball
+ 0.02% : spaghetti squash
+ 0.02% : croquet ball
+ 0.01% : banana
+ 0.01% : combination lock
+ 0.01% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q014.jpg
+96.95% : orange
+ 1.83% : lemon
+ 0.04% : ocarina
+ 0.03% : ping-pong ball
+ 0.03% : basketball
+ 0.02% : spaghetti squash
+ 0.02% : combination lock
+ 0.02% : magnetic compass
+ 0.01% : croquet ball
+ 0.01% : space bar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q015.jpg
+96.66% : orange
+ 1.73% : lemon
+ 0.09% : ocarina
+ 0.06% : ping-pong ball
+ 0.03% : spaghetti squash
+ 0.03% : basketball
+ 0.02% : croquet ball
+ 0.02% : buckle
+ 0.02% : magnetic compass
+ 0.02% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q016.jpg
+96.88% : orange
+ 1.75% : lemon
+ 0.06% : ping-pong ball
+ 0.03% : ocarina
+ 0.03% : spaghetti squash
+ 0.02% : buckle
+ 0.02% : basketball
+ 0.02% : combination lock
+ 0.02% : croquet ball
+ 0.02% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q017.jpg
+97.33% : orange
+ 1.44% : lemon
+ 0.07% : ocarina
+ 0.04% : ping-pong ball
+ 0.02% : basketball
+ 0.02% : spaghetti squash
+ 0.02% : buckle
+ 0.02% : combination lock
+ 0.01% : magnetic compass
+ 0.01% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q018.jpg
+95.03% : orange
+ 2.67% : lemon
+ 0.09% : ocarina
+ 0.07% : ping-pong ball
+ 0.05% : spatula
+ 0.03% : spaghetti squash
+ 0.03% : basketball
+ 0.03% : buckle
+ 0.03% : croquet ball
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q019.jpg
+95.96% : orange
+ 2.24% : lemon
+ 0.05% : ocarina
+ 0.05% : ping-pong ball
+ 0.03% : spatula
+ 0.03% : combination lock
+ 0.03% : buckle
+ 0.02% : spaghetti squash
+ 0.02% : basketball
+ 0.02% : space bar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q020.jpg
+93.48% : orange
+ 4.40% : lemon
+ 0.08% : ping-pong ball
+ 0.08% : spatula
+ 0.06% : ocarina
+ 0.04% : buckle
+ 0.04% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : frying pan
+ 0.02% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q021.jpg
+91.12% : orange
+ 6.16% : lemon
+ 0.10% : ocarina
+ 0.09% : ping-pong ball
+ 0.08% : spatula
+ 0.05% : spaghetti squash
+ 0.05% : space bar
+ 0.04% : combination lock
+ 0.04% : buckle
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q022.jpg
+92.20% : orange
+ 5.31% : lemon
+ 0.11% : ping-pong ball
+ 0.07% : ocarina
+ 0.05% : spatula
+ 0.05% : combination lock
+ 0.04% : buckle
+ 0.04% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q023.jpg
+91.20% : orange
+ 6.57% : lemon
+ 0.06% : ping-pong ball
+ 0.06% : spatula
+ 0.05% : ocarina
+ 0.05% : combination lock
+ 0.04% : buckle
+ 0.03% : space bar
+ 0.03% : spaghetti squash
+ 0.02% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q024.jpg
+91.26% : orange
+ 6.46% : lemon
+ 0.08% : ping-pong ball
+ 0.07% : ocarina
+ 0.06% : spatula
+ 0.05% : combination lock
+ 0.04% : croquet ball
+ 0.04% : spaghetti squash
+ 0.04% : buckle
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q025.jpg
+93.08% : orange
+ 4.90% : lemon
+ 0.07% : ocarina
+ 0.07% : ping-pong ball
+ 0.06% : spatula
+ 0.04% : combination lock
+ 0.04% : buckle
+ 0.03% : spaghetti squash
+ 0.03% : basketball
+ 0.03% : space bar
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q026.jpg
+93.04% : orange
+ 5.02% : lemon
+ 0.08% : ping-pong ball
+ 0.05% : combination lock
+ 0.05% : spatula
+ 0.05% : ocarina
+ 0.03% : buckle
+ 0.03% : space bar
+ 0.03% : spaghetti squash
+ 0.02% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q027.jpg
+93.34% : orange
+ 4.75% : lemon
+ 0.05% : ocarina
+ 0.05% : ping-pong ball
+ 0.05% : combination lock
+ 0.04% : spatula
+ 0.04% : buckle
+ 0.03% : space bar
+ 0.02% : spaghetti squash
+ 0.02% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q028.jpg
+95.58% : orange
+ 2.79% : lemon
+ 0.06% : ping-pong ball
+ 0.04% : combination lock
+ 0.03% : spatula
+ 0.03% : buckle
+ 0.03% : ocarina
+ 0.03% : space bar
+ 0.02% : joystick
+ 0.02% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q029.jpg
+95.41% : orange
+ 2.70% : lemon
+ 0.07% : ping-pong ball
+ 0.04% : ocarina
+ 0.04% : combination lock
+ 0.04% : spatula
+ 0.04% : buckle
+ 0.03% : space bar
+ 0.03% : switch
+ 0.03% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q030.jpg
+92.31% : orange
+ 4.64% : lemon
+ 0.11% : ping-pong ball
+ 0.07% : ocarina
+ 0.07% : spatula
+ 0.06% : combination lock
+ 0.06% : space bar
+ 0.06% : buckle
+ 0.06% : switch
+ 0.04% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q031.jpg
+88.87% : orange
+ 7.09% : lemon
+ 0.22% : ocarina
+ 0.16% : ping-pong ball
+ 0.11% : switch
+ 0.11% : spatula
+ 0.09% : combination lock
+ 0.09% : buckle
+ 0.06% : joystick
+ 0.06% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q032.jpg
+91.40% : orange
+ 5.30% : lemon
+ 0.13% : ping-pong ball
+ 0.11% : ocarina
+ 0.11% : spatula
+ 0.09% : combination lock
+ 0.09% : switch
+ 0.07% : space bar
+ 0.07% : buckle
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q033.jpg
+91.14% : orange
+ 5.40% : lemon
+ 0.16% : ping-pong ball
+ 0.09% : combination lock
+ 0.09% : spatula
+ 0.09% : ocarina
+ 0.08% : switch
+ 0.08% : space bar
+ 0.07% : buckle
+ 0.07% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q034.jpg
+91.36% : orange
+ 5.62% : lemon
+ 0.10% : ping-pong ball
+ 0.09% : combination lock
+ 0.08% : ocarina
+ 0.08% : spatula
+ 0.07% : buckle
+ 0.06% : switch
+ 0.06% : space bar
+ 0.06% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q035.jpg
+90.95% : orange
+ 5.69% : lemon
+ 0.14% : ping-pong ball
+ 0.13% : spatula
+ 0.10% : combination lock
+ 0.09% : switch
+ 0.08% : ocarina
+ 0.07% : buckle
+ 0.07% : space bar
+ 0.06% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q036.jpg
+91.75% : orange
+ 5.73% : lemon
+ 0.11% : ping-pong ball
+ 0.10% : ocarina
+ 0.09% : spatula
+ 0.08% : buckle
+ 0.07% : combination lock
+ 0.05% : space bar
+ 0.05% : switch
+ 0.04% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q037.jpg
+92.28% : orange
+ 5.47% : lemon
+ 0.10% : ping-pong ball
+ 0.09% : ocarina
+ 0.07% : spatula
+ 0.07% : combination lock
+ 0.06% : buckle
+ 0.04% : space bar
+ 0.04% : switch
+ 0.03% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q038.jpg
+93.37% : orange
+ 3.77% : lemon
+ 0.10% : buckle
+ 0.10% : ocarina
+ 0.09% : combination lock
+ 0.08% : ping-pong ball
+ 0.08% : spatula
+ 0.08% : switch
+ 0.06% : space bar
+ 0.05% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q039.jpg
+91.48% : orange
+ 5.50% : lemon
+ 0.11% : ping-pong ball
+ 0.10% : combination lock
+ 0.09% : switch
+ 0.09% : spatula
+ 0.09% : buckle
+ 0.08% : space bar
+ 0.08% : ocarina
+ 0.06% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q040.jpg
+89.69% : orange
+ 6.64% : lemon
+ 0.15% : ping-pong ball
+ 0.13% : spatula
+ 0.12% : combination lock
+ 0.11% : switch
+ 0.10% : buckle
+ 0.09% : ocarina
+ 0.08% : space bar
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q041.jpg
+91.45% : orange
+ 5.71% : lemon
+ 0.14% : ping-pong ball
+ 0.08% : buckle
+ 0.08% : combination lock
+ 0.08% : spatula
+ 0.08% : switch
+ 0.07% : ocarina
+ 0.05% : frying pan
+ 0.05% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q042.jpg
+89.84% : orange
+ 7.00% : lemon
+ 0.19% : ping-pong ball
+ 0.11% : switch
+ 0.11% : spatula
+ 0.10% : buckle
+ 0.10% : combination lock
+ 0.08% : ocarina
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q043.jpg
+89.91% : orange
+ 6.95% : lemon
+ 0.18% : ping-pong ball
+ 0.11% : switch
+ 0.11% : spatula
+ 0.10% : buckle
+ 0.10% : combination lock
+ 0.08% : ocarina
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q044.jpg
+92.51% : orange
+ 4.82% : lemon
+ 0.13% : ping-pong ball
+ 0.12% : spatula
+ 0.10% : combination lock
+ 0.09% : switch
+ 0.07% : buckle
+ 0.06% : frying pan
+ 0.06% : joystick
+ 0.05% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q045.jpg
+92.86% : orange
+ 4.67% : lemon
+ 0.12% : ping-pong ball
+ 0.10% : spatula
+ 0.09% : combination lock
+ 0.08% : switch
+ 0.07% : buckle
+ 0.06% : frying pan
+ 0.05% : joystick
+ 0.05% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q046.jpg
+93.30% : orange
+ 4.53% : lemon
+ 0.12% : ping-pong ball
+ 0.07% : spatula
+ 0.07% : combination lock
+ 0.06% : buckle
+ 0.05% : switch
+ 0.05% : ocarina
+ 0.04% : joystick
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q047.jpg
+93.40% : orange
+ 4.45% : lemon
+ 0.12% : ping-pong ball
+ 0.07% : spatula
+ 0.07% : combination lock
+ 0.06% : buckle
+ 0.05% : switch
+ 0.05% : ocarina
+ 0.04% : joystick
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q048.jpg
+93.55% : orange
+ 4.32% : lemon
+ 0.11% : ping-pong ball
+ 0.07% : combination lock
+ 0.06% : spatula
+ 0.06% : switch
+ 0.05% : buckle
+ 0.05% : ocarina
+ 0.04% : joystick
+ 0.04% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q049.jpg
+92.78% : orange
+ 4.34% : lemon
+ 0.15% : ping-pong ball
+ 0.14% : switch
+ 0.12% : spatula
+ 0.10% : combination lock
+ 0.09% : frying pan
+ 0.08% : buckle
+ 0.07% : joystick
+ 0.07% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q050.jpg
+92.72% : orange
+ 4.36% : lemon
+ 0.15% : ping-pong ball
+ 0.14% : switch
+ 0.12% : spatula
+ 0.11% : combination lock
+ 0.09% : frying pan
+ 0.08% : buckle
+ 0.07% : joystick
+ 0.07% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q051.jpg
+92.72% : orange
+ 4.36% : lemon
+ 0.15% : ping-pong ball
+ 0.14% : switch
+ 0.12% : spatula
+ 0.11% : combination lock
+ 0.09% : frying pan
+ 0.09% : buckle
+ 0.07% : joystick
+ 0.07% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q052.jpg
+90.52% : orange
+ 5.99% : lemon
+ 0.18% : ping-pong ball
+ 0.14% : switch
+ 0.12% : spatula
+ 0.10% : combination lock
+ 0.10% : buckle
+ 0.09% : joystick
+ 0.08% : ocarina
+ 0.08% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q053.jpg
+89.81% : orange
+ 6.28% : lemon
+ 0.21% : ping-pong ball
+ 0.15% : switch
+ 0.14% : spatula
+ 0.11% : combination lock
+ 0.10% : joystick
+ 0.10% : buckle
+ 0.09% : space bar
+ 0.09% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q054.jpg
+89.88% : orange
+ 6.24% : lemon
+ 0.21% : ping-pong ball
+ 0.15% : switch
+ 0.14% : spatula
+ 0.11% : combination lock
+ 0.10% : joystick
+ 0.10% : buckle
+ 0.09% : space bar
+ 0.09% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q055.jpg
+89.74% : orange
+ 6.56% : lemon
+ 0.19% : ping-pong ball
+ 0.14% : switch
+ 0.13% : spatula
+ 0.12% : combination lock
+ 0.10% : joystick
+ 0.10% : buckle
+ 0.09% : ocarina
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q056.jpg
+89.79% : orange
+ 6.56% : lemon
+ 0.18% : ping-pong ball
+ 0.13% : switch
+ 0.12% : spatula
+ 0.12% : combination lock
+ 0.10% : joystick
+ 0.09% : buckle
+ 0.08% : ocarina
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q057.jpg
+89.13% : orange
+ 7.13% : lemon
+ 0.20% : ping-pong ball
+ 0.13% : spatula
+ 0.13% : switch
+ 0.12% : combination lock
+ 0.10% : joystick
+ 0.09% : frying pan
+ 0.09% : buckle
+ 0.08% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q058.jpg
+89.58% : orange
+ 7.29% : lemon
+ 0.16% : ping-pong ball
+ 0.12% : spatula
+ 0.09% : combination lock
+ 0.09% : buckle
+ 0.09% : switch
+ 0.07% : ocarina
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q059.jpg
+89.26% : orange
+ 7.61% : lemon
+ 0.16% : ping-pong ball
+ 0.13% : spatula
+ 0.09% : combination lock
+ 0.09% : switch
+ 0.09% : buckle
+ 0.08% : ocarina
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q060.jpg
+88.94% : orange
+ 7.83% : lemon
+ 0.16% : ping-pong ball
+ 0.13% : spatula
+ 0.10% : combination lock
+ 0.10% : switch
+ 0.09% : buckle
+ 0.08% : ocarina
+ 0.08% : frying pan
+ 0.07% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q061.jpg
+91.18% : orange
+ 5.87% : lemon
+ 0.16% : ping-pong ball
+ 0.12% : spatula
+ 0.10% : switch
+ 0.10% : combination lock
+ 0.08% : buckle
+ 0.07% : ocarina
+ 0.07% : frying pan
+ 0.07% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q062.jpg
+90.67% : orange
+ 6.04% : lemon
+ 0.21% : ping-pong ball
+ 0.12% : spatula
+ 0.12% : switch
+ 0.10% : combination lock
+ 0.09% : ocarina
+ 0.08% : buckle
+ 0.07% : joystick
+ 0.07% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q063.jpg
+91.02% : orange
+ 5.79% : lemon
+ 0.20% : ping-pong ball
+ 0.12% : spatula
+ 0.11% : switch
+ 0.09% : combination lock
+ 0.08% : buckle
+ 0.08% : ocarina
+ 0.07% : frying pan
+ 0.07% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q064.jpg
+90.69% : orange
+ 5.85% : lemon
+ 0.19% : ping-pong ball
+ 0.12% : spatula
+ 0.11% : switch
+ 0.10% : buckle
+ 0.10% : combination lock
+ 0.09% : ocarina
+ 0.08% : frying pan
+ 0.07% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q065.jpg
+91.31% : orange
+ 5.70% : lemon
+ 0.18% : ping-pong ball
+ 0.10% : spatula
+ 0.09% : switch
+ 0.08% : combination lock
+ 0.08% : ocarina
+ 0.07% : buckle
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q066.jpg
+90.71% : orange
+ 6.40% : lemon
+ 0.16% : ping-pong ball
+ 0.09% : spatula
+ 0.08% : switch
+ 0.07% : combination lock
+ 0.07% : ocarina
+ 0.07% : buckle
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q067.jpg
+91.45% : orange
+ 5.81% : lemon
+ 0.15% : ping-pong ball
+ 0.10% : spatula
+ 0.08% : switch
+ 0.07% : ocarina
+ 0.07% : combination lock
+ 0.07% : buckle
+ 0.07% : frying pan
+ 0.06% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q068.jpg
+91.15% : orange
+ 5.62% : lemon
+ 0.18% : ping-pong ball
+ 0.12% : switch
+ 0.11% : spatula
+ 0.10% : combination lock
+ 0.10% : ocarina
+ 0.09% : buckle
+ 0.08% : frying pan
+ 0.07% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q069.jpg
+90.95% : orange
+ 5.64% : lemon
+ 0.18% : ping-pong ball
+ 0.13% : switch
+ 0.11% : buckle
+ 0.11% : spatula
+ 0.10% : combination lock
+ 0.09% : ocarina
+ 0.08% : joystick
+ 0.07% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q070.jpg
+92.36% : orange
+ 4.78% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : switch
+ 0.09% : buckle
+ 0.08% : spatula
+ 0.08% : combination lock
+ 0.07% : space bar
+ 0.07% : ocarina
+ 0.07% : joystick
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q071.jpg
+91.67% : orange
+ 5.19% : lemon
+ 0.18% : ping-pong ball
+ 0.14% : switch
+ 0.11% : spatula
+ 0.09% : buckle
+ 0.09% : combination lock
+ 0.09% : joystick
+ 0.08% : frying pan
+ 0.08% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q072.jpg
+91.42% : orange
+ 5.28% : lemon
+ 0.19% : ping-pong ball
+ 0.15% : switch
+ 0.12% : spatula
+ 0.10% : buckle
+ 0.09% : combination lock
+ 0.09% : joystick
+ 0.09% : ocarina
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q073.jpg
+89.55% : orange
+ 6.53% : lemon
+ 0.23% : ping-pong ball
+ 0.21% : switch
+ 0.13% : spatula
+ 0.13% : joystick
+ 0.12% : combination lock
+ 0.11% : buckle
+ 0.11% : ocarina
+ 0.10% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q074.jpg
+89.85% : orange
+ 6.47% : lemon
+ 0.22% : ping-pong ball
+ 0.18% : switch
+ 0.13% : spatula
+ 0.12% : joystick
+ 0.11% : combination lock
+ 0.11% : buckle
+ 0.09% : computer keyboard
+ 0.09% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q075.jpg
+89.85% : orange
+ 6.45% : lemon
+ 0.22% : ping-pong ball
+ 0.18% : switch
+ 0.13% : spatula
+ 0.12% : joystick
+ 0.11% : buckle
+ 0.11% : combination lock
+ 0.09% : computer keyboard
+ 0.09% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q076.jpg
+91.96% : orange
+ 4.78% : lemon
+ 0.20% : ping-pong ball
+ 0.13% : switch
+ 0.12% : spatula
+ 0.10% : combination lock
+ 0.09% : buckle
+ 0.09% : frying pan
+ 0.09% : joystick
+ 0.08% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q077.jpg
+91.58% : orange
+ 4.93% : lemon
+ 0.20% : ping-pong ball
+ 0.15% : switch
+ 0.13% : spatula
+ 0.10% : frying pan
+ 0.10% : combination lock
+ 0.10% : joystick
+ 0.09% : buckle
+ 0.09% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q078.jpg
+90.09% : orange
+ 6.02% : lemon
+ 0.20% : ping-pong ball
+ 0.18% : switch
+ 0.16% : spatula
+ 0.12% : frying pan
+ 0.12% : combination lock
+ 0.10% : joystick
+ 0.10% : buckle
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q079.jpg
+90.11% : orange
+ 6.03% : lemon
+ 0.21% : ping-pong ball
+ 0.17% : switch
+ 0.16% : spatula
+ 0.12% : frying pan
+ 0.12% : combination lock
+ 0.11% : joystick
+ 0.10% : buckle
+ 0.08% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q080.jpg
+89.55% : orange
+ 6.51% : lemon
+ 0.21% : ping-pong ball
+ 0.18% : spatula
+ 0.17% : switch
+ 0.14% : frying pan
+ 0.13% : combination lock
+ 0.11% : joystick
+ 0.10% : buckle
+ 0.10% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q081.jpg
+90.49% : orange
+ 5.63% : lemon
+ 0.20% : ping-pong ball
+ 0.18% : switch
+ 0.15% : spatula
+ 0.13% : combination lock
+ 0.12% : frying pan
+ 0.11% : buckle
+ 0.11% : joystick
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q082.jpg
+91.06% : orange
+ 5.16% : lemon
+ 0.20% : switch
+ 0.19% : ping-pong ball
+ 0.15% : spatula
+ 0.13% : frying pan
+ 0.12% : combination lock
+ 0.11% : joystick
+ 0.11% : buckle
+ 0.10% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q083.jpg
+91.64% : orange
+ 4.85% : lemon
+ 0.19% : ping-pong ball
+ 0.15% : switch
+ 0.14% : spatula
+ 0.11% : frying pan
+ 0.10% : buckle
+ 0.10% : joystick
+ 0.10% : combination lock
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q084.jpg
+88.94% : orange
+ 6.87% : lemon
+ 0.25% : ping-pong ball
+ 0.18% : spatula
+ 0.17% : switch
+ 0.13% : frying pan
+ 0.12% : joystick
+ 0.11% : combination lock
+ 0.11% : buckle
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q085.jpg
+88.91% : orange
+ 6.93% : lemon
+ 0.25% : ping-pong ball
+ 0.19% : spatula
+ 0.16% : switch
+ 0.14% : frying pan
+ 0.12% : combination lock
+ 0.11% : joystick
+ 0.10% : buckle
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q086.jpg
+87.32% : orange
+ 7.55% : lemon
+ 0.27% : ping-pong ball
+ 0.27% : switch
+ 0.22% : spatula
+ 0.17% : frying pan
+ 0.16% : joystick
+ 0.15% : combination lock
+ 0.12% : buckle
+ 0.12% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q087.jpg
+91.28% : orange
+ 4.92% : lemon
+ 0.23% : ping-pong ball
+ 0.21% : switch
+ 0.15% : spatula
+ 0.13% : frying pan
+ 0.12% : joystick
+ 0.12% : combination lock
+ 0.10% : buckle
+ 0.09% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q088.jpg
+90.97% : orange
+ 5.22% : lemon
+ 0.22% : ping-pong ball
+ 0.22% : switch
+ 0.15% : spatula
+ 0.12% : frying pan
+ 0.12% : joystick
+ 0.12% : combination lock
+ 0.11% : buckle
+ 0.10% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q089.jpg
+91.05% : orange
+ 5.09% : lemon
+ 0.22% : switch
+ 0.20% : ping-pong ball
+ 0.15% : spatula
+ 0.12% : joystick
+ 0.12% : combination lock
+ 0.12% : frying pan
+ 0.11% : buckle
+ 0.11% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q090.jpg
+89.33% : orange
+ 6.41% : lemon
+ 0.25% : ping-pong ball
+ 0.20% : switch
+ 0.17% : spatula
+ 0.13% : combination lock
+ 0.13% : joystick
+ 0.12% : frying pan
+ 0.11% : buckle
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q091.jpg
+89.18% : orange
+ 6.67% : lemon
+ 0.24% : ping-pong ball
+ 0.20% : switch
+ 0.17% : spatula
+ 0.13% : combination lock
+ 0.13% : frying pan
+ 0.12% : joystick
+ 0.11% : buckle
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q092.jpg
+89.22% : orange
+ 6.75% : lemon
+ 0.24% : ping-pong ball
+ 0.18% : switch
+ 0.17% : spatula
+ 0.12% : combination lock
+ 0.11% : frying pan
+ 0.11% : joystick
+ 0.11% : buckle
+ 0.09% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q093.jpg
+92.31% : orange
+ 4.68% : lemon
+ 0.18% : ping-pong ball
+ 0.14% : switch
+ 0.12% : spatula
+ 0.09% : combination lock
+ 0.09% : frying pan
+ 0.09% : joystick
+ 0.08% : buckle
+ 0.07% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q094.jpg
+92.72% : orange
+ 4.40% : lemon
+ 0.18% : ping-pong ball
+ 0.12% : switch
+ 0.11% : spatula
+ 0.09% : buckle
+ 0.08% : combination lock
+ 0.08% : joystick
+ 0.08% : ocarina
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q095.jpg
+92.80% : orange
+ 4.23% : lemon
+ 0.19% : ping-pong ball
+ 0.13% : switch
+ 0.11% : spatula
+ 0.09% : combination lock
+ 0.09% : buckle
+ 0.08% : joystick
+ 0.08% : frying pan
+ 0.07% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q096.jpg
+92.11% : orange
+ 4.85% : lemon
+ 0.18% : ping-pong ball
+ 0.15% : switch
+ 0.10% : spatula
+ 0.09% : combination lock
+ 0.09% : buckle
+ 0.09% : joystick
+ 0.08% : computer keyboard
+ 0.08% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q097.jpg
+92.14% : orange
+ 4.77% : lemon
+ 0.19% : ping-pong ball
+ 0.15% : switch
+ 0.12% : spatula
+ 0.09% : combination lock
+ 0.09% : buckle
+ 0.09% : joystick
+ 0.08% : frying pan
+ 0.08% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q098.jpg
+92.25% : orange
+ 4.63% : lemon
+ 0.19% : ping-pong ball
+ 0.15% : switch
+ 0.11% : spatula
+ 0.09% : joystick
+ 0.09% : combination lock
+ 0.08% : frying pan
+ 0.08% : buckle
+ 0.08% : computer keyboard
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q099.jpg
+92.79% : orange
+ 4.61% : lemon
+ 0.15% : ping-pong ball
+ 0.11% : switch
+ 0.09% : spatula
+ 0.08% : combination lock
+ 0.07% : buckle
+ 0.07% : joystick
+ 0.07% : computer keyboard
+ 0.06% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange4Q100.jpg
+92.40% : orange
+ 4.85% : lemon
+ 0.16% : ping-pong ball
+ 0.12% : switch
+ 0.10% : spatula
+ 0.09% : combination lock
+ 0.08% : joystick
+ 0.08% : buckle
+ 0.07% : frying pan
+ 0.07% : ocarina

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q001.jpg
+63.48% : lemon
+15.45% : tennis ball
+ 1.43% : spaghetti squash
+ 1.01% : orange
+ 0.52% : balloon
+ 0.36% : croquet ball
+ 0.34% : worm fence
+ 0.29% : bucket
+ 0.28% : head cabbage
+ 0.25% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q002.jpg
+63.48% : lemon
+15.45% : tennis ball
+ 1.43% : spaghetti squash
+ 1.01% : orange
+ 0.52% : balloon
+ 0.36% : croquet ball
+ 0.34% : worm fence
+ 0.29% : bucket
+ 0.28% : head cabbage
+ 0.25% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q003.jpg
+66.48% : lemon
+15.63% : tennis ball
+ 1.33% : spaghetti squash
+ 0.92% : orange
+ 0.41% : balloon
+ 0.32% : croquet ball
+ 0.27% : worm fence
+ 0.23% : bucket
+ 0.23% : head cabbage
+ 0.21% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q004.jpg
+41.90% : lemon
+34.88% : tennis ball
+ 5.39% : orange
+ 0.68% : spaghetti squash
+ 0.60% : worm fence
+ 0.42% : balloon
+ 0.39% : racket
+ 0.33% : chainlink fence
+ 0.31% : prison
+ 0.25% : pot
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q005.jpg
+76.01% : lemon
+17.26% : tennis ball
+ 0.90% : orange
+ 0.46% : spaghetti squash
+ 0.15% : racket
+ 0.12% : prison
+ 0.10% : dough
+ 0.09% : lampshade
+ 0.08% : croquet ball
+ 0.07% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q006.jpg
+65.94% : lemon
+18.07% : tennis ball
+ 0.86% : spaghetti squash
+ 0.39% : dough
+ 0.38% : orange
+ 0.33% : racket
+ 0.27% : jackfruit
+ 0.18% : goldfinch
+ 0.16% : honeycomb
+ 0.16% : prison
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q007.jpg
+94.20% : lemon
+ 1.45% : orange
+ 0.60% : tennis ball
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.06% : shoji
+ 0.05% : dough
+ 0.04% : jackfruit
+ 0.04% : plastic bag
+ 0.04% : worm fence
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q008.jpg
+92.42% : lemon
+ 0.77% : orange
+ 0.51% : tennis ball
+ 0.22% : spaghetti squash
+ 0.20% : dough
+ 0.14% : shoji
+ 0.09% : prison
+ 0.08% : window screen
+ 0.07% : French loaf
+ 0.06% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q009.jpg
+73.68% : lemon
+ 5.56% : orange
+ 0.62% : tennis ball
+ 0.55% : shoji
+ 0.41% : prison
+ 0.29% : spaghetti squash
+ 0.26% : robin
+ 0.20% : worm fence
+ 0.20% : jackfruit
+ 0.18% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q010.jpg
+93.42% : lemon
+ 0.39% : orange
+ 0.13% : dough
+ 0.11% : tennis ball
+ 0.10% : spaghetti squash
+ 0.07% : shoji
+ 0.07% : jackfruit
+ 0.06% : window screen
+ 0.06% : prison
+ 0.05% : French loaf
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q011.jpg
+87.09% : lemon
+ 0.49% : tennis ball
+ 0.43% : orange
+ 0.31% : spaghetti squash
+ 0.19% : jackfruit
+ 0.16% : window screen
+ 0.16% : robin
+ 0.14% : shoji
+ 0.13% : prison
+ 0.11% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q012.jpg
+89.43% : lemon
+ 0.44% : orange
+ 0.22% : tennis ball
+ 0.22% : window screen
+ 0.19% : spaghetti squash
+ 0.17% : dough
+ 0.16% : prison
+ 0.10% : shoji
+ 0.09% : robin
+ 0.08% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q013.jpg
+92.08% : lemon
+ 0.33% : spaghetti squash
+ 0.14% : window screen
+ 0.12% : dough
+ 0.11% : orange
+ 0.10% : tennis ball
+ 0.08% : prison
+ 0.08% : shoji
+ 0.07% : jackfruit
+ 0.07% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q014.jpg
+91.33% : lemon
+ 0.49% : orange
+ 0.16% : window screen
+ 0.15% : spaghetti squash
+ 0.10% : prison
+ 0.09% : dough
+ 0.09% : tennis ball
+ 0.07% : robin
+ 0.06% : black widow
+ 0.06% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q015.jpg
+93.34% : lemon
+ 0.16% : orange
+ 0.14% : spaghetti squash
+ 0.11% : window screen
+ 0.10% : dough
+ 0.07% : prison
+ 0.06% : tennis ball
+ 0.05% : cowboy hat
+ 0.05% : window shade
+ 0.05% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q016.jpg
+93.53% : lemon
+ 0.21% : orange
+ 0.15% : window screen
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.09% : tennis ball
+ 0.06% : jackfruit
+ 0.05% : prison
+ 0.05% : robin
+ 0.05% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q017.jpg
+93.47% : lemon
+ 0.14% : spaghetti squash
+ 0.14% : orange
+ 0.13% : window screen
+ 0.10% : dough
+ 0.06% : prison
+ 0.06% : tennis ball
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.04% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q018.jpg
+94.19% : lemon
+ 0.13% : orange
+ 0.12% : spaghetti squash
+ 0.12% : window screen
+ 0.08% : dough
+ 0.05% : goldfinch
+ 0.04% : tennis ball
+ 0.04% : prison
+ 0.04% : window shade
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q019.jpg
+91.74% : lemon
+ 0.22% : orange
+ 0.17% : window screen
+ 0.11% : spaghetti squash
+ 0.08% : prison
+ 0.08% : dough
+ 0.06% : black widow
+ 0.06% : fire screen
+ 0.05% : goldfinch
+ 0.05% : robin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q020.jpg
+92.91% : lemon
+ 0.20% : window screen
+ 0.20% : spaghetti squash
+ 0.12% : orange
+ 0.12% : dough
+ 0.07% : tennis ball
+ 0.07% : prison
+ 0.06% : black widow
+ 0.06% : jackfruit
+ 0.05% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q021.jpg
+93.80% : lemon
+ 0.13% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.05% : black widow
+ 0.05% : prison
+ 0.05% : tennis ball
+ 0.04% : goldfinch
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q022.jpg
+95.07% : lemon
+ 0.11% : orange
+ 0.10% : window screen
+ 0.10% : spaghetti squash
+ 0.08% : dough
+ 0.04% : jackfruit
+ 0.03% : goldfinch
+ 0.03% : black widow
+ 0.03% : tennis ball
+ 0.03% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q023.jpg
+92.99% : lemon
+ 0.15% : orange
+ 0.14% : window screen
+ 0.12% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.05% : window shade
+ 0.05% : shoji
+ 0.05% : jackfruit
+ 0.05% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q024.jpg
+94.45% : lemon
+ 0.16% : window screen
+ 0.16% : orange
+ 0.07% : dough
+ 0.07% : spaghetti squash
+ 0.06% : prison
+ 0.04% : window shade
+ 0.04% : black widow
+ 0.04% : cowboy hat
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q025.jpg
+94.11% : lemon
+ 0.15% : orange
+ 0.12% : window screen
+ 0.11% : dough
+ 0.08% : spaghetti squash
+ 0.05% : prison
+ 0.05% : black widow
+ 0.04% : window shade
+ 0.04% : tennis ball
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q026.jpg
+93.52% : lemon
+ 0.16% : orange
+ 0.11% : window screen
+ 0.09% : spaghetti squash
+ 0.07% : dough
+ 0.06% : prison
+ 0.05% : window shade
+ 0.05% : jackfruit
+ 0.04% : black widow
+ 0.04% : goldfinch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q027.jpg
+93.50% : lemon
+ 0.16% : orange
+ 0.16% : window screen
+ 0.10% : spaghetti squash
+ 0.07% : dough
+ 0.06% : prison
+ 0.05% : goldfinch
+ 0.05% : jackfruit
+ 0.04% : fire screen
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q028.jpg
+94.05% : lemon
+ 0.15% : window screen
+ 0.14% : orange
+ 0.09% : spaghetti squash
+ 0.09% : dough
+ 0.05% : prison
+ 0.05% : jackfruit
+ 0.04% : goldfinch
+ 0.04% : black widow
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q029.jpg
+93.83% : lemon
+ 0.17% : orange
+ 0.14% : window screen
+ 0.09% : spaghetti squash
+ 0.09% : dough
+ 0.05% : prison
+ 0.05% : jackfruit
+ 0.04% : black widow
+ 0.04% : goldfinch
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q030.jpg
+93.45% : lemon
+ 0.14% : window screen
+ 0.13% : orange
+ 0.11% : dough
+ 0.10% : spaghetti squash
+ 0.05% : prison
+ 0.05% : goldfinch
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.04% : tennis ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q031.jpg
+93.79% : lemon
+ 0.16% : window screen
+ 0.15% : orange
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.05% : prison
+ 0.05% : window shade
+ 0.05% : black widow
+ 0.04% : jackfruit
+ 0.04% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q032.jpg
+94.04% : lemon
+ 0.15% : window screen
+ 0.11% : orange
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : black widow
+ 0.04% : shoji
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q033.jpg
+93.74% : lemon
+ 0.16% : orange
+ 0.13% : window screen
+ 0.08% : dough
+ 0.08% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : gong
+ 0.04% : black widow
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q034.jpg
+93.44% : lemon
+ 0.15% : orange
+ 0.13% : window screen
+ 0.11% : spaghetti squash
+ 0.11% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.06% : jackfruit
+ 0.05% : shoji
+ 0.05% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q035.jpg
+94.06% : lemon
+ 0.16% : orange
+ 0.13% : window screen
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.05% : window shade
+ 0.04% : jackfruit
+ 0.04% : shoji
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q036.jpg
+92.67% : lemon
+ 0.17% : orange
+ 0.14% : window screen
+ 0.11% : dough
+ 0.10% : spaghetti squash
+ 0.07% : prison
+ 0.05% : jackfruit
+ 0.05% : window shade
+ 0.05% : black widow
+ 0.05% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q037.jpg
+92.47% : lemon
+ 0.18% : orange
+ 0.14% : window screen
+ 0.11% : dough
+ 0.10% : spaghetti squash
+ 0.07% : prison
+ 0.06% : jackfruit
+ 0.05% : black widow
+ 0.05% : window shade
+ 0.05% : cowboy hat
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q038.jpg
+93.77% : lemon
+ 0.17% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.05% : shoji
+ 0.05% : jackfruit
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q039.jpg
+93.44% : lemon
+ 0.15% : orange
+ 0.12% : dough
+ 0.10% : window screen
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.05% : gong
+ 0.04% : shoji
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q040.jpg
+92.75% : lemon
+ 0.17% : orange
+ 0.12% : dough
+ 0.12% : window screen
+ 0.09% : spaghetti squash
+ 0.08% : prison
+ 0.05% : black widow
+ 0.05% : window shade
+ 0.05% : gong
+ 0.05% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q041.jpg
+92.82% : lemon
+ 0.17% : orange
+ 0.15% : window screen
+ 0.10% : dough
+ 0.09% : prison
+ 0.09% : spaghetti squash
+ 0.06% : window shade
+ 0.05% : black widow
+ 0.05% : jackfruit
+ 0.05% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q042.jpg
+93.26% : lemon
+ 0.15% : orange
+ 0.14% : window screen
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.05% : window shade
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q043.jpg
+93.16% : lemon
+ 0.15% : orange
+ 0.14% : window screen
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.05% : window shade
+ 0.05% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q044.jpg
+92.92% : lemon
+ 0.17% : orange
+ 0.13% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : gong
+ 0.05% : window shade
+ 0.05% : jackfruit
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q045.jpg
+92.71% : lemon
+ 0.16% : orange
+ 0.14% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.05% : gong
+ 0.05% : window shade
+ 0.05% : jackfruit
+ 0.05% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q046.jpg
+92.87% : lemon
+ 0.13% : window screen
+ 0.13% : orange
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.05% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q047.jpg
+92.85% : lemon
+ 0.13% : window screen
+ 0.13% : orange
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.05% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q048.jpg
+92.51% : lemon
+ 0.14% : window screen
+ 0.14% : orange
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.09% : prison
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.05% : fire screen
+ 0.05% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q049.jpg
+93.17% : lemon
+ 0.15% : orange
+ 0.14% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.08% : prison
+ 0.05% : window shade
+ 0.05% : black widow
+ 0.05% : jackfruit
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q050.jpg
+93.17% : lemon
+ 0.15% : orange
+ 0.14% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.08% : prison
+ 0.05% : window shade
+ 0.05% : black widow
+ 0.05% : jackfruit
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q051.jpg
+93.17% : lemon
+ 0.15% : orange
+ 0.14% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.08% : prison
+ 0.05% : window shade
+ 0.05% : black widow
+ 0.05% : jackfruit
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q052.jpg
+92.82% : lemon
+ 0.16% : orange
+ 0.14% : window screen
+ 0.11% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.05% : jackfruit
+ 0.05% : window shade
+ 0.05% : fire screen
+ 0.05% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q053.jpg
+92.94% : lemon
+ 0.16% : orange
+ 0.14% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.05% : window shade
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q054.jpg
+92.92% : lemon
+ 0.16% : orange
+ 0.14% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.05% : window shade
+ 0.05% : jackfruit
+ 0.05% : black widow
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q055.jpg
+93.05% : lemon
+ 0.13% : orange
+ 0.12% : window screen
+ 0.10% : spaghetti squash
+ 0.10% : dough
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : gong
+ 0.05% : fire screen
+ 0.05% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q056.jpg
+93.40% : lemon
+ 0.13% : orange
+ 0.12% : window screen
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : gong
+ 0.04% : shoji
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q057.jpg
+93.24% : lemon
+ 0.13% : window screen
+ 0.13% : orange
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : gong
+ 0.05% : shoji
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q058.jpg
+92.60% : lemon
+ 0.17% : orange
+ 0.14% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.05% : jackfruit
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q059.jpg
+92.61% : lemon
+ 0.17% : orange
+ 0.14% : window screen
+ 0.09% : spaghetti squash
+ 0.09% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.05% : jackfruit
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q060.jpg
+92.64% : lemon
+ 0.17% : orange
+ 0.14% : window screen
+ 0.09% : spaghetti squash
+ 0.09% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.05% : jackfruit
+ 0.05% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q061.jpg
+93.92% : lemon
+ 0.14% : orange
+ 0.11% : window screen
+ 0.08% : spaghetti squash
+ 0.08% : dough
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : fire screen
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q062.jpg
+94.09% : lemon
+ 0.14% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.05% : window shade
+ 0.04% : gong
+ 0.04% : fire screen
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q063.jpg
+93.84% : lemon
+ 0.14% : orange
+ 0.10% : window screen
+ 0.08% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : gong
+ 0.04% : fire screen
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q064.jpg
+93.54% : lemon
+ 0.15% : orange
+ 0.11% : window screen
+ 0.09% : spaghetti squash
+ 0.09% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.04% : fire screen
+ 0.04% : gong
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q065.jpg
+93.50% : lemon
+ 0.16% : orange
+ 0.12% : window screen
+ 0.08% : spaghetti squash
+ 0.08% : dough
+ 0.08% : prison
+ 0.06% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q066.jpg
+93.41% : lemon
+ 0.16% : orange
+ 0.12% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.08% : prison
+ 0.07% : window shade
+ 0.04% : jackfruit
+ 0.04% : fire screen
+ 0.04% : shoji
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q067.jpg
+93.41% : lemon
+ 0.15% : orange
+ 0.13% : window screen
+ 0.09% : dough
+ 0.08% : prison
+ 0.08% : spaghetti squash
+ 0.07% : window shade
+ 0.04% : shoji
+ 0.04% : fire screen
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q068.jpg
+93.08% : lemon
+ 0.15% : orange
+ 0.12% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : black widow
+ 0.04% : gong
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q069.jpg
+92.75% : lemon
+ 0.16% : orange
+ 0.13% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.08% : prison
+ 0.07% : window shade
+ 0.05% : black widow
+ 0.05% : jackfruit
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q070.jpg
+93.17% : lemon
+ 0.15% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : gong
+ 0.04% : fire screen
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q071.jpg
+93.19% : lemon
+ 0.16% : orange
+ 0.12% : window screen
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : fire screen
+ 0.05% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q072.jpg
+93.32% : lemon
+ 0.15% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : fire screen
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q073.jpg
+93.99% : lemon
+ 0.13% : orange
+ 0.11% : window screen
+ 0.08% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.06% : window shade
+ 0.04% : fire screen
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q074.jpg
+93.65% : lemon
+ 0.13% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.06% : window shade
+ 0.04% : fire screen
+ 0.04% : shoji
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q075.jpg
+93.63% : lemon
+ 0.13% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.06% : window shade
+ 0.04% : fire screen
+ 0.04% : shoji
+ 0.04% : black widow
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q076.jpg
+93.36% : lemon
+ 0.15% : orange
+ 0.11% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.05% : fire screen
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q077.jpg
+93.08% : lemon
+ 0.15% : orange
+ 0.13% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : fire screen
+ 0.05% : shoji
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q078.jpg
+92.91% : lemon
+ 0.16% : orange
+ 0.12% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : prison
+ 0.07% : window shade
+ 0.05% : shoji
+ 0.05% : fire screen
+ 0.05% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q079.jpg
+92.93% : lemon
+ 0.17% : orange
+ 0.12% : window screen
+ 0.10% : dough
+ 0.09% : spaghetti squash
+ 0.08% : prison
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.05% : fire screen
+ 0.05% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q080.jpg
+93.45% : lemon
+ 0.15% : orange
+ 0.11% : window screen
+ 0.10% : dough
+ 0.08% : prison
+ 0.08% : spaghetti squash
+ 0.06% : window shade
+ 0.05% : shoji
+ 0.04% : fire screen
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q081.jpg
+93.67% : lemon
+ 0.15% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.07% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : fire screen
+ 0.05% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q082.jpg
+93.59% : lemon
+ 0.15% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : fire screen
+ 0.05% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q083.jpg
+93.80% : lemon
+ 0.14% : orange
+ 0.10% : window screen
+ 0.08% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.06% : window shade
+ 0.04% : shoji
+ 0.04% : gong
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q084.jpg
+93.21% : lemon
+ 0.14% : orange
+ 0.11% : window screen
+ 0.09% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : jackfruit
+ 0.04% : shoji
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q085.jpg
+92.95% : lemon
+ 0.14% : orange
+ 0.12% : window screen
+ 0.10% : spaghetti squash
+ 0.09% : dough
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : jackfruit
+ 0.05% : shoji
+ 0.05% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q086.jpg
+93.19% : lemon
+ 0.16% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.09% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.05% : jackfruit
+ 0.04% : shoji
+ 0.04% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q087.jpg
+93.68% : lemon
+ 0.17% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.05% : jackfruit
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q088.jpg
+93.76% : lemon
+ 0.16% : orange
+ 0.11% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q089.jpg
+93.92% : lemon
+ 0.16% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q090.jpg
+93.54% : lemon
+ 0.16% : orange
+ 0.11% : window screen
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.06% : window shade
+ 0.04% : jackfruit
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q091.jpg
+93.64% : lemon
+ 0.15% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.08% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q092.jpg
+93.48% : lemon
+ 0.16% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.07% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : gong
+ 0.04% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q093.jpg
+94.08% : lemon
+ 0.15% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.05% : window shade
+ 0.04% : jackfruit
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q094.jpg
+94.41% : lemon
+ 0.14% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.08% : spaghetti squash
+ 0.06% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q095.jpg
+94.77% : lemon
+ 0.14% : orange
+ 0.10% : dough
+ 0.09% : window screen
+ 0.07% : spaghetti squash
+ 0.06% : prison
+ 0.05% : window shade
+ 0.04% : jackfruit
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q096.jpg
+94.41% : lemon
+ 0.16% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.07% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : jackfruit
+ 0.04% : shoji
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q097.jpg
+94.35% : lemon
+ 0.15% : orange
+ 0.10% : window screen
+ 0.10% : dough
+ 0.07% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : jackfruit
+ 0.04% : shoji
+ 0.04% : fire screen
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q098.jpg
+94.41% : lemon
+ 0.15% : orange
+ 0.10% : dough
+ 0.09% : window screen
+ 0.07% : spaghetti squash
+ 0.06% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q099.jpg
+94.44% : lemon
+ 0.16% : orange
+ 0.10% : window screen
+ 0.09% : dough
+ 0.07% : prison
+ 0.07% : spaghetti squash
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.04% : gong
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon19Q100.jpg
+94.49% : lemon
+ 0.15% : orange
+ 0.10% : dough
+ 0.09% : window screen
+ 0.07% : spaghetti squash
+ 0.07% : prison
+ 0.05% : window shade
+ 0.04% : shoji
+ 0.04% : jackfruit
+ 0.03% : gong

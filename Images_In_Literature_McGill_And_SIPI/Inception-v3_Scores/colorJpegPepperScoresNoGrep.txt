@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ001.jpg
+19.55% : bell pepper
+18.61% : strawberry
+ 6.35% : hotdog
+ 5.55% : cucumber
+ 2.70% : Granny Smith
+ 2.08% : head cabbage
+ 1.96% : zucchini
+ 1.64% : hip
+ 1.43% : tree frog
+ 1.18% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ002.jpg
+20.79% : bell pepper
+16.78% : strawberry
+ 6.53% : hotdog
+ 5.84% : cucumber
+ 2.76% : Granny Smith
+ 2.17% : zucchini
+ 1.82% : head cabbage
+ 1.56% : hip
+ 1.33% : tree frog
+ 1.15% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ003.jpg
+78.78% : bell pepper
+ 5.03% : strawberry
+ 1.62% : hip
+ 1.62% : tree frog
+ 1.38% : tailed frog
+ 0.97% : cucumber
+ 0.69% : Granny Smith
+ 0.64% : hotdog
+ 0.37% : banana
+ 0.32% : ant
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ004.jpg
+96.21% : bell pepper
+ 0.31% : corn
+ 0.29% : strawberry
+ 0.23% : cucumber
+ 0.13% : Granny Smith
+ 0.13% : banana
+ 0.13% : tree frog
+ 0.12% : ear
+ 0.11% : grocery store
+ 0.10% : tailed frog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ005.jpg
+98.98% : bell pepper
+ 0.07% : cucumber
+ 0.06% : grocery store
+ 0.05% : strawberry
+ 0.04% : hip
+ 0.04% : banana
+ 0.03% : candle
+ 0.03% : tray
+ 0.02% : Granny Smith
+ 0.02% : hotdog
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ006.jpg
+99.10% : bell pepper
+ 0.14% : cucumber
+ 0.09% : grocery store
+ 0.07% : corn
+ 0.03% : Granny Smith
+ 0.03% : banana
+ 0.02% : ear
+ 0.02% : hip
+ 0.01% : candle
+ 0.01% : strawberry
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ007.jpg
+95.27% : bell pepper
+ 0.43% : grocery store
+ 0.34% : Granny Smith
+ 0.26% : cucumber
+ 0.14% : corn
+ 0.11% : banana
+ 0.08% : ear
+ 0.06% : tray
+ 0.05% : pomegranate
+ 0.05% : strawberry
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ008.jpg
+95.92% : bell pepper
+ 0.23% : grocery store
+ 0.18% : cucumber
+ 0.11% : Granny Smith
+ 0.10% : corn
+ 0.06% : ear
+ 0.05% : banana
+ 0.03% : zucchini
+ 0.03% : jackfruit
+ 0.03% : tray
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ009.jpg
+94.07% : bell pepper
+ 0.22% : grocery store
+ 0.20% : cucumber
+ 0.06% : corn
+ 0.06% : Granny Smith
+ 0.04% : zucchini
+ 0.04% : ear
+ 0.03% : banana
+ 0.03% : cauliflower
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ010.jpg
+94.97% : bell pepper
+ 0.26% : grocery store
+ 0.22% : cucumber
+ 0.07% : Granny Smith
+ 0.04% : zucchini
+ 0.04% : acorn squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ011.jpg
+93.77% : bell pepper
+ 0.29% : grocery store
+ 0.25% : cucumber
+ 0.07% : Granny Smith
+ 0.06% : acorn squash
+ 0.06% : banana
+ 0.06% : zucchini
+ 0.06% : butternut squash
+ 0.05% : corn
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ012.jpg
+89.40% : bell pepper
+ 0.23% : grocery store
+ 0.22% : cucumber
+ 0.07% : zucchini
+ 0.07% : acorn squash
+ 0.07% : Granny Smith
+ 0.06% : banana
+ 0.06% : jackfruit
+ 0.05% : ear
+ 0.05% : pomegranate
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ013.jpg
+83.78% : bell pepper
+ 0.44% : grocery store
+ 0.43% : cucumber
+ 0.19% : zucchini
+ 0.17% : Granny Smith
+ 0.16% : banana
+ 0.10% : acorn squash
+ 0.09% : butternut squash
+ 0.08% : ear
+ 0.07% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ014.jpg
+89.63% : bell pepper
+ 0.31% : grocery store
+ 0.27% : cucumber
+ 0.10% : Granny Smith
+ 0.09% : acorn squash
+ 0.09% : zucchini
+ 0.07% : pomegranate
+ 0.06% : banana
+ 0.06% : ear
+ 0.05% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ015.jpg
+88.54% : bell pepper
+ 0.25% : grocery store
+ 0.25% : cucumber
+ 0.10% : acorn squash
+ 0.09% : Granny Smith
+ 0.08% : zucchini
+ 0.08% : pomegranate
+ 0.07% : banana
+ 0.06% : butternut squash
+ 0.05% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ016.jpg
+88.00% : bell pepper
+ 0.37% : grocery store
+ 0.31% : cucumber
+ 0.12% : Granny Smith
+ 0.11% : zucchini
+ 0.11% : banana
+ 0.10% : acorn squash
+ 0.09% : corn
+ 0.08% : ear
+ 0.07% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ017.jpg
+89.42% : bell pepper
+ 0.29% : grocery store
+ 0.23% : cucumber
+ 0.08% : acorn squash
+ 0.07% : pomegranate
+ 0.07% : zucchini
+ 0.06% : Granny Smith
+ 0.06% : banana
+ 0.05% : jackfruit
+ 0.05% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ018.jpg
+90.49% : bell pepper
+ 0.24% : grocery store
+ 0.18% : cucumber
+ 0.08% : acorn squash
+ 0.05% : zucchini
+ 0.05% : pomegranate
+ 0.05% : Granny Smith
+ 0.04% : jackfruit
+ 0.04% : butternut squash
+ 0.04% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ019.jpg
+88.80% : bell pepper
+ 0.34% : grocery store
+ 0.30% : cucumber
+ 0.11% : acorn squash
+ 0.09% : zucchini
+ 0.07% : butternut squash
+ 0.07% : banana
+ 0.06% : Granny Smith
+ 0.06% : ear
+ 0.05% : pomegranate
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ020.jpg
+91.67% : bell pepper
+ 0.33% : grocery store
+ 0.23% : cucumber
+ 0.08% : acorn squash
+ 0.07% : banana
+ 0.06% : zucchini
+ 0.05% : Granny Smith
+ 0.05% : butternut squash
+ 0.04% : pomegranate
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ021.jpg
+91.02% : bell pepper
+ 0.35% : grocery store
+ 0.21% : cucumber
+ 0.09% : acorn squash
+ 0.06% : zucchini
+ 0.05% : butternut squash
+ 0.05% : ear
+ 0.04% : banana
+ 0.04% : Granny Smith
+ 0.04% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ022.jpg
+91.81% : bell pepper
+ 0.26% : grocery store
+ 0.19% : cucumber
+ 0.06% : zucchini
+ 0.05% : acorn squash
+ 0.05% : Granny Smith
+ 0.05% : banana
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ023.jpg
+92.18% : bell pepper
+ 0.22% : grocery store
+ 0.16% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.05% : Granny Smith
+ 0.04% : ear
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.04% : corn
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ024.jpg
+90.79% : bell pepper
+ 0.28% : grocery store
+ 0.22% : cucumber
+ 0.07% : zucchini
+ 0.07% : acorn squash
+ 0.05% : butternut squash
+ 0.05% : Granny Smith
+ 0.05% : banana
+ 0.04% : pomegranate
+ 0.04% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ025.jpg
+88.76% : bell pepper
+ 0.34% : grocery store
+ 0.23% : cucumber
+ 0.08% : zucchini
+ 0.06% : acorn squash
+ 0.05% : pomegranate
+ 0.05% : jackfruit
+ 0.04% : bearskin
+ 0.04% : ear
+ 0.04% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ026.jpg
+91.33% : bell pepper
+ 0.25% : grocery store
+ 0.17% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.05% : pomegranate
+ 0.04% : jackfruit
+ 0.04% : banana
+ 0.04% : bearskin
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ027.jpg
+91.37% : bell pepper
+ 0.28% : grocery store
+ 0.19% : cucumber
+ 0.07% : acorn squash
+ 0.05% : zucchini
+ 0.05% : pomegranate
+ 0.04% : butternut squash
+ 0.04% : banana
+ 0.04% : jackfruit
+ 0.04% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ028.jpg
+92.08% : bell pepper
+ 0.29% : grocery store
+ 0.20% : cucumber
+ 0.06% : zucchini
+ 0.06% : acorn squash
+ 0.04% : butternut squash
+ 0.04% : banana
+ 0.04% : pomegranate
+ 0.04% : jackfruit
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ029.jpg
+91.87% : bell pepper
+ 0.28% : grocery store
+ 0.18% : cucumber
+ 0.05% : zucchini
+ 0.05% : acorn squash
+ 0.04% : pomegranate
+ 0.04% : jackfruit
+ 0.04% : banana
+ 0.03% : butternut squash
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ030.jpg
+91.94% : bell pepper
+ 0.27% : grocery store
+ 0.18% : cucumber
+ 0.07% : acorn squash
+ 0.05% : pomegranate
+ 0.04% : zucchini
+ 0.04% : butternut squash
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ031.jpg
+92.27% : bell pepper
+ 0.26% : grocery store
+ 0.15% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : ear
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ032.jpg
+92.38% : bell pepper
+ 0.26% : grocery store
+ 0.18% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : pomegranate
+ 0.03% : ear
+ 0.03% : chimpanzee
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ033.jpg
+88.91% : bell pepper
+ 0.39% : grocery store
+ 0.26% : cucumber
+ 0.09% : zucchini
+ 0.08% : acorn squash
+ 0.06% : butternut squash
+ 0.05% : banana
+ 0.05% : pomegranate
+ 0.05% : ear
+ 0.05% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ034.jpg
+92.21% : bell pepper
+ 0.34% : grocery store
+ 0.24% : cucumber
+ 0.07% : zucchini
+ 0.07% : acorn squash
+ 0.05% : butternut squash
+ 0.04% : ear
+ 0.04% : jackfruit
+ 0.04% : pomegranate
+ 0.04% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ035.jpg
+91.59% : bell pepper
+ 0.28% : grocery store
+ 0.18% : cucumber
+ 0.06% : zucchini
+ 0.05% : acorn squash
+ 0.04% : butternut squash
+ 0.04% : jackfruit
+ 0.03% : pomegranate
+ 0.03% : ear
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ036.jpg
+90.39% : bell pepper
+ 0.28% : grocery store
+ 0.20% : cucumber
+ 0.07% : acorn squash
+ 0.06% : zucchini
+ 0.05% : pomegranate
+ 0.04% : jackfruit
+ 0.04% : butternut squash
+ 0.04% : ear
+ 0.03% : loudspeaker
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ037.jpg
+92.08% : bell pepper
+ 0.24% : grocery store
+ 0.18% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : pomegranate
+ 0.04% : butternut squash
+ 0.04% : jackfruit
+ 0.03% : ear
+ 0.03% : loudspeaker
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ038.jpg
+91.27% : bell pepper
+ 0.22% : grocery store
+ 0.18% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : pomegranate
+ 0.04% : jackfruit
+ 0.04% : butternut squash
+ 0.03% : ear
+ 0.03% : loudspeaker
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ039.jpg
+91.93% : bell pepper
+ 0.24% : grocery store
+ 0.16% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : pomegranate
+ 0.04% : jackfruit
+ 0.03% : ear
+ 0.03% : butternut squash
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ040.jpg
+90.87% : bell pepper
+ 0.25% : grocery store
+ 0.19% : cucumber
+ 0.06% : acorn squash
+ 0.06% : zucchini
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.04% : jackfruit
+ 0.04% : ear
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ041.jpg
+92.52% : bell pepper
+ 0.24% : grocery store
+ 0.14% : cucumber
+ 0.06% : acorn squash
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ042.jpg
+91.89% : bell pepper
+ 0.26% : grocery store
+ 0.15% : cucumber
+ 0.06% : acorn squash
+ 0.04% : zucchini
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.03% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ043.jpg
+92.51% : bell pepper
+ 0.26% : grocery store
+ 0.14% : cucumber
+ 0.06% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.03% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ044.jpg
+91.86% : bell pepper
+ 0.28% : grocery store
+ 0.15% : cucumber
+ 0.06% : acorn squash
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : bearskin
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : chimpanzee
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ045.jpg
+89.90% : bell pepper
+ 0.32% : grocery store
+ 0.18% : cucumber
+ 0.08% : acorn squash
+ 0.05% : zucchini
+ 0.05% : pomegranate
+ 0.05% : bearskin
+ 0.04% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : loudspeaker
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ046.jpg
+91.32% : bell pepper
+ 0.31% : grocery store
+ 0.17% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ047.jpg
+91.29% : bell pepper
+ 0.33% : grocery store
+ 0.18% : cucumber
+ 0.07% : acorn squash
+ 0.05% : zucchini
+ 0.04% : butternut squash
+ 0.04% : bearskin
+ 0.04% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ048.jpg
+91.48% : bell pepper
+ 0.29% : grocery store
+ 0.19% : cucumber
+ 0.07% : acorn squash
+ 0.06% : zucchini
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.04% : bearskin
+ 0.03% : corn
+ 0.03% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ049.jpg
+92.25% : bell pepper
+ 0.27% : grocery store
+ 0.18% : cucumber
+ 0.08% : acorn squash
+ 0.06% : zucchini
+ 0.05% : butternut squash
+ 0.04% : pomegranate
+ 0.03% : Granny Smith
+ 0.03% : corn
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ050.jpg
+92.62% : bell pepper
+ 0.25% : grocery store
+ 0.17% : cucumber
+ 0.07% : acorn squash
+ 0.05% : zucchini
+ 0.05% : butternut squash
+ 0.04% : pomegranate
+ 0.03% : Granny Smith
+ 0.03% : corn
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ051.jpg
+92.57% : bell pepper
+ 0.24% : grocery store
+ 0.17% : cucumber
+ 0.07% : acorn squash
+ 0.05% : zucchini
+ 0.04% : butternut squash
+ 0.04% : pomegranate
+ 0.03% : Granny Smith
+ 0.03% : corn
+ 0.03% : ear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ052.jpg
+92.56% : bell pepper
+ 0.24% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : Granny Smith
+ 0.03% : bearskin
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ053.jpg
+92.33% : bell pepper
+ 0.25% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.03% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ054.jpg
+92.76% : bell pepper
+ 0.24% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : Granny Smith
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ055.jpg
+93.24% : bell pepper
+ 0.21% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ056.jpg
+92.81% : bell pepper
+ 0.21% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : Granny Smith
+ 0.02% : passenger car
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ057.jpg
+93.21% : bell pepper
+ 0.21% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.02% : passenger car
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ058.jpg
+92.99% : bell pepper
+ 0.21% : grocery store
+ 0.12% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : bearskin
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ059.jpg
+92.72% : bell pepper
+ 0.21% : grocery store
+ 0.11% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : passenger car
+ 0.02% : Great Dane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ060.jpg
+92.66% : bell pepper
+ 0.20% : grocery store
+ 0.11% : cucumber
+ 0.05% : acorn squash
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.02% : Great Dane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ061.jpg
+92.02% : bell pepper
+ 0.20% : grocery store
+ 0.10% : cucumber
+ 0.05% : acorn squash
+ 0.04% : pomegranate
+ 0.03% : zucchini
+ 0.03% : passenger car
+ 0.03% : bearskin
+ 0.03% : Great Dane
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ062.jpg
+90.97% : bell pepper
+ 0.21% : grocery store
+ 0.11% : cucumber
+ 0.05% : acorn squash
+ 0.04% : pomegranate
+ 0.04% : zucchini
+ 0.03% : passenger car
+ 0.03% : Great Dane
+ 0.03% : jackfruit
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ063.jpg
+91.94% : bell pepper
+ 0.22% : grocery store
+ 0.11% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : passenger car
+ 0.03% : jackfruit
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ064.jpg
+93.31% : bell pepper
+ 0.19% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : passenger car
+ 0.02% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ065.jpg
+94.19% : bell pepper
+ 0.16% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : butternut squash
+ 0.03% : pomegranate
+ 0.02% : banana
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ066.jpg
+94.17% : bell pepper
+ 0.16% : grocery store
+ 0.09% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.02% : banana
+ 0.02% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : Granny Smith
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ067.jpg
+94.21% : bell pepper
+ 0.17% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.03% : pomegranate
+ 0.03% : zucchini
+ 0.03% : banana
+ 0.03% : butternut squash
+ 0.02% : Granny Smith
+ 0.02% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ068.jpg
+93.47% : bell pepper
+ 0.18% : grocery store
+ 0.11% : cucumber
+ 0.04% : acorn squash
+ 0.03% : pomegranate
+ 0.03% : zucchini
+ 0.03% : banana
+ 0.03% : butternut squash
+ 0.03% : Granny Smith
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ069.jpg
+91.83% : bell pepper
+ 0.24% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : banana
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ070.jpg
+90.48% : bell pepper
+ 0.25% : grocery store
+ 0.14% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : pomegranate
+ 0.04% : butternut squash
+ 0.04% : banana
+ 0.04% : jackfruit
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ071.jpg
+91.05% : bell pepper
+ 0.26% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : banana
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.03% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ072.jpg
+91.93% : bell pepper
+ 0.26% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : banana
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ073.jpg
+91.16% : bell pepper
+ 0.28% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.04% : banana
+ 0.03% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.03% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ074.jpg
+91.51% : bell pepper
+ 0.26% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : banana
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : jack-o'-lantern
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ075.jpg
+91.24% : bell pepper
+ 0.26% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : banana
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : bearskin
+ 0.03% : jack-o'-lantern
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ076.jpg
+91.56% : bell pepper
+ 0.24% : grocery store
+ 0.11% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.04% : pomegranate
+ 0.03% : bearskin
+ 0.03% : banana
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ077.jpg
+89.76% : bell pepper
+ 0.32% : grocery store
+ 0.14% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.04% : jackfruit
+ 0.04% : butternut squash
+ 0.04% : banana
+ 0.04% : pomegranate
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ078.jpg
+90.06% : bell pepper
+ 0.29% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.04% : jackfruit
+ 0.04% : butternut squash
+ 0.04% : banana
+ 0.04% : pomegranate
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ079.jpg
+90.59% : bell pepper
+ 0.27% : grocery store
+ 0.14% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.04% : pomegranate
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ080.jpg
+90.42% : bell pepper
+ 0.28% : grocery store
+ 0.13% : cucumber
+ 0.06% : acorn squash
+ 0.05% : zucchini
+ 0.04% : butternut squash
+ 0.04% : bearskin
+ 0.04% : jackfruit
+ 0.04% : pomegranate
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ081.jpg
+88.79% : bell pepper
+ 0.31% : grocery store
+ 0.15% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.04% : jackfruit
+ 0.04% : pomegranate
+ 0.04% : banana
+ 0.04% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ082.jpg
+89.62% : bell pepper
+ 0.29% : grocery store
+ 0.14% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.04% : pomegranate
+ 0.04% : banana
+ 0.04% : jackfruit
+ 0.04% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ083.jpg
+91.44% : bell pepper
+ 0.23% : grocery store
+ 0.12% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.03% : pomegranate
+ 0.03% : passenger car
+ 0.03% : Norfolk terrier
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ084.jpg
+91.07% : bell pepper
+ 0.24% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.04% : bearskin
+ 0.03% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : banana
+ 0.03% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ085.jpg
+91.62% : bell pepper
+ 0.23% : grocery store
+ 0.12% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.03% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : bearskin
+ 0.03% : banana
+ 0.03% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ086.jpg
+91.80% : bell pepper
+ 0.24% : grocery store
+ 0.11% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.03% : banana
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ087.jpg
+90.89% : bell pepper
+ 0.23% : grocery store
+ 0.13% : cucumber
+ 0.05% : acorn squash
+ 0.05% : zucchini
+ 0.04% : bearskin
+ 0.03% : pomegranate
+ 0.03% : banana
+ 0.03% : jackfruit
+ 0.03% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ088.jpg
+92.70% : bell pepper
+ 0.18% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : bearskin
+ 0.03% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : passenger car
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ089.jpg
+92.54% : bell pepper
+ 0.19% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : passenger car
+ 0.03% : bearskin
+ 0.03% : banana
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ090.jpg
+92.82% : bell pepper
+ 0.17% : grocery store
+ 0.09% : cucumber
+ 0.04% : acorn squash
+ 0.03% : zucchini
+ 0.03% : pomegranate
+ 0.03% : jackfruit
+ 0.03% : banana
+ 0.03% : passenger car
+ 0.03% : bearskin
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ091.jpg
+94.04% : bell pepper
+ 0.18% : grocery store
+ 0.08% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.02% : bearskin
+ 0.02% : jackfruit
+ 0.02% : pomegranate
+ 0.02% : Norfolk terrier
+ 0.02% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ092.jpg
+93.58% : bell pepper
+ 0.17% : grocery store
+ 0.08% : cucumber
+ 0.03% : acorn squash
+ 0.03% : zucchini
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.02% : Norfolk terrier
+ 0.02% : pomegranate
+ 0.02% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ093.jpg
+93.06% : bell pepper
+ 0.18% : grocery store
+ 0.08% : cucumber
+ 0.03% : bearskin
+ 0.03% : zucchini
+ 0.03% : acorn squash
+ 0.03% : jackfruit
+ 0.03% : Norfolk terrier
+ 0.03% : passenger car
+ 0.02% : pomegranate
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ094.jpg
+93.28% : bell pepper
+ 0.20% : grocery store
+ 0.09% : cucumber
+ 0.03% : acorn squash
+ 0.03% : bearskin
+ 0.03% : zucchini
+ 0.03% : jackfruit
+ 0.02% : Labrador retriever
+ 0.02% : Norfolk terrier
+ 0.02% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ095.jpg
+91.86% : bell pepper
+ 0.24% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.03% : Labrador retriever
+ 0.03% : passenger car
+ 0.03% : jack-o'-lantern
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ096.jpg
+91.06% : bell pepper
+ 0.24% : grocery store
+ 0.11% : cucumber
+ 0.05% : acorn squash
+ 0.04% : zucchini
+ 0.04% : jackfruit
+ 0.04% : bearskin
+ 0.03% : jack-o'-lantern
+ 0.03% : pomegranate
+ 0.03% : butternut squash
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ097.jpg
+91.78% : bell pepper
+ 0.21% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : bearskin
+ 0.03% : jackfruit
+ 0.03% : jack-o'-lantern
+ 0.03% : pomegranate
+ 0.03% : passenger car
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ098.jpg
+92.09% : bell pepper
+ 0.22% : grocery store
+ 0.09% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.03% : bearskin
+ 0.03% : jackfruit
+ 0.03% : jack-o'-lantern
+ 0.03% : pomegranate
+ 0.03% : Great Dane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ099.jpg
+91.84% : bell pepper
+ 0.21% : grocery store
+ 0.10% : cucumber
+ 0.04% : acorn squash
+ 0.04% : bearskin
+ 0.03% : zucchini
+ 0.03% : jackfruit
+ 0.03% : jack-o'-lantern
+ 0.03% : pomegranate
+ 0.03% : Great Dane
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorPepperQ100.jpg
+91.96% : bell pepper
+ 0.21% : grocery store
+ 0.09% : cucumber
+ 0.04% : acorn squash
+ 0.04% : zucchini
+ 0.04% : bearskin
+ 0.03% : jackfruit
+ 0.03% : jack-o'-lantern
+ 0.03% : pomegranate
+ 0.03% : Great Dane

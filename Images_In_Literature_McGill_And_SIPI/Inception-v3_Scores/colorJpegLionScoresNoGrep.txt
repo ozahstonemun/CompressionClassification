@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ001.jpg
+69.31% : lion
+ 3.87% : dhole
+ 3.01% : cheetah
+ 1.61% : jaguar
+ 1.31% : cougar
+ 1.06% : coyote
+ 1.01% : chow
+ 0.65% : brown bear
+ 0.58% : red wolf
+ 0.53% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ002.jpg
+68.95% : lion
+ 3.88% : dhole
+ 3.03% : cheetah
+ 1.59% : jaguar
+ 1.31% : cougar
+ 1.07% : coyote
+ 1.05% : chow
+ 0.65% : brown bear
+ 0.58% : red wolf
+ 0.53% : dingo
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ003.jpg
+73.34% : lion
+ 5.15% : dhole
+ 1.90% : chow
+ 1.09% : cheetah
+ 1.06% : cougar
+ 0.95% : brown bear
+ 0.76% : jaguar
+ 0.67% : tiger
+ 0.65% : dingo
+ 0.64% : red wolf
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ004.jpg
+73.63% : lion
+ 2.60% : cougar
+ 2.53% : jaguar
+ 1.01% : dhole
+ 0.86% : cheetah
+ 0.80% : brown bear
+ 0.69% : chow
+ 0.67% : leopard
+ 0.47% : tiger
+ 0.31% : red wolf
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ005.jpg
+95.10% : lion
+ 0.50% : cougar
+ 0.26% : jaguar
+ 0.26% : leopard
+ 0.09% : cheetah
+ 0.09% : dhole
+ 0.08% : tiger
+ 0.06% : snow leopard
+ 0.06% : lynx
+ 0.04% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ006.jpg
+85.13% : lion
+ 4.94% : cougar
+ 0.61% : jaguar
+ 0.32% : leopard
+ 0.17% : tiger
+ 0.14% : snow leopard
+ 0.08% : sundial
+ 0.08% : cheetah
+ 0.08% : pencil box
+ 0.07% : cellular telephone
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ007.jpg
+71.91% : lion
+16.31% : cougar
+ 1.74% : jaguar
+ 0.54% : leopard
+ 0.45% : tiger
+ 0.22% : cheetah
+ 0.22% : snow leopard
+ 0.20% : lynx
+ 0.11% : sundial
+ 0.09% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ008.jpg
+61.84% : lion
+17.69% : cougar
+ 3.31% : jaguar
+ 0.43% : cheetah
+ 0.37% : leopard
+ 0.31% : tiger
+ 0.19% : snow leopard
+ 0.15% : lynx
+ 0.11% : sorrel
+ 0.10% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ009.jpg
+73.92% : lion
+ 9.61% : cougar
+ 2.17% : jaguar
+ 0.45% : leopard
+ 0.34% : cheetah
+ 0.27% : tiger
+ 0.20% : snow leopard
+ 0.18% : lynx
+ 0.12% : sundial
+ 0.10% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ010.jpg
+85.09% : lion
+ 5.59% : cougar
+ 0.54% : jaguar
+ 0.21% : leopard
+ 0.17% : cheetah
+ 0.09% : tiger
+ 0.08% : snow leopard
+ 0.07% : pencil box
+ 0.07% : lynx
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ011.jpg
+92.96% : lion
+ 1.50% : cougar
+ 0.40% : jaguar
+ 0.17% : leopard
+ 0.11% : cheetah
+ 0.10% : tiger
+ 0.07% : lynx
+ 0.06% : snow leopard
+ 0.06% : sundial
+ 0.04% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ012.jpg
+84.68% : lion
+ 6.89% : cougar
+ 0.77% : jaguar
+ 0.34% : leopard
+ 0.17% : tiger
+ 0.16% : cheetah
+ 0.13% : snow leopard
+ 0.13% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ013.jpg
+93.14% : lion
+ 1.49% : cougar
+ 0.36% : jaguar
+ 0.20% : leopard
+ 0.10% : cheetah
+ 0.09% : tiger
+ 0.06% : snow leopard
+ 0.05% : sundial
+ 0.05% : lynx
+ 0.04% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ014.jpg
+94.82% : lion
+ 0.61% : cougar
+ 0.18% : jaguar
+ 0.10% : leopard
+ 0.09% : cheetah
+ 0.05% : dhole
+ 0.05% : tiger
+ 0.04% : lynx
+ 0.04% : sundial
+ 0.03% : snow leopard
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ015.jpg
+92.09% : lion
+ 1.21% : cougar
+ 0.43% : jaguar
+ 0.18% : cheetah
+ 0.15% : leopard
+ 0.08% : impala
+ 0.08% : tiger
+ 0.06% : lynx
+ 0.06% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ016.jpg
+87.57% : lion
+ 3.44% : cougar
+ 0.82% : jaguar
+ 0.25% : leopard
+ 0.21% : cheetah
+ 0.11% : tiger
+ 0.10% : snow leopard
+ 0.09% : lynx
+ 0.08% : sundial
+ 0.06% : impala
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ017.jpg
+90.18% : lion
+ 1.60% : cougar
+ 0.50% : jaguar
+ 0.20% : cheetah
+ 0.15% : leopard
+ 0.08% : lynx
+ 0.08% : tiger
+ 0.08% : sundial
+ 0.06% : dhole
+ 0.06% : impala
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ018.jpg
+92.22% : lion
+ 1.04% : cougar
+ 0.35% : jaguar
+ 0.16% : leopard
+ 0.12% : cheetah
+ 0.08% : tiger
+ 0.06% : impala
+ 0.06% : sundial
+ 0.06% : lynx
+ 0.05% : snow leopard
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ019.jpg
+89.04% : lion
+ 1.24% : cougar
+ 0.49% : jaguar
+ 0.22% : leopard
+ 0.21% : cheetah
+ 0.12% : impala
+ 0.11% : tiger
+ 0.11% : lynx
+ 0.09% : sundial
+ 0.08% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ020.jpg
+92.38% : lion
+ 0.66% : cougar
+ 0.29% : jaguar
+ 0.16% : leopard
+ 0.14% : cheetah
+ 0.09% : impala
+ 0.08% : lynx
+ 0.08% : tiger
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ021.jpg
+91.71% : lion
+ 1.14% : cougar
+ 0.25% : jaguar
+ 0.14% : leopard
+ 0.14% : cheetah
+ 0.08% : impala
+ 0.08% : tiger
+ 0.06% : lynx
+ 0.06% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ022.jpg
+92.62% : lion
+ 0.87% : cougar
+ 0.24% : jaguar
+ 0.13% : cheetah
+ 0.12% : leopard
+ 0.08% : lynx
+ 0.08% : impala
+ 0.07% : dhole
+ 0.07% : tiger
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ023.jpg
+91.89% : lion
+ 0.96% : cougar
+ 0.26% : jaguar
+ 0.13% : cheetah
+ 0.12% : leopard
+ 0.11% : impala
+ 0.08% : tiger
+ 0.07% : dhole
+ 0.07% : lynx
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ024.jpg
+91.18% : lion
+ 1.10% : cougar
+ 0.31% : jaguar
+ 0.14% : leopard
+ 0.13% : cheetah
+ 0.09% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.07% : dhole
+ 0.07% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ025.jpg
+92.67% : lion
+ 0.94% : cougar
+ 0.35% : jaguar
+ 0.17% : leopard
+ 0.12% : cheetah
+ 0.09% : tiger
+ 0.07% : lynx
+ 0.05% : impala
+ 0.05% : dhole
+ 0.05% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ026.jpg
+91.76% : lion
+ 1.10% : cougar
+ 0.31% : jaguar
+ 0.14% : leopard
+ 0.11% : cheetah
+ 0.10% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+ 0.05% : pencil box
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ027.jpg
+89.72% : lion
+ 1.27% : cougar
+ 0.57% : jaguar
+ 0.23% : leopard
+ 0.21% : cheetah
+ 0.13% : tiger
+ 0.09% : lynx
+ 0.08% : impala
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ028.jpg
+88.76% : lion
+ 1.36% : cougar
+ 0.40% : jaguar
+ 0.17% : cheetah
+ 0.15% : leopard
+ 0.13% : impala
+ 0.10% : lynx
+ 0.09% : tiger
+ 0.09% : dhole
+ 0.07% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ029.jpg
+90.32% : lion
+ 1.08% : cougar
+ 0.33% : jaguar
+ 0.17% : cheetah
+ 0.14% : leopard
+ 0.10% : impala
+ 0.09% : lynx
+ 0.08% : tiger
+ 0.08% : dhole
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ030.jpg
+90.77% : lion
+ 1.29% : cougar
+ 0.39% : jaguar
+ 0.18% : cheetah
+ 0.15% : leopard
+ 0.11% : tiger
+ 0.10% : lynx
+ 0.09% : impala
+ 0.08% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ031.jpg
+91.64% : lion
+ 0.96% : cougar
+ 0.34% : jaguar
+ 0.18% : cheetah
+ 0.14% : leopard
+ 0.11% : lynx
+ 0.10% : impala
+ 0.10% : tiger
+ 0.08% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ032.jpg
+89.65% : lion
+ 1.58% : cougar
+ 0.54% : jaguar
+ 0.25% : cheetah
+ 0.17% : leopard
+ 0.12% : lynx
+ 0.11% : tiger
+ 0.10% : impala
+ 0.09% : dhole
+ 0.07% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ033.jpg
+89.22% : lion
+ 1.37% : cougar
+ 0.59% : jaguar
+ 0.27% : cheetah
+ 0.18% : leopard
+ 0.12% : tiger
+ 0.10% : lynx
+ 0.09% : impala
+ 0.08% : dhole
+ 0.06% : zebra
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ034.jpg
+91.08% : lion
+ 0.84% : cougar
+ 0.36% : jaguar
+ 0.18% : cheetah
+ 0.14% : leopard
+ 0.09% : tiger
+ 0.08% : impala
+ 0.07% : lynx
+ 0.07% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ035.jpg
+89.95% : lion
+ 1.30% : cougar
+ 0.44% : jaguar
+ 0.19% : cheetah
+ 0.17% : leopard
+ 0.10% : tiger
+ 0.09% : lynx
+ 0.08% : impala
+ 0.07% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ036.jpg
+87.83% : lion
+ 1.71% : cougar
+ 0.58% : jaguar
+ 0.26% : cheetah
+ 0.19% : leopard
+ 0.12% : tiger
+ 0.11% : lynx
+ 0.10% : impala
+ 0.09% : dhole
+ 0.07% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ037.jpg
+87.15% : lion
+ 2.04% : cougar
+ 0.62% : jaguar
+ 0.31% : cheetah
+ 0.20% : leopard
+ 0.13% : lynx
+ 0.13% : tiger
+ 0.12% : impala
+ 0.10% : dhole
+ 0.07% : zebra
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ038.jpg
+88.46% : lion
+ 1.78% : cougar
+ 0.54% : jaguar
+ 0.25% : cheetah
+ 0.20% : leopard
+ 0.12% : tiger
+ 0.11% : lynx
+ 0.11% : impala
+ 0.08% : dhole
+ 0.06% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ039.jpg
+89.57% : lion
+ 1.12% : cougar
+ 0.39% : jaguar
+ 0.23% : cheetah
+ 0.16% : leopard
+ 0.12% : impala
+ 0.11% : tiger
+ 0.09% : lynx
+ 0.07% : dhole
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ040.jpg
+90.92% : lion
+ 0.78% : cougar
+ 0.32% : jaguar
+ 0.17% : cheetah
+ 0.13% : leopard
+ 0.10% : impala
+ 0.10% : tiger
+ 0.08% : lynx
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ041.jpg
+90.57% : lion
+ 1.03% : cougar
+ 0.39% : jaguar
+ 0.18% : cheetah
+ 0.14% : leopard
+ 0.11% : tiger
+ 0.09% : impala
+ 0.08% : lynx
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ042.jpg
+91.50% : lion
+ 0.92% : cougar
+ 0.35% : jaguar
+ 0.19% : cheetah
+ 0.14% : leopard
+ 0.10% : tiger
+ 0.08% : lynx
+ 0.08% : impala
+ 0.06% : dhole
+ 0.05% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ043.jpg
+91.33% : lion
+ 0.88% : cougar
+ 0.32% : jaguar
+ 0.18% : cheetah
+ 0.14% : leopard
+ 0.10% : tiger
+ 0.08% : lynx
+ 0.08% : impala
+ 0.06% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ044.jpg
+90.59% : lion
+ 1.00% : cougar
+ 0.35% : jaguar
+ 0.21% : cheetah
+ 0.13% : leopard
+ 0.10% : tiger
+ 0.10% : impala
+ 0.09% : lynx
+ 0.06% : dhole
+ 0.05% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ045.jpg
+89.10% : lion
+ 1.29% : cougar
+ 0.53% : jaguar
+ 0.27% : cheetah
+ 0.17% : leopard
+ 0.13% : tiger
+ 0.12% : lynx
+ 0.10% : impala
+ 0.07% : dhole
+ 0.06% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ046.jpg
+90.43% : lion
+ 1.03% : cougar
+ 0.40% : jaguar
+ 0.22% : cheetah
+ 0.13% : leopard
+ 0.11% : tiger
+ 0.10% : lynx
+ 0.08% : impala
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ047.jpg
+91.15% : lion
+ 0.95% : cougar
+ 0.38% : jaguar
+ 0.20% : cheetah
+ 0.14% : leopard
+ 0.11% : tiger
+ 0.10% : lynx
+ 0.08% : impala
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ048.jpg
+91.88% : lion
+ 0.86% : cougar
+ 0.32% : jaguar
+ 0.17% : cheetah
+ 0.13% : leopard
+ 0.10% : tiger
+ 0.09% : lynx
+ 0.07% : impala
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ049.jpg
+90.85% : lion
+ 1.04% : cougar
+ 0.40% : jaguar
+ 0.19% : cheetah
+ 0.15% : leopard
+ 0.10% : tiger
+ 0.10% : lynx
+ 0.07% : impala
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ050.jpg
+90.68% : lion
+ 0.98% : cougar
+ 0.41% : jaguar
+ 0.20% : cheetah
+ 0.16% : leopard
+ 0.10% : tiger
+ 0.10% : lynx
+ 0.08% : impala
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ051.jpg
+90.53% : lion
+ 1.03% : cougar
+ 0.43% : jaguar
+ 0.20% : cheetah
+ 0.16% : leopard
+ 0.11% : tiger
+ 0.10% : lynx
+ 0.08% : impala
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ052.jpg
+90.69% : lion
+ 0.95% : cougar
+ 0.36% : jaguar
+ 0.19% : cheetah
+ 0.15% : leopard
+ 0.10% : tiger
+ 0.09% : impala
+ 0.09% : lynx
+ 0.06% : dhole
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ053.jpg
+89.65% : lion
+ 1.13% : cougar
+ 0.45% : jaguar
+ 0.19% : cheetah
+ 0.17% : leopard
+ 0.12% : tiger
+ 0.10% : impala
+ 0.09% : lynx
+ 0.07% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ054.jpg
+90.05% : lion
+ 1.10% : cougar
+ 0.41% : jaguar
+ 0.18% : cheetah
+ 0.16% : leopard
+ 0.11% : tiger
+ 0.09% : impala
+ 0.09% : lynx
+ 0.07% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ055.jpg
+91.66% : lion
+ 0.68% : cougar
+ 0.26% : jaguar
+ 0.15% : cheetah
+ 0.11% : leopard
+ 0.09% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ056.jpg
+92.38% : lion
+ 0.53% : cougar
+ 0.21% : jaguar
+ 0.14% : cheetah
+ 0.11% : leopard
+ 0.08% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ057.jpg
+92.29% : lion
+ 0.47% : cougar
+ 0.20% : jaguar
+ 0.13% : cheetah
+ 0.10% : leopard
+ 0.08% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ058.jpg
+91.72% : lion
+ 0.69% : cougar
+ 0.24% : jaguar
+ 0.15% : cheetah
+ 0.11% : leopard
+ 0.08% : tiger
+ 0.07% : impala
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ059.jpg
+91.22% : lion
+ 0.69% : cougar
+ 0.24% : jaguar
+ 0.14% : cheetah
+ 0.11% : leopard
+ 0.08% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ060.jpg
+90.74% : lion
+ 0.70% : cougar
+ 0.26% : jaguar
+ 0.16% : cheetah
+ 0.11% : leopard
+ 0.08% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ061.jpg
+90.12% : lion
+ 0.85% : cougar
+ 0.31% : jaguar
+ 0.18% : cheetah
+ 0.13% : leopard
+ 0.09% : tiger
+ 0.09% : impala
+ 0.08% : lynx
+ 0.07% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ062.jpg
+90.73% : lion
+ 0.72% : cougar
+ 0.29% : jaguar
+ 0.17% : cheetah
+ 0.13% : leopard
+ 0.09% : tiger
+ 0.09% : impala
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ063.jpg
+90.92% : lion
+ 0.79% : cougar
+ 0.27% : jaguar
+ 0.17% : cheetah
+ 0.13% : leopard
+ 0.09% : impala
+ 0.08% : tiger
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ064.jpg
+91.19% : lion
+ 0.64% : cougar
+ 0.24% : jaguar
+ 0.16% : cheetah
+ 0.11% : leopard
+ 0.09% : impala
+ 0.07% : tiger
+ 0.06% : sundial
+ 0.06% : lynx
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ065.jpg
+91.43% : lion
+ 0.63% : cougar
+ 0.26% : jaguar
+ 0.17% : cheetah
+ 0.12% : leopard
+ 0.09% : impala
+ 0.08% : tiger
+ 0.06% : sundial
+ 0.06% : lynx
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ066.jpg
+91.53% : lion
+ 0.61% : cougar
+ 0.24% : jaguar
+ 0.17% : cheetah
+ 0.11% : leopard
+ 0.09% : impala
+ 0.07% : tiger
+ 0.06% : sundial
+ 0.06% : lynx
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ067.jpg
+91.03% : lion
+ 0.63% : cougar
+ 0.24% : jaguar
+ 0.16% : cheetah
+ 0.10% : leopard
+ 0.08% : impala
+ 0.07% : tiger
+ 0.07% : sundial
+ 0.06% : lynx
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ068.jpg
+91.85% : lion
+ 0.56% : cougar
+ 0.22% : jaguar
+ 0.15% : cheetah
+ 0.11% : leopard
+ 0.08% : impala
+ 0.07% : tiger
+ 0.06% : sundial
+ 0.05% : lynx
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ069.jpg
+91.95% : lion
+ 0.61% : cougar
+ 0.21% : jaguar
+ 0.15% : cheetah
+ 0.10% : leopard
+ 0.08% : impala
+ 0.06% : tiger
+ 0.06% : sundial
+ 0.06% : lynx
+ 0.04% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ070.jpg
+91.88% : lion
+ 0.53% : cougar
+ 0.20% : jaguar
+ 0.15% : cheetah
+ 0.10% : leopard
+ 0.08% : impala
+ 0.06% : sundial
+ 0.06% : tiger
+ 0.05% : lynx
+ 0.04% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ071.jpg
+91.36% : lion
+ 0.65% : cougar
+ 0.24% : jaguar
+ 0.17% : cheetah
+ 0.10% : leopard
+ 0.09% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ072.jpg
+90.79% : lion
+ 0.64% : cougar
+ 0.27% : jaguar
+ 0.18% : cheetah
+ 0.11% : leopard
+ 0.10% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ073.jpg
+90.30% : lion
+ 0.74% : cougar
+ 0.33% : jaguar
+ 0.23% : cheetah
+ 0.13% : impala
+ 0.12% : leopard
+ 0.09% : tiger
+ 0.09% : lynx
+ 0.06% : hartebeest
+ 0.06% : sundial
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ074.jpg
+90.72% : lion
+ 0.79% : cougar
+ 0.32% : jaguar
+ 0.23% : cheetah
+ 0.12% : impala
+ 0.12% : leopard
+ 0.09% : lynx
+ 0.08% : tiger
+ 0.07% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ075.jpg
+90.78% : lion
+ 0.87% : cougar
+ 0.32% : jaguar
+ 0.21% : cheetah
+ 0.12% : leopard
+ 0.11% : impala
+ 0.08% : tiger
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ076.jpg
+90.90% : lion
+ 0.87% : cougar
+ 0.29% : jaguar
+ 0.19% : cheetah
+ 0.12% : leopard
+ 0.10% : impala
+ 0.08% : lynx
+ 0.08% : tiger
+ 0.06% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ077.jpg
+91.43% : lion
+ 0.85% : cougar
+ 0.27% : jaguar
+ 0.17% : cheetah
+ 0.11% : leopard
+ 0.09% : impala
+ 0.07% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ078.jpg
+90.21% : lion
+ 0.96% : cougar
+ 0.33% : jaguar
+ 0.19% : cheetah
+ 0.13% : leopard
+ 0.10% : impala
+ 0.09% : lynx
+ 0.09% : tiger
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ079.jpg
+90.42% : lion
+ 0.98% : cougar
+ 0.34% : jaguar
+ 0.18% : cheetah
+ 0.13% : leopard
+ 0.10% : tiger
+ 0.09% : lynx
+ 0.09% : impala
+ 0.06% : sundial
+ 0.06% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ080.jpg
+90.34% : lion
+ 1.00% : cougar
+ 0.35% : jaguar
+ 0.18% : cheetah
+ 0.12% : leopard
+ 0.11% : tiger
+ 0.10% : impala
+ 0.09% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ081.jpg
+89.69% : lion
+ 1.12% : cougar
+ 0.36% : jaguar
+ 0.18% : cheetah
+ 0.12% : leopard
+ 0.11% : tiger
+ 0.10% : impala
+ 0.09% : lynx
+ 0.07% : sundial
+ 0.06% : sorrel
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ082.jpg
+90.16% : lion
+ 0.97% : cougar
+ 0.34% : jaguar
+ 0.19% : cheetah
+ 0.13% : leopard
+ 0.11% : impala
+ 0.11% : tiger
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ083.jpg
+90.46% : lion
+ 1.05% : cougar
+ 0.34% : jaguar
+ 0.19% : cheetah
+ 0.13% : leopard
+ 0.11% : impala
+ 0.09% : tiger
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ084.jpg
+91.01% : lion
+ 0.88% : cougar
+ 0.31% : jaguar
+ 0.18% : cheetah
+ 0.13% : leopard
+ 0.11% : impala
+ 0.09% : tiger
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ085.jpg
+91.38% : lion
+ 0.85% : cougar
+ 0.28% : jaguar
+ 0.17% : cheetah
+ 0.13% : leopard
+ 0.11% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ086.jpg
+91.65% : lion
+ 0.71% : cougar
+ 0.25% : jaguar
+ 0.15% : cheetah
+ 0.12% : leopard
+ 0.10% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ087.jpg
+90.27% : lion
+ 0.76% : cougar
+ 0.29% : jaguar
+ 0.17% : cheetah
+ 0.12% : impala
+ 0.12% : leopard
+ 0.09% : tiger
+ 0.07% : sundial
+ 0.07% : lynx
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ088.jpg
+90.27% : lion
+ 0.82% : cougar
+ 0.33% : jaguar
+ 0.19% : cheetah
+ 0.13% : impala
+ 0.12% : leopard
+ 0.10% : tiger
+ 0.08% : lynx
+ 0.07% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ089.jpg
+90.46% : lion
+ 0.78% : cougar
+ 0.31% : jaguar
+ 0.19% : cheetah
+ 0.14% : impala
+ 0.12% : leopard
+ 0.08% : tiger
+ 0.06% : sundial
+ 0.06% : lynx
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ090.jpg
+90.52% : lion
+ 0.75% : cougar
+ 0.33% : jaguar
+ 0.21% : cheetah
+ 0.13% : impala
+ 0.13% : leopard
+ 0.10% : tiger
+ 0.08% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ091.jpg
+91.25% : lion
+ 0.65% : cougar
+ 0.28% : jaguar
+ 0.17% : cheetah
+ 0.12% : impala
+ 0.12% : leopard
+ 0.09% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ092.jpg
+91.25% : lion
+ 0.78% : cougar
+ 0.29% : jaguar
+ 0.17% : cheetah
+ 0.11% : leopard
+ 0.10% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ093.jpg
+91.05% : lion
+ 0.75% : cougar
+ 0.29% : jaguar
+ 0.17% : cheetah
+ 0.10% : leopard
+ 0.10% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ094.jpg
+91.32% : lion
+ 0.74% : cougar
+ 0.27% : jaguar
+ 0.16% : cheetah
+ 0.10% : leopard
+ 0.09% : impala
+ 0.08% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ095.jpg
+90.53% : lion
+ 0.87% : cougar
+ 0.32% : jaguar
+ 0.18% : cheetah
+ 0.11% : leopard
+ 0.10% : impala
+ 0.09% : tiger
+ 0.08% : lynx
+ 0.07% : sundial
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ096.jpg
+89.75% : lion
+ 0.97% : cougar
+ 0.39% : jaguar
+ 0.20% : cheetah
+ 0.12% : leopard
+ 0.11% : tiger
+ 0.11% : impala
+ 0.08% : lynx
+ 0.07% : sundial
+ 0.06% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ097.jpg
+90.80% : lion
+ 0.79% : cougar
+ 0.33% : jaguar
+ 0.18% : cheetah
+ 0.11% : leopard
+ 0.11% : impala
+ 0.10% : tiger
+ 0.07% : lynx
+ 0.07% : sundial
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ098.jpg
+91.49% : lion
+ 0.66% : cougar
+ 0.27% : jaguar
+ 0.16% : cheetah
+ 0.10% : leopard
+ 0.09% : impala
+ 0.09% : tiger
+ 0.07% : sundial
+ 0.07% : lynx
+ 0.05% : dhole
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ099.jpg
+91.32% : lion
+ 0.70% : cougar
+ 0.28% : jaguar
+ 0.17% : cheetah
+ 0.10% : leopard
+ 0.09% : impala
+ 0.09% : tiger
+ 0.07% : sundial
+ 0.07% : lynx
+ 0.05% : hartebeest
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorLionQ100.jpg
+91.35% : lion
+ 0.71% : cougar
+ 0.28% : jaguar
+ 0.16% : cheetah
+ 0.10% : leopard
+ 0.10% : impala
+ 0.09% : tiger
+ 0.07% : lynx
+ 0.06% : sundial
+ 0.05% : hartebeest

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ001.jpg
+31.76% : zucchini
+16.89% : cucumber
+ 1.56% : slide rule
+ 0.92% : chain saw
+ 0.74% : ear
+ 0.63% : paddle
+ 0.58% : bath towel
+ 0.54% : rule
+ 0.43% : scabbard
+ 0.35% : ski
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ002.jpg
+28.14% : zucchini
+16.88% : cucumber
+ 1.60% : slide rule
+ 0.93% : chain saw
+ 0.75% : ear
+ 0.58% : paddle
+ 0.55% : bath towel
+ 0.52% : rule
+ 0.43% : scabbard
+ 0.34% : ski
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ003.jpg
+17.45% : cucumber
+16.99% : zucchini
+ 1.89% : slide rule
+ 1.39% : chain saw
+ 0.98% : ear
+ 0.87% : scabbard
+ 0.84% : rule
+ 0.53% : paddle
+ 0.49% : pole
+ 0.39% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ004.jpg
+33.87% : zucchini
+22.09% : cucumber
+ 0.50% : slide rule
+ 0.44% : rule
+ 0.43% : ear
+ 0.26% : pole
+ 0.25% : vine snake
+ 0.21% : gar
+ 0.20% : meat loaf
+ 0.19% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ005.jpg
+42.01% : zucchini
+19.86% : cucumber
+ 0.65% : ear
+ 0.40% : slide rule
+ 0.19% : rule
+ 0.18% : spaghetti squash
+ 0.16% : mosquito net
+ 0.16% : corn
+ 0.16% : meat loaf
+ 0.15% : leafhopper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ006.jpg
+40.26% : zucchini
+15.49% : cucumber
+ 0.69% : slide rule
+ 0.62% : ear
+ 0.55% : rule
+ 0.29% : leafhopper
+ 0.24% : library
+ 0.22% : head cabbage
+ 0.19% : bookcase
+ 0.18% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ007.jpg
+35.14% : zucchini
+22.18% : cucumber
+ 1.54% : rule
+ 1.08% : ear
+ 0.75% : slide rule
+ 0.33% : rubber eraser
+ 0.32% : library
+ 0.29% : broom
+ 0.28% : ballpoint
+ 0.28% : pole
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ008.jpg
+36.47% : zucchini
+29.45% : cucumber
+ 0.86% : ear
+ 0.62% : rule
+ 0.43% : slide rule
+ 0.28% : leafhopper
+ 0.23% : gar
+ 0.21% : library
+ 0.20% : bookcase
+ 0.18% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ009.jpg
+35.31% : cucumber
+23.49% : zucchini
+ 0.79% : ear
+ 0.51% : rule
+ 0.42% : slide rule
+ 0.37% : leafhopper
+ 0.27% : canoe
+ 0.22% : head cabbage
+ 0.21% : mosquito net
+ 0.21% : library
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ010.jpg
+23.48% : zucchini
+19.83% : cucumber
+ 1.12% : ear
+ 0.61% : rule
+ 0.47% : slide rule
+ 0.46% : leafhopper
+ 0.34% : drumstick
+ 0.30% : vine snake
+ 0.30% : canoe
+ 0.29% : head cabbage
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ011.jpg
+29.53% : zucchini
+18.89% : cucumber
+ 0.73% : ear
+ 0.33% : slide rule
+ 0.27% : leafhopper
+ 0.27% : head cabbage
+ 0.24% : vine snake
+ 0.23% : mosquito net
+ 0.21% : canoe
+ 0.19% : rule
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ012.jpg
+21.70% : zucchini
+20.42% : cucumber
+ 0.73% : ear
+ 0.43% : slide rule
+ 0.35% : rule
+ 0.32% : head cabbage
+ 0.31% : leafhopper
+ 0.30% : library
+ 0.27% : vine snake
+ 0.25% : mosquito net
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ013.jpg
+28.39% : zucchini
+21.90% : cucumber
+ 0.90% : ear
+ 0.59% : slide rule
+ 0.28% : head cabbage
+ 0.28% : leafhopper
+ 0.26% : mosquito net
+ 0.23% : rule
+ 0.22% : library
+ 0.21% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ014.jpg
+28.10% : zucchini
+23.19% : cucumber
+ 0.69% : ear
+ 0.51% : slide rule
+ 0.32% : head cabbage
+ 0.26% : leafhopper
+ 0.25% : vine snake
+ 0.22% : rule
+ 0.21% : monitor
+ 0.21% : mosquito net
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ015.jpg
+26.20% : cucumber
+25.67% : zucchini
+ 0.63% : ear
+ 0.49% : slide rule
+ 0.35% : head cabbage
+ 0.25% : leafhopper
+ 0.23% : vine snake
+ 0.22% : rule
+ 0.22% : library
+ 0.21% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ016.jpg
+31.29% : zucchini
+14.36% : cucumber
+ 0.62% : ear
+ 0.53% : slide rule
+ 0.32% : library
+ 0.32% : head cabbage
+ 0.31% : rule
+ 0.31% : leafhopper
+ 0.24% : monitor
+ 0.23% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ017.jpg
+26.56% : zucchini
+13.35% : cucumber
+ 0.62% : ear
+ 0.55% : slide rule
+ 0.37% : head cabbage
+ 0.37% : rule
+ 0.37% : library
+ 0.30% : leafhopper
+ 0.26% : vine snake
+ 0.25% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ018.jpg
+32.20% : zucchini
+22.00% : cucumber
+ 0.56% : ear
+ 0.35% : slide rule
+ 0.33% : head cabbage
+ 0.25% : library
+ 0.22% : leafhopper
+ 0.21% : rule
+ 0.20% : vine snake
+ 0.19% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ019.jpg
+32.13% : zucchini
+19.99% : cucumber
+ 0.62% : ear
+ 0.37% : slide rule
+ 0.30% : head cabbage
+ 0.27% : library
+ 0.23% : leafhopper
+ 0.22% : vine snake
+ 0.21% : rule
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ020.jpg
+30.74% : zucchini
+18.50% : cucumber
+ 0.66% : ear
+ 0.42% : slide rule
+ 0.32% : head cabbage
+ 0.26% : library
+ 0.25% : vine snake
+ 0.25% : leafhopper
+ 0.21% : rule
+ 0.21% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ021.jpg
+38.53% : zucchini
+17.63% : cucumber
+ 0.75% : ear
+ 0.38% : slide rule
+ 0.32% : head cabbage
+ 0.21% : library
+ 0.21% : spaghetti squash
+ 0.20% : monitor
+ 0.19% : vine snake
+ 0.18% : leafhopper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ022.jpg
+40.08% : zucchini
+18.62% : cucumber
+ 0.60% : ear
+ 0.33% : slide rule
+ 0.30% : head cabbage
+ 0.20% : library
+ 0.20% : spaghetti squash
+ 0.19% : leafhopper
+ 0.19% : vine snake
+ 0.19% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ023.jpg
+40.11% : zucchini
+18.06% : cucumber
+ 0.62% : ear
+ 0.35% : slide rule
+ 0.31% : head cabbage
+ 0.23% : library
+ 0.20% : vine snake
+ 0.20% : monitor
+ 0.20% : leafhopper
+ 0.19% : mosquito net
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ024.jpg
+36.80% : zucchini
+17.64% : cucumber
+ 0.69% : ear
+ 0.40% : slide rule
+ 0.29% : head cabbage
+ 0.24% : leafhopper
+ 0.23% : library
+ 0.19% : spaghetti squash
+ 0.19% : file
+ 0.18% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ025.jpg
+40.63% : zucchini
+17.90% : cucumber
+ 0.59% : ear
+ 0.33% : slide rule
+ 0.25% : head cabbage
+ 0.20% : leafhopper
+ 0.19% : library
+ 0.18% : vine snake
+ 0.18% : canoe
+ 0.17% : file
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ026.jpg
+39.01% : zucchini
+16.85% : cucumber
+ 0.65% : ear
+ 0.35% : slide rule
+ 0.26% : head cabbage
+ 0.22% : library
+ 0.21% : leafhopper
+ 0.19% : bookcase
+ 0.18% : monitor
+ 0.18% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ027.jpg
+37.52% : zucchini
+17.02% : cucumber
+ 0.62% : ear
+ 0.34% : slide rule
+ 0.30% : head cabbage
+ 0.26% : library
+ 0.22% : leafhopper
+ 0.21% : rule
+ 0.20% : canoe
+ 0.20% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ028.jpg
+37.00% : zucchini
+16.04% : cucumber
+ 0.76% : ear
+ 0.37% : slide rule
+ 0.28% : head cabbage
+ 0.27% : leafhopper
+ 0.26% : library
+ 0.21% : bookcase
+ 0.20% : rule
+ 0.20% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ029.jpg
+34.44% : zucchini
+16.77% : cucumber
+ 0.79% : ear
+ 0.46% : slide rule
+ 0.29% : leafhopper
+ 0.28% : library
+ 0.28% : head cabbage
+ 0.24% : rule
+ 0.22% : bookcase
+ 0.21% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ030.jpg
+34.19% : zucchini
+14.62% : cucumber
+ 0.83% : ear
+ 0.61% : slide rule
+ 0.37% : leafhopper
+ 0.34% : rule
+ 0.31% : head cabbage
+ 0.29% : library
+ 0.23% : canoe
+ 0.22% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ031.jpg
+32.52% : zucchini
+12.58% : cucumber
+ 0.94% : ear
+ 0.54% : slide rule
+ 0.38% : leafhopper
+ 0.35% : rule
+ 0.34% : library
+ 0.33% : head cabbage
+ 0.25% : bookcase
+ 0.25% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ032.jpg
+31.36% : zucchini
+16.50% : cucumber
+ 0.95% : ear
+ 0.54% : slide rule
+ 0.35% : leafhopper
+ 0.33% : rule
+ 0.30% : head cabbage
+ 0.29% : library
+ 0.24% : vine snake
+ 0.24% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ033.jpg
+30.49% : zucchini
+15.91% : cucumber
+ 0.84% : ear
+ 0.49% : slide rule
+ 0.33% : leafhopper
+ 0.32% : rule
+ 0.31% : head cabbage
+ 0.30% : library
+ 0.25% : vine snake
+ 0.25% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ034.jpg
+28.44% : zucchini
+15.77% : cucumber
+ 0.86% : ear
+ 0.48% : slide rule
+ 0.35% : leafhopper
+ 0.32% : head cabbage
+ 0.31% : rule
+ 0.31% : library
+ 0.27% : vine snake
+ 0.25% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ035.jpg
+26.74% : zucchini
+16.30% : cucumber
+ 0.76% : ear
+ 0.55% : slide rule
+ 0.37% : leafhopper
+ 0.36% : rule
+ 0.30% : head cabbage
+ 0.29% : vine snake
+ 0.28% : library
+ 0.26% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ036.jpg
+27.95% : zucchini
+16.83% : cucumber
+ 0.74% : ear
+ 0.54% : slide rule
+ 0.36% : leafhopper
+ 0.36% : rule
+ 0.33% : library
+ 0.27% : head cabbage
+ 0.26% : vine snake
+ 0.25% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ037.jpg
+28.03% : zucchini
+17.47% : cucumber
+ 0.71% : ear
+ 0.50% : slide rule
+ 0.38% : leafhopper
+ 0.33% : rule
+ 0.32% : library
+ 0.27% : head cabbage
+ 0.25% : vine snake
+ 0.24% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ038.jpg
+27.52% : zucchini
+17.13% : cucumber
+ 0.77% : ear
+ 0.49% : slide rule
+ 0.39% : leafhopper
+ 0.30% : rule
+ 0.30% : library
+ 0.27% : head cabbage
+ 0.24% : monitor
+ 0.23% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ039.jpg
+25.10% : zucchini
+20.11% : cucumber
+ 0.69% : ear
+ 0.47% : slide rule
+ 0.35% : leafhopper
+ 0.29% : library
+ 0.28% : rule
+ 0.27% : head cabbage
+ 0.25% : vine snake
+ 0.22% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ040.jpg
+25.32% : zucchini
+19.89% : cucumber
+ 0.65% : ear
+ 0.46% : slide rule
+ 0.32% : leafhopper
+ 0.32% : library
+ 0.28% : rule
+ 0.27% : head cabbage
+ 0.26% : vine snake
+ 0.23% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ041.jpg
+27.23% : zucchini
+18.18% : cucumber
+ 0.65% : ear
+ 0.46% : slide rule
+ 0.36% : leafhopper
+ 0.31% : library
+ 0.29% : rule
+ 0.28% : vine snake
+ 0.27% : head cabbage
+ 0.23% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ042.jpg
+25.45% : zucchini
+18.88% : cucumber
+ 0.66% : ear
+ 0.51% : slide rule
+ 0.38% : leafhopper
+ 0.35% : rule
+ 0.32% : library
+ 0.29% : vine snake
+ 0.27% : head cabbage
+ 0.25% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ043.jpg
+27.00% : zucchini
+18.85% : cucumber
+ 0.67% : ear
+ 0.56% : slide rule
+ 0.40% : leafhopper
+ 0.37% : rule
+ 0.32% : library
+ 0.27% : head cabbage
+ 0.27% : vine snake
+ 0.23% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ044.jpg
+27.06% : zucchini
+18.90% : cucumber
+ 0.65% : ear
+ 0.48% : slide rule
+ 0.40% : leafhopper
+ 0.37% : rule
+ 0.33% : library
+ 0.27% : head cabbage
+ 0.26% : vine snake
+ 0.25% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ045.jpg
+26.43% : zucchini
+20.63% : cucumber
+ 0.68% : ear
+ 0.46% : slide rule
+ 0.38% : leafhopper
+ 0.33% : rule
+ 0.30% : library
+ 0.26% : vine snake
+ 0.25% : head cabbage
+ 0.24% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ046.jpg
+31.24% : zucchini
+20.39% : cucumber
+ 0.67% : ear
+ 0.41% : slide rule
+ 0.32% : leafhopper
+ 0.29% : library
+ 0.28% : rule
+ 0.25% : head cabbage
+ 0.24% : vine snake
+ 0.24% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ047.jpg
+31.03% : zucchini
+19.12% : cucumber
+ 0.70% : ear
+ 0.43% : slide rule
+ 0.34% : leafhopper
+ 0.31% : library
+ 0.29% : rule
+ 0.25% : head cabbage
+ 0.25% : bookcase
+ 0.24% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ048.jpg
+31.96% : zucchini
+18.42% : cucumber
+ 0.68% : ear
+ 0.42% : slide rule
+ 0.32% : leafhopper
+ 0.32% : library
+ 0.30% : rule
+ 0.27% : head cabbage
+ 0.26% : bookcase
+ 0.24% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ049.jpg
+33.30% : zucchini
+15.66% : cucumber
+ 0.70% : ear
+ 0.43% : slide rule
+ 0.33% : library
+ 0.31% : leafhopper
+ 0.29% : rule
+ 0.26% : head cabbage
+ 0.23% : bookcase
+ 0.22% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ050.jpg
+33.72% : zucchini
+16.06% : cucumber
+ 0.69% : ear
+ 0.42% : slide rule
+ 0.33% : library
+ 0.31% : leafhopper
+ 0.29% : rule
+ 0.25% : head cabbage
+ 0.23% : bookcase
+ 0.22% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ051.jpg
+32.86% : zucchini
+15.89% : cucumber
+ 0.72% : ear
+ 0.45% : slide rule
+ 0.34% : library
+ 0.33% : leafhopper
+ 0.31% : rule
+ 0.25% : head cabbage
+ 0.23% : bookcase
+ 0.23% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ052.jpg
+30.04% : zucchini
+18.58% : cucumber
+ 0.73% : ear
+ 0.48% : slide rule
+ 0.36% : leafhopper
+ 0.31% : library
+ 0.31% : rule
+ 0.25% : bookcase
+ 0.24% : head cabbage
+ 0.24% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ053.jpg
+29.66% : zucchini
+18.26% : cucumber
+ 0.76% : ear
+ 0.47% : slide rule
+ 0.36% : leafhopper
+ 0.32% : library
+ 0.31% : rule
+ 0.25% : bookcase
+ 0.24% : monitor
+ 0.24% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ054.jpg
+29.67% : zucchini
+18.71% : cucumber
+ 0.74% : ear
+ 0.47% : slide rule
+ 0.36% : leafhopper
+ 0.32% : library
+ 0.31% : rule
+ 0.26% : bookcase
+ 0.24% : head cabbage
+ 0.24% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ055.jpg
+30.11% : zucchini
+20.32% : cucumber
+ 0.75% : ear
+ 0.41% : slide rule
+ 0.33% : leafhopper
+ 0.29% : library
+ 0.26% : rule
+ 0.25% : head cabbage
+ 0.23% : vine snake
+ 0.23% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ056.jpg
+32.50% : zucchini
+19.84% : cucumber
+ 0.71% : ear
+ 0.39% : slide rule
+ 0.30% : leafhopper
+ 0.27% : library
+ 0.25% : head cabbage
+ 0.24% : rule
+ 0.23% : vine snake
+ 0.22% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ057.jpg
+32.50% : zucchini
+20.81% : cucumber
+ 0.71% : ear
+ 0.37% : slide rule
+ 0.28% : leafhopper
+ 0.27% : library
+ 0.25% : head cabbage
+ 0.23% : rule
+ 0.22% : bookcase
+ 0.22% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ058.jpg
+35.96% : zucchini
+20.47% : cucumber
+ 0.69% : ear
+ 0.35% : slide rule
+ 0.27% : library
+ 0.25% : head cabbage
+ 0.25% : leafhopper
+ 0.21% : spaghetti squash
+ 0.21% : rule
+ 0.20% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ059.jpg
+34.00% : zucchini
+19.58% : cucumber
+ 0.74% : ear
+ 0.38% : slide rule
+ 0.28% : library
+ 0.27% : head cabbage
+ 0.27% : leafhopper
+ 0.22% : rule
+ 0.22% : vine snake
+ 0.22% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ060.jpg
+33.17% : zucchini
+21.76% : cucumber
+ 0.74% : ear
+ 0.38% : slide rule
+ 0.27% : library
+ 0.26% : head cabbage
+ 0.26% : leafhopper
+ 0.22% : rule
+ 0.21% : vine snake
+ 0.21% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ061.jpg
+31.36% : zucchini
+22.20% : cucumber
+ 0.75% : ear
+ 0.39% : slide rule
+ 0.27% : leafhopper
+ 0.26% : head cabbage
+ 0.26% : library
+ 0.22% : rule
+ 0.21% : vine snake
+ 0.21% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ062.jpg
+32.64% : zucchini
+22.00% : cucumber
+ 0.74% : ear
+ 0.37% : slide rule
+ 0.27% : library
+ 0.26% : leafhopper
+ 0.25% : head cabbage
+ 0.21% : vine snake
+ 0.21% : rule
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ063.jpg
+34.28% : zucchini
+20.90% : cucumber
+ 0.72% : ear
+ 0.36% : slide rule
+ 0.28% : library
+ 0.26% : leafhopper
+ 0.26% : head cabbage
+ 0.23% : rule
+ 0.20% : vine snake
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ064.jpg
+33.78% : zucchini
+20.09% : cucumber
+ 0.70% : ear
+ 0.38% : slide rule
+ 0.29% : library
+ 0.27% : head cabbage
+ 0.26% : leafhopper
+ 0.25% : rule
+ 0.21% : vine snake
+ 0.21% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ065.jpg
+31.87% : zucchini
+19.16% : cucumber
+ 0.69% : ear
+ 0.40% : slide rule
+ 0.31% : library
+ 0.29% : rule
+ 0.27% : leafhopper
+ 0.26% : head cabbage
+ 0.22% : vine snake
+ 0.22% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ066.jpg
+33.94% : zucchini
+19.96% : cucumber
+ 0.66% : ear
+ 0.39% : slide rule
+ 0.30% : library
+ 0.27% : rule
+ 0.26% : head cabbage
+ 0.25% : leafhopper
+ 0.21% : bookcase
+ 0.21% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ067.jpg
+36.45% : zucchini
+17.46% : cucumber
+ 0.68% : ear
+ 0.39% : slide rule
+ 0.31% : library
+ 0.29% : rule
+ 0.26% : leafhopper
+ 0.26% : head cabbage
+ 0.22% : bookcase
+ 0.21% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ068.jpg
+34.70% : zucchini
+18.58% : cucumber
+ 0.71% : ear
+ 0.38% : slide rule
+ 0.30% : library
+ 0.27% : rule
+ 0.27% : leafhopper
+ 0.25% : head cabbage
+ 0.22% : monitor
+ 0.22% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ069.jpg
+36.06% : zucchini
+19.37% : cucumber
+ 0.71% : ear
+ 0.37% : slide rule
+ 0.28% : library
+ 0.27% : head cabbage
+ 0.25% : leafhopper
+ 0.24% : rule
+ 0.22% : monitor
+ 0.20% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ070.jpg
+32.31% : zucchini
+19.45% : cucumber
+ 0.81% : ear
+ 0.43% : slide rule
+ 0.32% : library
+ 0.32% : leafhopper
+ 0.30% : rule
+ 0.27% : head cabbage
+ 0.22% : bookcase
+ 0.22% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ071.jpg
+32.89% : zucchini
+19.72% : cucumber
+ 0.76% : ear
+ 0.41% : slide rule
+ 0.33% : leafhopper
+ 0.30% : library
+ 0.27% : rule
+ 0.26% : head cabbage
+ 0.21% : spaghetti squash
+ 0.21% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ072.jpg
+32.16% : zucchini
+19.16% : cucumber
+ 0.80% : ear
+ 0.43% : slide rule
+ 0.33% : leafhopper
+ 0.31% : library
+ 0.29% : rule
+ 0.26% : head cabbage
+ 0.22% : bookcase
+ 0.21% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ073.jpg
+31.01% : zucchini
+20.34% : cucumber
+ 0.77% : ear
+ 0.43% : slide rule
+ 0.33% : leafhopper
+ 0.30% : library
+ 0.29% : rule
+ 0.26% : head cabbage
+ 0.22% : vine snake
+ 0.22% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ074.jpg
+34.15% : zucchini
+21.60% : cucumber
+ 0.75% : ear
+ 0.35% : slide rule
+ 0.30% : leafhopper
+ 0.28% : library
+ 0.24% : head cabbage
+ 0.24% : rule
+ 0.21% : monitor
+ 0.20% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ075.jpg
+35.59% : zucchini
+21.17% : cucumber
+ 0.73% : ear
+ 0.34% : slide rule
+ 0.30% : leafhopper
+ 0.28% : library
+ 0.24% : rule
+ 0.24% : head cabbage
+ 0.21% : monitor
+ 0.20% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ076.jpg
+32.19% : zucchini
+21.70% : cucumber
+ 0.76% : ear
+ 0.36% : slide rule
+ 0.31% : leafhopper
+ 0.28% : library
+ 0.25% : rule
+ 0.25% : head cabbage
+ 0.22% : vine snake
+ 0.22% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ077.jpg
+32.77% : zucchini
+21.72% : cucumber
+ 0.72% : ear
+ 0.34% : slide rule
+ 0.30% : library
+ 0.28% : rule
+ 0.27% : leafhopper
+ 0.26% : head cabbage
+ 0.22% : bookcase
+ 0.21% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ078.jpg
+33.70% : zucchini
+19.96% : cucumber
+ 0.69% : ear
+ 0.33% : slide rule
+ 0.31% : library
+ 0.28% : leafhopper
+ 0.25% : rule
+ 0.24% : head cabbage
+ 0.22% : bookcase
+ 0.21% : vine snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ079.jpg
+33.44% : zucchini
+20.13% : cucumber
+ 0.69% : ear
+ 0.34% : slide rule
+ 0.30% : library
+ 0.28% : leafhopper
+ 0.25% : rule
+ 0.24% : head cabbage
+ 0.22% : bookcase
+ 0.21% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ080.jpg
+32.70% : zucchini
+20.33% : cucumber
+ 0.69% : ear
+ 0.34% : slide rule
+ 0.29% : library
+ 0.27% : leafhopper
+ 0.25% : rule
+ 0.24% : head cabbage
+ 0.22% : monitor
+ 0.22% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ081.jpg
+29.71% : zucchini
+21.04% : cucumber
+ 0.74% : ear
+ 0.36% : slide rule
+ 0.32% : library
+ 0.30% : leafhopper
+ 0.28% : rule
+ 0.25% : head cabbage
+ 0.24% : bookcase
+ 0.21% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ082.jpg
+31.42% : zucchini
+21.30% : cucumber
+ 0.72% : ear
+ 0.35% : slide rule
+ 0.31% : library
+ 0.28% : leafhopper
+ 0.28% : rule
+ 0.25% : head cabbage
+ 0.23% : bookcase
+ 0.21% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ083.jpg
+31.65% : zucchini
+24.91% : cucumber
+ 0.73% : ear
+ 0.29% : slide rule
+ 0.29% : library
+ 0.26% : leafhopper
+ 0.24% : head cabbage
+ 0.23% : rule
+ 0.22% : bookcase
+ 0.20% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ084.jpg
+35.10% : zucchini
+24.29% : cucumber
+ 0.72% : ear
+ 0.28% : slide rule
+ 0.26% : library
+ 0.24% : leafhopper
+ 0.23% : head cabbage
+ 0.20% : rule
+ 0.20% : monitor
+ 0.20% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ085.jpg
+35.86% : zucchini
+23.26% : cucumber
+ 0.76% : ear
+ 0.31% : slide rule
+ 0.27% : library
+ 0.24% : leafhopper
+ 0.24% : head cabbage
+ 0.22% : rule
+ 0.21% : bookcase
+ 0.20% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ086.jpg
+34.38% : zucchini
+23.49% : cucumber
+ 0.79% : ear
+ 0.33% : slide rule
+ 0.26% : library
+ 0.25% : leafhopper
+ 0.24% : head cabbage
+ 0.24% : rule
+ 0.21% : bookcase
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ087.jpg
+33.96% : zucchini
+23.36% : cucumber
+ 0.77% : ear
+ 0.34% : slide rule
+ 0.28% : library
+ 0.27% : leafhopper
+ 0.26% : rule
+ 0.25% : head cabbage
+ 0.21% : bookcase
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ088.jpg
+33.11% : zucchini
+23.40% : cucumber
+ 0.79% : ear
+ 0.36% : slide rule
+ 0.30% : library
+ 0.29% : rule
+ 0.28% : leafhopper
+ 0.25% : head cabbage
+ 0.22% : bookcase
+ 0.21% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ089.jpg
+33.14% : zucchini
+22.90% : cucumber
+ 0.78% : ear
+ 0.36% : slide rule
+ 0.30% : library
+ 0.29% : rule
+ 0.28% : leafhopper
+ 0.26% : head cabbage
+ 0.22% : bookcase
+ 0.21% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ090.jpg
+33.01% : zucchini
+23.57% : cucumber
+ 0.72% : ear
+ 0.36% : slide rule
+ 0.28% : library
+ 0.27% : leafhopper
+ 0.26% : rule
+ 0.25% : head cabbage
+ 0.21% : bookcase
+ 0.20% : monitor
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ091.jpg
+33.02% : zucchini
+23.62% : cucumber
+ 0.74% : ear
+ 0.36% : slide rule
+ 0.28% : leafhopper
+ 0.28% : library
+ 0.27% : rule
+ 0.24% : head cabbage
+ 0.21% : bookcase
+ 0.19% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ092.jpg
+35.01% : zucchini
+22.57% : cucumber
+ 0.76% : ear
+ 0.37% : slide rule
+ 0.29% : leafhopper
+ 0.27% : library
+ 0.26% : rule
+ 0.24% : head cabbage
+ 0.20% : bookcase
+ 0.19% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ093.jpg
+36.37% : zucchini
+22.40% : cucumber
+ 0.80% : ear
+ 0.34% : slide rule
+ 0.28% : library
+ 0.27% : leafhopper
+ 0.23% : head cabbage
+ 0.22% : rule
+ 0.20% : bookcase
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ094.jpg
+35.97% : zucchini
+23.75% : cucumber
+ 0.69% : ear
+ 0.31% : slide rule
+ 0.25% : library
+ 0.25% : leafhopper
+ 0.22% : head cabbage
+ 0.21% : rule
+ 0.20% : spaghetti squash
+ 0.19% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ095.jpg
+35.65% : zucchini
+25.29% : cucumber
+ 0.70% : ear
+ 0.31% : slide rule
+ 0.25% : library
+ 0.25% : leafhopper
+ 0.21% : head cabbage
+ 0.21% : rule
+ 0.19% : spaghetti squash
+ 0.18% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ096.jpg
+35.03% : zucchini
+24.16% : cucumber
+ 0.70% : ear
+ 0.32% : slide rule
+ 0.27% : library
+ 0.26% : leafhopper
+ 0.23% : rule
+ 0.22% : head cabbage
+ 0.20% : spaghetti squash
+ 0.20% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ097.jpg
+35.80% : zucchini
+24.12% : cucumber
+ 0.70% : ear
+ 0.31% : slide rule
+ 0.27% : library
+ 0.26% : leafhopper
+ 0.23% : rule
+ 0.22% : head cabbage
+ 0.20% : spaghetti squash
+ 0.20% : bookcase
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ098.jpg
+34.93% : zucchini
+23.29% : cucumber
+ 0.71% : ear
+ 0.33% : slide rule
+ 0.28% : library
+ 0.27% : leafhopper
+ 0.24% : rule
+ 0.22% : head cabbage
+ 0.20% : bookcase
+ 0.19% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ099.jpg
+34.13% : zucchini
+23.13% : cucumber
+ 0.71% : ear
+ 0.34% : slide rule
+ 0.28% : leafhopper
+ 0.28% : library
+ 0.25% : rule
+ 0.23% : head cabbage
+ 0.20% : bookcase
+ 0.20% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumberQ100.jpg
+36.94% : zucchini
+22.93% : cucumber
+ 0.70% : ear
+ 0.32% : slide rule
+ 0.26% : library
+ 0.25% : leafhopper
+ 0.22% : rule
+ 0.22% : head cabbage
+ 0.19% : spaghetti squash
+ 0.19% : bookcase

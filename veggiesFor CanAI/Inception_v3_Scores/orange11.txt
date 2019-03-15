@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q001.jpg
+52.55% : orange
+32.03% : lemon
+ 3.13% : switch
+ 2.27% : ping-pong ball
+ 0.55% : spaghetti squash
+ 0.45% : buckle
+ 0.34% : candle
+ 0.29% : frying pan
+ 0.28% : dough
+ 0.26% : mousetrap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q002.jpg
+52.66% : orange
+31.78% : lemon
+ 3.17% : switch
+ 2.31% : ping-pong ball
+ 0.55% : spaghetti squash
+ 0.48% : buckle
+ 0.34% : candle
+ 0.29% : frying pan
+ 0.28% : dough
+ 0.26% : mousetrap
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q003.jpg
+51.16% : orange
+33.82% : lemon
+ 2.47% : ping-pong ball
+ 2.25% : switch
+ 0.62% : buckle
+ 0.43% : spaghetti squash
+ 0.29% : candle
+ 0.28% : frying pan
+ 0.26% : dough
+ 0.25% : oil filter
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q004.jpg
+44.95% : lemon
+29.51% : orange
+ 4.10% : switch
+ 1.44% : buckle
+ 1.31% : ping-pong ball
+ 0.98% : spaghetti squash
+ 0.63% : gong
+ 0.57% : dough
+ 0.54% : croquet ball
+ 0.52% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q005.jpg
+88.81% : orange
+ 9.26% : lemon
+ 0.22% : ping-pong ball
+ 0.13% : croquet ball
+ 0.12% : switch
+ 0.06% : spaghetti squash
+ 0.05% : basketball
+ 0.03% : buckle
+ 0.03% : oil filter
+ 0.03% : plunger
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q006.jpg
+77.48% : orange
+19.33% : lemon
+ 0.27% : ping-pong ball
+ 0.22% : switch
+ 0.16% : croquet ball
+ 0.09% : buckle
+ 0.08% : frying pan
+ 0.08% : spaghetti squash
+ 0.05% : dough
+ 0.05% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q007.jpg
+81.17% : orange
+15.36% : lemon
+ 0.44% : switch
+ 0.28% : buckle
+ 0.23% : ping-pong ball
+ 0.15% : croquet ball
+ 0.08% : combination lock
+ 0.07% : magnetic compass
+ 0.07% : dough
+ 0.05% : frying pan
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q008.jpg
+93.35% : orange
+ 4.94% : lemon
+ 0.06% : buckle
+ 0.05% : frying pan
+ 0.03% : wok
+ 0.03% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : ping-pong ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q009.jpg
+65.74% : orange
+30.75% : lemon
+ 0.27% : buckle
+ 0.13% : combination lock
+ 0.07% : spaghetti squash
+ 0.05% : croquet ball
+ 0.04% : switch
+ 0.04% : ping-pong ball
+ 0.04% : oil filter
+ 0.04% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q010.jpg
+93.58% : orange
+ 4.45% : lemon
+ 0.17% : buckle
+ 0.06% : combination lock
+ 0.04% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : wok
+ 0.03% : croquet ball
+ 0.03% : seat belt
+ 0.03% : switch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q011.jpg
+84.83% : orange
+11.23% : lemon
+ 0.28% : buckle
+ 0.08% : combination lock
+ 0.08% : croquet ball
+ 0.08% : frying pan
+ 0.06% : wok
+ 0.06% : spaghetti squash
+ 0.05% : ocarina
+ 0.05% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q012.jpg
+79.25% : orange
+14.37% : lemon
+ 0.67% : buckle
+ 0.15% : ocarina
+ 0.13% : frying pan
+ 0.13% : wok
+ 0.11% : combination lock
+ 0.10% : croquet ball
+ 0.10% : switch
+ 0.10% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q013.jpg
+93.06% : orange
+ 5.10% : lemon
+ 0.10% : buckle
+ 0.06% : frying pan
+ 0.06% : wok
+ 0.04% : croquet ball
+ 0.04% : combination lock
+ 0.03% : ocarina
+ 0.02% : seat belt
+ 0.02% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q014.jpg
+81.10% : orange
+14.74% : lemon
+ 0.19% : buckle
+ 0.14% : wok
+ 0.12% : frying pan
+ 0.08% : spaghetti squash
+ 0.07% : slug
+ 0.07% : ocarina
+ 0.05% : croquet ball
+ 0.05% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q015.jpg
+86.10% : orange
+ 9.84% : lemon
+ 0.26% : buckle
+ 0.13% : wok
+ 0.12% : frying pan
+ 0.09% : croquet ball
+ 0.07% : spaghetti squash
+ 0.07% : ocarina
+ 0.06% : seat belt
+ 0.06% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q016.jpg
+87.33% : orange
+10.23% : lemon
+ 0.16% : buckle
+ 0.07% : frying pan
+ 0.06% : spaghetti squash
+ 0.05% : wok
+ 0.05% : ocarina
+ 0.05% : ping-pong ball
+ 0.04% : croquet ball
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q017.jpg
+69.76% : orange
+24.95% : lemon
+ 0.30% : buckle
+ 0.18% : ocarina
+ 0.18% : wok
+ 0.15% : frying pan
+ 0.14% : spaghetti squash
+ 0.14% : slug
+ 0.08% : croquet ball
+ 0.07% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q018.jpg
+85.03% : orange
+11.01% : lemon
+ 0.22% : buckle
+ 0.14% : ocarina
+ 0.11% : spaghetti squash
+ 0.11% : wok
+ 0.10% : seat belt
+ 0.09% : frying pan
+ 0.08% : pickelhaube
+ 0.07% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q019.jpg
+69.89% : orange
+25.55% : lemon
+ 0.42% : buckle
+ 0.11% : spaghetti squash
+ 0.11% : frying pan
+ 0.10% : wok
+ 0.09% : seat belt
+ 0.09% : slug
+ 0.08% : ocarina
+ 0.07% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q020.jpg
+91.49% : orange
+ 5.78% : lemon
+ 0.18% : buckle
+ 0.07% : wok
+ 0.07% : ocarina
+ 0.06% : frying pan
+ 0.06% : seat belt
+ 0.05% : spaghetti squash
+ 0.04% : pickelhaube
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q021.jpg
+66.55% : orange
+27.75% : lemon
+ 0.41% : buckle
+ 0.18% : ocarina
+ 0.14% : spaghetti squash
+ 0.13% : frying pan
+ 0.13% : seat belt
+ 0.13% : wok
+ 0.12% : slug
+ 0.08% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q022.jpg
+83.79% : orange
+12.50% : lemon
+ 0.30% : buckle
+ 0.17% : seat belt
+ 0.16% : ocarina
+ 0.11% : frying pan
+ 0.08% : spaghetti squash
+ 0.08% : wok
+ 0.06% : holster
+ 0.06% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q023.jpg
+83.56% : orange
+12.17% : lemon
+ 0.22% : buckle
+ 0.15% : seat belt
+ 0.13% : ocarina
+ 0.11% : frying pan
+ 0.11% : wok
+ 0.09% : spaghetti squash
+ 0.07% : slug
+ 0.06% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q024.jpg
+59.71% : orange
+35.45% : lemon
+ 0.39% : buckle
+ 0.17% : seat belt
+ 0.16% : ocarina
+ 0.16% : spaghetti squash
+ 0.13% : frying pan
+ 0.12% : slug
+ 0.11% : wok
+ 0.08% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q025.jpg
+75.76% : orange
+20.54% : lemon
+ 0.22% : buckle
+ 0.14% : seat belt
+ 0.11% : frying pan
+ 0.10% : ocarina
+ 0.10% : wok
+ 0.10% : spaghetti squash
+ 0.07% : croquet ball
+ 0.06% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q026.jpg
+59.43% : orange
+35.01% : lemon
+ 0.32% : buckle
+ 0.22% : seat belt
+ 0.20% : wok
+ 0.17% : frying pan
+ 0.14% : spaghetti squash
+ 0.11% : slug
+ 0.11% : ocarina
+ 0.10% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q027.jpg
+81.76% : orange
+15.42% : lemon
+ 0.15% : seat belt
+ 0.14% : buckle
+ 0.09% : wok
+ 0.09% : frying pan
+ 0.06% : ocarina
+ 0.04% : spaghetti squash
+ 0.04% : combination lock
+ 0.04% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q028.jpg
+84.22% : orange
+12.92% : lemon
+ 0.15% : buckle
+ 0.11% : seat belt
+ 0.10% : frying pan
+ 0.09% : wok
+ 0.08% : ocarina
+ 0.05% : combination lock
+ 0.04% : croquet ball
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q029.jpg
+82.16% : orange
+14.34% : lemon
+ 0.20% : buckle
+ 0.13% : wok
+ 0.13% : frying pan
+ 0.13% : seat belt
+ 0.09% : ocarina
+ 0.05% : combination lock
+ 0.05% : croquet ball
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q030.jpg
+87.92% : orange
+ 9.64% : lemon
+ 0.15% : buckle
+ 0.10% : seat belt
+ 0.09% : frying pan
+ 0.08% : wok
+ 0.07% : ocarina
+ 0.04% : combination lock
+ 0.04% : mailbag
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q031.jpg
+89.85% : orange
+ 7.56% : lemon
+ 0.14% : buckle
+ 0.12% : seat belt
+ 0.11% : frying pan
+ 0.10% : wok
+ 0.06% : ocarina
+ 0.04% : combination lock
+ 0.03% : spaghetti squash
+ 0.03% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q032.jpg
+88.32% : orange
+ 8.58% : lemon
+ 0.18% : buckle
+ 0.14% : seat belt
+ 0.12% : wok
+ 0.11% : frying pan
+ 0.08% : ocarina
+ 0.05% : combination lock
+ 0.04% : mailbag
+ 0.04% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q033.jpg
+86.85% : orange
+10.50% : lemon
+ 0.18% : buckle
+ 0.10% : seat belt
+ 0.09% : wok
+ 0.08% : frying pan
+ 0.05% : ocarina
+ 0.04% : combination lock
+ 0.04% : mailbag
+ 0.03% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q034.jpg
+87.98% : orange
+ 9.62% : lemon
+ 0.16% : buckle
+ 0.09% : seat belt
+ 0.08% : wok
+ 0.08% : frying pan
+ 0.05% : ocarina
+ 0.04% : combination lock
+ 0.04% : mailbag
+ 0.03% : holster
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q035.jpg
+87.78% : orange
+ 9.89% : lemon
+ 0.15% : buckle
+ 0.09% : seat belt
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.06% : ocarina
+ 0.04% : combination lock
+ 0.03% : slug
+ 0.03% : wallet
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q036.jpg
+85.83% : orange
+11.02% : lemon
+ 0.16% : buckle
+ 0.13% : frying pan
+ 0.12% : wok
+ 0.09% : seat belt
+ 0.08% : ocarina
+ 0.05% : combination lock
+ 0.04% : spaghetti squash
+ 0.04% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q037.jpg
+87.03% : orange
+10.09% : lemon
+ 0.14% : buckle
+ 0.12% : wok
+ 0.11% : frying pan
+ 0.09% : seat belt
+ 0.07% : ocarina
+ 0.05% : combination lock
+ 0.04% : spaghetti squash
+ 0.04% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q038.jpg
+87.51% : orange
+ 9.88% : lemon
+ 0.14% : buckle
+ 0.09% : frying pan
+ 0.09% : wok
+ 0.07% : seat belt
+ 0.07% : ocarina
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q039.jpg
+87.74% : orange
+ 9.55% : lemon
+ 0.14% : buckle
+ 0.12% : wok
+ 0.11% : frying pan
+ 0.08% : seat belt
+ 0.07% : ocarina
+ 0.04% : combination lock
+ 0.04% : slug
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q040.jpg
+87.52% : orange
+ 9.55% : lemon
+ 0.13% : buckle
+ 0.12% : frying pan
+ 0.12% : wok
+ 0.08% : ocarina
+ 0.07% : seat belt
+ 0.04% : combination lock
+ 0.04% : slug
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q041.jpg
+87.77% : orange
+ 9.45% : lemon
+ 0.11% : wok
+ 0.11% : buckle
+ 0.11% : frying pan
+ 0.07% : seat belt
+ 0.05% : ocarina
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q042.jpg
+86.85% : orange
+10.22% : lemon
+ 0.13% : buckle
+ 0.10% : wok
+ 0.10% : frying pan
+ 0.08% : seat belt
+ 0.06% : ocarina
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q043.jpg
+85.92% : orange
+10.95% : lemon
+ 0.14% : buckle
+ 0.11% : wok
+ 0.11% : frying pan
+ 0.09% : seat belt
+ 0.06% : ocarina
+ 0.05% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q044.jpg
+91.28% : orange
+ 6.76% : lemon
+ 0.09% : buckle
+ 0.07% : wok
+ 0.06% : frying pan
+ 0.05% : seat belt
+ 0.04% : ocarina
+ 0.03% : combination lock
+ 0.03% : ping-pong ball
+ 0.03% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q045.jpg
+91.85% : orange
+ 6.36% : lemon
+ 0.08% : buckle
+ 0.06% : frying pan
+ 0.06% : wok
+ 0.05% : seat belt
+ 0.04% : ocarina
+ 0.03% : combination lock
+ 0.02% : croquet ball
+ 0.02% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q046.jpg
+90.04% : orange
+ 8.06% : lemon
+ 0.10% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.03% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q047.jpg
+89.41% : orange
+ 8.64% : lemon
+ 0.09% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.03% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q048.jpg
+88.17% : orange
+ 9.90% : lemon
+ 0.11% : buckle
+ 0.08% : frying pan
+ 0.06% : wok
+ 0.05% : ocarina
+ 0.04% : seat belt
+ 0.03% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q049.jpg
+89.30% : orange
+ 8.91% : lemon
+ 0.11% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.04% : ocarina
+ 0.03% : seat belt
+ 0.03% : combination lock
+ 0.03% : slug
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q050.jpg
+89.66% : orange
+ 8.59% : lemon
+ 0.11% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.04% : ocarina
+ 0.03% : seat belt
+ 0.03% : combination lock
+ 0.02% : slug
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q051.jpg
+89.46% : orange
+ 8.75% : lemon
+ 0.11% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.04% : ocarina
+ 0.03% : seat belt
+ 0.03% : combination lock
+ 0.03% : croquet ball
+ 0.03% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q052.jpg
+88.95% : orange
+ 9.10% : lemon
+ 0.12% : buckle
+ 0.08% : wok
+ 0.06% : frying pan
+ 0.04% : ocarina
+ 0.04% : seat belt
+ 0.03% : croquet ball
+ 0.03% : combination lock
+ 0.03% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q053.jpg
+88.75% : orange
+ 9.27% : lemon
+ 0.13% : buckle
+ 0.08% : wok
+ 0.05% : frying pan
+ 0.04% : seat belt
+ 0.04% : ocarina
+ 0.04% : croquet ball
+ 0.03% : slug
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q054.jpg
+89.09% : orange
+ 8.92% : lemon
+ 0.14% : buckle
+ 0.08% : wok
+ 0.06% : frying pan
+ 0.05% : seat belt
+ 0.04% : ocarina
+ 0.04% : croquet ball
+ 0.03% : combination lock
+ 0.03% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q055.jpg
+82.22% : orange
+15.01% : lemon
+ 0.16% : buckle
+ 0.11% : wok
+ 0.10% : frying pan
+ 0.05% : seat belt
+ 0.05% : combination lock
+ 0.05% : croquet ball
+ 0.04% : spaghetti squash
+ 0.04% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q056.jpg
+83.15% : orange
+14.24% : lemon
+ 0.15% : buckle
+ 0.11% : wok
+ 0.11% : frying pan
+ 0.05% : combination lock
+ 0.05% : seat belt
+ 0.05% : croquet ball
+ 0.04% : ping-pong ball
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q057.jpg
+81.99% : orange
+15.18% : lemon
+ 0.16% : buckle
+ 0.11% : frying pan
+ 0.11% : wok
+ 0.05% : seat belt
+ 0.05% : combination lock
+ 0.05% : ocarina
+ 0.05% : ping-pong ball
+ 0.05% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q058.jpg
+84.85% : orange
+12.63% : lemon
+ 0.21% : buckle
+ 0.10% : wok
+ 0.09% : frying pan
+ 0.06% : seat belt
+ 0.06% : ocarina
+ 0.05% : combination lock
+ 0.04% : croquet ball
+ 0.04% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q059.jpg
+83.49% : orange
+13.84% : lemon
+ 0.23% : buckle
+ 0.11% : frying pan
+ 0.10% : wok
+ 0.07% : ocarina
+ 0.07% : seat belt
+ 0.05% : combination lock
+ 0.05% : croquet ball
+ 0.04% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q060.jpg
+82.12% : orange
+15.03% : lemon
+ 0.25% : buckle
+ 0.11% : frying pan
+ 0.10% : wok
+ 0.07% : ocarina
+ 0.07% : seat belt
+ 0.05% : combination lock
+ 0.05% : croquet ball
+ 0.04% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q061.jpg
+78.55% : orange
+18.09% : lemon
+ 0.22% : buckle
+ 0.11% : frying pan
+ 0.11% : wok
+ 0.09% : ocarina
+ 0.08% : seat belt
+ 0.06% : slug
+ 0.05% : spaghetti squash
+ 0.05% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q062.jpg
+80.81% : orange
+16.21% : lemon
+ 0.20% : buckle
+ 0.10% : frying pan
+ 0.10% : wok
+ 0.08% : ocarina
+ 0.07% : seat belt
+ 0.05% : slug
+ 0.05% : combination lock
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q063.jpg
+79.79% : orange
+17.08% : lemon
+ 0.20% : buckle
+ 0.11% : frying pan
+ 0.11% : wok
+ 0.08% : ocarina
+ 0.07% : seat belt
+ 0.05% : slug
+ 0.05% : spaghetti squash
+ 0.05% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q064.jpg
+78.02% : orange
+19.03% : lemon
+ 0.16% : buckle
+ 0.10% : frying pan
+ 0.09% : wok
+ 0.07% : seat belt
+ 0.06% : ocarina
+ 0.05% : spaghetti squash
+ 0.05% : combination lock
+ 0.05% : slug
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q065.jpg
+80.24% : orange
+16.91% : lemon
+ 0.16% : buckle
+ 0.09% : frying pan
+ 0.08% : wok
+ 0.06% : ocarina
+ 0.06% : seat belt
+ 0.05% : combination lock
+ 0.05% : croquet ball
+ 0.05% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q066.jpg
+82.76% : orange
+14.60% : lemon
+ 0.16% : buckle
+ 0.09% : frying pan
+ 0.08% : wok
+ 0.06% : ocarina
+ 0.06% : seat belt
+ 0.05% : combination lock
+ 0.05% : croquet ball
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q067.jpg
+82.83% : orange
+14.66% : lemon
+ 0.17% : buckle
+ 0.08% : frying pan
+ 0.07% : wok
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q068.jpg
+83.47% : orange
+14.17% : lemon
+ 0.15% : buckle
+ 0.06% : frying pan
+ 0.06% : seat belt
+ 0.05% : ocarina
+ 0.05% : wok
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q069.jpg
+82.11% : orange
+15.60% : lemon
+ 0.13% : buckle
+ 0.06% : frying pan
+ 0.05% : wok
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q070.jpg
+82.88% : orange
+14.99% : lemon
+ 0.13% : buckle
+ 0.06% : ocarina
+ 0.05% : frying pan
+ 0.05% : wok
+ 0.05% : seat belt
+ 0.04% : combination lock
+ 0.04% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q071.jpg
+81.81% : orange
+15.72% : lemon
+ 0.16% : buckle
+ 0.08% : ocarina
+ 0.07% : frying pan
+ 0.07% : wok
+ 0.06% : seat belt
+ 0.04% : combination lock
+ 0.04% : slug
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q072.jpg
+81.68% : orange
+16.01% : lemon
+ 0.13% : buckle
+ 0.07% : wok
+ 0.07% : frying pan
+ 0.06% : ocarina
+ 0.05% : seat belt
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q073.jpg
+84.63% : orange
+13.34% : lemon
+ 0.13% : buckle
+ 0.05% : wok
+ 0.05% : frying pan
+ 0.05% : seat belt
+ 0.04% : ocarina
+ 0.04% : combination lock
+ 0.03% : croquet ball
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q074.jpg
+86.00% : orange
+11.88% : lemon
+ 0.13% : buckle
+ 0.06% : wok
+ 0.06% : seat belt
+ 0.06% : frying pan
+ 0.05% : ocarina
+ 0.04% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q075.jpg
+86.04% : orange
+11.88% : lemon
+ 0.12% : buckle
+ 0.06% : seat belt
+ 0.05% : wok
+ 0.05% : frying pan
+ 0.04% : ocarina
+ 0.04% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q076.jpg
+82.55% : orange
+15.34% : lemon
+ 0.10% : buckle
+ 0.05% : seat belt
+ 0.05% : frying pan
+ 0.05% : wok
+ 0.04% : combination lock
+ 0.04% : ocarina
+ 0.03% : slug
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q077.jpg
+83.67% : orange
+14.12% : lemon
+ 0.09% : buckle
+ 0.06% : seat belt
+ 0.05% : frying pan
+ 0.05% : wok
+ 0.04% : combination lock
+ 0.03% : ocarina
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q078.jpg
+82.75% : orange
+14.83% : lemon
+ 0.11% : buckle
+ 0.06% : seat belt
+ 0.06% : frying pan
+ 0.06% : wok
+ 0.04% : combination lock
+ 0.04% : slug
+ 0.04% : ocarina
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q079.jpg
+82.93% : orange
+14.64% : lemon
+ 0.11% : buckle
+ 0.06% : seat belt
+ 0.06% : wok
+ 0.06% : frying pan
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : ocarina
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q080.jpg
+82.57% : orange
+14.97% : lemon
+ 0.12% : buckle
+ 0.06% : frying pan
+ 0.06% : wok
+ 0.05% : seat belt
+ 0.04% : ocarina
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q081.jpg
+84.54% : orange
+13.25% : lemon
+ 0.11% : buckle
+ 0.06% : seat belt
+ 0.05% : wok
+ 0.05% : frying pan
+ 0.04% : ocarina
+ 0.04% : combination lock
+ 0.04% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q082.jpg
+86.39% : orange
+11.65% : lemon
+ 0.10% : buckle
+ 0.05% : seat belt
+ 0.05% : wok
+ 0.04% : frying pan
+ 0.04% : ocarina
+ 0.04% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q083.jpg
+86.12% : orange
+11.94% : lemon
+ 0.09% : buckle
+ 0.06% : wok
+ 0.05% : frying pan
+ 0.05% : seat belt
+ 0.05% : ocarina
+ 0.03% : combination lock
+ 0.03% : slug
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q084.jpg
+84.17% : orange
+13.37% : lemon
+ 0.14% : buckle
+ 0.08% : wok
+ 0.06% : frying pan
+ 0.06% : seat belt
+ 0.05% : ocarina
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q085.jpg
+82.66% : orange
+14.88% : lemon
+ 0.13% : buckle
+ 0.08% : wok
+ 0.07% : frying pan
+ 0.06% : seat belt
+ 0.06% : ocarina
+ 0.04% : slug
+ 0.04% : spaghetti squash
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q086.jpg
+79.57% : orange
+17.74% : lemon
+ 0.13% : buckle
+ 0.10% : wok
+ 0.08% : frying pan
+ 0.07% : seat belt
+ 0.06% : ocarina
+ 0.05% : slug
+ 0.04% : croquet ball
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q087.jpg
+82.48% : orange
+15.32% : lemon
+ 0.10% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q088.jpg
+79.68% : orange
+17.99% : lemon
+ 0.11% : buckle
+ 0.07% : frying pan
+ 0.07% : wok
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q089.jpg
+80.88% : orange
+16.89% : lemon
+ 0.11% : buckle
+ 0.07% : frying pan
+ 0.06% : wok
+ 0.05% : seat belt
+ 0.05% : ocarina
+ 0.04% : slug
+ 0.04% : combination lock
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q090.jpg
+80.81% : orange
+16.56% : lemon
+ 0.13% : buckle
+ 0.08% : wok
+ 0.07% : frying pan
+ 0.06% : ocarina
+ 0.06% : seat belt
+ 0.05% : slug
+ 0.04% : spaghetti squash
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q091.jpg
+81.55% : orange
+16.03% : lemon
+ 0.13% : buckle
+ 0.07% : wok
+ 0.06% : frying pan
+ 0.05% : ocarina
+ 0.05% : seat belt
+ 0.04% : slug
+ 0.04% : croquet ball
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q092.jpg
+75.42% : orange
+21.94% : lemon
+ 0.15% : buckle
+ 0.07% : ocarina
+ 0.07% : wok
+ 0.07% : frying pan
+ 0.06% : slug
+ 0.05% : seat belt
+ 0.04% : croquet ball
+ 0.04% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q093.jpg
+72.87% : orange
+24.71% : lemon
+ 0.14% : buckle
+ 0.09% : frying pan
+ 0.06% : wok
+ 0.06% : ocarina
+ 0.05% : croquet ball
+ 0.05% : slug
+ 0.04% : spaghetti squash
+ 0.04% : seat belt
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q094.jpg
+72.42% : orange
+25.29% : lemon
+ 0.13% : buckle
+ 0.08% : frying pan
+ 0.06% : ocarina
+ 0.05% : wok
+ 0.05% : croquet ball
+ 0.04% : slug
+ 0.04% : seat belt
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q095.jpg
+78.27% : orange
+19.63% : lemon
+ 0.12% : buckle
+ 0.07% : frying pan
+ 0.05% : ocarina
+ 0.05% : wok
+ 0.04% : croquet ball
+ 0.04% : seat belt
+ 0.04% : slug
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q096.jpg
+79.11% : orange
+18.87% : lemon
+ 0.11% : buckle
+ 0.06% : frying pan
+ 0.05% : ocarina
+ 0.05% : wok
+ 0.04% : seat belt
+ 0.04% : croquet ball
+ 0.04% : slug
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q097.jpg
+79.73% : orange
+18.23% : lemon
+ 0.11% : buckle
+ 0.06% : frying pan
+ 0.05% : wok
+ 0.05% : ocarina
+ 0.04% : seat belt
+ 0.04% : slug
+ 0.04% : croquet ball
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q098.jpg
+77.75% : orange
+20.18% : lemon
+ 0.11% : buckle
+ 0.07% : frying pan
+ 0.05% : wok
+ 0.04% : seat belt
+ 0.04% : ocarina
+ 0.04% : slug
+ 0.04% : croquet ball
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q099.jpg
+77.14% : orange
+20.70% : lemon
+ 0.12% : buckle
+ 0.08% : frying pan
+ 0.06% : wok
+ 0.05% : ocarina
+ 0.04% : seat belt
+ 0.04% : croquet ball
+ 0.04% : slug
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange11Q100.jpg
+78.13% : orange
+19.79% : lemon
+ 0.12% : buckle
+ 0.07% : frying pan
+ 0.05% : wok
+ 0.05% : seat belt
+ 0.04% : ocarina
+ 0.04% : croquet ball
+ 0.04% : combination lock
+ 0.04% : slug

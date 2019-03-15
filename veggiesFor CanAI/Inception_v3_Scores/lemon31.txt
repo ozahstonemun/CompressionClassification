@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q001.jpg
+20.36% : lemon
+14.27% : orange
+ 9.53% : spaghetti squash
+ 2.40% : tennis ball
+ 1.35% : acorn squash
+ 0.85% : bell pepper
+ 0.77% : butternut squash
+ 0.51% : ping-pong ball
+ 0.51% : pot
+ 0.43% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q002.jpg
+20.10% : lemon
+14.06% : orange
+ 9.49% : spaghetti squash
+ 2.44% : tennis ball
+ 1.34% : acorn squash
+ 0.85% : bell pepper
+ 0.76% : butternut squash
+ 0.51% : ping-pong ball
+ 0.50% : pot
+ 0.42% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q003.jpg
+17.83% : lemon
+12.44% : orange
+ 9.02% : spaghetti squash
+ 3.00% : tennis ball
+ 1.38% : acorn squash
+ 0.82% : bell pepper
+ 0.78% : butternut squash
+ 0.52% : pot
+ 0.48% : ping-pong ball
+ 0.41% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q004.jpg
+20.40% : orange
+11.73% : spaghetti squash
+ 8.66% : lemon
+ 4.00% : acorn squash
+ 2.32% : butternut squash
+ 1.83% : bell pepper
+ 1.23% : jack-o'-lantern
+ 0.83% : grocery store
+ 0.45% : pot
+ 0.40% : zucchini
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q005.jpg
+39.21% : lemon
+14.13% : orange
+ 2.88% : spaghetti squash
+ 1.03% : tennis ball
+ 0.46% : bell pepper
+ 0.35% : grocery store
+ 0.33% : ping-pong ball
+ 0.33% : butternut squash
+ 0.32% : croquet ball
+ 0.24% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q006.jpg
+34.27% : lemon
+24.15% : orange
+ 1.56% : tennis ball
+ 0.78% : spaghetti squash
+ 0.56% : bell pepper
+ 0.48% : butternut squash
+ 0.26% : ping-pong ball
+ 0.25% : croquet ball
+ 0.23% : grocery store
+ 0.18% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q007.jpg
+51.86% : lemon
+20.30% : orange
+ 0.58% : spaghetti squash
+ 0.29% : tennis ball
+ 0.26% : butternut squash
+ 0.23% : grocery store
+ 0.19% : bell pepper
+ 0.13% : king penguin
+ 0.12% : pineapple
+ 0.11% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q008.jpg
+52.61% : lemon
+20.91% : orange
+ 0.62% : bell pepper
+ 0.36% : spaghetti squash
+ 0.35% : butternut squash
+ 0.33% : grocery store
+ 0.16% : tennis ball
+ 0.13% : rock python
+ 0.12% : jackfruit
+ 0.12% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q009.jpg
+60.54% : lemon
+18.16% : orange
+ 0.23% : spaghetti squash
+ 0.14% : butternut squash
+ 0.13% : bell pepper
+ 0.13% : grocery store
+ 0.12% : king penguin
+ 0.10% : banana
+ 0.09% : magnetic compass
+ 0.09% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q010.jpg
+59.51% : lemon
+17.80% : orange
+ 0.17% : spaghetti squash
+ 0.12% : magnetic compass
+ 0.11% : grocery store
+ 0.11% : butternut squash
+ 0.10% : king penguin
+ 0.09% : banana
+ 0.09% : pineapple
+ 0.08% : bell pepper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q011.jpg
+58.65% : lemon
+17.23% : orange
+ 0.21% : spaghetti squash
+ 0.12% : magnetic compass
+ 0.11% : king penguin
+ 0.11% : butternut squash
+ 0.11% : grocery store
+ 0.10% : oxygen mask
+ 0.10% : pineapple
+ 0.10% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q012.jpg
+75.99% : lemon
+ 7.97% : orange
+ 0.15% : spaghetti squash
+ 0.09% : king penguin
+ 0.08% : magnetic compass
+ 0.06% : strainer
+ 0.06% : grocery store
+ 0.06% : combination lock
+ 0.06% : oxygen mask
+ 0.06% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q013.jpg
+76.01% : lemon
+ 6.52% : orange
+ 0.21% : spaghetti squash
+ 0.10% : king penguin
+ 0.08% : magnetic compass
+ 0.08% : dough
+ 0.08% : combination lock
+ 0.07% : oxygen mask
+ 0.06% : window shade
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q014.jpg
+77.22% : lemon
+ 6.84% : orange
+ 0.19% : spaghetti squash
+ 0.09% : king penguin
+ 0.07% : oxygen mask
+ 0.07% : combination lock
+ 0.07% : magnetic compass
+ 0.06% : strainer
+ 0.06% : pineapple
+ 0.06% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q015.jpg
+78.03% : lemon
+ 6.85% : orange
+ 0.19% : spaghetti squash
+ 0.09% : king penguin
+ 0.09% : combination lock
+ 0.07% : magnetic compass
+ 0.07% : oxygen mask
+ 0.06% : dough
+ 0.06% : strainer
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q016.jpg
+78.65% : lemon
+ 6.52% : orange
+ 0.21% : spaghetti squash
+ 0.09% : king penguin
+ 0.08% : combination lock
+ 0.08% : oxygen mask
+ 0.07% : magnetic compass
+ 0.07% : dough
+ 0.06% : strainer
+ 0.06% : Leonberg
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q017.jpg
+80.77% : lemon
+ 5.19% : orange
+ 0.17% : spaghetti squash
+ 0.09% : king penguin
+ 0.08% : magnetic compass
+ 0.07% : combination lock
+ 0.07% : dough
+ 0.06% : oxygen mask
+ 0.06% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q018.jpg
+81.45% : lemon
+ 3.83% : orange
+ 0.26% : spaghetti squash
+ 0.08% : dough
+ 0.08% : king penguin
+ 0.07% : combination lock
+ 0.07% : magnetic compass
+ 0.07% : oxygen mask
+ 0.06% : pineapple
+ 0.06% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q019.jpg
+85.50% : lemon
+ 2.94% : orange
+ 0.15% : spaghetti squash
+ 0.06% : king penguin
+ 0.06% : combination lock
+ 0.06% : magnetic compass
+ 0.06% : dough
+ 0.05% : oxygen mask
+ 0.05% : pineapple
+ 0.05% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q020.jpg
+80.17% : lemon
+ 4.28% : orange
+ 0.16% : spaghetti squash
+ 0.08% : combination lock
+ 0.08% : magnetic compass
+ 0.07% : dough
+ 0.07% : oxygen mask
+ 0.07% : king penguin
+ 0.07% : strainer
+ 0.06% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q021.jpg
+87.48% : lemon
+ 2.51% : orange
+ 0.16% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q022.jpg
+86.92% : lemon
+ 1.96% : orange
+ 0.15% : spaghetti squash
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.05% : magnetic compass
+ 0.05% : combination lock
+ 0.05% : oxygen mask
+ 0.05% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q023.jpg
+88.73% : lemon
+ 2.04% : orange
+ 0.14% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q024.jpg
+86.90% : lemon
+ 2.29% : orange
+ 0.13% : spaghetti squash
+ 0.07% : dough
+ 0.06% : magnetic compass
+ 0.06% : combination lock
+ 0.06% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q025.jpg
+86.37% : lemon
+ 2.41% : orange
+ 0.17% : spaghetti squash
+ 0.07% : combination lock
+ 0.07% : dough
+ 0.07% : magnetic compass
+ 0.05% : oxygen mask
+ 0.05% : king penguin
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q026.jpg
+83.55% : lemon
+ 3.45% : orange
+ 0.15% : spaghetti squash
+ 0.08% : combination lock
+ 0.07% : magnetic compass
+ 0.07% : dough
+ 0.06% : king penguin
+ 0.06% : oxygen mask
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q027.jpg
+88.90% : lemon
+ 1.57% : orange
+ 0.13% : spaghetti squash
+ 0.07% : dough
+ 0.05% : magnetic compass
+ 0.05% : combination lock
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q028.jpg
+89.08% : lemon
+ 1.78% : orange
+ 0.13% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : strainer
+ 0.04% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q029.jpg
+88.73% : lemon
+ 1.72% : orange
+ 0.13% : spaghetti squash
+ 0.07% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q030.jpg
+86.26% : lemon
+ 2.55% : orange
+ 0.13% : spaghetti squash
+ 0.07% : combination lock
+ 0.06% : dough
+ 0.06% : magnetic compass
+ 0.05% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.05% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q031.jpg
+87.53% : lemon
+ 2.48% : orange
+ 0.12% : spaghetti squash
+ 0.07% : combination lock
+ 0.06% : dough
+ 0.06% : magnetic compass
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q032.jpg
+86.62% : lemon
+ 2.13% : orange
+ 0.14% : spaghetti squash
+ 0.07% : dough
+ 0.06% : combination lock
+ 0.06% : magnetic compass
+ 0.06% : king penguin
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q033.jpg
+87.95% : lemon
+ 2.40% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : strainer
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q034.jpg
+88.28% : lemon
+ 2.33% : orange
+ 0.13% : spaghetti squash
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : dough
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q035.jpg
+87.47% : lemon
+ 2.24% : orange
+ 0.11% : spaghetti squash
+ 0.07% : dough
+ 0.06% : combination lock
+ 0.06% : magnetic compass
+ 0.05% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q036.jpg
+88.83% : lemon
+ 1.89% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q037.jpg
+88.82% : lemon
+ 1.86% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q038.jpg
+88.18% : lemon
+ 2.18% : orange
+ 0.11% : spaghetti squash
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : dough
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q039.jpg
+87.93% : lemon
+ 1.97% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.06% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q040.jpg
+86.56% : lemon
+ 2.42% : orange
+ 0.12% : spaghetti squash
+ 0.06% : dough
+ 0.06% : magnetic compass
+ 0.06% : combination lock
+ 0.05% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q041.jpg
+85.63% : lemon
+ 2.75% : orange
+ 0.12% : spaghetti squash
+ 0.07% : dough
+ 0.06% : magnetic compass
+ 0.06% : king penguin
+ 0.06% : combination lock
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q042.jpg
+85.92% : lemon
+ 2.75% : orange
+ 0.12% : spaghetti squash
+ 0.06% : magnetic compass
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.06% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q043.jpg
+85.99% : lemon
+ 2.77% : orange
+ 0.12% : spaghetti squash
+ 0.06% : magnetic compass
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.06% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : strainer
+ 0.05% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q044.jpg
+87.26% : lemon
+ 2.25% : orange
+ 0.11% : spaghetti squash
+ 0.06% : combination lock
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.05% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q045.jpg
+87.71% : lemon
+ 2.07% : orange
+ 0.11% : spaghetti squash
+ 0.06% : combination lock
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q046.jpg
+88.77% : lemon
+ 1.87% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q047.jpg
+88.84% : lemon
+ 1.82% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q048.jpg
+89.04% : lemon
+ 1.77% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q049.jpg
+87.89% : lemon
+ 1.89% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q050.jpg
+87.92% : lemon
+ 1.89% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q051.jpg
+87.93% : lemon
+ 1.87% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q052.jpg
+88.02% : lemon
+ 2.22% : orange
+ 0.10% : spaghetti squash
+ 0.06% : combination lock
+ 0.05% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q053.jpg
+87.92% : lemon
+ 2.18% : orange
+ 0.10% : spaghetti squash
+ 0.06% : combination lock
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q054.jpg
+87.96% : lemon
+ 2.18% : orange
+ 0.10% : spaghetti squash
+ 0.06% : combination lock
+ 0.06% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q055.jpg
+88.56% : lemon
+ 1.72% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q056.jpg
+88.74% : lemon
+ 1.68% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q057.jpg
+88.82% : lemon
+ 1.70% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q058.jpg
+89.12% : lemon
+ 1.56% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q059.jpg
+89.26% : lemon
+ 1.50% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : king penguin
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q060.jpg
+89.40% : lemon
+ 1.46% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : king penguin
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q061.jpg
+89.22% : lemon
+ 1.60% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q062.jpg
+88.69% : lemon
+ 1.81% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q063.jpg
+88.70% : lemon
+ 1.84% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q064.jpg
+88.81% : lemon
+ 1.86% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q065.jpg
+89.47% : lemon
+ 1.77% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : oxygen mask
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q066.jpg
+88.60% : lemon
+ 2.01% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : oxygen mask
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q067.jpg
+88.52% : lemon
+ 1.99% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : oxygen mask
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q068.jpg
+88.93% : lemon
+ 2.02% : orange
+ 0.10% : spaghetti squash
+ 0.05% : combination lock
+ 0.05% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q069.jpg
+88.37% : lemon
+ 2.20% : orange
+ 0.10% : spaghetti squash
+ 0.06% : combination lock
+ 0.05% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q070.jpg
+89.01% : lemon
+ 1.90% : orange
+ 0.09% : spaghetti squash
+ 0.05% : combination lock
+ 0.05% : dough
+ 0.05% : magnetic compass
+ 0.04% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q071.jpg
+89.06% : lemon
+ 1.73% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q072.jpg
+89.04% : lemon
+ 1.76% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q073.jpg
+88.56% : lemon
+ 1.96% : orange
+ 0.09% : spaghetti squash
+ 0.05% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q074.jpg
+88.65% : lemon
+ 2.04% : orange
+ 0.09% : spaghetti squash
+ 0.05% : combination lock
+ 0.05% : dough
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q075.jpg
+88.60% : lemon
+ 2.06% : orange
+ 0.09% : spaghetti squash
+ 0.05% : combination lock
+ 0.05% : dough
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q076.jpg
+88.75% : lemon
+ 1.86% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : strainer
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q077.jpg
+87.67% : lemon
+ 2.19% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.06% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q078.jpg
+88.20% : lemon
+ 1.92% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q079.jpg
+87.94% : lemon
+ 1.98% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q080.jpg
+89.05% : lemon
+ 1.70% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q081.jpg
+88.65% : lemon
+ 1.80% : orange
+ 0.09% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : oxygen mask
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q082.jpg
+88.25% : lemon
+ 1.90% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q083.jpg
+87.54% : lemon
+ 2.11% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : spatula
+ 0.04% : oxygen mask
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q084.jpg
+88.70% : lemon
+ 1.70% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : strainer
+ 0.04% : spatula
+ 0.04% : oxygen mask
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q085.jpg
+88.97% : lemon
+ 1.67% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q086.jpg
+89.33% : lemon
+ 1.58% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.04% : king penguin
+ 0.04% : magnetic compass
+ 0.04% : strainer
+ 0.04% : oxygen mask
+ 0.04% : pineapple
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q087.jpg
+88.41% : lemon
+ 1.92% : orange
+ 0.11% : spaghetti squash
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q088.jpg
+88.43% : lemon
+ 1.99% : orange
+ 0.11% : spaghetti squash
+ 0.05% : dough
+ 0.05% : king penguin
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q089.jpg
+88.51% : lemon
+ 1.90% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q090.jpg
+88.30% : lemon
+ 1.89% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : king penguin
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q091.jpg
+88.38% : lemon
+ 1.87% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q092.jpg
+88.28% : lemon
+ 1.81% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q093.jpg
+88.35% : lemon
+ 1.76% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q094.jpg
+87.94% : lemon
+ 1.88% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.06% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q095.jpg
+88.24% : lemon
+ 1.94% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q096.jpg
+88.25% : lemon
+ 1.98% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q097.jpg
+88.25% : lemon
+ 1.93% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q098.jpg
+88.09% : lemon
+ 1.99% : orange
+ 0.10% : spaghetti squash
+ 0.06% : dough
+ 0.05% : combination lock
+ 0.05% : king penguin
+ 0.05% : magnetic compass
+ 0.04% : oxygen mask
+ 0.04% : spatula
+ 0.04% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q099.jpg
+87.94% : lemon
+ 2.24% : orange
+ 0.10% : spaghetti squash
+ 0.06% : combination lock
+ 0.05% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon31Q100.jpg
+88.31% : lemon
+ 2.15% : orange
+ 0.09% : spaghetti squash
+ 0.05% : combination lock
+ 0.05% : dough
+ 0.05% : magnetic compass
+ 0.05% : king penguin
+ 0.04% : oxygen mask
+ 0.04% : strainer
+ 0.04% : spatula

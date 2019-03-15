@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q001.jpg
+92.72% : bell pepper
+ 1.49% : candle
+ 0.49% : oil filter
+ 0.17% : orange
+ 0.13% : ping-pong ball
+ 0.12% : bobsled
+ 0.11% : confectionery
+ 0.10% : spaghetti squash
+ 0.10% : pinwheel
+ 0.10% : balloon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q002.jpg
+92.61% : bell pepper
+ 1.59% : candle
+ 0.49% : oil filter
+ 0.18% : orange
+ 0.13% : ping-pong ball
+ 0.12% : bobsled
+ 0.11% : confectionery
+ 0.10% : spaghetti squash
+ 0.10% : balloon
+ 0.10% : pinwheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q003.jpg
+94.72% : bell pepper
+ 1.07% : candle
+ 0.42% : oil filter
+ 0.14% : orange
+ 0.12% : ping-pong ball
+ 0.09% : confectionery
+ 0.09% : spaghetti squash
+ 0.08% : packet
+ 0.07% : corn
+ 0.07% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q004.jpg
+97.57% : bell pepper
+ 0.29% : corn
+ 0.08% : orange
+ 0.08% : candle
+ 0.06% : confectionery
+ 0.05% : lemon
+ 0.05% : oil filter
+ 0.04% : ping-pong ball
+ 0.04% : ear
+ 0.03% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q005.jpg
+97.93% : bell pepper
+ 0.60% : corn
+ 0.17% : confectionery
+ 0.09% : ear
+ 0.07% : candle
+ 0.07% : oil filter
+ 0.03% : ping-pong ball
+ 0.03% : Granny Smith
+ 0.03% : stove
+ 0.02% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q006.jpg
+99.23% : bell pepper
+ 0.16% : corn
+ 0.07% : candle
+ 0.03% : confectionery
+ 0.03% : ear
+ 0.02% : oil filter
+ 0.02% : Granny Smith
+ 0.01% : plastic bag
+ 0.01% : stove
+ 0.01% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q007.jpg
+99.42% : bell pepper
+ 0.18% : corn
+ 0.04% : candle
+ 0.03% : ear
+ 0.03% : confectionery
+ 0.01% : plastic bag
+ 0.01% : oil filter
+ 0.01% : ping-pong ball
+ 0.01% : stove
+ 0.01% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q008.jpg
+99.53% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : plastic bag
+ 0.01% : spaghetti squash
+ 0.01% : confectionery
+ 0.01% : acorn squash
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q009.jpg
+98.76% : bell pepper
+ 0.40% : corn
+ 0.08% : ear
+ 0.04% : Granny Smith
+ 0.04% : confectionery
+ 0.03% : plastic bag
+ 0.03% : grocery store
+ 0.02% : stove
+ 0.02% : ping-pong ball
+ 0.02% : candle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q010.jpg
+99.44% : bell pepper
+ 0.24% : corn
+ 0.04% : ear
+ 0.01% : confectionery
+ 0.01% : spaghetti squash
+ 0.01% : ping-pong ball
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : plastic bag
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q011.jpg
+99.39% : bell pepper
+ 0.21% : corn
+ 0.04% : ear
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : plastic bag
+ 0.01% : stove
+ 0.01% : confectionery
+ 0.01% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q012.jpg
+99.20% : bell pepper
+ 0.31% : corn
+ 0.06% : ear
+ 0.04% : Granny Smith
+ 0.02% : spaghetti squash
+ 0.02% : plastic bag
+ 0.01% : grocery store
+ 0.01% : stove
+ 0.01% : acorn squash
+ 0.01% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q013.jpg
+99.42% : bell pepper
+ 0.12% : corn
+ 0.03% : spaghetti squash
+ 0.03% : ear
+ 0.03% : Granny Smith
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : butternut squash
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q014.jpg
+98.99% : bell pepper
+ 0.42% : corn
+ 0.05% : ear
+ 0.04% : Granny Smith
+ 0.02% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : plastic bag
+ 0.01% : stove
+ 0.01% : confectionery
+ 0.01% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q015.jpg
+99.21% : bell pepper
+ 0.18% : corn
+ 0.04% : ear
+ 0.02% : Granny Smith
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.02% : spaghetti squash
+ 0.01% : plastic bag
+ 0.01% : butternut squash
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q016.jpg
+99.20% : bell pepper
+ 0.19% : corn
+ 0.03% : ear
+ 0.03% : Granny Smith
+ 0.02% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q017.jpg
+99.25% : bell pepper
+ 0.13% : corn
+ 0.04% : Granny Smith
+ 0.04% : spaghetti squash
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : plastic bag
+ 0.01% : stove
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q018.jpg
+99.35% : bell pepper
+ 0.16% : corn
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : spaghetti squash
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q019.jpg
+99.47% : bell pepper
+ 0.10% : corn
+ 0.02% : grocery store
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.02% : spaghetti squash
+ 0.02% : acorn squash
+ 0.01% : plastic bag
+ 0.01% : stove
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q020.jpg
+99.27% : bell pepper
+ 0.19% : corn
+ 0.03% : Granny Smith
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q021.jpg
+99.27% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.02% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q022.jpg
+99.50% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q023.jpg
+99.24% : bell pepper
+ 0.14% : corn
+ 0.03% : ear
+ 0.03% : grocery store
+ 0.02% : acorn squash
+ 0.02% : Granny Smith
+ 0.02% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q024.jpg
+99.42% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : cucumber
+ 0.01% : stove
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q025.jpg
+99.45% : bell pepper
+ 0.13% : corn
+ 0.03% : ear
+ 0.02% : Granny Smith
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q026.jpg
+99.37% : bell pepper
+ 0.15% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q027.jpg
+99.23% : bell pepper
+ 0.17% : corn
+ 0.04% : ear
+ 0.02% : grocery store
+ 0.02% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : spaghetti squash
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q028.jpg
+99.53% : bell pepper
+ 0.09% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q029.jpg
+99.47% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q030.jpg
+99.31% : bell pepper
+ 0.13% : corn
+ 0.03% : ear
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : Granny Smith
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q031.jpg
+99.46% : bell pepper
+ 0.09% : corn
+ 0.02% : grocery store
+ 0.02% : ear
+ 0.02% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q032.jpg
+99.46% : bell pepper
+ 0.09% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q033.jpg
+99.42% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q034.jpg
+99.37% : bell pepper
+ 0.13% : corn
+ 0.03% : ear
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : Granny Smith
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q035.jpg
+99.47% : bell pepper
+ 0.13% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q036.jpg
+99.33% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q037.jpg
+99.38% : bell pepper
+ 0.15% : corn
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q038.jpg
+99.36% : bell pepper
+ 0.17% : corn
+ 0.03% : ear
+ 0.02% : grocery store
+ 0.02% : Granny Smith
+ 0.02% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q039.jpg
+99.48% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.02% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : Granny Smith
+ 0.01% : stove
+ 0.01% : ping-pong ball
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q040.jpg
+99.42% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.02% : acorn squash
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q041.jpg
+99.43% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q042.jpg
+99.49% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q043.jpg
+99.49% : bell pepper
+ 0.13% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q044.jpg
+99.51% : bell pepper
+ 0.14% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q045.jpg
+99.49% : bell pepper
+ 0.13% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.02% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q046.jpg
+99.49% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q047.jpg
+99.47% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : acorn squash
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q048.jpg
+99.49% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q049.jpg
+99.52% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q050.jpg
+99.52% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.00% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q051.jpg
+99.51% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.02% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.00% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q052.jpg
+99.57% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q053.jpg
+99.62% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q054.jpg
+99.62% : bell pepper
+ 0.09% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q055.jpg
+99.57% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q056.jpg
+99.59% : bell pepper
+ 0.10% : corn
+ 0.02% : ear
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q057.jpg
+99.63% : bell pepper
+ 0.09% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q058.jpg
+99.64% : bell pepper
+ 0.09% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q059.jpg
+99.65% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q060.jpg
+99.66% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q061.jpg
+99.62% : bell pepper
+ 0.08% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q062.jpg
+99.63% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q063.jpg
+99.66% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q064.jpg
+99.71% : bell pepper
+ 0.07% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q065.jpg
+99.67% : bell pepper
+ 0.08% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q066.jpg
+99.66% : bell pepper
+ 0.09% : corn
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q067.jpg
+99.71% : bell pepper
+ 0.07% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q068.jpg
+99.69% : bell pepper
+ 0.07% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q069.jpg
+99.71% : bell pepper
+ 0.06% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q070.jpg
+99.69% : bell pepper
+ 0.07% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q071.jpg
+99.72% : bell pepper
+ 0.07% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.00% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q072.jpg
+99.69% : bell pepper
+ 0.07% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q073.jpg
+99.71% : bell pepper
+ 0.06% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q074.jpg
+99.65% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q075.jpg
+99.65% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q076.jpg
+99.65% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : thresher
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q077.jpg
+99.68% : bell pepper
+ 0.07% : corn
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : ear
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q078.jpg
+99.66% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q079.jpg
+99.70% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q080.jpg
+99.66% : bell pepper
+ 0.09% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q081.jpg
+99.66% : bell pepper
+ 0.09% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q082.jpg
+99.64% : bell pepper
+ 0.10% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q083.jpg
+99.67% : bell pepper
+ 0.08% : corn
+ 0.01% : ear
+ 0.01% : grocery store
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q084.jpg
+99.58% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q085.jpg
+99.55% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q086.jpg
+99.54% : bell pepper
+ 0.12% : corn
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : grocery store
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q087.jpg
+99.55% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : stove
+ 0.01% : plastic bag
+ 0.01% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q088.jpg
+99.52% : bell pepper
+ 0.12% : corn
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.01% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q089.jpg
+99.56% : bell pepper
+ 0.11% : corn
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.01% : cucumber
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q090.jpg
+99.60% : bell pepper
+ 0.11% : corn
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q091.jpg
+99.55% : bell pepper
+ 0.12% : corn
+ 0.02% : Granny Smith
+ 0.02% : ear
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : thresher
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q092.jpg
+99.57% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q093.jpg
+99.57% : bell pepper
+ 0.13% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.01% : acorn squash
+ 0.00% : jackfruit
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q094.jpg
+99.52% : bell pepper
+ 0.13% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q095.jpg
+99.55% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : spaghetti squash
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q096.jpg
+99.55% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : cucumber
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q097.jpg
+99.54% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : acorn squash
+ 0.01% : spaghetti squash
+ 0.01% : stove
+ 0.00% : thresher
+ 0.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q098.jpg
+99.56% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q099.jpg
+99.53% : bell pepper
+ 0.11% : corn
+ 0.02% : ear
+ 0.01% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : plastic bag
+ 0.00% : thresher
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper11Q100.jpg
+99.51% : bell pepper
+ 0.12% : corn
+ 0.02% : ear
+ 0.02% : Granny Smith
+ 0.01% : grocery store
+ 0.01% : spaghetti squash
+ 0.01% : acorn squash
+ 0.01% : stove
+ 0.00% : cucumber
+ 0.00% : plastic bag

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q001.jpg
+98.16% : cucumber
+ 1.23% : zucchini
+ 0.02% : coil
+ 0.02% : head cabbage
+ 0.01% : bell pepper
+ 0.01% : radiator
+ 0.01% : modem
+ 0.01% : wine bottle
+ 0.01% : shovel
+ 0.01% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q002.jpg
+98.11% : cucumber
+ 1.28% : zucchini
+ 0.02% : head cabbage
+ 0.02% : coil
+ 0.01% : bell pepper
+ 0.01% : radiator
+ 0.01% : modem
+ 0.01% : wine bottle
+ 0.01% : shovel
+ 0.01% : canoe
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q003.jpg
+99.18% : cucumber
+ 0.50% : zucchini
+ 0.01% : coil
+ 0.01% : bell pepper
+ 0.01% : shovel
+ 0.01% : radiator
+ 0.01% : head cabbage
+ 0.01% : modem
+ 0.01% : canoe
+ 0.00% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q004.jpg
+97.81% : cucumber
+ 1.40% : zucchini
+ 0.04% : wine bottle
+ 0.03% : bell pepper
+ 0.02% : coil
+ 0.01% : head cabbage
+ 0.01% : modem
+ 0.01% : radiator
+ 0.01% : canoe
+ 0.01% : picket fence
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q005.jpg
+73.63% : cucumber
+21.66% : zucchini
+ 0.24% : bell pepper
+ 0.07% : head cabbage
+ 0.06% : ear
+ 0.06% : wine bottle
+ 0.06% : Granny Smith
+ 0.03% : coil
+ 0.03% : modem
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q006.jpg
+71.44% : cucumber
+21.32% : zucchini
+ 0.49% : bell pepper
+ 0.11% : Granny Smith
+ 0.10% : head cabbage
+ 0.09% : wine bottle
+ 0.07% : ear
+ 0.07% : artichoke
+ 0.07% : coil
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q007.jpg
+79.89% : cucumber
+15.08% : zucchini
+ 0.51% : bell pepper
+ 0.11% : ear
+ 0.11% : head cabbage
+ 0.08% : Granny Smith
+ 0.08% : wine bottle
+ 0.06% : grocery store
+ 0.05% : acorn squash
+ 0.04% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q008.jpg
+75.88% : cucumber
+21.74% : zucchini
+ 0.46% : bell pepper
+ 0.07% : head cabbage
+ 0.06% : ear
+ 0.06% : wine bottle
+ 0.05% : Granny Smith
+ 0.03% : acorn squash
+ 0.03% : grocery store
+ 0.02% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q009.jpg
+85.81% : cucumber
+12.55% : zucchini
+ 0.20% : bell pepper
+ 0.07% : head cabbage
+ 0.06% : Granny Smith
+ 0.05% : ear
+ 0.04% : grocery store
+ 0.03% : wine bottle
+ 0.02% : artichoke
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q010.jpg
+67.82% : cucumber
+27.75% : zucchini
+ 0.38% : bell pepper
+ 0.14% : wine bottle
+ 0.12% : ear
+ 0.12% : head cabbage
+ 0.10% : Granny Smith
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.04% : artichoke
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q011.jpg
+83.16% : cucumber
+11.33% : zucchini
+ 1.10% : bell pepper
+ 0.24% : Granny Smith
+ 0.22% : wine bottle
+ 0.13% : ear
+ 0.12% : grocery store
+ 0.11% : head cabbage
+ 0.05% : corn
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q012.jpg
+80.96% : cucumber
+12.78% : zucchini
+ 1.40% : bell pepper
+ 0.17% : Granny Smith
+ 0.14% : head cabbage
+ 0.13% : ear
+ 0.12% : grocery store
+ 0.09% : wine bottle
+ 0.07% : acorn squash
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q013.jpg
+83.60% : cucumber
+10.55% : zucchini
+ 1.36% : bell pepper
+ 0.22% : Granny Smith
+ 0.16% : grocery store
+ 0.16% : ear
+ 0.15% : head cabbage
+ 0.08% : wine bottle
+ 0.06% : corn
+ 0.06% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q014.jpg
+90.21% : cucumber
+ 7.39% : zucchini
+ 0.46% : bell pepper
+ 0.10% : Granny Smith
+ 0.08% : head cabbage
+ 0.08% : ear
+ 0.06% : grocery store
+ 0.05% : wine bottle
+ 0.03% : acorn squash
+ 0.03% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q015.jpg
+90.79% : cucumber
+ 4.01% : zucchini
+ 1.40% : bell pepper
+ 0.22% : Granny Smith
+ 0.20% : ear
+ 0.17% : head cabbage
+ 0.15% : grocery store
+ 0.08% : corn
+ 0.08% : wine bottle
+ 0.05% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q016.jpg
+91.34% : cucumber
+ 6.37% : zucchini
+ 0.39% : bell pepper
+ 0.10% : Granny Smith
+ 0.10% : ear
+ 0.08% : head cabbage
+ 0.08% : grocery store
+ 0.05% : corn
+ 0.04% : wine bottle
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q017.jpg
+91.53% : cucumber
+ 4.69% : zucchini
+ 1.15% : bell pepper
+ 0.12% : head cabbage
+ 0.11% : Granny Smith
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.05% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q018.jpg
+84.97% : cucumber
+11.19% : zucchini
+ 0.96% : bell pepper
+ 0.15% : ear
+ 0.12% : grocery store
+ 0.12% : Granny Smith
+ 0.11% : head cabbage
+ 0.05% : acorn squash
+ 0.05% : wine bottle
+ 0.05% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q019.jpg
+90.89% : cucumber
+ 7.29% : zucchini
+ 0.36% : bell pepper
+ 0.09% : Granny Smith
+ 0.08% : ear
+ 0.06% : grocery store
+ 0.05% : head cabbage
+ 0.03% : wine bottle
+ 0.03% : corn
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q020.jpg
+88.88% : cucumber
+ 8.68% : zucchini
+ 0.43% : bell pepper
+ 0.09% : ear
+ 0.08% : head cabbage
+ 0.08% : grocery store
+ 0.08% : Granny Smith
+ 0.04% : wine bottle
+ 0.03% : corn
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q021.jpg
+85.00% : cucumber
+11.58% : zucchini
+ 0.70% : bell pepper
+ 0.13% : ear
+ 0.13% : Granny Smith
+ 0.11% : grocery store
+ 0.11% : head cabbage
+ 0.05% : wine bottle
+ 0.04% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q022.jpg
+84.31% : cucumber
+11.87% : zucchini
+ 0.83% : bell pepper
+ 0.12% : head cabbage
+ 0.12% : ear
+ 0.11% : Granny Smith
+ 0.09% : grocery store
+ 0.06% : wine bottle
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q023.jpg
+88.42% : cucumber
+ 8.86% : zucchini
+ 0.58% : bell pepper
+ 0.11% : Granny Smith
+ 0.10% : head cabbage
+ 0.09% : ear
+ 0.09% : grocery store
+ 0.04% : cauliflower
+ 0.03% : acorn squash
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q024.jpg
+87.44% : cucumber
+10.48% : zucchini
+ 0.31% : bell pepper
+ 0.14% : Granny Smith
+ 0.09% : ear
+ 0.09% : head cabbage
+ 0.08% : grocery store
+ 0.03% : cauliflower
+ 0.03% : corn
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q025.jpg
+84.85% : cucumber
+11.62% : zucchini
+ 0.60% : bell pepper
+ 0.17% : head cabbage
+ 0.16% : Granny Smith
+ 0.15% : ear
+ 0.11% : grocery store
+ 0.05% : acorn squash
+ 0.05% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q026.jpg
+81.66% : cucumber
+14.72% : zucchini
+ 0.56% : bell pepper
+ 0.17% : ear
+ 0.15% : Granny Smith
+ 0.15% : head cabbage
+ 0.12% : grocery store
+ 0.06% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q027.jpg
+78.47% : cucumber
+16.66% : zucchini
+ 0.80% : bell pepper
+ 0.18% : ear
+ 0.18% : Granny Smith
+ 0.12% : head cabbage
+ 0.11% : grocery store
+ 0.05% : corn
+ 0.05% : acorn squash
+ 0.05% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q028.jpg
+84.82% : cucumber
+11.66% : zucchini
+ 0.65% : bell pepper
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.10% : head cabbage
+ 0.08% : grocery store
+ 0.04% : cauliflower
+ 0.04% : corn
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q029.jpg
+84.17% : cucumber
+11.96% : zucchini
+ 0.84% : bell pepper
+ 0.15% : Granny Smith
+ 0.13% : ear
+ 0.13% : head cabbage
+ 0.09% : grocery store
+ 0.05% : corn
+ 0.04% : cauliflower
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q030.jpg
+80.71% : cucumber
+16.47% : zucchini
+ 0.44% : bell pepper
+ 0.10% : Granny Smith
+ 0.09% : ear
+ 0.08% : grocery store
+ 0.07% : head cabbage
+ 0.04% : wine bottle
+ 0.03% : acorn squash
+ 0.03% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q031.jpg
+78.61% : cucumber
+17.44% : zucchini
+ 0.70% : bell pepper
+ 0.16% : Granny Smith
+ 0.12% : ear
+ 0.11% : head cabbage
+ 0.08% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q032.jpg
+83.76% : cucumber
+13.93% : zucchini
+ 0.37% : bell pepper
+ 0.08% : Granny Smith
+ 0.07% : head cabbage
+ 0.07% : ear
+ 0.05% : grocery store
+ 0.03% : acorn squash
+ 0.03% : wine bottle
+ 0.02% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q033.jpg
+85.04% : cucumber
+11.87% : zucchini
+ 0.59% : bell pepper
+ 0.14% : Granny Smith
+ 0.08% : ear
+ 0.08% : head cabbage
+ 0.07% : grocery store
+ 0.03% : acorn squash
+ 0.03% : corn
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q034.jpg
+86.34% : cucumber
+10.20% : zucchini
+ 0.74% : bell pepper
+ 0.14% : Granny Smith
+ 0.11% : ear
+ 0.09% : head cabbage
+ 0.08% : grocery store
+ 0.04% : corn
+ 0.04% : acorn squash
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q035.jpg
+86.57% : cucumber
+10.50% : zucchini
+ 0.55% : bell pepper
+ 0.10% : ear
+ 0.09% : head cabbage
+ 0.09% : Granny Smith
+ 0.08% : grocery store
+ 0.04% : wine bottle
+ 0.03% : corn
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q036.jpg
+82.31% : cucumber
+14.67% : zucchini
+ 0.37% : bell pepper
+ 0.10% : ear
+ 0.09% : Granny Smith
+ 0.09% : head cabbage
+ 0.07% : grocery store
+ 0.03% : wine bottle
+ 0.03% : corn
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q037.jpg
+82.99% : cucumber
+13.99% : zucchini
+ 0.36% : bell pepper
+ 0.10% : ear
+ 0.09% : head cabbage
+ 0.08% : Granny Smith
+ 0.07% : grocery store
+ 0.04% : wine bottle
+ 0.03% : corn
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q038.jpg
+77.44% : cucumber
+18.21% : zucchini
+ 0.59% : bell pepper
+ 0.14% : Granny Smith
+ 0.13% : ear
+ 0.11% : head cabbage
+ 0.11% : grocery store
+ 0.06% : wine bottle
+ 0.05% : corn
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q039.jpg
+77.16% : cucumber
+18.74% : zucchini
+ 0.55% : bell pepper
+ 0.14% : ear
+ 0.13% : Granny Smith
+ 0.11% : head cabbage
+ 0.10% : grocery store
+ 0.05% : wine bottle
+ 0.04% : corn
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q040.jpg
+81.62% : cucumber
+15.20% : zucchini
+ 0.48% : bell pepper
+ 0.11% : Granny Smith
+ 0.11% : ear
+ 0.10% : head cabbage
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.03% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q041.jpg
+84.78% : cucumber
+13.03% : zucchini
+ 0.30% : bell pepper
+ 0.08% : ear
+ 0.08% : Granny Smith
+ 0.07% : head cabbage
+ 0.06% : grocery store
+ 0.03% : wine bottle
+ 0.03% : corn
+ 0.02% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q042.jpg
+86.05% : cucumber
+11.59% : zucchini
+ 0.39% : bell pepper
+ 0.10% : ear
+ 0.09% : Granny Smith
+ 0.08% : head cabbage
+ 0.06% : grocery store
+ 0.03% : corn
+ 0.03% : wine bottle
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q043.jpg
+86.64% : cucumber
+11.20% : zucchini
+ 0.35% : bell pepper
+ 0.09% : ear
+ 0.08% : Granny Smith
+ 0.07% : head cabbage
+ 0.06% : grocery store
+ 0.03% : corn
+ 0.03% : acorn squash
+ 0.02% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q044.jpg
+82.61% : cucumber
+14.45% : zucchini
+ 0.47% : bell pepper
+ 0.11% : Granny Smith
+ 0.11% : ear
+ 0.09% : head cabbage
+ 0.08% : grocery store
+ 0.04% : corn
+ 0.03% : acorn squash
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q045.jpg
+82.25% : cucumber
+14.83% : zucchini
+ 0.43% : bell pepper
+ 0.11% : Granny Smith
+ 0.10% : ear
+ 0.10% : head cabbage
+ 0.07% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q046.jpg
+81.10% : cucumber
+16.07% : zucchini
+ 0.40% : bell pepper
+ 0.11% : ear
+ 0.09% : Granny Smith
+ 0.09% : head cabbage
+ 0.07% : grocery store
+ 0.04% : acorn squash
+ 0.03% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q047.jpg
+79.75% : cucumber
+16.90% : zucchini
+ 0.48% : bell pepper
+ 0.12% : ear
+ 0.12% : Granny Smith
+ 0.11% : head cabbage
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q048.jpg
+77.61% : cucumber
+19.16% : zucchini
+ 0.41% : bell pepper
+ 0.12% : ear
+ 0.11% : Granny Smith
+ 0.11% : head cabbage
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q049.jpg
+79.17% : cucumber
+17.73% : zucchini
+ 0.46% : bell pepper
+ 0.11% : ear
+ 0.10% : Granny Smith
+ 0.09% : head cabbage
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.04% : wine bottle
+ 0.03% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q050.jpg
+79.89% : cucumber
+17.18% : zucchini
+ 0.45% : bell pepper
+ 0.11% : ear
+ 0.10% : Granny Smith
+ 0.09% : head cabbage
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.04% : wine bottle
+ 0.03% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q051.jpg
+79.65% : cucumber
+17.63% : zucchini
+ 0.41% : bell pepper
+ 0.10% : ear
+ 0.09% : Granny Smith
+ 0.08% : head cabbage
+ 0.07% : grocery store
+ 0.04% : acorn squash
+ 0.04% : wine bottle
+ 0.03% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q052.jpg
+77.86% : cucumber
+18.65% : zucchini
+ 0.58% : bell pepper
+ 0.15% : Granny Smith
+ 0.12% : ear
+ 0.12% : head cabbage
+ 0.11% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q053.jpg
+81.14% : cucumber
+16.06% : zucchini
+ 0.52% : bell pepper
+ 0.14% : Granny Smith
+ 0.10% : ear
+ 0.10% : head cabbage
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.03% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q054.jpg
+79.94% : cucumber
+16.80% : zucchini
+ 0.58% : bell pepper
+ 0.14% : Granny Smith
+ 0.12% : ear
+ 0.12% : head cabbage
+ 0.11% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q055.jpg
+82.38% : cucumber
+14.74% : zucchini
+ 0.55% : bell pepper
+ 0.11% : ear
+ 0.11% : Granny Smith
+ 0.10% : head cabbage
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q056.jpg
+80.48% : cucumber
+16.36% : zucchini
+ 0.60% : bell pepper
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.11% : head cabbage
+ 0.10% : grocery store
+ 0.05% : acorn squash
+ 0.05% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q057.jpg
+83.37% : cucumber
+14.15% : zucchini
+ 0.43% : bell pepper
+ 0.09% : ear
+ 0.09% : Granny Smith
+ 0.08% : grocery store
+ 0.08% : head cabbage
+ 0.04% : acorn squash
+ 0.03% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q058.jpg
+79.44% : cucumber
+17.08% : zucchini
+ 0.53% : bell pepper
+ 0.12% : head cabbage
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.11% : grocery store
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q059.jpg
+80.95% : cucumber
+15.67% : zucchini
+ 0.50% : bell pepper
+ 0.13% : Granny Smith
+ 0.11% : grocery store
+ 0.11% : head cabbage
+ 0.11% : ear
+ 0.05% : acorn squash
+ 0.04% : wine bottle
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q060.jpg
+81.32% : cucumber
+15.14% : zucchini
+ 0.50% : bell pepper
+ 0.14% : Granny Smith
+ 0.12% : ear
+ 0.11% : head cabbage
+ 0.11% : grocery store
+ 0.05% : acorn squash
+ 0.04% : wine bottle
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q061.jpg
+80.05% : cucumber
+16.86% : zucchini
+ 0.42% : bell pepper
+ 0.13% : Granny Smith
+ 0.11% : head cabbage
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q062.jpg
+76.19% : cucumber
+20.30% : zucchini
+ 0.47% : bell pepper
+ 0.13% : Granny Smith
+ 0.12% : head cabbage
+ 0.11% : ear
+ 0.10% : grocery store
+ 0.06% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q063.jpg
+76.34% : cucumber
+20.00% : zucchini
+ 0.51% : bell pepper
+ 0.14% : Granny Smith
+ 0.14% : head cabbage
+ 0.12% : ear
+ 0.11% : grocery store
+ 0.06% : acorn squash
+ 0.05% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q064.jpg
+78.81% : cucumber
+17.84% : zucchini
+ 0.49% : bell pepper
+ 0.14% : Granny Smith
+ 0.12% : head cabbage
+ 0.12% : ear
+ 0.10% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q065.jpg
+79.74% : cucumber
+16.92% : zucchini
+ 0.48% : bell pepper
+ 0.15% : Granny Smith
+ 0.12% : head cabbage
+ 0.11% : ear
+ 0.10% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q066.jpg
+81.92% : cucumber
+15.11% : zucchini
+ 0.43% : bell pepper
+ 0.13% : Granny Smith
+ 0.11% : ear
+ 0.10% : head cabbage
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q067.jpg
+81.18% : cucumber
+15.68% : zucchini
+ 0.52% : bell pepper
+ 0.12% : Granny Smith
+ 0.10% : head cabbage
+ 0.10% : ear
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q068.jpg
+84.04% : cucumber
+12.99% : zucchini
+ 0.52% : bell pepper
+ 0.12% : Granny Smith
+ 0.10% : ear
+ 0.09% : head cabbage
+ 0.08% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q069.jpg
+81.27% : cucumber
+15.72% : zucchini
+ 0.48% : bell pepper
+ 0.12% : Granny Smith
+ 0.10% : ear
+ 0.08% : head cabbage
+ 0.08% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q070.jpg
+84.37% : cucumber
+12.79% : zucchini
+ 0.47% : bell pepper
+ 0.12% : Granny Smith
+ 0.10% : ear
+ 0.08% : grocery store
+ 0.08% : head cabbage
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.04% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q071.jpg
+83.82% : cucumber
+13.34% : zucchini
+ 0.37% : bell pepper
+ 0.12% : Granny Smith
+ 0.11% : ear
+ 0.10% : grocery store
+ 0.08% : head cabbage
+ 0.05% : wine bottle
+ 0.04% : corn
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q072.jpg
+84.15% : cucumber
+13.23% : zucchini
+ 0.35% : bell pepper
+ 0.12% : Granny Smith
+ 0.10% : ear
+ 0.09% : grocery store
+ 0.08% : head cabbage
+ 0.04% : wine bottle
+ 0.04% : corn
+ 0.03% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q073.jpg
+85.21% : cucumber
+11.92% : zucchini
+ 0.41% : bell pepper
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.09% : head cabbage
+ 0.05% : wine bottle
+ 0.05% : corn
+ 0.04% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q074.jpg
+83.73% : cucumber
+13.49% : zucchini
+ 0.41% : bell pepper
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.10% : head cabbage
+ 0.09% : grocery store
+ 0.04% : corn
+ 0.04% : acorn squash
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q075.jpg
+83.25% : cucumber
+13.98% : zucchini
+ 0.42% : bell pepper
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.10% : head cabbage
+ 0.09% : grocery store
+ 0.04% : corn
+ 0.04% : acorn squash
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q076.jpg
+81.40% : cucumber
+15.67% : zucchini
+ 0.44% : bell pepper
+ 0.14% : Granny Smith
+ 0.11% : ear
+ 0.10% : head cabbage
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.03% : wine bottle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q077.jpg
+75.60% : cucumber
+20.94% : zucchini
+ 0.47% : bell pepper
+ 0.17% : Granny Smith
+ 0.13% : ear
+ 0.12% : head cabbage
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q078.jpg
+78.66% : cucumber
+17.60% : zucchini
+ 0.63% : bell pepper
+ 0.19% : Granny Smith
+ 0.15% : ear
+ 0.12% : head cabbage
+ 0.10% : grocery store
+ 0.05% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q079.jpg
+77.75% : cucumber
+18.47% : zucchini
+ 0.62% : bell pepper
+ 0.21% : Granny Smith
+ 0.14% : ear
+ 0.12% : head cabbage
+ 0.09% : grocery store
+ 0.05% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q080.jpg
+77.08% : cucumber
+18.57% : zucchini
+ 0.69% : bell pepper
+ 0.20% : Granny Smith
+ 0.18% : ear
+ 0.13% : head cabbage
+ 0.11% : grocery store
+ 0.06% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q081.jpg
+75.06% : cucumber
+20.26% : zucchini
+ 0.72% : bell pepper
+ 0.20% : Granny Smith
+ 0.17% : ear
+ 0.14% : head cabbage
+ 0.11% : grocery store
+ 0.07% : acorn squash
+ 0.06% : corn
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q082.jpg
+74.47% : cucumber
+20.64% : zucchini
+ 0.71% : bell pepper
+ 0.19% : Granny Smith
+ 0.16% : ear
+ 0.15% : head cabbage
+ 0.11% : grocery store
+ 0.07% : acorn squash
+ 0.06% : corn
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q083.jpg
+74.67% : cucumber
+21.11% : zucchini
+ 0.50% : bell pepper
+ 0.15% : Granny Smith
+ 0.14% : ear
+ 0.14% : head cabbage
+ 0.10% : grocery store
+ 0.06% : acorn squash
+ 0.05% : corn
+ 0.05% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q084.jpg
+78.99% : cucumber
+17.54% : zucchini
+ 0.43% : bell pepper
+ 0.12% : head cabbage
+ 0.11% : Granny Smith
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q085.jpg
+78.70% : cucumber
+17.97% : zucchini
+ 0.42% : bell pepper
+ 0.12% : head cabbage
+ 0.11% : Granny Smith
+ 0.11% : ear
+ 0.09% : grocery store
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q086.jpg
+80.41% : cucumber
+16.44% : zucchini
+ 0.43% : bell pepper
+ 0.13% : head cabbage
+ 0.11% : ear
+ 0.10% : Granny Smith
+ 0.08% : grocery store
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q087.jpg
+80.71% : cucumber
+15.88% : zucchini
+ 0.50% : bell pepper
+ 0.13% : head cabbage
+ 0.12% : Granny Smith
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.04% : cauliflower
+ 0.04% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q088.jpg
+81.87% : cucumber
+14.83% : zucchini
+ 0.50% : bell pepper
+ 0.12% : Granny Smith
+ 0.12% : head cabbage
+ 0.12% : ear
+ 0.09% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q089.jpg
+81.79% : cucumber
+15.09% : zucchini
+ 0.51% : bell pepper
+ 0.12% : Granny Smith
+ 0.11% : ear
+ 0.11% : head cabbage
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q090.jpg
+83.43% : cucumber
+13.68% : zucchini
+ 0.44% : bell pepper
+ 0.12% : Granny Smith
+ 0.11% : head cabbage
+ 0.11% : ear
+ 0.08% : grocery store
+ 0.04% : acorn squash
+ 0.04% : corn
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q091.jpg
+86.67% : cucumber
+10.37% : zucchini
+ 0.55% : bell pepper
+ 0.12% : ear
+ 0.12% : head cabbage
+ 0.12% : Granny Smith
+ 0.09% : grocery store
+ 0.04% : corn
+ 0.03% : acorn squash
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q092.jpg
+81.91% : cucumber
+13.89% : zucchini
+ 1.04% : bell pepper
+ 0.25% : Granny Smith
+ 0.14% : ear
+ 0.14% : head cabbage
+ 0.11% : grocery store
+ 0.06% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q093.jpg
+76.99% : cucumber
+19.11% : zucchini
+ 0.73% : bell pepper
+ 0.23% : Granny Smith
+ 0.17% : ear
+ 0.13% : head cabbage
+ 0.13% : grocery store
+ 0.06% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q094.jpg
+74.83% : cucumber
+21.12% : zucchini
+ 0.86% : bell pepper
+ 0.20% : Granny Smith
+ 0.19% : ear
+ 0.14% : head cabbage
+ 0.13% : grocery store
+ 0.06% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q095.jpg
+77.42% : cucumber
+18.81% : zucchini
+ 0.80% : bell pepper
+ 0.16% : ear
+ 0.16% : Granny Smith
+ 0.13% : head cabbage
+ 0.12% : grocery store
+ 0.05% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q096.jpg
+77.54% : cucumber
+19.01% : zucchini
+ 0.70% : bell pepper
+ 0.15% : Granny Smith
+ 0.15% : ear
+ 0.11% : head cabbage
+ 0.10% : grocery store
+ 0.05% : corn
+ 0.04% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q097.jpg
+79.55% : cucumber
+16.96% : zucchini
+ 0.67% : bell pepper
+ 0.17% : Granny Smith
+ 0.14% : ear
+ 0.12% : head cabbage
+ 0.10% : grocery store
+ 0.05% : corn
+ 0.04% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q098.jpg
+77.64% : cucumber
+18.72% : zucchini
+ 0.72% : bell pepper
+ 0.16% : Granny Smith
+ 0.15% : ear
+ 0.13% : head cabbage
+ 0.11% : grocery store
+ 0.05% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q099.jpg
+76.47% : cucumber
+19.57% : zucchini
+ 0.80% : bell pepper
+ 0.18% : Granny Smith
+ 0.16% : ear
+ 0.13% : head cabbage
+ 0.12% : grocery store
+ 0.05% : corn
+ 0.05% : acorn squash
+ 0.04% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/cucumbers/cucumber7Q100.jpg
+75.96% : cucumber
+20.16% : zucchini
+ 0.79% : bell pepper
+ 0.17% : Granny Smith
+ 0.16% : ear
+ 0.12% : head cabbage
+ 0.12% : grocery store
+ 0.05% : acorn squash
+ 0.05% : corn
+ 0.04% : cauliflower

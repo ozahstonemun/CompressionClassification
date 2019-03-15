@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q001.jpg
+46.90% : candle
+21.68% : jack-o'-lantern
+ 5.34% : orange
+ 3.26% : chain saw
+ 3.01% : ping-pong ball
+ 1.50% : tennis ball
+ 1.10% : balloon
+ 0.69% : lemon
+ 0.69% : spaghetti squash
+ 0.25% : torch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q002.jpg
+46.89% : candle
+21.70% : jack-o'-lantern
+ 5.33% : orange
+ 3.27% : chain saw
+ 3.01% : ping-pong ball
+ 1.50% : tennis ball
+ 1.10% : balloon
+ 0.69% : lemon
+ 0.69% : spaghetti squash
+ 0.25% : torch
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q003.jpg
+44.69% : candle
+17.90% : jack-o'-lantern
+ 7.18% : orange
+ 4.11% : ping-pong ball
+ 4.09% : chain saw
+ 1.59% : tennis ball
+ 0.96% : spaghetti squash
+ 0.96% : balloon
+ 0.90% : lemon
+ 0.28% : baseball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q004.jpg
+56.21% : orange
+ 7.63% : lemon
+ 6.65% : jack-o'-lantern
+ 4.31% : chain saw
+ 3.65% : candle
+ 2.92% : ping-pong ball
+ 0.95% : balloon
+ 0.89% : spaghetti squash
+ 0.80% : tennis ball
+ 0.24% : lampshade
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q005.jpg
+89.21% : orange
+ 4.27% : lemon
+ 2.09% : candle
+ 0.43% : jack-o'-lantern
+ 0.40% : ping-pong ball
+ 0.22% : spaghetti squash
+ 0.12% : lampshade
+ 0.06% : tennis ball
+ 0.06% : croquet ball
+ 0.05% : balloon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q006.jpg
+85.40% : orange
+ 6.58% : jack-o'-lantern
+ 1.26% : lemon
+ 0.80% : candle
+ 0.18% : ping-pong ball
+ 0.14% : spaghetti squash
+ 0.08% : butternut squash
+ 0.07% : tennis ball
+ 0.05% : lampshade
+ 0.05% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q007.jpg
+94.32% : orange
+ 0.64% : lemon
+ 0.54% : jack-o'-lantern
+ 0.26% : candle
+ 0.17% : ping-pong ball
+ 0.10% : spaghetti squash
+ 0.05% : butternut squash
+ 0.05% : lampshade
+ 0.04% : baseball
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q008.jpg
+97.68% : orange
+ 0.26% : lemon
+ 0.04% : jack-o'-lantern
+ 0.03% : basketball
+ 0.03% : lifeboat
+ 0.02% : ping-pong ball
+ 0.02% : banana
+ 0.02% : space heater
+ 0.01% : monarch
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q009.jpg
+97.60% : orange
+ 0.35% : lemon
+ 0.03% : basketball
+ 0.02% : jack-o'-lantern
+ 0.02% : lifeboat
+ 0.02% : ping-pong ball
+ 0.02% : banana
+ 0.02% : croquet ball
+ 0.02% : space heater
+ 0.01% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q010.jpg
+97.31% : orange
+ 0.45% : lemon
+ 0.03% : jack-o'-lantern
+ 0.03% : basketball
+ 0.02% : banana
+ 0.02% : ping-pong ball
+ 0.02% : lifeboat
+ 0.01% : butternut squash
+ 0.01% : spaghetti squash
+ 0.01% : wok
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q011.jpg
+97.58% : orange
+ 0.77% : lemon
+ 0.03% : wok
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : banana
+ 0.02% : jack-o'-lantern
+ 0.02% : frying pan
+ 0.02% : ocarina
+ 0.02% : butternut squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q012.jpg
+97.09% : orange
+ 0.56% : lemon
+ 0.04% : basketball
+ 0.03% : banana
+ 0.02% : lifeboat
+ 0.02% : wok
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : croquet ball
+ 0.01% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q013.jpg
+98.49% : orange
+ 0.34% : lemon
+ 0.02% : ping-pong ball
+ 0.02% : banana
+ 0.02% : wok
+ 0.01% : spaghetti squash
+ 0.01% : croquet ball
+ 0.01% : ocarina
+ 0.01% : basketball
+ 0.01% : jack-o'-lantern
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q014.jpg
+97.69% : orange
+ 0.86% : lemon
+ 0.02% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : banana
+ 0.01% : basketball
+ 0.01% : wok
+ 0.01% : jack-o'-lantern
+ 0.01% : croquet ball
+ 0.01% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q015.jpg
+97.75% : orange
+ 0.62% : lemon
+ 0.03% : wok
+ 0.02% : banana
+ 0.02% : basketball
+ 0.02% : ping-pong ball
+ 0.02% : spaghetti squash
+ 0.01% : croquet ball
+ 0.01% : frying pan
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q016.jpg
+96.67% : orange
+ 1.53% : lemon
+ 0.04% : ping-pong ball
+ 0.03% : spaghetti squash
+ 0.03% : banana
+ 0.02% : wok
+ 0.02% : combination lock
+ 0.02% : frying pan
+ 0.01% : croquet ball
+ 0.01% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q017.jpg
+97.36% : orange
+ 0.99% : lemon
+ 0.07% : ping-pong ball
+ 0.03% : spaghetti squash
+ 0.03% : wok
+ 0.02% : banana
+ 0.02% : croquet ball
+ 0.02% : frying pan
+ 0.02% : spatula
+ 0.02% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q018.jpg
+95.21% : orange
+ 2.86% : lemon
+ 0.06% : ping-pong ball
+ 0.05% : spaghetti squash
+ 0.04% : wok
+ 0.03% : frying pan
+ 0.02% : buckle
+ 0.02% : croquet ball
+ 0.02% : banana
+ 0.02% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q019.jpg
+96.05% : orange
+ 1.75% : lemon
+ 0.11% : ping-pong ball
+ 0.04% : spaghetti squash
+ 0.03% : frying pan
+ 0.03% : banana
+ 0.03% : wok
+ 0.02% : croquet ball
+ 0.02% : buckle
+ 0.02% : basketball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q020.jpg
+96.41% : orange
+ 1.80% : lemon
+ 0.09% : ping-pong ball
+ 0.04% : spaghetti squash
+ 0.03% : wok
+ 0.03% : frying pan
+ 0.02% : croquet ball
+ 0.02% : banana
+ 0.02% : ocarina
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q021.jpg
+96.38% : orange
+ 1.62% : lemon
+ 0.12% : ping-pong ball
+ 0.04% : spaghetti squash
+ 0.03% : wok
+ 0.03% : croquet ball
+ 0.02% : frying pan
+ 0.02% : banana
+ 0.02% : combination lock
+ 0.02% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q022.jpg
+96.55% : orange
+ 1.29% : lemon
+ 0.06% : wok
+ 0.06% : ping-pong ball
+ 0.03% : banana
+ 0.03% : spaghetti squash
+ 0.03% : frying pan
+ 0.02% : spatula
+ 0.02% : croquet ball
+ 0.02% : buckle
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q023.jpg
+96.62% : orange
+ 1.38% : lemon
+ 0.10% : ping-pong ball
+ 0.07% : wok
+ 0.04% : spaghetti squash
+ 0.03% : frying pan
+ 0.03% : croquet ball
+ 0.02% : banana
+ 0.02% : ocarina
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q024.jpg
+95.04% : orange
+ 2.34% : lemon
+ 0.09% : ping-pong ball
+ 0.08% : wok
+ 0.05% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : banana
+ 0.03% : spatula
+ 0.03% : dough
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q025.jpg
+95.27% : orange
+ 2.22% : lemon
+ 0.11% : ping-pong ball
+ 0.09% : wok
+ 0.05% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : banana
+ 0.03% : dough
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q026.jpg
+95.93% : orange
+ 1.98% : lemon
+ 0.11% : ping-pong ball
+ 0.06% : wok
+ 0.04% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : dough
+ 0.02% : banana
+ 0.02% : spatula
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q027.jpg
+95.87% : orange
+ 1.64% : lemon
+ 0.11% : wok
+ 0.05% : ping-pong ball
+ 0.04% : frying pan
+ 0.03% : banana
+ 0.03% : spaghetti squash
+ 0.02% : croquet ball
+ 0.02% : spatula
+ 0.02% : dough
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q028.jpg
+93.96% : orange
+ 3.03% : lemon
+ 0.12% : ping-pong ball
+ 0.12% : wok
+ 0.05% : spaghetti squash
+ 0.05% : frying pan
+ 0.03% : croquet ball
+ 0.03% : dough
+ 0.03% : ocarina
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q029.jpg
+94.39% : orange
+ 2.69% : lemon
+ 0.11% : ping-pong ball
+ 0.11% : wok
+ 0.05% : spaghetti squash
+ 0.05% : frying pan
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : dough
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q030.jpg
+92.62% : orange
+ 3.64% : lemon
+ 0.20% : ping-pong ball
+ 0.19% : wok
+ 0.09% : spaghetti squash
+ 0.08% : frying pan
+ 0.06% : dough
+ 0.05% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q031.jpg
+94.47% : orange
+ 2.92% : lemon
+ 0.13% : wok
+ 0.10% : ping-pong ball
+ 0.05% : frying pan
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.03% : spatula
+ 0.03% : ocarina
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q032.jpg
+95.06% : orange
+ 2.60% : lemon
+ 0.13% : wok
+ 0.10% : ping-pong ball
+ 0.06% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : dough
+ 0.03% : spatula
+ 0.03% : ocarina
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q033.jpg
+94.26% : orange
+ 2.95% : lemon
+ 0.10% : wok
+ 0.10% : ping-pong ball
+ 0.05% : spaghetti squash
+ 0.05% : frying pan
+ 0.03% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q034.jpg
+94.53% : orange
+ 2.56% : lemon
+ 0.11% : wok
+ 0.10% : ping-pong ball
+ 0.06% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : dough
+ 0.03% : spatula
+ 0.03% : combination lock
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q035.jpg
+95.04% : orange
+ 2.64% : lemon
+ 0.14% : ping-pong ball
+ 0.09% : wok
+ 0.05% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : dough
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q036.jpg
+94.37% : orange
+ 2.86% : lemon
+ 0.14% : ping-pong ball
+ 0.09% : wok
+ 0.06% : frying pan
+ 0.05% : spaghetti squash
+ 0.03% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q037.jpg
+94.05% : orange
+ 3.16% : lemon
+ 0.16% : ping-pong ball
+ 0.10% : wok
+ 0.07% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q038.jpg
+94.14% : orange
+ 3.07% : lemon
+ 0.20% : ping-pong ball
+ 0.12% : wok
+ 0.07% : frying pan
+ 0.06% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.03% : spatula
+ 0.03% : ocarina
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q039.jpg
+92.18% : orange
+ 3.96% : lemon
+ 0.21% : wok
+ 0.14% : ping-pong ball
+ 0.09% : frying pan
+ 0.06% : dough
+ 0.06% : spaghetti squash
+ 0.04% : spatula
+ 0.04% : banana
+ 0.04% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q040.jpg
+92.67% : orange
+ 3.94% : lemon
+ 0.16% : wok
+ 0.11% : ping-pong ball
+ 0.07% : frying pan
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.04% : spatula
+ 0.04% : banana
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q041.jpg
+93.67% : orange
+ 3.39% : lemon
+ 0.14% : ping-pong ball
+ 0.11% : wok
+ 0.06% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q042.jpg
+94.03% : orange
+ 2.87% : lemon
+ 0.17% : wok
+ 0.13% : ping-pong ball
+ 0.08% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q043.jpg
+93.69% : orange
+ 3.18% : lemon
+ 0.19% : wok
+ 0.14% : ping-pong ball
+ 0.09% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : spatula
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q044.jpg
+94.95% : orange
+ 2.41% : lemon
+ 0.21% : wok
+ 0.11% : ping-pong ball
+ 0.10% : frying pan
+ 0.05% : dough
+ 0.03% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : banana
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q045.jpg
+95.25% : orange
+ 2.21% : lemon
+ 0.17% : wok
+ 0.12% : ping-pong ball
+ 0.08% : frying pan
+ 0.04% : dough
+ 0.03% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : banana
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q046.jpg
+94.67% : orange
+ 2.57% : lemon
+ 0.20% : wok
+ 0.12% : ping-pong ball
+ 0.08% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q047.jpg
+94.70% : orange
+ 2.55% : lemon
+ 0.21% : wok
+ 0.12% : ping-pong ball
+ 0.09% : frying pan
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q048.jpg
+94.87% : orange
+ 2.38% : lemon
+ 0.20% : wok
+ 0.12% : ping-pong ball
+ 0.08% : frying pan
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q049.jpg
+95.45% : orange
+ 2.27% : lemon
+ 0.13% : ping-pong ball
+ 0.11% : wok
+ 0.07% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : dough
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q050.jpg
+95.48% : orange
+ 2.24% : lemon
+ 0.13% : ping-pong ball
+ 0.11% : wok
+ 0.07% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : dough
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q051.jpg
+95.41% : orange
+ 2.28% : lemon
+ 0.13% : ping-pong ball
+ 0.11% : wok
+ 0.08% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : dough
+ 0.03% : spatula
+ 0.02% : croquet ball
+ 0.02% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q052.jpg
+95.76% : orange
+ 1.83% : lemon
+ 0.21% : wok
+ 0.12% : ping-pong ball
+ 0.10% : frying pan
+ 0.03% : spatula
+ 0.03% : dough
+ 0.03% : spaghetti squash
+ 0.02% : banana
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q053.jpg
+96.16% : orange
+ 1.66% : lemon
+ 0.14% : wok
+ 0.12% : ping-pong ball
+ 0.08% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : spatula
+ 0.02% : banana
+ 0.02% : dough
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q054.jpg
+96.04% : orange
+ 1.75% : lemon
+ 0.14% : wok
+ 0.12% : ping-pong ball
+ 0.07% : frying pan
+ 0.03% : spaghetti squash
+ 0.03% : spatula
+ 0.02% : dough
+ 0.02% : banana
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q055.jpg
+95.12% : orange
+ 2.46% : lemon
+ 0.12% : ping-pong ball
+ 0.10% : wok
+ 0.06% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : banana
+ 0.02% : spatula
+ 0.02% : dough
+ 0.02% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q056.jpg
+94.48% : orange
+ 2.85% : lemon
+ 0.12% : wok
+ 0.12% : ping-pong ball
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : dough
+ 0.03% : banana
+ 0.03% : spatula
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q057.jpg
+94.85% : orange
+ 2.60% : lemon
+ 0.10% : wok
+ 0.10% : ping-pong ball
+ 0.06% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : banana
+ 0.03% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q058.jpg
+94.44% : orange
+ 2.78% : lemon
+ 0.16% : ping-pong ball
+ 0.12% : wok
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q059.jpg
+94.36% : orange
+ 2.77% : lemon
+ 0.17% : ping-pong ball
+ 0.13% : wok
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q060.jpg
+94.54% : orange
+ 2.65% : lemon
+ 0.17% : ping-pong ball
+ 0.13% : wok
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.03% : dough
+ 0.03% : croquet ball
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q061.jpg
+93.52% : orange
+ 2.66% : lemon
+ 0.26% : wok
+ 0.15% : ping-pong ball
+ 0.10% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : banana
+ 0.04% : dough
+ 0.04% : spatula
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q062.jpg
+93.64% : orange
+ 2.56% : lemon
+ 0.28% : wok
+ 0.16% : ping-pong ball
+ 0.11% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.04% : spatula
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q063.jpg
+93.25% : orange
+ 2.92% : lemon
+ 0.26% : wok
+ 0.16% : ping-pong ball
+ 0.10% : frying pan
+ 0.06% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.04% : spatula
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q064.jpg
+94.43% : orange
+ 2.44% : lemon
+ 0.21% : wok
+ 0.15% : ping-pong ball
+ 0.09% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q065.jpg
+94.65% : orange
+ 2.55% : lemon
+ 0.20% : wok
+ 0.12% : ping-pong ball
+ 0.09% : frying pan
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : mixing bowl
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q066.jpg
+94.69% : orange
+ 2.56% : lemon
+ 0.23% : wok
+ 0.11% : ping-pong ball
+ 0.10% : frying pan
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.04% : spatula
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q067.jpg
+94.56% : orange
+ 2.67% : lemon
+ 0.19% : wok
+ 0.11% : ping-pong ball
+ 0.09% : frying pan
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.04% : spatula
+ 0.03% : banana
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q068.jpg
+95.14% : orange
+ 2.12% : lemon
+ 0.21% : wok
+ 0.12% : ping-pong ball
+ 0.10% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : banana
+ 0.03% : croquet ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q069.jpg
+94.61% : orange
+ 2.36% : lemon
+ 0.18% : wok
+ 0.14% : ping-pong ball
+ 0.10% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : spatula
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q070.jpg
+93.10% : orange
+ 3.01% : lemon
+ 0.22% : wok
+ 0.16% : ping-pong ball
+ 0.11% : frying pan
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.05% : spatula
+ 0.04% : croquet ball
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q071.jpg
+93.28% : orange
+ 3.01% : lemon
+ 0.19% : wok
+ 0.18% : ping-pong ball
+ 0.09% : frying pan
+ 0.06% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.04% : spatula
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q072.jpg
+93.57% : orange
+ 3.00% : lemon
+ 0.17% : wok
+ 0.17% : ping-pong ball
+ 0.08% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.04% : spatula
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q073.jpg
+93.36% : orange
+ 3.25% : lemon
+ 0.16% : wok
+ 0.13% : ping-pong ball
+ 0.09% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.04% : dough
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q074.jpg
+92.74% : orange
+ 3.46% : lemon
+ 0.18% : wok
+ 0.17% : ping-pong ball
+ 0.09% : frying pan
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.05% : croquet ball
+ 0.04% : spatula
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q075.jpg
+92.75% : orange
+ 3.50% : lemon
+ 0.18% : wok
+ 0.17% : ping-pong ball
+ 0.09% : frying pan
+ 0.06% : spaghetti squash
+ 0.05% : dough
+ 0.05% : croquet ball
+ 0.04% : spatula
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q076.jpg
+93.24% : orange
+ 3.34% : lemon
+ 0.18% : wok
+ 0.14% : ping-pong ball
+ 0.09% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.04% : spatula
+ 0.04% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q077.jpg
+94.22% : orange
+ 2.76% : lemon
+ 0.15% : ping-pong ball
+ 0.14% : wok
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : dough
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q078.jpg
+93.87% : orange
+ 3.13% : lemon
+ 0.19% : ping-pong ball
+ 0.13% : wok
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.03% : spatula
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q079.jpg
+93.80% : orange
+ 3.17% : lemon
+ 0.18% : ping-pong ball
+ 0.12% : wok
+ 0.07% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.03% : spatula
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q080.jpg
+93.61% : orange
+ 3.14% : lemon
+ 0.14% : wok
+ 0.14% : ping-pong ball
+ 0.08% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.03% : candle
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q081.jpg
+92.33% : orange
+ 3.83% : lemon
+ 0.21% : wok
+ 0.14% : ping-pong ball
+ 0.11% : frying pan
+ 0.06% : dough
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q082.jpg
+92.00% : orange
+ 4.11% : lemon
+ 0.19% : wok
+ 0.14% : ping-pong ball
+ 0.10% : frying pan
+ 0.06% : dough
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q083.jpg
+92.28% : orange
+ 3.85% : lemon
+ 0.25% : wok
+ 0.14% : ping-pong ball
+ 0.12% : frying pan
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q084.jpg
+93.19% : orange
+ 3.49% : lemon
+ 0.22% : wok
+ 0.15% : ping-pong ball
+ 0.12% : frying pan
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.04% : spatula
+ 0.04% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q085.jpg
+92.60% : orange
+ 3.77% : lemon
+ 0.23% : wok
+ 0.16% : ping-pong ball
+ 0.13% : frying pan
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.04% : spatula
+ 0.04% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q086.jpg
+92.79% : orange
+ 3.69% : lemon
+ 0.19% : wok
+ 0.16% : ping-pong ball
+ 0.10% : frying pan
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q087.jpg
+93.56% : orange
+ 3.15% : lemon
+ 0.19% : wok
+ 0.14% : ping-pong ball
+ 0.11% : frying pan
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q088.jpg
+92.97% : orange
+ 3.39% : lemon
+ 0.20% : wok
+ 0.15% : ping-pong ball
+ 0.11% : frying pan
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q089.jpg
+93.12% : orange
+ 3.28% : lemon
+ 0.23% : wok
+ 0.16% : ping-pong ball
+ 0.12% : frying pan
+ 0.05% : dough
+ 0.05% : spaghetti squash
+ 0.04% : spatula
+ 0.04% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q090.jpg
+93.79% : orange
+ 3.10% : lemon
+ 0.19% : wok
+ 0.14% : ping-pong ball
+ 0.10% : frying pan
+ 0.05% : dough
+ 0.04% : spaghetti squash
+ 0.04% : spatula
+ 0.03% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q091.jpg
+93.62% : orange
+ 2.95% : lemon
+ 0.18% : wok
+ 0.15% : ping-pong ball
+ 0.09% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q092.jpg
+93.16% : orange
+ 3.37% : lemon
+ 0.17% : wok
+ 0.17% : ping-pong ball
+ 0.09% : frying pan
+ 0.05% : spaghetti squash
+ 0.05% : dough
+ 0.04% : spatula
+ 0.04% : croquet ball
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q093.jpg
+93.97% : orange
+ 2.76% : lemon
+ 0.17% : ping-pong ball
+ 0.17% : wok
+ 0.08% : frying pan
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.04% : spaghetti squash
+ 0.03% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q094.jpg
+93.44% : orange
+ 2.99% : lemon
+ 0.20% : ping-pong ball
+ 0.16% : wok
+ 0.08% : frying pan
+ 0.04% : croquet ball
+ 0.04% : spaghetti squash
+ 0.04% : spatula
+ 0.04% : dough
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q095.jpg
+92.80% : orange
+ 3.18% : lemon
+ 0.21% : ping-pong ball
+ 0.17% : wok
+ 0.10% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q096.jpg
+93.05% : orange
+ 3.22% : lemon
+ 0.20% : ping-pong ball
+ 0.17% : wok
+ 0.09% : frying pan
+ 0.04% : dough
+ 0.04% : spaghetti squash
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.04% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q097.jpg
+93.09% : orange
+ 3.25% : lemon
+ 0.18% : wok
+ 0.18% : ping-pong ball
+ 0.09% : frying pan
+ 0.05% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q098.jpg
+93.49% : orange
+ 2.89% : lemon
+ 0.20% : ping-pong ball
+ 0.19% : wok
+ 0.09% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q099.jpg
+93.63% : orange
+ 2.87% : lemon
+ 0.18% : ping-pong ball
+ 0.17% : wok
+ 0.09% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : spatula
+ 0.04% : croquet ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/oranges/orange5Q100.jpg
+93.69% : orange
+ 2.79% : lemon
+ 0.19% : ping-pong ball
+ 0.18% : wok
+ 0.09% : frying pan
+ 0.04% : spaghetti squash
+ 0.04% : dough
+ 0.04% : croquet ball
+ 0.04% : spatula
+ 0.03% : banana

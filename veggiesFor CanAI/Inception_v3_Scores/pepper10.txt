@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q001.jpg
+62.44% : bell pepper
+ 2.78% : confectionery
+ 1.68% : oil filter
+ 1.68% : clog
+ 1.58% : candle
+ 1.19% : orange
+ 1.11% : corn
+ 0.77% : jack-o'-lantern
+ 0.71% : pinwheel
+ 0.58% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q002.jpg
+63.08% : bell pepper
+ 2.69% : confectionery
+ 1.66% : oil filter
+ 1.62% : clog
+ 1.61% : candle
+ 1.19% : orange
+ 1.10% : corn
+ 0.77% : jack-o'-lantern
+ 0.68% : pinwheel
+ 0.57% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q003.jpg
+59.94% : bell pepper
+ 3.55% : candle
+ 3.47% : confectionery
+ 1.48% : orange
+ 1.23% : oil filter
+ 1.03% : corn
+ 0.91% : clog
+ 0.86% : jack-o'-lantern
+ 0.62% : ping-pong ball
+ 0.52% : pinwheel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q004.jpg
+73.57% : bell pepper
+ 5.94% : orange
+ 1.60% : ping-pong ball
+ 1.34% : jack-o'-lantern
+ 0.96% : confectionery
+ 0.73% : oil filter
+ 0.70% : lemon
+ 0.58% : soccer ball
+ 0.54% : butternut squash
+ 0.42% : acorn squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q005.jpg
+92.45% : bell pepper
+ 0.51% : corn
+ 0.43% : orange
+ 0.38% : confectionery
+ 0.34% : butternut squash
+ 0.31% : acorn squash
+ 0.29% : grocery store
+ 0.24% : ping-pong ball
+ 0.19% : oil filter
+ 0.16% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q006.jpg
+97.84% : bell pepper
+ 0.17% : corn
+ 0.16% : oil filter
+ 0.12% : ping-pong ball
+ 0.11% : confectionery
+ 0.07% : plastic bag
+ 0.06% : grocery store
+ 0.05% : cauliflower
+ 0.05% : ear
+ 0.04% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q007.jpg
+95.44% : bell pepper
+ 0.52% : corn
+ 0.23% : plastic bag
+ 0.22% : confectionery
+ 0.22% : grocery store
+ 0.15% : ear
+ 0.15% : cauliflower
+ 0.11% : orange
+ 0.10% : butternut squash
+ 0.09% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q008.jpg
+98.68% : bell pepper
+ 0.17% : corn
+ 0.09% : grocery store
+ 0.08% : confectionery
+ 0.06% : ear
+ 0.05% : plastic bag
+ 0.03% : cauliflower
+ 0.03% : spaghetti squash
+ 0.02% : ping-pong ball
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q009.jpg
+98.75% : bell pepper
+ 0.11% : grocery store
+ 0.09% : acorn squash
+ 0.06% : butternut squash
+ 0.06% : corn
+ 0.05% : cauliflower
+ 0.05% : spaghetti squash
+ 0.04% : plastic bag
+ 0.03% : ear
+ 0.02% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q010.jpg
+99.01% : bell pepper
+ 0.09% : grocery store
+ 0.08% : corn
+ 0.07% : plastic bag
+ 0.03% : ear
+ 0.02% : acorn squash
+ 0.02% : cauliflower
+ 0.02% : spaghetti squash
+ 0.02% : jackfruit
+ 0.02% : confectionery
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q011.jpg
+98.46% : bell pepper
+ 0.13% : spaghetti squash
+ 0.12% : plastic bag
+ 0.12% : grocery store
+ 0.09% : acorn squash
+ 0.06% : corn
+ 0.05% : cauliflower
+ 0.04% : butternut squash
+ 0.03% : jackfruit
+ 0.03% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q012.jpg
+99.16% : bell pepper
+ 0.08% : plastic bag
+ 0.08% : grocery store
+ 0.06% : acorn squash
+ 0.04% : corn
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : ear
+ 0.02% : cauliflower
+ 0.01% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q013.jpg
+98.91% : bell pepper
+ 0.11% : grocery store
+ 0.06% : plastic bag
+ 0.05% : acorn squash
+ 0.04% : corn
+ 0.03% : spaghetti squash
+ 0.03% : cauliflower
+ 0.03% : butternut squash
+ 0.02% : ear
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q014.jpg
+98.40% : bell pepper
+ 0.16% : plastic bag
+ 0.13% : grocery store
+ 0.12% : acorn squash
+ 0.06% : spaghetti squash
+ 0.05% : corn
+ 0.04% : butternut squash
+ 0.03% : ear
+ 0.03% : jackfruit
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q015.jpg
+99.09% : bell pepper
+ 0.07% : grocery store
+ 0.07% : plastic bag
+ 0.06% : acorn squash
+ 0.06% : spaghetti squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : butternut squash
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q016.jpg
+98.39% : bell pepper
+ 0.12% : grocery store
+ 0.11% : acorn squash
+ 0.09% : plastic bag
+ 0.08% : spaghetti squash
+ 0.05% : corn
+ 0.05% : butternut squash
+ 0.04% : jackfruit
+ 0.04% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q017.jpg
+98.32% : bell pepper
+ 0.11% : grocery store
+ 0.11% : acorn squash
+ 0.10% : spaghetti squash
+ 0.09% : plastic bag
+ 0.08% : corn
+ 0.06% : butternut squash
+ 0.05% : jackfruit
+ 0.04% : ear
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q018.jpg
+98.56% : bell pepper
+ 0.13% : acorn squash
+ 0.12% : grocery store
+ 0.11% : plastic bag
+ 0.10% : spaghetti squash
+ 0.06% : corn
+ 0.05% : butternut squash
+ 0.04% : jackfruit
+ 0.03% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q019.jpg
+98.19% : bell pepper
+ 0.17% : acorn squash
+ 0.14% : grocery store
+ 0.13% : spaghetti squash
+ 0.12% : plastic bag
+ 0.07% : corn
+ 0.06% : butternut squash
+ 0.05% : jackfruit
+ 0.04% : cauliflower
+ 0.03% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q020.jpg
+98.82% : bell pepper
+ 0.13% : acorn squash
+ 0.10% : grocery store
+ 0.06% : spaghetti squash
+ 0.06% : plastic bag
+ 0.05% : corn
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q021.jpg
+98.97% : bell pepper
+ 0.09% : acorn squash
+ 0.08% : grocery store
+ 0.08% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : corn
+ 0.03% : jackfruit
+ 0.03% : butternut squash
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q022.jpg
+98.52% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.10% : plastic bag
+ 0.08% : spaghetti squash
+ 0.05% : corn
+ 0.05% : butternut squash
+ 0.03% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q023.jpg
+98.98% : bell pepper
+ 0.08% : plastic bag
+ 0.08% : grocery store
+ 0.08% : acorn squash
+ 0.05% : spaghetti squash
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.02% : butternut squash
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q024.jpg
+98.64% : bell pepper
+ 0.15% : acorn squash
+ 0.12% : plastic bag
+ 0.11% : grocery store
+ 0.10% : spaghetti squash
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.03% : butternut squash
+ 0.03% : cauliflower
+ 0.03% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q025.jpg
+98.88% : bell pepper
+ 0.12% : acorn squash
+ 0.09% : plastic bag
+ 0.09% : grocery store
+ 0.06% : spaghetti squash
+ 0.05% : corn
+ 0.03% : jackfruit
+ 0.03% : butternut squash
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q026.jpg
+98.49% : bell pepper
+ 0.17% : acorn squash
+ 0.12% : plastic bag
+ 0.10% : spaghetti squash
+ 0.10% : grocery store
+ 0.06% : corn
+ 0.04% : jackfruit
+ 0.03% : butternut squash
+ 0.03% : ear
+ 0.03% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q027.jpg
+98.66% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.09% : plastic bag
+ 0.06% : spaghetti squash
+ 0.05% : corn
+ 0.04% : butternut squash
+ 0.03% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q028.jpg
+98.81% : bell pepper
+ 0.13% : acorn squash
+ 0.10% : grocery store
+ 0.09% : plastic bag
+ 0.07% : spaghetti squash
+ 0.04% : corn
+ 0.03% : butternut squash
+ 0.03% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q029.jpg
+98.95% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.06% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q030.jpg
+99.04% : bell pepper
+ 0.10% : acorn squash
+ 0.09% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q031.jpg
+98.83% : bell pepper
+ 0.18% : acorn squash
+ 0.10% : grocery store
+ 0.08% : plastic bag
+ 0.08% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q032.jpg
+98.81% : bell pepper
+ 0.15% : acorn squash
+ 0.09% : grocery store
+ 0.08% : spaghetti squash
+ 0.06% : plastic bag
+ 0.04% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q033.jpg
+98.99% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q034.jpg
+98.73% : bell pepper
+ 0.21% : acorn squash
+ 0.12% : grocery store
+ 0.08% : plastic bag
+ 0.07% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q035.jpg
+98.74% : bell pepper
+ 0.18% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.06% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : cauliflower
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q036.jpg
+98.87% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : cauliflower
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q037.jpg
+98.91% : bell pepper
+ 0.15% : acorn squash
+ 0.11% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : cauliflower
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q038.jpg
+98.72% : bell pepper
+ 0.15% : acorn squash
+ 0.12% : grocery store
+ 0.09% : plastic bag
+ 0.06% : spaghetti squash
+ 0.04% : corn
+ 0.03% : butternut squash
+ 0.02% : cauliflower
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q039.jpg
+98.65% : bell pepper
+ 0.22% : acorn squash
+ 0.11% : grocery store
+ 0.09% : plastic bag
+ 0.06% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q040.jpg
+98.64% : bell pepper
+ 0.23% : acorn squash
+ 0.12% : grocery store
+ 0.09% : plastic bag
+ 0.07% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q041.jpg
+98.88% : bell pepper
+ 0.15% : acorn squash
+ 0.11% : grocery store
+ 0.07% : plastic bag
+ 0.06% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : cauliflower
+ 0.02% : jackfruit
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q042.jpg
+98.75% : bell pepper
+ 0.18% : acorn squash
+ 0.12% : grocery store
+ 0.07% : plastic bag
+ 0.06% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q043.jpg
+98.80% : bell pepper
+ 0.17% : acorn squash
+ 0.12% : grocery store
+ 0.07% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q044.jpg
+98.88% : bell pepper
+ 0.15% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q045.jpg
+98.90% : bell pepper
+ 0.15% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q046.jpg
+99.00% : bell pepper
+ 0.14% : acorn squash
+ 0.09% : grocery store
+ 0.05% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q047.jpg
+98.98% : bell pepper
+ 0.14% : acorn squash
+ 0.09% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q048.jpg
+98.97% : bell pepper
+ 0.12% : acorn squash
+ 0.09% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q049.jpg
+98.90% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q050.jpg
+98.90% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q051.jpg
+98.91% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q052.jpg
+98.78% : bell pepper
+ 0.18% : acorn squash
+ 0.11% : grocery store
+ 0.07% : plastic bag
+ 0.06% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q053.jpg
+98.61% : bell pepper
+ 0.20% : acorn squash
+ 0.13% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : plastic bag
+ 0.04% : butternut squash
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q054.jpg
+98.58% : bell pepper
+ 0.20% : acorn squash
+ 0.13% : grocery store
+ 0.07% : spaghetti squash
+ 0.07% : plastic bag
+ 0.04% : butternut squash
+ 0.04% : corn
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q055.jpg
+98.64% : bell pepper
+ 0.19% : acorn squash
+ 0.13% : grocery store
+ 0.08% : plastic bag
+ 0.06% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.03% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q056.jpg
+98.75% : bell pepper
+ 0.17% : acorn squash
+ 0.12% : grocery store
+ 0.08% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q057.jpg
+98.74% : bell pepper
+ 0.18% : acorn squash
+ 0.12% : grocery store
+ 0.08% : plastic bag
+ 0.06% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q058.jpg
+98.93% : bell pepper
+ 0.12% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q059.jpg
+98.95% : bell pepper
+ 0.13% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q060.jpg
+98.98% : bell pepper
+ 0.12% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q061.jpg
+98.78% : bell pepper
+ 0.18% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q062.jpg
+98.79% : bell pepper
+ 0.18% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.02% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q063.jpg
+98.82% : bell pepper
+ 0.15% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q064.jpg
+98.89% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.06% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q065.jpg
+98.87% : bell pepper
+ 0.12% : acorn squash
+ 0.12% : grocery store
+ 0.07% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.02% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q066.jpg
+98.92% : bell pepper
+ 0.13% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q067.jpg
+98.86% : bell pepper
+ 0.15% : acorn squash
+ 0.13% : grocery store
+ 0.07% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q068.jpg
+99.00% : bell pepper
+ 0.12% : acorn squash
+ 0.11% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q069.jpg
+98.92% : bell pepper
+ 0.14% : acorn squash
+ 0.12% : grocery store
+ 0.07% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q070.jpg
+98.99% : bell pepper
+ 0.13% : acorn squash
+ 0.12% : grocery store
+ 0.06% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q071.jpg
+98.95% : bell pepper
+ 0.14% : acorn squash
+ 0.12% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q072.jpg
+98.92% : bell pepper
+ 0.14% : acorn squash
+ 0.12% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q073.jpg
+99.02% : bell pepper
+ 0.13% : acorn squash
+ 0.11% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q074.jpg
+99.07% : bell pepper
+ 0.11% : grocery store
+ 0.11% : acorn squash
+ 0.07% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q075.jpg
+99.04% : bell pepper
+ 0.12% : acorn squash
+ 0.12% : grocery store
+ 0.07% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q076.jpg
+99.07% : bell pepper
+ 0.11% : grocery store
+ 0.11% : acorn squash
+ 0.07% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q077.jpg
+98.97% : bell pepper
+ 0.12% : acorn squash
+ 0.11% : grocery store
+ 0.09% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q078.jpg
+99.06% : bell pepper
+ 0.11% : acorn squash
+ 0.10% : grocery store
+ 0.08% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q079.jpg
+99.02% : bell pepper
+ 0.12% : acorn squash
+ 0.11% : grocery store
+ 0.08% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q080.jpg
+98.92% : bell pepper
+ 0.15% : acorn squash
+ 0.11% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q081.jpg
+98.96% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.09% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q082.jpg
+98.87% : bell pepper
+ 0.15% : acorn squash
+ 0.12% : grocery store
+ 0.11% : plastic bag
+ 0.05% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q083.jpg
+98.94% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.10% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q084.jpg
+98.93% : bell pepper
+ 0.14% : acorn squash
+ 0.11% : grocery store
+ 0.09% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q085.jpg
+98.85% : bell pepper
+ 0.15% : acorn squash
+ 0.12% : grocery store
+ 0.09% : plastic bag
+ 0.05% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q086.jpg
+98.84% : bell pepper
+ 0.15% : acorn squash
+ 0.12% : grocery store
+ 0.09% : plastic bag
+ 0.04% : spaghetti squash
+ 0.04% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q087.jpg
+98.89% : bell pepper
+ 0.13% : acorn squash
+ 0.12% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q088.jpg
+98.93% : bell pepper
+ 0.12% : acorn squash
+ 0.11% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q089.jpg
+98.90% : bell pepper
+ 0.12% : acorn squash
+ 0.11% : grocery store
+ 0.08% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.02% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q090.jpg
+99.10% : bell pepper
+ 0.09% : acorn squash
+ 0.09% : grocery store
+ 0.06% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : corn
+ 0.02% : butternut squash
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q091.jpg
+99.02% : bell pepper
+ 0.12% : acorn squash
+ 0.09% : grocery store
+ 0.07% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q092.jpg
+99.14% : bell pepper
+ 0.10% : acorn squash
+ 0.08% : grocery store
+ 0.05% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.01% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q093.jpg
+99.11% : bell pepper
+ 0.11% : acorn squash
+ 0.09% : grocery store
+ 0.05% : plastic bag
+ 0.03% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q094.jpg
+99.07% : bell pepper
+ 0.11% : acorn squash
+ 0.09% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : corn
+ 0.03% : butternut squash
+ 0.02% : jackfruit
+ 0.01% : stove
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q095.jpg
+99.05% : bell pepper
+ 0.13% : acorn squash
+ 0.09% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q096.jpg
+99.01% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.07% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : ear
+ 0.01% : cauliflower
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q097.jpg
+99.04% : bell pepper
+ 0.12% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q098.jpg
+99.04% : bell pepper
+ 0.13% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : stove
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q099.jpg
+99.03% : bell pepper
+ 0.13% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.02% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper10Q100.jpg
+99.01% : bell pepper
+ 0.13% : acorn squash
+ 0.10% : grocery store
+ 0.06% : plastic bag
+ 0.04% : spaghetti squash
+ 0.03% : butternut squash
+ 0.03% : corn
+ 0.02% : jackfruit
+ 0.01% : cauliflower
+ 0.01% : ear

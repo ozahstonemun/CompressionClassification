@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q001.jpg
+51.71% : orange
+42.63% : lemon
+ 0.31% : spaghetti squash
+ 0.24% : tennis ball
+ 0.15% : ping-pong ball
+ 0.07% : croquet ball
+ 0.04% : baseball
+ 0.04% : alp
+ 0.04% : golf ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q002.jpg
+51.71% : orange
+42.63% : lemon
+ 0.31% : spaghetti squash
+ 0.24% : tennis ball
+ 0.15% : ping-pong ball
+ 0.07% : croquet ball
+ 0.04% : baseball
+ 0.04% : alp
+ 0.04% : golf ball
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q003.jpg
+50.17% : lemon
+44.11% : orange
+ 0.38% : spaghetti squash
+ 0.25% : tennis ball
+ 0.17% : ping-pong ball
+ 0.09% : croquet ball
+ 0.04% : golf ball
+ 0.04% : baseball
+ 0.04% : alp
+ 0.03% : banana
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q004.jpg
+92.31% : lemon
+ 2.93% : orange
+ 0.73% : tennis ball
+ 0.70% : spaghetti squash
+ 0.11% : croquet ball
+ 0.08% : ping-pong ball
+ 0.04% : golf ball
+ 0.03% : head cabbage
+ 0.02% : dough
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q005.jpg
+60.35% : lemon
+30.37% : orange
+ 2.97% : tennis ball
+ 1.33% : spaghetti squash
+ 0.69% : croquet ball
+ 0.14% : ping-pong ball
+ 0.06% : acorn squash
+ 0.05% : butternut squash
+ 0.04% : golf ball
+ 0.04% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q006.jpg
+90.37% : lemon
+ 6.24% : orange
+ 0.32% : spaghetti squash
+ 0.16% : tennis ball
+ 0.13% : croquet ball
+ 0.12% : ping-pong ball
+ 0.09% : golf ball
+ 0.03% : pineapple
+ 0.03% : banana
+ 0.02% : yellow lady's slipper
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q007.jpg
+48.10% : orange
+45.06% : lemon
+ 0.48% : spaghetti squash
+ 0.12% : tennis ball
+ 0.10% : banana
+ 0.10% : croquet ball
+ 0.07% : pineapple
+ 0.06% : ping-pong ball
+ 0.04% : limpkin
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q008.jpg
+62.31% : lemon
+29.79% : orange
+ 0.35% : spaghetti squash
+ 0.11% : banana
+ 0.08% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : tennis ball
+ 0.04% : combination lock
+ 0.04% : alp
+ 0.04% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q009.jpg
+56.95% : orange
+34.43% : lemon
+ 0.22% : banana
+ 0.20% : spaghetti squash
+ 0.08% : pineapple
+ 0.06% : ping-pong ball
+ 0.05% : grocery store
+ 0.04% : alp
+ 0.04% : combination lock
+ 0.04% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q010.jpg
+54.43% : orange
+36.36% : lemon
+ 0.21% : banana
+ 0.12% : spaghetti squash
+ 0.07% : pineapple
+ 0.07% : ping-pong ball
+ 0.05% : magnetic compass
+ 0.05% : hognose snake
+ 0.04% : king snake
+ 0.04% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q011.jpg
+46.64% : lemon
+40.09% : orange
+ 0.24% : banana
+ 0.20% : spaghetti squash
+ 0.09% : pineapple
+ 0.08% : combination lock
+ 0.07% : limpkin
+ 0.06% : alp
+ 0.06% : oxygen mask
+ 0.06% : ping-pong ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q012.jpg
+50.03% : orange
+39.47% : lemon
+ 0.28% : banana
+ 0.19% : spaghetti squash
+ 0.09% : pineapple
+ 0.06% : combination lock
+ 0.05% : king penguin
+ 0.05% : oxygen mask
+ 0.05% : alp
+ 0.05% : limpkin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q013.jpg
+83.91% : lemon
+ 9.25% : orange
+ 0.13% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.03% : alp
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q014.jpg
+70.38% : lemon
+19.41% : orange
+ 0.15% : spaghetti squash
+ 0.14% : banana
+ 0.07% : pineapple
+ 0.05% : combination lock
+ 0.05% : strainer
+ 0.05% : paper towel
+ 0.04% : king penguin
+ 0.04% : alp
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q015.jpg
+82.27% : lemon
+10.41% : orange
+ 0.14% : spaghetti squash
+ 0.11% : banana
+ 0.06% : pineapple
+ 0.04% : strainer
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : alp
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q016.jpg
+78.78% : lemon
+12.89% : orange
+ 0.16% : spaghetti squash
+ 0.13% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : paper towel
+ 0.04% : combination lock
+ 0.04% : king penguin
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q017.jpg
+81.74% : lemon
+ 7.80% : orange
+ 0.25% : spaghetti squash
+ 0.12% : banana
+ 0.07% : pineapple
+ 0.06% : strainer
+ 0.04% : king penguin
+ 0.04% : paper towel
+ 0.04% : combination lock
+ 0.03% : hognose snake
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q018.jpg
+78.58% : lemon
+13.50% : orange
+ 0.12% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.04% : paper towel
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : alp
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q019.jpg
+88.70% : lemon
+ 5.58% : orange
+ 0.13% : spaghetti squash
+ 0.08% : banana
+ 0.04% : pineapple
+ 0.03% : strainer
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.02% : alp
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q020.jpg
+91.59% : lemon
+ 3.81% : orange
+ 0.08% : spaghetti squash
+ 0.05% : banana
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.02% : king penguin
+ 0.02% : paper towel
+ 0.02% : combination lock
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q021.jpg
+88.66% : lemon
+ 3.85% : orange
+ 0.15% : spaghetti squash
+ 0.07% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : honeycomb
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q022.jpg
+91.31% : lemon
+ 3.80% : orange
+ 0.09% : spaghetti squash
+ 0.05% : banana
+ 0.03% : pineapple
+ 0.03% : strainer
+ 0.02% : king penguin
+ 0.02% : paper towel
+ 0.02% : alp
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q023.jpg
+88.84% : lemon
+ 4.36% : orange
+ 0.11% : spaghetti squash
+ 0.08% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : paper towel
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q024.jpg
+87.61% : lemon
+ 4.87% : orange
+ 0.16% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : paper towel
+ 0.03% : honeycomb
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q025.jpg
+89.61% : lemon
+ 3.07% : orange
+ 0.17% : spaghetti squash
+ 0.07% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q026.jpg
+87.48% : lemon
+ 5.29% : orange
+ 0.11% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.04% : paper towel
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q027.jpg
+89.91% : lemon
+ 3.92% : orange
+ 0.12% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.02% : honeycomb
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q028.jpg
+88.50% : lemon
+ 4.47% : orange
+ 0.13% : spaghetti squash
+ 0.07% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q029.jpg
+88.76% : lemon
+ 4.68% : orange
+ 0.10% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q030.jpg
+86.44% : lemon
+ 5.27% : orange
+ 0.14% : spaghetti squash
+ 0.10% : banana
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.03% : honeycomb
+ 0.03% : Granny Smith
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q031.jpg
+88.80% : lemon
+ 3.70% : orange
+ 0.13% : spaghetti squash
+ 0.07% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : honeycomb
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q032.jpg
+89.48% : lemon
+ 3.56% : orange
+ 0.13% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q033.jpg
+86.74% : lemon
+ 4.66% : orange
+ 0.15% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q034.jpg
+85.61% : lemon
+ 5.80% : orange
+ 0.12% : spaghetti squash
+ 0.08% : banana
+ 0.06% : strainer
+ 0.05% : pineapple
+ 0.04% : honeycomb
+ 0.03% : paper towel
+ 0.03% : king penguin
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q035.jpg
+84.75% : lemon
+ 6.81% : orange
+ 0.13% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q036.jpg
+88.25% : lemon
+ 4.68% : orange
+ 0.11% : spaghetti squash
+ 0.08% : banana
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : honeycomb
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q037.jpg
+89.46% : lemon
+ 3.83% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : honeycomb
+ 0.02% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q038.jpg
+86.86% : lemon
+ 5.35% : orange
+ 0.14% : spaghetti squash
+ 0.08% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : honeycomb
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q039.jpg
+87.76% : lemon
+ 5.50% : orange
+ 0.10% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q040.jpg
+89.21% : lemon
+ 4.63% : orange
+ 0.09% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.02% : American black bear
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q041.jpg
+88.13% : lemon
+ 4.65% : orange
+ 0.10% : spaghetti squash
+ 0.07% : banana
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q042.jpg
+83.30% : lemon
+ 7.62% : orange
+ 0.12% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q043.jpg
+83.67% : lemon
+ 7.23% : orange
+ 0.12% : spaghetti squash
+ 0.10% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : king penguin
+ 0.04% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q044.jpg
+85.39% : lemon
+ 6.39% : orange
+ 0.11% : spaghetti squash
+ 0.09% : banana
+ 0.06% : strainer
+ 0.05% : pineapple
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q045.jpg
+85.50% : lemon
+ 6.38% : orange
+ 0.10% : spaghetti squash
+ 0.09% : banana
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+ 0.03% : king penguin
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q046.jpg
+89.11% : lemon
+ 4.48% : orange
+ 0.12% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q047.jpg
+89.05% : lemon
+ 4.52% : orange
+ 0.11% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q048.jpg
+89.01% : lemon
+ 4.76% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.03% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q049.jpg
+83.77% : lemon
+ 7.97% : orange
+ 0.10% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : honeycomb
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q050.jpg
+83.87% : lemon
+ 7.91% : orange
+ 0.10% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : honeycomb
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q051.jpg
+83.82% : lemon
+ 7.94% : orange
+ 0.10% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : honeycomb
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q052.jpg
+85.28% : lemon
+ 7.11% : orange
+ 0.11% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.03% : honeycomb
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q053.jpg
+84.82% : lemon
+ 7.65% : orange
+ 0.12% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q054.jpg
+84.95% : lemon
+ 7.64% : orange
+ 0.12% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q055.jpg
+87.23% : lemon
+ 6.26% : orange
+ 0.09% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : honeycomb
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q056.jpg
+87.58% : lemon
+ 5.98% : orange
+ 0.09% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : honeycomb
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q057.jpg
+87.61% : lemon
+ 5.80% : orange
+ 0.10% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q058.jpg
+87.75% : lemon
+ 5.59% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q059.jpg
+88.43% : lemon
+ 5.09% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.02% : combination lock
+ 0.02% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q060.jpg
+88.01% : lemon
+ 5.31% : orange
+ 0.11% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q061.jpg
+89.45% : lemon
+ 4.11% : orange
+ 0.14% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q062.jpg
+89.23% : lemon
+ 4.23% : orange
+ 0.14% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : paper towel
+ 0.03% : honeycomb
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q063.jpg
+89.24% : lemon
+ 4.27% : orange
+ 0.15% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : Granny Smith
+ 0.02% : paper towel
+ 0.02% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q064.jpg
+89.43% : lemon
+ 3.97% : orange
+ 0.15% : spaghetti squash
+ 0.06% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : Granny Smith
+ 0.03% : paper towel
+ 0.02% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q065.jpg
+87.48% : lemon
+ 4.92% : orange
+ 0.14% : spaghetti squash
+ 0.07% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q066.jpg
+87.34% : lemon
+ 4.75% : orange
+ 0.14% : spaghetti squash
+ 0.08% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q067.jpg
+86.20% : lemon
+ 5.61% : orange
+ 0.14% : spaghetti squash
+ 0.08% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : king penguin
+ 0.04% : honeycomb
+ 0.03% : jackfruit
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q068.jpg
+87.76% : lemon
+ 5.37% : orange
+ 0.13% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q069.jpg
+87.87% : lemon
+ 5.26% : orange
+ 0.13% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : paper towel
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q070.jpg
+88.82% : lemon
+ 4.89% : orange
+ 0.13% : spaghetti squash
+ 0.06% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.02% : honeycomb
+ 0.02% : jackfruit
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q071.jpg
+88.16% : lemon
+ 5.17% : orange
+ 0.17% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : jackfruit
+ 0.03% : combination lock
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q072.jpg
+87.34% : lemon
+ 5.91% : orange
+ 0.16% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q073.jpg
+87.19% : lemon
+ 5.45% : orange
+ 0.14% : spaghetti squash
+ 0.07% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : American black bear
+ 0.03% : combination lock
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q074.jpg
+86.00% : lemon
+ 6.08% : orange
+ 0.16% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : Granny Smith
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q075.jpg
+85.95% : lemon
+ 6.11% : orange
+ 0.16% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : Granny Smith
+ 0.03% : American black bear
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q076.jpg
+85.71% : lemon
+ 6.97% : orange
+ 0.15% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.04% : strainer
+ 0.04% : king penguin
+ 0.03% : American black bear
+ 0.03% : honeycomb
+ 0.03% : combination lock
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q077.jpg
+86.14% : lemon
+ 6.96% : orange
+ 0.12% : spaghetti squash
+ 0.08% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q078.jpg
+88.09% : lemon
+ 5.33% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.02% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q079.jpg
+87.89% : lemon
+ 5.24% : orange
+ 0.12% : spaghetti squash
+ 0.07% : banana
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q080.jpg
+87.16% : lemon
+ 5.70% : orange
+ 0.12% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q081.jpg
+85.98% : lemon
+ 6.94% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.04% : pineapple
+ 0.04% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q082.jpg
+86.81% : lemon
+ 6.26% : orange
+ 0.11% : spaghetti squash
+ 0.07% : banana
+ 0.04% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q083.jpg
+85.63% : lemon
+ 6.58% : orange
+ 0.13% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q084.jpg
+84.19% : lemon
+ 7.07% : orange
+ 0.13% : spaghetti squash
+ 0.09% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : king penguin
+ 0.04% : honeycomb
+ 0.04% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q085.jpg
+85.64% : lemon
+ 6.69% : orange
+ 0.12% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q086.jpg
+86.07% : lemon
+ 6.62% : orange
+ 0.13% : spaghetti squash
+ 0.08% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q087.jpg
+84.10% : lemon
+ 8.11% : orange
+ 0.13% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q088.jpg
+85.11% : lemon
+ 7.42% : orange
+ 0.12% : spaghetti squash
+ 0.09% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q089.jpg
+86.13% : lemon
+ 6.65% : orange
+ 0.12% : spaghetti squash
+ 0.08% : banana
+ 0.05% : strainer
+ 0.04% : pineapple
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q090.jpg
+85.10% : lemon
+ 7.15% : orange
+ 0.13% : spaghetti squash
+ 0.09% : banana
+ 0.05% : strainer
+ 0.05% : pineapple
+ 0.04% : king penguin
+ 0.03% : honeycomb
+ 0.03% : combination lock
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q091.jpg
+82.65% : lemon
+ 8.62% : orange
+ 0.14% : spaghetti squash
+ 0.10% : banana
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : honeycomb
+ 0.04% : combination lock
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q092.jpg
+84.17% : lemon
+ 7.54% : orange
+ 0.13% : spaghetti squash
+ 0.10% : banana
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.03% : king penguin
+ 0.03% : combination lock
+ 0.03% : American black bear
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q093.jpg
+81.87% : lemon
+ 9.32% : orange
+ 0.15% : spaghetti squash
+ 0.11% : banana
+ 0.06% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : combination lock
+ 0.04% : American black bear
+ 0.03% : magnetic compass
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q094.jpg
+82.73% : lemon
+ 8.76% : orange
+ 0.13% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q095.jpg
+83.71% : lemon
+ 7.77% : orange
+ 0.14% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q096.jpg
+83.70% : lemon
+ 7.89% : orange
+ 0.14% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q097.jpg
+84.46% : lemon
+ 7.39% : orange
+ 0.14% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q098.jpg
+84.77% : lemon
+ 7.37% : orange
+ 0.12% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.03% : combination lock
+ 0.03% : honeycomb
+ 0.03% : paper towel
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q099.jpg
+83.56% : lemon
+ 8.25% : orange
+ 0.13% : spaghetti squash
+ 0.10% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : combination lock
+ 0.03% : American black bear
+ 0.03% : honeycomb
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/lemons/lemon9Q100.jpg
+84.18% : lemon
+ 7.73% : orange
+ 0.13% : spaghetti squash
+ 0.09% : banana
+ 0.05% : pineapple
+ 0.05% : strainer
+ 0.04% : king penguin
+ 0.04% : combination lock
+ 0.03% : honeycomb
+ 0.03% : American black bear

@@ -1,0 +1,1400 @@
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ001.jpg
+73.08% : ostrich
+ 2.91% : llama
+ 1.07% : Arabian camel
+ 0.73% : Bouvier des Flandres
+ 0.51% : bison
+ 0.50% : Airedale
+ 0.29% : flamingo
+ 0.27% : oscilloscope
+ 0.23% : barrow
+ 0.21% : coral fungus
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ002.jpg
+74.25% : ostrich
+ 2.75% : llama
+ 1.00% : Arabian camel
+ 0.68% : Bouvier des Flandres
+ 0.49% : bison
+ 0.47% : Airedale
+ 0.29% : flamingo
+ 0.25% : oscilloscope
+ 0.21% : barrow
+ 0.20% : ox
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ003.jpg
+81.47% : ostrich
+ 1.16% : llama
+ 0.52% : Arabian camel
+ 0.18% : Bouvier des Flandres
+ 0.15% : flute
+ 0.13% : flamingo
+ 0.13% : brassiere
+ 0.12% : bison
+ 0.11% : Airedale
+ 0.10% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ004.jpg
+94.06% : ostrich
+ 0.18% : flute
+ 0.13% : Arabian camel
+ 0.10% : bustard
+ 0.10% : llama
+ 0.03% : meat loaf
+ 0.03% : Bouvier des Flandres
+ 0.03% : brassiere
+ 0.02% : hen
+ 0.02% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ005.jpg
+70.78% : ostrich
+ 3.08% : llama
+ 1.74% : Arabian camel
+ 0.83% : bustard
+ 0.32% : flute
+ 0.16% : volleyball
+ 0.14% : peacock
+ 0.14% : gazelle
+ 0.12% : Italian greyhound
+ 0.09% : komondor
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ006.jpg
+87.01% : ostrich
+ 0.33% : llama
+ 0.26% : Arabian camel
+ 0.22% : bustard
+ 0.18% : flute
+ 0.05% : meat loaf
+ 0.05% : garden spider
+ 0.05% : Italian greyhound
+ 0.05% : sloth bear
+ 0.05% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ007.jpg
+88.66% : ostrich
+ 0.34% : bustard
+ 0.29% : flute
+ 0.21% : Arabian camel
+ 0.14% : llama
+ 0.06% : Italian greyhound
+ 0.06% : sloth bear
+ 0.05% : meat loaf
+ 0.04% : volleyball
+ 0.04% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ008.jpg
+91.13% : ostrich
+ 0.29% : bustard
+ 0.26% : flute
+ 0.23% : Arabian camel
+ 0.09% : llama
+ 0.06% : Italian greyhound
+ 0.05% : sloth bear
+ 0.04% : volleyball
+ 0.04% : garden spider
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ009.jpg
+84.73% : ostrich
+ 0.50% : bustard
+ 0.33% : flute
+ 0.29% : Arabian camel
+ 0.10% : llama
+ 0.09% : sloth bear
+ 0.08% : Italian greyhound
+ 0.06% : volleyball
+ 0.05% : horizontal bar
+ 0.05% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ010.jpg
+84.32% : ostrich
+ 0.79% : bustard
+ 0.44% : Arabian camel
+ 0.31% : flute
+ 0.15% : llama
+ 0.10% : Italian greyhound
+ 0.08% : sloth bear
+ 0.07% : gazelle
+ 0.07% : volleyball
+ 0.06% : meerkat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ011.jpg
+91.54% : ostrich
+ 0.44% : bustard
+ 0.26% : flute
+ 0.17% : Arabian camel
+ 0.06% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : cornet
+ 0.03% : meerkat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ012.jpg
+94.09% : ostrich
+ 0.31% : bustard
+ 0.22% : flute
+ 0.09% : Arabian camel
+ 0.04% : Italian greyhound
+ 0.04% : llama
+ 0.03% : sloth bear
+ 0.02% : academic gown
+ 0.02% : gazelle
+ 0.02% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ013.jpg
+92.77% : ostrich
+ 0.34% : bustard
+ 0.26% : flute
+ 0.14% : Arabian camel
+ 0.05% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : whippet
+ 0.03% : academic gown
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ014.jpg
+91.64% : ostrich
+ 0.36% : bustard
+ 0.24% : flute
+ 0.15% : Arabian camel
+ 0.06% : Italian greyhound
+ 0.05% : llama
+ 0.04% : sloth bear
+ 0.03% : academic gown
+ 0.03% : volleyball
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ015.jpg
+91.98% : ostrich
+ 0.37% : bustard
+ 0.24% : flute
+ 0.12% : Arabian camel
+ 0.05% : Italian greyhound
+ 0.05% : sloth bear
+ 0.04% : llama
+ 0.03% : academic gown
+ 0.03% : whippet
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ016.jpg
+92.35% : ostrich
+ 0.36% : bustard
+ 0.21% : flute
+ 0.14% : Arabian camel
+ 0.05% : Italian greyhound
+ 0.05% : llama
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : academic gown
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ017.jpg
+93.67% : ostrich
+ 0.30% : bustard
+ 0.20% : flute
+ 0.12% : Arabian camel
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : llama
+ 0.03% : academic gown
+ 0.02% : volleyball
+ 0.02% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ018.jpg
+91.43% : ostrich
+ 0.35% : bustard
+ 0.21% : flute
+ 0.16% : Arabian camel
+ 0.06% : llama
+ 0.05% : sloth bear
+ 0.04% : Italian greyhound
+ 0.04% : volleyball
+ 0.04% : gazelle
+ 0.03% : meerkat
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ019.jpg
+90.40% : ostrich
+ 0.45% : bustard
+ 0.24% : flute
+ 0.16% : Arabian camel
+ 0.06% : Italian greyhound
+ 0.05% : llama
+ 0.05% : sloth bear
+ 0.04% : volleyball
+ 0.04% : gazelle
+ 0.04% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ020.jpg
+92.42% : ostrich
+ 0.35% : bustard
+ 0.24% : flute
+ 0.12% : Arabian camel
+ 0.05% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ021.jpg
+91.96% : ostrich
+ 0.31% : bustard
+ 0.21% : flute
+ 0.14% : Arabian camel
+ 0.06% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ022.jpg
+90.01% : ostrich
+ 0.38% : bustard
+ 0.24% : flute
+ 0.17% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.04% : gazelle
+ 0.04% : sloth bear
+ 0.04% : volleyball
+ 0.04% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ023.jpg
+91.57% : ostrich
+ 0.33% : bustard
+ 0.21% : flute
+ 0.14% : Arabian camel
+ 0.05% : llama
+ 0.04% : sloth bear
+ 0.04% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ024.jpg
+91.67% : ostrich
+ 0.34% : bustard
+ 0.24% : flute
+ 0.16% : Arabian camel
+ 0.07% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.04% : volleyball
+ 0.03% : gazelle
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ025.jpg
+92.21% : ostrich
+ 0.33% : bustard
+ 0.25% : flute
+ 0.15% : Arabian camel
+ 0.06% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : academic gown
+ 0.03% : volleyball
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ026.jpg
+92.40% : ostrich
+ 0.36% : bustard
+ 0.22% : flute
+ 0.13% : Arabian camel
+ 0.06% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ027.jpg
+90.74% : ostrich
+ 0.43% : bustard
+ 0.23% : flute
+ 0.17% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.05% : sloth bear
+ 0.04% : gazelle
+ 0.04% : volleyball
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ028.jpg
+90.04% : ostrich
+ 0.40% : bustard
+ 0.23% : flute
+ 0.17% : Arabian camel
+ 0.09% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.04% : gazelle
+ 0.04% : volleyball
+ 0.04% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ029.jpg
+90.89% : ostrich
+ 0.35% : bustard
+ 0.20% : flute
+ 0.18% : Arabian camel
+ 0.11% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : academic gown
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ030.jpg
+91.27% : ostrich
+ 0.35% : bustard
+ 0.22% : flute
+ 0.17% : Arabian camel
+ 0.09% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.04% : gazelle
+ 0.03% : academic gown
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ031.jpg
+92.82% : ostrich
+ 0.31% : bustard
+ 0.17% : flute
+ 0.13% : Arabian camel
+ 0.06% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ032.jpg
+93.09% : ostrich
+ 0.33% : bustard
+ 0.16% : flute
+ 0.13% : Arabian camel
+ 0.06% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : thunder snake
+ 0.02% : gazelle
+ 0.02% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ033.jpg
+92.33% : ostrich
+ 0.31% : bustard
+ 0.19% : flute
+ 0.15% : Arabian camel
+ 0.07% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : gazelle
+ 0.03% : academic gown
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ034.jpg
+91.72% : ostrich
+ 0.34% : bustard
+ 0.18% : flute
+ 0.17% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.04% : gazelle
+ 0.03% : volleyball
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ035.jpg
+92.42% : ostrich
+ 0.32% : bustard
+ 0.19% : flute
+ 0.14% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ036.jpg
+91.35% : ostrich
+ 0.37% : bustard
+ 0.19% : flute
+ 0.18% : Arabian camel
+ 0.12% : llama
+ 0.05% : Italian greyhound
+ 0.04% : gazelle
+ 0.03% : thunder snake
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ037.jpg
+92.59% : ostrich
+ 0.32% : bustard
+ 0.17% : flute
+ 0.16% : Arabian camel
+ 0.09% : llama
+ 0.05% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : thunder snake
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ038.jpg
+91.73% : ostrich
+ 0.30% : bustard
+ 0.22% : flute
+ 0.17% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ039.jpg
+91.29% : ostrich
+ 0.31% : bustard
+ 0.22% : flute
+ 0.19% : Arabian camel
+ 0.09% : llama
+ 0.06% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ040.jpg
+92.18% : ostrich
+ 0.25% : bustard
+ 0.22% : flute
+ 0.16% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : academic gown
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ041.jpg
+91.95% : ostrich
+ 0.28% : bustard
+ 0.20% : flute
+ 0.15% : Arabian camel
+ 0.07% : llama
+ 0.05% : Italian greyhound
+ 0.03% : volleyball
+ 0.03% : sloth bear
+ 0.03% : thunder snake
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ042.jpg
+92.86% : ostrich
+ 0.28% : bustard
+ 0.19% : flute
+ 0.13% : Arabian camel
+ 0.07% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : thunder snake
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ043.jpg
+92.96% : ostrich
+ 0.27% : bustard
+ 0.18% : flute
+ 0.13% : Arabian camel
+ 0.08% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : thunder snake
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ044.jpg
+93.81% : ostrich
+ 0.22% : bustard
+ 0.17% : flute
+ 0.11% : Arabian camel
+ 0.05% : llama
+ 0.04% : Italian greyhound
+ 0.03% : volleyball
+ 0.03% : sloth bear
+ 0.03% : thunder snake
+ 0.02% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ045.jpg
+92.51% : ostrich
+ 0.25% : bustard
+ 0.19% : flute
+ 0.13% : Arabian camel
+ 0.06% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : thunder snake
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ046.jpg
+91.41% : ostrich
+ 0.29% : bustard
+ 0.18% : flute
+ 0.15% : Arabian camel
+ 0.11% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : academic gown
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ047.jpg
+91.36% : ostrich
+ 0.29% : bustard
+ 0.17% : flute
+ 0.14% : Arabian camel
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : hay
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ048.jpg
+92.01% : ostrich
+ 0.26% : bustard
+ 0.17% : flute
+ 0.14% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : hay
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ049.jpg
+92.02% : ostrich
+ 0.29% : bustard
+ 0.19% : flute
+ 0.15% : Arabian camel
+ 0.10% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ050.jpg
+92.31% : ostrich
+ 0.28% : bustard
+ 0.19% : flute
+ 0.15% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : thunder snake
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ051.jpg
+92.50% : ostrich
+ 0.26% : bustard
+ 0.19% : flute
+ 0.15% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : thunder snake
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ052.jpg
+91.80% : ostrich
+ 0.26% : bustard
+ 0.20% : flute
+ 0.17% : Arabian camel
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ053.jpg
+91.89% : ostrich
+ 0.25% : bustard
+ 0.21% : flute
+ 0.16% : Arabian camel
+ 0.10% : llama
+ 0.05% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ054.jpg
+92.09% : ostrich
+ 0.25% : bustard
+ 0.22% : flute
+ 0.16% : Arabian camel
+ 0.09% : llama
+ 0.05% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ055.jpg
+92.66% : ostrich
+ 0.25% : bustard
+ 0.21% : flute
+ 0.13% : Arabian camel
+ 0.07% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ056.jpg
+92.55% : ostrich
+ 0.27% : bustard
+ 0.22% : flute
+ 0.13% : Arabian camel
+ 0.06% : llama
+ 0.05% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ057.jpg
+92.24% : ostrich
+ 0.30% : bustard
+ 0.23% : flute
+ 0.14% : Arabian camel
+ 0.07% : llama
+ 0.05% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ058.jpg
+91.85% : ostrich
+ 0.29% : bustard
+ 0.24% : flute
+ 0.16% : Arabian camel
+ 0.07% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : cornet
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ059.jpg
+91.44% : ostrich
+ 0.30% : bustard
+ 0.24% : flute
+ 0.17% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.04% : volleyball
+ 0.03% : gazelle
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ060.jpg
+91.96% : ostrich
+ 0.29% : bustard
+ 0.22% : flute
+ 0.16% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ061.jpg
+91.86% : ostrich
+ 0.29% : bustard
+ 0.20% : flute
+ 0.15% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ062.jpg
+91.82% : ostrich
+ 0.29% : bustard
+ 0.22% : flute
+ 0.15% : Arabian camel
+ 0.08% : llama
+ 0.05% : Italian greyhound
+ 0.04% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : cornet
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ063.jpg
+92.44% : ostrich
+ 0.27% : bustard
+ 0.21% : flute
+ 0.14% : Arabian camel
+ 0.08% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ064.jpg
+92.85% : ostrich
+ 0.25% : bustard
+ 0.19% : flute
+ 0.13% : Arabian camel
+ 0.07% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ065.jpg
+92.39% : ostrich
+ 0.25% : bustard
+ 0.20% : flute
+ 0.14% : Arabian camel
+ 0.08% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : hay
+ 0.03% : volleyball
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ066.jpg
+92.34% : ostrich
+ 0.26% : bustard
+ 0.20% : flute
+ 0.15% : Arabian camel
+ 0.08% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : volleyball
+ 0.03% : sloth bear
+ 0.03% : thunder snake
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ067.jpg
+92.30% : ostrich
+ 0.28% : bustard
+ 0.20% : flute
+ 0.15% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : hay
+ 0.03% : volleyball
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ068.jpg
+92.06% : ostrich
+ 0.30% : bustard
+ 0.19% : flute
+ 0.15% : Arabian camel
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ069.jpg
+92.43% : ostrich
+ 0.29% : bustard
+ 0.18% : flute
+ 0.15% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ070.jpg
+93.46% : ostrich
+ 0.27% : bustard
+ 0.15% : flute
+ 0.13% : Arabian camel
+ 0.08% : llama
+ 0.03% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : gazelle
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ071.jpg
+93.53% : ostrich
+ 0.25% : bustard
+ 0.15% : flute
+ 0.13% : Arabian camel
+ 0.08% : llama
+ 0.03% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : gazelle
+ 0.02% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ072.jpg
+94.28% : ostrich
+ 0.23% : bustard
+ 0.13% : flute
+ 0.12% : Arabian camel
+ 0.08% : llama
+ 0.03% : hay
+ 0.03% : Italian greyhound
+ 0.03% : sloth bear
+ 0.02% : gazelle
+ 0.02% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ073.jpg
+94.02% : ostrich
+ 0.24% : bustard
+ 0.14% : flute
+ 0.11% : Arabian camel
+ 0.06% : llama
+ 0.03% : Italian greyhound
+ 0.03% : sloth bear
+ 0.02% : hay
+ 0.02% : volleyball
+ 0.02% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ074.jpg
+93.01% : ostrich
+ 0.28% : bustard
+ 0.14% : flute
+ 0.12% : Arabian camel
+ 0.08% : llama
+ 0.03% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ075.jpg
+93.65% : ostrich
+ 0.25% : bustard
+ 0.14% : flute
+ 0.12% : Arabian camel
+ 0.07% : llama
+ 0.03% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : hay
+ 0.02% : volleyball
+ 0.02% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ076.jpg
+94.04% : ostrich
+ 0.25% : bustard
+ 0.13% : flute
+ 0.11% : Arabian camel
+ 0.07% : llama
+ 0.03% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : hay
+ 0.02% : volleyball
+ 0.02% : gazelle
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ077.jpg
+93.89% : ostrich
+ 0.25% : bustard
+ 0.13% : flute
+ 0.12% : Arabian camel
+ 0.08% : llama
+ 0.03% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.02% : gazelle
+ 0.02% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ078.jpg
+93.23% : ostrich
+ 0.26% : bustard
+ 0.15% : flute
+ 0.13% : Arabian camel
+ 0.09% : llama
+ 0.03% : Italian greyhound
+ 0.03% : hay
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : sloth bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ079.jpg
+92.54% : ostrich
+ 0.28% : bustard
+ 0.16% : flute
+ 0.15% : Arabian camel
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : sloth bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ080.jpg
+91.73% : ostrich
+ 0.29% : bustard
+ 0.16% : flute
+ 0.16% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.04% : volleyball
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ081.jpg
+92.09% : ostrich
+ 0.29% : bustard
+ 0.15% : flute
+ 0.15% : Arabian camel
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : hay
+ 0.03% : sloth bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ082.jpg
+92.24% : ostrich
+ 0.31% : bustard
+ 0.15% : flute
+ 0.14% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : hay
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ083.jpg
+92.35% : ostrich
+ 0.30% : bustard
+ 0.15% : flute
+ 0.15% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : sloth bear
+ 0.03% : hay
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ084.jpg
+93.08% : ostrich
+ 0.28% : bustard
+ 0.15% : flute
+ 0.13% : Arabian camel
+ 0.08% : llama
+ 0.04% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : hay
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ085.jpg
+92.11% : ostrich
+ 0.31% : bustard
+ 0.16% : flute
+ 0.15% : Arabian camel
+ 0.10% : llama
+ 0.05% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : sloth bear
+ 0.03% : hay
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ086.jpg
+92.59% : ostrich
+ 0.28% : bustard
+ 0.15% : flute
+ 0.13% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : sloth bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ087.jpg
+92.60% : ostrich
+ 0.28% : bustard
+ 0.16% : flute
+ 0.14% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ088.jpg
+92.82% : ostrich
+ 0.27% : bustard
+ 0.15% : flute
+ 0.14% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.04% : hay
+ 0.03% : gazelle
+ 0.03% : volleyball
+ 0.03% : sloth bear
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ089.jpg
+93.06% : ostrich
+ 0.27% : bustard
+ 0.14% : flute
+ 0.13% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ090.jpg
+93.14% : ostrich
+ 0.26% : bustard
+ 0.15% : flute
+ 0.13% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.04% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ091.jpg
+93.32% : ostrich
+ 0.26% : bustard
+ 0.14% : flute
+ 0.14% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ092.jpg
+93.20% : ostrich
+ 0.26% : bustard
+ 0.16% : flute
+ 0.14% : Arabian camel
+ 0.09% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : gazelle
+ 0.03% : academic gown
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ093.jpg
+93.00% : ostrich
+ 0.28% : bustard
+ 0.15% : Arabian camel
+ 0.15% : flute
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+ 0.03% : hay
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ094.jpg
+92.35% : ostrich
+ 0.28% : bustard
+ 0.17% : Arabian camel
+ 0.16% : flute
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ095.jpg
+92.85% : ostrich
+ 0.26% : bustard
+ 0.15% : Arabian camel
+ 0.15% : flute
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ096.jpg
+92.47% : ostrich
+ 0.28% : bustard
+ 0.15% : Arabian camel
+ 0.15% : flute
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ097.jpg
+92.41% : ostrich
+ 0.28% : bustard
+ 0.16% : Arabian camel
+ 0.15% : flute
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : gazelle
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ098.jpg
+92.56% : ostrich
+ 0.27% : bustard
+ 0.15% : Arabian camel
+ 0.14% : flute
+ 0.11% : llama
+ 0.04% : Italian greyhound
+ 0.04% : hay
+ 0.03% : gazelle
+ 0.03% : sloth bear
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ099.jpg
+92.48% : ostrich
+ 0.27% : bustard
+ 0.15% : flute
+ 0.15% : Arabian camel
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : hay
+ 0.03% : sloth bear
+ 0.03% : gazelle
+ 0.03% : volleyball
+1.4.0
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+colour/colorOstrichQ100.jpg
+92.50% : ostrich
+ 0.28% : bustard
+ 0.15% : Arabian camel
+ 0.15% : flute
+ 0.10% : llama
+ 0.04% : Italian greyhound
+ 0.03% : sloth bear
+ 0.03% : hay
+ 0.03% : gazelle
+ 0.03% : volleyball

@@ -1,0 +1,1400 @@
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q001.jpg
+25.78% : packet
+21.03% : confectionery
+ 9.51% : lemon
+ 4.81% : hamper
+ 4.12% : shopping basket
+ 3.94% : shower cap
+ 3.86% : orange
+ 2.90% : pinwheel
+ 1.47% : plastic bag
+ 0.98% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q002.jpg
+26.62% : packet
+20.92% : confectionery
+ 9.18% : lemon
+ 4.79% : hamper
+ 4.03% : shopping basket
+ 3.82% : shower cap
+ 3.70% : orange
+ 3.16% : pinwheel
+ 1.46% : plastic bag
+ 0.99% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q003.jpg
+31.09% : packet
+22.72% : confectionery
+ 4.71% : hamper
+ 4.58% : lemon
+ 4.16% : shower cap
+ 3.62% : pinwheel
+ 2.87% : orange
+ 2.67% : shopping basket
+ 1.31% : plastic bag
+ 1.18% : soccer ball
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q004.jpg
+27.98% : packet
+12.66% : confectionery
+ 8.42% : lemon
+ 5.79% : bell pepper
+ 5.32% : plastic bag
+ 3.89% : shower cap
+ 2.88% : orange
+ 2.15% : Granny Smith
+ 1.84% : hamper
+ 1.79% : rubber eraser
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q005.jpg
+57.85% : confectionery
+ 7.22% : shopping basket
+ 4.16% : packet
+ 3.88% : rubber eraser
+ 3.62% : hamper
+ 2.88% : orange
+ 2.04% : strawberry
+ 1.82% : lemon
+ 1.73% : bell pepper
+ 1.66% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q006.jpg
+21.80% : bell pepper
+11.24% : confectionery
+ 9.42% : shopping basket
+ 8.60% : packet
+ 4.31% : lemon
+ 4.25% : orange
+ 3.56% : strawberry
+ 3.20% : plastic bag
+ 3.19% : hamper
+ 2.13% : spaghetti squash
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q007.jpg
+31.71% : packet
+15.89% : bell pepper
+10.38% : shopping basket
+ 5.88% : confectionery
+ 4.70% : lemon
+ 2.84% : orange
+ 2.84% : grocery store
+ 2.25% : plastic bag
+ 1.83% : rubber eraser
+ 1.76% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q008.jpg
+20.64% : bell pepper
+18.34% : packet
+18.23% : shopping basket
+ 8.51% : confectionery
+ 5.80% : rubber eraser
+ 3.22% : strawberry
+ 2.79% : Granny Smith
+ 1.87% : lemon
+ 1.48% : orange
+ 1.38% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q009.jpg
+37.02% : bell pepper
+14.18% : packet
+ 8.83% : shopping basket
+ 7.18% : confectionery
+ 4.32% : rubber eraser
+ 3.18% : strawberry
+ 2.29% : Granny Smith
+ 1.95% : lemon
+ 1.48% : grocery store
+ 1.27% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q010.jpg
+49.21% : bell pepper
+14.22% : packet
+ 5.50% : confectionery
+ 4.21% : shopping basket
+ 2.88% : strawberry
+ 2.63% : safety pin
+ 1.90% : Granny Smith
+ 1.61% : strainer
+ 1.04% : lemon
+ 1.00% : plastic bag
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q011.jpg
+56.63% : bell pepper
+14.85% : packet
+ 4.55% : confectionery
+ 2.57% : shopping basket
+ 2.40% : strawberry
+ 2.24% : safety pin
+ 2.03% : Granny Smith
+ 1.04% : plastic bag
+ 1.04% : rubber eraser
+ 0.78% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q012.jpg
+47.63% : bell pepper
+25.25% : packet
+ 5.72% : confectionery
+ 3.32% : shopping basket
+ 1.88% : strawberry
+ 1.43% : Granny Smith
+ 1.26% : rubber eraser
+ 1.13% : safety pin
+ 0.87% : grocery store
+ 0.74% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q013.jpg
+49.53% : bell pepper
+21.50% : packet
+ 3.75% : shopping basket
+ 3.75% : confectionery
+ 2.61% : rubber eraser
+ 2.36% : safety pin
+ 1.22% : strawberry
+ 1.04% : grocery store
+ 1.01% : Granny Smith
+ 0.75% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q014.jpg
+59.43% : bell pepper
+17.59% : packet
+ 2.47% : safety pin
+ 2.22% : shopping basket
+ 1.99% : rubber eraser
+ 1.94% : confectionery
+ 0.86% : Granny Smith
+ 0.84% : strainer
+ 0.84% : lemon
+ 0.72% : strawberry
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q015.jpg
+45.30% : bell pepper
+28.18% : packet
+ 3.82% : safety pin
+ 2.40% : rubber eraser
+ 1.72% : strawberry
+ 1.67% : shopping basket
+ 1.61% : confectionery
+ 1.06% : Granny Smith
+ 0.92% : strainer
+ 0.79% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q016.jpg
+53.19% : bell pepper
+20.48% : packet
+ 3.74% : rubber eraser
+ 2.98% : safety pin
+ 1.64% : shopping basket
+ 1.58% : Granny Smith
+ 1.48% : confectionery
+ 1.11% : strawberry
+ 0.94% : lemon
+ 0.85% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q017.jpg
+55.94% : bell pepper
+16.44% : packet
+ 4.71% : rubber eraser
+ 4.25% : safety pin
+ 1.58% : shopping basket
+ 1.54% : strawberry
+ 1.44% : confectionery
+ 1.38% : Granny Smith
+ 1.03% : lemon
+ 0.74% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q018.jpg
+61.84% : bell pepper
+16.28% : packet
+ 2.28% : safety pin
+ 1.73% : shopping basket
+ 1.55% : strawberry
+ 1.41% : rubber eraser
+ 1.36% : confectionery
+ 1.08% : Granny Smith
+ 0.77% : strainer
+ 0.59% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q019.jpg
+54.04% : bell pepper
+19.88% : packet
+ 3.83% : safety pin
+ 3.34% : rubber eraser
+ 2.41% : shopping basket
+ 1.46% : strawberry
+ 1.40% : confectionery
+ 1.19% : Granny Smith
+ 0.77% : strainer
+ 0.60% : corn
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q020.jpg
+63.15% : bell pepper
+14.81% : packet
+ 2.32% : safety pin
+ 1.92% : rubber eraser
+ 1.61% : strawberry
+ 1.44% : Granny Smith
+ 1.39% : confectionery
+ 1.25% : shopping basket
+ 0.97% : lemon
+ 0.74% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q021.jpg
+60.34% : bell pepper
+15.64% : packet
+ 2.59% : safety pin
+ 2.05% : rubber eraser
+ 1.53% : confectionery
+ 1.47% : strawberry
+ 1.33% : lemon
+ 1.33% : Granny Smith
+ 1.27% : shopping basket
+ 0.90% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q022.jpg
+73.62% : bell pepper
+10.31% : packet
+ 2.36% : safety pin
+ 1.27% : Granny Smith
+ 1.25% : rubber eraser
+ 0.94% : confectionery
+ 0.82% : strawberry
+ 0.82% : lemon
+ 0.73% : shopping basket
+ 0.63% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q023.jpg
+72.73% : bell pepper
+13.35% : packet
+ 1.83% : safety pin
+ 1.47% : rubber eraser
+ 0.94% : confectionery
+ 0.79% : Granny Smith
+ 0.66% : strawberry
+ 0.61% : shopping basket
+ 0.52% : lemon
+ 0.50% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q024.jpg
+70.38% : bell pepper
+11.83% : packet
+ 2.29% : safety pin
+ 1.54% : rubber eraser
+ 1.17% : confectionery
+ 1.09% : strawberry
+ 1.04% : lemon
+ 0.92% : Granny Smith
+ 0.84% : shopping basket
+ 0.57% : orange
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q025.jpg
+73.73% : bell pepper
+11.48% : packet
+ 1.74% : safety pin
+ 0.89% : rubber eraser
+ 0.88% : strawberry
+ 0.81% : confectionery
+ 0.78% : Granny Smith
+ 0.73% : lemon
+ 0.73% : shopping basket
+ 0.51% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q026.jpg
+67.54% : bell pepper
+15.47% : packet
+ 2.55% : safety pin
+ 1.44% : rubber eraser
+ 0.95% : strawberry
+ 0.88% : shopping basket
+ 0.76% : Granny Smith
+ 0.65% : lemon
+ 0.63% : confectionery
+ 0.44% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q027.jpg
+77.92% : bell pepper
+11.23% : packet
+ 1.34% : safety pin
+ 0.74% : confectionery
+ 0.70% : shopping basket
+ 0.69% : strawberry
+ 0.54% : rubber eraser
+ 0.40% : lemon
+ 0.39% : Granny Smith
+ 0.35% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q028.jpg
+72.93% : bell pepper
+14.41% : packet
+ 2.02% : safety pin
+ 0.80% : shopping basket
+ 0.80% : strawberry
+ 0.77% : confectionery
+ 0.64% : rubber eraser
+ 0.62% : Granny Smith
+ 0.45% : lemon
+ 0.36% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q029.jpg
+73.71% : bell pepper
+13.43% : packet
+ 1.78% : safety pin
+ 0.88% : strawberry
+ 0.88% : shopping basket
+ 0.87% : rubber eraser
+ 0.76% : confectionery
+ 0.67% : Granny Smith
+ 0.41% : lemon
+ 0.38% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q030.jpg
+67.85% : bell pepper
+16.55% : packet
+ 2.59% : safety pin
+ 1.35% : shopping basket
+ 1.11% : rubber eraser
+ 0.96% : strawberry
+ 0.68% : confectionery
+ 0.59% : Granny Smith
+ 0.52% : lemon
+ 0.43% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q031.jpg
+69.53% : bell pepper
+16.59% : packet
+ 1.73% : safety pin
+ 1.28% : rubber eraser
+ 0.98% : strawberry
+ 0.90% : confectionery
+ 0.82% : shopping basket
+ 0.54% : ice lolly
+ 0.48% : lemon
+ 0.48% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q032.jpg
+73.06% : bell pepper
+13.74% : packet
+ 1.83% : safety pin
+ 1.05% : rubber eraser
+ 0.97% : strawberry
+ 0.88% : confectionery
+ 0.69% : shopping basket
+ 0.64% : lemon
+ 0.54% : ice lolly
+ 0.45% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q033.jpg
+79.05% : bell pepper
+10.59% : packet
+ 1.53% : safety pin
+ 0.81% : strawberry
+ 0.62% : shopping basket
+ 0.60% : confectionery
+ 0.59% : rubber eraser
+ 0.42% : Granny Smith
+ 0.37% : lemon
+ 0.32% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q034.jpg
+76.23% : bell pepper
+11.54% : packet
+ 1.61% : safety pin
+ 0.98% : strawberry
+ 0.77% : shopping basket
+ 0.70% : rubber eraser
+ 0.69% : confectionery
+ 0.64% : Granny Smith
+ 0.58% : lemon
+ 0.35% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q035.jpg
+68.22% : bell pepper
+17.71% : packet
+ 2.35% : safety pin
+ 0.96% : strawberry
+ 0.85% : shopping basket
+ 0.70% : Granny Smith
+ 0.70% : confectionery
+ 0.66% : rubber eraser
+ 0.48% : lemon
+ 0.41% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q036.jpg
+69.71% : bell pepper
+17.25% : packet
+ 2.44% : safety pin
+ 0.96% : rubber eraser
+ 0.83% : shopping basket
+ 0.70% : strawberry
+ 0.65% : confectionery
+ 0.62% : Granny Smith
+ 0.45% : lemon
+ 0.37% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q037.jpg
+70.69% : bell pepper
+17.34% : packet
+ 1.93% : safety pin
+ 0.86% : shopping basket
+ 0.79% : strawberry
+ 0.66% : rubber eraser
+ 0.64% : Granny Smith
+ 0.62% : confectionery
+ 0.49% : lemon
+ 0.37% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q038.jpg
+70.43% : bell pepper
+17.22% : packet
+ 1.73% : safety pin
+ 0.97% : rubber eraser
+ 0.73% : strawberry
+ 0.67% : shopping basket
+ 0.66% : confectionery
+ 0.54% : lemon
+ 0.52% : Granny Smith
+ 0.36% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q039.jpg
+70.61% : bell pepper
+17.50% : packet
+ 2.04% : safety pin
+ 0.80% : rubber eraser
+ 0.72% : strawberry
+ 0.60% : confectionery
+ 0.59% : shopping basket
+ 0.47% : Granny Smith
+ 0.42% : lemon
+ 0.40% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q040.jpg
+69.86% : bell pepper
+17.43% : packet
+ 2.73% : safety pin
+ 0.71% : strawberry
+ 0.68% : shopping basket
+ 0.67% : rubber eraser
+ 0.53% : confectionery
+ 0.45% : Granny Smith
+ 0.44% : lemon
+ 0.43% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q041.jpg
+66.93% : bell pepper
+19.69% : packet
+ 2.15% : safety pin
+ 0.98% : rubber eraser
+ 0.81% : strawberry
+ 0.77% : confectionery
+ 0.77% : shopping basket
+ 0.53% : lemon
+ 0.53% : Granny Smith
+ 0.46% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q042.jpg
+62.83% : bell pepper
+21.30% : packet
+ 2.02% : safety pin
+ 1.46% : rubber eraser
+ 1.13% : strawberry
+ 0.95% : confectionery
+ 0.79% : shopping basket
+ 0.75% : lemon
+ 0.70% : Granny Smith
+ 0.57% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q043.jpg
+64.71% : bell pepper
+20.81% : packet
+ 1.77% : safety pin
+ 1.22% : rubber eraser
+ 1.02% : strawberry
+ 0.91% : confectionery
+ 0.73% : shopping basket
+ 0.70% : lemon
+ 0.63% : Granny Smith
+ 0.46% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q044.jpg
+60.78% : bell pepper
+22.43% : packet
+ 2.12% : safety pin
+ 1.48% : rubber eraser
+ 1.18% : confectionery
+ 1.12% : strawberry
+ 1.06% : shopping basket
+ 0.73% : lemon
+ 0.62% : Granny Smith
+ 0.59% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q045.jpg
+62.82% : bell pepper
+20.17% : packet
+ 2.30% : safety pin
+ 1.52% : rubber eraser
+ 1.23% : confectionery
+ 1.03% : shopping basket
+ 1.00% : strawberry
+ 0.78% : lemon
+ 0.61% : ice lolly
+ 0.59% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q046.jpg
+69.39% : bell pepper
+17.05% : packet
+ 1.48% : safety pin
+ 0.99% : confectionery
+ 0.97% : strawberry
+ 0.89% : rubber eraser
+ 0.72% : lemon
+ 0.64% : shopping basket
+ 0.58% : Granny Smith
+ 0.53% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q047.jpg
+70.90% : bell pepper
+16.59% : packet
+ 1.54% : safety pin
+ 0.93% : confectionery
+ 0.86% : strawberry
+ 0.72% : rubber eraser
+ 0.61% : lemon
+ 0.58% : shopping basket
+ 0.51% : Granny Smith
+ 0.48% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q048.jpg
+72.42% : bell pepper
+14.64% : packet
+ 1.40% : safety pin
+ 0.98% : strawberry
+ 0.94% : confectionery
+ 0.74% : lemon
+ 0.71% : rubber eraser
+ 0.61% : Granny Smith
+ 0.56% : shopping basket
+ 0.50% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q049.jpg
+72.26% : bell pepper
+15.00% : packet
+ 2.13% : safety pin
+ 0.93% : confectionery
+ 0.85% : strawberry
+ 0.85% : rubber eraser
+ 0.58% : Granny Smith
+ 0.55% : shopping basket
+ 0.55% : lemon
+ 0.47% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q050.jpg
+71.96% : bell pepper
+15.09% : packet
+ 1.97% : safety pin
+ 0.95% : confectionery
+ 0.91% : strawberry
+ 0.85% : rubber eraser
+ 0.62% : Granny Smith
+ 0.60% : lemon
+ 0.56% : shopping basket
+ 0.49% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q051.jpg
+71.72% : bell pepper
+14.89% : packet
+ 2.10% : safety pin
+ 1.03% : confectionery
+ 0.94% : rubber eraser
+ 0.88% : strawberry
+ 0.62% : shopping basket
+ 0.61% : Granny Smith
+ 0.59% : lemon
+ 0.49% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q052.jpg
+67.76% : bell pepper
+17.33% : packet
+ 2.05% : safety pin
+ 1.41% : rubber eraser
+ 1.16% : confectionery
+ 0.91% : strawberry
+ 0.72% : ice lolly
+ 0.67% : shopping basket
+ 0.67% : Granny Smith
+ 0.62% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q053.jpg
+66.74% : bell pepper
+17.41% : packet
+ 1.91% : safety pin
+ 1.47% : rubber eraser
+ 1.26% : confectionery
+ 1.03% : strawberry
+ 0.86% : lemon
+ 0.81% : Granny Smith
+ 0.72% : ice lolly
+ 0.60% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q054.jpg
+65.07% : bell pepper
+18.16% : packet
+ 1.87% : safety pin
+ 1.65% : rubber eraser
+ 1.43% : confectionery
+ 1.06% : strawberry
+ 0.88% : lemon
+ 0.79% : Granny Smith
+ 0.70% : ice lolly
+ 0.70% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q055.jpg
+69.55% : bell pepper
+15.53% : packet
+ 1.72% : safety pin
+ 1.36% : confectionery
+ 1.21% : rubber eraser
+ 0.86% : strawberry
+ 0.72% : lemon
+ 0.66% : shopping basket
+ 0.63% : ice lolly
+ 0.63% : Granny Smith
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q056.jpg
+71.85% : bell pepper
+14.52% : packet
+ 1.43% : safety pin
+ 1.26% : confectionery
+ 1.04% : rubber eraser
+ 0.84% : strawberry
+ 0.68% : lemon
+ 0.66% : Granny Smith
+ 0.60% : ice lolly
+ 0.57% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q057.jpg
+69.57% : bell pepper
+15.21% : packet
+ 1.58% : safety pin
+ 1.45% : confectionery
+ 1.21% : rubber eraser
+ 0.93% : strawberry
+ 0.82% : lemon
+ 0.77% : Granny Smith
+ 0.76% : ice lolly
+ 0.60% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q058.jpg
+70.65% : bell pepper
+14.38% : packet
+ 2.04% : safety pin
+ 1.32% : confectionery
+ 1.04% : rubber eraser
+ 0.90% : strawberry
+ 0.85% : Granny Smith
+ 0.79% : lemon
+ 0.70% : ice lolly
+ 0.60% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q059.jpg
+70.48% : bell pepper
+14.08% : packet
+ 2.30% : safety pin
+ 1.35% : confectionery
+ 0.99% : strawberry
+ 0.96% : rubber eraser
+ 0.90% : Granny Smith
+ 0.77% : lemon
+ 0.67% : ice lolly
+ 0.60% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q060.jpg
+69.20% : bell pepper
+14.76% : packet
+ 2.11% : safety pin
+ 1.51% : confectionery
+ 1.06% : strawberry
+ 1.04% : rubber eraser
+ 0.90% : Granny Smith
+ 0.80% : lemon
+ 0.76% : ice lolly
+ 0.62% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q061.jpg
+68.45% : bell pepper
+14.88% : packet
+ 2.59% : safety pin
+ 1.29% : confectionery
+ 1.15% : rubber eraser
+ 1.03% : strawberry
+ 0.93% : Granny Smith
+ 0.89% : lemon
+ 0.70% : ice lolly
+ 0.58% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q062.jpg
+69.92% : bell pepper
+13.74% : packet
+ 2.60% : safety pin
+ 1.16% : rubber eraser
+ 1.15% : confectionery
+ 1.05% : strawberry
+ 1.00% : Granny Smith
+ 0.90% : lemon
+ 0.80% : ice lolly
+ 0.52% : strainer
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q063.jpg
+70.69% : bell pepper
+12.66% : packet
+ 2.45% : safety pin
+ 1.23% : confectionery
+ 1.11% : rubber eraser
+ 1.09% : strawberry
+ 1.05% : Granny Smith
+ 0.91% : lemon
+ 0.75% : ice lolly
+ 0.52% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q064.jpg
+73.06% : bell pepper
+12.00% : packet
+ 1.72% : safety pin
+ 1.18% : confectionery
+ 1.09% : strawberry
+ 0.99% : Granny Smith
+ 0.80% : lemon
+ 0.72% : rubber eraser
+ 0.64% : ice lolly
+ 0.51% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q065.jpg
+71.42% : bell pepper
+13.87% : packet
+ 1.79% : safety pin
+ 1.12% : strawberry
+ 1.11% : confectionery
+ 0.91% : Granny Smith
+ 0.65% : lemon
+ 0.64% : ice lolly
+ 0.58% : rubber eraser
+ 0.53% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q066.jpg
+68.67% : bell pepper
+15.43% : packet
+ 1.77% : safety pin
+ 1.27% : confectionery
+ 1.21% : strawberry
+ 0.89% : Granny Smith
+ 0.77% : rubber eraser
+ 0.70% : ice lolly
+ 0.68% : lemon
+ 0.55% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q067.jpg
+64.84% : bell pepper
+16.78% : packet
+ 2.51% : safety pin
+ 1.43% : confectionery
+ 1.27% : strawberry
+ 1.06% : rubber eraser
+ 0.95% : Granny Smith
+ 0.89% : ice lolly
+ 0.80% : lemon
+ 0.61% : shopping basket
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q068.jpg
+70.67% : bell pepper
+13.93% : packet
+ 2.11% : safety pin
+ 1.13% : confectionery
+ 1.10% : strawberry
+ 0.80% : rubber eraser
+ 0.76% : Granny Smith
+ 0.71% : ice lolly
+ 0.62% : shopping basket
+ 0.59% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q069.jpg
+72.28% : bell pepper
+13.18% : packet
+ 1.91% : safety pin
+ 1.20% : confectionery
+ 0.99% : strawberry
+ 0.72% : rubber eraser
+ 0.68% : Granny Smith
+ 0.62% : shopping basket
+ 0.62% : ice lolly
+ 0.56% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q070.jpg
+74.08% : bell pepper
+13.07% : packet
+ 1.38% : safety pin
+ 1.00% : confectionery
+ 0.88% : strawberry
+ 0.71% : rubber eraser
+ 0.61% : shopping basket
+ 0.60% : Granny Smith
+ 0.50% : grocery store
+ 0.47% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q071.jpg
+71.08% : bell pepper
+13.96% : packet
+ 1.60% : safety pin
+ 1.22% : confectionery
+ 1.15% : rubber eraser
+ 0.97% : strawberry
+ 0.73% : shopping basket
+ 0.65% : Granny Smith
+ 0.63% : ice lolly
+ 0.54% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q072.jpg
+70.12% : bell pepper
+15.03% : packet
+ 1.68% : safety pin
+ 1.13% : confectionery
+ 1.05% : strawberry
+ 0.92% : rubber eraser
+ 0.74% : shopping basket
+ 0.73% : Granny Smith
+ 0.58% : ice lolly
+ 0.56% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q073.jpg
+70.80% : bell pepper
+14.15% : packet
+ 1.71% : safety pin
+ 1.11% : confectionery
+ 1.10% : strawberry
+ 0.99% : rubber eraser
+ 0.73% : Granny Smith
+ 0.70% : shopping basket
+ 0.59% : lemon
+ 0.56% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q074.jpg
+73.88% : bell pepper
+12.50% : packet
+ 1.33% : safety pin
+ 1.10% : strawberry
+ 1.08% : confectionery
+ 0.78% : Granny Smith
+ 0.77% : rubber eraser
+ 0.63% : shopping basket
+ 0.55% : lemon
+ 0.51% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q075.jpg
+74.26% : bell pepper
+12.14% : packet
+ 1.31% : safety pin
+ 1.11% : strawberry
+ 1.09% : confectionery
+ 0.77% : Granny Smith
+ 0.74% : rubber eraser
+ 0.64% : shopping basket
+ 0.54% : lemon
+ 0.51% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q076.jpg
+71.23% : bell pepper
+13.50% : packet
+ 1.36% : safety pin
+ 1.35% : strawberry
+ 1.29% : confectionery
+ 0.88% : rubber eraser
+ 0.84% : Granny Smith
+ 0.72% : shopping basket
+ 0.58% : lemon
+ 0.53% : ice lolly
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q077.jpg
+71.30% : bell pepper
+14.40% : packet
+ 1.34% : safety pin
+ 1.20% : strawberry
+ 1.13% : confectionery
+ 0.79% : Granny Smith
+ 0.76% : rubber eraser
+ 0.73% : shopping basket
+ 0.59% : lemon
+ 0.56% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q078.jpg
+68.99% : bell pepper
+15.27% : packet
+ 1.74% : safety pin
+ 1.39% : strawberry
+ 1.15% : confectionery
+ 0.83% : Granny Smith
+ 0.77% : shopping basket
+ 0.71% : rubber eraser
+ 0.63% : lemon
+ 0.61% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q079.jpg
+68.69% : bell pepper
+14.98% : packet
+ 2.08% : safety pin
+ 1.46% : strawberry
+ 1.01% : confectionery
+ 0.86% : Granny Smith
+ 0.79% : shopping basket
+ 0.74% : rubber eraser
+ 0.61% : ice lolly
+ 0.61% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q080.jpg
+67.30% : bell pepper
+16.62% : packet
+ 2.00% : safety pin
+ 1.22% : strawberry
+ 1.11% : confectionery
+ 0.92% : shopping basket
+ 0.87% : rubber eraser
+ 0.70% : Granny Smith
+ 0.59% : ice lolly
+ 0.57% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q081.jpg
+67.04% : bell pepper
+17.06% : packet
+ 1.66% : safety pin
+ 1.36% : strawberry
+ 1.21% : confectionery
+ 0.90% : rubber eraser
+ 0.87% : Granny Smith
+ 0.75% : ice lolly
+ 0.70% : shopping basket
+ 0.54% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q082.jpg
+67.38% : bell pepper
+16.83% : packet
+ 1.51% : safety pin
+ 1.33% : strawberry
+ 1.29% : confectionery
+ 0.94% : rubber eraser
+ 0.93% : Granny Smith
+ 0.75% : ice lolly
+ 0.70% : shopping basket
+ 0.54% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q083.jpg
+67.90% : bell pepper
+16.85% : packet
+ 1.66% : safety pin
+ 1.17% : rubber eraser
+ 1.07% : strawberry
+ 1.06% : confectionery
+ 0.93% : Granny Smith
+ 0.80% : ice lolly
+ 0.63% : shopping basket
+ 0.51% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q084.jpg
+68.85% : bell pepper
+15.65% : packet
+ 2.19% : safety pin
+ 1.09% : rubber eraser
+ 1.00% : confectionery
+ 0.95% : strawberry
+ 0.78% : Granny Smith
+ 0.77% : ice lolly
+ 0.64% : shopping basket
+ 0.47% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q085.jpg
+66.47% : bell pepper
+17.42% : packet
+ 1.58% : safety pin
+ 1.18% : rubber eraser
+ 1.18% : strawberry
+ 1.17% : confectionery
+ 1.08% : ice lolly
+ 0.98% : Granny Smith
+ 0.65% : shopping basket
+ 0.49% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q086.jpg
+65.91% : bell pepper
+17.40% : packet
+ 1.47% : safety pin
+ 1.33% : confectionery
+ 1.30% : strawberry
+ 1.17% : rubber eraser
+ 1.08% : Granny Smith
+ 1.05% : ice lolly
+ 0.65% : shopping basket
+ 0.60% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q087.jpg
+62.85% : bell pepper
+20.12% : packet
+ 1.40% : strawberry
+ 1.39% : confectionery
+ 1.39% : safety pin
+ 1.13% : Granny Smith
+ 1.10% : rubber eraser
+ 1.00% : ice lolly
+ 0.73% : shopping basket
+ 0.62% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q088.jpg
+62.59% : bell pepper
+20.00% : packet
+ 1.63% : safety pin
+ 1.52% : confectionery
+ 1.38% : rubber eraser
+ 1.34% : strawberry
+ 0.97% : Granny Smith
+ 0.95% : ice lolly
+ 0.76% : shopping basket
+ 0.61% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q089.jpg
+64.73% : bell pepper
+19.18% : packet
+ 1.66% : safety pin
+ 1.38% : confectionery
+ 1.22% : strawberry
+ 1.15% : rubber eraser
+ 0.88% : Granny Smith
+ 0.82% : ice lolly
+ 0.76% : shopping basket
+ 0.54% : grocery store
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q090.jpg
+67.33% : bell pepper
+17.19% : packet
+ 1.44% : confectionery
+ 1.27% : strawberry
+ 1.25% : safety pin
+ 1.00% : rubber eraser
+ 0.90% : Granny Smith
+ 0.82% : ice lolly
+ 0.75% : shopping basket
+ 0.56% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q091.jpg
+68.09% : bell pepper
+16.42% : packet
+ 1.53% : confectionery
+ 1.47% : strawberry
+ 1.18% : safety pin
+ 1.09% : Granny Smith
+ 0.92% : rubber eraser
+ 0.84% : ice lolly
+ 0.77% : shopping basket
+ 0.54% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q092.jpg
+66.42% : bell pepper
+15.38% : packet
+ 2.26% : rubber eraser
+ 1.59% : strawberry
+ 1.51% : confectionery
+ 1.41% : Granny Smith
+ 1.09% : ice lolly
+ 0.82% : shopping basket
+ 0.80% : safety pin
+ 0.70% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q093.jpg
+60.41% : bell pepper
+19.66% : packet
+ 2.30% : rubber eraser
+ 1.82% : strawberry
+ 1.79% : confectionery
+ 1.54% : Granny Smith
+ 1.22% : ice lolly
+ 1.06% : shopping basket
+ 0.97% : safety pin
+ 0.67% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q094.jpg
+62.66% : bell pepper
+19.38% : packet
+ 1.79% : rubber eraser
+ 1.71% : strawberry
+ 1.57% : confectionery
+ 1.24% : Granny Smith
+ 1.23% : ice lolly
+ 0.91% : safety pin
+ 0.79% : shopping basket
+ 0.57% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q095.jpg
+60.49% : bell pepper
+20.15% : packet
+ 2.13% : rubber eraser
+ 1.91% : strawberry
+ 1.66% : confectionery
+ 1.40% : ice lolly
+ 1.33% : Granny Smith
+ 0.85% : safety pin
+ 0.77% : shopping basket
+ 0.69% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q096.jpg
+62.91% : bell pepper
+18.63% : packet
+ 2.09% : rubber eraser
+ 1.62% : strawberry
+ 1.58% : confectionery
+ 1.35% : ice lolly
+ 1.18% : Granny Smith
+ 1.00% : safety pin
+ 0.73% : shopping basket
+ 0.66% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q097.jpg
+67.23% : bell pepper
+16.12% : packet
+ 1.71% : rubber eraser
+ 1.53% : strawberry
+ 1.47% : confectionery
+ 1.12% : ice lolly
+ 1.00% : Granny Smith
+ 0.97% : safety pin
+ 0.68% : shopping basket
+ 0.61% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q098.jpg
+64.99% : bell pepper
+17.62% : packet
+ 1.82% : rubber eraser
+ 1.60% : strawberry
+ 1.57% : confectionery
+ 1.28% : ice lolly
+ 1.05% : Granny Smith
+ 1.01% : safety pin
+ 0.67% : shopping basket
+ 0.58% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q099.jpg
+65.64% : bell pepper
+17.32% : packet
+ 1.66% : strawberry
+ 1.55% : rubber eraser
+ 1.44% : confectionery
+ 1.27% : ice lolly
+ 1.05% : Granny Smith
+ 0.97% : safety pin
+ 0.66% : shopping basket
+ 0.60% : lemon
+1.13.1
+Downloading Inception v3 Model ...
+Data has apparently already been downloaded and unpacked.
+veggies/peppers/pepper6Q100.jpg
+66.15% : bell pepper
+17.78% : packet
+ 1.59% : rubber eraser
+ 1.39% : strawberry
+ 1.34% : confectionery
+ 1.13% : ice lolly
+ 1.02% : safety pin
+ 0.93% : Granny Smith
+ 0.66% : shopping basket
+ 0.55% : lemon
